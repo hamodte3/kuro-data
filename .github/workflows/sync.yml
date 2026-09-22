@@ -2,8 +2,24 @@ name: Auto Sync Manga
 
 on:
   schedule:
-    - cron: '0 */3 * * *' # يعمل تلقائياً كل 3 ساعات
-  workflow_dispatch:      # يتيح زر تشغيل يدوي متى ما أردت
+    # ⏰ يعمل تلقائياً كل 3 ساعات بالضبط بالدقيقة 0
+    - cron: '0 */3 * * *'
+  
+  # 🎯 تشغيل يدوي ذكي: يتيح لك اختيار تشغيل كل السكربتات أو سكربت محدد فقط للتجربة
+  workflow_dispatch:
+    inputs:
+      target_source:
+        description: 'اختر المصدر المراد تحديثه:'
+        required: true
+        default: 'all'
+        type: choice
+        options:
+          - all
+          - azora
+          - ashiq
+          - despair
+          - kolnovel
+          - mangatime
 
 jobs:
   update-manga:
@@ -19,21 +35,41 @@ jobs:
         uses: actions/setup-python@v5
         with:
           python-version: '3.11'
+          cache: 'pip'
 
       - name: Install Libraries
         run: pip install -r requirements.txt
 
-      - name: Run All Sync Scripts
-        run: |
-          python sync.py
-          python sync_ashiq.py
-          python sync_despair.py
-          python sync_kolnovel.py
-          python sync_mangatime.py
+      # 🎯 عزل السكربتات: continue-on-error يضمن استمرار التحديث حتى لو تعطل أحد المواقع
+      - name: Sync Azora
+        if: ${{ github.event.inputs.target_source == 'all' || github.event.inputs.target_source == 'azora' || github.event_name == 'schedule' }}
+        continue-on-error: true
+        run: python sync.py
 
+      - name: Sync Ashiq
+        if: ${{ github.event.inputs.target_source == 'all' || github.event.inputs.target_source == 'ashiq' || github.event_name == 'schedule' }}
+        continue-on-error: true
+        run: python sync_ashiq.py
+
+      - name: Sync Despair
+        if: ${{ github.event.inputs.target_source == 'all' || github.event.inputs.target_source == 'despair' || github.event_name == 'schedule' }}
+        continue-on-error: true
+        run: python sync_despair.py
+
+      - name: Sync KolNovel
+        if: ${{ github.event.inputs.target_source == 'all' || github.event.inputs.target_source == 'kolnovel' || github.event_name == 'schedule' }}
+        continue-on-error: true
+        run: python sync_kolnovel.py
+
+      - name: Sync MangaTime
+        if: ${{ github.event.inputs.target_source == 'all' || github.event.inputs.target_source == 'mangatime' || github.event_name == 'schedule' }}
+        continue-on-error: true
+        run: python sync_mangatime.py
+
+      # 🎯 حفظ التعديلات ودفعها بأمان
       - name: Commit and Push Changes
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git add data/
-          git diff --staged --quiet || (git commit -m "Auto update: All 7 manga sources" && git push)
+          git diff --staged --quiet || (git commit -m "Auto update: Active manga sources" && git pull --rebase && git push)
