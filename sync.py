@@ -27,6 +27,9 @@ def get_session():
     return requests.Session(impersonate="chrome120", headers=HEADERS)
 
 def normalize_url(url: str) -> str:
+    url = url.strip()
+    if not url.startswith("http"):
+        url = f"{BASE_URL}{url}" if url.startswith("/") else f"{BASE_URL}/{url}"
     return (
         url.replace("http://", "https://")
         .replace("azoramanga.com", "azorafly.com")
