@@ -9,21 +9,29 @@ BASE_URL = "https://olympustaff.com"
 DATA_DIR = os.path.join("data", "teamx")
 CATALOG_FILE = os.path.join(DATA_DIR, "catalog.json")
 
-DETAILS_SYNC_LIMIT = 20   # تجهيز بيانات وفصول أفضل 20 عملاً
-MAX_PAGES_SAFETY = 35     # عدد صفحات الفهرس لتغطية مكتبة تيم إكس
+DETAILS_SYNC_LIMIT = 20
+MAX_PAGES_SAFETY = 35
 
 os.makedirs(DATA_DIR, exist_ok=True)
 
+# 🎯 ترويسات كاملة مطابقة لـ Chrome 124 مع Sec-Ch-Ua لتجاوز كشف الداتاسنتر
 HEADERS = {
-    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
-    "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8",
-    "Accept-Language": "ar,en-US;q=0.8,en;q=0.5",
+    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36",
+    "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8",
+    "Accept-Language": "ar,en-US;q=0.9,en;q=0.8",
     "Referer": f"{BASE_URL}/",
-    "Connection": "keep-alive"
+    "Sec-Ch-Ua": '"Chromium";v="124", "Google Chrome";v="124", "Not-A.Brand";v="99"',
+    "Sec-Ch-Ua-Mobile": "?0",
+    "Sec-Ch-Ua-Platform": '"Windows"',
+    "Sec-Fetch-Dest": "document",
+    "Sec-Fetch-Mode": "navigate",
+    "Sec-Fetch-Site": "same-origin",
+    "Sec-Fetch-User": "?1",
+    "Upgrade-Insecure-Requests": "1"
 }
 
 def get_session():
-    return requests.Session(impersonate="chrome120", headers=HEADERS)
+    return requests.Session(impersonate="chrome124", headers=HEADERS)
 
 def normalize_url(raw_url: str) -> str:
     trimmed = raw_url.strip()
@@ -72,12 +80,10 @@ def format_status(raw_status: str) -> str:
     return "مستمر"
 
 def extract_chapters_teamx(soup: BeautifulSoup, html: str, series_slug: str) -> dict:
-    """استخراج الفصول مع خوارزمية سد الفجوات الذكية (Gap Filling)"""
     chapters_map = {}
     number_regex = re.compile(r"\d+(\.\d+)?")
     existing_numbers = set()
 
-    # 1. التقاط الفصول المعروضة في البطاقات
     cards = soup.select("div.enhanced-chapters-grid div.chapter-card a.chapter-link, div.chapter-card a.chapter-link")
     for el in cards:
         href = normalize_url(el.get("href", ""))
@@ -92,7 +98,6 @@ def extract_chapters_teamx(soup: BeautifulSoup, html: str, series_slug: str) -> 
             if val is not None:
                 existing_numbers.add(val)
 
-    # 2. فحص أزرار أول وآخر فصل
     for a in soup.select("div.lastend .inepcx a"):
         href = normalize_url(a.get("href", ""))
         if f"/series/{series_slug}/" in href:
@@ -106,7 +111,6 @@ def extract_chapters_teamx(soup: BeautifulSoup, html: str, series_slug: str) -> 
             if val is not None:
                 existing_numbers.add(val)
 
-    # 3. تحديد الحد الأقصى للفصول وسد النواقص
     max_chapter = max(existing_numbers) if existing_numbers else 0
     min_chapter = min(existing_numbers) if existing_numbers else 1
 
@@ -115,21 +119,18 @@ def extract_chapters_teamx(soup: BeautifulSoup, html: str, series_slug: str) -> 
     if total_count > max_chapter:
         max_chapter = total_count
 
-    # تعويض الفصول الأولى إذا كانت ناقصة
     if min_chapter > 1:
         for i in range(1, min_chapter):
             ch_url = f"{BASE_URL}/series/{series_slug}/{i}"
             if ch_url not in chapters_map:
                 chapters_map[ch_url] = {"name": str(i)}
 
-    # سد أي فجوات تسلسلية حتى آخر فصل
     if max_chapter > 0:
         for i in range(1, max_chapter + 1):
             ch_url = f"{BASE_URL}/series/{series_slug}/{i}"
             if ch_url not in chapters_map:
                 chapters_map[ch_url] = {"name": str(i)}
 
-    # فحص الفصل التمهيدي 0
     if any(k in html for k in ["الفصل 0", "فصل تمهيدي", "مقدمة"]):
         ch_0_url = f"{BASE_URL}/series/{series_slug}/0"
         if ch_0_url not in chapters_map:
@@ -202,13 +203,19 @@ def fetch_teamx_catalog(session) -> list:
     page = 1
 
     while page <= MAX_PAGES_SAFETY:
-        url = f"{BASE_URL}/series" if page == 1 else f"{BASE_URL}/series?page={page}"
+        # استخدام /series/ لتفادي مشاكل التحويل
+        url = f"{BASE_URL}/series/" if page == 1 else f"{BASE_URL}/series/?page={page}"
         try:
             res = session.get(url, timeout=20)
             soup = BeautifulSoup(res.text, "html.parser")
-            cards = soup.select("div.listupd div.bsx, div.bsx")
+            page_title = soup.title.text.strip() if soup.title else "بدون عنوان"
+            
+            # كشف محتوى الصفحة في اللوج للتأكد من حالة الاستجابة
+            print(f"تيم إكس [صفحة {page}]: كود {res.status_code} | عنوان الصفحة: '{page_title}'")
 
+            cards = soup.select("div.listupd div.bsx, div.bsx, div.animepost, div.series-card")
             if not cards:
+                print(f"لم يتم العثور على بطاقات في صفحة {page}. معاينة المحتوى: {res.text[:150]}")
                 break
 
             new_in_page = 0
@@ -251,12 +258,12 @@ def fetch_teamx_catalog(session) -> list:
                     })
                     new_in_page += 1
 
-            print(f"تيم إكس [صفحة {page}]: تم فهرسة {new_in_page} عمل (المجموع: {len(catalog)})")
+            print(f"✓ تم فهرسة {new_in_page} عمل من صفحة {page} (المجموع: {len(catalog)})")
             if new_in_page == 0:
                 break
 
             page += 1
-            time.sleep(0.2)
+            time.sleep(0.3)
         except Exception as e:
             print(f"خطأ أثناء سحب صفحة {page}: {e}")
             break
