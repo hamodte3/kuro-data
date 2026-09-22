@@ -151,7 +151,7 @@ def scrape_manga_details_despair(session, manga_url: str):
     manga_type = format_type("رواية" if is_novel else (raw_type or (genres[0] if genres else "مانغا")))
 
     meta_time = soup.select_one("meta[property='article:modified_time']")
-    last_update = meta_time.get("content", "").split("T")[0] if meta_img else ""
+    last_update = meta_time.get("content", "").split("T")[0] if meta_time else ""
 
     chapters_map = extract_chapters_despair(soup)
     slug = valid_url.rstrip("/").split("/")[-1]
