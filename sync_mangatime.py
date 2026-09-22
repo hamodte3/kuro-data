@@ -82,68 +82,35 @@ def format_last_update(raw_date: str) -> str:
     if not raw_date: return ""
     return raw_date.split("T")[0].strip()
 
-def scrape_manga_details_mangatime(session, slug: str):
-    """جلب تفاصيل العمل وفصوله مباشرة عبر JSON API"""
+def scrape_manga_details_mangatime(session, catalog_item: dict):
+    slug = catalog_item["id"]
     info_input = {"0": {"json": {"slug": slug}}}
     series_data = fetch_trpc(session, "content.getSeriesBySlug", info_input) or {}
 
-    title = series_data.get("title") or "بدون عنوان"
-    cover_url = series_data.get("coverUrl") or series_data.get("cover") or series_data.get("bannerUrl") or ""
+    title = series_data.get("title") or catalog_item.get("title") or "بدون عنوان"
+    cover_url = series_data.get("coverUrl") or series_data.get("cover") or series_data.get("bannerUrl") or catalog_item.get("cover_url") or ""
     if cover_url.startswith("/"):
         cover_url = f"{BASE_URL}{cover_url}"
 
     description = series_data.get("description") or series_data.get("synopsis") or "لا يوجد وصف"
-    raw_type = series_data.get("type", "")
-    raw_status = series_data.get("status", "")
+    raw_type = series_data.get("type") or catalog_item.get("type", "")
+    raw_status = series_data.get("status") or catalog_item.get("status", "")
     is_novel = "رواية" in raw_type or "novel" in raw_type.lower() or "رواية" in title
 
     stats = series_data.get("stats") or {}
-    raw_rating = stats.get("rating") or series_data.get("rating") or ""
+    raw_rating = stats.get("rating") or series_data.get("rating") or catalog_item.get("rating") or ""
     favorites = str(stats.get("favorites") or series_data.get("favorites") or "")
     last_update = format_last_update(series_data.get("updatedAt", ""))
 
     genres = [g.get("name") for g in series_data.get("genres", []) if isinstance(g, dict) and g.get("name")]
 
-    # جلب قائمة الفصول
-    chapters_input = {
-        "0": {
-            "json": {
-                "seriesSlug": slug,
-                "limit": 10000,
-                "page": 1,
-                "sortBy": "number-desc"
-            }
-        }
+    # 🎯 التوليد السحري المباشر: سطر واحد ينهي أزمة الفصول كلها
+    total_chapters = int(stats.get("chapterCount") or series_data.get("chapterCount") or 0)
+    
+    chapters_map = {
+        f"{BASE_URL}/manga/{slug}/chapter/{i}": {"name": str(i)}
+        for i in range(total_chapters, 0, -1)
     }
-    chapters_data = fetch_trpc(session, "content.getChapters", chapters_input)
-    chapters_array = extract_items_list(chapters_data)
-
-    chapters_map = {}
-    number_regex = re.compile(r"\d+(\.\d+)?")
-
-    if chapters_array:
-        for ch in chapters_array:
-            if not isinstance(ch, dict): continue
-            ch_num = str(ch.get("number", "")).strip()
-            ch_title = str(ch.get("title", "") or "").strip()
-
-            raw_name = f"{ch_num}: {ch_title}" if ch_title and ch_title != "null" else ch_num
-            match = number_regex.search(raw_name)
-            if match:
-                val = float(match.group(0))
-                clean_name = str(int(val)) if val.is_integer() else str(val)
-            else:
-                clean_name = ch_num if ch_num else "0"
-
-            # تطابق التنسيق المخصص لتطبيق كورو (slug|chapterNum)
-            chapter_key = f"{slug}|{ch_num}"
-            chapters_map[chapter_key] = {"name": clean_name}
-    else:
-        # مسار التعويض الذكي إذا كانت القائمة مخفية بالقفل
-        total_count = stats.get("chapterCount") or series_data.get("chapterCount") or 0
-        if total_count > 0:
-            for i in range(total_count, 0, -1):
-                chapters_map[f"{slug}|{i}"] = {"name": str(i)}
 
     return {
         "id": slug,
