@@ -9,8 +9,8 @@ BASE_URL = "https://azorafly.com"
 DATA_DIR = "data"
 CATALOG_FILE = os.path.join(DATA_DIR, "catalog.json")
 
-FULL_SYNC_LIMIT = 15       # أفضل 15 عملاً تسحب فصولها وصورها بالكامل
-CATALOG_PAGES = 3          # عدد صفحات الفهرس (تسحب حوالي 60-70 عملاً كبطاقات بحث)
+FULL_SYNC_LIMIT = 15      # أول 15 عملاً تسحب فصولها وصورها بالكامل
+MAX_PAGES_SAFETY = 150    # حد أمان لصفحات الفهرس حتى لا يدخل في حلقة لا نهائية
 
 os.makedirs(DATA_DIR, exist_ok=True)
 
@@ -128,18 +128,24 @@ def scrape_chapter_images(session, chapter_url: str) -> list:
         print(f"خطأ أثناء سحب صور {chapter_url}: {e}")
         return []
 
-def fetch_catalog(session, pages_count=3) -> list:
-    """بناء الفهرس العام السريع للأعمال"""
-    print(f"جاري سحب الفهرس من {pages_count} صفحات...")
+def fetch_full_catalog(session) -> list:
+    """أرشفة كل أعمال الموقع عبر تصفح صفحات الفهرس حتى آخر صفحة"""
+    print("بدء أرشفة الفهرس العام للموقع بالكامل...")
     catalog = []
-    
-    for page in range(1, pages_count + 1):
+    page = 1
+
+    while page <= MAX_PAGES_SAFETY:
         url = f"{BASE_URL}/series" if page == 1 else f"{BASE_URL}/series?page={page}"
         try:
             res = session.get(url, timeout=25)
             soup = BeautifulSoup(res.text, "html.parser")
             cards = soup.select("div:has(a.text-foreground[href^='/series/'])")
 
+            if not cards:
+                print(f"لا توجد بطاقات إضافية في صفحة {page}. انتهت الفهرسة.")
+                break
+
+            new_in_page = 0
             for container in cards:
                 link = container.select_one("a.text-foreground[href^='/series/']:not([href*='/chapter'])")
                 if not link: continue
@@ -156,17 +162,33 @@ def fetch_catalog(session, pages_count=3) -> list:
                     cover = cover_el.get("src", "").strip() if cover_el else ""
                     if cover and not cover.startswith("http"): cover = f"{BASE_URL}{cover}"
 
+                    is_novel = container.select("span").any(
+                        lambda it: it.text.strip() == "رواية" and ("blue" in it.get("class", []))
+                    ) if hasattr(container.select("span"), 'any') else False
+
                     catalog.append({
                         "id": slug,
                         "title": title,
                         "url": manga_url,
                         "cover_url": cover.replace("http://", "https://"),
-                        "is_fully_cached": False
+                        "is_fully_cached": False,
+                        "type": "رواية" if is_novel else "مانهوا"
                     })
-        except Exception as e:
-            print(f"خطأ أثناء سحب صفحة {page}: {e}")
+                    new_in_page += 1
 
-    print(f"تم تسجيل {len(catalog)} عمل في الفهرس العام.")
+            print(f"صفحة [{page}]: تم فهرسة {new_in_page} عمل (المجموع الحالي: {len(catalog)})")
+            
+            # إذا لم يُضف أي عمل جديد في هذه الصفحة، فهذا يعني أننا وصلنا للنهاية
+            if new_in_page == 0:
+                break
+
+            page += 1
+            time.sleep(0.3) # تأخير خفيف جداً بين الصفحات لسرعة الأداء
+        except Exception as e:
+            print(f"خطأ في صفحة {page}: {e}")
+            break
+
+    print(f"\nتم الانتهاء من الفهرس العام! إجمالي الأعمال المفهرسة: {len(catalog)}")
     return catalog
 
 def scrape_manga_details(session, manga_url: str):
@@ -258,11 +280,13 @@ def scrape_manga_details(session, manga_url: str):
         "chapters_to_sync": chapters_list
     }
 
-def sync_hybrid():
+def sync_hybrid_all():
     session = get_session()
-    catalog = fetch_catalog(session, pages_count=CATALOG_PAGES)
     
-    # معالجة أول 15 عملاً فقط بشكل تفصيلي مع الصور
+    # 1. سحب الفهرس الشامل لكل الأعمال
+    catalog = fetch_full_catalog(session)
+    
+    # 2. معالجة تفصيلية لأول 15 عملاً نشطاً فقط (سحب فصول وصور)
     top_15 = catalog[:FULL_SYNC_LIMIT]
 
     for index, item in enumerate(top_15, 1):
@@ -302,7 +326,7 @@ def sync_hybrid():
             with open(file_path, "w", encoding="utf-8") as f:
                 json.dump(existing_data, f, ensure_ascii=False, indent=2)
 
-            # وسم العمل في الفهرس بأنه مخزن بالكامل مع آخر البيانات
+            # تحديث وسم الـ 15 عملاً داخل الفهرس بأنها مخزنة بالكامل
             item["is_fully_cached"] = True
             item["type"] = details["type"]
             item["status"] = details["status"]
@@ -310,17 +334,17 @@ def sync_hybrid():
             item["latest_chapter"] = details["chapters_to_sync"][0]["name"] if details["chapters_to_sync"] else ""
             item["last_update"] = details["last_update"]
 
-            print(f"تم حفظ {slug} (فصول جديدة: {new_chapters})")
-            time.sleep(1)
+            print(f"تم تخزين {slug} بنجاح (فصول جديدة: {new_chapters})")
+            time.sleep(0.5)
 
         except Exception as e:
             print(f"خطأ أثناء معالجة {slug}: {e}")
 
-    # حفظ الفهرس العام
+    # 3. حفظ الفهرس العام لكل أعمال الموقع
     with open(CATALOG_FILE, "w", encoding="utf-8") as f:
         json.dump(catalog, f, ensure_ascii=False, indent=2)
 
-    print(f"\nاكتملت المزامنة بنجاح! تم أرشفة أفضل 15 عملاً + بناء فهرس لـ {len(catalog)} عمل.")
+    print(f"\nاكتملت العملية بنجاح! تم أرشفة {len(catalog)} عمل في {CATALOG_FILE} ومزامنة أفضل 15 عملاً بالكامل.")
 
 if __name__ == "__main__":
-    sync_hybrid()
+    sync_hybrid_all()
