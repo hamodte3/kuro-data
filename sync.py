@@ -9,14 +9,15 @@ BASE_URL = "https://azorafly.com"
 DATA_DIR = "data"
 CATALOG_FILE = os.path.join(DATA_DIR, "catalog.json")
 
-FULL_SYNC_LIMIT = 15      # أول 15 عملاً تسحب فصولها وصورها بالكامل
-MAX_PAGES_SAFETY = 150    # حد أمان لصفحات الفهرس حتى لا يدخل في حلقة لا نهائية
+# عدد الأعمال التي سنجهز فصولها في ملفات منفصلة
+DETAILS_SYNC_LIMIT = 20
+MAX_PAGES_SAFETY = 40  # تغطية الفهرس العام
 
 os.makedirs(DATA_DIR, exist_ok=True)
 
 HEADERS = {
     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
-    "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8",
+    "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8",
     "Accept-Language": "ar-SA,ar;q=0.9,en-US;q=0.8,en;q=0.7",
     "Referer": f"{BASE_URL}/",
     "Connection": "keep-alive"
@@ -63,146 +64,25 @@ def clean_html_text(text: str) -> str:
     soup = BeautifulSoup(text, "html.parser")
     for tag in soup.select("script, style, iframe, .ads, .watermark, .c-tabs-item, .post-title, .manga-action, .list-chapters, .chapters-list, ul, li, h1, h2, h3, h4, .post-status, .manga-info"):
         tag.decompose()
-    cleaned = soup.get_text()
-    cleaned = (
-        cleaned.replace("&nbsp;", " ")
-        .replace("&quot;", "\"")
-        .replace("&amp;", "&")
-        .replace("&lt;", "<")
-        .replace("&gt;", ">")
-        .strip()
-    )
-    return cleaned
+    return soup.get_text().strip()
 
 def clean_description(raw_desc: str, title: str) -> str:
     cleaned = clean_html_text(raw_desc)
-    lines = [line.strip() for line in cleaned.splitlines()]
-    clean_lines = []
-    ignore_keywords = [
-        "تحديث:", "الملخص التقييمات", "اجعل الكل مقروء", "أوضع علامة",
-        "على جميع الفصول", "الفصول", "جديد", "أيام", "ساعات", "دقائق",
-        "htthttps", "cookies"
+    lines = [l.strip() for l in cleaned.splitlines()]
+    clean_lines = [
+        l for l in lines 
+        if l and l.lower() != title.lower() 
+        and not any(bad in l.lower() for bad in ["تحديث:", "اجعل الكل مقروء", "أوضع علامة", "الفصول"])
     ]
-    for line in lines:
-        l = line.lower()
-        if not line or line.lower() == title.lower(): continue
-        if any(bad in l for bad in ignore_keywords): continue
-        if re.search(r"فصل\s*\d+", l): continue
-        clean_lines.append(line)
     return "\n\n".join(clean_lines).strip() if clean_lines else "لا يوجد وصف."
-
-def filter_clean_image_urls(raw_urls: list) -> list:
-    cleaned = []
-    for url in raw_urls:
-        u = url.strip().lower()
-        if not u or u.endswith(".gif"): continue
-        if any(bad in u for bad in ["banner", "advertisement", "tracking", "pixel", "logo", "avatar"]): continue
-        if url not in cleaned: cleaned.append(url)
-    return cleaned
-
-def scrape_chapter_images(session, chapter_url: str) -> list:
-    try:
-        res = session.get(normalize_url(chapter_url), timeout=25)
-        soup = BeautifulSoup(res.text, "html.parser")
-        raw_images = []
-        selectors = [
-            "div.comic-images-wrapper img[data-reader-page-image]",
-            "div.comic-images-wrapper figure.image-container img",
-            "img[data-reader-page-image]"
-        ]
-        comic_images = soup.select(", ".join(selectors))
-        for img in comic_images:
-            src = img.get("src", "").strip() or img.get("data-src", "").strip()
-            if src:
-                full_src = src if src.startswith("http") else f"{BASE_URL}{src}"
-                raw_images.append(full_src.replace("http://", "https://"))
-
-        if not raw_images:
-            for meta in soup.select("section[itemprop=articleBody] meta[itemprop=image]"):
-                content = meta.get("content", "").strip()
-                if content:
-                    raw_images.append(content.replace("http://", "https://"))
-
-        return filter_clean_image_urls(raw_images)
-    except Exception as e:
-        print(f"خطأ أثناء سحب صور {chapter_url}: {e}")
-        return []
-
-def fetch_full_catalog(session) -> list:
-    """أرشفة كل أعمال الموقع عبر تصفح صفحات الفهرس حتى آخر صفحة"""
-    print("بدء أرشفة الفهرس العام للموقع بالكامل...")
-    catalog = []
-    page = 1
-
-    while page <= MAX_PAGES_SAFETY:
-        url = f"{BASE_URL}/series" if page == 1 else f"{BASE_URL}/series?page={page}"
-        try:
-            res = session.get(url, timeout=25)
-            soup = BeautifulSoup(res.text, "html.parser")
-            cards = soup.select("div:has(a.text-foreground[href^='/series/'])")
-
-            if not cards:
-                print(f"لا توجد بطاقات إضافية في صفحة {page}. انتهت الفهرسة.")
-                break
-
-            new_in_page = 0
-            for container in cards:
-                link = container.select_one("a.text-foreground[href^='/series/']:not([href*='/chapter'])")
-                if not link: continue
-                title = link.text.strip()
-                if "الحالة" in title or not title: continue
-
-                manga_url = link.get("href", "").strip()
-                if not manga_url.startswith("http"): manga_url = f"{BASE_URL}{manga_url}"
-                manga_url = normalize_url(manga_url)
-                slug = manga_url.rstrip("/").split("/")[-1]
-
-                if not any(item["id"] == slug for item in catalog):
-                    cover_el = container.select_one("img.object-cover")
-                    cover = cover_el.get("src", "").strip() if cover_el else ""
-                    if cover and not cover.startswith("http"): cover = f"{BASE_URL}{cover}"
-
-                    is_novel = container.select("span").any(
-                        lambda it: it.text.strip() == "رواية" and ("blue" in it.get("class", []))
-                    ) if hasattr(container.select("span"), 'any') else False
-
-                    catalog.append({
-                        "id": slug,
-                        "title": title,
-                        "url": manga_url,
-                        "cover_url": cover.replace("http://", "https://"),
-                        "is_fully_cached": False,
-                        "type": "رواية" if is_novel else "مانهوا"
-                    })
-                    new_in_page += 1
-
-            print(f"صفحة [{page}]: تم فهرسة {new_in_page} عمل (المجموع الحالي: {len(catalog)})")
-            
-            # إذا لم يُضف أي عمل جديد في هذه الصفحة، فهذا يعني أننا وصلنا للنهاية
-            if new_in_page == 0:
-                break
-
-            page += 1
-            time.sleep(0.3) # تأخير خفيف جداً بين الصفحات لسرعة الأداء
-        except Exception as e:
-            print(f"خطأ في صفحة {page}: {e}")
-            break
-
-    print(f"\nتم الانتهاء من الفهرس العام! إجمالي الأعمال المفهرسة: {len(catalog)}")
-    return catalog
 
 def scrape_manga_details(session, manga_url: str):
     clean_url = normalize_url(manga_url).rstrip("/")
-    res = session.get(clean_url, timeout=25)
+    res = session.get(clean_url, timeout=20)
     html = res.text
     soup = BeautifulSoup(html, "html.parser")
 
-    title_el = soup.select_one("h1[itemprop=name]")
-    if not title_el:
-        for h in soup.select("h1"):
-            if "الحالة" not in h.text:
-                title_el = h
-                break
+    title_el = soup.select_one("h1[itemprop=name]") or soup.select_one("h1")
     title = title_el.text.strip() if title_el else "بدون عنوان"
 
     cover_el = soup.select_one("img[itemprop=image]")
@@ -213,36 +93,27 @@ def scrape_manga_details(session, manga_url: str):
     if cover_url and not cover_url.startswith("http"): cover_url = f"{BASE_URL}{cover_url}"
     cover_url = cover_url.replace("http://", "https://")
 
-    status_el = soup.select_one(".post-content_item:contains(الحالة), .post-status, div:has(h1:contains(الحالة))")
+    status_el = soup.select_one(".post-content_item:contains(الحالة), .post-status")
     status = format_status(status_el.text if status_el else "")
 
-    time_units = "لحظات|ثواني|ثوان|دقيقة|دقيقتين|دقائق|ساعة|ساعتين|ساعات|يوم|يومين|أيام|ايام|أسبوع|اسبوع|أسبوعين|اسبوعين|أسابيع|اسابيع|شهر|شهرين|أشهر|اشهر|شهور|سنة|سنتين|سنوات|سنين"
     time_el = soup.find(lambda tag: tag.name in ["span", "div", "p"] and "منذ" in tag.text)
-    raw_time = time_el.text.strip() if time_el else ""
-    match_time = re.search(rf"منذ\s+(?:\d+\s+)?({time_units})(?:\s+تقريبا|\s+تقريباً)?", raw_time)
-    last_update = match_time.group(0).strip() if match_time else ""
+    last_update = time_el.text.strip() if time_el else ""
 
-    novel_badge = any("رواية" in s.text.strip() and ("blue" in s.get("class", [])) for s in soup.select("span"))
+    novel_badge = any("رواية" in s.text.strip() for s in soup.select("span.blue, span.bg-blue"))
     is_novel = novel_badge or ("رواية" in title) or ("/novel/" in clean_url)
     type_el = soup.select_one("div:has(h1:contains(النوع)) div.inline span")
     manga_type = format_type("رواية" if is_novel else (type_el.text.strip() if type_el else "مانهوا"))
 
     genres = [a.text.strip() for a in soup.select(".genres-content a, .manga-tags a") if a.text.strip()]
+    desc_el = soup.select_one(".review-content p, div.summary__content p, div[itemprop=description] p")
+    final_desc = clean_description(str(desc_el) if desc_el else "", title)
 
-    desc_el = soup.select_one(".review-content p, div.summary__content p, div.manga-excerpt p, div[itemprop=description] p")
-    raw_desc = str(desc_el) if desc_el else ""
-    if not raw_desc:
-        meta_desc = soup.select_one("meta[property='og:description']")
-        if meta_desc and len(meta_desc.get("content", "")) > 40: raw_desc = meta_desc.get("content", "")
-    final_desc = clean_description(raw_desc, title)
-
-    fav_el = soup.select_one(".bookmark-count, .manga-action .count, .count-bookmark")
-    favorites = fav_el.text.strip() if fav_el else ""
     rate_el = soup.select_one(".score.font-bold, .post-total-rating .score")
     rating = format_rating(rate_el.text if rate_el else "")
 
+    # استخراج قائمة روابط وأسماء الفصول فقط (بدون الدخول إليها)
     series_slug = clean_url.split("/")[-1]
-    found_chapters = {}
+    chapters_map = {}
 
     for a in soup.select("a[href*='/chapter-'], a[href*='/chapter_']"):
         href = a.get("href", "").strip()
@@ -252,18 +123,16 @@ def scrape_manga_details(session, manga_url: str):
             raw_num = slug.lower().replace("chapter-", "").replace("chapter_", "").replace("_", ".").replace("-", ".")
             num_match = re.search(r"\d+(\.\d+)?", raw_num)
             clean_name = num_match.group(0) if num_match else raw_num
-            found_chapters[full_url] = clean_name
+            chapters_map[full_url] = {"name": clean_name}
 
     for match in re.finditer(r"chapter-[0-9]+(?:[-._][0-9a-zA-Z]+)*", html, re.IGNORECASE):
         slug = match.group(0)
         full_url = f"{BASE_URL}/series/{series_slug}/{slug}"
-        if full_url not in found_chapters:
+        if full_url not in chapters_map:
             raw_num = slug.lower().replace("chapter-", "").replace("_", ".").replace("-", ".")
             num_match = re.search(r"\d+(\.\d+)?", raw_num)
             clean_name = num_match.group(0) if num_match else raw_num
-            found_chapters[full_url] = clean_name
-
-    chapters_list = [{"name": name, "url": url} for url, name in found_chapters.items()]
+            chapters_map[full_url] = {"name": clean_name}
 
     return {
         "id": series_slug,
@@ -273,78 +142,81 @@ def scrape_manga_details(session, manga_url: str):
         "type": manga_type,
         "status": status,
         "last_update": last_update,
-        "favorites": favorites,
         "rating": rating,
         "genres": genres,
         "is_novel": is_novel,
-        "chapters_to_sync": chapters_list
+        "chapters": chapters_map
     }
 
-def sync_hybrid_all():
+def sync_fast():
     session = get_session()
-    
-    # 1. سحب الفهرس الشامل لكل الأعمال
-    catalog = fetch_full_catalog(session)
-    
-    # 2. معالجة تفصيلية لأول 15 عملاً نشطاً فقط (سحب فصول وصور)
-    top_15 = catalog[:FULL_SYNC_LIMIT]
+    print("بدء المزامنة الخفيفة (Metadata Only)...")
+    catalog = []
+    page = 1
 
-    for index, item in enumerate(top_15, 1):
-        slug = item["id"]
-        manga_url = item["url"]
-        file_path = os.path.join(DATA_DIR, f"{slug}.json")
-        
-        print(f"\n[{index}/{len(top_15)}] معالجة تفصيلية كاملة: {slug}")
-
+    # 1. سحب الفهرس العام
+    while page <= MAX_PAGES_SAFETY:
+        url = f"{BASE_URL}/series" if page == 1 else f"{BASE_URL}/series?page={page}"
         try:
-            existing_data = {"id": slug, "chapters": {}}
-            if os.path.exists(file_path):
-                with open(file_path, "r", encoding="utf-8") as f:
-                    existing_data = json.load(f)
+            res = session.get(url, timeout=20)
+            soup = BeautifulSoup(res.text, "html.parser")
+            cards = soup.select("div:has(a.text-foreground[href^='/series/'])")
+            if not cards: break
 
-            details = scrape_manga_details(session, manga_url)
+            new_in_page = 0
+            for container in cards:
+                link = container.select_one("a.text-foreground[href^='/series/']:not([href*='/chapter'])")
+                if not link: continue
+                title = link.text.strip()
+                if "الحالة" in title or not title: continue
 
-            for key in ["title", "cover_url", "description", "type", "status", "last_update", "favorites", "rating", "genres", "is_novel"]:
-                existing_data[key] = details[key]
+                manga_url = normalize_url(link.get("href", ""))
+                slug = manga_url.rstrip("/").split("/")[-1]
 
-            new_chapters = 0
-            for ch in details["chapters_to_sync"]:
-                ch_url = ch["url"]
-                ch_name = ch["name"]
+                if not any(item["id"] == slug for item in catalog):
+                    cover_el = container.select_one("img.object-cover")
+                    cover = cover_el.get("src", "").strip() if cover_el else ""
+                    if cover and not cover.startswith("http"): cover = f"{BASE_URL}{cover}"
 
-                if ch_url in existing_data["chapters"]:
-                    continue
+                    catalog.append({
+                        "id": slug,
+                        "title": title,
+                        "url": manga_url,
+                        "cover_url": cover.replace("http://", "https://")
+                    })
+                    new_in_page += 1
 
-                images = scrape_chapter_images(session, ch_url)
-                if images:
-                    existing_data["chapters"][ch_url] = {
-                        "name": ch_name,
-                        "images": images
-                    }
-                    new_chapters += 1
+            if new_in_page == 0: break
+            page += 1
+            time.sleep(0.2)
+        except Exception as e:
+            print(f"خطأ في صفحة {page}: {e}")
+            break
 
+    print(f"تم فهرسة {len(catalog)} عمل بنجاح.")
+
+    # 2. جلب تفاصيل وفهرس فصول أول 20 عملاً فقط (طلب واحد لكل عمل)
+    for item in catalog[:DETAILS_SYNC_LIMIT]:
+        slug = item["id"]
+        file_path = os.path.join(DATA_DIR, f"{slug}.json")
+        try:
+            details = scrape_manga_details(session, item["url"])
             with open(file_path, "w", encoding="utf-8") as f:
-                json.dump(existing_data, f, ensure_ascii=False, indent=2)
+                json.dump(details, f, ensure_ascii=False, indent=2)
 
-            # تحديث وسم الـ 15 عملاً داخل الفهرس بأنها مخزنة بالكامل
-            item["is_fully_cached"] = True
             item["type"] = details["type"]
             item["status"] = details["status"]
             item["rating"] = details["rating"]
-            item["latest_chapter"] = details["chapters_to_sync"][0]["name"] if details["chapters_to_sync"] else ""
-            item["last_update"] = details["last_update"]
-
-            print(f"تم تخزين {slug} بنجاح (فصول جديدة: {new_chapters})")
-            time.sleep(0.5)
-
+            item["total_chapters"] = len(details["chapters"])
+            print(f"✓ تم تجهيز: {slug} ({len(details['chapters'])} فصل)")
         except Exception as e:
-            print(f"خطأ أثناء معالجة {slug}: {e}")
+            print(f"خطأ مع {slug}: {e}")
 
-    # 3. حفظ الفهرس العام لكل أعمال الموقع
+    # 3. حفظ الفهرس العام
     with open(CATALOG_FILE, "w", encoding="utf-8") as f:
         json.dump(catalog, f, ensure_ascii=False, indent=2)
 
-    print(f"\nاكتملت العملية بنجاح! تم أرشفة {len(catalog)} عمل في {CATALOG_FILE} ومزامنة أفضل 15 عملاً بالكامل.")
+    print(f"\n⚡ اكتملت المزامنة الخاطفة خلال ثوانٍ معدودة!")
 
 if __name__ == "__main__":
-    sync_hybrid_all()
+    sync_fast()
