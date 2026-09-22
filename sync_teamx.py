@@ -10,7 +10,7 @@ DATA_DIR = os.path.join("data", "teamx")
 CATALOG_FILE = os.path.join(DATA_DIR, "catalog.json")
 
 DETAILS_SYNC_LIMIT = 20
-MAX_PAGES_SAFETY = 35
+MAX_PAGES_SAFETY = 70
 
 os.makedirs(DATA_DIR, exist_ok=True)
 
