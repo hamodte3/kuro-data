@@ -1,0 +1,806 @@
+{
+  "id": "tonikaku-kawaii",
+  "title": "Tonikaku Kawaii",
+  "cover_url": "https://i1.wp.com/despair-world.com/wp-content/uploads/2026/07/71gRNRmJq0L.jpg",
+  "description": "يوزاكي ناسا يتضمن اسمه الحرف الياباني الذي يعني “ليلة مرصعة بالنجوم” ويرمز إلى “ناسا”. تحاول دائمًا مطابقة اسم شخص غريب ، كأنها تصوب إلى الأعلى ، لكنها تلاحق الفتاة في ليلة ثلجية وتصطدم بسيارة .. الفتاة “تسوكاسا” تنقذه وتنتهز ناسا الفرصة. أعترف لهذه الفتاة الغامضة والحلوة! يوافق تسوكساسا على الخروج معها .. لكن بشرط أن يكونوا متزوجين! بعد سنوات ، فتحت ناسا باب المنزل و …",
+  "type": "مانغا",
+  "status": "مستمر",
+  "last_update": "2026-07-29",
+  "rating": "7.5",
+  "favorites": "12",
+  "genres": [
+    "رومانسي",
+    "شريحة من الحياة",
+    "شونين",
+    "كوميديا"
+  ],
+  "is_novel": false,
+  "chapters": {
+    "https://despair-manga.net/tonikaku-kawaii-chapter-252/": {
+      "name": "252"
+    },
+    "https://despair-manga.net/tonikaku-kawaii-chapter-251/": {
+      "name": "251"
+    },
+    "https://despair-manga.net/tonikaku-kawaii-chapter-250/": {
+      "name": "250"
+    },
+    "https://despair-manga.net/tonikaku-kawaii-chapter-249/": {
+      "name": "249"
+    },
+    "https://despair-manga.net/tonikaku-kawaii-chapter-248-1/": {
+      "name": "248.1"
+    },
+    "https://despair-manga.net/tonikaku-kawaii-chapter-248/": {
+      "name": "248"
+    },
+    "https://despair-manga.net/tonikaku-kawaii-chapter-247/": {
+      "name": "247"
+    },
+    "https://despair-manga.net/tonikaku-kawaii-chapter-246/": {
+      "name": "246"
+    },
+    "https://despair-manga.net/tonikaku-kawaii-chapter-245/": {
+      "name": "245"
+    },
+    "https://despair-manga.net/tonikaku-kawaii-chapter-244/": {
+      "name": "244"
+    },
+    "https://despair-manga.net/tonikaku-kawaii-chapter-243/": {
+      "name": "243"
+    },
+    "https://despair-manga.net/tonikaku-kawaii-chapter-242/": {
+      "name": "242"
+    },
+    "https://despair-manga.net/tonikaku-kawaii-chapter-241/": {
+      "name": "241"
+    },
+    "https://despair-manga.net/tonikaku-kawaii-chapter-240/": {
+      "name": "240"
+    },
+    "https://despair-manga.net/tonikaku-kawaii-chapter-239/": {
+      "name": "239"
+    },
+    "https://despair-manga.net/tonikaku-kawaii-chapter-238/": {
+      "name": "238"
+    },
+    "https://despair-manga.net/tonikaku-kawaii-chapter-237/": {
+      "name": "237"
+    },
+    "https://despair-manga.net/tonikaku-kawaii-chapter-236/": {
+      "name": "236"
+    },
+    "https://despair-manga.net/tonikaku-kawaii-chapter-235/": {
+      "name": "235"
+    },
+    "https://despair-manga.net/tonikaku-kawaii-chapter-234/": {
+      "name": "234"
+    },
+    "https://despair-manga.net/tonikaku-kawaii-chapter-233/": {
+      "name": "233"
+    },
+    "https://despair-manga.net/tonikaku-kawaii-chapter-232/": {
+      "name": "232"
+    },
+    "https://despair-manga.net/tonikaku-kawaii-chapter-231/": {
+      "name": "231"
+    },
+    "https://despair-manga.net/tonikaku-kawaii-chapter-230/": {
+      "name": "230"
+    },
+    "https://despair-manga.net/tonikaku-kawaii-chapter-229/": {
+      "name": "229"
+    },
+    "https://despair-manga.net/tonikaku-kawaii-chapter-228/": {
+      "name": "228"
+    },
+    "https://despair-manga.net/tonikaku-kawaii-chapter-227/": {
+      "name": "227"
+    },
+    "https://despair-manga.net/tonikaku-kawaii-chapter-226/": {
+      "name": "226"
+    },
+    "https://despair-manga.net/tonikaku-kawaii-chapter-225/": {
+      "name": "225"
+    },
+    "https://despair-manga.net/tonikaku-kawaii-chapter-224/": {
+      "name": "224"
+    },
+    "https://despair-manga.net/tonikaku-kawaii-chapter-223/": {
+      "name": "223"
+    },
+    "https://despair-manga.net/tonikaku-kawaii-chapter-222/": {
+      "name": "222"
+    },
+    "https://despair-manga.net/tonikaku-kawaii-chapter-221/": {
+      "name": "221"
+    },
+    "https://despair-manga.net/tonikaku-kawaii-chapter-220/": {
+      "name": "220"
+    },
+    "https://despair-manga.net/tonikaku-kawaii-chapter-219/": {
+      "name": "219"
+    },
+    "https://despair-manga.net/tonikaku-kawaii-chapter-218/": {
+      "name": "218"
+    },
+    "https://despair-manga.net/tonikaku-kawaii-chapter-217/": {
+      "name": "217"
+    },
+    "https://despair-manga.net/tonikaku-kawaii-chapter-216/": {
+      "name": "216"
+    },
+    "https://despair-manga.net/tonikaku-kawaii-chapter-215/": {
+      "name": "215"
+    },
+    "https://despair-manga.net/tonikaku-kawaii-chapter-214/": {
+      "name": "214"
+    },
+    "https://despair-manga.net/tonikaku-kawaii-chapter-213/": {
+      "name": "213"
+    },
+    "https://despair-manga.net/tonikaku-kawaii-chapter-212/": {
+      "name": "212"
+    },
+    "https://despair-manga.net/tonikaku-kawaii-chapter-211/": {
+      "name": "211"
+    },
+    "https://despair-manga.net/tonikaku-kawaii-chapter-210/": {
+      "name": "210"
+    },
+    "https://despair-manga.net/tonikaku-kawaii-chapter-209/": {
+      "name": "209"
+    },
+    "https://despair-manga.net/tonikaku-kawaii-chapter-207/": {
+      "name": "207"
+    },
+    "https://despair-manga.net/tonikaku-kawaii-chapter-206/": {
+      "name": "206"
+    },
+    "https://despair-manga.net/tonikaku-kawaii-chapter-205/": {
+      "name": "205"
+    },
+    "https://despair-manga.net/tonikaku-kawaii-chapter-204/": {
+      "name": "204"
+    },
+    "https://despair-manga.net/tonikaku-kawaii-chapter-203/": {
+      "name": "203"
+    },
+    "https://despair-manga.net/tonikaku-kawaii-chapter-202/": {
+      "name": "202"
+    },
+    "https://despair-manga.net/tonikaku-kawaii-chapter-201/": {
+      "name": "201"
+    },
+    "https://despair-manga.net/tonikaku-kawaii-chapter-200/": {
+      "name": "200"
+    },
+    "https://despair-manga.net/tonikaku-kawaii-chapter-199/": {
+      "name": "199"
+    },
+    "https://despair-manga.net/tonikaku-kawaii-chapter-198/": {
+      "name": "198"
+    },
+    "https://despair-manga.net/tonikaku-kawaii-chapter-197/": {
+      "name": "197"
+    },
+    "https://despair-manga.net/tonikaku-kawaii-chapter-196/": {
+      "name": "196"
+    },
+    "https://despair-manga.net/tonikaku-kawaii-chapter-195/": {
+      "name": "195"
+    },
+    "https://despair-manga.net/tonikaku-kawaii-chapter-194/": {
+      "name": "194"
+    },
+    "https://despair-manga.net/tonikaku-kawaii-chapter-193/": {
+      "name": "193"
+    },
+    "https://despair-manga.net/tonikaku-kawaii-chapter-192/": {
+      "name": "192"
+    },
+    "https://despair-manga.net/tonikaku-kawaii-chapter-191/": {
+      "name": "191"
+    },
+    "https://despair-manga.net/tonikaku-kawaii-chapter-190/": {
+      "name": "190"
+    },
+    "https://despair-manga.net/tonikaku-kawaii-chapter-189/": {
+      "name": "189"
+    },
+    "https://despair-manga.net/tonikaku-kawaii-chapter-188/": {
+      "name": "188"
+    },
+    "https://despair-manga.net/tonikaku-kawaii-chapter-187/": {
+      "name": "187"
+    },
+    "https://despair-manga.net/tonikaku-kawaii-chapter-186/": {
+      "name": "186"
+    },
+    "https://despair-manga.net/tonikaku-kawaii-chapter-185/": {
+      "name": "185"
+    },
+    "https://despair-manga.net/tonikaku-kawaii-chapter-184/": {
+      "name": "184"
+    },
+    "https://despair-manga.net/tonikaku-kawaii-chapter-183/": {
+      "name": "183"
+    },
+    "https://despair-manga.net/tonikaku-kawaii-chapter-182/": {
+      "name": "182"
+    },
+    "https://despair-manga.net/tonikaku-kawaii-chapter-181/": {
+      "name": "181"
+    },
+    "https://despair-manga.net/tonikaku-kawaii-chapter-180/": {
+      "name": "180"
+    },
+    "https://despair-manga.net/tonikaku-kawaii-chapter-179/": {
+      "name": "179"
+    },
+    "https://despair-manga.net/tonikaku-kawaii-chapter-178/": {
+      "name": "178"
+    },
+    "https://despair-manga.net/tonikaku-kawaii-chapter-177/": {
+      "name": "177"
+    },
+    "https://despair-manga.net/tonikaku-kawaii-chapter-176/": {
+      "name": "176"
+    },
+    "https://despair-manga.net/tonikaku-kawaii-chapter-175/": {
+      "name": "175"
+    },
+    "https://despair-manga.net/tonikaku-kawaii-chapter-174/": {
+      "name": "174"
+    },
+    "https://despair-manga.net/tonikaku-kawaii-chapter-173/": {
+      "name": "173"
+    },
+    "https://despair-manga.net/tonikaku-kawaii-chapter-172/": {
+      "name": "172"
+    },
+    "https://despair-manga.net/tonikaku-kawaii-chapter-170/": {
+      "name": "170"
+    },
+    "https://despair-manga.net/tonikaku-kawaii-chapter-169/": {
+      "name": "169"
+    },
+    "https://despair-manga.net/tonikaku-kawaii-chapter-168/": {
+      "name": "168"
+    },
+    "https://despair-manga.net/tonikaku-kawaii-chapter-167/": {
+      "name": "167"
+    },
+    "https://despair-manga.net/tonikaku-kawaii-chapter-166/": {
+      "name": "166"
+    },
+    "https://despair-manga.net/tonikaku-kawaii-chapter-165/": {
+      "name": "165"
+    },
+    "https://despair-manga.net/tonikaku-kawaii-chapter-164/": {
+      "name": "164"
+    },
+    "https://despair-manga.net/tonikaku-kawaii-chapter-163/": {
+      "name": "163"
+    },
+    "https://despair-manga.net/tonikaku-kawaii-chapter-162/": {
+      "name": "162"
+    },
+    "https://despair-manga.net/tonikaku-kawaii-chapter-161-1/": {
+      "name": "161.1"
+    },
+    "https://despair-manga.net/tonikaku-kawaii-chapter-161/": {
+      "name": "161"
+    },
+    "https://despair-manga.net/tonikaku-kawaii-chapter-160/": {
+      "name": "160"
+    },
+    "https://despair-manga.net/tonikaku-kawaii-chapter-159/": {
+      "name": "159"
+    },
+    "https://despair-manga.net/tonikaku-kawaii-chapter-158/": {
+      "name": "158"
+    },
+    "https://despair-manga.net/tonikaku-kawaii-chapter-157/": {
+      "name": "157"
+    },
+    "https://despair-manga.net/tonikaku-kawaii-chapter-156/": {
+      "name": "156"
+    },
+    "https://despair-manga.net/tonikaku-kawaii-chapter-155/": {
+      "name": "155"
+    },
+    "https://despair-manga.net/tonikaku-kawaii-chapter-154/": {
+      "name": "154"
+    },
+    "https://despair-manga.net/tonikaku-kawaii-chapter-153/": {
+      "name": "153"
+    },
+    "https://despair-manga.net/tonikaku-kawaii-chapter-152/": {
+      "name": "152"
+    },
+    "https://despair-manga.net/tonikaku-kawaii-chapter-151/": {
+      "name": "151"
+    },
+    "https://despair-manga.net/tonikaku-kawaii-chapter-150/": {
+      "name": "150"
+    },
+    "https://despair-manga.net/tonikaku-kawaii-chapter-149/": {
+      "name": "149"
+    },
+    "https://despair-manga.net/tonikaku-kawaii-chapter-148/": {
+      "name": "148"
+    },
+    "https://despair-manga.net/tonikaku-kawaii-chapter-147/": {
+      "name": "147"
+    },
+    "https://despair-manga.net/tonikaku-kawaii-chapter-146/": {
+      "name": "146"
+    },
+    "https://despair-manga.net/tonikaku-kawaii-chapter-145/": {
+      "name": "145"
+    },
+    "https://despair-manga.net/tonikaku-kawaii-chapter-144/": {
+      "name": "144"
+    },
+    "https://despair-manga.net/tonikaku-kawaii-chapter-143/": {
+      "name": "143"
+    },
+    "https://despair-manga.net/tonikaku-kawaii-chapter-142/": {
+      "name": "142"
+    },
+    "https://despair-manga.net/tonikaku-kawaii-chapter-141/": {
+      "name": "141"
+    },
+    "https://despair-manga.net/tonikaku-kawaii-chapter-140-5/": {
+      "name": "140.5"
+    },
+    "https://despair-manga.net/tonikaku-kawaii-chapter-140/": {
+      "name": "140"
+    },
+    "https://despair-manga.net/tonikaku-kawaii-chapter-139/": {
+      "name": "139"
+    },
+    "https://despair-manga.net/tonikaku-kawaii-chapter-138/": {
+      "name": "138"
+    },
+    "https://despair-manga.net/tonikaku-kawaii-chapter-137/": {
+      "name": "137"
+    },
+    "https://despair-manga.net/tonikaku-kawaii-chapter-136/": {
+      "name": "136"
+    },
+    "https://despair-manga.net/tonikaku-kawaii-chapter-135/": {
+      "name": "135"
+    },
+    "https://despair-manga.net/tonikaku-kawaii-chapter-134/": {
+      "name": "134"
+    },
+    "https://despair-manga.net/tonikaku-kawaii-chapter-133/": {
+      "name": "133"
+    },
+    "https://despair-manga.net/tonikaku-kawaii-chapter-132/": {
+      "name": "132"
+    },
+    "https://despair-manga.net/tonikaku-kawaii-chapter-131/": {
+      "name": "131"
+    },
+    "https://despair-manga.net/tonikaku-kawaii-chapter-130/": {
+      "name": "130"
+    },
+    "https://despair-manga.net/tonikaku-kawaii-chapter-128/": {
+      "name": "128"
+    },
+    "https://despair-manga.net/tonikaku-kawaii-chapter-127/": {
+      "name": "127"
+    },
+    "https://despair-manga.net/tonikaku-kawaii-chapter-126/": {
+      "name": "126"
+    },
+    "https://despair-manga.net/tonikaku-kawaii-chapter-125/": {
+      "name": "125"
+    },
+    "https://despair-manga.net/tonikaku-kawaii-chapter-124/": {
+      "name": "124"
+    },
+    "https://despair-manga.net/tonikaku-kawaii-chapter-123/": {
+      "name": "123"
+    },
+    "https://despair-manga.net/tonikaku-kawaii-chapter-122/": {
+      "name": "122"
+    },
+    "https://despair-manga.net/tonikaku-kawaii-chapter-121/": {
+      "name": "121"
+    },
+    "https://despair-manga.net/tonikaku-kawaii-chapter-120/": {
+      "name": "120"
+    },
+    "https://despair-manga.net/tonikaku-kawaii-chapter-119/": {
+      "name": "119"
+    },
+    "https://despair-manga.net/tonikaku-kawaii-chapter-118/": {
+      "name": "118"
+    },
+    "https://despair-manga.net/tonikaku-kawaii-chapter-117/": {
+      "name": "117"
+    },
+    "https://despair-manga.net/tonikaku-kawaii-chapter-116/": {
+      "name": "116"
+    },
+    "https://despair-manga.net/tonikaku-kawaii-chapter-115/": {
+      "name": "115"
+    },
+    "https://despair-manga.net/tonikaku-kawaii-chapter-114/": {
+      "name": "114"
+    },
+    "https://despair-manga.net/tonikaku-kawaii-chapter-113/": {
+      "name": "113"
+    },
+    "https://despair-manga.net/tonikaku-kawaii-chapter-112/": {
+      "name": "112"
+    },
+    "https://despair-manga.net/tonikaku-kawaii-chapter-111/": {
+      "name": "111"
+    },
+    "https://despair-manga.net/tonikaku-kawaii-chapter-110/": {
+      "name": "110"
+    },
+    "https://despair-manga.net/tonikaku-kawaii-chapter-109-5/": {
+      "name": "109.5"
+    },
+    "https://despair-manga.net/tonikaku-kawaii-chapter-109/": {
+      "name": "109"
+    },
+    "https://despair-manga.net/tonikaku-kawaii-chapter-108/": {
+      "name": "108"
+    },
+    "https://despair-manga.net/tonikaku-kawaii-chapter-107/": {
+      "name": "107"
+    },
+    "https://despair-manga.net/tonikaku-kawaii-chapter-106/": {
+      "name": "106"
+    },
+    "https://despair-manga.net/tonikaku-kawaii-chapter-105/": {
+      "name": "105"
+    },
+    "https://despair-manga.net/tonikaku-kawaii-chapter-104/": {
+      "name": "104"
+    },
+    "https://despair-manga.net/tonikaku-kawaii-chapter-103/": {
+      "name": "103"
+    },
+    "https://despair-manga.net/tonikaku-kawaii-chapter-102/": {
+      "name": "102"
+    },
+    "https://despair-manga.net/tonikaku-kawaii-chapter-101/": {
+      "name": "101"
+    },
+    "https://despair-manga.net/tonikaku-kawaii-chapter-100/": {
+      "name": "100"
+    },
+    "https://despair-manga.net/tonikaku-kawaii-chapter-99/": {
+      "name": "99"
+    },
+    "https://despair-manga.net/tonikaku-kawaii-chapter-98/": {
+      "name": "98"
+    },
+    "https://despair-manga.net/tonikaku-kawaii-chapter-97/": {
+      "name": "97"
+    },
+    "https://despair-manga.net/tonikaku-kawaii-chapter-96/": {
+      "name": "96"
+    },
+    "https://despair-manga.net/tonikaku-kawaii-chapter-95/": {
+      "name": "95"
+    },
+    "https://despair-manga.net/tonikaku-kawaii-chapter-94/": {
+      "name": "94"
+    },
+    "https://despair-manga.net/tonikaku-kawaii-chapter-93/": {
+      "name": "93"
+    },
+    "https://despair-manga.net/tonikaku-kawaii-chapter-92/": {
+      "name": "92"
+    },
+    "https://despair-manga.net/tonikaku-kawaii-chapter-91/": {
+      "name": "91"
+    },
+    "https://despair-manga.net/tonikaku-kawaii-chapter-90/": {
+      "name": "90"
+    },
+    "https://despair-manga.net/tonikaku-kawaii-chapter-89/": {
+      "name": "89"
+    },
+    "https://despair-manga.net/tonikaku-kawaii-chapter-88/": {
+      "name": "88"
+    },
+    "https://despair-manga.net/tonikaku-kawaii-chapter-87/": {
+      "name": "87"
+    },
+    "https://despair-manga.net/tonikaku-kawaii-chapter-86/": {
+      "name": "86"
+    },
+    "https://despair-manga.net/tonikaku-kawaii-chapter-85/": {
+      "name": "85"
+    },
+    "https://despair-manga.net/tonikaku-kawaii-chapter-84/": {
+      "name": "84"
+    },
+    "https://despair-manga.net/tonikaku-kawaii-chapter-83/": {
+      "name": "83"
+    },
+    "https://despair-manga.net/tonikaku-kawaii-chapter-82/": {
+      "name": "82"
+    },
+    "https://despair-manga.net/tonikaku-kawaii-chapter-81/": {
+      "name": "81"
+    },
+    "https://despair-manga.net/tonikaku-kawaii-chapter-80/": {
+      "name": "80"
+    },
+    "https://despair-manga.net/tonikaku-kawaii-chapter-79-5/": {
+      "name": "79.5"
+    },
+    "https://despair-manga.net/tonikaku-kawaii-chapter-79/": {
+      "name": "79"
+    },
+    "https://despair-manga.net/tonikaku-kawaii-chapter-78/": {
+      "name": "78"
+    },
+    "https://despair-manga.net/tonikaku-kawaii-chapter-77/": {
+      "name": "77"
+    },
+    "https://despair-manga.net/tonikaku-kawaii-chapter-76/": {
+      "name": "76"
+    },
+    "https://despair-manga.net/tonikaku-kawaii-chapter-75/": {
+      "name": "75"
+    },
+    "https://despair-manga.net/tonikaku-kawaii-chapter-74/": {
+      "name": "74"
+    },
+    "https://despair-manga.net/tonikaku-kawaii-chapter-73/": {
+      "name": "73"
+    },
+    "https://despair-manga.net/tonikaku-kawaii-chapter-72/": {
+      "name": "72"
+    },
+    "https://despair-manga.net/tonikaku-kawaii-chapter-71/": {
+      "name": "71"
+    },
+    "https://despair-manga.net/tonikaku-kawaii-chapter-70/": {
+      "name": "70"
+    },
+    "https://despair-manga.net/tonikaku-kawaii-chapter-69/": {
+      "name": "69"
+    },
+    "https://despair-manga.net/tonikaku-kawaii-chapter-68/": {
+      "name": "68"
+    },
+    "https://despair-manga.net/tonikaku-kawaii-chapter-67/": {
+      "name": "67"
+    },
+    "https://despair-manga.net/tonikaku-kawaii-chapter-66/": {
+      "name": "66"
+    },
+    "https://despair-manga.net/tonikaku-kawaii-chapter-65/": {
+      "name": "65"
+    },
+    "https://despair-manga.net/tonikaku-kawaii-chapter-64/": {
+      "name": "64"
+    },
+    "https://despair-manga.net/tonikaku-kawaii-chapter-63/": {
+      "name": "63"
+    },
+    "https://despair-manga.net/tonikaku-kawaii-chapter-62/": {
+      "name": "62"
+    },
+    "https://despair-manga.net/tonikaku-kawaii-chapter-61/": {
+      "name": "61"
+    },
+    "https://despair-manga.net/tonikaku-kawaii-chapter-60/": {
+      "name": "60"
+    },
+    "https://despair-manga.net/tonikaku-kawaii-chapter-59/": {
+      "name": "59"
+    },
+    "https://despair-manga.net/tonikaku-kawaii-chapter-58-5/": {
+      "name": "58.5"
+    },
+    "https://despair-manga.net/tonikaku-kawaii-chapter-58/": {
+      "name": "58"
+    },
+    "https://despair-manga.net/tonikaku-kawaii-chapter-57/": {
+      "name": "57"
+    },
+    "https://despair-manga.net/tonikaku-kawaii-chapter-56/": {
+      "name": "56"
+    },
+    "https://despair-manga.net/tonikaku-kawaii-chapter-55/": {
+      "name": "55"
+    },
+    "https://despair-manga.net/tonikaku-kawaii-chapter-54-2/": {
+      "name": "54.2"
+    },
+    "https://despair-manga.net/tonikaku-kawaii-chapter-54/": {
+      "name": "54"
+    },
+    "https://despair-manga.net/tonikaku-kawaii-chapter-53/": {
+      "name": "53"
+    },
+    "https://despair-manga.net/tonikaku-kawaii-chapter-52/": {
+      "name": "52"
+    },
+    "https://despair-manga.net/tonikaku-kawaii-chapter-51/": {
+      "name": "51"
+    },
+    "https://despair-manga.net/tonikaku-kawaii-chapter-50/": {
+      "name": "50"
+    },
+    "https://despair-manga.net/tonikaku-kawaii-chapter-49/": {
+      "name": "49"
+    },
+    "https://despair-manga.net/tonikaku-kawaii-chapter-48/": {
+      "name": "48"
+    },
+    "https://despair-manga.net/tonikaku-kawaii-chapter-47/": {
+      "name": "47"
+    },
+    "https://despair-manga.net/tonikaku-kawaii-chapter-46/": {
+      "name": "46"
+    },
+    "https://despair-manga.net/tonikaku-kawaii-chapter-45/": {
+      "name": "45"
+    },
+    "https://despair-manga.net/tonikaku-kawaii-chapter-44/": {
+      "name": "44"
+    },
+    "https://despair-manga.net/tonikaku-kawaii-chapter-43/": {
+      "name": "43"
+    },
+    "https://despair-manga.net/tonikaku-kawaii-chapter-42/": {
+      "name": "42"
+    },
+    "https://despair-manga.net/tonikaku-kawaii-chapter-41/": {
+      "name": "41"
+    },
+    "https://despair-manga.net/tonikaku-kawaii-chapter-40/": {
+      "name": "40"
+    },
+    "https://despair-manga.net/tonikaku-kawaii-chapter-39/": {
+      "name": "39"
+    },
+    "https://despair-manga.net/tonikaku-kawaii-chapter-38-5/": {
+      "name": "38.5"
+    },
+    "https://despair-manga.net/tonikaku-kawaii-chapter-38/": {
+      "name": "38"
+    },
+    "https://despair-manga.net/tonikaku-kawaii-chapter-37/": {
+      "name": "37"
+    },
+    "https://despair-manga.net/tonikaku-kawaii-chapter-36/": {
+      "name": "36"
+    },
+    "https://despair-manga.net/tonikaku-kawaii-chapter-35/": {
+      "name": "35"
+    },
+    "https://despair-manga.net/tonikaku-kawaii-chapter-34/": {
+      "name": "34"
+    },
+    "https://despair-manga.net/tonikaku-kawaii-chapter-33/": {
+      "name": "33"
+    },
+    "https://despair-manga.net/tonikaku-kawaii-chapter-32/": {
+      "name": "32"
+    },
+    "https://despair-manga.net/tonikaku-kawaii-chapter-31-5/": {
+      "name": "31.5"
+    },
+    "https://despair-manga.net/tonikaku-kawaii-chapter-31/": {
+      "name": "31"
+    },
+    "https://despair-manga.net/tonikaku-kawaii-chapter-30/": {
+      "name": "30"
+    },
+    "https://despair-manga.net/tonikaku-kawaii-chapter-29/": {
+      "name": "29"
+    },
+    "https://despair-manga.net/tonikaku-kawaii-chapter-28/": {
+      "name": "28"
+    },
+    "https://despair-manga.net/tonikaku-kawaii-chapter-27-5/": {
+      "name": "27.5"
+    },
+    "https://despair-manga.net/tonikaku-kawaii-chapter-27/": {
+      "name": "27"
+    },
+    "https://despair-manga.net/tonikaku-kawaii-chapter-26/": {
+      "name": "26"
+    },
+    "https://despair-manga.net/tonikaku-kawaii-chapter-25/": {
+      "name": "25"
+    },
+    "https://despair-manga.net/tonikaku-kawaii-chapter-24/": {
+      "name": "24"
+    },
+    "https://despair-manga.net/tonikaku-kawaii-chapter-23/": {
+      "name": "23"
+    },
+    "https://despair-manga.net/tonikaku-kawaii-chapter-22/": {
+      "name": "22"
+    },
+    "https://despair-manga.net/tonikaku-kawaii-chapter-21/": {
+      "name": "21"
+    },
+    "https://despair-manga.net/tonikaku-kawaii-chapter-20/": {
+      "name": "20"
+    },
+    "https://despair-manga.net/tonikaku-kawaii-chapter-19/": {
+      "name": "19"
+    },
+    "https://despair-manga.net/tonikaku-kawaii-chapter-18-5/": {
+      "name": "18.5"
+    },
+    "https://despair-manga.net/tonikaku-kawaii-chapter-18/": {
+      "name": "18"
+    },
+    "https://despair-manga.net/tonikaku-kawaii-chapter-17/": {
+      "name": "17"
+    },
+    "https://despair-manga.net/tonikaku-kawaii-chapter-16/": {
+      "name": "16"
+    },
+    "https://despair-manga.net/tonikaku-kawaii-chapter-15/": {
+      "name": "15"
+    },
+    "https://despair-manga.net/tonikaku-kawaii-chapter-14/": {
+      "name": "14"
+    },
+    "https://despair-manga.net/tonikaku-kawaii-chapter-13/": {
+      "name": "13"
+    },
+    "https://despair-manga.net/tonikaku-kawaii-chapter-12/": {
+      "name": "12"
+    },
+    "https://despair-manga.net/tonikaku-kawaii-chapter-11/": {
+      "name": "11"
+    },
+    "https://despair-manga.net/tonikaku-kawaii-chapter-10/": {
+      "name": "10"
+    },
+    "https://despair-manga.net/tonikaku-kawaii-chapter-9/": {
+      "name": "9"
+    },
+    "https://despair-manga.net/tonikaku-kawaii-chapter-8/": {
+      "name": "8"
+    },
+    "https://despair-manga.net/tonikaku-kawaii-chapter-7/": {
+      "name": "7"
+    },
+    "https://despair-manga.net/tonikaku-kawaii-chapter-6/": {
+      "name": "6"
+    },
+    "https://despair-manga.net/tonikaku-kawaii-chapter-5/": {
+      "name": "5"
+    },
+    "https://despair-manga.net/tonikaku-kawaii-chapter-4/": {
+      "name": "4"
+    },
+    "https://despair-manga.net/tonikaku-kawaii-chapter-3/": {
+      "name": "3"
+    },
+    "https://despair-manga.net/tonikaku-kawaii-chapter-2-2/": {
+      "name": "2.2"
+    },
+    "https://despair-manga.net/tonikaku-kawaii-chapter-2-1/": {
+      "name": "2.1"
+    },
+    "https://despair-manga.net/tonikaku-kawaii-chapter-2/": {
+      "name": "2"
+    },
+    "https://despair-manga.net/tonikaku-kawaii-chapter-1/": {
+      "name": "1"
+    }
+  }
+}
