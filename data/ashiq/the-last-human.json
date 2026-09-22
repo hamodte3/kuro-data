@@ -1,0 +1,817 @@
+{
+  "id": "the-last-human",
+  "title": "The Last Human",
+  "cover_url": "https://3asq.online/wp-content/uploads/2019/08/TLH.jpg",
+  "description": "تسو تيانشين هو آخر إنسان حي في مدينة مليئة بالزومبي. بعد أن تأكد من موته، وجد روحه تعود إلى ما قبل ذلك اليوم المشؤوم قبل عشر سنوات. يقسم إنه سوف يحمي من يهتم لأمرهم هذه المرة ويجتمع بعشيقته. تابعوا نضاله من أجل البقاء بمساعدة ذكرياته للسنوات العشر القادمة!",
+  "type": "مانها",
+  "status": "مستمر",
+  "rating": "4.6",
+  "favorites": "208",
+  "genres": [
+    "أكشن",
+    "خارق للطبيعة",
+    "دراما",
+    "رعب",
+    "شونين",
+    "غموض",
+    "مغامرة"
+  ],
+  "is_novel": false,
+  "chapters": {
+    "https://3asq.online/manga/the-last-human/265": {
+      "name": "265"
+    },
+    "https://3asq.online/manga/the-last-human/264": {
+      "name": "264"
+    },
+    "https://3asq.online/manga/the-last-human/263": {
+      "name": "263"
+    },
+    "https://3asq.online/manga/the-last-human/262": {
+      "name": "262"
+    },
+    "https://3asq.online/manga/the-last-human/261": {
+      "name": "261"
+    },
+    "https://3asq.online/manga/the-last-human/260": {
+      "name": "260"
+    },
+    "https://3asq.online/manga/the-last-human/259": {
+      "name": "259"
+    },
+    "https://3asq.online/manga/the-last-human/258": {
+      "name": "258"
+    },
+    "https://3asq.online/manga/the-last-human/257": {
+      "name": "257"
+    },
+    "https://3asq.online/manga/the-last-human/256": {
+      "name": "256"
+    },
+    "https://3asq.online/manga/the-last-human/255": {
+      "name": "255"
+    },
+    "https://3asq.online/manga/the-last-human/254": {
+      "name": "254"
+    },
+    "https://3asq.online/manga/the-last-human/253": {
+      "name": "253"
+    },
+    "https://3asq.online/manga/the-last-human/252": {
+      "name": "252"
+    },
+    "https://3asq.online/manga/the-last-human/251": {
+      "name": "251"
+    },
+    "https://3asq.online/manga/the-last-human/250": {
+      "name": "250"
+    },
+    "https://3asq.online/manga/the-last-human/249": {
+      "name": "249"
+    },
+    "https://3asq.online/manga/the-last-human/248": {
+      "name": "248"
+    },
+    "https://3asq.online/manga/the-last-human/247": {
+      "name": "247"
+    },
+    "https://3asq.online/manga/the-last-human/246": {
+      "name": "246"
+    },
+    "https://3asq.online/manga/the-last-human/245": {
+      "name": "245"
+    },
+    "https://3asq.online/manga/the-last-human/244": {
+      "name": "244"
+    },
+    "https://3asq.online/manga/the-last-human/243": {
+      "name": "243"
+    },
+    "https://3asq.online/manga/the-last-human/242": {
+      "name": "242"
+    },
+    "https://3asq.online/manga/the-last-human/241": {
+      "name": "241"
+    },
+    "https://3asq.online/manga/the-last-human/240": {
+      "name": "240"
+    },
+    "https://3asq.online/manga/the-last-human/239": {
+      "name": "239"
+    },
+    "https://3asq.online/manga/the-last-human/238": {
+      "name": "238"
+    },
+    "https://3asq.online/manga/the-last-human/237": {
+      "name": "237"
+    },
+    "https://3asq.online/manga/the-last-human/236": {
+      "name": "236"
+    },
+    "https://3asq.online/manga/the-last-human/235": {
+      "name": "235"
+    },
+    "https://3asq.online/manga/the-last-human/234": {
+      "name": "234"
+    },
+    "https://3asq.online/manga/the-last-human/233": {
+      "name": "233"
+    },
+    "https://3asq.online/manga/the-last-human/232": {
+      "name": "232"
+    },
+    "https://3asq.online/manga/the-last-human/231": {
+      "name": "231"
+    },
+    "https://3asq.online/manga/the-last-human/230": {
+      "name": "230"
+    },
+    "https://3asq.online/manga/the-last-human/229": {
+      "name": "229"
+    },
+    "https://3asq.online/manga/the-last-human/228": {
+      "name": "228"
+    },
+    "https://3asq.online/manga/the-last-human/227": {
+      "name": "227"
+    },
+    "https://3asq.online/manga/the-last-human/226": {
+      "name": "226"
+    },
+    "https://3asq.online/manga/the-last-human/225": {
+      "name": "225"
+    },
+    "https://3asq.online/manga/the-last-human/224": {
+      "name": "224"
+    },
+    "https://3asq.online/manga/the-last-human/223": {
+      "name": "223"
+    },
+    "https://3asq.online/manga/the-last-human/222": {
+      "name": "222"
+    },
+    "https://3asq.online/manga/the-last-human/221": {
+      "name": "221"
+    },
+    "https://3asq.online/manga/the-last-human/220": {
+      "name": "220"
+    },
+    "https://3asq.online/manga/the-last-human/219": {
+      "name": "219"
+    },
+    "https://3asq.online/manga/the-last-human/218": {
+      "name": "218"
+    },
+    "https://3asq.online/manga/the-last-human/217": {
+      "name": "217"
+    },
+    "https://3asq.online/manga/the-last-human/216": {
+      "name": "216"
+    },
+    "https://3asq.online/manga/the-last-human/215": {
+      "name": "215"
+    },
+    "https://3asq.online/manga/the-last-human/214": {
+      "name": "214"
+    },
+    "https://3asq.online/manga/the-last-human/213": {
+      "name": "213"
+    },
+    "https://3asq.online/manga/the-last-human/212": {
+      "name": "212"
+    },
+    "https://3asq.online/manga/the-last-human/211": {
+      "name": "211"
+    },
+    "https://3asq.online/manga/the-last-human/210": {
+      "name": "210"
+    },
+    "https://3asq.online/manga/the-last-human/209": {
+      "name": "209"
+    },
+    "https://3asq.online/manga/the-last-human/208": {
+      "name": "208"
+    },
+    "https://3asq.online/manga/the-last-human/207": {
+      "name": "207"
+    },
+    "https://3asq.online/manga/the-last-human/206": {
+      "name": "206"
+    },
+    "https://3asq.online/manga/the-last-human/205": {
+      "name": "205"
+    },
+    "https://3asq.online/manga/the-last-human/204": {
+      "name": "204"
+    },
+    "https://3asq.online/manga/the-last-human/203": {
+      "name": "203"
+    },
+    "https://3asq.online/manga/the-last-human/202": {
+      "name": "202"
+    },
+    "https://3asq.online/manga/the-last-human/201": {
+      "name": "201"
+    },
+    "https://3asq.online/manga/the-last-human/200": {
+      "name": "200"
+    },
+    "https://3asq.online/manga/the-last-human/199": {
+      "name": "199"
+    },
+    "https://3asq.online/manga/the-last-human/198": {
+      "name": "198"
+    },
+    "https://3asq.online/manga/the-last-human/197": {
+      "name": "197"
+    },
+    "https://3asq.online/manga/the-last-human/196": {
+      "name": "196"
+    },
+    "https://3asq.online/manga/the-last-human/195": {
+      "name": "195"
+    },
+    "https://3asq.online/manga/the-last-human/194": {
+      "name": "194"
+    },
+    "https://3asq.online/manga/the-last-human/193": {
+      "name": "193"
+    },
+    "https://3asq.online/manga/the-last-human/192": {
+      "name": "192"
+    },
+    "https://3asq.online/manga/the-last-human/191": {
+      "name": "191"
+    },
+    "https://3asq.online/manga/the-last-human/190": {
+      "name": "190"
+    },
+    "https://3asq.online/manga/the-last-human/189": {
+      "name": "189"
+    },
+    "https://3asq.online/manga/the-last-human/188": {
+      "name": "188"
+    },
+    "https://3asq.online/manga/the-last-human/187": {
+      "name": "187"
+    },
+    "https://3asq.online/manga/the-last-human/186": {
+      "name": "186"
+    },
+    "https://3asq.online/manga/the-last-human/185": {
+      "name": "185"
+    },
+    "https://3asq.online/manga/the-last-human/184": {
+      "name": "184"
+    },
+    "https://3asq.online/manga/the-last-human/183": {
+      "name": "183"
+    },
+    "https://3asq.online/manga/the-last-human/182": {
+      "name": "182"
+    },
+    "https://3asq.online/manga/the-last-human/181": {
+      "name": "181"
+    },
+    "https://3asq.online/manga/the-last-human/180": {
+      "name": "180"
+    },
+    "https://3asq.online/manga/the-last-human/179": {
+      "name": "179"
+    },
+    "https://3asq.online/manga/the-last-human/178": {
+      "name": "178"
+    },
+    "https://3asq.online/manga/the-last-human/177": {
+      "name": "177"
+    },
+    "https://3asq.online/manga/the-last-human/176": {
+      "name": "176"
+    },
+    "https://3asq.online/manga/the-last-human/175": {
+      "name": "175"
+    },
+    "https://3asq.online/manga/the-last-human/174": {
+      "name": "174"
+    },
+    "https://3asq.online/manga/the-last-human/173": {
+      "name": "173"
+    },
+    "https://3asq.online/manga/the-last-human/172": {
+      "name": "172"
+    },
+    "https://3asq.online/manga/the-last-human/171": {
+      "name": "171"
+    },
+    "https://3asq.online/manga/the-last-human/170": {
+      "name": "170"
+    },
+    "https://3asq.online/manga/the-last-human/169": {
+      "name": "169"
+    },
+    "https://3asq.online/manga/the-last-human/168": {
+      "name": "168"
+    },
+    "https://3asq.online/manga/the-last-human/167": {
+      "name": "167"
+    },
+    "https://3asq.online/manga/the-last-human/166": {
+      "name": "166"
+    },
+    "https://3asq.online/manga/the-last-human/165": {
+      "name": "165"
+    },
+    "https://3asq.online/manga/the-last-human/164": {
+      "name": "164"
+    },
+    "https://3asq.online/manga/the-last-human/163": {
+      "name": "163"
+    },
+    "https://3asq.online/manga/the-last-human/162": {
+      "name": "162"
+    },
+    "https://3asq.online/manga/the-last-human/161": {
+      "name": "161"
+    },
+    "https://3asq.online/manga/the-last-human/160": {
+      "name": "160"
+    },
+    "https://3asq.online/manga/the-last-human/159": {
+      "name": "159"
+    },
+    "https://3asq.online/manga/the-last-human/158": {
+      "name": "158"
+    },
+    "https://3asq.online/manga/the-last-human/157": {
+      "name": "157"
+    },
+    "https://3asq.online/manga/the-last-human/156": {
+      "name": "156"
+    },
+    "https://3asq.online/manga/the-last-human/155": {
+      "name": "155"
+    },
+    "https://3asq.online/manga/the-last-human/154": {
+      "name": "154"
+    },
+    "https://3asq.online/manga/the-last-human/153": {
+      "name": "153"
+    },
+    "https://3asq.online/manga/the-last-human/152": {
+      "name": "152"
+    },
+    "https://3asq.online/manga/the-last-human/151": {
+      "name": "151"
+    },
+    "https://3asq.online/manga/the-last-human/150": {
+      "name": "150"
+    },
+    "https://3asq.online/manga/the-last-human/149": {
+      "name": "149"
+    },
+    "https://3asq.online/manga/the-last-human/148": {
+      "name": "148"
+    },
+    "https://3asq.online/manga/the-last-human/147": {
+      "name": "147"
+    },
+    "https://3asq.online/manga/the-last-human/146": {
+      "name": "146"
+    },
+    "https://3asq.online/manga/the-last-human/145": {
+      "name": "145"
+    },
+    "https://3asq.online/manga/the-last-human/144": {
+      "name": "144"
+    },
+    "https://3asq.online/manga/the-last-human/143": {
+      "name": "143"
+    },
+    "https://3asq.online/manga/the-last-human/142": {
+      "name": "142"
+    },
+    "https://3asq.online/manga/the-last-human/141": {
+      "name": "141"
+    },
+    "https://3asq.online/manga/the-last-human/140": {
+      "name": "140"
+    },
+    "https://3asq.online/manga/the-last-human/139": {
+      "name": "139"
+    },
+    "https://3asq.online/manga/the-last-human/138": {
+      "name": "138"
+    },
+    "https://3asq.online/manga/the-last-human/137": {
+      "name": "137"
+    },
+    "https://3asq.online/manga/the-last-human/136": {
+      "name": "136"
+    },
+    "https://3asq.online/manga/the-last-human/135": {
+      "name": "135"
+    },
+    "https://3asq.online/manga/the-last-human/134": {
+      "name": "134"
+    },
+    "https://3asq.online/manga/the-last-human/133": {
+      "name": "133"
+    },
+    "https://3asq.online/manga/the-last-human/132": {
+      "name": "132"
+    },
+    "https://3asq.online/manga/the-last-human/131": {
+      "name": "131"
+    },
+    "https://3asq.online/manga/the-last-human/130": {
+      "name": "130"
+    },
+    "https://3asq.online/manga/the-last-human/129": {
+      "name": "129"
+    },
+    "https://3asq.online/manga/the-last-human/128": {
+      "name": "128"
+    },
+    "https://3asq.online/manga/the-last-human/127": {
+      "name": "127"
+    },
+    "https://3asq.online/manga/the-last-human/126": {
+      "name": "126"
+    },
+    "https://3asq.online/manga/the-last-human/125": {
+      "name": "125"
+    },
+    "https://3asq.online/manga/the-last-human/124": {
+      "name": "124"
+    },
+    "https://3asq.online/manga/the-last-human/123": {
+      "name": "123"
+    },
+    "https://3asq.online/manga/the-last-human/122": {
+      "name": "122"
+    },
+    "https://3asq.online/manga/the-last-human/121": {
+      "name": "121"
+    },
+    "https://3asq.online/manga/the-last-human/120": {
+      "name": "120"
+    },
+    "https://3asq.online/manga/the-last-human/119": {
+      "name": "119"
+    },
+    "https://3asq.online/manga/the-last-human/118": {
+      "name": "118"
+    },
+    "https://3asq.online/manga/the-last-human/117": {
+      "name": "117"
+    },
+    "https://3asq.online/manga/the-last-human/116": {
+      "name": "116"
+    },
+    "https://3asq.online/manga/the-last-human/115": {
+      "name": "115"
+    },
+    "https://3asq.online/manga/the-last-human/114": {
+      "name": "114"
+    },
+    "https://3asq.online/manga/the-last-human/113": {
+      "name": "113"
+    },
+    "https://3asq.online/manga/the-last-human/112": {
+      "name": "112"
+    },
+    "https://3asq.online/manga/the-last-human/111": {
+      "name": "111"
+    },
+    "https://3asq.online/manga/the-last-human/110": {
+      "name": "110"
+    },
+    "https://3asq.online/manga/the-last-human/109": {
+      "name": "109"
+    },
+    "https://3asq.online/manga/the-last-human/108": {
+      "name": "108"
+    },
+    "https://3asq.online/manga/the-last-human/107": {
+      "name": "107"
+    },
+    "https://3asq.online/manga/the-last-human/106": {
+      "name": "106"
+    },
+    "https://3asq.online/manga/the-last-human/105": {
+      "name": "105"
+    },
+    "https://3asq.online/manga/the-last-human/104": {
+      "name": "104"
+    },
+    "https://3asq.online/manga/the-last-human/103": {
+      "name": "103"
+    },
+    "https://3asq.online/manga/the-last-human/102": {
+      "name": "102"
+    },
+    "https://3asq.online/manga/the-last-human/101": {
+      "name": "101"
+    },
+    "https://3asq.online/manga/the-last-human/100": {
+      "name": "100"
+    },
+    "https://3asq.online/manga/the-last-human/99": {
+      "name": "99"
+    },
+    "https://3asq.online/manga/the-last-human/98": {
+      "name": "98"
+    },
+    "https://3asq.online/manga/the-last-human/97": {
+      "name": "97"
+    },
+    "https://3asq.online/manga/the-last-human/96": {
+      "name": "96"
+    },
+    "https://3asq.online/manga/the-last-human/95": {
+      "name": "95"
+    },
+    "https://3asq.online/manga/the-last-human/94": {
+      "name": "94"
+    },
+    "https://3asq.online/manga/the-last-human/93": {
+      "name": "93"
+    },
+    "https://3asq.online/manga/the-last-human/92": {
+      "name": "92"
+    },
+    "https://3asq.online/manga/the-last-human/91": {
+      "name": "91"
+    },
+    "https://3asq.online/manga/the-last-human/90": {
+      "name": "90"
+    },
+    "https://3asq.online/manga/the-last-human/89": {
+      "name": "89"
+    },
+    "https://3asq.online/manga/the-last-human/88": {
+      "name": "88"
+    },
+    "https://3asq.online/manga/the-last-human/87": {
+      "name": "87"
+    },
+    "https://3asq.online/manga/the-last-human/86": {
+      "name": "86"
+    },
+    "https://3asq.online/manga/the-last-human/85": {
+      "name": "85"
+    },
+    "https://3asq.online/manga/the-last-human/84": {
+      "name": "84"
+    },
+    "https://3asq.online/manga/the-last-human/83": {
+      "name": "83"
+    },
+    "https://3asq.online/manga/the-last-human/82": {
+      "name": "82"
+    },
+    "https://3asq.online/manga/the-last-human/81": {
+      "name": "81"
+    },
+    "https://3asq.online/manga/the-last-human/80": {
+      "name": "80"
+    },
+    "https://3asq.online/manga/the-last-human/79": {
+      "name": "79"
+    },
+    "https://3asq.online/manga/the-last-human/78": {
+      "name": "78"
+    },
+    "https://3asq.online/manga/the-last-human/77": {
+      "name": "77"
+    },
+    "https://3asq.online/manga/the-last-human/76": {
+      "name": "76"
+    },
+    "https://3asq.online/manga/the-last-human/75": {
+      "name": "75"
+    },
+    "https://3asq.online/manga/the-last-human/74": {
+      "name": "74"
+    },
+    "https://3asq.online/manga/the-last-human/73": {
+      "name": "73"
+    },
+    "https://3asq.online/manga/the-last-human/72": {
+      "name": "72"
+    },
+    "https://3asq.online/manga/the-last-human/71": {
+      "name": "71"
+    },
+    "https://3asq.online/manga/the-last-human/70": {
+      "name": "70"
+    },
+    "https://3asq.online/manga/the-last-human/69": {
+      "name": "69"
+    },
+    "https://3asq.online/manga/the-last-human/68": {
+      "name": "68"
+    },
+    "https://3asq.online/manga/the-last-human/67": {
+      "name": "67"
+    },
+    "https://3asq.online/manga/the-last-human/66": {
+      "name": "66"
+    },
+    "https://3asq.online/manga/the-last-human/65": {
+      "name": "65"
+    },
+    "https://3asq.online/manga/the-last-human/64": {
+      "name": "64"
+    },
+    "https://3asq.online/manga/the-last-human/63": {
+      "name": "63"
+    },
+    "https://3asq.online/manga/the-last-human/62": {
+      "name": "62"
+    },
+    "https://3asq.online/manga/the-last-human/61": {
+      "name": "61"
+    },
+    "https://3asq.online/manga/the-last-human/60": {
+      "name": "60"
+    },
+    "https://3asq.online/manga/the-last-human/59": {
+      "name": "59"
+    },
+    "https://3asq.online/manga/the-last-human/58": {
+      "name": "58"
+    },
+    "https://3asq.online/manga/the-last-human/57": {
+      "name": "57"
+    },
+    "https://3asq.online/manga/the-last-human/56": {
+      "name": "56"
+    },
+    "https://3asq.online/manga/the-last-human/55": {
+      "name": "55"
+    },
+    "https://3asq.online/manga/the-last-human/54": {
+      "name": "54"
+    },
+    "https://3asq.online/manga/the-last-human/53": {
+      "name": "53"
+    },
+    "https://3asq.online/manga/the-last-human/52": {
+      "name": "52"
+    },
+    "https://3asq.online/manga/the-last-human/51": {
+      "name": "51"
+    },
+    "https://3asq.online/manga/the-last-human/50": {
+      "name": "50"
+    },
+    "https://3asq.online/manga/the-last-human/49": {
+      "name": "49"
+    },
+    "https://3asq.online/manga/the-last-human/48": {
+      "name": "48"
+    },
+    "https://3asq.online/manga/the-last-human/47": {
+      "name": "47"
+    },
+    "https://3asq.online/manga/the-last-human/46": {
+      "name": "46"
+    },
+    "https://3asq.online/manga/the-last-human/45": {
+      "name": "45"
+    },
+    "https://3asq.online/manga/the-last-human/44": {
+      "name": "44"
+    },
+    "https://3asq.online/manga/the-last-human/43": {
+      "name": "43"
+    },
+    "https://3asq.online/manga/the-last-human/42": {
+      "name": "42"
+    },
+    "https://3asq.online/manga/the-last-human/41": {
+      "name": "41"
+    },
+    "https://3asq.online/manga/the-last-human/40": {
+      "name": "40"
+    },
+    "https://3asq.online/manga/the-last-human/39": {
+      "name": "39"
+    },
+    "https://3asq.online/manga/the-last-human/38": {
+      "name": "38"
+    },
+    "https://3asq.online/manga/the-last-human/37": {
+      "name": "37"
+    },
+    "https://3asq.online/manga/the-last-human/36": {
+      "name": "36"
+    },
+    "https://3asq.online/manga/the-last-human/35": {
+      "name": "35"
+    },
+    "https://3asq.online/manga/the-last-human/34": {
+      "name": "34"
+    },
+    "https://3asq.online/manga/the-last-human/33": {
+      "name": "33"
+    },
+    "https://3asq.online/manga/the-last-human/32": {
+      "name": "32"
+    },
+    "https://3asq.online/manga/the-last-human/31": {
+      "name": "31"
+    },
+    "https://3asq.online/manga/the-last-human/30": {
+      "name": "30"
+    },
+    "https://3asq.online/manga/the-last-human/29": {
+      "name": "29"
+    },
+    "https://3asq.online/manga/the-last-human/28": {
+      "name": "28"
+    },
+    "https://3asq.online/manga/the-last-human/27": {
+      "name": "27"
+    },
+    "https://3asq.online/manga/the-last-human/26": {
+      "name": "26"
+    },
+    "https://3asq.online/manga/the-last-human/25": {
+      "name": "25"
+    },
+    "https://3asq.online/manga/the-last-human/24": {
+      "name": "24"
+    },
+    "https://3asq.online/manga/the-last-human/23": {
+      "name": "23"
+    },
+    "https://3asq.online/manga/the-last-human/22": {
+      "name": "22"
+    },
+    "https://3asq.online/manga/the-last-human/21": {
+      "name": "21"
+    },
+    "https://3asq.online/manga/the-last-human/20": {
+      "name": "20"
+    },
+    "https://3asq.online/manga/the-last-human/19": {
+      "name": "19"
+    },
+    "https://3asq.online/manga/the-last-human/18": {
+      "name": "18"
+    },
+    "https://3asq.online/manga/the-last-human/17": {
+      "name": "17"
+    },
+    "https://3asq.online/manga/the-last-human/16": {
+      "name": "16"
+    },
+    "https://3asq.online/manga/the-last-human/15": {
+      "name": "15"
+    },
+    "https://3asq.online/manga/the-last-human/14": {
+      "name": "14"
+    },
+    "https://3asq.online/manga/the-last-human/13": {
+      "name": "13"
+    },
+    "https://3asq.online/manga/the-last-human/12": {
+      "name": "12"
+    },
+    "https://3asq.online/manga/the-last-human/11": {
+      "name": "11"
+    },
+    "https://3asq.online/manga/the-last-human/10": {
+      "name": "10"
+    },
+    "https://3asq.online/manga/the-last-human/9": {
+      "name": "9"
+    },
+    "https://3asq.online/manga/the-last-human/8": {
+      "name": "8"
+    },
+    "https://3asq.online/manga/the-last-human/7": {
+      "name": "7"
+    },
+    "https://3asq.online/manga/the-last-human/6": {
+      "name": "6"
+    },
+    "https://3asq.online/manga/the-last-human/5": {
+      "name": "5"
+    },
+    "https://3asq.online/manga/the-last-human/4": {
+      "name": "4"
+    },
+    "https://3asq.online/manga/the-last-human/3": {
+      "name": "3"
+    },
+    "https://3asq.online/manga/the-last-human/2": {
+      "name": "2"
+    },
+    "https://3asq.online/manga/the-last-human/1": {
+      "name": "1"
+    }
+  }
+}

@@ -1,0 +1,1724 @@
+{
+  "id": "one-piece",
+  "title": "One Piece",
+  "cover_url": "https://3asq.online/wp-content/uploads/2019/04/v1-1.jpg",
+  "description": "تتمحور القصة حول مغامرات طاقم قراصنة قبعة القش بقيادة مونكي دي لوفي، لكل فرد من أفراد هذا الطاقم هدفٌ يطمح لتحقيقه، أما الهدف الرئيس لقائدهم لوفي هو إيجاد الكنز الأسطوري “ون بيس” وأن يغدو ملك القراصنة.",
+  "type": "مانغا",
+  "status": "مستمر",
+  "rating": "4.7",
+  "favorites": "5",
+  "genres": [
+    "100%",
+    "3asq",
+    "أكشن",
+    "خيال",
+    "دراما",
+    "قوى خارقة",
+    "كوميديا",
+    "مغامرة"
+  ],
+  "is_novel": false,
+  "chapters": {
+    "https://3asq.online/manga/one-piece/1193": {
+      "name": "1193"
+    },
+    "https://3asq.online/manga/one-piece/1192": {
+      "name": "1192"
+    },
+    "https://3asq.online/manga/one-piece/1191": {
+      "name": "1191"
+    },
+    "https://3asq.online/manga/one-piece/1190": {
+      "name": "1190"
+    },
+    "https://3asq.online/manga/one-piece/1189": {
+      "name": "1189"
+    },
+    "https://3asq.online/manga/one-piece/1188": {
+      "name": "1188"
+    },
+    "https://3asq.online/manga/one-piece/1187": {
+      "name": "1187"
+    },
+    "https://3asq.online/manga/one-piece/1186": {
+      "name": "1186"
+    },
+    "https://3asq.online/manga/one-piece/1185": {
+      "name": "1185"
+    },
+    "https://3asq.online/manga/one-piece/1184": {
+      "name": "1184"
+    },
+    "https://3asq.online/manga/one-piece/1183": {
+      "name": "1183"
+    },
+    "https://3asq.online/manga/one-piece/1182": {
+      "name": "1182"
+    },
+    "https://3asq.online/manga/one-piece/1181-5": {
+      "name": "1181.5"
+    },
+    "https://3asq.online/manga/one-piece/1181": {
+      "name": "1181"
+    },
+    "https://3asq.online/manga/one-piece/1180": {
+      "name": "1180"
+    },
+    "https://3asq.online/manga/one-piece/1179": {
+      "name": "1179"
+    },
+    "https://3asq.online/manga/one-piece/1178": {
+      "name": "1178"
+    },
+    "https://3asq.online/manga/one-piece/1177": {
+      "name": "1177"
+    },
+    "https://3asq.online/manga/one-piece/1176": {
+      "name": "1176"
+    },
+    "https://3asq.online/manga/one-piece/1175": {
+      "name": "1175"
+    },
+    "https://3asq.online/manga/one-piece/1174": {
+      "name": "1174"
+    },
+    "https://3asq.online/manga/one-piece/1173": {
+      "name": "1173"
+    },
+    "https://3asq.online/manga/one-piece/1172": {
+      "name": "1172"
+    },
+    "https://3asq.online/manga/one-piece/1171": {
+      "name": "1171"
+    },
+    "https://3asq.online/manga/one-piece/1170": {
+      "name": "1170"
+    },
+    "https://3asq.online/manga/one-piece/1169": {
+      "name": "1169"
+    },
+    "https://3asq.online/manga/one-piece/1168": {
+      "name": "1168"
+    },
+    "https://3asq.online/manga/one-piece/1167": {
+      "name": "1167"
+    },
+    "https://3asq.online/manga/one-piece/1166": {
+      "name": "1166"
+    },
+    "https://3asq.online/manga/one-piece/1165-5": {
+      "name": "1165.5"
+    },
+    "https://3asq.online/manga/one-piece/1165": {
+      "name": "1165"
+    },
+    "https://3asq.online/manga/one-piece/1164-5": {
+      "name": "1164.5"
+    },
+    "https://3asq.online/manga/one-piece/1164": {
+      "name": "1164"
+    },
+    "https://3asq.online/manga/one-piece/1163-5": {
+      "name": "1163.5"
+    },
+    "https://3asq.online/manga/one-piece/1163": {
+      "name": "1163"
+    },
+    "https://3asq.online/manga/one-piece/1162": {
+      "name": "1162"
+    },
+    "https://3asq.online/manga/one-piece/1161": {
+      "name": "1161"
+    },
+    "https://3asq.online/manga/one-piece/1160-5": {
+      "name": "1160.5"
+    },
+    "https://3asq.online/manga/one-piece/1160": {
+      "name": "1160"
+    },
+    "https://3asq.online/manga/one-piece/1159": {
+      "name": "1159"
+    },
+    "https://3asq.online/manga/one-piece/1158": {
+      "name": "1158"
+    },
+    "https://3asq.online/manga/one-piece/1157": {
+      "name": "1157"
+    },
+    "https://3asq.online/manga/one-piece/1156-5": {
+      "name": "1156.5"
+    },
+    "https://3asq.online/manga/one-piece/1156": {
+      "name": "1156"
+    },
+    "https://3asq.online/manga/one-piece/1155-5": {
+      "name": "1155.5"
+    },
+    "https://3asq.online/manga/one-piece/1155": {
+      "name": "1155"
+    },
+    "https://3asq.online/manga/one-piece/1154": {
+      "name": "1154"
+    },
+    "https://3asq.online/manga/one-piece/1153": {
+      "name": "1153"
+    },
+    "https://3asq.online/manga/one-piece/1152": {
+      "name": "1152"
+    },
+    "https://3asq.online/manga/one-piece/1151": {
+      "name": "1151"
+    },
+    "https://3asq.online/manga/one-piece/1150": {
+      "name": "1150"
+    },
+    "https://3asq.online/manga/one-piece/1149": {
+      "name": "1149"
+    },
+    "https://3asq.online/manga/one-piece/1148": {
+      "name": "1148"
+    },
+    "https://3asq.online/manga/one-piece/1147": {
+      "name": "1147"
+    },
+    "https://3asq.online/manga/one-piece/1146": {
+      "name": "1146"
+    },
+    "https://3asq.online/manga/one-piece/1145": {
+      "name": "1145"
+    },
+    "https://3asq.online/manga/one-piece/1144": {
+      "name": "1144"
+    },
+    "https://3asq.online/manga/one-piece/1143": {
+      "name": "1143"
+    },
+    "https://3asq.online/manga/one-piece/1142": {
+      "name": "1142"
+    },
+    "https://3asq.online/manga/one-piece/1141": {
+      "name": "1141"
+    },
+    "https://3asq.online/manga/one-piece/1140": {
+      "name": "1140"
+    },
+    "https://3asq.online/manga/one-piece/1139": {
+      "name": "1139"
+    },
+    "https://3asq.online/manga/one-piece/1138-5": {
+      "name": "1138.5"
+    },
+    "https://3asq.online/manga/one-piece/1138": {
+      "name": "1138"
+    },
+    "https://3asq.online/manga/one-piece/1137-5": {
+      "name": "1137.5"
+    },
+    "https://3asq.online/manga/one-piece/1137": {
+      "name": "1137"
+    },
+    "https://3asq.online/manga/one-piece/1136-5": {
+      "name": "1136.5"
+    },
+    "https://3asq.online/manga/one-piece/1136": {
+      "name": "1136"
+    },
+    "https://3asq.online/manga/one-piece/1135": {
+      "name": "1135"
+    },
+    "https://3asq.online/manga/one-piece/1134": {
+      "name": "1134"
+    },
+    "https://3asq.online/manga/one-piece/1133": {
+      "name": "1133"
+    },
+    "https://3asq.online/manga/one-piece/1132": {
+      "name": "1132"
+    },
+    "https://3asq.online/manga/one-piece/1131": {
+      "name": "1131"
+    },
+    "https://3asq.online/manga/one-piece/1130-5": {
+      "name": "1130.5"
+    },
+    "https://3asq.online/manga/one-piece/1130": {
+      "name": "1130"
+    },
+    "https://3asq.online/manga/one-piece/1129": {
+      "name": "1129"
+    },
+    "https://3asq.online/manga/one-piece/1128": {
+      "name": "1128"
+    },
+    "https://3asq.online/manga/one-piece/1127": {
+      "name": "1127"
+    },
+    "https://3asq.online/manga/one-piece/1126": {
+      "name": "1126"
+    },
+    "https://3asq.online/manga/one-piece/1125": {
+      "name": "1125"
+    },
+    "https://3asq.online/manga/one-piece/1124-5": {
+      "name": "1124.5"
+    },
+    "https://3asq.online/manga/one-piece/1124": {
+      "name": "1124"
+    },
+    "https://3asq.online/manga/one-piece/1123-5": {
+      "name": "1123.5"
+    },
+    "https://3asq.online/manga/one-piece/1123": {
+      "name": "1123"
+    },
+    "https://3asq.online/manga/one-piece/1122-5": {
+      "name": "1122.5"
+    },
+    "https://3asq.online/manga/one-piece/1122": {
+      "name": "1122"
+    },
+    "https://3asq.online/manga/one-piece/1121": {
+      "name": "1121"
+    },
+    "https://3asq.online/manga/one-piece/1120": {
+      "name": "1120"
+    },
+    "https://3asq.online/manga/one-piece/1119": {
+      "name": "1119"
+    },
+    "https://3asq.online/manga/one-piece/1118-5": {
+      "name": "1118.5"
+    },
+    "https://3asq.online/manga/one-piece/1118": {
+      "name": "1118"
+    },
+    "https://3asq.online/manga/one-piece/1117": {
+      "name": "1117"
+    },
+    "https://3asq.online/manga/one-piece/1116": {
+      "name": "1116"
+    },
+    "https://3asq.online/manga/one-piece/1115": {
+      "name": "1115"
+    },
+    "https://3asq.online/manga/one-piece/1114": {
+      "name": "1114"
+    },
+    "https://3asq.online/manga/one-piece/1113": {
+      "name": "1113"
+    },
+    "https://3asq.online/manga/one-piece/1112": {
+      "name": "1112"
+    },
+    "https://3asq.online/manga/one-piece/1111": {
+      "name": "1111"
+    },
+    "https://3asq.online/manga/one-piece/1110-5": {
+      "name": "1110.5"
+    },
+    "https://3asq.online/manga/one-piece/1110": {
+      "name": "1110"
+    },
+    "https://3asq.online/manga/one-piece/1109-5": {
+      "name": "1109.5"
+    },
+    "https://3asq.online/manga/one-piece/1109": {
+      "name": "1109"
+    },
+    "https://3asq.online/manga/one-piece/1108": {
+      "name": "1108"
+    },
+    "https://3asq.online/manga/one-piece/1107-5": {
+      "name": "1107.5"
+    },
+    "https://3asq.online/manga/one-piece/1107": {
+      "name": "1107"
+    },
+    "https://3asq.online/manga/one-piece/1106": {
+      "name": "1106"
+    },
+    "https://3asq.online/manga/one-piece/1105": {
+      "name": "1105"
+    },
+    "https://3asq.online/manga/one-piece/1104": {
+      "name": "1104"
+    },
+    "https://3asq.online/manga/one-piece/1103": {
+      "name": "1103"
+    },
+    "https://3asq.online/manga/one-piece/1102": {
+      "name": "1102"
+    },
+    "https://3asq.online/manga/one-piece/1101": {
+      "name": "1101"
+    },
+    "https://3asq.online/manga/one-piece/1100-5": {
+      "name": "1100.5"
+    },
+    "https://3asq.online/manga/one-piece/1100": {
+      "name": "1100"
+    },
+    "https://3asq.online/manga/one-piece/1099": {
+      "name": "1099"
+    },
+    "https://3asq.online/manga/one-piece/1098": {
+      "name": "1098"
+    },
+    "https://3asq.online/manga/one-piece/1097-5": {
+      "name": "1097.5"
+    },
+    "https://3asq.online/manga/one-piece/1097": {
+      "name": "1097"
+    },
+    "https://3asq.online/manga/one-piece/1096-5": {
+      "name": "1096.5"
+    },
+    "https://3asq.online/manga/one-piece/1096": {
+      "name": "1096"
+    },
+    "https://3asq.online/manga/one-piece/1095": {
+      "name": "1095"
+    },
+    "https://3asq.online/manga/one-piece/1094": {
+      "name": "1094"
+    },
+    "https://3asq.online/manga/one-piece/1093-5": {
+      "name": "1093.5"
+    },
+    "https://3asq.online/manga/one-piece/1093": {
+      "name": "1093"
+    },
+    "https://3asq.online/manga/one-piece/1092": {
+      "name": "1092"
+    },
+    "https://3asq.online/manga/one-piece/1091-5": {
+      "name": "1091.5"
+    },
+    "https://3asq.online/manga/one-piece/1091": {
+      "name": "1091"
+    },
+    "https://3asq.online/manga/one-piece/1090": {
+      "name": "1090"
+    },
+    "https://3asq.online/manga/one-piece/1089-5": {
+      "name": "1089.5"
+    },
+    "https://3asq.online/manga/one-piece/1089": {
+      "name": "1089"
+    },
+    "https://3asq.online/manga/one-piece/1088-5": {
+      "name": "1088.5"
+    },
+    "https://3asq.online/manga/one-piece/1088": {
+      "name": "1088"
+    },
+    "https://3asq.online/manga/one-piece/1087": {
+      "name": "1087"
+    },
+    "https://3asq.online/manga/one-piece/1086-5": {
+      "name": "1086.5"
+    },
+    "https://3asq.online/manga/one-piece/1086": {
+      "name": "1086"
+    },
+    "https://3asq.online/manga/one-piece/1085": {
+      "name": "1085"
+    },
+    "https://3asq.online/manga/one-piece/1084": {
+      "name": "1084"
+    },
+    "https://3asq.online/manga/one-piece/1083-5": {
+      "name": "1083.5"
+    },
+    "https://3asq.online/manga/one-piece/1083": {
+      "name": "1083"
+    },
+    "https://3asq.online/manga/one-piece/1082": {
+      "name": "1082"
+    },
+    "https://3asq.online/manga/one-piece/1081-5": {
+      "name": "1081.5"
+    },
+    "https://3asq.online/manga/one-piece/1081": {
+      "name": "1081"
+    },
+    "https://3asq.online/manga/one-piece/1080-5": {
+      "name": "1080.5"
+    },
+    "https://3asq.online/manga/one-piece/1080": {
+      "name": "1080"
+    },
+    "https://3asq.online/manga/one-piece/1079-5": {
+      "name": "1079.5"
+    },
+    "https://3asq.online/manga/one-piece/1079": {
+      "name": "1079"
+    },
+    "https://3asq.online/manga/one-piece/1078": {
+      "name": "1078"
+    },
+    "https://3asq.online/manga/one-piece/1077": {
+      "name": "1077"
+    },
+    "https://3asq.online/manga/one-piece/1076-5": {
+      "name": "1076.5"
+    },
+    "https://3asq.online/manga/one-piece/1076": {
+      "name": "1076"
+    },
+    "https://3asq.online/manga/one-piece/1075": {
+      "name": "1075"
+    },
+    "https://3asq.online/manga/one-piece/1074-5_1": {
+      "name": "1074.5"
+    },
+    "https://3asq.online/manga/one-piece/1074": {
+      "name": "1074"
+    },
+    "https://3asq.online/manga/one-piece/1073-5": {
+      "name": "1073.5"
+    },
+    "https://3asq.online/manga/one-piece/1073": {
+      "name": "1073"
+    },
+    "https://3asq.online/manga/one-piece/1072": {
+      "name": "1072"
+    },
+    "https://3asq.online/manga/one-piece/1071": {
+      "name": "1071"
+    },
+    "https://3asq.online/manga/one-piece/1070": {
+      "name": "1070"
+    },
+    "https://3asq.online/manga/one-piece/1069-5_1": {
+      "name": "1069.5"
+    },
+    "https://3asq.online/manga/one-piece/1069": {
+      "name": "1069"
+    },
+    "https://3asq.online/manga/one-piece/1068": {
+      "name": "1068"
+    },
+    "https://3asq.online/manga/one-piece/1067": {
+      "name": "1067"
+    },
+    "https://3asq.online/manga/one-piece/1066-5": {
+      "name": "1066.5"
+    },
+    "https://3asq.online/manga/one-piece/1066": {
+      "name": "1066"
+    },
+    "https://3asq.online/manga/one-piece/1065": {
+      "name": "1065"
+    },
+    "https://3asq.online/manga/one-piece/1064-5": {
+      "name": "1064.5"
+    },
+    "https://3asq.online/manga/one-piece/1064": {
+      "name": "1064"
+    },
+    "https://3asq.online/manga/one-piece/1063": {
+      "name": "1063"
+    },
+    "https://3asq.online/manga/one-piece/1062": {
+      "name": "1062"
+    },
+    "https://3asq.online/manga/one-piece/1061_1": {
+      "name": "1061"
+    },
+    "https://3asq.online/manga/one-piece/1060": {
+      "name": "1060"
+    },
+    "https://3asq.online/manga/one-piece/1059-1": {
+      "name": "1059.1"
+    },
+    "https://3asq.online/manga/one-piece/1059": {
+      "name": "1059"
+    },
+    "https://3asq.online/manga/one-piece/1058-5": {
+      "name": "1058.5"
+    },
+    "https://3asq.online/manga/one-piece/1058": {
+      "name": "1058"
+    },
+    "https://3asq.online/manga/one-piece/1057": {
+      "name": "1057"
+    },
+    "https://3asq.online/manga/one-piece/1056": {
+      "name": "1056"
+    },
+    "https://3asq.online/manga/one-piece/1055": {
+      "name": "1055"
+    },
+    "https://3asq.online/manga/one-piece/1054": {
+      "name": "1054"
+    },
+    "https://3asq.online/manga/one-piece/1053-5": {
+      "name": "1053.5"
+    },
+    "https://3asq.online/manga/one-piece/1053": {
+      "name": "1053"
+    },
+    "https://3asq.online/manga/one-piece/1052": {
+      "name": "1052"
+    },
+    "https://3asq.online/manga/one-piece/1051": {
+      "name": "1051"
+    },
+    "https://3asq.online/manga/one-piece/1050": {
+      "name": "1050"
+    },
+    "https://3asq.online/manga/one-piece/1049-5": {
+      "name": "1049.5"
+    },
+    "https://3asq.online/manga/one-piece/1049": {
+      "name": "1049"
+    },
+    "https://3asq.online/manga/one-piece/1048_1": {
+      "name": "1048"
+    },
+    "https://3asq.online/manga/one-piece/1047": {
+      "name": "1047"
+    },
+    "https://3asq.online/manga/one-piece/1046": {
+      "name": "1046"
+    },
+    "https://3asq.online/manga/one-piece/1045": {
+      "name": "1045"
+    },
+    "https://3asq.online/manga/one-piece/1044-1": {
+      "name": "1044.1"
+    },
+    "https://3asq.online/manga/one-piece/1044": {
+      "name": "1044"
+    },
+    "https://3asq.online/manga/one-piece/1043": {
+      "name": "1043"
+    },
+    "https://3asq.online/manga/one-piece/1042": {
+      "name": "1042"
+    },
+    "https://3asq.online/manga/one-piece/1041": {
+      "name": "1041"
+    },
+    "https://3asq.online/manga/one-piece/1040": {
+      "name": "1040"
+    },
+    "https://3asq.online/manga/one-piece/1039-1": {
+      "name": "1039.1"
+    },
+    "https://3asq.online/manga/one-piece/1039": {
+      "name": "1039"
+    },
+    "https://3asq.online/manga/one-piece/1038": {
+      "name": "1038"
+    },
+    "https://3asq.online/manga/one-piece/1037": {
+      "name": "1037"
+    },
+    "https://3asq.online/manga/one-piece/1036": {
+      "name": "1036"
+    },
+    "https://3asq.online/manga/one-piece/1035-1": {
+      "name": "1035.1"
+    },
+    "https://3asq.online/manga/one-piece/1035": {
+      "name": "1035"
+    },
+    "https://3asq.online/manga/one-piece/1034": {
+      "name": "1034"
+    },
+    "https://3asq.online/manga/one-piece/1033-5": {
+      "name": "1033.5"
+    },
+    "https://3asq.online/manga/one-piece/1033": {
+      "name": "1033"
+    },
+    "https://3asq.online/manga/one-piece/1032": {
+      "name": "1032"
+    },
+    "https://3asq.online/manga/one-piece/1031": {
+      "name": "1031"
+    },
+    "https://3asq.online/manga/one-piece/1030": {
+      "name": "1030"
+    },
+    "https://3asq.online/manga/one-piece/1029_1": {
+      "name": "1029"
+    },
+    "https://3asq.online/manga/one-piece/1028-5": {
+      "name": "1028.5"
+    },
+    "https://3asq.online/manga/one-piece/1028": {
+      "name": "1028"
+    },
+    "https://3asq.online/manga/one-piece/1027": {
+      "name": "1027"
+    },
+    "https://3asq.online/manga/one-piece/1026": {
+      "name": "1026"
+    },
+    "https://3asq.online/manga/one-piece/1025": {
+      "name": "1025"
+    },
+    "https://3asq.online/manga/one-piece/1024": {
+      "name": "1024"
+    },
+    "https://3asq.online/manga/one-piece/1023-5": {
+      "name": "1023.5"
+    },
+    "https://3asq.online/manga/one-piece/1023": {
+      "name": "1023"
+    },
+    "https://3asq.online/manga/one-piece/1022": {
+      "name": "1022"
+    },
+    "https://3asq.online/manga/one-piece/1021": {
+      "name": "1021"
+    },
+    "https://3asq.online/manga/one-piece/1020": {
+      "name": "1020"
+    },
+    "https://3asq.online/manga/one-piece/1019": {
+      "name": "1019"
+    },
+    "https://3asq.online/manga/one-piece/1018": {
+      "name": "1018"
+    },
+    "https://3asq.online/manga/one-piece/1017": {
+      "name": "1017"
+    },
+    "https://3asq.online/manga/one-piece/1016": {
+      "name": "1016"
+    },
+    "https://3asq.online/manga/one-piece/1015": {
+      "name": "1015"
+    },
+    "https://3asq.online/manga/one-piece/1014-5": {
+      "name": "1014.5"
+    },
+    "https://3asq.online/manga/one-piece/1014": {
+      "name": "1014"
+    },
+    "https://3asq.online/manga/one-piece/1013": {
+      "name": "1013"
+    },
+    "https://3asq.online/manga/one-piece/1012": {
+      "name": "1012"
+    },
+    "https://3asq.online/manga/one-piece/n-a": {
+      "name": "1011"
+    },
+    "https://3asq.online/manga/one-piece/1010-5": {
+      "name": "1010.5"
+    },
+    "https://3asq.online/manga/one-piece/1010": {
+      "name": "1010"
+    },
+    "https://3asq.online/manga/one-piece/1009-5": {
+      "name": "1009.5"
+    },
+    "https://3asq.online/manga/one-piece/1009": {
+      "name": "1009"
+    },
+    "https://3asq.online/manga/one-piece/1008": {
+      "name": "1008"
+    },
+    "https://3asq.online/manga/one-piece/1007": {
+      "name": "1007"
+    },
+    "https://3asq.online/manga/one-piece/1006": {
+      "name": "1006"
+    },
+    "https://3asq.online/manga/one-piece/1005": {
+      "name": "1005"
+    },
+    "https://3asq.online/manga/one-piece/1004": {
+      "name": "1004"
+    },
+    "https://3asq.online/manga/one-piece/1003": {
+      "name": "1003"
+    },
+    "https://3asq.online/manga/one-piece/1002-5": {
+      "name": "1002.5"
+    },
+    "https://3asq.online/manga/one-piece/1002": {
+      "name": "1002"
+    },
+    "https://3asq.online/manga/one-piece/1000-5": {
+      "name": "1000.5"
+    },
+    "https://3asq.online/manga/one-piece/999": {
+      "name": "999"
+    },
+    "https://3asq.online/manga/one-piece/990": {
+      "name": "990"
+    },
+    "https://3asq.online/manga/one-piece/989": {
+      "name": "989"
+    },
+    "https://3asq.online/manga/one-piece/988": {
+      "name": "988"
+    },
+    "https://3asq.online/manga/one-piece/987": {
+      "name": "987"
+    },
+    "https://3asq.online/manga/one-piece/968": {
+      "name": "968"
+    },
+    "https://3asq.online/manga/one-piece/967": {
+      "name": "967"
+    },
+    "https://3asq.online/manga/one-piece/966": {
+      "name": "966"
+    },
+    "https://3asq.online/manga/one-piece/965": {
+      "name": "965"
+    },
+    "https://3asq.online/manga/one-piece/964": {
+      "name": "964"
+    },
+    "https://3asq.online/manga/one-piece/963": {
+      "name": "963"
+    },
+    "https://3asq.online/manga/one-piece/962": {
+      "name": "962"
+    },
+    "https://3asq.online/manga/one-piece/961": {
+      "name": "961"
+    },
+    "https://3asq.online/manga/one-piece/960": {
+      "name": "960"
+    },
+    "https://3asq.online/manga/one-piece/959": {
+      "name": "959"
+    },
+    "https://3asq.online/manga/one-piece/958": {
+      "name": "958"
+    },
+    "https://3asq.online/manga/one-piece/957": {
+      "name": "957"
+    },
+    "https://3asq.online/manga/one-piece/956-5": {
+      "name": "956.5"
+    },
+    "https://3asq.online/manga/one-piece/956": {
+      "name": "956"
+    },
+    "https://3asq.online/manga/one-piece/955": {
+      "name": "955"
+    },
+    "https://3asq.online/manga/one-piece/954": {
+      "name": "954"
+    },
+    "https://3asq.online/manga/one-piece/953": {
+      "name": "953"
+    },
+    "https://3asq.online/manga/one-piece/952": {
+      "name": "952"
+    },
+    "https://3asq.online/manga/one-piece/951": {
+      "name": "951"
+    },
+    "https://3asq.online/manga/one-piece/950": {
+      "name": "950"
+    },
+    "https://3asq.online/manga/one-piece/949": {
+      "name": "949"
+    },
+    "https://3asq.online/manga/one-piece/948": {
+      "name": "948"
+    },
+    "https://3asq.online/manga/one-piece/947": {
+      "name": "947"
+    },
+    "https://3asq.online/manga/one-piece/946": {
+      "name": "946"
+    },
+    "https://3asq.online/manga/one-piece/945": {
+      "name": "945"
+    },
+    "https://3asq.online/manga/one-piece/944": {
+      "name": "944"
+    },
+    "https://3asq.online/manga/one-piece/943": {
+      "name": "943"
+    },
+    "https://3asq.online/manga/one-piece/942": {
+      "name": "942"
+    },
+    "https://3asq.online/manga/one-piece/941": {
+      "name": "941"
+    },
+    "https://3asq.online/manga/one-piece/940": {
+      "name": "940"
+    },
+    "https://3asq.online/manga/one-piece/939": {
+      "name": "939"
+    },
+    "https://3asq.online/manga/one-piece/938": {
+      "name": "938"
+    },
+    "https://3asq.online/manga/one-piece/937": {
+      "name": "937"
+    },
+    "https://3asq.online/manga/one-piece/936": {
+      "name": "936"
+    },
+    "https://3asq.online/manga/one-piece/935": {
+      "name": "935"
+    },
+    "https://3asq.online/manga/one-piece/934": {
+      "name": "934"
+    },
+    "https://3asq.online/manga/one-piece/933": {
+      "name": "933"
+    },
+    "https://3asq.online/manga/one-piece/932": {
+      "name": "932"
+    },
+    "https://3asq.online/manga/one-piece/931": {
+      "name": "931"
+    },
+    "https://3asq.online/manga/one-piece/930": {
+      "name": "930"
+    },
+    "https://3asq.online/manga/one-piece/929": {
+      "name": "929"
+    },
+    "https://3asq.online/manga/one-piece/928": {
+      "name": "928"
+    },
+    "https://3asq.online/manga/one-piece/927": {
+      "name": "927"
+    },
+    "https://3asq.online/manga/one-piece/926": {
+      "name": "926"
+    },
+    "https://3asq.online/manga/one-piece/925": {
+      "name": "925"
+    },
+    "https://3asq.online/manga/one-piece/924": {
+      "name": "924"
+    },
+    "https://3asq.online/manga/one-piece/923": {
+      "name": "923"
+    },
+    "https://3asq.online/manga/one-piece/922": {
+      "name": "922"
+    },
+    "https://3asq.online/manga/one-piece/921": {
+      "name": "921"
+    },
+    "https://3asq.online/manga/one-piece/920": {
+      "name": "920"
+    },
+    "https://3asq.online/manga/one-piece/919": {
+      "name": "919"
+    },
+    "https://3asq.online/manga/one-piece/918": {
+      "name": "918"
+    },
+    "https://3asq.online/manga/one-piece/917": {
+      "name": "917"
+    },
+    "https://3asq.online/manga/one-piece/916": {
+      "name": "916"
+    },
+    "https://3asq.online/manga/one-piece/915": {
+      "name": "915"
+    },
+    "https://3asq.online/manga/one-piece/914": {
+      "name": "914"
+    },
+    "https://3asq.online/manga/one-piece/913": {
+      "name": "913"
+    },
+    "https://3asq.online/manga/one-piece/912": {
+      "name": "912"
+    },
+    "https://3asq.online/manga/one-piece/911": {
+      "name": "911"
+    },
+    "https://3asq.online/manga/one-piece/910": {
+      "name": "910"
+    },
+    "https://3asq.online/manga/one-piece/909": {
+      "name": "909"
+    },
+    "https://3asq.online/manga/one-piece/908": {
+      "name": "908"
+    },
+    "https://3asq.online/manga/one-piece/907": {
+      "name": "907"
+    },
+    "https://3asq.online/manga/one-piece/906": {
+      "name": "906"
+    },
+    "https://3asq.online/manga/one-piece/905": {
+      "name": "905"
+    },
+    "https://3asq.online/manga/one-piece/904": {
+      "name": "904"
+    },
+    "https://3asq.online/manga/one-piece/903": {
+      "name": "903"
+    },
+    "https://3asq.online/manga/one-piece/902": {
+      "name": "902"
+    },
+    "https://3asq.online/manga/one-piece/901": {
+      "name": "901"
+    },
+    "https://3asq.online/manga/one-piece/900": {
+      "name": "900"
+    },
+    "https://3asq.online/manga/one-piece/899": {
+      "name": "899"
+    },
+    "https://3asq.online/manga/one-piece/898": {
+      "name": "898"
+    },
+    "https://3asq.online/manga/one-piece/897": {
+      "name": "897"
+    },
+    "https://3asq.online/manga/one-piece/896": {
+      "name": "896"
+    },
+    "https://3asq.online/manga/one-piece/895": {
+      "name": "895"
+    },
+    "https://3asq.online/manga/one-piece/894": {
+      "name": "894"
+    },
+    "https://3asq.online/manga/one-piece/893": {
+      "name": "893"
+    },
+    "https://3asq.online/manga/one-piece/892": {
+      "name": "892"
+    },
+    "https://3asq.online/manga/one-piece/891": {
+      "name": "891"
+    },
+    "https://3asq.online/manga/one-piece/890": {
+      "name": "890"
+    },
+    "https://3asq.online/manga/one-piece/889": {
+      "name": "889"
+    },
+    "https://3asq.online/manga/one-piece/888": {
+      "name": "888"
+    },
+    "https://3asq.online/manga/one-piece/887": {
+      "name": "887"
+    },
+    "https://3asq.online/manga/one-piece/886": {
+      "name": "886"
+    },
+    "https://3asq.online/manga/one-piece/885": {
+      "name": "885"
+    },
+    "https://3asq.online/manga/one-piece/884": {
+      "name": "884"
+    },
+    "https://3asq.online/manga/one-piece/883": {
+      "name": "883"
+    },
+    "https://3asq.online/manga/one-piece/882": {
+      "name": "882"
+    },
+    "https://3asq.online/manga/one-piece/881": {
+      "name": "881"
+    },
+    "https://3asq.online/manga/one-piece/880": {
+      "name": "880"
+    },
+    "https://3asq.online/manga/one-piece/879": {
+      "name": "879"
+    },
+    "https://3asq.online/manga/one-piece/878": {
+      "name": "878"
+    },
+    "https://3asq.online/manga/one-piece/877": {
+      "name": "877"
+    },
+    "https://3asq.online/manga/one-piece/876": {
+      "name": "876"
+    },
+    "https://3asq.online/manga/one-piece/875": {
+      "name": "875"
+    },
+    "https://3asq.online/manga/one-piece/874": {
+      "name": "874"
+    },
+    "https://3asq.online/manga/one-piece/873": {
+      "name": "873"
+    },
+    "https://3asq.online/manga/one-piece/872": {
+      "name": "872"
+    },
+    "https://3asq.online/manga/one-piece/871": {
+      "name": "871"
+    },
+    "https://3asq.online/manga/one-piece/870": {
+      "name": "870"
+    },
+    "https://3asq.online/manga/one-piece/869": {
+      "name": "869"
+    },
+    "https://3asq.online/manga/one-piece/868": {
+      "name": "868"
+    },
+    "https://3asq.online/manga/one-piece/867": {
+      "name": "867"
+    },
+    "https://3asq.online/manga/one-piece/866": {
+      "name": "866"
+    },
+    "https://3asq.online/manga/one-piece/865": {
+      "name": "865"
+    },
+    "https://3asq.online/manga/one-piece/864": {
+      "name": "864"
+    },
+    "https://3asq.online/manga/one-piece/863": {
+      "name": "863"
+    },
+    "https://3asq.online/manga/one-piece/862": {
+      "name": "862"
+    },
+    "https://3asq.online/manga/one-piece/861": {
+      "name": "861"
+    },
+    "https://3asq.online/manga/one-piece/860": {
+      "name": "860"
+    },
+    "https://3asq.online/manga/one-piece/859": {
+      "name": "859"
+    },
+    "https://3asq.online/manga/one-piece/858": {
+      "name": "858"
+    },
+    "https://3asq.online/manga/one-piece/857": {
+      "name": "857"
+    },
+    "https://3asq.online/manga/one-piece/856": {
+      "name": "856"
+    },
+    "https://3asq.online/manga/one-piece/855": {
+      "name": "855"
+    },
+    "https://3asq.online/manga/one-piece/854": {
+      "name": "854"
+    },
+    "https://3asq.online/manga/one-piece/853": {
+      "name": "853"
+    },
+    "https://3asq.online/manga/one-piece/852": {
+      "name": "852"
+    },
+    "https://3asq.online/manga/one-piece/851": {
+      "name": "851"
+    },
+    "https://3asq.online/manga/one-piece/850": {
+      "name": "850"
+    },
+    "https://3asq.online/manga/one-piece/849": {
+      "name": "849"
+    },
+    "https://3asq.online/manga/one-piece/848": {
+      "name": "848"
+    },
+    "https://3asq.online/manga/one-piece/847": {
+      "name": "847"
+    },
+    "https://3asq.online/manga/one-piece/846": {
+      "name": "846"
+    },
+    "https://3asq.online/manga/one-piece/845": {
+      "name": "845"
+    },
+    "https://3asq.online/manga/one-piece/844": {
+      "name": "844"
+    },
+    "https://3asq.online/manga/one-piece/843": {
+      "name": "843"
+    },
+    "https://3asq.online/manga/one-piece/842": {
+      "name": "842"
+    },
+    "https://3asq.online/manga/one-piece/841": {
+      "name": "841"
+    },
+    "https://3asq.online/manga/one-piece/840": {
+      "name": "840"
+    },
+    "https://3asq.online/manga/one-piece/839": {
+      "name": "839"
+    },
+    "https://3asq.online/manga/one-piece/838": {
+      "name": "838"
+    },
+    "https://3asq.online/manga/one-piece/837": {
+      "name": "837"
+    },
+    "https://3asq.online/manga/one-piece/836": {
+      "name": "836"
+    },
+    "https://3asq.online/manga/one-piece/835": {
+      "name": "835"
+    },
+    "https://3asq.online/manga/one-piece/834": {
+      "name": "834"
+    },
+    "https://3asq.online/manga/one-piece/833": {
+      "name": "833"
+    },
+    "https://3asq.online/manga/one-piece/832": {
+      "name": "832"
+    },
+    "https://3asq.online/manga/one-piece/831": {
+      "name": "831"
+    },
+    "https://3asq.online/manga/one-piece/830": {
+      "name": "830"
+    },
+    "https://3asq.online/manga/one-piece/829": {
+      "name": "829"
+    },
+    "https://3asq.online/manga/one-piece/828": {
+      "name": "828"
+    },
+    "https://3asq.online/manga/one-piece/827": {
+      "name": "827"
+    },
+    "https://3asq.online/manga/one-piece/826": {
+      "name": "826"
+    },
+    "https://3asq.online/manga/one-piece/825": {
+      "name": "825"
+    },
+    "https://3asq.online/manga/one-piece/824": {
+      "name": "824"
+    },
+    "https://3asq.online/manga/one-piece/823": {
+      "name": "823"
+    },
+    "https://3asq.online/manga/one-piece/822": {
+      "name": "822"
+    },
+    "https://3asq.online/manga/one-piece/821": {
+      "name": "821"
+    },
+    "https://3asq.online/manga/one-piece/820": {
+      "name": "820"
+    },
+    "https://3asq.online/manga/one-piece/819": {
+      "name": "819"
+    },
+    "https://3asq.online/manga/one-piece/818": {
+      "name": "818"
+    },
+    "https://3asq.online/manga/one-piece/817": {
+      "name": "817"
+    },
+    "https://3asq.online/manga/one-piece/816": {
+      "name": "816"
+    },
+    "https://3asq.online/manga/one-piece/815": {
+      "name": "815"
+    },
+    "https://3asq.online/manga/one-piece/814": {
+      "name": "814"
+    },
+    "https://3asq.online/manga/one-piece/813": {
+      "name": "813"
+    },
+    "https://3asq.online/manga/one-piece/812": {
+      "name": "812"
+    },
+    "https://3asq.online/manga/one-piece/811": {
+      "name": "811"
+    },
+    "https://3asq.online/manga/one-piece/810": {
+      "name": "810"
+    },
+    "https://3asq.online/manga/one-piece/809": {
+      "name": "809"
+    },
+    "https://3asq.online/manga/one-piece/808": {
+      "name": "808"
+    },
+    "https://3asq.online/manga/one-piece/807": {
+      "name": "807"
+    },
+    "https://3asq.online/manga/one-piece/806": {
+      "name": "806"
+    },
+    "https://3asq.online/manga/one-piece/805": {
+      "name": "805"
+    },
+    "https://3asq.online/manga/one-piece/804": {
+      "name": "804"
+    },
+    "https://3asq.online/manga/one-piece/803": {
+      "name": "803"
+    },
+    "https://3asq.online/manga/one-piece/802": {
+      "name": "802"
+    },
+    "https://3asq.online/manga/one-piece/801": {
+      "name": "801"
+    },
+    "https://3asq.online/manga/one-piece/800": {
+      "name": "800"
+    },
+    "https://3asq.online/manga/one-piece/799": {
+      "name": "799"
+    },
+    "https://3asq.online/manga/one-piece/798": {
+      "name": "798"
+    },
+    "https://3asq.online/manga/one-piece/797": {
+      "name": "797"
+    },
+    "https://3asq.online/manga/one-piece/796": {
+      "name": "796"
+    },
+    "https://3asq.online/manga/one-piece/795": {
+      "name": "795"
+    },
+    "https://3asq.online/manga/one-piece/794": {
+      "name": "794"
+    },
+    "https://3asq.online/manga/one-piece/793": {
+      "name": "793"
+    },
+    "https://3asq.online/manga/one-piece/792": {
+      "name": "792"
+    },
+    "https://3asq.online/manga/one-piece/791": {
+      "name": "791"
+    },
+    "https://3asq.online/manga/one-piece/790": {
+      "name": "790"
+    },
+    "https://3asq.online/manga/one-piece/789": {
+      "name": "789"
+    },
+    "https://3asq.online/manga/one-piece/788": {
+      "name": "788"
+    },
+    "https://3asq.online/manga/one-piece/787": {
+      "name": "787"
+    },
+    "https://3asq.online/manga/one-piece/786": {
+      "name": "786"
+    },
+    "https://3asq.online/manga/one-piece/785": {
+      "name": "785"
+    },
+    "https://3asq.online/manga/one-piece/784": {
+      "name": "784"
+    },
+    "https://3asq.online/manga/one-piece/783": {
+      "name": "783"
+    },
+    "https://3asq.online/manga/one-piece/782": {
+      "name": "782"
+    },
+    "https://3asq.online/manga/one-piece/781": {
+      "name": "781"
+    },
+    "https://3asq.online/manga/one-piece/780": {
+      "name": "780"
+    },
+    "https://3asq.online/manga/one-piece/779": {
+      "name": "779"
+    },
+    "https://3asq.online/manga/one-piece/778": {
+      "name": "778"
+    },
+    "https://3asq.online/manga/one-piece/777": {
+      "name": "777"
+    },
+    "https://3asq.online/manga/one-piece/776": {
+      "name": "776"
+    },
+    "https://3asq.online/manga/one-piece/775": {
+      "name": "775"
+    },
+    "https://3asq.online/manga/one-piece/774": {
+      "name": "774"
+    },
+    "https://3asq.online/manga/one-piece/773": {
+      "name": "773"
+    },
+    "https://3asq.online/manga/one-piece/772": {
+      "name": "772"
+    },
+    "https://3asq.online/manga/one-piece/771": {
+      "name": "771"
+    },
+    "https://3asq.online/manga/one-piece/770": {
+      "name": "770"
+    },
+    "https://3asq.online/manga/one-piece/769": {
+      "name": "769"
+    },
+    "https://3asq.online/manga/one-piece/768": {
+      "name": "768"
+    },
+    "https://3asq.online/manga/one-piece/767": {
+      "name": "767"
+    },
+    "https://3asq.online/manga/one-piece/766": {
+      "name": "766"
+    },
+    "https://3asq.online/manga/one-piece/765": {
+      "name": "765"
+    },
+    "https://3asq.online/manga/one-piece/764": {
+      "name": "764"
+    },
+    "https://3asq.online/manga/one-piece/763": {
+      "name": "763"
+    },
+    "https://3asq.online/manga/one-piece/762": {
+      "name": "762"
+    },
+    "https://3asq.online/manga/one-piece/761": {
+      "name": "761"
+    },
+    "https://3asq.online/manga/one-piece/760": {
+      "name": "760"
+    },
+    "https://3asq.online/manga/one-piece/759": {
+      "name": "759"
+    },
+    "https://3asq.online/manga/one-piece/758": {
+      "name": "758"
+    },
+    "https://3asq.online/manga/one-piece/757": {
+      "name": "757"
+    },
+    "https://3asq.online/manga/one-piece/756": {
+      "name": "756"
+    },
+    "https://3asq.online/manga/one-piece/755": {
+      "name": "755"
+    },
+    "https://3asq.online/manga/one-piece/754": {
+      "name": "754"
+    },
+    "https://3asq.online/manga/one-piece/753": {
+      "name": "753"
+    },
+    "https://3asq.online/manga/one-piece/752": {
+      "name": "752"
+    },
+    "https://3asq.online/manga/one-piece/751": {
+      "name": "751"
+    },
+    "https://3asq.online/manga/one-piece/750": {
+      "name": "750"
+    },
+    "https://3asq.online/manga/one-piece/749": {
+      "name": "749"
+    },
+    "https://3asq.online/manga/one-piece/748": {
+      "name": "748"
+    },
+    "https://3asq.online/manga/one-piece/747": {
+      "name": "747"
+    },
+    "https://3asq.online/manga/one-piece/746": {
+      "name": "746"
+    },
+    "https://3asq.online/manga/one-piece/745": {
+      "name": "745"
+    },
+    "https://3asq.online/manga/one-piece/744": {
+      "name": "744"
+    },
+    "https://3asq.online/manga/one-piece/743": {
+      "name": "743"
+    },
+    "https://3asq.online/manga/one-piece/742": {
+      "name": "742"
+    },
+    "https://3asq.online/manga/one-piece/741": {
+      "name": "741"
+    },
+    "https://3asq.online/manga/one-piece/740": {
+      "name": "740"
+    },
+    "https://3asq.online/manga/one-piece/739": {
+      "name": "739"
+    },
+    "https://3asq.online/manga/one-piece/738": {
+      "name": "738"
+    },
+    "https://3asq.online/manga/one-piece/737": {
+      "name": "737"
+    },
+    "https://3asq.online/manga/one-piece/736": {
+      "name": "736"
+    },
+    "https://3asq.online/manga/one-piece/735": {
+      "name": "735"
+    },
+    "https://3asq.online/manga/one-piece/734": {
+      "name": "734"
+    },
+    "https://3asq.online/manga/one-piece/733": {
+      "name": "733"
+    },
+    "https://3asq.online/manga/one-piece/732": {
+      "name": "732"
+    },
+    "https://3asq.online/manga/one-piece/731": {
+      "name": "731"
+    },
+    "https://3asq.online/manga/one-piece/730": {
+      "name": "730"
+    },
+    "https://3asq.online/manga/one-piece/729": {
+      "name": "729"
+    },
+    "https://3asq.online/manga/one-piece/728": {
+      "name": "728"
+    },
+    "https://3asq.online/manga/one-piece/727": {
+      "name": "727"
+    },
+    "https://3asq.online/manga/one-piece/726": {
+      "name": "726"
+    },
+    "https://3asq.online/manga/one-piece/725": {
+      "name": "725"
+    },
+    "https://3asq.online/manga/one-piece/724": {
+      "name": "724"
+    },
+    "https://3asq.online/manga/one-piece/723": {
+      "name": "723"
+    },
+    "https://3asq.online/manga/one-piece/722": {
+      "name": "722"
+    },
+    "https://3asq.online/manga/one-piece/721": {
+      "name": "721"
+    },
+    "https://3asq.online/manga/one-piece/720": {
+      "name": "720"
+    },
+    "https://3asq.online/manga/one-piece/719": {
+      "name": "719"
+    },
+    "https://3asq.online/manga/one-piece/718": {
+      "name": "718"
+    },
+    "https://3asq.online/manga/one-piece/717": {
+      "name": "717"
+    },
+    "https://3asq.online/manga/one-piece/716": {
+      "name": "716"
+    },
+    "https://3asq.online/manga/one-piece/715": {
+      "name": "715"
+    },
+    "https://3asq.online/manga/one-piece/714": {
+      "name": "714"
+    },
+    "https://3asq.online/manga/one-piece/713": {
+      "name": "713"
+    },
+    "https://3asq.online/manga/one-piece/712": {
+      "name": "712"
+    },
+    "https://3asq.online/manga/one-piece/711": {
+      "name": "711"
+    },
+    "https://3asq.online/manga/one-piece/710": {
+      "name": "710"
+    },
+    "https://3asq.online/manga/one-piece/709": {
+      "name": "709"
+    },
+    "https://3asq.online/manga/one-piece/708": {
+      "name": "708"
+    },
+    "https://3asq.online/manga/one-piece/707": {
+      "name": "707"
+    },
+    "https://3asq.online/manga/one-piece/706": {
+      "name": "706"
+    },
+    "https://3asq.online/manga/one-piece/705": {
+      "name": "705"
+    },
+    "https://3asq.online/manga/one-piece/704": {
+      "name": "704"
+    },
+    "https://3asq.online/manga/one-piece/703": {
+      "name": "703"
+    },
+    "https://3asq.online/manga/one-piece/702": {
+      "name": "702"
+    },
+    "https://3asq.online/manga/one-piece/701": {
+      "name": "701"
+    },
+    "https://3asq.online/manga/one-piece/700": {
+      "name": "700"
+    },
+    "https://3asq.online/manga/one-piece/699": {
+      "name": "699"
+    },
+    "https://3asq.online/manga/one-piece/698": {
+      "name": "698"
+    },
+    "https://3asq.online/manga/one-piece/697": {
+      "name": "697"
+    },
+    "https://3asq.online/manga/one-piece/696": {
+      "name": "696"
+    },
+    "https://3asq.online/manga/one-piece/695": {
+      "name": "695"
+    },
+    "https://3asq.online/manga/one-piece/694": {
+      "name": "694"
+    },
+    "https://3asq.online/manga/one-piece/693": {
+      "name": "693"
+    },
+    "https://3asq.online/manga/one-piece/692": {
+      "name": "692"
+    },
+    "https://3asq.online/manga/one-piece/691": {
+      "name": "691"
+    },
+    "https://3asq.online/manga/one-piece/690": {
+      "name": "690"
+    },
+    "https://3asq.online/manga/one-piece/689": {
+      "name": "689"
+    },
+    "https://3asq.online/manga/one-piece/688": {
+      "name": "688"
+    },
+    "https://3asq.online/manga/one-piece/687": {
+      "name": "687"
+    },
+    "https://3asq.online/manga/one-piece/686": {
+      "name": "686"
+    },
+    "https://3asq.online/manga/one-piece/685": {
+      "name": "685"
+    },
+    "https://3asq.online/manga/one-piece/684": {
+      "name": "684"
+    },
+    "https://3asq.online/manga/one-piece/683": {
+      "name": "683"
+    },
+    "https://3asq.online/manga/one-piece/682": {
+      "name": "682"
+    },
+    "https://3asq.online/manga/one-piece/357": {
+      "name": "357"
+    },
+    "https://3asq.online/manga/one-piece/356": {
+      "name": "356"
+    },
+    "https://3asq.online/manga/one-piece/355": {
+      "name": "355"
+    },
+    "https://3asq.online/manga/one-piece/354": {
+      "name": "354"
+    },
+    "https://3asq.online/manga/one-piece/353": {
+      "name": "353"
+    },
+    "https://3asq.online/manga/one-piece/352": {
+      "name": "352"
+    },
+    "https://3asq.online/manga/one-piece/351": {
+      "name": "351"
+    },
+    "https://3asq.online/manga/one-piece/350": {
+      "name": "350"
+    },
+    "https://3asq.online/manga/one-piece/349": {
+      "name": "349"
+    },
+    "https://3asq.online/manga/one-piece/348": {
+      "name": "348"
+    },
+    "https://3asq.online/manga/one-piece/347": {
+      "name": "347"
+    },
+    "https://3asq.online/manga/one-piece/336": {
+      "name": "336"
+    },
+    "https://3asq.online/manga/one-piece/335": {
+      "name": "335"
+    },
+    "https://3asq.online/manga/one-piece/334": {
+      "name": "334"
+    },
+    "https://3asq.online/manga/one-piece/333": {
+      "name": "333"
+    },
+    "https://3asq.online/manga/one-piece/332": {
+      "name": "332"
+    },
+    "https://3asq.online/manga/one-piece/331": {
+      "name": "331"
+    },
+    "https://3asq.online/manga/one-piece/330": {
+      "name": "330"
+    },
+    "https://3asq.online/manga/one-piece/329": {
+      "name": "329"
+    },
+    "https://3asq.online/manga/one-piece/328": {
+      "name": "328"
+    },
+    "https://3asq.online/manga/one-piece/327": {
+      "name": "327"
+    },
+    "https://3asq.online/manga/one-piece/326": {
+      "name": "326"
+    },
+    "https://3asq.online/manga/one-piece/325": {
+      "name": "325"
+    },
+    "https://3asq.online/manga/one-piece/324": {
+      "name": "324"
+    },
+    "https://3asq.online/manga/one-piece/323": {
+      "name": "323"
+    },
+    "https://3asq.online/manga/one-piece/322": {
+      "name": "322"
+    },
+    "https://3asq.online/manga/one-piece/321": {
+      "name": "321"
+    },
+    "https://3asq.online/manga/one-piece/320": {
+      "name": "320"
+    },
+    "https://3asq.online/manga/one-piece/319": {
+      "name": "319"
+    },
+    "https://3asq.online/manga/one-piece/234": {
+      "name": "234"
+    },
+    "https://3asq.online/manga/one-piece/0chapter": {
+      "name": "0"
+    }
+  }
+}
