@@ -30,7 +30,6 @@ jobs:
           python sync_despair.py
           python sync_kolnovel.py
           python sync_mangatime.py
-          python sync_teamx.py
 
       - name: Commit and Push Changes
         run: |
