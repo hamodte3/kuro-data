@@ -580,19 +580,19 @@
     "rating": "8.8"
   },
   {
-    "id": "no-way-people-find-cultivation-difficult-right",
-    "title": "من غير الممكن ان يجد الناس التدريب صعباً. اليس كذلك؟",
-    "url": "https://kolnovel.com/series/no-way-people-find-cultivation-difficult-right",
-    "cover_url": "https://kolnovel.com/wp-content/uploads/2021/08/4.png",
+    "id": "%d8%b9%d8%a8%d8%af-%d8%a7%d9%84%d8%b8%d9%84",
+    "title": "عبد الظل",
+    "url": "https://kolnovel.com/series/%d8%b9%d8%a8%d8%af-%d8%a7%d9%84%d8%b8%d9%84",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2025/01/ساني-1.jpg",
     "type": "رواية",
     "is_novel": true,
     "rating": "8.0"
   },
   {
-    "id": "%d8%b9%d8%a8%d8%af-%d8%a7%d9%84%d8%b8%d9%84",
-    "title": "عبد الظل",
-    "url": "https://kolnovel.com/series/%d8%b9%d8%a8%d8%af-%d8%a7%d9%84%d8%b8%d9%84",
-    "cover_url": "https://kolnovel.com/wp-content/uploads/2025/01/ساني-1.jpg",
+    "id": "no-way-people-find-cultivation-difficult-right",
+    "title": "من غير الممكن ان يجد الناس التدريب صعباً. اليس كذلك؟",
+    "url": "https://kolnovel.com/series/no-way-people-find-cultivation-difficult-right",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2021/08/4.png",
     "type": "رواية",
     "is_novel": true,
     "rating": "8.0"
@@ -2038,15 +2038,6 @@
     "rating": "8.1"
   },
   {
-    "id": "%d8%a7%d9%84%d8%ad%d9%8a%d8%a7%d8%a9-%d9%83%d8%b4%d8%a8%d8%ad",
-    "title": "الحياة كشبح",
-    "url": "https://kolnovel.com/series/%d8%a7%d9%84%d8%ad%d9%8a%d8%a7%d8%a9-%d9%83%d8%b4%d8%a8%d8%ad",
-    "cover_url": "https://kolnovel.com/wp-content/uploads/2023/11/IMG_0558-scaled.jpg",
-    "type": "رواية",
-    "is_novel": true,
-    "rating": "8.0"
-  },
-  {
     "id": "%d8%b3%d9%84%d8%b3%d9%84%d8%a9-%d9%85%d9%88%d9%86%d9%88%d8%ba%d8%a7%d8%aa%d8%a7%d8%b1%d9%8a",
     "title": "سلسلة مونوغاتاري",
     "url": "https://kolnovel.com/series/%d8%b3%d9%84%d8%b3%d9%84%d8%a9-%d9%85%d9%88%d9%86%d9%88%d8%ba%d8%a7%d8%aa%d8%a7%d8%b1%d9%8a",
@@ -2054,6 +2045,15 @@
     "type": "رواية",
     "is_novel": true,
     "rating": "7.6"
+  },
+  {
+    "id": "%d8%a7%d9%84%d8%ad%d9%8a%d8%a7%d8%a9-%d9%83%d8%b4%d8%a8%d8%ad",
+    "title": "الحياة كشبح",
+    "url": "https://kolnovel.com/series/%d8%a7%d9%84%d8%ad%d9%8a%d8%a7%d8%a9-%d9%83%d8%b4%d8%a8%d8%ad",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2023/11/IMG_0558-scaled.jpg",
+    "type": "رواية",
+    "is_novel": true,
+    "rating": "8.0"
   },
   {
     "id": "%d8%a5%d9%85%d8%a8%d8%b1%d9%8a%d8%a7%d9%84%d9%8a-%d8%b4%d8%a8%d9%87-%d9%82%d8%b3%d8%b1%d9%8a",
