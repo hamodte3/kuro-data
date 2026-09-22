@@ -1,5 +1,45 @@
 [
   {
+    "id": "the-imperial-maiden",
+    "title": "The Imperial Maiden",
+    "url": "https://azorafly.com/series/the-imperial-maiden",
+    "cover_url": "https://storage.azorafly.com/upload/series/featured/02408b52-85d5-445d-9e5c-f7dbcd583bf8/b89faad3-0939-420e-aa19-6a394e5fea02.jpg",
+    "type": "مانهوا",
+    "status": "مستمر",
+    "rating": "",
+    "total_chapters": 22
+  },
+  {
+    "id": "the-counts-secret-maid",
+    "title": "The Count's Secret Maid",
+    "url": "https://azorafly.com/series/the-counts-secret-maid",
+    "cover_url": "https://storage.azorafly.com/upload/series/featured/a5vVlSc5huft2AzUyK1VxgKh1ckCWLbZ/80cad67b-9a0e-413a-8217-d3caa458c81a.jpg",
+    "type": "مانهوا",
+    "status": "مستمر",
+    "rating": "",
+    "total_chapters": 108
+  },
+  {
+    "id": "shahad-diary",
+    "title": "Shahad Diary",
+    "url": "https://azorafly.com/series/shahad-diary",
+    "cover_url": "https://storage.azorafly.com/upload/series/featured/02408b52-85d5-445d-9e5c-f7dbcd583bf8/3c61cecf-9f34-42cd-85d7-810319a1c437.jpg",
+    "type": "مانهوا",
+    "status": "مستمر",
+    "rating": "",
+    "total_chapters": 8
+  },
+  {
+    "id": "i-awakened-as-the-most-fearsome-stepmother!",
+    "title": "I Awakened as the Most Fearsome Stepmother?!",
+    "url": "https://azorafly.com/series/i-awakened-as-the-most-fearsome-stepmother!",
+    "cover_url": "https://storage.azorafly.com/upload/series/featured/02408b52-85d5-445d-9e5c-f7dbcd583bf8/ab1e3cec-dafb-401b-8c44-2c391affcc0a.jpg",
+    "type": "مانهوا",
+    "status": "مستمر",
+    "rating": "",
+    "total_chapters": 33
+  },
+  {
     "id": "the-duchess's-secret-dressing-room",
     "title": "The Duchess's Secret Dressing Room",
     "url": "https://azorafly.com/series/the-duchess's-secret-dressing-room",
@@ -163,41 +203,25 @@
     "id": "taming-of-heroes",
     "title": "Taming of Heroes",
     "url": "https://azorafly.com/series/taming-of-heroes",
-    "cover_url": "https://storage.azorafly.com/2025/04/20250430_055510.webp",
-    "type": "مانهوا",
-    "status": "مستمر",
-    "rating": "",
-    "total_chapters": 45
+    "cover_url": "https://storage.azorafly.com/2025/04/20250430_055510.webp"
   },
   {
     "id": "i'm-the-youngest-daughter-of-the-snake-family",
     "title": "I’m the Youngest Daughter of the Snake Family",
     "url": "https://azorafly.com/series/i'm-the-youngest-daughter-of-the-snake-family",
-    "cover_url": "https://storage.azorafly.com/upload/series/featured/a5vVlSc5huft2AzUyK1VxgKh1ckCWLbZ/b8dd9d89-0e4e-46bc-9ef3-66efe8cc40c2.jpg",
-    "type": "رواية",
-    "status": "مستمر",
-    "rating": "",
-    "total_chapters": 11
+    "cover_url": "https://storage.azorafly.com/upload/series/featured/a5vVlSc5huft2AzUyK1VxgKh1ckCWLbZ/b8dd9d89-0e4e-46bc-9ef3-66efe8cc40c2.jpg"
   },
   {
     "id": "i-am-in-a-secret-relationship-with-the-emperor-but-i-don't-know-it1",
     "title": "I Am in a Secret Relationship With the Emperor, But I Don't Know it",
     "url": "https://azorafly.com/series/i-am-in-a-secret-relationship-with-the-emperor-but-i-don't-know-it1",
-    "cover_url": "https://storage.azorafly.com/public/upload/2026/01/31/e5dcd893-f4a3-4424-b88b-7d27c839a8ae.webp",
-    "type": "رواية",
-    "status": "مستمر",
-    "rating": "",
-    "total_chapters": 105
+    "cover_url": "https://storage.azorafly.com/public/upload/2026/01/31/e5dcd893-f4a3-4424-b88b-7d27c839a8ae.webp"
   },
   {
     "id": "i'm-a-young-system-won't-you-raise-m",
     "title": "I'm a Young system, Won't You Raise Me?",
     "url": "https://azorafly.com/series/i'm-a-young-system-won't-you-raise-m",
-    "cover_url": "https://storage.azorafly.com/upload/series/featured/a5vVlSc5huft2AzUyK1VxgKh1ckCWLbZ/d835862c-ace4-49d0-be46-73385cb1ad7a.jpg",
-    "type": "رواية",
-    "status": "مستمر",
-    "rating": "",
-    "total_chapters": 164
+    "cover_url": "https://storage.azorafly.com/upload/series/featured/a5vVlSc5huft2AzUyK1VxgKh1ckCWLbZ/d835862c-ace4-49d0-be46-73385cb1ad7a.jpg"
   },
   {
     "id": "survive-the-horror-school",
@@ -294,18 +318,6 @@
     "title": "ever after",
     "url": "https://azorafly.com/series/ever-after",
     "cover_url": "https://storage.azorafly.com/upload/series/featured/oGmL0DQZ16QInTPaeDKwFEK9ryegoy88/ed26a916-2017-4cf0-b668-5f8efc2f6588.webp"
-  },
-  {
-    "id": "i-married-the-dragon-i-killed",
-    "title": "I Married the Dragon I Killed",
-    "url": "https://azorafly.com/series/i-married-the-dragon-i-killed",
-    "cover_url": "https://storage.azorafly.com/upload/series/featured/6cac1de1-87ae-4a81-9cd1-2abe99fd84d7/d0651972-78ff-434a-aa5a-7baefc7ed754.png"
-  },
-  {
-    "id": "the-flower-with-a-sword",
-    "title": "The Flower With a Sword",
-    "url": "https://azorafly.com/series/the-flower-with-a-sword",
-    "cover_url": "https://storage.azorafly.com/public/upload/2026/04/03/85f99085-fac0-4b13-97b8-5990ae2a751d.webp"
   },
   {
     "id": "the-crown-prince-that-sells-medicine",
@@ -786,6 +798,18 @@
     "title": "Goblin Corporation",
     "url": "https://azorafly.com/series/goblin-corporation",
     "cover_url": "https://storage.azorafly.com/upload/series/featured/6cac1de1-87ae-4a81-9cd1-2abe99fd84d7/29635484-e96c-44cf-bc64-36d72de17236.png"
+  },
+  {
+    "id": "villain-family's-strongest-butler",
+    "title": "Villain Family's Strongest Butler",
+    "url": "https://azorafly.com/series/villain-family's-strongest-butler",
+    "cover_url": "https://storage.azorafly.com/upload/series/featured/a5vVlSc5huft2AzUyK1VxgKh1ckCWLbZ/ee5843b1-80b2-47c3-80c4-c22f5c6180f4.jpg"
+  },
+  {
+    "id": "i-don't-want-to-break-up!",
+    "title": "I Don't Want to Break Up!",
+    "url": "https://azorafly.com/series/i-don't-want-to-break-up!",
+    "cover_url": "https://storage.azorafly.com/upload/series/featured/oGmL0DQZ16QInTPaeDKwFEK9ryegoy88/145c2412-4e37-4cfd-adb6-53845c72bc0b.webp"
   },
   {
     "id": "the-reason-the-villainess-took-up-the-sword",
@@ -1466,12 +1490,6 @@
     "cover_url": "https://storage.azorafly.com/upload/series/featured/a5vVlSc5huft2AzUyK1VxgKh1ckCWLbZ/a8c48b5b-7747-4c7d-9427-9b088db74ed7.jpg"
   },
   {
-    "id": "the-imperial-maiden",
-    "title": "The Imperial Maiden",
-    "url": "https://azorafly.com/series/the-imperial-maiden",
-    "cover_url": "https://storage.azorafly.com/upload/series/featured/02408b52-85d5-445d-9e5c-f7dbcd583bf8/b89faad3-0939-420e-aa19-6a394e5fea02.jpg"
-  },
-  {
     "id": "i'll-change-my-husband-through-a-plundered-marriage1",
     "title": "I'll change my husband through a plundered marriage",
     "url": "https://azorafly.com/series/i'll-change-my-husband-through-a-plundered-marriage1",
@@ -1730,6 +1748,24 @@
     "cover_url": "https://storage.azorafly.com/upload/series/featured/6cac1de1-87ae-4a81-9cd1-2abe99fd84d7/16c60de3-7f07-45f3-9bad-948b5e7dbbc7.png"
   },
   {
+    "id": "world-destruction-war",
+    "title": "World Destruction War",
+    "url": "https://azorafly.com/series/world-destruction-war",
+    "cover_url": "https://storage.azorafly.com/upload/series/featured/6cac1de1-87ae-4a81-9cd1-2abe99fd84d7/5b6fbb47-34bb-4e19-bcea-1b0e860edf21.png"
+  },
+  {
+    "id": "my-love-advisor",
+    "title": "My Love Advisor",
+    "url": "https://azorafly.com/series/my-love-advisor",
+    "cover_url": "https://storage.azorafly.com/upload/series/featured/02408b52-85d5-445d-9e5c-f7dbcd583bf8/ee82758f-1dd2-40be-a405-e5420f9df4c3.webp"
+  },
+  {
+    "id": "welcome-to-the-cafe-of-the-dark-guild's-successor",
+    "title": "Welcome to the Cafe of the Dark Guild's Successor",
+    "url": "https://azorafly.com/series/welcome-to-the-cafe-of-the-dark-guild's-successor",
+    "cover_url": "https://storage.azorafly.com/upload/series/featured/02408b52-85d5-445d-9e5c-f7dbcd583bf8/0424c2ff-704c-48d8-b5cf-111dcdf16242.jpg"
+  },
+  {
     "id": "a-secretly-capable-child-is-seeking-for-her-dad",
     "title": "A Secretly Capable Child Is Seeking For Her Dad",
     "url": "https://azorafly.com/series/a-secretly-capable-child-is-seeking-for-her-dad",
@@ -1758,12 +1794,6 @@
     "title": "Classmates",
     "url": "https://azorafly.com/series/classmates",
     "cover_url": "https://storage.azorafly.com/2025/10/158_20250906185819.webp"
-  },
-  {
-    "id": "the-counts-secret-maid",
-    "title": "The Count's Secret Maid",
-    "url": "https://azorafly.com/series/the-counts-secret-maid",
-    "cover_url": "https://storage.azorafly.com/upload/series/featured/a5vVlSc5huft2AzUyK1VxgKh1ckCWLbZ/80cad67b-9a0e-413a-8217-d3caa458c81a.jpg"
   },
   {
     "id": "at-the-abyss-of-fall-i-find-you",
@@ -1958,12 +1988,6 @@
     "cover_url": "https://storage.azorafly.com/upload/series/featured/a5vVlSc5huft2AzUyK1VxgKh1ckCWLbZ/6ab6b6c4-dd46-4a88-9179-f2766bd8fb33.jpg"
   },
   {
-    "id": "i-awakened-as-the-most-fearsome-stepmother!",
-    "title": "I Awakened as the Most Fearsome Stepmother?!",
-    "url": "https://azorafly.com/series/i-awakened-as-the-most-fearsome-stepmother!",
-    "cover_url": "https://storage.azorafly.com/upload/series/featured/02408b52-85d5-445d-9e5c-f7dbcd583bf8/ab1e3cec-dafb-401b-8c44-2c391affcc0a.jpg"
-  },
-  {
     "id": "baby-prisoner-of-the-winter-castle",
     "title": "Baby Prisoner of the Winter Castle",
     "url": "https://azorafly.com/series/baby-prisoner-of-the-winter-castle",
@@ -2046,12 +2070,6 @@
     "title": "To Those Of You For Whom Even Regret Is A Luxury",
     "url": "https://azorafly.com/series/to-those-of-you-for-whom-even-regret-is-a-luxury",
     "cover_url": "https://storage.azorafly.com/2024/07/65021.webp"
-  },
-  {
-    "id": "i-will-save-my-father",
-    "title": "I will save my father",
-    "url": "https://azorafly.com/series/i-will-save-my-father",
-    "cover_url": "https://storage.azorafly.com/upload/series/featured/6cac1de1-87ae-4a81-9cd1-2abe99fd84d7/74b1258e-7c7e-440a-bc9f-e2e3b53cbdab.webp"
   },
   {
     "id": "the-beloved-gardener-of-the-world-tree",
@@ -2684,12 +2702,6 @@
     "cover_url": "https://storage.azorafly.com/upload/series/featured/02408b52-85d5-445d-9e5c-f7dbcd583bf8/0b2b33c1-3d66-4535-9cc2-4fa85d901bc7.jpg"
   },
   {
-    "id": "marronnier-farm-near-by-the-imperial-palace",
-    "title": "Marronnier Farm Near By The Imperial Palace",
-    "url": "https://azorafly.com/series/marronnier-farm-near-by-the-imperial-palace",
-    "cover_url": "https://storage.azorafly.com/public/upload/series/featured/02408b52-85d5-445d-9e5c-f7dbcd583bf8/a0ba34f9-d4cb-42a3-902a-9ed4746f4b72.jpg"
-  },
-  {
     "id": "even-madness-strikes-thrice",
     "title": "Even Madness Strikes Thrice",
     "url": "https://azorafly.com/series/even-madness-strikes-thrice",
@@ -2814,12 +2826,6 @@
     "title": "The Overflowing Elixir of the Fallen House",
     "url": "https://azorafly.com/series/the-overflowing-elixir-of-the-fallen-house",
     "cover_url": "https://storage.azorafly.com/2025/08/image.webp"
-  },
-  {
-    "id": "shahad-diary",
-    "title": "Shahad Diary",
-    "url": "https://azorafly.com/series/shahad-diary",
-    "cover_url": "https://storage.azorafly.com/upload/series/featured/02408b52-85d5-445d-9e5c-f7dbcd583bf8/3c61cecf-9f34-42cd-85d7-810319a1c437.jpg"
   },
   {
     "id": "wandering-artist-traveling-painter",
