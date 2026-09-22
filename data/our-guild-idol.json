@@ -1,1174 +1,206 @@
 {
   "id": "our-guild-idol",
-  "chapters": {
-    "https://azorafly.com/series/our-guild-idol/chapter-1": {
-      "name": "1",
-      "images": [
-        "https://storage.azorafly.com/WP-manga/data/manga_6782995a243a0/dd2b5f27c9459e03171475fb92b0db4e/01.jpg",
-        "https://storage.azorafly.com/WP-manga/data/manga_6782995a243a0/dd2b5f27c9459e03171475fb92b0db4e/02.jpg",
-        "https://storage.azorafly.com/WP-manga/data/manga_6782995a243a0/dd2b5f27c9459e03171475fb92b0db4e/03.jpg",
-        "https://storage.azorafly.com/WP-manga/data/manga_6782995a243a0/dd2b5f27c9459e03171475fb92b0db4e/04.jpg",
-        "https://storage.azorafly.com/WP-manga/data/manga_6782995a243a0/dd2b5f27c9459e03171475fb92b0db4e/05.jpg",
-        "https://storage.azorafly.com/WP-manga/data/manga_6782995a243a0/dd2b5f27c9459e03171475fb92b0db4e/06.jpg",
-        "https://storage.azorafly.com/WP-manga/data/manga_6782995a243a0/dd2b5f27c9459e03171475fb92b0db4e/07.jpg",
-        "https://storage.azorafly.com/WP-manga/data/manga_6782995a243a0/dd2b5f27c9459e03171475fb92b0db4e/08.jpg",
-        "https://storage.azorafly.com/WP-manga/data/manga_6782995a243a0/dd2b5f27c9459e03171475fb92b0db4e/09.jpg",
-        "https://storage.azorafly.com/WP-manga/data/manga_6782995a243a0/dd2b5f27c9459e03171475fb92b0db4e/10.jpg",
-        "https://storage.azorafly.com/WP-manga/data/manga_6782995a243a0/dd2b5f27c9459e03171475fb92b0db4e/11.jpg"
-      ]
-    },
-    "https://azorafly.com/series/our-guild-idol/chapter-64": {
-      "name": "64",
-      "images": [
-        "https://storage.azorafly.com/upload/series/our-guilds-idol/chapter_0_mop7n1riip/page-0001_01_1790089512498-984286.jpeg",
-        "https://storage.azorafly.com/upload/series/our-guilds-idol/chapter_0_mop7n1riip/page-0002_02_1790089513288-945333.jpeg",
-        "https://storage.azorafly.com/upload/series/our-guilds-idol/chapter_0_mop7n1riip/page-0003_03_1790089513258-637831.jpeg",
-        "https://storage.azorafly.com/upload/series/our-guilds-idol/chapter_0_mop7n1riip/page-0004_04_1790089514925-790354.jpeg",
-        "https://storage.azorafly.com/upload/series/our-guilds-idol/chapter_0_mop7n1riip/page-0005_05_1790089515086-389042.jpeg",
-        "https://storage.azorafly.com/upload/series/our-guilds-idol/chapter_0_mop7n1riip/page-0006_06_1790089515516-31170.jpeg",
-        "https://storage.azorafly.com/upload/series/our-guilds-idol/chapter_0_mop7n1riip/page-0007_07_1790089516310-580661.jpeg",
-        "https://storage.azorafly.com/upload/series/our-guilds-idol/chapter_0_mop7n1riip/page-0008_08_1790089516712-482512.jpeg",
-        "https://storage.azorafly.com/upload/series/our-guilds-idol/chapter_0_mop7n1riip/page-0009_09_1790089517186-243317.jpeg",
-        "https://storage.azorafly.com/upload/series/our-guilds-idol/chapter_0_mop7n1riip/page-0010_10_1790089517809-150148.jpeg",
-        "https://storage.azorafly.com/upload/series/our-guilds-idol/chapter_0_mop7n1riip/page-0011_11_1790089518684-712581.jpeg",
-        "https://storage.azorafly.com/upload/series/our-guilds-idol/chapter_0_mop7n1riip/page-0012_12_1790089518711-839288.jpeg",
-        "https://storage.azorafly.com/upload/series/our-guilds-idol/chapter_0_mop7n1riip/page-0013_13_1790089519237-805209.jpeg",
-        "https://storage.azorafly.com/upload/series/our-guilds-idol/chapter_0_mop7n1riip/page-0014_14_1790089519877-441400.jpeg"
-      ]
-    },
-    "https://azorafly.com/series/our-guild-idol/chapter-63": {
-      "name": "63",
-      "images": [
-        "https://storage.azorafly.com/upload/series/our-guilds-idol/chapter_0_qqqtoelyu3/pages_3zhZ0RH3/page-0001_0001_1789394641205-319480.webp",
-        "https://storage.azorafly.com/upload/series/our-guilds-idol/chapter_0_qqqtoelyu3/pages_3zhZ0RH3/page-0002_0002_1789394641205-691458.webp",
-        "https://storage.azorafly.com/upload/series/our-guilds-idol/chapter_0_qqqtoelyu3/pages_3zhZ0RH3/page-0003_0003_1789394641206-574135.webp",
-        "https://storage.azorafly.com/upload/series/our-guilds-idol/chapter_0_qqqtoelyu3/pages_3zhZ0RH3/page-0004_0004_1789394641206-737414.webp",
-        "https://storage.azorafly.com/upload/series/our-guilds-idol/chapter_0_qqqtoelyu3/pages_3zhZ0RH3/page-0005_0005_1789394641206-764202.webp",
-        "https://storage.azorafly.com/upload/series/our-guilds-idol/chapter_0_qqqtoelyu3/pages_3zhZ0RH3/page-0006_0006_1789394641206-824936.webp",
-        "https://storage.azorafly.com/upload/series/our-guilds-idol/chapter_0_qqqtoelyu3/pages_3zhZ0RH3/page-0007_0007_1789394641207-756319.webp",
-        "https://storage.azorafly.com/upload/series/our-guilds-idol/chapter_0_qqqtoelyu3/pages_3zhZ0RH3/page-0008_0008_1789394641207-451469.webp",
-        "https://storage.azorafly.com/upload/series/our-guilds-idol/chapter_0_qqqtoelyu3/pages_3zhZ0RH3/page-0009_0009_1789394641207-839068.webp",
-        "https://storage.azorafly.com/upload/series/our-guilds-idol/chapter_0_qqqtoelyu3/pages_3zhZ0RH3/page-0010_0010_1789394641207-854762.webp",
-        "https://storage.azorafly.com/upload/series/our-guilds-idol/chapter_0_qqqtoelyu3/pages_3zhZ0RH3/page-0011_0011_1789394641207-175552.webp",
-        "https://storage.azorafly.com/upload/series/our-guilds-idol/chapter_0_qqqtoelyu3/pages_3zhZ0RH3/page-0012_0012_1789394641208-823482.webp",
-        "https://storage.azorafly.com/upload/series/our-guilds-idol/chapter_0_qqqtoelyu3/pages_3zhZ0RH3/page-0013_0013_1789394641208-546518.webp"
-      ]
-    },
-    "https://azorafly.com/series/our-guild-idol/chapter-62": {
-      "name": "62",
-      "images": [
-        "https://storage.azorafly.com/upload/series/our-guilds-idol/chapter_0_11w7oe3ku2/pages_5jzu2ydt/page-0001_0001_1788807965307-71495.webp",
-        "https://storage.azorafly.com/upload/series/our-guilds-idol/chapter_0_11w7oe3ku2/pages_5jzu2ydt/page-0002_0002_1788807965307-791646.webp",
-        "https://storage.azorafly.com/upload/series/our-guilds-idol/chapter_0_11w7oe3ku2/pages_5jzu2ydt/page-0003_0003_1788807965308-570831.webp",
-        "https://storage.azorafly.com/upload/series/our-guilds-idol/chapter_0_11w7oe3ku2/pages_5jzu2ydt/page-0004_0004_1788807965308-168222.webp",
-        "https://storage.azorafly.com/upload/series/our-guilds-idol/chapter_0_11w7oe3ku2/pages_5jzu2ydt/page-0005_0005_1788807965308-323909.webp",
-        "https://storage.azorafly.com/upload/series/our-guilds-idol/chapter_0_11w7oe3ku2/pages_5jzu2ydt/page-0006_0006_1788807965308-741357.webp",
-        "https://storage.azorafly.com/upload/series/our-guilds-idol/chapter_0_11w7oe3ku2/pages_5jzu2ydt/page-0007_0007_1788807965309-479932.webp",
-        "https://storage.azorafly.com/upload/series/our-guilds-idol/chapter_0_11w7oe3ku2/pages_5jzu2ydt/page-0008_0008_1788807965309-811974.webp",
-        "https://storage.azorafly.com/upload/series/our-guilds-idol/chapter_0_11w7oe3ku2/pages_5jzu2ydt/page-0009_0009_1788807965309-472741.webp",
-        "https://storage.azorafly.com/upload/series/our-guilds-idol/chapter_0_11w7oe3ku2/pages_5jzu2ydt/page-0010_0010_1788807965309-673746.webp",
-        "https://storage.azorafly.com/upload/series/our-guilds-idol/chapter_0_11w7oe3ku2/pages_5jzu2ydt/page-0011_0011_1788807965310-558056.webp",
-        "https://storage.azorafly.com/upload/series/our-guilds-idol/chapter_0_11w7oe3ku2/pages_5jzu2ydt/page-0012_0012_1788807965310-8384.webp",
-        "https://storage.azorafly.com/upload/series/our-guilds-idol/chapter_0_11w7oe3ku2/pages_5jzu2ydt/page-0013_0013_1788807965310-737906.webp"
-      ]
-    },
-    "https://azorafly.com/series/our-guild-idol/chapter-61": {
-      "name": "61",
-      "images": [
-        "https://storage.azorafly.com/upload/series/our-guilds-idol/chapter_0_dkamn25j3p/pages_MLlwAU9Q/page-0001_0001_1788293403594-859343.webp",
-        "https://storage.azorafly.com/upload/series/our-guilds-idol/chapter_0_dkamn25j3p/pages_MLlwAU9Q/page-0002_0002_1788293403594-17373.webp",
-        "https://storage.azorafly.com/upload/series/our-guilds-idol/chapter_0_dkamn25j3p/pages_MLlwAU9Q/page-0003_0003_1788293403595-185182.webp",
-        "https://storage.azorafly.com/upload/series/our-guilds-idol/chapter_0_dkamn25j3p/pages_MLlwAU9Q/page-0004_0004_1788293403595-89490.webp",
-        "https://storage.azorafly.com/upload/series/our-guilds-idol/chapter_0_dkamn25j3p/pages_MLlwAU9Q/page-0005_0005_1788293403595-801788.webp",
-        "https://storage.azorafly.com/upload/series/our-guilds-idol/chapter_0_dkamn25j3p/pages_MLlwAU9Q/page-0006_0006_1788293403595-39336.webp",
-        "https://storage.azorafly.com/upload/series/our-guilds-idol/chapter_0_dkamn25j3p/pages_MLlwAU9Q/page-0007_0007_1788293403596-847233.webp",
-        "https://storage.azorafly.com/upload/series/our-guilds-idol/chapter_0_dkamn25j3p/pages_MLlwAU9Q/page-0008_0008_1788293403596-733790.webp",
-        "https://storage.azorafly.com/upload/series/our-guilds-idol/chapter_0_dkamn25j3p/pages_MLlwAU9Q/page-0009_0009_1788293403596-731931.webp",
-        "https://storage.azorafly.com/upload/series/our-guilds-idol/chapter_0_dkamn25j3p/pages_MLlwAU9Q/page-0010_0010_1788293403596-177937.webp",
-        "https://storage.azorafly.com/upload/series/our-guilds-idol/chapter_0_dkamn25j3p/pages_MLlwAU9Q/page-0011_0011_1788293403596-176407.webp",
-        "https://storage.azorafly.com/upload/series/our-guilds-idol/chapter_0_dkamn25j3p/pages_MLlwAU9Q/page-0012_0012_1788293403596-349040.webp",
-        "https://storage.azorafly.com/upload/series/our-guilds-idol/chapter_0_dkamn25j3p/pages_MLlwAU9Q/page-0013_0013_1788293403597-614456.webp"
-      ]
-    },
-    "https://azorafly.com/series/our-guild-idol/chapter-60": {
-      "name": "60",
-      "images": [
-        "https://storage.azorafly.com/upload/series/our-guilds-idol/chapter_0_31igxb47t0/pages_nntCM845/page-0001_0001_1788292968845-315113.webp",
-        "https://storage.azorafly.com/upload/series/our-guilds-idol/chapter_0_31igxb47t0/pages_nntCM845/page-0002_0002_1788292968845-847390.webp",
-        "https://storage.azorafly.com/upload/series/our-guilds-idol/chapter_0_31igxb47t0/pages_nntCM845/page-0003_0003_1788292968846-355136.webp",
-        "https://storage.azorafly.com/upload/series/our-guilds-idol/chapter_0_31igxb47t0/pages_nntCM845/page-0004_0004_1788292968846-138903.webp",
-        "https://storage.azorafly.com/upload/series/our-guilds-idol/chapter_0_31igxb47t0/pages_nntCM845/page-0005_0005_1788292968846-653511.webp",
-        "https://storage.azorafly.com/upload/series/our-guilds-idol/chapter_0_31igxb47t0/pages_nntCM845/page-0006_0006_1788292968846-850984.webp",
-        "https://storage.azorafly.com/upload/series/our-guilds-idol/chapter_0_31igxb47t0/pages_nntCM845/page-0007_0007_1788292968847-421653.webp",
-        "https://storage.azorafly.com/upload/series/our-guilds-idol/chapter_0_31igxb47t0/pages_nntCM845/page-0008_0008_1788292968847-100601.webp",
-        "https://storage.azorafly.com/upload/series/our-guilds-idol/chapter_0_31igxb47t0/pages_nntCM845/page-0009_0009_1788292968847-783645.webp",
-        "https://storage.azorafly.com/upload/series/our-guilds-idol/chapter_0_31igxb47t0/pages_nntCM845/page-0010_0010_1788292968847-297472.webp"
-      ]
-    },
-    "https://azorafly.com/series/our-guild-idol/chapter-59": {
-      "name": "59",
-      "images": [
-        "https://storage.azorafly.com/upload/series/our-guilds-idol/chapter_0_fxloso97kh/pages_blSqFSie/page-0001_0001_1787082479596-661394.webp",
-        "https://storage.azorafly.com/upload/series/our-guilds-idol/chapter_0_fxloso97kh/pages_blSqFSie/page-0002_0002_1787082479596-162201.webp",
-        "https://storage.azorafly.com/upload/series/our-guilds-idol/chapter_0_fxloso97kh/pages_blSqFSie/page-0003_0003_1787082479596-170807.webp",
-        "https://storage.azorafly.com/upload/series/our-guilds-idol/chapter_0_fxloso97kh/pages_blSqFSie/page-0004_0004_1787082479596-440873.webp"
-      ]
-    },
-    "https://azorafly.com/series/our-guild-idol/chapter-58": {
-      "name": "58",
-      "images": [
-        "https://storage.azorafly.com/upload/series/our-guilds-idol/chapter_0_dpkojjov66/pages_sH9VzAvM/page-0001_0001_1786448196436-699078.webp",
-        "https://storage.azorafly.com/upload/series/our-guilds-idol/chapter_0_dpkojjov66/pages_sH9VzAvM/page-0002_0002_1786448196436-676902.webp",
-        "https://storage.azorafly.com/upload/series/our-guilds-idol/chapter_0_dpkojjov66/pages_sH9VzAvM/page-0003_0003_1786448196436-246696.webp",
-        "https://storage.azorafly.com/upload/series/our-guilds-idol/chapter_0_dpkojjov66/pages_sH9VzAvM/page-0004_0004_1786448196436-148092.webp",
-        "https://storage.azorafly.com/upload/series/our-guilds-idol/chapter_0_dpkojjov66/pages_sH9VzAvM/page-0005_0005_1786448196436-696336.webp",
-        "https://storage.azorafly.com/upload/series/our-guilds-idol/chapter_0_dpkojjov66/pages_sH9VzAvM/page-0006_0006_1786448196436-531915.webp",
-        "https://storage.azorafly.com/upload/series/our-guilds-idol/chapter_0_dpkojjov66/pages_sH9VzAvM/page-0007_0007_1786448196436-562006.webp",
-        "https://storage.azorafly.com/upload/series/our-guilds-idol/chapter_0_dpkojjov66/pages_sH9VzAvM/page-0008_0008_1786448196436-283380.webp",
-        "https://storage.azorafly.com/upload/series/our-guilds-idol/chapter_0_dpkojjov66/pages_sH9VzAvM/page-0009_0009_1786448196437-889953.webp",
-        "https://storage.azorafly.com/upload/series/our-guilds-idol/chapter_0_dpkojjov66/pages_sH9VzAvM/page-0010_0010_1786448196437-724246.webp",
-        "https://storage.azorafly.com/upload/series/our-guilds-idol/chapter_0_dpkojjov66/pages_sH9VzAvM/page-0011_0011_1786448196437-690016.webp",
-        "https://storage.azorafly.com/upload/series/our-guilds-idol/chapter_0_dpkojjov66/pages_sH9VzAvM/page-0012_0012_1786448196437-748963.webp",
-        "https://storage.azorafly.com/upload/series/our-guilds-idol/chapter_0_dpkojjov66/pages_sH9VzAvM/page-0013_0013_1786448196437-978998.webp"
-      ]
-    },
-    "https://azorafly.com/series/our-guild-idol/chapter-57": {
-      "name": "57",
-      "images": [
-        "https://storage.azorafly.com/upload/series/our-guilds-idol/chapter_0_p83qah9mdz/pages_HZVIeP4A/page-0001_0001_1785822326262-516226.webp",
-        "https://storage.azorafly.com/upload/series/our-guilds-idol/chapter_0_p83qah9mdz/pages_HZVIeP4A/page-0002_0002_1785822326262-830292.webp",
-        "https://storage.azorafly.com/upload/series/our-guilds-idol/chapter_0_p83qah9mdz/pages_HZVIeP4A/page-0003_0003_1785822326262-652779.webp",
-        "https://storage.azorafly.com/upload/series/our-guilds-idol/chapter_0_p83qah9mdz/pages_HZVIeP4A/page-0004_0004_1785822326262-940547.webp",
-        "https://storage.azorafly.com/upload/series/our-guilds-idol/chapter_0_p83qah9mdz/pages_HZVIeP4A/page-0005_0005_1785822326262-329066.webp",
-        "https://storage.azorafly.com/upload/series/our-guilds-idol/chapter_0_p83qah9mdz/pages_HZVIeP4A/page-0006_0006_1785822326262-322271.webp",
-        "https://storage.azorafly.com/upload/series/our-guilds-idol/chapter_0_p83qah9mdz/pages_HZVIeP4A/page-0007_0007_1785822326262-277061.webp",
-        "https://storage.azorafly.com/upload/series/our-guilds-idol/chapter_0_p83qah9mdz/pages_HZVIeP4A/page-0008_0008_1785822326262-96456.webp",
-        "https://storage.azorafly.com/upload/series/our-guilds-idol/chapter_0_p83qah9mdz/pages_HZVIeP4A/page-0009_0009_1785822326263-532807.webp",
-        "https://storage.azorafly.com/upload/series/our-guilds-idol/chapter_0_p83qah9mdz/pages_HZVIeP4A/page-0010_0010_1785822326263-42200.webp",
-        "https://storage.azorafly.com/upload/series/our-guilds-idol/chapter_0_p83qah9mdz/pages_HZVIeP4A/page-0011_0011_1785822326263-232620.webp",
-        "https://storage.azorafly.com/upload/series/our-guilds-idol/chapter_0_p83qah9mdz/pages_HZVIeP4A/page-0012_0012_1785822326263-279074.webp",
-        "https://storage.azorafly.com/upload/series/our-guilds-idol/chapter_0_p83qah9mdz/pages_HZVIeP4A/page-0013_0013_1785822326263-511922.webp"
-      ]
-    },
-    "https://azorafly.com/series/our-guild-idol/chapter-56": {
-      "name": "56",
-      "images": [
-        "https://storage.azorafly.com/upload/series/our-guilds-idol/chapter_0_xjjeug18s5/pages_oxN4lZuF/page-0001_0001_1785086042534-815199.webp",
-        "https://storage.azorafly.com/upload/series/our-guilds-idol/chapter_0_xjjeug18s5/pages_oxN4lZuF/page-0002_0002_1785086042534-372912.webp",
-        "https://storage.azorafly.com/upload/series/our-guilds-idol/chapter_0_xjjeug18s5/pages_oxN4lZuF/page-0003_0003_1785086042534-973177.webp",
-        "https://storage.azorafly.com/upload/series/our-guilds-idol/chapter_0_xjjeug18s5/pages_oxN4lZuF/page-0004_0004_1785086042534-17633.webp",
-        "https://storage.azorafly.com/upload/series/our-guilds-idol/chapter_0_xjjeug18s5/pages_oxN4lZuF/page-0005_0005_1785086042534-573602.webp",
-        "https://storage.azorafly.com/upload/series/our-guilds-idol/chapter_0_xjjeug18s5/pages_oxN4lZuF/page-0006_0006_1785086042534-842820.webp",
-        "https://storage.azorafly.com/upload/series/our-guilds-idol/chapter_0_xjjeug18s5/pages_oxN4lZuF/page-0007_0007_1785086042534-986478.webp",
-        "https://storage.azorafly.com/upload/series/our-guilds-idol/chapter_0_xjjeug18s5/pages_oxN4lZuF/page-0008_0008_1785086042534-473469.webp",
-        "https://storage.azorafly.com/upload/series/our-guilds-idol/chapter_0_xjjeug18s5/pages_oxN4lZuF/page-0009_0009_1785086042535-436488.webp",
-        "https://storage.azorafly.com/upload/series/our-guilds-idol/chapter_0_xjjeug18s5/pages_oxN4lZuF/page-0010_0010_1785086042535-174614.webp",
-        "https://storage.azorafly.com/upload/series/our-guilds-idol/chapter_0_xjjeug18s5/pages_oxN4lZuF/page-0011_0011_1785086042535-455650.webp",
-        "https://storage.azorafly.com/upload/series/our-guilds-idol/chapter_0_xjjeug18s5/pages_oxN4lZuF/page-0012_0012_1785086042535-884560.webp",
-        "https://storage.azorafly.com/upload/series/our-guilds-idol/chapter_0_xjjeug18s5/pages_oxN4lZuF/page-0013_0013_1785086042535-236716.webp"
-      ]
-    },
-    "https://azorafly.com/series/our-guild-idol/chapter-55": {
-      "name": "55",
-      "images": [
-        "https://storage.azorafly.com/upload/series/our-guilds-idol/chapter_0_q4tzjf1wgk/pages_Zz8LOUjO/page-0001_0001_1784588683321-259834.webp",
-        "https://storage.azorafly.com/upload/series/our-guilds-idol/chapter_0_q4tzjf1wgk/pages_Zz8LOUjO/page-0002_0002_1784588683321-27741.webp",
-        "https://storage.azorafly.com/upload/series/our-guilds-idol/chapter_0_q4tzjf1wgk/pages_Zz8LOUjO/page-0003_0003_1784588683321-765627.webp",
-        "https://storage.azorafly.com/upload/series/our-guilds-idol/chapter_0_q4tzjf1wgk/pages_Zz8LOUjO/page-0004_0004_1784588683321-421284.webp",
-        "https://storage.azorafly.com/upload/series/our-guilds-idol/chapter_0_q4tzjf1wgk/pages_Zz8LOUjO/page-0005_0005_1784588683321-30406.webp",
-        "https://storage.azorafly.com/upload/series/our-guilds-idol/chapter_0_q4tzjf1wgk/pages_Zz8LOUjO/page-0006_0006_1784588683321-713729.webp",
-        "https://storage.azorafly.com/upload/series/our-guilds-idol/chapter_0_q4tzjf1wgk/pages_Zz8LOUjO/page-0007_0007_1784588683321-430943.webp",
-        "https://storage.azorafly.com/upload/series/our-guilds-idol/chapter_0_q4tzjf1wgk/pages_Zz8LOUjO/page-0008_0008_1784588683321-877668.webp",
-        "https://storage.azorafly.com/upload/series/our-guilds-idol/chapter_0_q4tzjf1wgk/pages_Zz8LOUjO/page-0009_0009_1784588683321-61635.webp",
-        "https://storage.azorafly.com/upload/series/our-guilds-idol/chapter_0_q4tzjf1wgk/pages_Zz8LOUjO/page-0010_0010_1784588683322-417940.webp",
-        "https://storage.azorafly.com/upload/series/our-guilds-idol/chapter_0_q4tzjf1wgk/pages_Zz8LOUjO/page-0011_0011_1784588683322-802651.webp",
-        "https://storage.azorafly.com/upload/series/our-guilds-idol/chapter_0_q4tzjf1wgk/pages_Zz8LOUjO/page-0012_0012_1784588683322-15153.webp",
-        "https://storage.azorafly.com/upload/series/our-guilds-idol/chapter_0_q4tzjf1wgk/pages_Zz8LOUjO/page-0013_0013_1784588683322-894818.webp",
-        "https://storage.azorafly.com/upload/series/our-guilds-idol/chapter_0_q4tzjf1wgk/pages_Zz8LOUjO/page-0014_0014_1784588683322-307586.webp"
-      ]
-    },
-    "https://azorafly.com/series/our-guild-idol/chapter-54": {
-      "name": "54",
-      "images": [
-        "https://storage.azorafly.com/upload/series/our-guilds-idol/chapter_0_d4kzrlzgxf/pages_mw3g2bYY/page-0001_0001_1783960371179-903357.webp",
-        "https://storage.azorafly.com/upload/series/our-guilds-idol/chapter_0_d4kzrlzgxf/pages_mw3g2bYY/page-0002_0002_1783960371179-233597.webp",
-        "https://storage.azorafly.com/upload/series/our-guilds-idol/chapter_0_d4kzrlzgxf/pages_mw3g2bYY/page-0003_0003_1783960371179-848169.webp",
-        "https://storage.azorafly.com/upload/series/our-guilds-idol/chapter_0_d4kzrlzgxf/pages_mw3g2bYY/page-0004_0004_1783960371179-694619.webp",
-        "https://storage.azorafly.com/upload/series/our-guilds-idol/chapter_0_d4kzrlzgxf/pages_mw3g2bYY/page-0005_0005_1783960371179-400121.webp",
-        "https://storage.azorafly.com/upload/series/our-guilds-idol/chapter_0_d4kzrlzgxf/pages_mw3g2bYY/page-0006_0006_1783960371179-288925.webp",
-        "https://storage.azorafly.com/upload/series/our-guilds-idol/chapter_0_d4kzrlzgxf/pages_mw3g2bYY/page-0007_0007_1783960371179-855672.webp",
-        "https://storage.azorafly.com/upload/series/our-guilds-idol/chapter_0_d4kzrlzgxf/pages_mw3g2bYY/page-0008_0008_1783960371179-752591.webp",
-        "https://storage.azorafly.com/upload/series/our-guilds-idol/chapter_0_d4kzrlzgxf/pages_mw3g2bYY/page-0009_0009_1783960371183-915864.webp",
-        "https://storage.azorafly.com/upload/series/our-guilds-idol/chapter_0_d4kzrlzgxf/pages_mw3g2bYY/page-0010_0010_1783960371183-374481.webp",
-        "https://storage.azorafly.com/upload/series/our-guilds-idol/chapter_0_d4kzrlzgxf/pages_mw3g2bYY/page-0011_0011_1783960371183-31354.webp",
-        "https://storage.azorafly.com/upload/series/our-guilds-idol/chapter_0_d4kzrlzgxf/pages_mw3g2bYY/page-0012_0012_1783960371183-746664.webp"
-      ]
-    },
-    "https://azorafly.com/series/our-guild-idol/chapter-53": {
-      "name": "53",
-      "images": [
-        "https://storage.azorafly.com/upload/series/our-guilds-idol/chapter_0_nov9y8j82y/pages_Ja6X0Noy/page-0001_0001_1783531462358-413384.webp",
-        "https://storage.azorafly.com/upload/series/our-guilds-idol/chapter_0_nov9y8j82y/pages_Ja6X0Noy/page-0002_0002_1783531462358-99341.webp",
-        "https://storage.azorafly.com/upload/series/our-guilds-idol/chapter_0_nov9y8j82y/pages_Ja6X0Noy/page-0003_0003_1783531462358-519930.webp",
-        "https://storage.azorafly.com/upload/series/our-guilds-idol/chapter_0_nov9y8j82y/pages_Ja6X0Noy/page-0004_0004_1783531462358-712911.webp",
-        "https://storage.azorafly.com/upload/series/our-guilds-idol/chapter_0_nov9y8j82y/pages_Ja6X0Noy/page-0005_0005_1783531462358-376452.webp",
-        "https://storage.azorafly.com/upload/series/our-guilds-idol/chapter_0_nov9y8j82y/pages_Ja6X0Noy/page-0006_0006_1783531462358-645674.webp",
-        "https://storage.azorafly.com/upload/series/our-guilds-idol/chapter_0_nov9y8j82y/pages_Ja6X0Noy/page-0007_0007_1783531462358-337040.webp",
-        "https://storage.azorafly.com/upload/series/our-guilds-idol/chapter_0_nov9y8j82y/pages_Ja6X0Noy/page-0008_0008_1783531462358-288626.webp",
-        "https://storage.azorafly.com/upload/series/our-guilds-idol/chapter_0_nov9y8j82y/pages_Ja6X0Noy/page-0009_0009_1783531462359-319648.webp"
-      ]
-    },
-    "https://azorafly.com/series/our-guild-idol/chapter-52": {
-      "name": "52",
-      "images": [
-        "https://storage.azorafly.com/upload/series/our-guilds-idol/chapter_0_30vzfqbv4u/pages_FE9cu9OL/page-0001_0001_1782851913329-138517.webp",
-        "https://storage.azorafly.com/upload/series/our-guilds-idol/chapter_0_30vzfqbv4u/pages_FE9cu9OL/page-0002_0002_1782851913329-961117.webp",
-        "https://storage.azorafly.com/upload/series/our-guilds-idol/chapter_0_30vzfqbv4u/pages_FE9cu9OL/page-0003_0003_1782851913329-825567.webp",
-        "https://storage.azorafly.com/upload/series/our-guilds-idol/chapter_0_30vzfqbv4u/pages_FE9cu9OL/page-0004_0004_1782851913329-199754.webp",
-        "https://storage.azorafly.com/upload/series/our-guilds-idol/chapter_0_30vzfqbv4u/pages_FE9cu9OL/page-0005_0005_1782851913329-305413.webp",
-        "https://storage.azorafly.com/upload/series/our-guilds-idol/chapter_0_30vzfqbv4u/pages_FE9cu9OL/page-0006_0006_1782851913329-52347.webp",
-        "https://storage.azorafly.com/upload/series/our-guilds-idol/chapter_0_30vzfqbv4u/pages_FE9cu9OL/page-0007_0007_1782851913329-24547.webp",
-        "https://storage.azorafly.com/upload/series/our-guilds-idol/chapter_0_30vzfqbv4u/pages_FE9cu9OL/page-0008_0008_1782851913329-484668.webp",
-        "https://storage.azorafly.com/upload/series/our-guilds-idol/chapter_0_30vzfqbv4u/pages_FE9cu9OL/page-0009_0009_1782851913329-655066.webp",
-        "https://storage.azorafly.com/upload/series/our-guilds-idol/chapter_0_30vzfqbv4u/pages_FE9cu9OL/page-0010_0010_1782851913329-209812.webp"
-      ]
-    },
-    "https://azorafly.com/series/our-guild-idol/chapter-51": {
-      "name": "51",
-      "images": [
-        "https://storage.azorafly.com/upload/series/our-guilds-idol/chapter_0_0cm6oumkf8/pages_ixr0jjOm/page-0001_0001_1782117668930-553109.webp",
-        "https://storage.azorafly.com/upload/series/our-guilds-idol/chapter_0_0cm6oumkf8/pages_ixr0jjOm/page-0002_0002_1782117668930-197611.webp",
-        "https://storage.azorafly.com/upload/series/our-guilds-idol/chapter_0_0cm6oumkf8/pages_ixr0jjOm/page-0003_0003_1782117668930-19517.webp",
-        "https://storage.azorafly.com/upload/series/our-guilds-idol/chapter_0_0cm6oumkf8/pages_ixr0jjOm/page-0004_0004_1782117668930-350859.webp",
-        "https://storage.azorafly.com/upload/series/our-guilds-idol/chapter_0_0cm6oumkf8/pages_ixr0jjOm/page-0005_0005_1782117668930-897772.webp",
-        "https://storage.azorafly.com/upload/series/our-guilds-idol/chapter_0_0cm6oumkf8/pages_ixr0jjOm/page-0006_0006_1782117668930-686554.webp",
-        "https://storage.azorafly.com/upload/series/our-guilds-idol/chapter_0_0cm6oumkf8/pages_ixr0jjOm/page-0007_0007_1782117668930-847539.webp",
-        "https://storage.azorafly.com/upload/series/our-guilds-idol/chapter_0_0cm6oumkf8/pages_ixr0jjOm/page-0008_0008_1782117668930-495142.webp",
-        "https://storage.azorafly.com/upload/series/our-guilds-idol/chapter_0_0cm6oumkf8/pages_ixr0jjOm/page-0009_0009_1782117668930-703809.webp",
-        "https://storage.azorafly.com/upload/series/our-guilds-idol/chapter_0_0cm6oumkf8/pages_ixr0jjOm/page-0010_0010_1782117668930-827312.webp",
-        "https://storage.azorafly.com/upload/series/our-guilds-idol/chapter_0_0cm6oumkf8/pages_ixr0jjOm/page-0011_0011_1782117668930-19494.webp"
-      ]
-    },
-    "https://azorafly.com/series/our-guild-idol/chapter-50": {
-      "name": "50",
-      "images": [
-        "https://storage.azorafly.com/upload/series/our-guilds-idol/chapter_0_p9rxnmsy6z/pages_xC6Nihel/page-0001_0001_1781480689630-941255.webp",
-        "https://storage.azorafly.com/upload/series/our-guilds-idol/chapter_0_p9rxnmsy6z/pages_xC6Nihel/page-0002_0002_1781480689630-658558.webp",
-        "https://storage.azorafly.com/upload/series/our-guilds-idol/chapter_0_p9rxnmsy6z/pages_xC6Nihel/page-0003_0003_1781480689630-674907.webp",
-        "https://storage.azorafly.com/upload/series/our-guilds-idol/chapter_0_p9rxnmsy6z/pages_xC6Nihel/page-0004_0004_1781480689630-423194.webp",
-        "https://storage.azorafly.com/upload/series/our-guilds-idol/chapter_0_p9rxnmsy6z/pages_xC6Nihel/page-0005_0005_1781480689630-670351.webp",
-        "https://storage.azorafly.com/upload/series/our-guilds-idol/chapter_0_p9rxnmsy6z/pages_xC6Nihel/page-0006_0006_1781480689630-982053.webp",
-        "https://storage.azorafly.com/upload/series/our-guilds-idol/chapter_0_p9rxnmsy6z/pages_xC6Nihel/page-0007_0007_1781480689630-892297.webp",
-        "https://storage.azorafly.com/upload/series/our-guilds-idol/chapter_0_p9rxnmsy6z/pages_xC6Nihel/page-0008_0008_1781480689630-844693.webp",
-        "https://storage.azorafly.com/upload/series/our-guilds-idol/chapter_0_p9rxnmsy6z/pages_xC6Nihel/page-0009_0009_1781480689631-466694.webp",
-        "https://storage.azorafly.com/upload/series/our-guilds-idol/chapter_0_p9rxnmsy6z/pages_xC6Nihel/page-0010_0010_1781480689631-184388.webp",
-        "https://storage.azorafly.com/upload/series/our-guilds-idol/chapter_0_p9rxnmsy6z/pages_xC6Nihel/page-0011_0011_1781480689631-895022.webp"
-      ]
-    },
-    "https://azorafly.com/series/our-guild-idol/chapter-49": {
-      "name": "49",
-      "images": [
-        "https://storage.azorafly.com/upload/series/our-guilds-idol/chapter_0_862asdu1gi/page-0001_01_1780869784242-216665.jpg",
-        "https://storage.azorafly.com/upload/series/our-guilds-idol/chapter_0_862asdu1gi/page-0002_02_1780869784579-865564.jpg",
-        "https://storage.azorafly.com/upload/series/our-guilds-idol/chapter_0_862asdu1gi/page-0003_03_1780869783773-682885.jpg",
-        "https://storage.azorafly.com/upload/series/our-guilds-idol/chapter_0_862asdu1gi/page-0004_04_1780869787711-42394.jpg",
-        "https://storage.azorafly.com/upload/series/our-guilds-idol/chapter_0_862asdu1gi/page-0005_05_1780869789424-56560.jpg",
-        "https://storage.azorafly.com/upload/series/our-guilds-idol/chapter_0_862asdu1gi/page-0006_06_1780869789609-925321.jpg",
-        "https://storage.azorafly.com/upload/series/our-guilds-idol/chapter_0_862asdu1gi/page-0007_07_1780869791340-245136.jpg",
-        "https://storage.azorafly.com/upload/series/our-guilds-idol/chapter_0_862asdu1gi/page-0008_08_1780869793015-480277.jpg",
-        "https://storage.azorafly.com/upload/series/our-guilds-idol/chapter_0_862asdu1gi/page-0009_09_1780869792822-670562.jpg",
-        "https://storage.azorafly.com/upload/series/our-guilds-idol/chapter_0_862asdu1gi/page-0010_10_1780869794469-775849.jpg"
-      ]
-    },
-    "https://azorafly.com/series/our-guild-idol/chapter-48": {
-      "name": "48",
-      "images": [
-        "https://storage.azorafly.com/upload/series/our-guilds-idol/chapter_0_h25uypltwr/pages_bZkYtJVe/page-0001_0001_1780164032112-555238.webp",
-        "https://storage.azorafly.com/upload/series/our-guilds-idol/chapter_0_h25uypltwr/pages_bZkYtJVe/page-0002_0002_1780164032112-941513.webp",
-        "https://storage.azorafly.com/upload/series/our-guilds-idol/chapter_0_h25uypltwr/pages_bZkYtJVe/page-0003_0003_1780164032112-565468.webp",
-        "https://storage.azorafly.com/upload/series/our-guilds-idol/chapter_0_h25uypltwr/pages_bZkYtJVe/page-0004_0004_1780164032112-310918.webp",
-        "https://storage.azorafly.com/upload/series/our-guilds-idol/chapter_0_h25uypltwr/pages_bZkYtJVe/page-0005_0005_1780164032112-165820.webp",
-        "https://storage.azorafly.com/upload/series/our-guilds-idol/chapter_0_h25uypltwr/pages_bZkYtJVe/page-0006_0006_1780164032112-891241.webp",
-        "https://storage.azorafly.com/upload/series/our-guilds-idol/chapter_0_h25uypltwr/pages_bZkYtJVe/page-0007_0007_1780164032112-944021.webp",
-        "https://storage.azorafly.com/upload/series/our-guilds-idol/chapter_0_h25uypltwr/pages_bZkYtJVe/page-0008_0008_1780164032112-533879.webp",
-        "https://storage.azorafly.com/upload/series/our-guilds-idol/chapter_0_h25uypltwr/pages_bZkYtJVe/page-0009_0009_1780164032113-111599.webp",
-        "https://storage.azorafly.com/upload/series/our-guilds-idol/chapter_0_h25uypltwr/pages_bZkYtJVe/page-0010_0010_1780164032113-234271.webp",
-        "https://storage.azorafly.com/upload/series/our-guilds-idol/chapter_0_h25uypltwr/pages_bZkYtJVe/page-0011_0011_1780164032113-709294.webp"
-      ]
-    },
-    "https://azorafly.com/series/our-guild-idol/chapter-47": {
-      "name": "47",
-      "images": [
-        "https://storage.azorafly.com/upload/series/our-guilds-idol/chapter_0_gu1rt7ziux/pages_VVDcGjNu/page-0001_0001_1779599849171-332020.webp",
-        "https://storage.azorafly.com/upload/series/our-guilds-idol/chapter_0_gu1rt7ziux/pages_VVDcGjNu/page-0002_0002_1779599849171-763930.webp",
-        "https://storage.azorafly.com/upload/series/our-guilds-idol/chapter_0_gu1rt7ziux/pages_VVDcGjNu/page-0003_0003_1779599849171-279631.webp",
-        "https://storage.azorafly.com/upload/series/our-guilds-idol/chapter_0_gu1rt7ziux/pages_VVDcGjNu/page-0004_0004_1779599849171-503888.webp",
-        "https://storage.azorafly.com/upload/series/our-guilds-idol/chapter_0_gu1rt7ziux/pages_VVDcGjNu/page-0005_0005_1779599849171-742660.webp",
-        "https://storage.azorafly.com/upload/series/our-guilds-idol/chapter_0_gu1rt7ziux/pages_VVDcGjNu/page-0006_0006_1779599849171-532895.webp",
-        "https://storage.azorafly.com/upload/series/our-guilds-idol/chapter_0_gu1rt7ziux/pages_VVDcGjNu/page-0007_0007_1779599849171-625652.webp",
-        "https://storage.azorafly.com/upload/series/our-guilds-idol/chapter_0_gu1rt7ziux/pages_VVDcGjNu/page-0008_0008_1779599849171-528726.webp",
-        "https://storage.azorafly.com/upload/series/our-guilds-idol/chapter_0_gu1rt7ziux/pages_VVDcGjNu/page-0009_0009_1779599849172-521069.webp",
-        "https://storage.azorafly.com/upload/series/our-guilds-idol/chapter_0_gu1rt7ziux/pages_VVDcGjNu/page-0010_0010_1779599849173-50666.webp"
-      ]
-    },
-    "https://azorafly.com/series/our-guild-idol/chapter-46": {
-      "name": "46",
-      "images": [
-        "https://storage.azorafly.com/upload/series/our-guilds-idol/chapter_0_nc2kjb5ag8/pages_oaa1ynLy/page-0001_0001_1779300180456-493616.webp",
-        "https://storage.azorafly.com/upload/series/our-guilds-idol/chapter_0_nc2kjb5ag8/pages_oaa1ynLy/page-0002_0002_1779300180456-370811.webp",
-        "https://storage.azorafly.com/upload/series/our-guilds-idol/chapter_0_nc2kjb5ag8/pages_oaa1ynLy/page-0003_0003_1779300180456-54404.webp",
-        "https://storage.azorafly.com/upload/series/our-guilds-idol/chapter_0_nc2kjb5ag8/pages_oaa1ynLy/page-0004_0004_1779300180456-209682.webp",
-        "https://storage.azorafly.com/upload/series/our-guilds-idol/chapter_0_nc2kjb5ag8/pages_oaa1ynLy/page-0005_0005_1779300180456-5379.webp",
-        "https://storage.azorafly.com/upload/series/our-guilds-idol/chapter_0_nc2kjb5ag8/pages_oaa1ynLy/page-0006_0006_1779300180456-738604.webp",
-        "https://storage.azorafly.com/upload/series/our-guilds-idol/chapter_0_nc2kjb5ag8/pages_oaa1ynLy/page-0007_0007_1779300180456-243941.webp",
-        "https://storage.azorafly.com/upload/series/our-guilds-idol/chapter_0_nc2kjb5ag8/pages_oaa1ynLy/page-0008_0008_1779300180456-289101.webp",
-        "https://storage.azorafly.com/upload/series/our-guilds-idol/chapter_0_nc2kjb5ag8/pages_oaa1ynLy/page-0009_0009_1779300180457-562482.webp",
-        "https://storage.azorafly.com/upload/series/our-guilds-idol/chapter_0_nc2kjb5ag8/pages_oaa1ynLy/page-0010_0010_1779300180457-34741.webp"
-      ]
-    },
-    "https://azorafly.com/series/our-guild-idol/chapter-45": {
-      "name": "45",
-      "images": [
-        "https://storage.azorafly.com/upload/series/our-guilds-idol/chapter_0_rqp5gjekji/pages_dPIbmesM/page-0001_0001_1779222552358-950327.webp",
-        "https://storage.azorafly.com/upload/series/our-guilds-idol/chapter_0_rqp5gjekji/pages_dPIbmesM/page-0002_0002_1779222552358-877571.webp",
-        "https://storage.azorafly.com/upload/series/our-guilds-idol/chapter_0_rqp5gjekji/pages_dPIbmesM/page-0003_0003_1779222552358-879365.webp",
-        "https://storage.azorafly.com/upload/series/our-guilds-idol/chapter_0_rqp5gjekji/pages_dPIbmesM/page-0004_0004_1779222552358-434469.webp",
-        "https://storage.azorafly.com/upload/series/our-guilds-idol/chapter_0_rqp5gjekji/pages_dPIbmesM/page-0005_0005_1779222552358-17532.webp",
-        "https://storage.azorafly.com/upload/series/our-guilds-idol/chapter_0_rqp5gjekji/pages_dPIbmesM/page-0006_0006_1779222552358-268068.webp",
-        "https://storage.azorafly.com/upload/series/our-guilds-idol/chapter_0_rqp5gjekji/pages_dPIbmesM/page-0007_0007_1779222552358-326277.webp",
-        "https://storage.azorafly.com/upload/series/our-guilds-idol/chapter_0_rqp5gjekji/pages_dPIbmesM/page-0008_0008_1779222552358-785116.webp",
-        "https://storage.azorafly.com/upload/series/our-guilds-idol/chapter_0_rqp5gjekji/pages_dPIbmesM/page-0009_0009_1779222552360-888114.webp",
-        "https://storage.azorafly.com/upload/series/our-guilds-idol/chapter_0_rqp5gjekji/pages_dPIbmesM/page-0010_0010_1779222552360-609016.webp"
-      ]
-    },
-    "https://azorafly.com/series/our-guild-idol/chapter-44": {
-      "name": "44",
-      "images": [
-        "https://storage.azorafly.com/upload/series/our-guilds-idol/chapter_0_ozatq979sz/pages_oznSMQ39/page-0001_0001_1779115526887-498020.webp",
-        "https://storage.azorafly.com/upload/series/our-guilds-idol/chapter_0_ozatq979sz/pages_oznSMQ39/page-0002_0002_1779115526887-745495.webp",
-        "https://storage.azorafly.com/upload/series/our-guilds-idol/chapter_0_ozatq979sz/pages_oznSMQ39/page-0003_0003_1779115526887-761111.webp",
-        "https://storage.azorafly.com/upload/series/our-guilds-idol/chapter_0_ozatq979sz/pages_oznSMQ39/page-0004_0004_1779115526887-618463.webp",
-        "https://storage.azorafly.com/upload/series/our-guilds-idol/chapter_0_ozatq979sz/pages_oznSMQ39/page-0005_0005_1779115526887-574830.webp",
-        "https://storage.azorafly.com/upload/series/our-guilds-idol/chapter_0_ozatq979sz/pages_oznSMQ39/page-0006_0006_1779115526887-30228.webp",
-        "https://storage.azorafly.com/upload/series/our-guilds-idol/chapter_0_ozatq979sz/pages_oznSMQ39/page-0007_0007_1779115526888-674748.webp",
-        "https://storage.azorafly.com/upload/series/our-guilds-idol/chapter_0_ozatq979sz/pages_oznSMQ39/page-0008_0008_1779115526888-404262.webp",
-        "https://storage.azorafly.com/upload/series/our-guilds-idol/chapter_0_ozatq979sz/pages_oznSMQ39/page-0009_0009_1779115526888-575701.webp",
-        "https://storage.azorafly.com/upload/series/our-guilds-idol/chapter_0_ozatq979sz/pages_oznSMQ39/page-0010_0010_1779115526888-417787.webp"
-      ]
-    },
-    "https://azorafly.com/series/our-guild-idol/chapter-43": {
-      "name": "43",
-      "images": [
-        "https://storage.azorafly.com/upload/series/our-guilds-idol/chapter_0_rxlv64nxf6/pages_n5Sc6YUe/page-0001_0001_1779030430422-318334.webp",
-        "https://storage.azorafly.com/upload/series/our-guilds-idol/chapter_0_rxlv64nxf6/pages_n5Sc6YUe/page-0002_0002_1779030430422-622221.webp",
-        "https://storage.azorafly.com/upload/series/our-guilds-idol/chapter_0_rxlv64nxf6/pages_n5Sc6YUe/page-0003_0003_1779030430423-447390.webp",
-        "https://storage.azorafly.com/upload/series/our-guilds-idol/chapter_0_rxlv64nxf6/pages_n5Sc6YUe/page-0004_0004_1779030430423-867136.webp",
-        "https://storage.azorafly.com/upload/series/our-guilds-idol/chapter_0_rxlv64nxf6/pages_n5Sc6YUe/page-0005_0005_1779030430423-792485.webp",
-        "https://storage.azorafly.com/upload/series/our-guilds-idol/chapter_0_rxlv64nxf6/pages_n5Sc6YUe/page-0006_0006_1779030430423-135171.webp",
-        "https://storage.azorafly.com/upload/series/our-guilds-idol/chapter_0_rxlv64nxf6/pages_n5Sc6YUe/page-0007_0007_1779030430423-236671.webp",
-        "https://storage.azorafly.com/upload/series/our-guilds-idol/chapter_0_rxlv64nxf6/pages_n5Sc6YUe/page-0008_0008_1779030430423-312378.webp",
-        "https://storage.azorafly.com/upload/series/our-guilds-idol/chapter_0_rxlv64nxf6/pages_n5Sc6YUe/page-0009_0009_1779030430423-612427.webp",
-        "https://storage.azorafly.com/upload/series/our-guilds-idol/chapter_0_rxlv64nxf6/pages_n5Sc6YUe/page-0010_0010_1779030430423-495012.webp",
-        "https://storage.azorafly.com/upload/series/our-guilds-idol/chapter_0_rxlv64nxf6/pages_n5Sc6YUe/page-0011_0011_1779030430423-292734.webp",
-        "https://storage.azorafly.com/upload/series/our-guilds-idol/chapter_0_rxlv64nxf6/pages_n5Sc6YUe/page-0012_0012_1779030430423-733772.webp",
-        "https://storage.azorafly.com/upload/series/our-guilds-idol/chapter_0_rxlv64nxf6/pages_n5Sc6YUe/page-0013_0013_1779030430423-180748.webp",
-        "https://storage.azorafly.com/upload/series/our-guilds-idol/chapter_0_rxlv64nxf6/pages_n5Sc6YUe/page-0014_0014_1779030430424-179101.webp",
-        "https://storage.azorafly.com/upload/series/our-guilds-idol/chapter_0_rxlv64nxf6/pages_n5Sc6YUe/page-0015_0015_1779030430424-171200.webp",
-        "https://storage.azorafly.com/upload/series/our-guilds-idol/chapter_0_rxlv64nxf6/pages_n5Sc6YUe/page-0016_0016_1779030430424-369554.webp",
-        "https://storage.azorafly.com/upload/series/our-guilds-idol/chapter_0_rxlv64nxf6/pages_n5Sc6YUe/page-0017_0017_1779030430424-108720.webp",
-        "https://storage.azorafly.com/upload/series/our-guilds-idol/chapter_0_rxlv64nxf6/pages_n5Sc6YUe/page-0018_0018_1779030430424-776879.webp",
-        "https://storage.azorafly.com/upload/series/our-guilds-idol/chapter_0_rxlv64nxf6/pages_n5Sc6YUe/page-0019_0019_1779030430424-241986.webp"
-      ]
-    },
-    "https://azorafly.com/series/our-guild-idol/chapter-42": {
-      "name": "42",
-      "images": [
-        "https://storage.azorafly.com/public//upload/series/our-guilds-idol/1mVdE84KOw/01.webp",
-        "https://storage.azorafly.com/public//upload/series/our-guilds-idol/1mVdE84KOw/02.webp",
-        "https://storage.azorafly.com/public//upload/series/our-guilds-idol/1mVdE84KOw/03.webp",
-        "https://storage.azorafly.com/public//upload/series/our-guilds-idol/1mVdE84KOw/04.webp",
-        "https://storage.azorafly.com/public//upload/series/our-guilds-idol/1mVdE84KOw/05.webp",
-        "https://storage.azorafly.com/public//upload/series/our-guilds-idol/1mVdE84KOw/06.webp",
-        "https://storage.azorafly.com/public//upload/series/our-guilds-idol/1mVdE84KOw/07.webp",
-        "https://storage.azorafly.com/public//upload/series/our-guilds-idol/1mVdE84KOw/08.webp",
-        "https://storage.azorafly.com/public//upload/series/our-guilds-idol/1mVdE84KOw/09.webp",
-        "https://storage.azorafly.com/public//upload/series/our-guilds-idol/1mVdE84KOw/10.webp",
-        "https://storage.azorafly.com/public//upload/series/our-guilds-idol/1mVdE84KOw/11.webp",
-        "https://storage.azorafly.com/public//upload/series/our-guilds-idol/1mVdE84KOw/12.webp",
-        "https://storage.azorafly.com/public//upload/series/our-guilds-idol/1mVdE84KOw/13.webp",
-        "https://storage.azorafly.com/public//upload/series/our-guilds-idol/1mVdE84KOw/14.webp",
-        "https://storage.azorafly.com/public//upload/series/our-guilds-idol/1mVdE84KOw/15.webp",
-        "https://storage.azorafly.com/public//upload/series/our-guilds-idol/1mVdE84KOw/16.webp",
-        "https://storage.azorafly.com/public//upload/series/our-guilds-idol/1mVdE84KOw/17.webp"
-      ]
-    },
-    "https://azorafly.com/series/our-guild-idol/chapter-41": {
-      "name": "41",
-      "images": [
-        "https://storage.azorafly.com/public//upload/series/our-guilds-idol/KG5d0YJH3T/01.webp",
-        "https://storage.azorafly.com/public//upload/series/our-guilds-idol/KG5d0YJH3T/02.webp",
-        "https://storage.azorafly.com/public//upload/series/our-guilds-idol/KG5d0YJH3T/03.webp",
-        "https://storage.azorafly.com/public//upload/series/our-guilds-idol/KG5d0YJH3T/04.webp",
-        "https://storage.azorafly.com/public//upload/series/our-guilds-idol/KG5d0YJH3T/05.webp",
-        "https://storage.azorafly.com/public//upload/series/our-guilds-idol/KG5d0YJH3T/06.webp",
-        "https://storage.azorafly.com/public//upload/series/our-guilds-idol/KG5d0YJH3T/07.webp",
-        "https://storage.azorafly.com/public//upload/series/our-guilds-idol/KG5d0YJH3T/08.webp",
-        "https://storage.azorafly.com/public//upload/series/our-guilds-idol/KG5d0YJH3T/09.webp",
-        "https://storage.azorafly.com/public//upload/series/our-guilds-idol/KG5d0YJH3T/10.webp"
-      ]
-    },
-    "https://azorafly.com/series/our-guild-idol/chapter-40": {
-      "name": "40",
-      "images": [
-        "https://storage.azorafly.com/public//upload/series/our-guilds-idol/TPaJPezPEN/01.webp",
-        "https://storage.azorafly.com/public//upload/series/our-guilds-idol/TPaJPezPEN/02.webp",
-        "https://storage.azorafly.com/public//upload/series/our-guilds-idol/TPaJPezPEN/03.webp",
-        "https://storage.azorafly.com/public//upload/series/our-guilds-idol/TPaJPezPEN/04.webp",
-        "https://storage.azorafly.com/public//upload/series/our-guilds-idol/TPaJPezPEN/05.webp",
-        "https://storage.azorafly.com/public//upload/series/our-guilds-idol/TPaJPezPEN/06.webp",
-        "https://storage.azorafly.com/public//upload/series/our-guilds-idol/TPaJPezPEN/07.webp",
-        "https://storage.azorafly.com/public//upload/series/our-guilds-idol/TPaJPezPEN/08.webp",
-        "https://storage.azorafly.com/public//upload/series/our-guilds-idol/TPaJPezPEN/09.webp",
-        "https://storage.azorafly.com/public//upload/series/our-guilds-idol/TPaJPezPEN/10.webp",
-        "https://storage.azorafly.com/public//upload/series/our-guilds-idol/TPaJPezPEN/11.webp",
-        "https://storage.azorafly.com/public//upload/series/our-guilds-idol/TPaJPezPEN/12.webp",
-        "https://storage.azorafly.com/public//upload/series/our-guilds-idol/TPaJPezPEN/13.webp"
-      ]
-    },
-    "https://azorafly.com/series/our-guild-idol/chapter-39": {
-      "name": "39",
-      "images": [
-        "https://storage.azorafly.com/public//upload/series/our-guilds-idol/MWLsJ6Ga9a/01.webp",
-        "https://storage.azorafly.com/public//upload/series/our-guilds-idol/MWLsJ6Ga9a/02.webp",
-        "https://storage.azorafly.com/public//upload/series/our-guilds-idol/MWLsJ6Ga9a/03.webp",
-        "https://storage.azorafly.com/public//upload/series/our-guilds-idol/MWLsJ6Ga9a/04.webp",
-        "https://storage.azorafly.com/public//upload/series/our-guilds-idol/MWLsJ6Ga9a/05.webp",
-        "https://storage.azorafly.com/public//upload/series/our-guilds-idol/MWLsJ6Ga9a/06.webp",
-        "https://storage.azorafly.com/public//upload/series/our-guilds-idol/MWLsJ6Ga9a/07.webp",
-        "https://storage.azorafly.com/public//upload/series/our-guilds-idol/MWLsJ6Ga9a/08.webp",
-        "https://storage.azorafly.com/public//upload/series/our-guilds-idol/MWLsJ6Ga9a/09.webp",
-        "https://storage.azorafly.com/public//upload/series/our-guilds-idol/MWLsJ6Ga9a/10.webp",
-        "https://storage.azorafly.com/public//upload/series/our-guilds-idol/MWLsJ6Ga9a/11.webp",
-        "https://storage.azorafly.com/public//upload/series/our-guilds-idol/MWLsJ6Ga9a/12.webp",
-        "https://storage.azorafly.com/public//upload/series/our-guilds-idol/MWLsJ6Ga9a/13.webp",
-        "https://storage.azorafly.com/public//upload/series/our-guilds-idol/MWLsJ6Ga9a/14.webp",
-        "https://storage.azorafly.com/public//upload/series/our-guilds-idol/MWLsJ6Ga9a/15.webp",
-        "https://storage.azorafly.com/public//upload/series/our-guilds-idol/MWLsJ6Ga9a/16.webp",
-        "https://storage.azorafly.com/public//upload/series/our-guilds-idol/MWLsJ6Ga9a/17.webp",
-        "https://storage.azorafly.com/public//upload/series/our-guilds-idol/MWLsJ6Ga9a/18.webp",
-        "https://storage.azorafly.com/public//upload/series/our-guilds-idol/MWLsJ6Ga9a/19.webp"
-      ]
-    },
-    "https://azorafly.com/series/our-guild-idol/chapter-38": {
-      "name": "38",
-      "images": [
-        "https://storage.azorafly.com/public//upload/series/our-guilds-idol/YfrENpxmsY/01.webp",
-        "https://storage.azorafly.com/public//upload/series/our-guilds-idol/YfrENpxmsY/02.webp",
-        "https://storage.azorafly.com/public//upload/series/our-guilds-idol/YfrENpxmsY/03.webp",
-        "https://storage.azorafly.com/public//upload/series/our-guilds-idol/YfrENpxmsY/04.webp",
-        "https://storage.azorafly.com/public//upload/series/our-guilds-idol/YfrENpxmsY/05.webp",
-        "https://storage.azorafly.com/public//upload/series/our-guilds-idol/YfrENpxmsY/06.webp",
-        "https://storage.azorafly.com/public//upload/series/our-guilds-idol/YfrENpxmsY/07.webp",
-        "https://storage.azorafly.com/public//upload/series/our-guilds-idol/YfrENpxmsY/08.webp",
-        "https://storage.azorafly.com/public//upload/series/our-guilds-idol/YfrENpxmsY/09.webp",
-        "https://storage.azorafly.com/public//upload/series/our-guilds-idol/YfrENpxmsY/10.webp",
-        "https://storage.azorafly.com/public//upload/series/our-guilds-idol/YfrENpxmsY/11.webp",
-        "https://storage.azorafly.com/public//upload/series/our-guilds-idol/YfrENpxmsY/12.webp",
-        "https://storage.azorafly.com/public//upload/series/our-guilds-idol/YfrENpxmsY/13.webp",
-        "https://storage.azorafly.com/public//upload/series/our-guilds-idol/YfrENpxmsY/14.webp",
-        "https://storage.azorafly.com/public//upload/series/our-guilds-idol/YfrENpxmsY/15.webp"
-      ]
-    },
-    "https://azorafly.com/series/our-guild-idol/chapter-37": {
-      "name": "37",
-      "images": [
-        "https://storage.azorafly.com/public//upload/series/our-guilds-idol/oUCIiOuYFA/01.webp",
-        "https://storage.azorafly.com/public//upload/series/our-guilds-idol/oUCIiOuYFA/02.webp",
-        "https://storage.azorafly.com/public//upload/series/our-guilds-idol/oUCIiOuYFA/03.webp",
-        "https://storage.azorafly.com/public//upload/series/our-guilds-idol/oUCIiOuYFA/04.webp",
-        "https://storage.azorafly.com/public//upload/series/our-guilds-idol/oUCIiOuYFA/05.webp",
-        "https://storage.azorafly.com/public//upload/series/our-guilds-idol/oUCIiOuYFA/06.webp",
-        "https://storage.azorafly.com/public//upload/series/our-guilds-idol/oUCIiOuYFA/07.webp",
-        "https://storage.azorafly.com/public//upload/series/our-guilds-idol/oUCIiOuYFA/08.webp",
-        "https://storage.azorafly.com/public//upload/series/our-guilds-idol/oUCIiOuYFA/09.webp",
-        "https://storage.azorafly.com/public//upload/series/our-guilds-idol/oUCIiOuYFA/10.webp",
-        "https://storage.azorafly.com/public//upload/series/our-guilds-idol/oUCIiOuYFA/11.webp",
-        "https://storage.azorafly.com/public//upload/series/our-guilds-idol/oUCIiOuYFA/12.webp",
-        "https://storage.azorafly.com/public//upload/series/our-guilds-idol/oUCIiOuYFA/13.webp",
-        "https://storage.azorafly.com/public//upload/series/our-guilds-idol/oUCIiOuYFA/14.webp",
-        "https://storage.azorafly.com/public//upload/series/our-guilds-idol/oUCIiOuYFA/15.webp"
-      ]
-    },
-    "https://azorafly.com/series/our-guild-idol/chapter-36": {
-      "name": "36",
-      "images": [
-        "https://storage.azorafly.com/public//upload/series/our-guilds-idol/rSukHAqAAN/01.webp",
-        "https://storage.azorafly.com/public//upload/series/our-guilds-idol/rSukHAqAAN/02.webp",
-        "https://storage.azorafly.com/public//upload/series/our-guilds-idol/rSukHAqAAN/03.webp",
-        "https://storage.azorafly.com/public//upload/series/our-guilds-idol/rSukHAqAAN/04.webp",
-        "https://storage.azorafly.com/public//upload/series/our-guilds-idol/rSukHAqAAN/05.webp",
-        "https://storage.azorafly.com/public//upload/series/our-guilds-idol/rSukHAqAAN/06.webp",
-        "https://storage.azorafly.com/public//upload/series/our-guilds-idol/rSukHAqAAN/07.webp",
-        "https://storage.azorafly.com/public//upload/series/our-guilds-idol/rSukHAqAAN/08.webp",
-        "https://storage.azorafly.com/public//upload/series/our-guilds-idol/rSukHAqAAN/09.webp",
-        "https://storage.azorafly.com/public//upload/series/our-guilds-idol/rSukHAqAAN/10.webp",
-        "https://storage.azorafly.com/public//upload/series/our-guilds-idol/rSukHAqAAN/11.webp",
-        "https://storage.azorafly.com/public//upload/series/our-guilds-idol/rSukHAqAAN/12.webp",
-        "https://storage.azorafly.com/public//upload/series/our-guilds-idol/rSukHAqAAN/13.webp",
-        "https://storage.azorafly.com/public//upload/series/our-guilds-idol/rSukHAqAAN/14.webp",
-        "https://storage.azorafly.com/public//upload/series/our-guilds-idol/rSukHAqAAN/15.webp"
-      ]
-    },
-    "https://azorafly.com/series/our-guild-idol/chapter-35": {
-      "name": "35",
-      "images": [
-        "https://storage.azorafly.com/public//upload/series/our-guilds-idol/AgZzGUMQih/01.webp",
-        "https://storage.azorafly.com/public//upload/series/our-guilds-idol/AgZzGUMQih/02.webp",
-        "https://storage.azorafly.com/public//upload/series/our-guilds-idol/AgZzGUMQih/03.webp",
-        "https://storage.azorafly.com/public//upload/series/our-guilds-idol/AgZzGUMQih/04.webp",
-        "https://storage.azorafly.com/public//upload/series/our-guilds-idol/AgZzGUMQih/05.webp",
-        "https://storage.azorafly.com/public//upload/series/our-guilds-idol/AgZzGUMQih/06.webp",
-        "https://storage.azorafly.com/public//upload/series/our-guilds-idol/AgZzGUMQih/07.webp",
-        "https://storage.azorafly.com/public//upload/series/our-guilds-idol/AgZzGUMQih/08.webp",
-        "https://storage.azorafly.com/public//upload/series/our-guilds-idol/AgZzGUMQih/09.webp",
-        "https://storage.azorafly.com/public//upload/series/our-guilds-idol/AgZzGUMQih/10.webp",
-        "https://storage.azorafly.com/public//upload/series/our-guilds-idol/AgZzGUMQih/11.webp",
-        "https://storage.azorafly.com/public//upload/series/our-guilds-idol/AgZzGUMQih/12.webp",
-        "https://storage.azorafly.com/public//upload/series/our-guilds-idol/AgZzGUMQih/13.webp",
-        "https://storage.azorafly.com/public//upload/series/our-guilds-idol/AgZzGUMQih/14.webp",
-        "https://storage.azorafly.com/public//upload/series/our-guilds-idol/AgZzGUMQih/15.webp"
-      ]
-    },
-    "https://azorafly.com/series/our-guild-idol/chapter-34": {
-      "name": "34",
-      "images": [
-        "https://storage.azorafly.com/public//upload/series/our-guilds-idol/ZyjS9JlXIb/01.webp",
-        "https://storage.azorafly.com/public//upload/series/our-guilds-idol/ZyjS9JlXIb/02.webp",
-        "https://storage.azorafly.com/public//upload/series/our-guilds-idol/ZyjS9JlXIb/03.webp",
-        "https://storage.azorafly.com/public//upload/series/our-guilds-idol/ZyjS9JlXIb/04.webp",
-        "https://storage.azorafly.com/public//upload/series/our-guilds-idol/ZyjS9JlXIb/05.webp",
-        "https://storage.azorafly.com/public//upload/series/our-guilds-idol/ZyjS9JlXIb/06.webp",
-        "https://storage.azorafly.com/public//upload/series/our-guilds-idol/ZyjS9JlXIb/07.webp",
-        "https://storage.azorafly.com/public//upload/series/our-guilds-idol/ZyjS9JlXIb/08.webp",
-        "https://storage.azorafly.com/public//upload/series/our-guilds-idol/ZyjS9JlXIb/09.webp",
-        "https://storage.azorafly.com/public//upload/series/our-guilds-idol/ZyjS9JlXIb/10.webp",
-        "https://storage.azorafly.com/public//upload/series/our-guilds-idol/ZyjS9JlXIb/11.webp",
-        "https://storage.azorafly.com/public//upload/series/our-guilds-idol/ZyjS9JlXIb/12.webp",
-        "https://storage.azorafly.com/public//upload/series/our-guilds-idol/ZyjS9JlXIb/13.webp",
-        "https://storage.azorafly.com/public//upload/series/our-guilds-idol/ZyjS9JlXIb/14.webp",
-        "https://storage.azorafly.com/public//upload/series/our-guilds-idol/ZyjS9JlXIb/15.webp",
-        "https://storage.azorafly.com/public//upload/series/our-guilds-idol/ZyjS9JlXIb/16.webp"
-      ]
-    },
-    "https://azorafly.com/series/our-guild-idol/chapter-33": {
-      "name": "33",
-      "images": [
-        "https://storage.azorafly.com/public//upload/series/our-guilds-idol/sfjFb0Khra/1.webp",
-        "https://storage.azorafly.com/public//upload/series/our-guilds-idol/sfjFb0Khra/2.webp",
-        "https://storage.azorafly.com/public//upload/series/our-guilds-idol/sfjFb0Khra/3.webp",
-        "https://storage.azorafly.com/public//upload/series/our-guilds-idol/sfjFb0Khra/4.webp",
-        "https://storage.azorafly.com/public//upload/series/our-guilds-idol/sfjFb0Khra/5.webp",
-        "https://storage.azorafly.com/public//upload/series/our-guilds-idol/sfjFb0Khra/6..webp",
-        "https://storage.azorafly.com/public//upload/series/our-guilds-idol/sfjFb0Khra/7.webp",
-        "https://storage.azorafly.com/public//upload/series/our-guilds-idol/sfjFb0Khra/8.webp",
-        "https://storage.azorafly.com/public//upload/series/our-guilds-idol/sfjFb0Khra/9.webp"
-      ]
-    },
-    "https://azorafly.com/series/our-guild-idol/chapter-32": {
-      "name": "32",
-      "images": [
-        "https://storage.azorafly.com/public//upload/series/our-guilds-idol/Uj8rEZbipt/01.webp",
-        "https://storage.azorafly.com/public//upload/series/our-guilds-idol/Uj8rEZbipt/02.webp",
-        "https://storage.azorafly.com/public//upload/series/our-guilds-idol/Uj8rEZbipt/03.webp",
-        "https://storage.azorafly.com/public//upload/series/our-guilds-idol/Uj8rEZbipt/04.webp",
-        "https://storage.azorafly.com/public//upload/series/our-guilds-idol/Uj8rEZbipt/05.webp",
-        "https://storage.azorafly.com/public//upload/series/our-guilds-idol/Uj8rEZbipt/06.webp",
-        "https://storage.azorafly.com/public//upload/series/our-guilds-idol/Uj8rEZbipt/07.webp",
-        "https://storage.azorafly.com/public//upload/series/our-guilds-idol/Uj8rEZbipt/08.webp",
-        "https://storage.azorafly.com/public//upload/series/our-guilds-idol/Uj8rEZbipt/09.webp",
-        "https://storage.azorafly.com/public//upload/series/our-guilds-idol/Uj8rEZbipt/10.webp"
-      ]
-    },
-    "https://azorafly.com/series/our-guild-idol/chapter-31": {
-      "name": "31",
-      "images": [
-        "https://storage.azorafly.com/public//upload/series/our-guilds-idol/nI5SRBriEj/01.webp",
-        "https://storage.azorafly.com/public//upload/series/our-guilds-idol/nI5SRBriEj/02.webp",
-        "https://storage.azorafly.com/public//upload/series/our-guilds-idol/nI5SRBriEj/03.webp",
-        "https://storage.azorafly.com/public//upload/series/our-guilds-idol/nI5SRBriEj/04.webp",
-        "https://storage.azorafly.com/public//upload/series/our-guilds-idol/nI5SRBriEj/05.webp",
-        "https://storage.azorafly.com/public//upload/series/our-guilds-idol/nI5SRBriEj/06.webp",
-        "https://storage.azorafly.com/public//upload/series/our-guilds-idol/nI5SRBriEj/07.webp",
-        "https://storage.azorafly.com/public//upload/series/our-guilds-idol/nI5SRBriEj/08.webp",
-        "https://storage.azorafly.com/public//upload/series/our-guilds-idol/nI5SRBriEj/09.webp",
-        "https://storage.azorafly.com/public//upload/series/our-guilds-idol/nI5SRBriEj/10.webp",
-        "https://storage.azorafly.com/public//upload/series/our-guilds-idol/nI5SRBriEj/11.webp"
-      ]
-    },
-    "https://azorafly.com/series/our-guild-idol/chapter-30": {
-      "name": "30",
-      "images": [
-        "https://storage.azorafly.com/public//upload/series/our-guilds-idol/rIUorDuPYy/01.webp",
-        "https://storage.azorafly.com/public//upload/series/our-guilds-idol/rIUorDuPYy/02.webp",
-        "https://storage.azorafly.com/public//upload/series/our-guilds-idol/rIUorDuPYy/03.webp",
-        "https://storage.azorafly.com/public//upload/series/our-guilds-idol/rIUorDuPYy/04.webp",
-        "https://storage.azorafly.com/public//upload/series/our-guilds-idol/rIUorDuPYy/05.webp",
-        "https://storage.azorafly.com/public//upload/series/our-guilds-idol/rIUorDuPYy/06.webp",
-        "https://storage.azorafly.com/public//upload/series/our-guilds-idol/rIUorDuPYy/07.webp",
-        "https://storage.azorafly.com/public//upload/series/our-guilds-idol/rIUorDuPYy/08.webp",
-        "https://storage.azorafly.com/public//upload/series/our-guilds-idol/rIUorDuPYy/09.webp",
-        "https://storage.azorafly.com/public//upload/series/our-guilds-idol/rIUorDuPYy/10.webp"
-      ]
-    },
-    "https://azorafly.com/series/our-guild-idol/chapter-29": {
-      "name": "29",
-      "images": [
-        "https://storage.azorafly.com/public//upload/series/our-guilds-idol/WAWCjC0OJ6/01.webp",
-        "https://storage.azorafly.com/public//upload/series/our-guilds-idol/WAWCjC0OJ6/02.webp",
-        "https://storage.azorafly.com/public//upload/series/our-guilds-idol/WAWCjC0OJ6/03.webp",
-        "https://storage.azorafly.com/public//upload/series/our-guilds-idol/WAWCjC0OJ6/04.webp",
-        "https://storage.azorafly.com/public//upload/series/our-guilds-idol/WAWCjC0OJ6/05.webp",
-        "https://storage.azorafly.com/public//upload/series/our-guilds-idol/WAWCjC0OJ6/06.webp",
-        "https://storage.azorafly.com/public//upload/series/our-guilds-idol/WAWCjC0OJ6/07.webp",
-        "https://storage.azorafly.com/public//upload/series/our-guilds-idol/WAWCjC0OJ6/08.webp",
-        "https://storage.azorafly.com/public//upload/series/our-guilds-idol/WAWCjC0OJ6/09.webp",
-        "https://storage.azorafly.com/public//upload/series/our-guilds-idol/WAWCjC0OJ6/10.webp"
-      ]
-    },
-    "https://azorafly.com/series/our-guild-idol/chapter-28": {
-      "name": "28",
-      "images": [
-        "https://storage.azorafly.com/public//upload/series/our-guilds-idol/uSjLK1t9GA/01.webp",
-        "https://storage.azorafly.com/public//upload/series/our-guilds-idol/uSjLK1t9GA/02.webp",
-        "https://storage.azorafly.com/public//upload/series/our-guilds-idol/uSjLK1t9GA/03.webp",
-        "https://storage.azorafly.com/public//upload/series/our-guilds-idol/uSjLK1t9GA/04.webp",
-        "https://storage.azorafly.com/public//upload/series/our-guilds-idol/uSjLK1t9GA/05.webp",
-        "https://storage.azorafly.com/public//upload/series/our-guilds-idol/uSjLK1t9GA/06.webp",
-        "https://storage.azorafly.com/public//upload/series/our-guilds-idol/uSjLK1t9GA/07.webp",
-        "https://storage.azorafly.com/public//upload/series/our-guilds-idol/uSjLK1t9GA/08.webp",
-        "https://storage.azorafly.com/public//upload/series/our-guilds-idol/uSjLK1t9GA/09.webp",
-        "https://storage.azorafly.com/public//upload/series/our-guilds-idol/uSjLK1t9GA/10.webp"
-      ]
-    },
-    "https://azorafly.com/series/our-guild-idol/chapter-27": {
-      "name": "27",
-      "images": [
-        "https://storage.azorafly.com/public//upload/series/our-guilds-idol/n4Bk4rFjqC/01.webp",
-        "https://storage.azorafly.com/public//upload/series/our-guilds-idol/n4Bk4rFjqC/02.webp",
-        "https://storage.azorafly.com/public//upload/series/our-guilds-idol/n4Bk4rFjqC/03.webp",
-        "https://storage.azorafly.com/public//upload/series/our-guilds-idol/n4Bk4rFjqC/04.webp",
-        "https://storage.azorafly.com/public//upload/series/our-guilds-idol/n4Bk4rFjqC/05.webp",
-        "https://storage.azorafly.com/public//upload/series/our-guilds-idol/n4Bk4rFjqC/06.webp",
-        "https://storage.azorafly.com/public//upload/series/our-guilds-idol/n4Bk4rFjqC/07.webp",
-        "https://storage.azorafly.com/public//upload/series/our-guilds-idol/n4Bk4rFjqC/08.webp",
-        "https://storage.azorafly.com/public//upload/series/our-guilds-idol/n4Bk4rFjqC/09.webp",
-        "https://storage.azorafly.com/public//upload/series/our-guilds-idol/n4Bk4rFjqC/10.webp"
-      ]
-    },
-    "https://azorafly.com/series/our-guild-idol/chapter-26": {
-      "name": "26",
-      "images": [
-        "https://storage.azorafly.com/public//upload/series/our-guilds-idol/jOWdJMGBSS/01.webp",
-        "https://storage.azorafly.com/public//upload/series/our-guilds-idol/jOWdJMGBSS/02.webp",
-        "https://storage.azorafly.com/public//upload/series/our-guilds-idol/jOWdJMGBSS/03.webp",
-        "https://storage.azorafly.com/public//upload/series/our-guilds-idol/jOWdJMGBSS/04.webp",
-        "https://storage.azorafly.com/public//upload/series/our-guilds-idol/jOWdJMGBSS/05.webp",
-        "https://storage.azorafly.com/public//upload/series/our-guilds-idol/jOWdJMGBSS/06.webp",
-        "https://storage.azorafly.com/public//upload/series/our-guilds-idol/jOWdJMGBSS/07.webp",
-        "https://storage.azorafly.com/public//upload/series/our-guilds-idol/jOWdJMGBSS/08.webp",
-        "https://storage.azorafly.com/public//upload/series/our-guilds-idol/jOWdJMGBSS/09.webp",
-        "https://storage.azorafly.com/public//upload/series/our-guilds-idol/jOWdJMGBSS/10.webp",
-        "https://storage.azorafly.com/public//upload/series/our-guilds-idol/jOWdJMGBSS/11.webp"
-      ]
-    },
-    "https://azorafly.com/series/our-guild-idol/chapter-25": {
-      "name": "25",
-      "images": [
-        "https://storage.azorafly.com/public//upload/series/our-guilds-idol/jBSen9eMaa/01.webp",
-        "https://storage.azorafly.com/public//upload/series/our-guilds-idol/jBSen9eMaa/02.webp",
-        "https://storage.azorafly.com/public//upload/series/our-guilds-idol/jBSen9eMaa/03.webp",
-        "https://storage.azorafly.com/public//upload/series/our-guilds-idol/jBSen9eMaa/04.webp",
-        "https://storage.azorafly.com/public//upload/series/our-guilds-idol/jBSen9eMaa/05.webp",
-        "https://storage.azorafly.com/public//upload/series/our-guilds-idol/jBSen9eMaa/06.webp",
-        "https://storage.azorafly.com/public//upload/series/our-guilds-idol/jBSen9eMaa/07.webp",
-        "https://storage.azorafly.com/public//upload/series/our-guilds-idol/jBSen9eMaa/08.webp",
-        "https://storage.azorafly.com/public//upload/series/our-guilds-idol/jBSen9eMaa/09.webp",
-        "https://storage.azorafly.com/public//upload/series/our-guilds-idol/jBSen9eMaa/10.webp"
-      ]
-    },
-    "https://azorafly.com/series/our-guild-idol/chapter-24": {
-      "name": "24",
-      "images": [
-        "https://storage.azorafly.com/public//upload/series/our-guilds-idol/9cp4dVGmTX/01.webp",
-        "https://storage.azorafly.com/public//upload/series/our-guilds-idol/9cp4dVGmTX/02.webp",
-        "https://storage.azorafly.com/public//upload/series/our-guilds-idol/9cp4dVGmTX/03.webp",
-        "https://storage.azorafly.com/public//upload/series/our-guilds-idol/9cp4dVGmTX/04.webp",
-        "https://storage.azorafly.com/public//upload/series/our-guilds-idol/9cp4dVGmTX/05.webp",
-        "https://storage.azorafly.com/public//upload/series/our-guilds-idol/9cp4dVGmTX/06.webp",
-        "https://storage.azorafly.com/public//upload/series/our-guilds-idol/9cp4dVGmTX/07.webp",
-        "https://storage.azorafly.com/public//upload/series/our-guilds-idol/9cp4dVGmTX/08.webp",
-        "https://storage.azorafly.com/public//upload/series/our-guilds-idol/9cp4dVGmTX/09.webp",
-        "https://storage.azorafly.com/public//upload/series/our-guilds-idol/9cp4dVGmTX/10.webp",
-        "https://storage.azorafly.com/public//upload/series/our-guilds-idol/9cp4dVGmTX/11.webp"
-      ]
-    },
-    "https://azorafly.com/series/our-guild-idol/chapter-23": {
-      "name": "23",
-      "images": [
-        "https://storage.azorafly.com/public//upload/series/our-guilds-idol/pXJyqvww9T/01.webp",
-        "https://storage.azorafly.com/public//upload/series/our-guilds-idol/pXJyqvww9T/02.webp",
-        "https://storage.azorafly.com/public//upload/series/our-guilds-idol/pXJyqvww9T/03.webp",
-        "https://storage.azorafly.com/public//upload/series/our-guilds-idol/pXJyqvww9T/04.webp",
-        "https://storage.azorafly.com/public//upload/series/our-guilds-idol/pXJyqvww9T/05.webp",
-        "https://storage.azorafly.com/public//upload/series/our-guilds-idol/pXJyqvww9T/06.webp",
-        "https://storage.azorafly.com/public//upload/series/our-guilds-idol/pXJyqvww9T/07.webp",
-        "https://storage.azorafly.com/public//upload/series/our-guilds-idol/pXJyqvww9T/08.webp",
-        "https://storage.azorafly.com/public//upload/series/our-guilds-idol/pXJyqvww9T/09.webp",
-        "https://storage.azorafly.com/public//upload/series/our-guilds-idol/pXJyqvww9T/10.webp"
-      ]
-    },
-    "https://azorafly.com/series/our-guild-idol/chapter-22": {
-      "name": "22",
-      "images": [
-        "https://storage.azorafly.com/public//upload/series/our-guilds-idol/3v76YVnS6x/01.webp",
-        "https://storage.azorafly.com/public//upload/series/our-guilds-idol/3v76YVnS6x/02.webp",
-        "https://storage.azorafly.com/public//upload/series/our-guilds-idol/3v76YVnS6x/03.webp",
-        "https://storage.azorafly.com/public//upload/series/our-guilds-idol/3v76YVnS6x/04.webp",
-        "https://storage.azorafly.com/public//upload/series/our-guilds-idol/3v76YVnS6x/05.webp",
-        "https://storage.azorafly.com/public//upload/series/our-guilds-idol/3v76YVnS6x/06.webp",
-        "https://storage.azorafly.com/public//upload/series/our-guilds-idol/3v76YVnS6x/07.webp",
-        "https://storage.azorafly.com/public//upload/series/our-guilds-idol/3v76YVnS6x/08.webp",
-        "https://storage.azorafly.com/public//upload/series/our-guilds-idol/3v76YVnS6x/09.webp",
-        "https://storage.azorafly.com/public//upload/series/our-guilds-idol/3v76YVnS6x/10.webp",
-        "https://storage.azorafly.com/public//upload/series/our-guilds-idol/3v76YVnS6x/11.webp"
-      ]
-    },
-    "https://azorafly.com/series/our-guild-idol/chapter-21": {
-      "name": "21",
-      "images": [
-        "https://storage.azorafly.com/public//upload/series/our-guilds-idol/t3BXlmME4Q/01.webp",
-        "https://storage.azorafly.com/public//upload/series/our-guilds-idol/t3BXlmME4Q/02.webp",
-        "https://storage.azorafly.com/public//upload/series/our-guilds-idol/t3BXlmME4Q/03.webp",
-        "https://storage.azorafly.com/public//upload/series/our-guilds-idol/t3BXlmME4Q/04.webp",
-        "https://storage.azorafly.com/public//upload/series/our-guilds-idol/t3BXlmME4Q/05.webp",
-        "https://storage.azorafly.com/public//upload/series/our-guilds-idol/t3BXlmME4Q/06.webp",
-        "https://storage.azorafly.com/public//upload/series/our-guilds-idol/t3BXlmME4Q/07.webp",
-        "https://storage.azorafly.com/public//upload/series/our-guilds-idol/t3BXlmME4Q/08.webp",
-        "https://storage.azorafly.com/public//upload/series/our-guilds-idol/t3BXlmME4Q/09.webp",
-        "https://storage.azorafly.com/public//upload/series/our-guilds-idol/t3BXlmME4Q/10.webp",
-        "https://storage.azorafly.com/public//upload/series/our-guilds-idol/t3BXlmME4Q/11.webp",
-        "https://storage.azorafly.com/public//upload/series/our-guilds-idol/t3BXlmME4Q/12.webp"
-      ]
-    },
-    "https://azorafly.com/series/our-guild-idol/chapter-20": {
-      "name": "20",
-      "images": [
-        "https://storage.azorafly.com/public//upload/series/our-guilds-idol/XDkVCD5jOa/01.webp",
-        "https://storage.azorafly.com/public//upload/series/our-guilds-idol/XDkVCD5jOa/02.webp",
-        "https://storage.azorafly.com/public//upload/series/our-guilds-idol/XDkVCD5jOa/03.webp",
-        "https://storage.azorafly.com/public//upload/series/our-guilds-idol/XDkVCD5jOa/04.webp",
-        "https://storage.azorafly.com/public//upload/series/our-guilds-idol/XDkVCD5jOa/05.webp",
-        "https://storage.azorafly.com/public//upload/series/our-guilds-idol/XDkVCD5jOa/06.webp",
-        "https://storage.azorafly.com/public//upload/series/our-guilds-idol/XDkVCD5jOa/07.webp",
-        "https://storage.azorafly.com/public//upload/series/our-guilds-idol/XDkVCD5jOa/08.webp",
-        "https://storage.azorafly.com/public//upload/series/our-guilds-idol/XDkVCD5jOa/09.webp",
-        "https://storage.azorafly.com/public//upload/series/our-guilds-idol/XDkVCD5jOa/10.webp",
-        "https://storage.azorafly.com/public//upload/series/our-guilds-idol/XDkVCD5jOa/11.webp"
-      ]
-    },
-    "https://azorafly.com/series/our-guild-idol/chapter-19": {
-      "name": "19",
-      "images": [
-        "https://storage.azorafly.com/WP-manga/data/manga_6782995a243a0/0141a7d11e347340e381f0f83988edf4/01.webp",
-        "https://storage.azorafly.com/WP-manga/data/manga_6782995a243a0/0141a7d11e347340e381f0f83988edf4/02.webp",
-        "https://storage.azorafly.com/WP-manga/data/manga_6782995a243a0/0141a7d11e347340e381f0f83988edf4/03.webp",
-        "https://storage.azorafly.com/WP-manga/data/manga_6782995a243a0/0141a7d11e347340e381f0f83988edf4/04.webp",
-        "https://storage.azorafly.com/WP-manga/data/manga_6782995a243a0/0141a7d11e347340e381f0f83988edf4/05.webp",
-        "https://storage.azorafly.com/WP-manga/data/manga_6782995a243a0/0141a7d11e347340e381f0f83988edf4/06.webp",
-        "https://storage.azorafly.com/WP-manga/data/manga_6782995a243a0/0141a7d11e347340e381f0f83988edf4/07.webp",
-        "https://storage.azorafly.com/WP-manga/data/manga_6782995a243a0/0141a7d11e347340e381f0f83988edf4/08.webp",
-        "https://storage.azorafly.com/WP-manga/data/manga_6782995a243a0/0141a7d11e347340e381f0f83988edf4/09.webp",
-        "https://storage.azorafly.com/WP-manga/data/manga_6782995a243a0/0141a7d11e347340e381f0f83988edf4/10.webp",
-        "https://storage.azorafly.com/WP-manga/data/manga_6782995a243a0/0141a7d11e347340e381f0f83988edf4/11.webp"
-      ]
-    },
-    "https://azorafly.com/series/our-guild-idol/chapter-18": {
-      "name": "18",
-      "images": [
-        "https://storage.azorafly.com/WP-manga/data/manga_6782995a243a0/ac2fe857f4fb7a5474c1bc83f20ceb70/01.webp",
-        "https://storage.azorafly.com/WP-manga/data/manga_6782995a243a0/ac2fe857f4fb7a5474c1bc83f20ceb70/02.webp",
-        "https://storage.azorafly.com/WP-manga/data/manga_6782995a243a0/ac2fe857f4fb7a5474c1bc83f20ceb70/03.webp",
-        "https://storage.azorafly.com/WP-manga/data/manga_6782995a243a0/ac2fe857f4fb7a5474c1bc83f20ceb70/04.webp",
-        "https://storage.azorafly.com/WP-manga/data/manga_6782995a243a0/ac2fe857f4fb7a5474c1bc83f20ceb70/05.webp",
-        "https://storage.azorafly.com/WP-manga/data/manga_6782995a243a0/ac2fe857f4fb7a5474c1bc83f20ceb70/06.webp",
-        "https://storage.azorafly.com/WP-manga/data/manga_6782995a243a0/ac2fe857f4fb7a5474c1bc83f20ceb70/07.webp",
-        "https://storage.azorafly.com/WP-manga/data/manga_6782995a243a0/ac2fe857f4fb7a5474c1bc83f20ceb70/08.webp",
-        "https://storage.azorafly.com/WP-manga/data/manga_6782995a243a0/ac2fe857f4fb7a5474c1bc83f20ceb70/09.webp",
-        "https://storage.azorafly.com/WP-manga/data/manga_6782995a243a0/ac2fe857f4fb7a5474c1bc83f20ceb70/10.webp",
-        "https://storage.azorafly.com/WP-manga/data/manga_6782995a243a0/ac2fe857f4fb7a5474c1bc83f20ceb70/11.webp",
-        "https://storage.azorafly.com/WP-manga/data/manga_6782995a243a0/ac2fe857f4fb7a5474c1bc83f20ceb70/12.webp",
-        "https://storage.azorafly.com/WP-manga/data/manga_6782995a243a0/ac2fe857f4fb7a5474c1bc83f20ceb70/13.webp",
-        "https://storage.azorafly.com/WP-manga/data/manga_6782995a243a0/ac2fe857f4fb7a5474c1bc83f20ceb70/14.webp",
-        "https://storage.azorafly.com/WP-manga/data/manga_6782995a243a0/ac2fe857f4fb7a5474c1bc83f20ceb70/15.webp",
-        "https://storage.azorafly.com/WP-manga/data/manga_6782995a243a0/ac2fe857f4fb7a5474c1bc83f20ceb70/16.webp",
-        "https://storage.azorafly.com/WP-manga/data/manga_6782995a243a0/ac2fe857f4fb7a5474c1bc83f20ceb70/17.webp"
-      ]
-    },
-    "https://azorafly.com/series/our-guild-idol/chapter-17": {
-      "name": "17",
-      "images": [
-        "https://storage.azorafly.com/WP-manga/data/manga_6782995a243a0/bf578151037f5d3b5c55bbde34076c9f/01.webp",
-        "https://storage.azorafly.com/WP-manga/data/manga_6782995a243a0/bf578151037f5d3b5c55bbde34076c9f/02.webp",
-        "https://storage.azorafly.com/WP-manga/data/manga_6782995a243a0/bf578151037f5d3b5c55bbde34076c9f/03.webp",
-        "https://storage.azorafly.com/WP-manga/data/manga_6782995a243a0/bf578151037f5d3b5c55bbde34076c9f/04.webp",
-        "https://storage.azorafly.com/WP-manga/data/manga_6782995a243a0/bf578151037f5d3b5c55bbde34076c9f/05.webp",
-        "https://storage.azorafly.com/WP-manga/data/manga_6782995a243a0/bf578151037f5d3b5c55bbde34076c9f/06.webp",
-        "https://storage.azorafly.com/WP-manga/data/manga_6782995a243a0/bf578151037f5d3b5c55bbde34076c9f/07.webp",
-        "https://storage.azorafly.com/WP-manga/data/manga_6782995a243a0/bf578151037f5d3b5c55bbde34076c9f/08.webp",
-        "https://storage.azorafly.com/WP-manga/data/manga_6782995a243a0/bf578151037f5d3b5c55bbde34076c9f/09.webp",
-        "https://storage.azorafly.com/WP-manga/data/manga_6782995a243a0/bf578151037f5d3b5c55bbde34076c9f/10.webp",
-        "https://storage.azorafly.com/WP-manga/data/manga_6782995a243a0/bf578151037f5d3b5c55bbde34076c9f/11.webp",
-        "https://storage.azorafly.com/WP-manga/data/manga_6782995a243a0/bf578151037f5d3b5c55bbde34076c9f/12.webp",
-        "https://storage.azorafly.com/WP-manga/data/manga_6782995a243a0/bf578151037f5d3b5c55bbde34076c9f/13.webp",
-        "https://storage.azorafly.com/WP-manga/data/manga_6782995a243a0/bf578151037f5d3b5c55bbde34076c9f/14.webp",
-        "https://storage.azorafly.com/WP-manga/data/manga_6782995a243a0/bf578151037f5d3b5c55bbde34076c9f/15.webp",
-        "https://storage.azorafly.com/WP-manga/data/manga_6782995a243a0/bf578151037f5d3b5c55bbde34076c9f/16.webp",
-        "https://storage.azorafly.com/WP-manga/data/manga_6782995a243a0/bf578151037f5d3b5c55bbde34076c9f/17.webp"
-      ]
-    },
-    "https://azorafly.com/series/our-guild-idol/chapter-16": {
-      "name": "16",
-      "images": [
-        "https://storage.azorafly.com/WP-manga/data/manga_6782995a243a0/e9bb60266b0be51415d6681b2640c55f/01.webp",
-        "https://storage.azorafly.com/WP-manga/data/manga_6782995a243a0/e9bb60266b0be51415d6681b2640c55f/02.webp",
-        "https://storage.azorafly.com/WP-manga/data/manga_6782995a243a0/e9bb60266b0be51415d6681b2640c55f/03.webp",
-        "https://storage.azorafly.com/WP-manga/data/manga_6782995a243a0/e9bb60266b0be51415d6681b2640c55f/04.webp",
-        "https://storage.azorafly.com/WP-manga/data/manga_6782995a243a0/e9bb60266b0be51415d6681b2640c55f/05.webp",
-        "https://storage.azorafly.com/WP-manga/data/manga_6782995a243a0/e9bb60266b0be51415d6681b2640c55f/06.webp",
-        "https://storage.azorafly.com/WP-manga/data/manga_6782995a243a0/e9bb60266b0be51415d6681b2640c55f/07.webp",
-        "https://storage.azorafly.com/WP-manga/data/manga_6782995a243a0/e9bb60266b0be51415d6681b2640c55f/08.webp",
-        "https://storage.azorafly.com/WP-manga/data/manga_6782995a243a0/e9bb60266b0be51415d6681b2640c55f/09.webp",
-        "https://storage.azorafly.com/WP-manga/data/manga_6782995a243a0/e9bb60266b0be51415d6681b2640c55f/10.webp",
-        "https://storage.azorafly.com/WP-manga/data/manga_6782995a243a0/e9bb60266b0be51415d6681b2640c55f/11.webp",
-        "https://storage.azorafly.com/WP-manga/data/manga_6782995a243a0/e9bb60266b0be51415d6681b2640c55f/12.webp",
-        "https://storage.azorafly.com/WP-manga/data/manga_6782995a243a0/e9bb60266b0be51415d6681b2640c55f/13.webp",
-        "https://storage.azorafly.com/WP-manga/data/manga_6782995a243a0/e9bb60266b0be51415d6681b2640c55f/14.webp",
-        "https://storage.azorafly.com/WP-manga/data/manga_6782995a243a0/e9bb60266b0be51415d6681b2640c55f/15.webp",
-        "https://storage.azorafly.com/WP-manga/data/manga_6782995a243a0/e9bb60266b0be51415d6681b2640c55f/16.webp"
-      ]
-    },
-    "https://azorafly.com/series/our-guild-idol/chapter-15": {
-      "name": "15",
-      "images": [
-        "https://storage.azorafly.com/WP-manga/data/manga_6782995a243a0/b19c1c9bc162fb59d1ea5e92c1bcd51f/01.webp",
-        "https://storage.azorafly.com/WP-manga/data/manga_6782995a243a0/b19c1c9bc162fb59d1ea5e92c1bcd51f/02.webp",
-        "https://storage.azorafly.com/WP-manga/data/manga_6782995a243a0/b19c1c9bc162fb59d1ea5e92c1bcd51f/03.webp",
-        "https://storage.azorafly.com/WP-manga/data/manga_6782995a243a0/b19c1c9bc162fb59d1ea5e92c1bcd51f/04.webp",
-        "https://storage.azorafly.com/WP-manga/data/manga_6782995a243a0/b19c1c9bc162fb59d1ea5e92c1bcd51f/05.webp",
-        "https://storage.azorafly.com/WP-manga/data/manga_6782995a243a0/b19c1c9bc162fb59d1ea5e92c1bcd51f/06.webp",
-        "https://storage.azorafly.com/WP-manga/data/manga_6782995a243a0/b19c1c9bc162fb59d1ea5e92c1bcd51f/07.webp",
-        "https://storage.azorafly.com/WP-manga/data/manga_6782995a243a0/b19c1c9bc162fb59d1ea5e92c1bcd51f/08.webp",
-        "https://storage.azorafly.com/WP-manga/data/manga_6782995a243a0/b19c1c9bc162fb59d1ea5e92c1bcd51f/10.webp",
-        "https://storage.azorafly.com/WP-manga/data/manga_6782995a243a0/b19c1c9bc162fb59d1ea5e92c1bcd51f/11.webp",
-        "https://storage.azorafly.com/WP-manga/data/manga_6782995a243a0/b19c1c9bc162fb59d1ea5e92c1bcd51f/12.webp",
-        "https://storage.azorafly.com/WP-manga/data/manga_6782995a243a0/b19c1c9bc162fb59d1ea5e92c1bcd51f/13.webp",
-        "https://storage.azorafly.com/WP-manga/data/manga_6782995a243a0/b19c1c9bc162fb59d1ea5e92c1bcd51f/14.webp",
-        "https://storage.azorafly.com/WP-manga/data/manga_6782995a243a0/b19c1c9bc162fb59d1ea5e92c1bcd51f/15.webp"
-      ]
-    },
-    "https://azorafly.com/series/our-guild-idol/chapter-14": {
-      "name": "14",
-      "images": [
-        "https://storage.azorafly.com/WP-manga/data/manga_6782995a243a0/f4566e3ba7861bf161b46f8cf6bf9a7f/01.webp",
-        "https://storage.azorafly.com/WP-manga/data/manga_6782995a243a0/f4566e3ba7861bf161b46f8cf6bf9a7f/02.webp",
-        "https://storage.azorafly.com/WP-manga/data/manga_6782995a243a0/f4566e3ba7861bf161b46f8cf6bf9a7f/03.webp",
-        "https://storage.azorafly.com/WP-manga/data/manga_6782995a243a0/f4566e3ba7861bf161b46f8cf6bf9a7f/04.webp",
-        "https://storage.azorafly.com/WP-manga/data/manga_6782995a243a0/f4566e3ba7861bf161b46f8cf6bf9a7f/05.webp",
-        "https://storage.azorafly.com/WP-manga/data/manga_6782995a243a0/f4566e3ba7861bf161b46f8cf6bf9a7f/06.webp",
-        "https://storage.azorafly.com/WP-manga/data/manga_6782995a243a0/f4566e3ba7861bf161b46f8cf6bf9a7f/07.webp",
-        "https://storage.azorafly.com/WP-manga/data/manga_6782995a243a0/f4566e3ba7861bf161b46f8cf6bf9a7f/08.webp",
-        "https://storage.azorafly.com/WP-manga/data/manga_6782995a243a0/f4566e3ba7861bf161b46f8cf6bf9a7f/09.webp",
-        "https://storage.azorafly.com/WP-manga/data/manga_6782995a243a0/f4566e3ba7861bf161b46f8cf6bf9a7f/10.webp",
-        "https://storage.azorafly.com/WP-manga/data/manga_6782995a243a0/f4566e3ba7861bf161b46f8cf6bf9a7f/11.webp",
-        "https://storage.azorafly.com/WP-manga/data/manga_6782995a243a0/f4566e3ba7861bf161b46f8cf6bf9a7f/12.webp",
-        "https://storage.azorafly.com/WP-manga/data/manga_6782995a243a0/f4566e3ba7861bf161b46f8cf6bf9a7f/13.webp",
-        "https://storage.azorafly.com/WP-manga/data/manga_6782995a243a0/f4566e3ba7861bf161b46f8cf6bf9a7f/14.webp",
-        "https://storage.azorafly.com/WP-manga/data/manga_6782995a243a0/f4566e3ba7861bf161b46f8cf6bf9a7f/15.webp"
-      ]
-    },
-    "https://azorafly.com/series/our-guild-idol/chapter-13": {
-      "name": "13",
-      "images": [
-        "https://storage.azorafly.com/WP-manga/data/manga_6782995a243a0/9c3c80bee26bd2ffee303c874d2891f3/01.webp",
-        "https://storage.azorafly.com/WP-manga/data/manga_6782995a243a0/9c3c80bee26bd2ffee303c874d2891f3/02.webp",
-        "https://storage.azorafly.com/WP-manga/data/manga_6782995a243a0/9c3c80bee26bd2ffee303c874d2891f3/03.webp",
-        "https://storage.azorafly.com/WP-manga/data/manga_6782995a243a0/9c3c80bee26bd2ffee303c874d2891f3/04.webp",
-        "https://storage.azorafly.com/WP-manga/data/manga_6782995a243a0/9c3c80bee26bd2ffee303c874d2891f3/05.webp",
-        "https://storage.azorafly.com/WP-manga/data/manga_6782995a243a0/9c3c80bee26bd2ffee303c874d2891f3/06.webp",
-        "https://storage.azorafly.com/WP-manga/data/manga_6782995a243a0/9c3c80bee26bd2ffee303c874d2891f3/07.webp",
-        "https://storage.azorafly.com/WP-manga/data/manga_6782995a243a0/9c3c80bee26bd2ffee303c874d2891f3/08.webp",
-        "https://storage.azorafly.com/WP-manga/data/manga_6782995a243a0/9c3c80bee26bd2ffee303c874d2891f3/09.webp",
-        "https://storage.azorafly.com/WP-manga/data/manga_6782995a243a0/9c3c80bee26bd2ffee303c874d2891f3/10.webp",
-        "https://storage.azorafly.com/WP-manga/data/manga_6782995a243a0/9c3c80bee26bd2ffee303c874d2891f3/11.webp",
-        "https://storage.azorafly.com/WP-manga/data/manga_6782995a243a0/9c3c80bee26bd2ffee303c874d2891f3/12.webp",
-        "https://storage.azorafly.com/WP-manga/data/manga_6782995a243a0/9c3c80bee26bd2ffee303c874d2891f3/13.webp",
-        "https://storage.azorafly.com/WP-manga/data/manga_6782995a243a0/9c3c80bee26bd2ffee303c874d2891f3/14.webp",
-        "https://storage.azorafly.com/WP-manga/data/manga_6782995a243a0/9c3c80bee26bd2ffee303c874d2891f3/15.webp",
-        "https://storage.azorafly.com/WP-manga/data/manga_6782995a243a0/9c3c80bee26bd2ffee303c874d2891f3/16.webp",
-        "https://storage.azorafly.com/WP-manga/data/manga_6782995a243a0/9c3c80bee26bd2ffee303c874d2891f3/17.webp",
-        "https://storage.azorafly.com/WP-manga/data/manga_6782995a243a0/9c3c80bee26bd2ffee303c874d2891f3/18.webp",
-        "https://storage.azorafly.com/WP-manga/data/manga_6782995a243a0/9c3c80bee26bd2ffee303c874d2891f3/19.webp",
-        "https://storage.azorafly.com/WP-manga/data/manga_6782995a243a0/9c3c80bee26bd2ffee303c874d2891f3/20.webp",
-        "https://storage.azorafly.com/WP-manga/data/manga_6782995a243a0/9c3c80bee26bd2ffee303c874d2891f3/21.webp",
-        "https://storage.azorafly.com/WP-manga/data/manga_6782995a243a0/9c3c80bee26bd2ffee303c874d2891f3/22.webp",
-        "https://storage.azorafly.com/WP-manga/data/manga_6782995a243a0/9c3c80bee26bd2ffee303c874d2891f3/23.webp",
-        "https://storage.azorafly.com/WP-manga/data/manga_6782995a243a0/9c3c80bee26bd2ffee303c874d2891f3/24.webp",
-        "https://storage.azorafly.com/WP-manga/data/manga_6782995a243a0/9c3c80bee26bd2ffee303c874d2891f3/25.webp",
-        "https://storage.azorafly.com/WP-manga/data/manga_6782995a243a0/9c3c80bee26bd2ffee303c874d2891f3/26.webp",
-        "https://storage.azorafly.com/WP-manga/data/manga_6782995a243a0/9c3c80bee26bd2ffee303c874d2891f3/27.webp"
-      ]
-    },
-    "https://azorafly.com/series/our-guild-idol/chapter-12": {
-      "name": "12",
-      "images": [
-        "https://storage.azorafly.com/WP-manga/data/manga_6782995a243a0/9d6bb729ccff8d506c79d60add559dee/01.webp",
-        "https://storage.azorafly.com/WP-manga/data/manga_6782995a243a0/9d6bb729ccff8d506c79d60add559dee/02.webp",
-        "https://storage.azorafly.com/WP-manga/data/manga_6782995a243a0/9d6bb729ccff8d506c79d60add559dee/03.webp",
-        "https://storage.azorafly.com/WP-manga/data/manga_6782995a243a0/9d6bb729ccff8d506c79d60add559dee/04.webp",
-        "https://storage.azorafly.com/WP-manga/data/manga_6782995a243a0/9d6bb729ccff8d506c79d60add559dee/05.webp",
-        "https://storage.azorafly.com/WP-manga/data/manga_6782995a243a0/9d6bb729ccff8d506c79d60add559dee/06.webp",
-        "https://storage.azorafly.com/WP-manga/data/manga_6782995a243a0/9d6bb729ccff8d506c79d60add559dee/07.webp",
-        "https://storage.azorafly.com/WP-manga/data/manga_6782995a243a0/9d6bb729ccff8d506c79d60add559dee/08.webp",
-        "https://storage.azorafly.com/WP-manga/data/manga_6782995a243a0/9d6bb729ccff8d506c79d60add559dee/09.webp",
-        "https://storage.azorafly.com/WP-manga/data/manga_6782995a243a0/9d6bb729ccff8d506c79d60add559dee/10.webp",
-        "https://storage.azorafly.com/WP-manga/data/manga_6782995a243a0/9d6bb729ccff8d506c79d60add559dee/11.webp",
-        "https://storage.azorafly.com/WP-manga/data/manga_6782995a243a0/9d6bb729ccff8d506c79d60add559dee/12.webp",
-        "https://storage.azorafly.com/WP-manga/data/manga_6782995a243a0/9d6bb729ccff8d506c79d60add559dee/13.webp",
-        "https://storage.azorafly.com/WP-manga/data/manga_6782995a243a0/9d6bb729ccff8d506c79d60add559dee/14.webp",
-        "https://storage.azorafly.com/WP-manga/data/manga_6782995a243a0/9d6bb729ccff8d506c79d60add559dee/15.webp",
-        "https://storage.azorafly.com/WP-manga/data/manga_6782995a243a0/9d6bb729ccff8d506c79d60add559dee/16.webp",
-        "https://storage.azorafly.com/WP-manga/data/manga_6782995a243a0/9d6bb729ccff8d506c79d60add559dee/17.webp"
-      ]
-    },
-    "https://azorafly.com/series/our-guild-idol/chapter-11": {
-      "name": "11",
-      "images": [
-        "https://storage.azorafly.com/WP-manga/data/manga_6782995a243a0/77e28b06c22451f6fe48f9afd354332c/01.webp",
-        "https://storage.azorafly.com/WP-manga/data/manga_6782995a243a0/77e28b06c22451f6fe48f9afd354332c/02.webp",
-        "https://storage.azorafly.com/WP-manga/data/manga_6782995a243a0/77e28b06c22451f6fe48f9afd354332c/03.webp",
-        "https://storage.azorafly.com/WP-manga/data/manga_6782995a243a0/77e28b06c22451f6fe48f9afd354332c/04.webp",
-        "https://storage.azorafly.com/WP-manga/data/manga_6782995a243a0/77e28b06c22451f6fe48f9afd354332c/05.webp",
-        "https://storage.azorafly.com/WP-manga/data/manga_6782995a243a0/77e28b06c22451f6fe48f9afd354332c/06.webp",
-        "https://storage.azorafly.com/WP-manga/data/manga_6782995a243a0/77e28b06c22451f6fe48f9afd354332c/07.webp",
-        "https://storage.azorafly.com/WP-manga/data/manga_6782995a243a0/77e28b06c22451f6fe48f9afd354332c/08.webp",
-        "https://storage.azorafly.com/WP-manga/data/manga_6782995a243a0/77e28b06c22451f6fe48f9afd354332c/09.webp",
-        "https://storage.azorafly.com/WP-manga/data/manga_6782995a243a0/77e28b06c22451f6fe48f9afd354332c/10.webp",
-        "https://storage.azorafly.com/WP-manga/data/manga_6782995a243a0/77e28b06c22451f6fe48f9afd354332c/11.webp",
-        "https://storage.azorafly.com/WP-manga/data/manga_6782995a243a0/77e28b06c22451f6fe48f9afd354332c/12.webp",
-        "https://storage.azorafly.com/WP-manga/data/manga_6782995a243a0/77e28b06c22451f6fe48f9afd354332c/13.webp",
-        "https://storage.azorafly.com/WP-manga/data/manga_6782995a243a0/77e28b06c22451f6fe48f9afd354332c/14.webp",
-        "https://storage.azorafly.com/WP-manga/data/manga_6782995a243a0/77e28b06c22451f6fe48f9afd354332c/15.webp",
-        "https://storage.azorafly.com/WP-manga/data/manga_6782995a243a0/77e28b06c22451f6fe48f9afd354332c/16.webp",
-        "https://storage.azorafly.com/WP-manga/data/manga_6782995a243a0/77e28b06c22451f6fe48f9afd354332c/17.webp",
-        "https://storage.azorafly.com/WP-manga/data/manga_6782995a243a0/77e28b06c22451f6fe48f9afd354332c/18.webp",
-        "https://storage.azorafly.com/WP-manga/data/manga_6782995a243a0/77e28b06c22451f6fe48f9afd354332c/19.webp"
-      ]
-    },
-    "https://azorafly.com/series/our-guild-idol/chapter-10": {
-      "name": "10",
-      "images": [
-        "https://storage.azorafly.com/WP-manga/data/manga_6782995a243a0/e3862399dfd78468b0aaa0cea3324ade/01.webp",
-        "https://storage.azorafly.com/WP-manga/data/manga_6782995a243a0/e3862399dfd78468b0aaa0cea3324ade/02.webp",
-        "https://storage.azorafly.com/WP-manga/data/manga_6782995a243a0/e3862399dfd78468b0aaa0cea3324ade/03.webp",
-        "https://storage.azorafly.com/WP-manga/data/manga_6782995a243a0/e3862399dfd78468b0aaa0cea3324ade/04.webp",
-        "https://storage.azorafly.com/WP-manga/data/manga_6782995a243a0/e3862399dfd78468b0aaa0cea3324ade/05.webp",
-        "https://storage.azorafly.com/WP-manga/data/manga_6782995a243a0/e3862399dfd78468b0aaa0cea3324ade/06.webp",
-        "https://storage.azorafly.com/WP-manga/data/manga_6782995a243a0/e3862399dfd78468b0aaa0cea3324ade/07.webp",
-        "https://storage.azorafly.com/WP-manga/data/manga_6782995a243a0/e3862399dfd78468b0aaa0cea3324ade/08.webp",
-        "https://storage.azorafly.com/WP-manga/data/manga_6782995a243a0/e3862399dfd78468b0aaa0cea3324ade/09.webp",
-        "https://storage.azorafly.com/WP-manga/data/manga_6782995a243a0/e3862399dfd78468b0aaa0cea3324ade/10.webp",
-        "https://storage.azorafly.com/WP-manga/data/manga_6782995a243a0/e3862399dfd78468b0aaa0cea3324ade/11.webp",
-        "https://storage.azorafly.com/WP-manga/data/manga_6782995a243a0/e3862399dfd78468b0aaa0cea3324ade/12.webp",
-        "https://storage.azorafly.com/WP-manga/data/manga_6782995a243a0/e3862399dfd78468b0aaa0cea3324ade/13.webp",
-        "https://storage.azorafly.com/WP-manga/data/manga_6782995a243a0/e3862399dfd78468b0aaa0cea3324ade/14.webp",
-        "https://storage.azorafly.com/WP-manga/data/manga_6782995a243a0/e3862399dfd78468b0aaa0cea3324ade/15.webp",
-        "https://storage.azorafly.com/WP-manga/data/manga_6782995a243a0/e3862399dfd78468b0aaa0cea3324ade/16.webp",
-        "https://storage.azorafly.com/WP-manga/data/manga_6782995a243a0/e3862399dfd78468b0aaa0cea3324ade/17.webp"
-      ]
-    },
-    "https://azorafly.com/series/our-guild-idol/chapter-9": {
-      "name": "9",
-      "images": [
-        "https://storage.azorafly.com/WP-manga/data/manga_6782995a243a0/811320035f7d0983799503389e1c1a88/01.webp",
-        "https://storage.azorafly.com/WP-manga/data/manga_6782995a243a0/811320035f7d0983799503389e1c1a88/02.webp",
-        "https://storage.azorafly.com/WP-manga/data/manga_6782995a243a0/811320035f7d0983799503389e1c1a88/03.webp",
-        "https://storage.azorafly.com/WP-manga/data/manga_6782995a243a0/811320035f7d0983799503389e1c1a88/04.webp",
-        "https://storage.azorafly.com/WP-manga/data/manga_6782995a243a0/811320035f7d0983799503389e1c1a88/05.webp",
-        "https://storage.azorafly.com/WP-manga/data/manga_6782995a243a0/811320035f7d0983799503389e1c1a88/06.webp",
-        "https://storage.azorafly.com/WP-manga/data/manga_6782995a243a0/811320035f7d0983799503389e1c1a88/07.webp",
-        "https://storage.azorafly.com/WP-manga/data/manga_6782995a243a0/811320035f7d0983799503389e1c1a88/08.webp",
-        "https://storage.azorafly.com/WP-manga/data/manga_6782995a243a0/811320035f7d0983799503389e1c1a88/10.webp",
-        "https://storage.azorafly.com/WP-manga/data/manga_6782995a243a0/811320035f7d0983799503389e1c1a88/11.webp",
-        "https://storage.azorafly.com/WP-manga/data/manga_6782995a243a0/811320035f7d0983799503389e1c1a88/12.webp",
-        "https://storage.azorafly.com/WP-manga/data/manga_6782995a243a0/811320035f7d0983799503389e1c1a88/13.webp",
-        "https://storage.azorafly.com/WP-manga/data/manga_6782995a243a0/811320035f7d0983799503389e1c1a88/14.webp",
-        "https://storage.azorafly.com/WP-manga/data/manga_6782995a243a0/811320035f7d0983799503389e1c1a88/15.webp"
-      ]
-    },
-    "https://azorafly.com/series/our-guild-idol/chapter-8": {
-      "name": "8",
-      "images": [
-        "https://storage.azorafly.com/WP-manga/data/manga_6782995a243a0/26f00f5a041a3ff57aaa354c523c2649/01.webp",
-        "https://storage.azorafly.com/WP-manga/data/manga_6782995a243a0/26f00f5a041a3ff57aaa354c523c2649/02.webp",
-        "https://storage.azorafly.com/WP-manga/data/manga_6782995a243a0/26f00f5a041a3ff57aaa354c523c2649/03.webp",
-        "https://storage.azorafly.com/WP-manga/data/manga_6782995a243a0/26f00f5a041a3ff57aaa354c523c2649/04.webp",
-        "https://storage.azorafly.com/WP-manga/data/manga_6782995a243a0/26f00f5a041a3ff57aaa354c523c2649/05.webp",
-        "https://storage.azorafly.com/WP-manga/data/manga_6782995a243a0/26f00f5a041a3ff57aaa354c523c2649/06.webp",
-        "https://storage.azorafly.com/WP-manga/data/manga_6782995a243a0/26f00f5a041a3ff57aaa354c523c2649/07.webp",
-        "https://storage.azorafly.com/WP-manga/data/manga_6782995a243a0/26f00f5a041a3ff57aaa354c523c2649/08.webp",
-        "https://storage.azorafly.com/WP-manga/data/manga_6782995a243a0/26f00f5a041a3ff57aaa354c523c2649/09.webp",
-        "https://storage.azorafly.com/WP-manga/data/manga_6782995a243a0/26f00f5a041a3ff57aaa354c523c2649/10.webp",
-        "https://storage.azorafly.com/WP-manga/data/manga_6782995a243a0/26f00f5a041a3ff57aaa354c523c2649/11.webp",
-        "https://storage.azorafly.com/WP-manga/data/manga_6782995a243a0/26f00f5a041a3ff57aaa354c523c2649/12.webp",
-        "https://storage.azorafly.com/WP-manga/data/manga_6782995a243a0/26f00f5a041a3ff57aaa354c523c2649/13.webp"
-      ]
-    },
-    "https://azorafly.com/series/our-guild-idol/chapter-7": {
-      "name": "7",
-      "images": [
-        "https://storage.azorafly.com/WP-manga/data/manga_6782995a243a0/72ac0fb2f4cce3e9ba89b40761a92116/01.webp",
-        "https://storage.azorafly.com/WP-manga/data/manga_6782995a243a0/72ac0fb2f4cce3e9ba89b40761a92116/02.webp",
-        "https://storage.azorafly.com/WP-manga/data/manga_6782995a243a0/72ac0fb2f4cce3e9ba89b40761a92116/03.webp",
-        "https://storage.azorafly.com/WP-manga/data/manga_6782995a243a0/72ac0fb2f4cce3e9ba89b40761a92116/04.webp",
-        "https://storage.azorafly.com/WP-manga/data/manga_6782995a243a0/72ac0fb2f4cce3e9ba89b40761a92116/05.webp",
-        "https://storage.azorafly.com/WP-manga/data/manga_6782995a243a0/72ac0fb2f4cce3e9ba89b40761a92116/06.webp",
-        "https://storage.azorafly.com/WP-manga/data/manga_6782995a243a0/72ac0fb2f4cce3e9ba89b40761a92116/07.webp",
-        "https://storage.azorafly.com/WP-manga/data/manga_6782995a243a0/72ac0fb2f4cce3e9ba89b40761a92116/08.webp",
-        "https://storage.azorafly.com/WP-manga/data/manga_6782995a243a0/72ac0fb2f4cce3e9ba89b40761a92116/09.webp",
-        "https://storage.azorafly.com/WP-manga/data/manga_6782995a243a0/72ac0fb2f4cce3e9ba89b40761a92116/10.webp",
-        "https://storage.azorafly.com/WP-manga/data/manga_6782995a243a0/72ac0fb2f4cce3e9ba89b40761a92116/11.webp",
-        "https://storage.azorafly.com/WP-manga/data/manga_6782995a243a0/72ac0fb2f4cce3e9ba89b40761a92116/12.webp",
-        "https://storage.azorafly.com/WP-manga/data/manga_6782995a243a0/72ac0fb2f4cce3e9ba89b40761a92116/13.webp",
-        "https://storage.azorafly.com/WP-manga/data/manga_6782995a243a0/72ac0fb2f4cce3e9ba89b40761a92116/14.webp",
-        "https://storage.azorafly.com/WP-manga/data/manga_6782995a243a0/72ac0fb2f4cce3e9ba89b40761a92116/15.webp",
-        "https://storage.azorafly.com/WP-manga/data/manga_6782995a243a0/72ac0fb2f4cce3e9ba89b40761a92116/16.webp",
-        "https://storage.azorafly.com/WP-manga/data/manga_6782995a243a0/72ac0fb2f4cce3e9ba89b40761a92116/17.webp",
-        "https://storage.azorafly.com/WP-manga/data/manga_6782995a243a0/72ac0fb2f4cce3e9ba89b40761a92116/18.webp",
-        "https://storage.azorafly.com/WP-manga/data/manga_6782995a243a0/72ac0fb2f4cce3e9ba89b40761a92116/19.webp",
-        "https://storage.azorafly.com/WP-manga/data/manga_6782995a243a0/72ac0fb2f4cce3e9ba89b40761a92116/20.webp",
-        "https://storage.azorafly.com/WP-manga/data/manga_6782995a243a0/72ac0fb2f4cce3e9ba89b40761a92116/21.webp",
-        "https://storage.azorafly.com/WP-manga/data/manga_6782995a243a0/72ac0fb2f4cce3e9ba89b40761a92116/22.webp",
-        "https://storage.azorafly.com/WP-manga/data/manga_6782995a243a0/72ac0fb2f4cce3e9ba89b40761a92116/23.webp",
-        "https://storage.azorafly.com/WP-manga/data/manga_6782995a243a0/72ac0fb2f4cce3e9ba89b40761a92116/24.webp",
-        "https://storage.azorafly.com/WP-manga/data/manga_6782995a243a0/72ac0fb2f4cce3e9ba89b40761a92116/25.webp"
-      ]
-    },
-    "https://azorafly.com/series/our-guild-idol/chapter-6": {
-      "name": "6",
-      "images": [
-        "https://storage.azorafly.com/WP-manga/data/manga_6782995a243a0/965f4328f471bc3b3b2760fd2c6ce791/01.jpg",
-        "https://storage.azorafly.com/WP-manga/data/manga_6782995a243a0/965f4328f471bc3b3b2760fd2c6ce791/02.jpg",
-        "https://storage.azorafly.com/WP-manga/data/manga_6782995a243a0/965f4328f471bc3b3b2760fd2c6ce791/03.jpg",
-        "https://storage.azorafly.com/WP-manga/data/manga_6782995a243a0/965f4328f471bc3b3b2760fd2c6ce791/04.jpg",
-        "https://storage.azorafly.com/WP-manga/data/manga_6782995a243a0/965f4328f471bc3b3b2760fd2c6ce791/05.jpg",
-        "https://storage.azorafly.com/WP-manga/data/manga_6782995a243a0/965f4328f471bc3b3b2760fd2c6ce791/06.jpg",
-        "https://storage.azorafly.com/WP-manga/data/manga_6782995a243a0/965f4328f471bc3b3b2760fd2c6ce791/07.jpg",
-        "https://storage.azorafly.com/WP-manga/data/manga_6782995a243a0/965f4328f471bc3b3b2760fd2c6ce791/08.jpg",
-        "https://storage.azorafly.com/WP-manga/data/manga_6782995a243a0/965f4328f471bc3b3b2760fd2c6ce791/09.jpg",
-        "https://storage.azorafly.com/WP-manga/data/manga_6782995a243a0/965f4328f471bc3b3b2760fd2c6ce791/10.jpg",
-        "https://storage.azorafly.com/WP-manga/data/manga_6782995a243a0/965f4328f471bc3b3b2760fd2c6ce791/11.jpg",
-        "https://storage.azorafly.com/WP-manga/data/manga_6782995a243a0/965f4328f471bc3b3b2760fd2c6ce791/12.jpg",
-        "https://storage.azorafly.com/WP-manga/data/manga_6782995a243a0/965f4328f471bc3b3b2760fd2c6ce791/13.jpg",
-        "https://storage.azorafly.com/WP-manga/data/manga_6782995a243a0/965f4328f471bc3b3b2760fd2c6ce791/14.jpg",
-        "https://storage.azorafly.com/WP-manga/data/manga_6782995a243a0/965f4328f471bc3b3b2760fd2c6ce791/15.jpg",
-        "https://storage.azorafly.com/WP-manga/data/manga_6782995a243a0/965f4328f471bc3b3b2760fd2c6ce791/16.jpg",
-        "https://storage.azorafly.com/WP-manga/data/manga_6782995a243a0/965f4328f471bc3b3b2760fd2c6ce791/17.jpg",
-        "https://storage.azorafly.com/WP-manga/data/manga_6782995a243a0/965f4328f471bc3b3b2760fd2c6ce791/18.jpg",
-        "https://storage.azorafly.com/WP-manga/data/manga_6782995a243a0/965f4328f471bc3b3b2760fd2c6ce791/19.jpg",
-        "https://storage.azorafly.com/WP-manga/data/manga_6782995a243a0/965f4328f471bc3b3b2760fd2c6ce791/20.jpg",
-        "https://storage.azorafly.com/WP-manga/data/manga_6782995a243a0/965f4328f471bc3b3b2760fd2c6ce791/21.jpg",
-        "https://storage.azorafly.com/WP-manga/data/manga_6782995a243a0/965f4328f471bc3b3b2760fd2c6ce791/22.jpg",
-        "https://storage.azorafly.com/WP-manga/data/manga_6782995a243a0/965f4328f471bc3b3b2760fd2c6ce791/23.jpg",
-        "https://storage.azorafly.com/WP-manga/data/manga_6782995a243a0/965f4328f471bc3b3b2760fd2c6ce791/24.jpg",
-        "https://storage.azorafly.com/WP-manga/data/manga_6782995a243a0/965f4328f471bc3b3b2760fd2c6ce791/25.jpg",
-        "https://storage.azorafly.com/WP-manga/data/manga_6782995a243a0/965f4328f471bc3b3b2760fd2c6ce791/26.jpg",
-        "https://storage.azorafly.com/WP-manga/data/manga_6782995a243a0/965f4328f471bc3b3b2760fd2c6ce791/27.jpg",
-        "https://storage.azorafly.com/WP-manga/data/manga_6782995a243a0/965f4328f471bc3b3b2760fd2c6ce791/28.jpg",
-        "https://storage.azorafly.com/WP-manga/data/manga_6782995a243a0/965f4328f471bc3b3b2760fd2c6ce791/29.jpg",
-        "https://storage.azorafly.com/WP-manga/data/manga_6782995a243a0/965f4328f471bc3b3b2760fd2c6ce791/30.jpg",
-        "https://storage.azorafly.com/WP-manga/data/manga_6782995a243a0/965f4328f471bc3b3b2760fd2c6ce791/31.jpg",
-        "https://storage.azorafly.com/WP-manga/data/manga_6782995a243a0/965f4328f471bc3b3b2760fd2c6ce791/32.jpg"
-      ]
-    },
-    "https://azorafly.com/series/our-guild-idol/chapter-5": {
-      "name": "5",
-      "images": [
-        "https://storage.azorafly.com/WP-manga/data/manga_6782995a243a0/39c932a158074672d8839c0b6c522b20/01.jpg",
-        "https://storage.azorafly.com/WP-manga/data/manga_6782995a243a0/39c932a158074672d8839c0b6c522b20/02.jpg",
-        "https://storage.azorafly.com/WP-manga/data/manga_6782995a243a0/39c932a158074672d8839c0b6c522b20/03.jpg",
-        "https://storage.azorafly.com/WP-manga/data/manga_6782995a243a0/39c932a158074672d8839c0b6c522b20/04.jpg",
-        "https://storage.azorafly.com/WP-manga/data/manga_6782995a243a0/39c932a158074672d8839c0b6c522b20/05.jpg",
-        "https://storage.azorafly.com/WP-manga/data/manga_6782995a243a0/39c932a158074672d8839c0b6c522b20/06.jpg",
-        "https://storage.azorafly.com/WP-manga/data/manga_6782995a243a0/39c932a158074672d8839c0b6c522b20/07.jpg",
-        "https://storage.azorafly.com/WP-manga/data/manga_6782995a243a0/39c932a158074672d8839c0b6c522b20/08.jpg",
-        "https://storage.azorafly.com/WP-manga/data/manga_6782995a243a0/39c932a158074672d8839c0b6c522b20/09.jpg"
-      ]
-    },
-    "https://azorafly.com/series/our-guild-idol/chapter-4": {
-      "name": "4",
-      "images": [
-        "https://storage.azorafly.com/WP-manga/data/manga_6782995a243a0/b5845a858e5da7c3f4c2f1eed6e487ff/01.jpg",
-        "https://storage.azorafly.com/WP-manga/data/manga_6782995a243a0/b5845a858e5da7c3f4c2f1eed6e487ff/02.jpg",
-        "https://storage.azorafly.com/WP-manga/data/manga_6782995a243a0/b5845a858e5da7c3f4c2f1eed6e487ff/03.jpg",
-        "https://storage.azorafly.com/WP-manga/data/manga_6782995a243a0/b5845a858e5da7c3f4c2f1eed6e487ff/04.jpg",
-        "https://storage.azorafly.com/WP-manga/data/manga_6782995a243a0/b5845a858e5da7c3f4c2f1eed6e487ff/05.jpg",
-        "https://storage.azorafly.com/WP-manga/data/manga_6782995a243a0/b5845a858e5da7c3f4c2f1eed6e487ff/06.jpg",
-        "https://storage.azorafly.com/WP-manga/data/manga_6782995a243a0/b5845a858e5da7c3f4c2f1eed6e487ff/07.jpg",
-        "https://storage.azorafly.com/WP-manga/data/manga_6782995a243a0/b5845a858e5da7c3f4c2f1eed6e487ff/08.jpg",
-        "https://storage.azorafly.com/WP-manga/data/manga_6782995a243a0/b5845a858e5da7c3f4c2f1eed6e487ff/09.jpg"
-      ]
-    },
-    "https://azorafly.com/series/our-guild-idol/chapter-3": {
-      "name": "3",
-      "images": [
-        "https://storage.azorafly.com/WP-manga/data/manga_6782995a243a0/809f88a51902973deaab824757489d64/01.jpg",
-        "https://storage.azorafly.com/WP-manga/data/manga_6782995a243a0/809f88a51902973deaab824757489d64/02.jpg",
-        "https://storage.azorafly.com/WP-manga/data/manga_6782995a243a0/809f88a51902973deaab824757489d64/03.jpg",
-        "https://storage.azorafly.com/WP-manga/data/manga_6782995a243a0/809f88a51902973deaab824757489d64/04.jpg",
-        "https://storage.azorafly.com/WP-manga/data/manga_6782995a243a0/809f88a51902973deaab824757489d64/05.jpg",
-        "https://storage.azorafly.com/WP-manga/data/manga_6782995a243a0/809f88a51902973deaab824757489d64/06.jpg",
-        "https://storage.azorafly.com/WP-manga/data/manga_6782995a243a0/809f88a51902973deaab824757489d64/07.jpg",
-        "https://storage.azorafly.com/WP-manga/data/manga_6782995a243a0/809f88a51902973deaab824757489d64/08.jpg",
-        "https://storage.azorafly.com/WP-manga/data/manga_6782995a243a0/809f88a51902973deaab824757489d64/09.jpg",
-        "https://storage.azorafly.com/WP-manga/data/manga_6782995a243a0/809f88a51902973deaab824757489d64/10.jpg",
-        "https://storage.azorafly.com/WP-manga/data/manga_6782995a243a0/809f88a51902973deaab824757489d64/11.jpg"
-      ]
-    },
-    "https://azorafly.com/series/our-guild-idol/chapter-2": {
-      "name": "2",
-      "images": [
-        "https://storage.azorafly.com/WP-manga/data/manga_6782995a243a0/ba02be95a346f82b9c6ebbabd40168ca/01.jpg",
-        "https://storage.azorafly.com/WP-manga/data/manga_6782995a243a0/ba02be95a346f82b9c6ebbabd40168ca/02.jpg",
-        "https://storage.azorafly.com/WP-manga/data/manga_6782995a243a0/ba02be95a346f82b9c6ebbabd40168ca/03.jpg",
-        "https://storage.azorafly.com/WP-manga/data/manga_6782995a243a0/ba02be95a346f82b9c6ebbabd40168ca/04.jpg",
-        "https://storage.azorafly.com/WP-manga/data/manga_6782995a243a0/ba02be95a346f82b9c6ebbabd40168ca/05.jpg",
-        "https://storage.azorafly.com/WP-manga/data/manga_6782995a243a0/ba02be95a346f82b9c6ebbabd40168ca/06.jpg",
-        "https://storage.azorafly.com/WP-manga/data/manga_6782995a243a0/ba02be95a346f82b9c6ebbabd40168ca/07.jpg",
-        "https://storage.azorafly.com/WP-manga/data/manga_6782995a243a0/ba02be95a346f82b9c6ebbabd40168ca/08.jpg",
-        "https://storage.azorafly.com/WP-manga/data/manga_6782995a243a0/ba02be95a346f82b9c6ebbabd40168ca/09.jpg",
-        "https://storage.azorafly.com/WP-manga/data/manga_6782995a243a0/ba02be95a346f82b9c6ebbabd40168ca/10.jpg",
-        "https://storage.azorafly.com/WP-manga/data/manga_6782995a243a0/ba02be95a346f82b9c6ebbabd40168ca/11.jpg"
-      ]
-    }
-  },
   "title": "Our Guild's Idol",
   "cover_url": "https://storage.azorafly.com/upload/series/featured/02408b52-85d5-445d-9e5c-f7dbcd583bf8/909543fc-9810-47f9-8674-ff6c02e9e136.jpg",
-  "description": "\"آجين\" كانت تلعب باستخدام حساب شقيقها الأصغر. حاولت التقرب من اللاعبة [زهرة الرش] من أجل النقابة، لكنه أُسيء فهمها ووُصفت بأنها \"مطاردة الفتيات\". لكنني في الحقيقة امرأة...! في الوقت نفسه، \"جيهيون\"،...",
+  "description": "لا يوجد وصف.",
   "type": "مانهوا",
   "status": "مستمر",
-  "last_update": "منذ ساعتين تقريبا",
-  "favorites": "",
+  "last_update": "Viewاقرأ الفصل 1إضافة للمفضلةالإبلاغ عن مشكلة9.93التقييمات1.6KالمفضلةالحالةONGOINGالنوعمانهواالفصول64آخر تحديثمنذ 4 ساعات تقريباًOur Guild's Idol الفصول ( 64 )  الملخص التقييمات ( 48 ) اجعل الكل مقروءاًوضع علامة 'مقروء' على جميع الفصولالفصل 64جديد196الفصل 63جديد5250الفصل 6215 يوم4255الفصل 6121 يوم4662الفصل 6021 يوم2260الفصل 59شهر واحد تقريباً6472الفصل 58شهر واحد تقريباً5279الفصل 57شهرين تقريبا5281الفصل 56شهرين تقريبا4086الفصل 55شهران13990الفصل 54شهران6697الفصل 533 أشهر11497الفصل 523 أشهر75105الفصل 513 أشهر4697الفصل 503 أشهر5596الفصل 494 أشهر59103الفصل 484 أشهر49113الفصل 474 أشهر38112الفصل 464 أشهر46124الفصل 454 أشهر41122عرض المزيد الملخص \"آجين\" كانت تلعب باستخدام حساب شقيقها الأصغر. حاولت التقرب من اللاعبة [زهرة الرش] من أجل النقابة، لكنه أُسيء فهمها ووُصفت بأنها \"مطاردة الفتيات\". لكنني في الحقيقة امرأة...! في الوقت نفسه، \"جيهيون\"، الذي يخفي هويتهاالحقيقية ويعمل بشخصية [زهرة رش نيم]، يجد...عرض المزيدرومانسيدراماالفرقimardawyشارك Azora Mangaمع أصدقائكشاركانضم لمجتمعناDiscord0اعجبني0أحببته0اضحكني0واو0احزنني0اغضبنيالنقاش0أعمال مشابهةThe Count's Secret Maid★9.4108 فصلIsn’t Being A Wicked Woman Much Better?★9.8108 فصلA Saint who was Adopted by the Grand Duke★10.0101 فصلI Saved You, But I'm Not Responsible★9.081 فصلFor the Beautiful Juliet★9.596 فصل",
   "rating": "",
   "genres": [],
-  "is_novel": false
+  "is_novel": false,
+  "chapters": {
+    "https://azorafly.com/series/our-guild-idol/chapter-1": {
+      "name": "1"
+    },
+    "https://azorafly.com/series/our-guild-idol/chapter-64": {
+      "name": "64"
+    },
+    "https://azorafly.com/series/our-guild-idol/chapter-63": {
+      "name": "63"
+    },
+    "https://azorafly.com/series/our-guild-idol/chapter-62": {
+      "name": "62"
+    },
+    "https://azorafly.com/series/our-guild-idol/chapter-61": {
+      "name": "61"
+    },
+    "https://azorafly.com/series/our-guild-idol/chapter-60": {
+      "name": "60"
+    },
+    "https://azorafly.com/series/our-guild-idol/chapter-59": {
+      "name": "59"
+    },
+    "https://azorafly.com/series/our-guild-idol/chapter-58": {
+      "name": "58"
+    },
+    "https://azorafly.com/series/our-guild-idol/chapter-57": {
+      "name": "57"
+    },
+    "https://azorafly.com/series/our-guild-idol/chapter-56": {
+      "name": "56"
+    },
+    "https://azorafly.com/series/our-guild-idol/chapter-55": {
+      "name": "55"
+    },
+    "https://azorafly.com/series/our-guild-idol/chapter-54": {
+      "name": "54"
+    },
+    "https://azorafly.com/series/our-guild-idol/chapter-53": {
+      "name": "53"
+    },
+    "https://azorafly.com/series/our-guild-idol/chapter-52": {
+      "name": "52"
+    },
+    "https://azorafly.com/series/our-guild-idol/chapter-51": {
+      "name": "51"
+    },
+    "https://azorafly.com/series/our-guild-idol/chapter-50": {
+      "name": "50"
+    },
+    "https://azorafly.com/series/our-guild-idol/chapter-49": {
+      "name": "49"
+    },
+    "https://azorafly.com/series/our-guild-idol/chapter-48": {
+      "name": "48"
+    },
+    "https://azorafly.com/series/our-guild-idol/chapter-47": {
+      "name": "47"
+    },
+    "https://azorafly.com/series/our-guild-idol/chapter-46": {
+      "name": "46"
+    },
+    "https://azorafly.com/series/our-guild-idol/chapter-45": {
+      "name": "45"
+    },
+    "https://azorafly.com/series/our-guild-idol/chapter-44": {
+      "name": "44"
+    },
+    "https://azorafly.com/series/our-guild-idol/chapter-43": {
+      "name": "43"
+    },
+    "https://azorafly.com/series/our-guild-idol/chapter-42": {
+      "name": "42"
+    },
+    "https://azorafly.com/series/our-guild-idol/chapter-41": {
+      "name": "41"
+    },
+    "https://azorafly.com/series/our-guild-idol/chapter-40": {
+      "name": "40"
+    },
+    "https://azorafly.com/series/our-guild-idol/chapter-39": {
+      "name": "39"
+    },
+    "https://azorafly.com/series/our-guild-idol/chapter-38": {
+      "name": "38"
+    },
+    "https://azorafly.com/series/our-guild-idol/chapter-37": {
+      "name": "37"
+    },
+    "https://azorafly.com/series/our-guild-idol/chapter-36": {
+      "name": "36"
+    },
+    "https://azorafly.com/series/our-guild-idol/chapter-35": {
+      "name": "35"
+    },
+    "https://azorafly.com/series/our-guild-idol/chapter-34": {
+      "name": "34"
+    },
+    "https://azorafly.com/series/our-guild-idol/chapter-33": {
+      "name": "33"
+    },
+    "https://azorafly.com/series/our-guild-idol/chapter-32": {
+      "name": "32"
+    },
+    "https://azorafly.com/series/our-guild-idol/chapter-31": {
+      "name": "31"
+    },
+    "https://azorafly.com/series/our-guild-idol/chapter-30": {
+      "name": "30"
+    },
+    "https://azorafly.com/series/our-guild-idol/chapter-29": {
+      "name": "29"
+    },
+    "https://azorafly.com/series/our-guild-idol/chapter-28": {
+      "name": "28"
+    },
+    "https://azorafly.com/series/our-guild-idol/chapter-27": {
+      "name": "27"
+    },
+    "https://azorafly.com/series/our-guild-idol/chapter-26": {
+      "name": "26"
+    },
+    "https://azorafly.com/series/our-guild-idol/chapter-25": {
+      "name": "25"
+    },
+    "https://azorafly.com/series/our-guild-idol/chapter-24": {
+      "name": "24"
+    },
+    "https://azorafly.com/series/our-guild-idol/chapter-23": {
+      "name": "23"
+    },
+    "https://azorafly.com/series/our-guild-idol/chapter-22": {
+      "name": "22"
+    },
+    "https://azorafly.com/series/our-guild-idol/chapter-21": {
+      "name": "21"
+    },
+    "https://azorafly.com/series/our-guild-idol/chapter-20": {
+      "name": "20"
+    },
+    "https://azorafly.com/series/our-guild-idol/chapter-19": {
+      "name": "19"
+    },
+    "https://azorafly.com/series/our-guild-idol/chapter-18": {
+      "name": "18"
+    },
+    "https://azorafly.com/series/our-guild-idol/chapter-17": {
+      "name": "17"
+    },
+    "https://azorafly.com/series/our-guild-idol/chapter-16": {
+      "name": "16"
+    },
+    "https://azorafly.com/series/our-guild-idol/chapter-15": {
+      "name": "15"
+    },
+    "https://azorafly.com/series/our-guild-idol/chapter-14": {
+      "name": "14"
+    },
+    "https://azorafly.com/series/our-guild-idol/chapter-13": {
+      "name": "13"
+    },
+    "https://azorafly.com/series/our-guild-idol/chapter-12": {
+      "name": "12"
+    },
+    "https://azorafly.com/series/our-guild-idol/chapter-11": {
+      "name": "11"
+    },
+    "https://azorafly.com/series/our-guild-idol/chapter-10": {
+      "name": "10"
+    },
+    "https://azorafly.com/series/our-guild-idol/chapter-9": {
+      "name": "9"
+    },
+    "https://azorafly.com/series/our-guild-idol/chapter-8": {
+      "name": "8"
+    },
+    "https://azorafly.com/series/our-guild-idol/chapter-7": {
+      "name": "7"
+    },
+    "https://azorafly.com/series/our-guild-idol/chapter-6": {
+      "name": "6"
+    },
+    "https://azorafly.com/series/our-guild-idol/chapter-5": {
+      "name": "5"
+    },
+    "https://azorafly.com/series/our-guild-idol/chapter-4": {
+      "name": "4"
+    },
+    "https://azorafly.com/series/our-guild-idol/chapter-3": {
+      "name": "3"
+    },
+    "https://azorafly.com/series/our-guild-idol/chapter-2": {
+      "name": "2"
+    }
+  }
 }

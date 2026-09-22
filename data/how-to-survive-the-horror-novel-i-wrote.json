@@ -1,124 +1,38 @@
 {
   "id": "how-to-survive-the-horror-novel-i-wrote",
-  "chapters": {
-    "https://azorafly.com/series/how-to-survive-the-horror-novel-i-wrote/chapter-0": {
-      "name": "0",
-      "images": [
-        "https://storage.azorafly.com/upload/series/how-to-survive-the-horror-novel-i-wrote/chapter_0_e9yma6het2/pages_TUvTwquL/page-0001_0001_1789751000309-195330.webp",
-        "https://storage.azorafly.com/upload/series/how-to-survive-the-horror-novel-i-wrote/chapter_0_e9yma6het2/pages_TUvTwquL/page-0002_0002_1789751000309-48248.webp",
-        "https://storage.azorafly.com/upload/series/how-to-survive-the-horror-novel-i-wrote/chapter_0_e9yma6het2/pages_TUvTwquL/page-0003_0003_1789751000310-50602.webp",
-        "https://storage.azorafly.com/upload/series/how-to-survive-the-horror-novel-i-wrote/chapter_0_e9yma6het2/pages_TUvTwquL/page-0004_0004_1789751000310-732374.webp",
-        "https://storage.azorafly.com/upload/series/how-to-survive-the-horror-novel-i-wrote/chapter_0_e9yma6het2/pages_TUvTwquL/page-0005_0005_1789751000311-528964.webp",
-        "https://storage.azorafly.com/upload/series/how-to-survive-the-horror-novel-i-wrote/chapter_0_e9yma6het2/pages_TUvTwquL/page-0006_0006_1789751000311-169773.webp"
-      ]
-    },
-    "https://azorafly.com/series/how-to-survive-the-horror-novel-i-wrote/chapter-7": {
-      "name": "7",
-      "images": [
-        "https://storage.azorafly.com/upload/series/how-to-survive-the-horror-novel-i-wrote/a7f3a4f2-1d97-4606-93ae-2342ef94504f/page-0001_001_1790092001117-227461.jpg",
-        "https://storage.azorafly.com/upload/series/how-to-survive-the-horror-novel-i-wrote/a7f3a4f2-1d97-4606-93ae-2342ef94504f/page-0002_002_1790092001117-986302.jpg",
-        "https://storage.azorafly.com/upload/series/how-to-survive-the-horror-novel-i-wrote/a7f3a4f2-1d97-4606-93ae-2342ef94504f/page-0003_003_1790092001119-790283.jpg",
-        "https://storage.azorafly.com/upload/series/how-to-survive-the-horror-novel-i-wrote/a7f3a4f2-1d97-4606-93ae-2342ef94504f/page-0004_004_1790092001120-743693.jpg",
-        "https://storage.azorafly.com/upload/series/how-to-survive-the-horror-novel-i-wrote/a7f3a4f2-1d97-4606-93ae-2342ef94504f/page-0005_005_1790092001121-286781.jpg",
-        "https://storage.azorafly.com/upload/series/how-to-survive-the-horror-novel-i-wrote/a7f3a4f2-1d97-4606-93ae-2342ef94504f/page-0006_006_1790092001121-992307.jpg",
-        "https://storage.azorafly.com/upload/series/how-to-survive-the-horror-novel-i-wrote/a7f3a4f2-1d97-4606-93ae-2342ef94504f/page-0007_007_1790092001122-117131.jpg",
-        "https://storage.azorafly.com/upload/series/how-to-survive-the-horror-novel-i-wrote/a7f3a4f2-1d97-4606-93ae-2342ef94504f/page-0008_008_1790092001123-838381.jpg"
-      ]
-    },
-    "https://azorafly.com/series/how-to-survive-the-horror-novel-i-wrote/chapter-6": {
-      "name": "6",
-      "images": [
-        "https://storage.azorafly.com/upload/series/how-to-survive-the-horror-novel-i-wrote/43e6b51f-70f4-458d-a2b4-560954b50f01/page-0001_01_1790025628383-29542.webp",
-        "https://storage.azorafly.com/upload/series/how-to-survive-the-horror-novel-i-wrote/43e6b51f-70f4-458d-a2b4-560954b50f01/page-0002_02_1790025628383-379704.webp",
-        "https://storage.azorafly.com/upload/series/how-to-survive-the-horror-novel-i-wrote/43e6b51f-70f4-458d-a2b4-560954b50f01/page-0003_03_1790025628383-447423.webp",
-        "https://storage.azorafly.com/upload/series/how-to-survive-the-horror-novel-i-wrote/43e6b51f-70f4-458d-a2b4-560954b50f01/page-0004_04_1790025628384-263699.webp",
-        "https://storage.azorafly.com/upload/series/how-to-survive-the-horror-novel-i-wrote/43e6b51f-70f4-458d-a2b4-560954b50f01/page-0005_05_1790025628384-457296.webp",
-        "https://storage.azorafly.com/upload/series/how-to-survive-the-horror-novel-i-wrote/43e6b51f-70f4-458d-a2b4-560954b50f01/page-0006_06_1790025628385-572108.jpg",
-        "https://storage.azorafly.com/upload/series/how-to-survive-the-horror-novel-i-wrote/43e6b51f-70f4-458d-a2b4-560954b50f01/page-0007_07_1790025628385-14893.jpg"
-      ]
-    },
-    "https://azorafly.com/series/how-to-survive-the-horror-novel-i-wrote/chapter-5": {
-      "name": "5",
-      "images": [
-        "https://storage.azorafly.com/upload/series/how-to-survive-the-horror-novel-i-wrote/d26ccbc7-5f13-4071-9116-3e91e5cf9e61/page-0001_01_1789862759462-681483.jpg",
-        "https://storage.azorafly.com/upload/series/how-to-survive-the-horror-novel-i-wrote/d26ccbc7-5f13-4071-9116-3e91e5cf9e61/page-0002_02_1789862759462-820437.jpg",
-        "https://storage.azorafly.com/upload/series/how-to-survive-the-horror-novel-i-wrote/d26ccbc7-5f13-4071-9116-3e91e5cf9e61/page-0003_03_1789862759463-931354.jpg",
-        "https://storage.azorafly.com/upload/series/how-to-survive-the-horror-novel-i-wrote/d26ccbc7-5f13-4071-9116-3e91e5cf9e61/page-0004_04_1789862759464-202856.jpg",
-        "https://storage.azorafly.com/upload/series/how-to-survive-the-horror-novel-i-wrote/d26ccbc7-5f13-4071-9116-3e91e5cf9e61/page-0005_05_1789862759465-445877.jpg",
-        "https://storage.azorafly.com/upload/series/how-to-survive-the-horror-novel-i-wrote/d26ccbc7-5f13-4071-9116-3e91e5cf9e61/page-0006_06_1789862759466-430041.jpg",
-        "https://storage.azorafly.com/upload/series/how-to-survive-the-horror-novel-i-wrote/d26ccbc7-5f13-4071-9116-3e91e5cf9e61/page-0007_07_1789862759466-236416.jpg"
-      ]
-    },
-    "https://azorafly.com/series/how-to-survive-the-horror-novel-i-wrote/chapter-4": {
-      "name": "4",
-      "images": [
-        "https://storage.azorafly.com/upload/series/how-to-survive-the-horror-novel-i-wrote/5b6d64f6-0960-470e-a4cd-1c84c1d0281a/page-0001_01_1789862720103-599067.jpg",
-        "https://storage.azorafly.com/upload/series/how-to-survive-the-horror-novel-i-wrote/5b6d64f6-0960-470e-a4cd-1c84c1d0281a/page-0002_02_1789862720103-188260.jpg",
-        "https://storage.azorafly.com/upload/series/how-to-survive-the-horror-novel-i-wrote/5b6d64f6-0960-470e-a4cd-1c84c1d0281a/page-0003_03_1789862720104-758483.jpg",
-        "https://storage.azorafly.com/upload/series/how-to-survive-the-horror-novel-i-wrote/5b6d64f6-0960-470e-a4cd-1c84c1d0281a/page-0004_04_1789862720104-37434.jpg",
-        "https://storage.azorafly.com/upload/series/how-to-survive-the-horror-novel-i-wrote/5b6d64f6-0960-470e-a4cd-1c84c1d0281a/page-0005_05_1789862720105-792608.jpg",
-        "https://storage.azorafly.com/upload/series/how-to-survive-the-horror-novel-i-wrote/5b6d64f6-0960-470e-a4cd-1c84c1d0281a/page-0006_06_1789862720105-355862.jpg",
-        "https://storage.azorafly.com/upload/series/how-to-survive-the-horror-novel-i-wrote/5b6d64f6-0960-470e-a4cd-1c84c1d0281a/page-0007_07_1789862720106-100575.jpg",
-        "https://storage.azorafly.com/upload/series/how-to-survive-the-horror-novel-i-wrote/5b6d64f6-0960-470e-a4cd-1c84c1d0281a/page-0008_08_1789862720106-557068.jpg"
-      ]
-    },
-    "https://azorafly.com/series/how-to-survive-the-horror-novel-i-wrote/chapter-3": {
-      "name": "3",
-      "images": [
-        "https://storage.azorafly.com/upload/series/how-to-survive-the-horror-novel-i-wrote/f746f6e2-754b-4924-8be5-5721abeb6a27/page-0001_01_1789835492748-202637.jpg",
-        "https://storage.azorafly.com/upload/series/how-to-survive-the-horror-novel-i-wrote/f746f6e2-754b-4924-8be5-5721abeb6a27/page-0002_02_1789835492748-223675.jpg",
-        "https://storage.azorafly.com/upload/series/how-to-survive-the-horror-novel-i-wrote/f746f6e2-754b-4924-8be5-5721abeb6a27/page-0003_03_1789835492749-564915.jpg",
-        "https://storage.azorafly.com/upload/series/how-to-survive-the-horror-novel-i-wrote/f746f6e2-754b-4924-8be5-5721abeb6a27/page-0004_04_1789835492749-687723.jpg",
-        "https://storage.azorafly.com/upload/series/how-to-survive-the-horror-novel-i-wrote/f746f6e2-754b-4924-8be5-5721abeb6a27/page-0005_05_1789835492750-860569.jpg",
-        "https://storage.azorafly.com/upload/series/how-to-survive-the-horror-novel-i-wrote/f746f6e2-754b-4924-8be5-5721abeb6a27/page-0006_06_1789835492750-564683.jpg",
-        "https://storage.azorafly.com/upload/series/how-to-survive-the-horror-novel-i-wrote/f746f6e2-754b-4924-8be5-5721abeb6a27/page-0007_07_1789835492751-741574.jpg",
-        "https://storage.azorafly.com/upload/series/how-to-survive-the-horror-novel-i-wrote/f746f6e2-754b-4924-8be5-5721abeb6a27/page-0008_08_1789835492751-643506.jpg",
-        "https://storage.azorafly.com/upload/series/how-to-survive-the-horror-novel-i-wrote/f746f6e2-754b-4924-8be5-5721abeb6a27/page-0009_09_1789835492752-913158.jpg",
-        "https://storage.azorafly.com/upload/series/how-to-survive-the-horror-novel-i-wrote/f746f6e2-754b-4924-8be5-5721abeb6a27/page-0010_10_1789835492752-604357.jpg",
-        "https://storage.azorafly.com/upload/series/how-to-survive-the-horror-novel-i-wrote/f746f6e2-754b-4924-8be5-5721abeb6a27/page-0011_11_1789835492753-475207.jpg",
-        "https://storage.azorafly.com/upload/series/how-to-survive-the-horror-novel-i-wrote/f746f6e2-754b-4924-8be5-5721abeb6a27/page-0012_12_1789835492753-542566.jpg"
-      ]
-    },
-    "https://azorafly.com/series/how-to-survive-the-horror-novel-i-wrote/chapter-2": {
-      "name": "2",
-      "images": [
-        "https://storage.azorafly.com/upload/series/how-to-survive-the-horror-novel-i-wrote/5da2084c-490d-4406-a624-c3e5fc727066/page-0001_01_1789835435083-198653.jpg",
-        "https://storage.azorafly.com/upload/series/how-to-survive-the-horror-novel-i-wrote/5da2084c-490d-4406-a624-c3e5fc727066/page-0002_02_1789835435083-22092.jpg",
-        "https://storage.azorafly.com/upload/series/how-to-survive-the-horror-novel-i-wrote/5da2084c-490d-4406-a624-c3e5fc727066/page-0003_03_1789835435084-705562.jpg",
-        "https://storage.azorafly.com/upload/series/how-to-survive-the-horror-novel-i-wrote/5da2084c-490d-4406-a624-c3e5fc727066/page-0004_04_1789835435084-97687.jpg",
-        "https://storage.azorafly.com/upload/series/how-to-survive-the-horror-novel-i-wrote/5da2084c-490d-4406-a624-c3e5fc727066/page-0005_05_1789835435084-257780.jpg",
-        "https://storage.azorafly.com/upload/series/how-to-survive-the-horror-novel-i-wrote/5da2084c-490d-4406-a624-c3e5fc727066/page-0006_06_1789835435085-141050.jpg",
-        "https://storage.azorafly.com/upload/series/how-to-survive-the-horror-novel-i-wrote/5da2084c-490d-4406-a624-c3e5fc727066/page-0007_07_1789835435085-946409.jpg",
-        "https://storage.azorafly.com/upload/series/how-to-survive-the-horror-novel-i-wrote/5da2084c-490d-4406-a624-c3e5fc727066/page-0008_08_1789835435086-276809.jpg",
-        "https://storage.azorafly.com/upload/series/how-to-survive-the-horror-novel-i-wrote/5da2084c-490d-4406-a624-c3e5fc727066/page-0009_09_1789835435086-608384.jpg",
-        "https://storage.azorafly.com/upload/series/how-to-survive-the-horror-novel-i-wrote/5da2084c-490d-4406-a624-c3e5fc727066/page-0010_10_1789835435087-77712.jpg",
-        "https://storage.azorafly.com/upload/series/how-to-survive-the-horror-novel-i-wrote/5da2084c-490d-4406-a624-c3e5fc727066/page-0011_11_1789835435087-818417.jpg",
-        "https://storage.azorafly.com/upload/series/how-to-survive-the-horror-novel-i-wrote/5da2084c-490d-4406-a624-c3e5fc727066/page-0012_12_1789835435088-672828.jpg"
-      ]
-    },
-    "https://azorafly.com/series/how-to-survive-the-horror-novel-i-wrote/chapter-1": {
-      "name": "1",
-      "images": [
-        "https://storage.azorafly.com/upload/series/how-to-survive-the-horror-novel-i-wrote/chapter_0_x2ntocq1j7/page-0001_01_1789818193617-875831.jpg",
-        "https://storage.azorafly.com/upload/series/how-to-survive-the-horror-novel-i-wrote/chapter_0_x2ntocq1j7/page-0002_02_1789818193915-10.jpg",
-        "https://storage.azorafly.com/upload/series/how-to-survive-the-horror-novel-i-wrote/chapter_0_x2ntocq1j7/page-0003_03_1789818193426-603160.jpg",
-        "https://storage.azorafly.com/upload/series/how-to-survive-the-horror-novel-i-wrote/chapter_0_x2ntocq1j7/page-0004_04_1789818195511-317619.jpg",
-        "https://storage.azorafly.com/upload/series/how-to-survive-the-horror-novel-i-wrote/chapter_0_x2ntocq1j7/page-0005_05_1789818196989-391490.jpg",
-        "https://storage.azorafly.com/upload/series/how-to-survive-the-horror-novel-i-wrote/chapter_0_x2ntocq1j7/page-0006_06_1789818197154-648408.jpg",
-        "https://storage.azorafly.com/upload/series/how-to-survive-the-horror-novel-i-wrote/chapter_0_x2ntocq1j7/page-0007_07_1789818197656-930782.jpg",
-        "https://storage.azorafly.com/upload/series/how-to-survive-the-horror-novel-i-wrote/chapter_0_x2ntocq1j7/page-0008_08_1789818198339-752290.jpg",
-        "https://storage.azorafly.com/upload/series/how-to-survive-the-horror-novel-i-wrote/chapter_0_x2ntocq1j7/page-0009_09_1789818198747-454315.jpg"
-      ]
-    }
-  },
   "title": "How to Survive the Horror Novel I Wrote",
   "cover_url": "https://storage.azorafly.com/upload/series/featured/02408b52-85d5-445d-9e5c-f7dbcd583bf8/7c15149a-b437-4aaa-b6dd-47d76ad93994.webp",
-  "description": "لا يوجد وصف.",
+  "description": "\"ها جي آن\"... كاتبةُ سلسلةِ الرعبِ الشهيرة \"الليل\" الأكثر مبيعًا. في أحد الأيام، تقعُ في يديها لوحةُ مفاتيح ملعونة تُحيل كل ما تخطه من كلمات إلى واقعٍ ملموس، ليخرج من بين صفحاتِ روايتها السفاحُ المتسلسل \"جو أُو غم\" ويظهر في...",
   "type": "مانهوا",
   "status": "مستمر",
-  "last_update": "منذ ساعتين تقريبا",
-  "favorites": "",
+  "last_update": "Viewاقرأ الفصل 0إضافة للمفضلةالإبلاغ عن مشكلة10التقييمات205المفضلةالحالةONGOINGالنوعمانهواالفصول8آخر تحديثمنذ ساعتين تقريباHow to Survive the Horror Novel I Wrote الفصول ( 8 )  الملخص التقييمات ( 8 ) اجعل الكل مقروءاًوضع علامة 'مقروء' على جميع الفصولالفصل 7جديد25الفصل 6جديد1012الفصل 5جديد2130الفصل 4جديد1028الفصل 3جديد1232الفصل 2جديد2334الفصل 1جديد2636الفصل 0جديد3040 الملخص \"ها جي آن\"... كاتبةُ سلسلةِ الرعبِ الشهيرة \"الليل\" الأكثر مبيعًا. في أحد الأيام، تقعُ في يديها لوحةُ مفاتيح ملعونة تُحيل كل ما تخطه من كلمات إلى واقعٍ ملموس، ليخرج من بين صفحاتِ روايتها السفاحُ المتسلسل \"جو أُو غم\" ويظهر في...عرض المزيدرومانسىخياليدرمارعبالفرقChocolateشارك Azora Mangaمع أصدقائكشاركانضم لمجتمعناDiscord0اعجبني0أحببته0اضحكني0واو0احزنني0اغضبنيالنقاش0أعمال مشابهةSurvive the Horror School★10.071 فصلGrand Duke of the North★9.2101 فصلThe Flower With a Sword★10.060 فصلMy Husband Possessed the Protagonist★7.352 فصل‏I'm a Sickly Mother, But I'll Raise My Villainous Son!★8.442 فصل",
   "rating": "",
   "genres": [],
-  "is_novel": false
+  "is_novel": false,
+  "chapters": {
+    "https://azorafly.com/series/how-to-survive-the-horror-novel-i-wrote/chapter-0": {
+      "name": "0"
+    },
+    "https://azorafly.com/series/how-to-survive-the-horror-novel-i-wrote/chapter-7": {
+      "name": "7"
+    },
+    "https://azorafly.com/series/how-to-survive-the-horror-novel-i-wrote/chapter-6": {
+      "name": "6"
+    },
+    "https://azorafly.com/series/how-to-survive-the-horror-novel-i-wrote/chapter-5": {
+      "name": "5"
+    },
+    "https://azorafly.com/series/how-to-survive-the-horror-novel-i-wrote/chapter-4": {
+      "name": "4"
+    },
+    "https://azorafly.com/series/how-to-survive-the-horror-novel-i-wrote/chapter-3": {
+      "name": "3"
+    },
+    "https://azorafly.com/series/how-to-survive-the-horror-novel-i-wrote/chapter-2": {
+      "name": "2"
+    },
+    "https://azorafly.com/series/how-to-survive-the-horror-novel-i-wrote/chapter-1": {
+      "name": "1"
+    }
+  }
 }

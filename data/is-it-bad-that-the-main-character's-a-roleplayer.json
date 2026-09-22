@@ -1,696 +1,110 @@
 {
   "id": "is-it-bad-that-the-main-character's-a-roleplayer",
-  "chapters": {
-    "https://azorafly.com/series/is-it-bad-that-the-main-character's-a-roleplayer/chapter-1": {
-      "name": "1",
-      "images": [
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/78f9d449-4cb5-4b07-87f6-9cfca96f0af6/page-0001_001_1784087609615-428170.webp",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/78f9d449-4cb5-4b07-87f6-9cfca96f0af6/page-0002_002_1784087609615-631959.webp",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/78f9d449-4cb5-4b07-87f6-9cfca96f0af6/page-0003_003_1784087609615-302932.webp",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/78f9d449-4cb5-4b07-87f6-9cfca96f0af6/page-0004_004_1784087609615-901903.webp",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/78f9d449-4cb5-4b07-87f6-9cfca96f0af6/page-0005_005_1784087609615-315070.webp",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/78f9d449-4cb5-4b07-87f6-9cfca96f0af6/page-0006_006_1784087609615-106836.webp",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/78f9d449-4cb5-4b07-87f6-9cfca96f0af6/page-0007_007_1784087609615-286094.webp",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/78f9d449-4cb5-4b07-87f6-9cfca96f0af6/page-0008_008_1784087609615-227384.webp",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/78f9d449-4cb5-4b07-87f6-9cfca96f0af6/page-0009_009_1784087609616-675829.webp",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/78f9d449-4cb5-4b07-87f6-9cfca96f0af6/page-0010_010_1784087609616-393805.webp",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/78f9d449-4cb5-4b07-87f6-9cfca96f0af6/page-0011_011_1784087609616-71731.webp",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/78f9d449-4cb5-4b07-87f6-9cfca96f0af6/page-0012_012_1784087609616-245243.webp",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/78f9d449-4cb5-4b07-87f6-9cfca96f0af6/page-0013_013_1784087609616-699111.webp",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/78f9d449-4cb5-4b07-87f6-9cfca96f0af6/page-0014_014_1784087609616-243445.webp",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/78f9d449-4cb5-4b07-87f6-9cfca96f0af6/page-0015_015_1784087609616-480759.webp",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/78f9d449-4cb5-4b07-87f6-9cfca96f0af6/page-0016_016_1784087609616-977954.webp",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/78f9d449-4cb5-4b07-87f6-9cfca96f0af6/page-0017_017_1784087609616-800716.webp"
-      ]
-    },
-    "https://azorafly.com/series/is-it-bad-that-the-main-character's-a-roleplayer/chapter-27": {
-      "name": "27",
-      "images": [
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/c9b6dff0-7a11-40f9-9b8c-be905ba38808/page-0001_01_1787067458242-599849.webp",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/c9b6dff0-7a11-40f9-9b8c-be905ba38808/page-0002_02_1787067458242-779178.webp",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/c9b6dff0-7a11-40f9-9b8c-be905ba38808/page-0003_03_1787067458242-42523.webp",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/c9b6dff0-7a11-40f9-9b8c-be905ba38808/page-0004_04_1787067458242-113698.webp",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/c9b6dff0-7a11-40f9-9b8c-be905ba38808/page-0005_05_1787067458242-380843.webp",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/c9b6dff0-7a11-40f9-9b8c-be905ba38808/page-0006_06_1787067458242-72474.webp",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/c9b6dff0-7a11-40f9-9b8c-be905ba38808/page-0007_07_1787067458242-632958.webp",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/c9b6dff0-7a11-40f9-9b8c-be905ba38808/page-0008_08_1787067458242-995365.webp",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/c9b6dff0-7a11-40f9-9b8c-be905ba38808/page-0009_09_1787067458242-713911.webp",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/c9b6dff0-7a11-40f9-9b8c-be905ba38808/page-0010_10_1787067458242-642079.webp",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/c9b6dff0-7a11-40f9-9b8c-be905ba38808/page-0011_11_1787067458242-543051.webp",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/c9b6dff0-7a11-40f9-9b8c-be905ba38808/page-0012_12_1787067458242-663764.webp",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/c9b6dff0-7a11-40f9-9b8c-be905ba38808/page-0013_13_1787067458243-734696.webp"
-      ]
-    },
-    "https://azorafly.com/series/is-it-bad-that-the-main-character's-a-roleplayer/chapter-26": {
-      "name": "26",
-      "images": [
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/7a407219-9ee8-4d7c-9005-f113d5430bee/page-0001_01_1786460434759-561466.jpg",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/7a407219-9ee8-4d7c-9005-f113d5430bee/page-0002_02_1786460434759-900073.jpg",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/7a407219-9ee8-4d7c-9005-f113d5430bee/page-0003_03_1786460434759-322100.jpg",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/7a407219-9ee8-4d7c-9005-f113d5430bee/page-0004_04_1786460434759-909311.jpg",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/7a407219-9ee8-4d7c-9005-f113d5430bee/page-0005_05_1786460434759-652763.jpg",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/7a407219-9ee8-4d7c-9005-f113d5430bee/page-0006_06_1786460434759-337329.jpg",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/7a407219-9ee8-4d7c-9005-f113d5430bee/page-0007_07_1786460434759-587678.jpg",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/7a407219-9ee8-4d7c-9005-f113d5430bee/page-0008_08_1786460434759-786715.jpg",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/7a407219-9ee8-4d7c-9005-f113d5430bee/page-0009_09_1786460434763-646644.jpg",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/7a407219-9ee8-4d7c-9005-f113d5430bee/page-0010_10_1786460434763-5588.jpg",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/7a407219-9ee8-4d7c-9005-f113d5430bee/page-0011_11_1786460434763-669340.jpg"
-      ]
-    },
-    "https://azorafly.com/series/is-it-bad-that-the-main-character's-a-roleplayer/chapter-25": {
-      "name": "25",
-      "images": [
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/f620ee4c-9ecd-4c41-b72d-79cc693f173d/page-0001_01_1785855582447-794058.webp",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/f620ee4c-9ecd-4c41-b72d-79cc693f173d/page-0002_02_1785855582447-119068.webp",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/f620ee4c-9ecd-4c41-b72d-79cc693f173d/page-0003_03_1785855582447-860260.webp",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/f620ee4c-9ecd-4c41-b72d-79cc693f173d/page-0004_04_1785855582447-531174.webp",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/f620ee4c-9ecd-4c41-b72d-79cc693f173d/page-0005_05_1785855582447-361171.webp",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/f620ee4c-9ecd-4c41-b72d-79cc693f173d/page-0006_06_1785855582447-654463.webp",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/f620ee4c-9ecd-4c41-b72d-79cc693f173d/page-0007_07_1785855582447-514389.webp",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/f620ee4c-9ecd-4c41-b72d-79cc693f173d/page-0008_08_1785855582447-888653.webp",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/f620ee4c-9ecd-4c41-b72d-79cc693f173d/page-0009_09_1785855582448-651194.webp",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/f620ee4c-9ecd-4c41-b72d-79cc693f173d/page-0010_10_1785855582448-62358.webp",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/f620ee4c-9ecd-4c41-b72d-79cc693f173d/page-0011_11_1785855582448-75063.webp",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/f620ee4c-9ecd-4c41-b72d-79cc693f173d/page-0012_12_1785855582448-258259.webp",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/f620ee4c-9ecd-4c41-b72d-79cc693f173d/page-0013_13_1785855582448-421088.webp"
-      ]
-    },
-    "https://azorafly.com/series/is-it-bad-that-the-main-character's-a-roleplayer/chapter-24": {
-      "name": "24",
-      "images": [
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/22cfe9a6-b579-4e80-9258-c9ca7a5b9e6f/page-0001_01_1785257522255-204721.webp",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/22cfe9a6-b579-4e80-9258-c9ca7a5b9e6f/page-0002_02_1785257522256-549637.webp",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/22cfe9a6-b579-4e80-9258-c9ca7a5b9e6f/page-0003_03_1785257522256-291017.webp",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/22cfe9a6-b579-4e80-9258-c9ca7a5b9e6f/page-0004_04_1785257522256-616186.webp",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/22cfe9a6-b579-4e80-9258-c9ca7a5b9e6f/page-0005_05_1785257522256-297383.webp",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/22cfe9a6-b579-4e80-9258-c9ca7a5b9e6f/page-0006_06_1785257522256-61424.webp",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/22cfe9a6-b579-4e80-9258-c9ca7a5b9e6f/page-0007_07_1785257522256-706533.webp",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/22cfe9a6-b579-4e80-9258-c9ca7a5b9e6f/page-0008_08_1785257522256-75671.webp",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/22cfe9a6-b579-4e80-9258-c9ca7a5b9e6f/page-0009_09_1785257522256-379859.webp",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/22cfe9a6-b579-4e80-9258-c9ca7a5b9e6f/page-0010_10_1785257522256-839047.webp",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/22cfe9a6-b579-4e80-9258-c9ca7a5b9e6f/page-0011_11_1785257522256-160751.webp",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/22cfe9a6-b579-4e80-9258-c9ca7a5b9e6f/page-0012_12_1785257522256-553585.webp"
-      ]
-    },
-    "https://azorafly.com/series/is-it-bad-that-the-main-character's-a-roleplayer/chapter-23": {
-      "name": "23",
-      "images": [
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/23f19a42-dbae-4258-b1f8-342cc46cb0f6/page-0001_001_1784649540617-10260.webp",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/23f19a42-dbae-4258-b1f8-342cc46cb0f6/page-0002_002_1784649540617-899056.webp",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/23f19a42-dbae-4258-b1f8-342cc46cb0f6/page-0003_003_1784649540618-35620.webp",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/23f19a42-dbae-4258-b1f8-342cc46cb0f6/page-0004_004_1784649540618-686792.webp",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/23f19a42-dbae-4258-b1f8-342cc46cb0f6/page-0005_005_1784649540618-421467.webp",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/23f19a42-dbae-4258-b1f8-342cc46cb0f6/page-0006_006_1784649540618-705799.webp",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/23f19a42-dbae-4258-b1f8-342cc46cb0f6/page-0007_007_1784649540618-396549.webp",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/23f19a42-dbae-4258-b1f8-342cc46cb0f6/page-0008_008_1784649540618-391464.webp",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/23f19a42-dbae-4258-b1f8-342cc46cb0f6/page-0009_009_1784649540618-606328.webp",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/23f19a42-dbae-4258-b1f8-342cc46cb0f6/page-0010_010_1784649540618-39811.webp",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/23f19a42-dbae-4258-b1f8-342cc46cb0f6/page-0011_011_1784649540618-824051.webp",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/23f19a42-dbae-4258-b1f8-342cc46cb0f6/page-0012_012_1784649540618-85409.webp",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/23f19a42-dbae-4258-b1f8-342cc46cb0f6/page-0013_013_1784649540618-557029.webp",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/23f19a42-dbae-4258-b1f8-342cc46cb0f6/page-0014_014_1784649540618-834685.webp",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/23f19a42-dbae-4258-b1f8-342cc46cb0f6/page-0015_15_1784649540618-243448.webp"
-      ]
-    },
-    "https://azorafly.com/series/is-it-bad-that-the-main-character's-a-roleplayer/chapter-22": {
-      "name": "22",
-      "images": [
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/dca742d2-fb05-4c07-b3ae-98068ce3ef73/page-0001_001_1784405913542-1212.jpg",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/dca742d2-fb05-4c07-b3ae-98068ce3ef73/page-0002_002_1784405913542-425810.jpg",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/dca742d2-fb05-4c07-b3ae-98068ce3ef73/page-0003_003_1784405913542-789877.jpg",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/dca742d2-fb05-4c07-b3ae-98068ce3ef73/page-0004_004_1784405913542-122476.jpg",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/dca742d2-fb05-4c07-b3ae-98068ce3ef73/page-0005_005_1784405913542-868274.jpg",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/dca742d2-fb05-4c07-b3ae-98068ce3ef73/page-0006_006_1784405913542-444446.jpg",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/dca742d2-fb05-4c07-b3ae-98068ce3ef73/page-0007_007_1784405913542-738857.jpg",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/dca742d2-fb05-4c07-b3ae-98068ce3ef73/page-0008_008_1784405913542-25869.jpg",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/dca742d2-fb05-4c07-b3ae-98068ce3ef73/page-0009_009_1784405913544-334314.jpg",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/dca742d2-fb05-4c07-b3ae-98068ce3ef73/page-0010_010_1784405913544-93280.jpg",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/dca742d2-fb05-4c07-b3ae-98068ce3ef73/page-0011_011_1784405913544-727218.jpg",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/dca742d2-fb05-4c07-b3ae-98068ce3ef73/page-0012_012_1784405913544-794958.jpg",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/dca742d2-fb05-4c07-b3ae-98068ce3ef73/page-0013_013_1784405913544-609218.jpg"
-      ]
-    },
-    "https://azorafly.com/series/is-it-bad-that-the-main-character's-a-roleplayer/chapter-21": {
-      "name": "21",
-      "images": [
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/85bf0069-17a1-42e9-aaa5-130cc57b7038/page-0001_01_1784133371512-78711.webp",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/85bf0069-17a1-42e9-aaa5-130cc57b7038/page-0002_02_1784133371512-560682.webp",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/85bf0069-17a1-42e9-aaa5-130cc57b7038/page-0003_03_1784133371512-863743.webp",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/85bf0069-17a1-42e9-aaa5-130cc57b7038/page-0004_04_1784133371512-108287.webp",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/85bf0069-17a1-42e9-aaa5-130cc57b7038/page-0005_05_1784133371512-60781.webp",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/85bf0069-17a1-42e9-aaa5-130cc57b7038/page-0006_06_1784133371512-207841.webp",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/85bf0069-17a1-42e9-aaa5-130cc57b7038/page-0007_07_1784133371512-103225.webp",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/85bf0069-17a1-42e9-aaa5-130cc57b7038/page-0008_08_1784133371512-803859.webp",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/85bf0069-17a1-42e9-aaa5-130cc57b7038/page-0009_09_1784133371513-332488.webp",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/85bf0069-17a1-42e9-aaa5-130cc57b7038/page-0010_10_1784133371514-419195.webp"
-      ]
-    },
-    "https://azorafly.com/series/is-it-bad-that-the-main-character's-a-roleplayer/chapter-20": {
-      "name": "20",
-      "images": [
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/3fd37526-ff9a-4dec-bc14-1261ade19948/page-0001_001_1784133218236-911031.webp",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/3fd37526-ff9a-4dec-bc14-1261ade19948/page-0002_002_1784133218236-408001.webp",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/3fd37526-ff9a-4dec-bc14-1261ade19948/page-0003_003_1784133218236-541406.webp",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/3fd37526-ff9a-4dec-bc14-1261ade19948/page-0004_004_1784133218236-138811.webp",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/3fd37526-ff9a-4dec-bc14-1261ade19948/page-0005_005_1784133218236-115635.webp",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/3fd37526-ff9a-4dec-bc14-1261ade19948/page-0006_006_1784133218236-608534.webp",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/3fd37526-ff9a-4dec-bc14-1261ade19948/page-0007_007_1784133218236-810477.webp",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/3fd37526-ff9a-4dec-bc14-1261ade19948/page-0008_008_1784133218236-462589.webp",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/3fd37526-ff9a-4dec-bc14-1261ade19948/page-0009_009_1784133218278-399561.webp",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/3fd37526-ff9a-4dec-bc14-1261ade19948/page-0010_010_1784133218302-375022.webp",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/3fd37526-ff9a-4dec-bc14-1261ade19948/page-0011_011_1784133218302-948208.webp",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/3fd37526-ff9a-4dec-bc14-1261ade19948/page-0012_012_1784133218302-405264.webp"
-      ]
-    },
-    "https://azorafly.com/series/is-it-bad-that-the-main-character's-a-roleplayer/chapter-19": {
-      "name": "19",
-      "images": [
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/e49695fd-532b-406e-ad4a-1d8388eb3898/page-0001_1_1784406452157-414910.jpg",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/e49695fd-532b-406e-ad4a-1d8388eb3898/page-0002_2_1784406452157-611393.jpg",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/e49695fd-532b-406e-ad4a-1d8388eb3898/page-0003_3_1784406452157-57838.jpg",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/e49695fd-532b-406e-ad4a-1d8388eb3898/page-0004_4_1784406452157-809911.jpg",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/e49695fd-532b-406e-ad4a-1d8388eb3898/page-0005_5_1784406452157-915609.jpg",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/e49695fd-532b-406e-ad4a-1d8388eb3898/page-0006_6_1784406452157-604994.jpg",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/e49695fd-532b-406e-ad4a-1d8388eb3898/page-0007_7_1784406452157-236511.jpg",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/e49695fd-532b-406e-ad4a-1d8388eb3898/page-0008_8_1784406452157-231546.jpg",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/e49695fd-532b-406e-ad4a-1d8388eb3898/page-0009_9_1784406452163-158652.jpg",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/e49695fd-532b-406e-ad4a-1d8388eb3898/page-0010_10_1784406452163-634762.jpg",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/e49695fd-532b-406e-ad4a-1d8388eb3898/page-0011_11_1784406452163-509079.jpg",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/e49695fd-532b-406e-ad4a-1d8388eb3898/page-0012_12_1784406452163-610332.jpg"
-      ]
-    },
-    "https://azorafly.com/series/is-it-bad-that-the-main-character's-a-roleplayer/chapter-18": {
-      "name": "18",
-      "images": [
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/a46f9f29-2517-4cce-b4db-429c3778f43a/page-0001_001_1784133148187-90942.webp",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/a46f9f29-2517-4cce-b4db-429c3778f43a/page-0002_002_1784133148187-637429.webp",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/a46f9f29-2517-4cce-b4db-429c3778f43a/page-0003_003_1784133148187-540142.webp",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/a46f9f29-2517-4cce-b4db-429c3778f43a/page-0004_004_1784133148187-805563.webp",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/a46f9f29-2517-4cce-b4db-429c3778f43a/page-0005_005_1784133148187-127489.webp",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/a46f9f29-2517-4cce-b4db-429c3778f43a/page-0006_006_1784133148187-386196.webp",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/a46f9f29-2517-4cce-b4db-429c3778f43a/page-0007_007_1784133148187-178173.webp",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/a46f9f29-2517-4cce-b4db-429c3778f43a/page-0008_008_1784133148187-659538.webp",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/a46f9f29-2517-4cce-b4db-429c3778f43a/page-0009_009_1784133148187-586.webp",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/a46f9f29-2517-4cce-b4db-429c3778f43a/page-0010_010_1784133148188-770916.webp",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/a46f9f29-2517-4cce-b4db-429c3778f43a/page-0011_011_1784133148188-315998.webp",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/a46f9f29-2517-4cce-b4db-429c3778f43a/page-0012_012_1784133148188-423038.webp",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/a46f9f29-2517-4cce-b4db-429c3778f43a/page-0013_013_1784133148188-568683.webp"
-      ]
-    },
-    "https://azorafly.com/series/is-it-bad-that-the-main-character's-a-roleplayer/chapter-17": {
-      "name": "17",
-      "images": [
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/e2d90f73-1009-4ac8-8157-0bdc22613b7d/page-0001_001_1784133109303-438945.webp",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/e2d90f73-1009-4ac8-8157-0bdc22613b7d/page-0002_002_1784133109303-349895.webp",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/e2d90f73-1009-4ac8-8157-0bdc22613b7d/page-0003_003_1784133109303-933200.webp",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/e2d90f73-1009-4ac8-8157-0bdc22613b7d/page-0004_004_1784133109303-68903.webp",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/e2d90f73-1009-4ac8-8157-0bdc22613b7d/page-0005_005_1784133109303-752426.webp",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/e2d90f73-1009-4ac8-8157-0bdc22613b7d/page-0006_006_1784133109303-457924.webp",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/e2d90f73-1009-4ac8-8157-0bdc22613b7d/page-0007_007_1784133109303-962196.webp",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/e2d90f73-1009-4ac8-8157-0bdc22613b7d/page-0008_008_1784133109303-303808.webp",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/e2d90f73-1009-4ac8-8157-0bdc22613b7d/page-0009_009_1784133109303-445201.webp",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/e2d90f73-1009-4ac8-8157-0bdc22613b7d/page-0010_010_1784133109303-890235.webp",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/e2d90f73-1009-4ac8-8157-0bdc22613b7d/page-0011_011_1784133109303-468001.webp",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/e2d90f73-1009-4ac8-8157-0bdc22613b7d/page-0012_012_1784133109303-335317.webp"
-      ]
-    },
-    "https://azorafly.com/series/is-it-bad-that-the-main-character's-a-roleplayer/chapter-16": {
-      "name": "16",
-      "images": [
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/aaea3231-4110-43e8-9ff4-8c3abb888c3d/page-0001_01-1_1784224447406-131433.jpg",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/aaea3231-4110-43e8-9ff4-8c3abb888c3d/page-0002_02-1_1784224447406-52232.jpg",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/aaea3231-4110-43e8-9ff4-8c3abb888c3d/page-0003_03-1_1784224447406-892291.jpg",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/aaea3231-4110-43e8-9ff4-8c3abb888c3d/page-0004_04-1_1784224447406-599734.jpg",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/aaea3231-4110-43e8-9ff4-8c3abb888c3d/page-0005_05-1_1784224447406-424497.jpg",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/aaea3231-4110-43e8-9ff4-8c3abb888c3d/page-0006_06-1_1784224447406-617910.jpg",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/aaea3231-4110-43e8-9ff4-8c3abb888c3d/page-0007_07-1_1784224447406-18013.jpg",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/aaea3231-4110-43e8-9ff4-8c3abb888c3d/page-0008_08-1_1784224447406-560430.jpg",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/aaea3231-4110-43e8-9ff4-8c3abb888c3d/page-0009_09-1_1784224447411-419384.jpg",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/aaea3231-4110-43e8-9ff4-8c3abb888c3d/page-0010_10-1_1784224447420-700322.jpg",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/aaea3231-4110-43e8-9ff4-8c3abb888c3d/page-0011_11-1_1784224447420-114798.jpg",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/aaea3231-4110-43e8-9ff4-8c3abb888c3d/page-0012_12-1_1784224447420-659909.jpg",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/aaea3231-4110-43e8-9ff4-8c3abb888c3d/page-0013_13-1_1784224447420-934123.jpg"
-      ]
-    },
-    "https://azorafly.com/series/is-it-bad-that-the-main-character's-a-roleplayer/chapter-15": {
-      "name": "15",
-      "images": [
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/fcce3e10-7041-43c1-a3ce-582e74656e4f/page-0001_001_1784132940876-643298.webp",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/fcce3e10-7041-43c1-a3ce-582e74656e4f/page-0002_002_1784132940876-868801.webp",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/fcce3e10-7041-43c1-a3ce-582e74656e4f/page-0003_003_1784132940876-868812.webp",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/fcce3e10-7041-43c1-a3ce-582e74656e4f/page-0004_004_1784132940876-600968.webp",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/fcce3e10-7041-43c1-a3ce-582e74656e4f/page-0005_005_1784132940876-581014.webp",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/fcce3e10-7041-43c1-a3ce-582e74656e4f/page-0006_006_1784132940876-204559.webp",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/fcce3e10-7041-43c1-a3ce-582e74656e4f/page-0007_007_1784132940876-165425.webp",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/fcce3e10-7041-43c1-a3ce-582e74656e4f/page-0008_008_1784132940876-817391.webp",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/fcce3e10-7041-43c1-a3ce-582e74656e4f/page-0009_009_1784132940881-662338.webp",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/fcce3e10-7041-43c1-a3ce-582e74656e4f/page-0010_010_1784132940881-593085.webp",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/fcce3e10-7041-43c1-a3ce-582e74656e4f/page-0011_011_1784132940881-825902.webp",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/fcce3e10-7041-43c1-a3ce-582e74656e4f/page-0012_012_1784132940881-293774.webp"
-      ]
-    },
-    "https://azorafly.com/series/is-it-bad-that-the-main-character's-a-roleplayer/chapter-14": {
-      "name": "14",
-      "images": [
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/e33286b8-04cd-4c61-8234-569a227f96c3/page-0001_001_1784127022568-893211.jpg",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/e33286b8-04cd-4c61-8234-569a227f96c3/page-0002_002_1784127022568-766978.jpg",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/e33286b8-04cd-4c61-8234-569a227f96c3/page-0003_003_1784127022568-633755.jpg",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/e33286b8-04cd-4c61-8234-569a227f96c3/page-0004_004_1784127022568-14796.jpg",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/e33286b8-04cd-4c61-8234-569a227f96c3/page-0005_005_1784127022568-427856.jpg",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/e33286b8-04cd-4c61-8234-569a227f96c3/page-0006_006_1784127022568-450559.jpg",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/e33286b8-04cd-4c61-8234-569a227f96c3/page-0007_007_1784127022568-690293.jpg",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/e33286b8-04cd-4c61-8234-569a227f96c3/page-0008_008_1784127022568-806414.jpg",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/e33286b8-04cd-4c61-8234-569a227f96c3/page-0009_009_1784127022579-366675.jpg",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/e33286b8-04cd-4c61-8234-569a227f96c3/page-0010_010_1784127022579-295772.jpg",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/e33286b8-04cd-4c61-8234-569a227f96c3/page-0011_011_1784127022579-80457.jpg",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/e33286b8-04cd-4c61-8234-569a227f96c3/page-0012_012_1784127022579-555257.jpg",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/e33286b8-04cd-4c61-8234-569a227f96c3/page-0013_013_1784127022579-666277.jpg"
-      ]
-    },
-    "https://azorafly.com/series/is-it-bad-that-the-main-character's-a-roleplayer/chapter-13": {
-      "name": "13",
-      "images": [
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/7f4857d1-438e-45c4-879c-c066cdb9301a/page-0001_01_1784126992661-327828.webp",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/7f4857d1-438e-45c4-879c-c066cdb9301a/page-0002_02_1784126992661-277953.webp",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/7f4857d1-438e-45c4-879c-c066cdb9301a/page-0003_03_1784126992661-755151.webp",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/7f4857d1-438e-45c4-879c-c066cdb9301a/page-0004_04_1784126992661-568242.webp",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/7f4857d1-438e-45c4-879c-c066cdb9301a/page-0005_05_1784126992661-392672.webp",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/7f4857d1-438e-45c4-879c-c066cdb9301a/page-0006_06_1784126992661-516765.webp",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/7f4857d1-438e-45c4-879c-c066cdb9301a/page-0007_07_1784126992661-927871.webp",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/7f4857d1-438e-45c4-879c-c066cdb9301a/page-0008_08_1784126992661-577408.webp",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/7f4857d1-438e-45c4-879c-c066cdb9301a/page-0009_09_1784126992662-883593.webp",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/7f4857d1-438e-45c4-879c-c066cdb9301a/page-0010_10_1784126992663-185035.webp",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/7f4857d1-438e-45c4-879c-c066cdb9301a/page-0011_11_1784126992663-46392.webp",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/7f4857d1-438e-45c4-879c-c066cdb9301a/page-0012_12_1784126992663-463035.webp"
-      ]
-    },
-    "https://azorafly.com/series/is-it-bad-that-the-main-character's-a-roleplayer/chapter-12": {
-      "name": "12",
-      "images": [
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/eb47e88f-8048-4519-90ca-74862baeec6a/page-0001_001_1784125613623-591883.webp",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/eb47e88f-8048-4519-90ca-74862baeec6a/page-0002_002_1784125613623-303894.webp",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/eb47e88f-8048-4519-90ca-74862baeec6a/page-0003_003_1784125613623-599046.webp",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/eb47e88f-8048-4519-90ca-74862baeec6a/page-0004_004_1784125613623-440556.webp",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/eb47e88f-8048-4519-90ca-74862baeec6a/page-0005_005_1784125613623-737338.webp",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/eb47e88f-8048-4519-90ca-74862baeec6a/page-0006_006_1784125613623-32572.webp",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/eb47e88f-8048-4519-90ca-74862baeec6a/page-0007_007_1784125613623-150416.webp",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/eb47e88f-8048-4519-90ca-74862baeec6a/page-0008_008_1784125613623-517010.webp",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/eb47e88f-8048-4519-90ca-74862baeec6a/page-0009_009_1784125613626-897452.webp",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/eb47e88f-8048-4519-90ca-74862baeec6a/page-0010_010_1784125613626-822458.webp",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/eb47e88f-8048-4519-90ca-74862baeec6a/page-0011_011_1784125613626-3126.webp"
-      ]
-    },
-    "https://azorafly.com/series/is-it-bad-that-the-main-character's-a-roleplayer/chapter-11": {
-      "name": "11",
-      "images": [
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/0a18fed7-8cf3-49cb-9146-8d983dba41d4/page-0001_001_1784125592907-306129.webp",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/0a18fed7-8cf3-49cb-9146-8d983dba41d4/page-0002_002_1784125592908-772026.webp",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/0a18fed7-8cf3-49cb-9146-8d983dba41d4/page-0003_003_1784125592908-870091.webp",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/0a18fed7-8cf3-49cb-9146-8d983dba41d4/page-0004_004_1784125592908-468812.webp",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/0a18fed7-8cf3-49cb-9146-8d983dba41d4/page-0005_005_1784125592908-589874.webp",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/0a18fed7-8cf3-49cb-9146-8d983dba41d4/page-0006_006_1784125592908-715422.webp",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/0a18fed7-8cf3-49cb-9146-8d983dba41d4/page-0007_007_1784125592908-450227.webp",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/0a18fed7-8cf3-49cb-9146-8d983dba41d4/page-0008_008_1784125592908-145759.webp",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/0a18fed7-8cf3-49cb-9146-8d983dba41d4/page-0009_009_1784125592910-555856.webp",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/0a18fed7-8cf3-49cb-9146-8d983dba41d4/page-0010_010_1784125592910-353721.webp",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/0a18fed7-8cf3-49cb-9146-8d983dba41d4/page-0011_011_1784125592910-420928.webp",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/0a18fed7-8cf3-49cb-9146-8d983dba41d4/page-0012_012_1784125592918-347702.webp"
-      ]
-    },
-    "https://azorafly.com/series/is-it-bad-that-the-main-character's-a-roleplayer/chapter-10": {
-      "name": "10",
-      "images": [
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/2c11c3e4-d3f0-4939-8188-31e3392aa16d/page-0001_01_1784135905809-719466.jpg",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/2c11c3e4-d3f0-4939-8188-31e3392aa16d/page-0002_02_1784135905809-198124.jpg",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/2c11c3e4-d3f0-4939-8188-31e3392aa16d/page-0003_03_1784135905809-247380.jpg",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/2c11c3e4-d3f0-4939-8188-31e3392aa16d/page-0004_04_1784135905809-356249.jpg",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/2c11c3e4-d3f0-4939-8188-31e3392aa16d/page-0005_05_1784135905809-121731.jpg",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/2c11c3e4-d3f0-4939-8188-31e3392aa16d/page-0006_06_1784135905809-425385.jpg",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/2c11c3e4-d3f0-4939-8188-31e3392aa16d/page-0007_07_1784135905809-847501.jpg",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/2c11c3e4-d3f0-4939-8188-31e3392aa16d/page-0008_08_1784135905809-707301.jpg",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/2c11c3e4-d3f0-4939-8188-31e3392aa16d/page-0009_09_1784135905812-559097.jpg",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/2c11c3e4-d3f0-4939-8188-31e3392aa16d/page-0010_10_1784135905812-579149.jpg"
-      ]
-    },
-    "https://azorafly.com/series/is-it-bad-that-the-main-character's-a-roleplayer/chapter-9": {
-      "name": "9",
-      "images": [
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/c3d78d09-7c4b-4142-95a8-3918e91b6020/page-0001_001_1784125170525-372910.webp",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/c3d78d09-7c4b-4142-95a8-3918e91b6020/page-0002_002_1784125170525-547606.webp",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/c3d78d09-7c4b-4142-95a8-3918e91b6020/page-0003_003_1784125170525-973193.webp",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/c3d78d09-7c4b-4142-95a8-3918e91b6020/page-0004_004_1784125170525-838167.webp",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/c3d78d09-7c4b-4142-95a8-3918e91b6020/page-0005_005_1784125170525-261586.webp",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/c3d78d09-7c4b-4142-95a8-3918e91b6020/page-0006_006_1784125170525-371892.jpg",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/c3d78d09-7c4b-4142-95a8-3918e91b6020/page-0007_007_1784125170525-189870.webp",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/c3d78d09-7c4b-4142-95a8-3918e91b6020/page-0008_008_1784125170525-978221.webp",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/c3d78d09-7c4b-4142-95a8-3918e91b6020/page-0009_009_1784125170556-37143.webp",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/c3d78d09-7c4b-4142-95a8-3918e91b6020/page-0010_010_1784125170556-102411.webp",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/c3d78d09-7c4b-4142-95a8-3918e91b6020/page-0011_011_1784125170556-957532.webp"
-      ]
-    },
-    "https://azorafly.com/series/is-it-bad-that-the-main-character's-a-roleplayer/chapter-8": {
-      "name": "8",
-      "images": [
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/eaef7864-1253-4f2f-bedd-ea25102e1a8b/page-0001_01_1784125145044-818476.webp",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/eaef7864-1253-4f2f-bedd-ea25102e1a8b/page-0002_02_1784125145044-41342.webp",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/eaef7864-1253-4f2f-bedd-ea25102e1a8b/page-0003_03_1784125145044-660484.webp",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/eaef7864-1253-4f2f-bedd-ea25102e1a8b/page-0004_04_1784125145044-56740.webp",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/eaef7864-1253-4f2f-bedd-ea25102e1a8b/page-0005_05_1784125145044-561055.webp",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/eaef7864-1253-4f2f-bedd-ea25102e1a8b/page-0006_06_1784125145044-646440.webp",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/eaef7864-1253-4f2f-bedd-ea25102e1a8b/page-0007_07_1784125145044-297408.webp",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/eaef7864-1253-4f2f-bedd-ea25102e1a8b/page-0008_08_1784125145045-725051.webp",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/eaef7864-1253-4f2f-bedd-ea25102e1a8b/page-0009_09_1784125145050-85521.webp",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/eaef7864-1253-4f2f-bedd-ea25102e1a8b/page-0010_10_1784125145050-565906.webp",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/eaef7864-1253-4f2f-bedd-ea25102e1a8b/page-0011_11_1784125145050-534562.webp",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/eaef7864-1253-4f2f-bedd-ea25102e1a8b/page-0012_12_1784125145050-729871.webp",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/eaef7864-1253-4f2f-bedd-ea25102e1a8b/page-0013_13_1784125145050-310078.webp",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/eaef7864-1253-4f2f-bedd-ea25102e1a8b/page-0014_14_1784125145050-845432.webp",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/eaef7864-1253-4f2f-bedd-ea25102e1a8b/page-0015_15_1784125145050-133683.webp",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/eaef7864-1253-4f2f-bedd-ea25102e1a8b/page-0016_16_1784125145050-958355.webp",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/eaef7864-1253-4f2f-bedd-ea25102e1a8b/page-0017_17_1784125145060-925496.webp",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/eaef7864-1253-4f2f-bedd-ea25102e1a8b/page-0018_18_1784125145060-89201.webp",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/eaef7864-1253-4f2f-bedd-ea25102e1a8b/page-0019_19_1784125145060-256065.webp",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/eaef7864-1253-4f2f-bedd-ea25102e1a8b/page-0020_20_1784125145060-498856.webp",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/eaef7864-1253-4f2f-bedd-ea25102e1a8b/page-0021_21_1784125145060-312496.webp",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/eaef7864-1253-4f2f-bedd-ea25102e1a8b/page-0022_22_1784125145060-955797.webp",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/eaef7864-1253-4f2f-bedd-ea25102e1a8b/page-0023_23_1784125145060-962278.webp",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/eaef7864-1253-4f2f-bedd-ea25102e1a8b/page-0024_24_1784125145060-595446.webp",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/eaef7864-1253-4f2f-bedd-ea25102e1a8b/page-0025_25_1784125145061-210133.webp",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/eaef7864-1253-4f2f-bedd-ea25102e1a8b/page-0026_26_1784125145061-842556.webp",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/eaef7864-1253-4f2f-bedd-ea25102e1a8b/page-0027_27_1784125145061-566714.webp",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/eaef7864-1253-4f2f-bedd-ea25102e1a8b/page-0028_28_1784125145061-627130.webp",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/eaef7864-1253-4f2f-bedd-ea25102e1a8b/page-0029_29_1784125145062-265649.webp",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/eaef7864-1253-4f2f-bedd-ea25102e1a8b/page-0030_30_1784125145062-359504.webp",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/eaef7864-1253-4f2f-bedd-ea25102e1a8b/page-0031_31_1784125145062-610647.webp",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/eaef7864-1253-4f2f-bedd-ea25102e1a8b/page-0032_32_1784125145062-408216.webp",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/eaef7864-1253-4f2f-bedd-ea25102e1a8b/page-0033_33_1784125145062-942713.webp",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/eaef7864-1253-4f2f-bedd-ea25102e1a8b/page-0034_34_1784125145062-96548.webp",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/eaef7864-1253-4f2f-bedd-ea25102e1a8b/page-0035_35_1784125145062-466925.webp",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/eaef7864-1253-4f2f-bedd-ea25102e1a8b/page-0036_36_1784125145062-304585.webp",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/eaef7864-1253-4f2f-bedd-ea25102e1a8b/page-0037_37_1784125145062-390204.webp",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/eaef7864-1253-4f2f-bedd-ea25102e1a8b/page-0038_38_1784125145062-390865.webp",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/eaef7864-1253-4f2f-bedd-ea25102e1a8b/page-0039_39_1784125145062-591784.webp",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/eaef7864-1253-4f2f-bedd-ea25102e1a8b/page-0040_40_1784125145063-546532.webp",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/eaef7864-1253-4f2f-bedd-ea25102e1a8b/page-0041_41_1784125145063-448507.webp",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/eaef7864-1253-4f2f-bedd-ea25102e1a8b/page-0042_42_1784125145063-118047.webp",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/eaef7864-1253-4f2f-bedd-ea25102e1a8b/page-0043_43_1784125145063-430930.webp",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/eaef7864-1253-4f2f-bedd-ea25102e1a8b/page-0044_44_1784125145063-859423.webp",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/eaef7864-1253-4f2f-bedd-ea25102e1a8b/page-0045_45_1784125145063-763380.webp",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/eaef7864-1253-4f2f-bedd-ea25102e1a8b/page-0046_46_1784125145064-129127.webp",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/eaef7864-1253-4f2f-bedd-ea25102e1a8b/page-0047_47_1784125145064-841121.webp",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/eaef7864-1253-4f2f-bedd-ea25102e1a8b/page-0048_48_1784125145064-420442.webp",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/eaef7864-1253-4f2f-bedd-ea25102e1a8b/page-0049_49_1784125145064-894613.webp",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/eaef7864-1253-4f2f-bedd-ea25102e1a8b/page-0050_50_1784125145064-915515.webp",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/eaef7864-1253-4f2f-bedd-ea25102e1a8b/page-0051_51_1784125145064-257705.webp",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/eaef7864-1253-4f2f-bedd-ea25102e1a8b/page-0052_52_1784125145064-755768.webp",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/eaef7864-1253-4f2f-bedd-ea25102e1a8b/page-0053_53_1784125145064-945692.webp",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/eaef7864-1253-4f2f-bedd-ea25102e1a8b/page-0054_54_1784125145065-86019.webp",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/eaef7864-1253-4f2f-bedd-ea25102e1a8b/page-0055_55_1784125145065-617623.webp",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/eaef7864-1253-4f2f-bedd-ea25102e1a8b/page-0056_56_1784125145065-234062.webp",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/eaef7864-1253-4f2f-bedd-ea25102e1a8b/page-0057_57_1784125145065-797965.webp",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/eaef7864-1253-4f2f-bedd-ea25102e1a8b/page-0058_58_1784125145065-404996.webp",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/eaef7864-1253-4f2f-bedd-ea25102e1a8b/page-0059_59_1784125145065-868736.webp",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/eaef7864-1253-4f2f-bedd-ea25102e1a8b/page-0060_60_1784125145065-561517.webp",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/eaef7864-1253-4f2f-bedd-ea25102e1a8b/page-0061_61_1784125145065-255917.webp",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/eaef7864-1253-4f2f-bedd-ea25102e1a8b/page-0062_62_1784125145066-892299.webp",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/eaef7864-1253-4f2f-bedd-ea25102e1a8b/page-0063_63_1784125145066-268280.webp",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/eaef7864-1253-4f2f-bedd-ea25102e1a8b/page-0064_64_1784125145066-551526.webp",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/eaef7864-1253-4f2f-bedd-ea25102e1a8b/page-0065_65_1784125145066-706318.webp",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/eaef7864-1253-4f2f-bedd-ea25102e1a8b/page-0066_66_1784125145066-76656.webp",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/eaef7864-1253-4f2f-bedd-ea25102e1a8b/page-0067_67_1784125145066-691676.webp",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/eaef7864-1253-4f2f-bedd-ea25102e1a8b/page-0068_68_1784125145066-502921.webp",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/eaef7864-1253-4f2f-bedd-ea25102e1a8b/page-0069_69_1784125145066-824100.webp",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/eaef7864-1253-4f2f-bedd-ea25102e1a8b/page-0070_70_1784125145066-8162.webp",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/eaef7864-1253-4f2f-bedd-ea25102e1a8b/page-0071_71_1784125145066-290772.webp",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/eaef7864-1253-4f2f-bedd-ea25102e1a8b/page-0072_72_1784125145066-499787.webp",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/eaef7864-1253-4f2f-bedd-ea25102e1a8b/page-0073_73_1784125145066-417106.webp",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/eaef7864-1253-4f2f-bedd-ea25102e1a8b/page-0074_74_1784125145070-306362.webp",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/eaef7864-1253-4f2f-bedd-ea25102e1a8b/page-0075_75_1784125145070-70404.webp",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/eaef7864-1253-4f2f-bedd-ea25102e1a8b/page-0076_76_1784125145070-377206.webp",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/eaef7864-1253-4f2f-bedd-ea25102e1a8b/page-0077_77_1784125145070-112898.webp",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/eaef7864-1253-4f2f-bedd-ea25102e1a8b/page-0078_78_1784125145070-218408.webp"
-      ]
-    },
-    "https://azorafly.com/series/is-it-bad-that-the-main-character's-a-roleplayer/chapter-7": {
-      "name": "7",
-      "images": [
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/e560e196-7a20-47e2-bda4-9fc64f942f68/page-0001_001_1784405654360-11865.jpg",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/e560e196-7a20-47e2-bda4-9fc64f942f68/page-0002_002_1784405654360-791747.jpg",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/e560e196-7a20-47e2-bda4-9fc64f942f68/page-0003_003_1784405654361-925080.jpg",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/e560e196-7a20-47e2-bda4-9fc64f942f68/page-0004_004_1784405654361-197630.jpg",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/e560e196-7a20-47e2-bda4-9fc64f942f68/page-0005_005_1784405654361-790361.jpg",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/e560e196-7a20-47e2-bda4-9fc64f942f68/page-0006_006_1784405654361-694250.jpg",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/e560e196-7a20-47e2-bda4-9fc64f942f68/page-0007_007_1784405654361-558557.jpg",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/e560e196-7a20-47e2-bda4-9fc64f942f68/page-0008_008_1784405654361-394436.jpg",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/e560e196-7a20-47e2-bda4-9fc64f942f68/page-0009_009_1784405654364-511725.jpg",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/e560e196-7a20-47e2-bda4-9fc64f942f68/page-0010_010_1784405654370-582360.jpg"
-      ]
-    },
-    "https://azorafly.com/series/is-it-bad-that-the-main-character's-a-roleplayer/chapter-6": {
-      "name": "6",
-      "images": [
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/49db1b0f-b1a9-4bfb-8dc7-8fd29d70ce2a/page-0001_001_1784087885199-494491.jpg",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/49db1b0f-b1a9-4bfb-8dc7-8fd29d70ce2a/page-0002_002_1784087885199-985272.jpg",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/49db1b0f-b1a9-4bfb-8dc7-8fd29d70ce2a/page-0003_003_1784087885200-541168.jpg",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/49db1b0f-b1a9-4bfb-8dc7-8fd29d70ce2a/page-0004_004_1784087885200-950947.jpg",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/49db1b0f-b1a9-4bfb-8dc7-8fd29d70ce2a/page-0005_005_1784087885200-594824.jpg",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/49db1b0f-b1a9-4bfb-8dc7-8fd29d70ce2a/page-0006_006_1784087885200-819145.jpg",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/49db1b0f-b1a9-4bfb-8dc7-8fd29d70ce2a/page-0007_007_1784087885200-309804.jpg",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/49db1b0f-b1a9-4bfb-8dc7-8fd29d70ce2a/page-0008_008_1784087885200-79817.jpg",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/49db1b0f-b1a9-4bfb-8dc7-8fd29d70ce2a/page-0009_009_1784087885203-698348.jpg",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/49db1b0f-b1a9-4bfb-8dc7-8fd29d70ce2a/page-0010_010_1784087885203-178385.jpg",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/49db1b0f-b1a9-4bfb-8dc7-8fd29d70ce2a/page-0011_011_1784087885203-467912.jpg"
-      ]
-    },
-    "https://azorafly.com/series/is-it-bad-that-the-main-character's-a-roleplayer/chapter-5": {
-      "name": "5",
-      "images": [
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/fb7f2cd0-c26f-4ccc-b6e2-147d76630386/page-0001_01_1784087643644-112992.webp",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/fb7f2cd0-c26f-4ccc-b6e2-147d76630386/page-0002_02_1784087643644-537989.webp",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/fb7f2cd0-c26f-4ccc-b6e2-147d76630386/page-0003_03_1784087643644-431517.webp",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/fb7f2cd0-c26f-4ccc-b6e2-147d76630386/page-0004_04_1784087643644-774105.webp",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/fb7f2cd0-c26f-4ccc-b6e2-147d76630386/page-0005_05_1784087643644-649748.webp",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/fb7f2cd0-c26f-4ccc-b6e2-147d76630386/page-0006_06_1784087643644-223938.webp",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/fb7f2cd0-c26f-4ccc-b6e2-147d76630386/page-0007_07_1784087643644-536204.webp",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/fb7f2cd0-c26f-4ccc-b6e2-147d76630386/page-0008_08_1784087643644-306485.webp",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/fb7f2cd0-c26f-4ccc-b6e2-147d76630386/page-0009_09_1784087643644-116781.webp",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/fb7f2cd0-c26f-4ccc-b6e2-147d76630386/page-0010_10_1784087643644-391956.webp",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/fb7f2cd0-c26f-4ccc-b6e2-147d76630386/page-0011_11_1784087643644-186130.webp",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/fb7f2cd0-c26f-4ccc-b6e2-147d76630386/page-0012_12_1784087643644-914757.webp",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/fb7f2cd0-c26f-4ccc-b6e2-147d76630386/page-0013_13_1784087643645-301968.webp",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/fb7f2cd0-c26f-4ccc-b6e2-147d76630386/page-0014_14_1784087643645-807052.webp",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/fb7f2cd0-c26f-4ccc-b6e2-147d76630386/page-0015_15_1784087643645-185799.webp",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/fb7f2cd0-c26f-4ccc-b6e2-147d76630386/page-0016_16_1784087643645-504928.webp",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/fb7f2cd0-c26f-4ccc-b6e2-147d76630386/page-0017_17_1784087643645-474295.webp",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/fb7f2cd0-c26f-4ccc-b6e2-147d76630386/page-0018_18_1784087643645-39397.webp",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/fb7f2cd0-c26f-4ccc-b6e2-147d76630386/page-0019_19_1784087643645-816089.webp",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/fb7f2cd0-c26f-4ccc-b6e2-147d76630386/page-0020_20_1784087643645-666957.webp",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/fb7f2cd0-c26f-4ccc-b6e2-147d76630386/page-0021_21_1784087643645-540289.webp",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/fb7f2cd0-c26f-4ccc-b6e2-147d76630386/page-0022_22_1784087643646-150875.webp",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/fb7f2cd0-c26f-4ccc-b6e2-147d76630386/page-0023_23_1784087643646-931472.webp",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/fb7f2cd0-c26f-4ccc-b6e2-147d76630386/page-0024_24_1784087643646-829344.webp",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/fb7f2cd0-c26f-4ccc-b6e2-147d76630386/page-0025_25_1784087643646-20609.webp",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/fb7f2cd0-c26f-4ccc-b6e2-147d76630386/page-0026_26_1784087643646-522719.webp",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/fb7f2cd0-c26f-4ccc-b6e2-147d76630386/page-0027_27_1784087643646-104012.webp",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/fb7f2cd0-c26f-4ccc-b6e2-147d76630386/page-0028_28_1784087643646-564409.webp",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/fb7f2cd0-c26f-4ccc-b6e2-147d76630386/page-0029_29_1784087643646-897938.webp",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/fb7f2cd0-c26f-4ccc-b6e2-147d76630386/page-0030_30_1784087643646-6335.webp",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/fb7f2cd0-c26f-4ccc-b6e2-147d76630386/page-0031_31_1784087643646-304330.webp",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/fb7f2cd0-c26f-4ccc-b6e2-147d76630386/page-0032_32_1784087643646-160210.webp",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/fb7f2cd0-c26f-4ccc-b6e2-147d76630386/page-0033_33_1784087643646-741918.webp",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/fb7f2cd0-c26f-4ccc-b6e2-147d76630386/page-0034_34_1784087643646-837159.webp",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/fb7f2cd0-c26f-4ccc-b6e2-147d76630386/page-0035_35_1784087643646-768996.webp",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/fb7f2cd0-c26f-4ccc-b6e2-147d76630386/page-0036_36_1784087643646-340054.webp",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/fb7f2cd0-c26f-4ccc-b6e2-147d76630386/page-0037_37_1784087643646-566619.webp",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/fb7f2cd0-c26f-4ccc-b6e2-147d76630386/page-0038_38_1784087643646-380040.webp",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/fb7f2cd0-c26f-4ccc-b6e2-147d76630386/page-0039_39_1784087643647-773983.webp",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/fb7f2cd0-c26f-4ccc-b6e2-147d76630386/page-0040_40_1784087643647-215251.webp",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/fb7f2cd0-c26f-4ccc-b6e2-147d76630386/page-0041_41_1784087643647-921547.webp",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/fb7f2cd0-c26f-4ccc-b6e2-147d76630386/page-0042_42_1784087643647-645646.webp",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/fb7f2cd0-c26f-4ccc-b6e2-147d76630386/page-0043_43_1784087643647-313168.webp",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/fb7f2cd0-c26f-4ccc-b6e2-147d76630386/page-0044_44_1784087643647-742950.webp",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/fb7f2cd0-c26f-4ccc-b6e2-147d76630386/page-0045_45_1784087643647-387058.webp",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/fb7f2cd0-c26f-4ccc-b6e2-147d76630386/page-0046_46_1784087643647-974291.webp",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/fb7f2cd0-c26f-4ccc-b6e2-147d76630386/page-0047_47_1784087643647-30610.webp",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/fb7f2cd0-c26f-4ccc-b6e2-147d76630386/page-0048_48_1784087643647-263543.webp",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/fb7f2cd0-c26f-4ccc-b6e2-147d76630386/page-0049_49_1784087643647-668827.webp",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/fb7f2cd0-c26f-4ccc-b6e2-147d76630386/page-0050_50_1784087643647-388072.webp",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/fb7f2cd0-c26f-4ccc-b6e2-147d76630386/page-0051_51_1784087643648-840275.webp",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/fb7f2cd0-c26f-4ccc-b6e2-147d76630386/page-0052_52_1784087643648-230025.webp",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/fb7f2cd0-c26f-4ccc-b6e2-147d76630386/page-0053_53_1784087643648-675995.webp",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/fb7f2cd0-c26f-4ccc-b6e2-147d76630386/page-0054_54_1784087643648-755459.webp",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/fb7f2cd0-c26f-4ccc-b6e2-147d76630386/page-0055_55_1784087643648-806219.webp",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/fb7f2cd0-c26f-4ccc-b6e2-147d76630386/page-0056_56_1784087643648-597780.webp",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/fb7f2cd0-c26f-4ccc-b6e2-147d76630386/page-0057_57_1784087643648-346988.webp",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/fb7f2cd0-c26f-4ccc-b6e2-147d76630386/page-0058_58_1784087643648-675645.webp",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/fb7f2cd0-c26f-4ccc-b6e2-147d76630386/page-0059_59_1784087643648-800002.webp",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/fb7f2cd0-c26f-4ccc-b6e2-147d76630386/page-0060_60_1784087643648-790518.webp",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/fb7f2cd0-c26f-4ccc-b6e2-147d76630386/page-0061_61_1784087643648-837011.webp",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/fb7f2cd0-c26f-4ccc-b6e2-147d76630386/page-0062_62_1784087643649-740863.webp",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/fb7f2cd0-c26f-4ccc-b6e2-147d76630386/page-0063_63_1784087643649-485203.webp",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/fb7f2cd0-c26f-4ccc-b6e2-147d76630386/page-0064_64_1784087643649-459902.webp",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/fb7f2cd0-c26f-4ccc-b6e2-147d76630386/page-0065_65_1784087643649-556780.webp",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/fb7f2cd0-c26f-4ccc-b6e2-147d76630386/page-0066_66_1784087643649-479260.webp",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/fb7f2cd0-c26f-4ccc-b6e2-147d76630386/page-0067_67_1784087643649-822759.webp",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/fb7f2cd0-c26f-4ccc-b6e2-147d76630386/page-0068_68_1784087643649-650045.webp",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/fb7f2cd0-c26f-4ccc-b6e2-147d76630386/page-0069_69_1784087643649-932572.webp",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/fb7f2cd0-c26f-4ccc-b6e2-147d76630386/page-0070_70_1784087643650-898588.webp",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/fb7f2cd0-c26f-4ccc-b6e2-147d76630386/page-0071_71_1784087643650-808207.webp",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/fb7f2cd0-c26f-4ccc-b6e2-147d76630386/page-0072_72_1784087643650-249443.webp",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/fb7f2cd0-c26f-4ccc-b6e2-147d76630386/page-0073_73_1784087643650-766483.webp"
-      ]
-    },
-    "https://azorafly.com/series/is-it-bad-that-the-main-character's-a-roleplayer/chapter-4": {
-      "name": "4",
-      "images": [
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/eb4c3e7f-8c9e-45bd-9e7e-f2f0734b2a55/page-0001_001-1_1784087621486-201055.jpg",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/eb4c3e7f-8c9e-45bd-9e7e-f2f0734b2a55/page-0002_002-1_1784087621486-604353.jpg",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/eb4c3e7f-8c9e-45bd-9e7e-f2f0734b2a55/page-0003_003-1_1784087621486-271597.jpg",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/eb4c3e7f-8c9e-45bd-9e7e-f2f0734b2a55/page-0004_004-1_1784087621486-451478.jpg",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/eb4c3e7f-8c9e-45bd-9e7e-f2f0734b2a55/page-0005_005-1_1784087621486-318482.jpg",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/eb4c3e7f-8c9e-45bd-9e7e-f2f0734b2a55/page-0006_006-1_1784087621486-348561.jpg",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/eb4c3e7f-8c9e-45bd-9e7e-f2f0734b2a55/page-0007_007-1_1784087621486-402008.jpg",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/eb4c3e7f-8c9e-45bd-9e7e-f2f0734b2a55/page-0008_008-1_1784087621486-308760.jpg",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/eb4c3e7f-8c9e-45bd-9e7e-f2f0734b2a55/page-0009_009-1_1784087621489-91672.jpg",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/eb4c3e7f-8c9e-45bd-9e7e-f2f0734b2a55/page-0010_010-1_1784087621489-432309.jpg",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/eb4c3e7f-8c9e-45bd-9e7e-f2f0734b2a55/page-0011_011-1_1784087621489-868978.jpg"
-      ]
-    },
-    "https://azorafly.com/series/is-it-bad-that-the-main-character's-a-roleplayer/chapter-3": {
-      "name": "3",
-      "images": [
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/4b8938ea-9e26-45ec-8eb5-56ad283fafe2/page-0001_01_1784407833347-261506.webp",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/4b8938ea-9e26-45ec-8eb5-56ad283fafe2/page-0002_02_1784407833347-392074.webp",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/4b8938ea-9e26-45ec-8eb5-56ad283fafe2/page-0003_03_1784407833347-845150.webp",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/4b8938ea-9e26-45ec-8eb5-56ad283fafe2/page-0004_04_1784407833347-49779.webp",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/4b8938ea-9e26-45ec-8eb5-56ad283fafe2/page-0005_05_1784407833347-460376.webp",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/4b8938ea-9e26-45ec-8eb5-56ad283fafe2/page-0006_06_1784407833347-888295.webp",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/4b8938ea-9e26-45ec-8eb5-56ad283fafe2/page-0007_07_1784407833347-721307.webp",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/4b8938ea-9e26-45ec-8eb5-56ad283fafe2/page-0008_08_1784407833347-868624.webp",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/4b8938ea-9e26-45ec-8eb5-56ad283fafe2/page-0009_09_1784407833352-760962.webp",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/4b8938ea-9e26-45ec-8eb5-56ad283fafe2/page-0010_10_1784407833352-143084.webp",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/4b8938ea-9e26-45ec-8eb5-56ad283fafe2/page-0011_11_1784407833352-353332.webp",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/4b8938ea-9e26-45ec-8eb5-56ad283fafe2/page-0012_12_1784407833352-729685.webp",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/4b8938ea-9e26-45ec-8eb5-56ad283fafe2/page-0013_13_1784407833353-840730.webp"
-      ]
-    },
-    "https://azorafly.com/series/is-it-bad-that-the-main-character's-a-roleplayer/chapter-2": {
-      "name": "2",
-      "images": [
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/1c1f3077-8832-4e1f-a275-b11c5f79866f/page-0001_01_1784087613094-368314.webp",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/1c1f3077-8832-4e1f-a275-b11c5f79866f/page-0002_02_1784087613094-307999.webp",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/1c1f3077-8832-4e1f-a275-b11c5f79866f/page-0003_03_1784087613094-380572.webp",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/1c1f3077-8832-4e1f-a275-b11c5f79866f/page-0004_04_1784087613094-921644.webp",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/1c1f3077-8832-4e1f-a275-b11c5f79866f/page-0005_05_1784087613094-796455.webp",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/1c1f3077-8832-4e1f-a275-b11c5f79866f/page-0006_06_1784087613094-192402.webp",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/1c1f3077-8832-4e1f-a275-b11c5f79866f/page-0007_07_1784087613094-215713.webp",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/1c1f3077-8832-4e1f-a275-b11c5f79866f/page-0008_08_1784087613094-940701.webp",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/1c1f3077-8832-4e1f-a275-b11c5f79866f/page-0009_09_1784087613094-107978.webp",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/1c1f3077-8832-4e1f-a275-b11c5f79866f/page-0010_10_1784087613094-804929.webp",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/1c1f3077-8832-4e1f-a275-b11c5f79866f/page-0011_11_1784087613094-193348.webp",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/1c1f3077-8832-4e1f-a275-b11c5f79866f/page-0012_12_1784087613094-496080.webp",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/1c1f3077-8832-4e1f-a275-b11c5f79866f/page-0013_13_1784087613094-291141.webp",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/1c1f3077-8832-4e1f-a275-b11c5f79866f/page-0014_14_1784087613095-461697.webp",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/1c1f3077-8832-4e1f-a275-b11c5f79866f/page-0015_15_1784087613095-376549.webp",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/1c1f3077-8832-4e1f-a275-b11c5f79866f/page-0016_16_1784087613132-197168.webp",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/1c1f3077-8832-4e1f-a275-b11c5f79866f/page-0017_17_1784087613132-372925.webp",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/1c1f3077-8832-4e1f-a275-b11c5f79866f/page-0018_18_1784087613132-184378.webp",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/1c1f3077-8832-4e1f-a275-b11c5f79866f/page-0019_19_1784087613132-157058.webp",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/1c1f3077-8832-4e1f-a275-b11c5f79866f/page-0020_20_1784087613132-485452.webp",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/1c1f3077-8832-4e1f-a275-b11c5f79866f/page-0021_21_1784087613132-254982.webp",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/1c1f3077-8832-4e1f-a275-b11c5f79866f/page-0022_22_1784087613132-440780.webp",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/1c1f3077-8832-4e1f-a275-b11c5f79866f/page-0023_23_1784087613132-28890.webp",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/1c1f3077-8832-4e1f-a275-b11c5f79866f/page-0024_24_1784087613133-263292.webp",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/1c1f3077-8832-4e1f-a275-b11c5f79866f/page-0025_25_1784087613133-332677.webp",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/1c1f3077-8832-4e1f-a275-b11c5f79866f/page-0026_26_1784087613133-785246.webp",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/1c1f3077-8832-4e1f-a275-b11c5f79866f/page-0027_27_1784087613133-963047.webp",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/1c1f3077-8832-4e1f-a275-b11c5f79866f/page-0028_28_1784087613133-885548.webp",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/1c1f3077-8832-4e1f-a275-b11c5f79866f/page-0029_29_1784087613133-326900.webp",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/1c1f3077-8832-4e1f-a275-b11c5f79866f/page-0030_30_1784087613133-335910.webp",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/1c1f3077-8832-4e1f-a275-b11c5f79866f/page-0031_31_1784087613133-109063.webp",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/1c1f3077-8832-4e1f-a275-b11c5f79866f/page-0032_32_1784087613133-629642.webp",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/1c1f3077-8832-4e1f-a275-b11c5f79866f/page-0033_33_1784087613133-939615.webp",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/1c1f3077-8832-4e1f-a275-b11c5f79866f/page-0034_34_1784087613133-425341.webp",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/1c1f3077-8832-4e1f-a275-b11c5f79866f/page-0035_35_1784087613133-243609.webp",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/1c1f3077-8832-4e1f-a275-b11c5f79866f/page-0036_36_1784087613133-571910.webp",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/1c1f3077-8832-4e1f-a275-b11c5f79866f/page-0037_37_1784087613133-409164.webp",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/1c1f3077-8832-4e1f-a275-b11c5f79866f/page-0038_38_1784087613133-514183.webp",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/1c1f3077-8832-4e1f-a275-b11c5f79866f/page-0039_39_1784087613133-402799.webp",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/1c1f3077-8832-4e1f-a275-b11c5f79866f/page-0040_40_1784087613133-155019.webp",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/1c1f3077-8832-4e1f-a275-b11c5f79866f/page-0041_41_1784087613133-65302.webp",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/1c1f3077-8832-4e1f-a275-b11c5f79866f/page-0042_42_1784087613133-782086.webp",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/1c1f3077-8832-4e1f-a275-b11c5f79866f/page-0043_43_1784087613133-226724.webp",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/1c1f3077-8832-4e1f-a275-b11c5f79866f/page-0044_44_1784087613133-295208.webp",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/1c1f3077-8832-4e1f-a275-b11c5f79866f/page-0045_45_1784087613134-162822.webp",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/1c1f3077-8832-4e1f-a275-b11c5f79866f/page-0046_46_1784087613134-536882.webp",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/1c1f3077-8832-4e1f-a275-b11c5f79866f/page-0047_47_1784087613134-391603.webp",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/1c1f3077-8832-4e1f-a275-b11c5f79866f/page-0048_48_1784087613134-730137.webp",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/1c1f3077-8832-4e1f-a275-b11c5f79866f/page-0049_49_1784087613134-687501.webp",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/1c1f3077-8832-4e1f-a275-b11c5f79866f/page-0050_50_1784087613134-424368.webp",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/1c1f3077-8832-4e1f-a275-b11c5f79866f/page-0051_51_1784087613134-471155.webp",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/1c1f3077-8832-4e1f-a275-b11c5f79866f/page-0052_52_1784087613134-373998.webp",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/1c1f3077-8832-4e1f-a275-b11c5f79866f/page-0053_53_1784087613134-734758.webp",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/1c1f3077-8832-4e1f-a275-b11c5f79866f/page-0054_54_1784087613134-262966.webp",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/1c1f3077-8832-4e1f-a275-b11c5f79866f/page-0055_55_1784087613134-644484.webp",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/1c1f3077-8832-4e1f-a275-b11c5f79866f/page-0056_56_1784087613134-14016.webp",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/1c1f3077-8832-4e1f-a275-b11c5f79866f/page-0057_57_1784087613134-195317.webp",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/1c1f3077-8832-4e1f-a275-b11c5f79866f/page-0058_58_1784087613134-70179.webp",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/1c1f3077-8832-4e1f-a275-b11c5f79866f/page-0059_59_1784087613134-766008.webp",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/1c1f3077-8832-4e1f-a275-b11c5f79866f/page-0060_60_1784087613134-417336.webp",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/1c1f3077-8832-4e1f-a275-b11c5f79866f/page-0061_61_1784087613134-725241.webp",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/1c1f3077-8832-4e1f-a275-b11c5f79866f/page-0062_62_1784087613134-771921.webp",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/1c1f3077-8832-4e1f-a275-b11c5f79866f/page-0063_63_1784087613134-845210.webp",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/1c1f3077-8832-4e1f-a275-b11c5f79866f/page-0064_64_1784087613134-718949.webp",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/1c1f3077-8832-4e1f-a275-b11c5f79866f/page-0065_65_1784087613135-20262.webp",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/1c1f3077-8832-4e1f-a275-b11c5f79866f/page-0066_66_1784087613135-467817.webp",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/1c1f3077-8832-4e1f-a275-b11c5f79866f/page-0067_67_1784087613135-931088.webp",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/1c1f3077-8832-4e1f-a275-b11c5f79866f/page-0068_68_1784087613135-490278.webp",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/1c1f3077-8832-4e1f-a275-b11c5f79866f/page-0069_69_1784087613135-506088.webp",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/1c1f3077-8832-4e1f-a275-b11c5f79866f/page-0070_70_1784087613135-218329.webp",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/1c1f3077-8832-4e1f-a275-b11c5f79866f/page-0071_71_1784087613136-600036.webp",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/1c1f3077-8832-4e1f-a275-b11c5f79866f/page-0072_72_1784087613136-10841.webp",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/1c1f3077-8832-4e1f-a275-b11c5f79866f/page-0073_73_1784087613136-366455.webp",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/1c1f3077-8832-4e1f-a275-b11c5f79866f/page-0074_74_1784087613136-851308.webp",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/1c1f3077-8832-4e1f-a275-b11c5f79866f/page-0075_75_1784087613136-413049.webp",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/1c1f3077-8832-4e1f-a275-b11c5f79866f/page-0076_76_1784087613136-408900.webp",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/1c1f3077-8832-4e1f-a275-b11c5f79866f/page-0077_77_1784087613136-363627.webp",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/1c1f3077-8832-4e1f-a275-b11c5f79866f/page-0078_78_1784087613136-174016.webp",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/1c1f3077-8832-4e1f-a275-b11c5f79866f/page-0079_79_1784087613137-734702.webp",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/1c1f3077-8832-4e1f-a275-b11c5f79866f/page-0080_80_1784087613137-581353.webp",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/1c1f3077-8832-4e1f-a275-b11c5f79866f/page-0081_81_1784087613137-557194.webp",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/1c1f3077-8832-4e1f-a275-b11c5f79866f/page-0082_82_1784087613137-634690.webp",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/1c1f3077-8832-4e1f-a275-b11c5f79866f/page-0083_83_1784087613137-751807.webp",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/1c1f3077-8832-4e1f-a275-b11c5f79866f/page-0084_84_1784087613137-712067.webp",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/1c1f3077-8832-4e1f-a275-b11c5f79866f/page-0085_85_1784087613137-757691.webp",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/1c1f3077-8832-4e1f-a275-b11c5f79866f/page-0086_86_1784087613137-715681.webp",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/1c1f3077-8832-4e1f-a275-b11c5f79866f/page-0087_87_1784087613137-894265.webp",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/1c1f3077-8832-4e1f-a275-b11c5f79866f/page-0088_88_1784087613137-910178.webp",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/1c1f3077-8832-4e1f-a275-b11c5f79866f/page-0089_89_1784087613137-533690.webp",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/1c1f3077-8832-4e1f-a275-b11c5f79866f/page-0090_90_1784087613137-650885.webp",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/1c1f3077-8832-4e1f-a275-b11c5f79866f/page-0091_91_1784087613137-679593.webp",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/1c1f3077-8832-4e1f-a275-b11c5f79866f/page-0092_92_1784087613137-851263.webp",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/1c1f3077-8832-4e1f-a275-b11c5f79866f/page-0093_93_1784087613137-812112.webp",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/1c1f3077-8832-4e1f-a275-b11c5f79866f/page-0094_94_1784087613138-357682.webp",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/1c1f3077-8832-4e1f-a275-b11c5f79866f/page-0095_95_1784087613138-96222.webp",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/1c1f3077-8832-4e1f-a275-b11c5f79866f/page-0096_96_1784087613138-96265.webp",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/1c1f3077-8832-4e1f-a275-b11c5f79866f/page-0097_97_1784087613138-426561.webp",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/1c1f3077-8832-4e1f-a275-b11c5f79866f/page-0098_98_1784087613138-648817.webp",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/1c1f3077-8832-4e1f-a275-b11c5f79866f/page-0099_99_1784087613138-705544.webp",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/1c1f3077-8832-4e1f-a275-b11c5f79866f/page-0100_100_1784087613138-387682.webp",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/1c1f3077-8832-4e1f-a275-b11c5f79866f/page-0101_101_1784087613138-733880.webp",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/1c1f3077-8832-4e1f-a275-b11c5f79866f/page-0102_102_1784087613138-253229.webp",
-        "https://storage.azorafly.com/upload/series/is-it-bad-that-the-main-characters-a-roleplayer/1c1f3077-8832-4e1f-a275-b11c5f79866f/page-0103_103_1784087613138-852583.webp"
-      ]
-    }
-  },
   "title": "Is It Bad That the Main Character’s a Roleplayer?",
   "cover_url": "https://storage.azorafly.com/upload/series/featured/6cac1de1-87ae-4a81-9cd1-2abe99fd84d7/18e900ac-2a87-4457-a930-57c5f3edf42e.jpg",
   "description": "أنا لاعب أدوار. لاعبٌ أُنشئ شخصياتٍ وفقًا لفئاتها وأتقمّصها بكل سرور.",
   "type": "مانهوا",
   "status": "مستمر",
-  "last_update": "منذ ساعتين تقريبا",
-  "favorites": "",
+  "last_update": "Viewاقرأ الفصل 1إضافة للمفضلةالإبلاغ عن مشكلة10التقييمات343المفضلةالحالةONGOINGالنوعمانهواالفصول32آخر تحديثمنذ ساعتين تقريبا주인공이 컨셉충이면 곤란한가요 \n주인공이 컨셉충이면 곤란한가요 \nIs It Bad That the Main Character’s a Roleplayer? الفصول ( 32 )  الملخص التقييمات ( 5 ) اجعل الكل مقروءاًوضع علامة 'مقروء' على جميع الفصولالفصل 32جديد5000الفصل 31جديد5001الفصل 3014 يوم5001الفصل 2921 يوم5000الفصل 2828 يوم5000الفصل 27جديد11الفصل 26جديد22الفصل 2514 يوم42الفصل 2421 يوم23الفصل 2328 يوم23الفصل 22شهر واحد تقريباً16الفصل 21شهرين تقريبا38الفصل 20شهرين تقريبا26الفصل 19شهرين تقريبا68الفصل 18شهران416الفصل 17شهران413الفصل 16شهران511الفصل 15شهران812الفصل 14شهران514الفصل 13شهران215عرض المزيد الملخص أنا لاعب أدوار. لاعبٌ أُنشئ شخصياتٍ وفقًا لفئاتها وأتقمّصها بكل سرور.\"لا... تلمسني...\"\"تكلم أكثر، وانظر إن كنت تستطيع تحمّل غضبي...\"كانت شخصيتي الحالية فارس شيطانٍ يخفي شيطانًا محبوسًا في ذراعه اليمنى! في أحد الأيام، بينما كنت أتقمّص شخصيتي وأستمتع باللعبة كالمعتاد...\"تسجيل الخروج.\"[لا...عرض المزيداكشنخيالدراماالفرقBlackLotusشارك Azora Mangaمع أصدقائكشاركانضم لمجتمعناDiscord0اعجبني0أحببته0اضحكني0واو0احزنني0اغضبنيالنقاش0أعمال مشابهةIsn’t Being A Wicked Woman Much Better?★9.8108 فصلA Saint who was Adopted by the Grand Duke★10.0101 فصلFor the Beautiful Juliet★9.596 فصلThe Price Is Your Everything★9.3126 فصلLooking For The Villainess’s Contract Husband★10.031 فصل",
   "rating": "",
   "genres": [],
-  "is_novel": false
+  "is_novel": false,
+  "chapters": {
+    "https://azorafly.com/series/is-it-bad-that-the-main-character's-a-roleplayer/chapter-1": {
+      "name": "1"
+    },
+    "https://azorafly.com/series/is-it-bad-that-the-main-character's-a-roleplayer/chapter-32": {
+      "name": "32"
+    },
+    "https://azorafly.com/series/is-it-bad-that-the-main-character's-a-roleplayer/chapter-31": {
+      "name": "31"
+    },
+    "https://azorafly.com/series/is-it-bad-that-the-main-character's-a-roleplayer/chapter-30": {
+      "name": "30"
+    },
+    "https://azorafly.com/series/is-it-bad-that-the-main-character's-a-roleplayer/chapter-29": {
+      "name": "29"
+    },
+    "https://azorafly.com/series/is-it-bad-that-the-main-character's-a-roleplayer/chapter-28": {
+      "name": "28"
+    },
+    "https://azorafly.com/series/is-it-bad-that-the-main-character's-a-roleplayer/chapter-27": {
+      "name": "27"
+    },
+    "https://azorafly.com/series/is-it-bad-that-the-main-character's-a-roleplayer/chapter-26": {
+      "name": "26"
+    },
+    "https://azorafly.com/series/is-it-bad-that-the-main-character's-a-roleplayer/chapter-25": {
+      "name": "25"
+    },
+    "https://azorafly.com/series/is-it-bad-that-the-main-character's-a-roleplayer/chapter-24": {
+      "name": "24"
+    },
+    "https://azorafly.com/series/is-it-bad-that-the-main-character's-a-roleplayer/chapter-23": {
+      "name": "23"
+    },
+    "https://azorafly.com/series/is-it-bad-that-the-main-character's-a-roleplayer/chapter-22": {
+      "name": "22"
+    },
+    "https://azorafly.com/series/is-it-bad-that-the-main-character's-a-roleplayer/chapter-21": {
+      "name": "21"
+    },
+    "https://azorafly.com/series/is-it-bad-that-the-main-character's-a-roleplayer/chapter-20": {
+      "name": "20"
+    },
+    "https://azorafly.com/series/is-it-bad-that-the-main-character's-a-roleplayer/chapter-19": {
+      "name": "19"
+    },
+    "https://azorafly.com/series/is-it-bad-that-the-main-character's-a-roleplayer/chapter-18": {
+      "name": "18"
+    },
+    "https://azorafly.com/series/is-it-bad-that-the-main-character's-a-roleplayer/chapter-17": {
+      "name": "17"
+    },
+    "https://azorafly.com/series/is-it-bad-that-the-main-character's-a-roleplayer/chapter-16": {
+      "name": "16"
+    },
+    "https://azorafly.com/series/is-it-bad-that-the-main-character's-a-roleplayer/chapter-15": {
+      "name": "15"
+    },
+    "https://azorafly.com/series/is-it-bad-that-the-main-character's-a-roleplayer/chapter-14": {
+      "name": "14"
+    },
+    "https://azorafly.com/series/is-it-bad-that-the-main-character's-a-roleplayer/chapter-13": {
+      "name": "13"
+    },
+    "https://azorafly.com/series/is-it-bad-that-the-main-character's-a-roleplayer/chapter-12": {
+      "name": "12"
+    },
+    "https://azorafly.com/series/is-it-bad-that-the-main-character's-a-roleplayer/chapter-11": {
+      "name": "11"
+    },
+    "https://azorafly.com/series/is-it-bad-that-the-main-character's-a-roleplayer/chapter-10": {
+      "name": "10"
+    },
+    "https://azorafly.com/series/is-it-bad-that-the-main-character's-a-roleplayer/chapter-9": {
+      "name": "9"
+    },
+    "https://azorafly.com/series/is-it-bad-that-the-main-character's-a-roleplayer/chapter-8": {
+      "name": "8"
+    },
+    "https://azorafly.com/series/is-it-bad-that-the-main-character's-a-roleplayer/chapter-7": {
+      "name": "7"
+    },
+    "https://azorafly.com/series/is-it-bad-that-the-main-character's-a-roleplayer/chapter-6": {
+      "name": "6"
+    },
+    "https://azorafly.com/series/is-it-bad-that-the-main-character's-a-roleplayer/chapter-5": {
+      "name": "5"
+    },
+    "https://azorafly.com/series/is-it-bad-that-the-main-character's-a-roleplayer/chapter-4": {
+      "name": "4"
+    },
+    "https://azorafly.com/series/is-it-bad-that-the-main-character's-a-roleplayer/chapter-3": {
+      "name": "3"
+    },
+    "https://azorafly.com/series/is-it-bad-that-the-main-character's-a-roleplayer/chapter-2": {
+      "name": "2"
+    }
+  }
 }

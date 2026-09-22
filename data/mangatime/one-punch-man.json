@@ -1,0 +1,941 @@
+{
+  "id": "one-punch-man",
+  "title": "ون بنش مان",
+  "cover_url": "https://mangatime.org/uploads/series/697df78a0c5d340ac1545718/cover.webp",
+  "description": "بعد تدريب قاسٍ استمر ثلاث سنوات، يصبح سايتاما قويًا إلى درجة أنه يهزم أي خصم بلكمة واحدة. ما كان حلمًا بالبطولة يتحول إلى مصدر دائم للملل، فلا الوحوش العملاقة ولا المقاتلون المتغطرسون قادرون على منحه المعركة الحماسية التي يبحث عنها.\n\nينضم سايتاما إلى جمعية الأبطال برفقة تلميذه السايبورغ جينوس، لكنه يبدأ من أدنى التصنيفات لأن الاختبارات لا تقيس قوته الحقيقية. وبينما تتعرض المدن لهجمات الوحوش والكائنات الغامضة، ينقذ الناس مرارًا من دون أن يحصل دائمًا على التقدير الذي يستحقه.\n\nتمزج مانجا «ون بنش مان» الأكشن والكوميديا الساخرة في عالم الأبطال الخارقين، وتجمع المعارك الضخمة مع مفارقة بطل لا يخشى الهزيمة بقدر ما يخشى أن يعيش بلا تحدٍ أو معنى.",
+  "type": "مانغا",
+  "status": "مستمر",
+  "last_update": "2026-09-22",
+  "rating": "8.3",
+  "favorites": "47",
+  "genres": [
+    "أكشن",
+    "كوميديا",
+    "مغامرة",
+    "قوى خارقة",
+    "خيال علمي",
+    "دراما",
+    "وحوش",
+    "فنون قتالية",
+    "خارق للطبيعة",
+    "سينين"
+  ],
+  "is_novel": false,
+  "chapters": {
+    "one-punch-man|305": {
+      "name": "305"
+    },
+    "one-punch-man|304": {
+      "name": "304"
+    },
+    "one-punch-man|303": {
+      "name": "303"
+    },
+    "one-punch-man|302": {
+      "name": "302"
+    },
+    "one-punch-man|301": {
+      "name": "301"
+    },
+    "one-punch-man|300": {
+      "name": "300"
+    },
+    "one-punch-man|299": {
+      "name": "299"
+    },
+    "one-punch-man|298": {
+      "name": "298"
+    },
+    "one-punch-man|297": {
+      "name": "297"
+    },
+    "one-punch-man|296": {
+      "name": "296"
+    },
+    "one-punch-man|295": {
+      "name": "295"
+    },
+    "one-punch-man|294": {
+      "name": "294"
+    },
+    "one-punch-man|293": {
+      "name": "293"
+    },
+    "one-punch-man|292": {
+      "name": "292"
+    },
+    "one-punch-man|291": {
+      "name": "291"
+    },
+    "one-punch-man|290": {
+      "name": "290"
+    },
+    "one-punch-man|289": {
+      "name": "289"
+    },
+    "one-punch-man|288": {
+      "name": "288"
+    },
+    "one-punch-man|287": {
+      "name": "287"
+    },
+    "one-punch-man|286": {
+      "name": "286"
+    },
+    "one-punch-man|285": {
+      "name": "285"
+    },
+    "one-punch-man|284": {
+      "name": "284"
+    },
+    "one-punch-man|283": {
+      "name": "283"
+    },
+    "one-punch-man|282": {
+      "name": "282"
+    },
+    "one-punch-man|281": {
+      "name": "281"
+    },
+    "one-punch-man|280": {
+      "name": "280"
+    },
+    "one-punch-man|279": {
+      "name": "279"
+    },
+    "one-punch-man|278": {
+      "name": "278"
+    },
+    "one-punch-man|277": {
+      "name": "277"
+    },
+    "one-punch-man|276": {
+      "name": "276"
+    },
+    "one-punch-man|275": {
+      "name": "275"
+    },
+    "one-punch-man|274": {
+      "name": "274"
+    },
+    "one-punch-man|273": {
+      "name": "273"
+    },
+    "one-punch-man|272": {
+      "name": "272"
+    },
+    "one-punch-man|271": {
+      "name": "271"
+    },
+    "one-punch-man|270": {
+      "name": "270"
+    },
+    "one-punch-man|269": {
+      "name": "269"
+    },
+    "one-punch-man|268": {
+      "name": "268"
+    },
+    "one-punch-man|267": {
+      "name": "267"
+    },
+    "one-punch-man|266": {
+      "name": "266"
+    },
+    "one-punch-man|265": {
+      "name": "265"
+    },
+    "one-punch-man|264": {
+      "name": "264"
+    },
+    "one-punch-man|263": {
+      "name": "263"
+    },
+    "one-punch-man|262": {
+      "name": "262"
+    },
+    "one-punch-man|261": {
+      "name": "261"
+    },
+    "one-punch-man|260": {
+      "name": "260"
+    },
+    "one-punch-man|259": {
+      "name": "259"
+    },
+    "one-punch-man|258": {
+      "name": "258"
+    },
+    "one-punch-man|257": {
+      "name": "257"
+    },
+    "one-punch-man|256": {
+      "name": "256"
+    },
+    "one-punch-man|255": {
+      "name": "255"
+    },
+    "one-punch-man|254": {
+      "name": "254"
+    },
+    "one-punch-man|253": {
+      "name": "253"
+    },
+    "one-punch-man|252": {
+      "name": "252"
+    },
+    "one-punch-man|251": {
+      "name": "251"
+    },
+    "one-punch-man|250": {
+      "name": "250"
+    },
+    "one-punch-man|249": {
+      "name": "249"
+    },
+    "one-punch-man|248": {
+      "name": "248"
+    },
+    "one-punch-man|247": {
+      "name": "247"
+    },
+    "one-punch-man|246": {
+      "name": "246"
+    },
+    "one-punch-man|245": {
+      "name": "245"
+    },
+    "one-punch-man|244": {
+      "name": "244"
+    },
+    "one-punch-man|243": {
+      "name": "243"
+    },
+    "one-punch-man|242": {
+      "name": "242"
+    },
+    "one-punch-man|241": {
+      "name": "241"
+    },
+    "one-punch-man|240": {
+      "name": "240"
+    },
+    "one-punch-man|239": {
+      "name": "239"
+    },
+    "one-punch-man|238": {
+      "name": "238"
+    },
+    "one-punch-man|237": {
+      "name": "237"
+    },
+    "one-punch-man|236": {
+      "name": "236"
+    },
+    "one-punch-man|235": {
+      "name": "235"
+    },
+    "one-punch-man|234": {
+      "name": "234"
+    },
+    "one-punch-man|233": {
+      "name": "233"
+    },
+    "one-punch-man|232": {
+      "name": "232"
+    },
+    "one-punch-man|231": {
+      "name": "231"
+    },
+    "one-punch-man|230": {
+      "name": "230"
+    },
+    "one-punch-man|229": {
+      "name": "229"
+    },
+    "one-punch-man|228": {
+      "name": "228"
+    },
+    "one-punch-man|227": {
+      "name": "227"
+    },
+    "one-punch-man|226": {
+      "name": "226"
+    },
+    "one-punch-man|225": {
+      "name": "225"
+    },
+    "one-punch-man|224": {
+      "name": "224"
+    },
+    "one-punch-man|223": {
+      "name": "223"
+    },
+    "one-punch-man|222": {
+      "name": "222"
+    },
+    "one-punch-man|221": {
+      "name": "221"
+    },
+    "one-punch-man|220": {
+      "name": "220"
+    },
+    "one-punch-man|219": {
+      "name": "219"
+    },
+    "one-punch-man|218": {
+      "name": "218"
+    },
+    "one-punch-man|217": {
+      "name": "217"
+    },
+    "one-punch-man|216": {
+      "name": "216"
+    },
+    "one-punch-man|215": {
+      "name": "215"
+    },
+    "one-punch-man|214": {
+      "name": "214"
+    },
+    "one-punch-man|213": {
+      "name": "213"
+    },
+    "one-punch-man|212": {
+      "name": "212"
+    },
+    "one-punch-man|211": {
+      "name": "211"
+    },
+    "one-punch-man|210": {
+      "name": "210"
+    },
+    "one-punch-man|209": {
+      "name": "209"
+    },
+    "one-punch-man|208": {
+      "name": "208"
+    },
+    "one-punch-man|207": {
+      "name": "207"
+    },
+    "one-punch-man|206": {
+      "name": "206"
+    },
+    "one-punch-man|205": {
+      "name": "205"
+    },
+    "one-punch-man|204": {
+      "name": "204"
+    },
+    "one-punch-man|203": {
+      "name": "203"
+    },
+    "one-punch-man|202": {
+      "name": "202"
+    },
+    "one-punch-man|201": {
+      "name": "201"
+    },
+    "one-punch-man|200": {
+      "name": "200"
+    },
+    "one-punch-man|199": {
+      "name": "199"
+    },
+    "one-punch-man|198": {
+      "name": "198"
+    },
+    "one-punch-man|197": {
+      "name": "197"
+    },
+    "one-punch-man|196": {
+      "name": "196"
+    },
+    "one-punch-man|195": {
+      "name": "195"
+    },
+    "one-punch-man|194": {
+      "name": "194"
+    },
+    "one-punch-man|193": {
+      "name": "193"
+    },
+    "one-punch-man|192": {
+      "name": "192"
+    },
+    "one-punch-man|191": {
+      "name": "191"
+    },
+    "one-punch-man|190": {
+      "name": "190"
+    },
+    "one-punch-man|189": {
+      "name": "189"
+    },
+    "one-punch-man|188": {
+      "name": "188"
+    },
+    "one-punch-man|187": {
+      "name": "187"
+    },
+    "one-punch-man|186": {
+      "name": "186"
+    },
+    "one-punch-man|185": {
+      "name": "185"
+    },
+    "one-punch-man|184": {
+      "name": "184"
+    },
+    "one-punch-man|183": {
+      "name": "183"
+    },
+    "one-punch-man|182": {
+      "name": "182"
+    },
+    "one-punch-man|181": {
+      "name": "181"
+    },
+    "one-punch-man|180": {
+      "name": "180"
+    },
+    "one-punch-man|179": {
+      "name": "179"
+    },
+    "one-punch-man|178": {
+      "name": "178"
+    },
+    "one-punch-man|177": {
+      "name": "177"
+    },
+    "one-punch-man|176": {
+      "name": "176"
+    },
+    "one-punch-man|175": {
+      "name": "175"
+    },
+    "one-punch-man|174": {
+      "name": "174"
+    },
+    "one-punch-man|173": {
+      "name": "173"
+    },
+    "one-punch-man|172": {
+      "name": "172"
+    },
+    "one-punch-man|171": {
+      "name": "171"
+    },
+    "one-punch-man|170": {
+      "name": "170"
+    },
+    "one-punch-man|169": {
+      "name": "169"
+    },
+    "one-punch-man|168": {
+      "name": "168"
+    },
+    "one-punch-man|167": {
+      "name": "167"
+    },
+    "one-punch-man|166": {
+      "name": "166"
+    },
+    "one-punch-man|165": {
+      "name": "165"
+    },
+    "one-punch-man|164": {
+      "name": "164"
+    },
+    "one-punch-man|163": {
+      "name": "163"
+    },
+    "one-punch-man|162": {
+      "name": "162"
+    },
+    "one-punch-man|161": {
+      "name": "161"
+    },
+    "one-punch-man|160": {
+      "name": "160"
+    },
+    "one-punch-man|159": {
+      "name": "159"
+    },
+    "one-punch-man|158": {
+      "name": "158"
+    },
+    "one-punch-man|157": {
+      "name": "157"
+    },
+    "one-punch-man|156": {
+      "name": "156"
+    },
+    "one-punch-man|155": {
+      "name": "155"
+    },
+    "one-punch-man|154": {
+      "name": "154"
+    },
+    "one-punch-man|153": {
+      "name": "153"
+    },
+    "one-punch-man|152": {
+      "name": "152"
+    },
+    "one-punch-man|151": {
+      "name": "151"
+    },
+    "one-punch-man|150": {
+      "name": "150"
+    },
+    "one-punch-man|149": {
+      "name": "149"
+    },
+    "one-punch-man|148": {
+      "name": "148"
+    },
+    "one-punch-man|147": {
+      "name": "147"
+    },
+    "one-punch-man|146": {
+      "name": "146"
+    },
+    "one-punch-man|145": {
+      "name": "145"
+    },
+    "one-punch-man|144": {
+      "name": "144"
+    },
+    "one-punch-man|143": {
+      "name": "143"
+    },
+    "one-punch-man|142": {
+      "name": "142"
+    },
+    "one-punch-man|141": {
+      "name": "141"
+    },
+    "one-punch-man|140": {
+      "name": "140"
+    },
+    "one-punch-man|139": {
+      "name": "139"
+    },
+    "one-punch-man|138": {
+      "name": "138"
+    },
+    "one-punch-man|137": {
+      "name": "137"
+    },
+    "one-punch-man|136": {
+      "name": "136"
+    },
+    "one-punch-man|135": {
+      "name": "135"
+    },
+    "one-punch-man|134": {
+      "name": "134"
+    },
+    "one-punch-man|133": {
+      "name": "133"
+    },
+    "one-punch-man|132": {
+      "name": "132"
+    },
+    "one-punch-man|131": {
+      "name": "131"
+    },
+    "one-punch-man|130": {
+      "name": "130"
+    },
+    "one-punch-man|129": {
+      "name": "129"
+    },
+    "one-punch-man|128": {
+      "name": "128"
+    },
+    "one-punch-man|127": {
+      "name": "127"
+    },
+    "one-punch-man|126": {
+      "name": "126"
+    },
+    "one-punch-man|125": {
+      "name": "125"
+    },
+    "one-punch-man|124": {
+      "name": "124"
+    },
+    "one-punch-man|123": {
+      "name": "123"
+    },
+    "one-punch-man|122": {
+      "name": "122"
+    },
+    "one-punch-man|121": {
+      "name": "121"
+    },
+    "one-punch-man|120": {
+      "name": "120"
+    },
+    "one-punch-man|119": {
+      "name": "119"
+    },
+    "one-punch-man|118": {
+      "name": "118"
+    },
+    "one-punch-man|117": {
+      "name": "117"
+    },
+    "one-punch-man|116": {
+      "name": "116"
+    },
+    "one-punch-man|115": {
+      "name": "115"
+    },
+    "one-punch-man|114": {
+      "name": "114"
+    },
+    "one-punch-man|113": {
+      "name": "113"
+    },
+    "one-punch-man|112": {
+      "name": "112"
+    },
+    "one-punch-man|111": {
+      "name": "111"
+    },
+    "one-punch-man|110": {
+      "name": "110"
+    },
+    "one-punch-man|109": {
+      "name": "109"
+    },
+    "one-punch-man|108": {
+      "name": "108"
+    },
+    "one-punch-man|107": {
+      "name": "107"
+    },
+    "one-punch-man|106": {
+      "name": "106"
+    },
+    "one-punch-man|105": {
+      "name": "105"
+    },
+    "one-punch-man|104": {
+      "name": "104"
+    },
+    "one-punch-man|103": {
+      "name": "103"
+    },
+    "one-punch-man|102": {
+      "name": "102"
+    },
+    "one-punch-man|101": {
+      "name": "101"
+    },
+    "one-punch-man|100": {
+      "name": "100"
+    },
+    "one-punch-man|99": {
+      "name": "99"
+    },
+    "one-punch-man|98": {
+      "name": "98"
+    },
+    "one-punch-man|97": {
+      "name": "97"
+    },
+    "one-punch-man|96": {
+      "name": "96"
+    },
+    "one-punch-man|95": {
+      "name": "95"
+    },
+    "one-punch-man|94": {
+      "name": "94"
+    },
+    "one-punch-man|93": {
+      "name": "93"
+    },
+    "one-punch-man|92": {
+      "name": "92"
+    },
+    "one-punch-man|91": {
+      "name": "91"
+    },
+    "one-punch-man|90": {
+      "name": "90"
+    },
+    "one-punch-man|89": {
+      "name": "89"
+    },
+    "one-punch-man|88": {
+      "name": "88"
+    },
+    "one-punch-man|87": {
+      "name": "87"
+    },
+    "one-punch-man|86": {
+      "name": "86"
+    },
+    "one-punch-man|85": {
+      "name": "85"
+    },
+    "one-punch-man|84": {
+      "name": "84"
+    },
+    "one-punch-man|83": {
+      "name": "83"
+    },
+    "one-punch-man|82": {
+      "name": "82"
+    },
+    "one-punch-man|81": {
+      "name": "81"
+    },
+    "one-punch-man|80": {
+      "name": "80"
+    },
+    "one-punch-man|79": {
+      "name": "79"
+    },
+    "one-punch-man|78": {
+      "name": "78"
+    },
+    "one-punch-man|77": {
+      "name": "77"
+    },
+    "one-punch-man|76": {
+      "name": "76"
+    },
+    "one-punch-man|75": {
+      "name": "75"
+    },
+    "one-punch-man|74": {
+      "name": "74"
+    },
+    "one-punch-man|73": {
+      "name": "73"
+    },
+    "one-punch-man|72": {
+      "name": "72"
+    },
+    "one-punch-man|71": {
+      "name": "71"
+    },
+    "one-punch-man|70": {
+      "name": "70"
+    },
+    "one-punch-man|69": {
+      "name": "69"
+    },
+    "one-punch-man|68": {
+      "name": "68"
+    },
+    "one-punch-man|67": {
+      "name": "67"
+    },
+    "one-punch-man|66": {
+      "name": "66"
+    },
+    "one-punch-man|65": {
+      "name": "65"
+    },
+    "one-punch-man|64": {
+      "name": "64"
+    },
+    "one-punch-man|63": {
+      "name": "63"
+    },
+    "one-punch-man|62": {
+      "name": "62"
+    },
+    "one-punch-man|61": {
+      "name": "61"
+    },
+    "one-punch-man|60": {
+      "name": "60"
+    },
+    "one-punch-man|59": {
+      "name": "59"
+    },
+    "one-punch-man|58": {
+      "name": "58"
+    },
+    "one-punch-man|57": {
+      "name": "57"
+    },
+    "one-punch-man|56": {
+      "name": "56"
+    },
+    "one-punch-man|55": {
+      "name": "55"
+    },
+    "one-punch-man|54": {
+      "name": "54"
+    },
+    "one-punch-man|53": {
+      "name": "53"
+    },
+    "one-punch-man|52": {
+      "name": "52"
+    },
+    "one-punch-man|51": {
+      "name": "51"
+    },
+    "one-punch-man|50": {
+      "name": "50"
+    },
+    "one-punch-man|49": {
+      "name": "49"
+    },
+    "one-punch-man|48": {
+      "name": "48"
+    },
+    "one-punch-man|47": {
+      "name": "47"
+    },
+    "one-punch-man|46": {
+      "name": "46"
+    },
+    "one-punch-man|45": {
+      "name": "45"
+    },
+    "one-punch-man|44": {
+      "name": "44"
+    },
+    "one-punch-man|43": {
+      "name": "43"
+    },
+    "one-punch-man|42": {
+      "name": "42"
+    },
+    "one-punch-man|41": {
+      "name": "41"
+    },
+    "one-punch-man|40": {
+      "name": "40"
+    },
+    "one-punch-man|39": {
+      "name": "39"
+    },
+    "one-punch-man|38": {
+      "name": "38"
+    },
+    "one-punch-man|37": {
+      "name": "37"
+    },
+    "one-punch-man|36": {
+      "name": "36"
+    },
+    "one-punch-man|35": {
+      "name": "35"
+    },
+    "one-punch-man|34": {
+      "name": "34"
+    },
+    "one-punch-man|33": {
+      "name": "33"
+    },
+    "one-punch-man|32": {
+      "name": "32"
+    },
+    "one-punch-man|31": {
+      "name": "31"
+    },
+    "one-punch-man|30": {
+      "name": "30"
+    },
+    "one-punch-man|29": {
+      "name": "29"
+    },
+    "one-punch-man|28": {
+      "name": "28"
+    },
+    "one-punch-man|27": {
+      "name": "27"
+    },
+    "one-punch-man|26": {
+      "name": "26"
+    },
+    "one-punch-man|25": {
+      "name": "25"
+    },
+    "one-punch-man|24": {
+      "name": "24"
+    },
+    "one-punch-man|23": {
+      "name": "23"
+    },
+    "one-punch-man|22": {
+      "name": "22"
+    },
+    "one-punch-man|21": {
+      "name": "21"
+    },
+    "one-punch-man|20": {
+      "name": "20"
+    },
+    "one-punch-man|19": {
+      "name": "19"
+    },
+    "one-punch-man|18": {
+      "name": "18"
+    },
+    "one-punch-man|17": {
+      "name": "17"
+    },
+    "one-punch-man|16": {
+      "name": "16"
+    },
+    "one-punch-man|15": {
+      "name": "15"
+    },
+    "one-punch-man|14": {
+      "name": "14"
+    },
+    "one-punch-man|13": {
+      "name": "13"
+    },
+    "one-punch-man|12": {
+      "name": "12"
+    },
+    "one-punch-man|11": {
+      "name": "11"
+    },
+    "one-punch-man|10": {
+      "name": "10"
+    },
+    "one-punch-man|9": {
+      "name": "9"
+    },
+    "one-punch-man|8": {
+      "name": "8"
+    },
+    "one-punch-man|7": {
+      "name": "7"
+    },
+    "one-punch-man|6": {
+      "name": "6"
+    },
+    "one-punch-man|5": {
+      "name": "5"
+    },
+    "one-punch-man|4": {
+      "name": "4"
+    },
+    "one-punch-man|3": {
+      "name": "3"
+    },
+    "one-punch-man|2": {
+      "name": "2"
+    },
+    "one-punch-man|1": {
+      "name": "1"
+    }
+  }
+}

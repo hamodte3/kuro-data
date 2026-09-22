@@ -1,970 +1,149 @@
 {
   "id": "taming-of-heroes",
-  "chapters": {
-    "https://azorafly.com/series/taming-of-heroes/chapter-0": {
-      "name": "0",
-      "images": [
-        "https://storage.azorafly.com/WP-manga/data/manga_68125814677df/96882d236b7e6482ccd034c1d9dbf4ed/01.webp",
-        "https://storage.azorafly.com/WP-manga/data/manga_68125814677df/96882d236b7e6482ccd034c1d9dbf4ed/02.webp",
-        "https://storage.azorafly.com/WP-manga/data/manga_68125814677df/96882d236b7e6482ccd034c1d9dbf4ed/03.webp",
-        "https://storage.azorafly.com/WP-manga/data/manga_68125814677df/96882d236b7e6482ccd034c1d9dbf4ed/04.webp",
-        "https://storage.azorafly.com/WP-manga/data/manga_68125814677df/96882d236b7e6482ccd034c1d9dbf4ed/05.webp",
-        "https://storage.azorafly.com/WP-manga/data/manga_68125814677df/96882d236b7e6482ccd034c1d9dbf4ed/06.webp",
-        "https://storage.azorafly.com/WP-manga/data/manga_68125814677df/96882d236b7e6482ccd034c1d9dbf4ed/07.webp",
-        "https://storage.azorafly.com/WP-manga/data/manga_68125814677df/96882d236b7e6482ccd034c1d9dbf4ed/08.webp"
-      ]
-    },
-    "https://azorafly.com/series/taming-of-heroes/chapter-43": {
-      "name": "43",
-      "images": [
-        "https://storage.azorafly.com/upload/series/taming-of-heroes/e2bb19a1-9e67-4f24-816a-6a25c64fdad0/page-0001_01_1790085012680-574511.png",
-        "https://storage.azorafly.com/upload/series/taming-of-heroes/e2bb19a1-9e67-4f24-816a-6a25c64fdad0/page-0002_02_1790085012680-239112.png",
-        "https://storage.azorafly.com/upload/series/taming-of-heroes/e2bb19a1-9e67-4f24-816a-6a25c64fdad0/page-0003_03_1790085012681-520978.png",
-        "https://storage.azorafly.com/upload/series/taming-of-heroes/e2bb19a1-9e67-4f24-816a-6a25c64fdad0/page-0004_04_1790085012682-581968.png",
-        "https://storage.azorafly.com/upload/series/taming-of-heroes/e2bb19a1-9e67-4f24-816a-6a25c64fdad0/page-0005_05_1790085012683-994604.png",
-        "https://storage.azorafly.com/upload/series/taming-of-heroes/e2bb19a1-9e67-4f24-816a-6a25c64fdad0/page-0006_06_1790085012684-528292.png",
-        "https://storage.azorafly.com/upload/series/taming-of-heroes/e2bb19a1-9e67-4f24-816a-6a25c64fdad0/page-0007_07_1790085012685-704021.png",
-        "https://storage.azorafly.com/upload/series/taming-of-heroes/e2bb19a1-9e67-4f24-816a-6a25c64fdad0/page-0008_08_1790085012685-778693.png",
-        "https://storage.azorafly.com/upload/series/taming-of-heroes/e2bb19a1-9e67-4f24-816a-6a25c64fdad0/page-0009_09_1790085012686-387577.png",
-        "https://storage.azorafly.com/upload/series/taming-of-heroes/e2bb19a1-9e67-4f24-816a-6a25c64fdad0/page-0010_10_1790085012687-944182.png",
-        "https://storage.azorafly.com/upload/series/taming-of-heroes/e2bb19a1-9e67-4f24-816a-6a25c64fdad0/page-0011_11_1790085012688-857861.png",
-        "https://storage.azorafly.com/upload/series/taming-of-heroes/e2bb19a1-9e67-4f24-816a-6a25c64fdad0/page-0012_12_1790085012689-438162.png",
-        "https://storage.azorafly.com/upload/series/taming-of-heroes/e2bb19a1-9e67-4f24-816a-6a25c64fdad0/page-0013_13_1790085012689-234621.png",
-        "https://storage.azorafly.com/upload/series/taming-of-heroes/e2bb19a1-9e67-4f24-816a-6a25c64fdad0/page-0014_14_1790085012691-260730.png",
-        "https://storage.azorafly.com/upload/series/taming-of-heroes/e2bb19a1-9e67-4f24-816a-6a25c64fdad0/page-0015_15_1790085012691-336473.png",
-        "https://storage.azorafly.com/upload/series/taming-of-heroes/e2bb19a1-9e67-4f24-816a-6a25c64fdad0/page-0016_16_1790085012693-209792.png",
-        "https://storage.azorafly.com/upload/series/taming-of-heroes/e2bb19a1-9e67-4f24-816a-6a25c64fdad0/page-0017_17_1790085012693-367994.png",
-        "https://storage.azorafly.com/upload/series/taming-of-heroes/e2bb19a1-9e67-4f24-816a-6a25c64fdad0/page-0018_18_1790085012694-839324.png"
-      ]
-    },
-    "https://azorafly.com/series/taming-of-heroes/chapter-42": {
-      "name": "42",
-      "images": [
-        "https://storage.azorafly.com/upload/series/taming-of-heroes/edda6cf4-52b2-45fc-8726-274bf0e71012/page-0001_01_1789122662996-685291.png",
-        "https://storage.azorafly.com/upload/series/taming-of-heroes/edda6cf4-52b2-45fc-8726-274bf0e71012/page-0002_02_1789122662996-962140.png",
-        "https://storage.azorafly.com/upload/series/taming-of-heroes/edda6cf4-52b2-45fc-8726-274bf0e71012/page-0003_03_1789122663000-337090.png",
-        "https://storage.azorafly.com/upload/series/taming-of-heroes/edda6cf4-52b2-45fc-8726-274bf0e71012/page-0004_04_1789122663000-565927.png",
-        "https://storage.azorafly.com/upload/series/taming-of-heroes/edda6cf4-52b2-45fc-8726-274bf0e71012/page-0005_05_1789122663002-76470.png",
-        "https://storage.azorafly.com/upload/series/taming-of-heroes/edda6cf4-52b2-45fc-8726-274bf0e71012/page-0006_06_1789122663002-541668.png",
-        "https://storage.azorafly.com/upload/series/taming-of-heroes/edda6cf4-52b2-45fc-8726-274bf0e71012/page-0007_07_1789122663004-188952.png",
-        "https://storage.azorafly.com/upload/series/taming-of-heroes/edda6cf4-52b2-45fc-8726-274bf0e71012/page-0008_08_1789122663005-105199.png",
-        "https://storage.azorafly.com/upload/series/taming-of-heroes/edda6cf4-52b2-45fc-8726-274bf0e71012/page-0009_09_1789122663005-97853.png",
-        "https://storage.azorafly.com/upload/series/taming-of-heroes/edda6cf4-52b2-45fc-8726-274bf0e71012/page-0010_10_1789122663008-628084.png",
-        "https://storage.azorafly.com/upload/series/taming-of-heroes/edda6cf4-52b2-45fc-8726-274bf0e71012/page-0011_11_1789122663008-479952.png",
-        "https://storage.azorafly.com/upload/series/taming-of-heroes/edda6cf4-52b2-45fc-8726-274bf0e71012/page-0012_12_1789122663010-307376.png",
-        "https://storage.azorafly.com/upload/series/taming-of-heroes/edda6cf4-52b2-45fc-8726-274bf0e71012/page-0013_13_1789122663014-933660.png",
-        "https://storage.azorafly.com/upload/series/taming-of-heroes/edda6cf4-52b2-45fc-8726-274bf0e71012/page-0014_14_1789122663014-257926.png",
-        "https://storage.azorafly.com/upload/series/taming-of-heroes/edda6cf4-52b2-45fc-8726-274bf0e71012/page-0015_15_1789122663015-388548.png",
-        "https://storage.azorafly.com/upload/series/taming-of-heroes/edda6cf4-52b2-45fc-8726-274bf0e71012/page-0016_16_1789122663016-252394.png",
-        "https://storage.azorafly.com/upload/series/taming-of-heroes/edda6cf4-52b2-45fc-8726-274bf0e71012/page-0017_17_1789122663018-605570.png"
-      ]
-    },
-    "https://azorafly.com/series/taming-of-heroes/chapter-41": {
-      "name": "41",
-      "images": [
-        "https://storage.azorafly.com/upload/series/taming-of-heroes/3e9fd435-7230-4be3-907e-0f1e2466d7f0/page-0001_1_1785210719294-883947.png",
-        "https://storage.azorafly.com/upload/series/taming-of-heroes/3e9fd435-7230-4be3-907e-0f1e2466d7f0/page-0002_2_1785210719295-107633.png",
-        "https://storage.azorafly.com/upload/series/taming-of-heroes/3e9fd435-7230-4be3-907e-0f1e2466d7f0/page-0003_3_1785210719295-301499.png",
-        "https://storage.azorafly.com/upload/series/taming-of-heroes/3e9fd435-7230-4be3-907e-0f1e2466d7f0/page-0004_4_1785210719295-202237.png",
-        "https://storage.azorafly.com/upload/series/taming-of-heroes/3e9fd435-7230-4be3-907e-0f1e2466d7f0/page-0005_5_1785210719295-334528.png",
-        "https://storage.azorafly.com/upload/series/taming-of-heroes/3e9fd435-7230-4be3-907e-0f1e2466d7f0/page-0006_6_1785210719295-311543.png",
-        "https://storage.azorafly.com/upload/series/taming-of-heroes/3e9fd435-7230-4be3-907e-0f1e2466d7f0/page-0007_7_1785210719295-794341.png",
-        "https://storage.azorafly.com/upload/series/taming-of-heroes/3e9fd435-7230-4be3-907e-0f1e2466d7f0/page-0008_8_1785210719295-959637.png",
-        "https://storage.azorafly.com/upload/series/taming-of-heroes/3e9fd435-7230-4be3-907e-0f1e2466d7f0/page-0009_9_1785210719298-479802.png",
-        "https://storage.azorafly.com/upload/series/taming-of-heroes/3e9fd435-7230-4be3-907e-0f1e2466d7f0/page-0010_10_1785210719298-997527.png",
-        "https://storage.azorafly.com/upload/series/taming-of-heroes/3e9fd435-7230-4be3-907e-0f1e2466d7f0/page-0011_11_1785210719299-843459.png",
-        "https://storage.azorafly.com/upload/series/taming-of-heroes/3e9fd435-7230-4be3-907e-0f1e2466d7f0/page-0012_12_1785210719299-7503.png",
-        "https://storage.azorafly.com/upload/series/taming-of-heroes/3e9fd435-7230-4be3-907e-0f1e2466d7f0/page-0013_13_1785210719299-319266.png"
-      ]
-    },
-    "https://azorafly.com/series/taming-of-heroes/chapter-40.5": {
-      "name": "40.5",
-      "images": [
-        "https://storage.azorafly.com/upload/series/taming-of-heroes/57515c2e-85f7-4b31-a12c-c584cf196ca6/page-0001_01_1788038005718-686443.png",
-        "https://storage.azorafly.com/upload/series/taming-of-heroes/57515c2e-85f7-4b31-a12c-c584cf196ca6/page-0002_02_1788038005718-949524.png",
-        "https://storage.azorafly.com/upload/series/taming-of-heroes/57515c2e-85f7-4b31-a12c-c584cf196ca6/page-0003_03_1788038005722-773806.png",
-        "https://storage.azorafly.com/upload/series/taming-of-heroes/57515c2e-85f7-4b31-a12c-c584cf196ca6/page-0004_04_1788038005722-765752.png",
-        "https://storage.azorafly.com/upload/series/taming-of-heroes/57515c2e-85f7-4b31-a12c-c584cf196ca6/page-0005_05_1788038005724-23786.png",
-        "https://storage.azorafly.com/upload/series/taming-of-heroes/57515c2e-85f7-4b31-a12c-c584cf196ca6/page-0006_06_1788038005730-809354.png",
-        "https://storage.azorafly.com/upload/series/taming-of-heroes/57515c2e-85f7-4b31-a12c-c584cf196ca6/page-0007_07_1788038005732-169298.png",
-        "https://storage.azorafly.com/upload/series/taming-of-heroes/57515c2e-85f7-4b31-a12c-c584cf196ca6/page-0008_08_1788038005734-698296.png",
-        "https://storage.azorafly.com/upload/series/taming-of-heroes/57515c2e-85f7-4b31-a12c-c584cf196ca6/page-0009_09_1788038005748-933307.png",
-        "https://storage.azorafly.com/upload/series/taming-of-heroes/57515c2e-85f7-4b31-a12c-c584cf196ca6/page-0010_10_1788038005748-699696.png",
-        "https://storage.azorafly.com/upload/series/taming-of-heroes/57515c2e-85f7-4b31-a12c-c584cf196ca6/page-0011_11_1788038005758-89103.png",
-        "https://storage.azorafly.com/upload/series/taming-of-heroes/57515c2e-85f7-4b31-a12c-c584cf196ca6/page-0012_12_1788038005758-516051.png",
-        "https://storage.azorafly.com/upload/series/taming-of-heroes/57515c2e-85f7-4b31-a12c-c584cf196ca6/page-0013_13_1788038005760-90151.png"
-      ]
-    },
-    "https://azorafly.com/series/taming-of-heroes/chapter-40": {
-      "name": "40",
-      "images": [
-        "https://storage.azorafly.com/public//upload/series/taming-of-heroes/cdrJYuRHP5/01.webp",
-        "https://storage.azorafly.com/public//upload/series/taming-of-heroes/cdrJYuRHP5/02.webp",
-        "https://storage.azorafly.com/public//upload/series/taming-of-heroes/cdrJYuRHP5/03.webp",
-        "https://storage.azorafly.com/public//upload/series/taming-of-heroes/cdrJYuRHP5/04.webp",
-        "https://storage.azorafly.com/public//upload/series/taming-of-heroes/cdrJYuRHP5/05.webp",
-        "https://storage.azorafly.com/public//upload/series/taming-of-heroes/cdrJYuRHP5/06.webp",
-        "https://storage.azorafly.com/public//upload/series/taming-of-heroes/cdrJYuRHP5/07.webp",
-        "https://storage.azorafly.com/public//upload/series/taming-of-heroes/cdrJYuRHP5/08.webp",
-        "https://storage.azorafly.com/public//upload/series/taming-of-heroes/cdrJYuRHP5/09.webp",
-        "https://storage.azorafly.com/public//upload/series/taming-of-heroes/cdrJYuRHP5/10.webp",
-        "https://storage.azorafly.com/public//upload/series/taming-of-heroes/cdrJYuRHP5/11.webp",
-        "https://storage.azorafly.com/public//upload/series/taming-of-heroes/cdrJYuRHP5/12.webp",
-        "https://storage.azorafly.com/public//upload/series/taming-of-heroes/cdrJYuRHP5/13.webp",
-        "https://storage.azorafly.com/public//upload/series/taming-of-heroes/cdrJYuRHP5/14.webp",
-        "https://storage.azorafly.com/public//upload/series/taming-of-heroes/cdrJYuRHP5/15.webp",
-        "https://storage.azorafly.com/public//upload/series/taming-of-heroes/cdrJYuRHP5/16.webp",
-        "https://storage.azorafly.com/public//upload/series/taming-of-heroes/cdrJYuRHP5/17.webp",
-        "https://storage.azorafly.com/public//upload/series/taming-of-heroes/cdrJYuRHP5/18.webp",
-        "https://storage.azorafly.com/public//upload/series/taming-of-heroes/cdrJYuRHP5/19.webp",
-        "https://storage.azorafly.com/public//upload/series/taming-of-heroes/cdrJYuRHP5/20.webp",
-        "https://storage.azorafly.com/public//upload/series/taming-of-heroes/cdrJYuRHP5/21.webp"
-      ]
-    },
-    "https://azorafly.com/series/taming-of-heroes/chapter-39": {
-      "name": "39",
-      "images": [
-        "https://storage.azorafly.com/public//upload/series/taming-of-heroes/ffPHjcAiFA/01.webp",
-        "https://storage.azorafly.com/public//upload/series/taming-of-heroes/ffPHjcAiFA/02.webp",
-        "https://storage.azorafly.com/public//upload/series/taming-of-heroes/ffPHjcAiFA/03.webp",
-        "https://storage.azorafly.com/public//upload/series/taming-of-heroes/ffPHjcAiFA/04.webp",
-        "https://storage.azorafly.com/public//upload/series/taming-of-heroes/ffPHjcAiFA/05.webp",
-        "https://storage.azorafly.com/public//upload/series/taming-of-heroes/ffPHjcAiFA/06.webp",
-        "https://storage.azorafly.com/public//upload/series/taming-of-heroes/ffPHjcAiFA/07.webp",
-        "https://storage.azorafly.com/public//upload/series/taming-of-heroes/ffPHjcAiFA/08.webp",
-        "https://storage.azorafly.com/public//upload/series/taming-of-heroes/ffPHjcAiFA/09.webp",
-        "https://storage.azorafly.com/public//upload/series/taming-of-heroes/ffPHjcAiFA/10.webp",
-        "https://storage.azorafly.com/public//upload/series/taming-of-heroes/ffPHjcAiFA/11.webp",
-        "https://storage.azorafly.com/public//upload/series/taming-of-heroes/ffPHjcAiFA/12.webp",
-        "https://storage.azorafly.com/public//upload/series/taming-of-heroes/ffPHjcAiFA/13.webp",
-        "https://storage.azorafly.com/public//upload/series/taming-of-heroes/ffPHjcAiFA/14.webp",
-        "https://storage.azorafly.com/public//upload/series/taming-of-heroes/ffPHjcAiFA/15.webp",
-        "https://storage.azorafly.com/public//upload/series/taming-of-heroes/ffPHjcAiFA/16.webp",
-        "https://storage.azorafly.com/public//upload/series/taming-of-heroes/ffPHjcAiFA/17.webp"
-      ]
-    },
-    "https://azorafly.com/series/taming-of-heroes/chapter-38": {
-      "name": "38",
-      "images": [
-        "https://storage.azorafly.com/public//upload/series/taming-of-heroes/LseeYNxihK/01.webp",
-        "https://storage.azorafly.com/public//upload/series/taming-of-heroes/LseeYNxihK/02.webp",
-        "https://storage.azorafly.com/public//upload/series/taming-of-heroes/LseeYNxihK/03.webp",
-        "https://storage.azorafly.com/public//upload/series/taming-of-heroes/LseeYNxihK/04.webp",
-        "https://storage.azorafly.com/public//upload/series/taming-of-heroes/LseeYNxihK/05.webp",
-        "https://storage.azorafly.com/public//upload/series/taming-of-heroes/LseeYNxihK/06.webp",
-        "https://storage.azorafly.com/public//upload/series/taming-of-heroes/LseeYNxihK/07.webp",
-        "https://storage.azorafly.com/public//upload/series/taming-of-heroes/LseeYNxihK/08.webp",
-        "https://storage.azorafly.com/public//upload/series/taming-of-heroes/LseeYNxihK/09.webp",
-        "https://storage.azorafly.com/public//upload/series/taming-of-heroes/LseeYNxihK/10.webp",
-        "https://storage.azorafly.com/public//upload/series/taming-of-heroes/LseeYNxihK/11.webp",
-        "https://storage.azorafly.com/public//upload/series/taming-of-heroes/LseeYNxihK/12.webp",
-        "https://storage.azorafly.com/public//upload/series/taming-of-heroes/LseeYNxihK/13.webp",
-        "https://storage.azorafly.com/public//upload/series/taming-of-heroes/LseeYNxihK/14.webp",
-        "https://storage.azorafly.com/public//upload/series/taming-of-heroes/LseeYNxihK/15.webp",
-        "https://storage.azorafly.com/public//upload/series/taming-of-heroes/LseeYNxihK/16.webp",
-        "https://storage.azorafly.com/public//upload/series/taming-of-heroes/LseeYNxihK/17.webp",
-        "https://storage.azorafly.com/public//upload/series/taming-of-heroes/LseeYNxihK/18.webp"
-      ]
-    },
-    "https://azorafly.com/series/taming-of-heroes/chapter-37": {
-      "name": "37",
-      "images": [
-        "https://storage.azorafly.com/public//upload/series/taming-of-heroes/JUiIeZDvyn/01.webp",
-        "https://storage.azorafly.com/public//upload/series/taming-of-heroes/JUiIeZDvyn/02.webp",
-        "https://storage.azorafly.com/public//upload/series/taming-of-heroes/JUiIeZDvyn/03.webp",
-        "https://storage.azorafly.com/public//upload/series/taming-of-heroes/JUiIeZDvyn/04.webp",
-        "https://storage.azorafly.com/public//upload/series/taming-of-heroes/JUiIeZDvyn/05.webp",
-        "https://storage.azorafly.com/public//upload/series/taming-of-heroes/JUiIeZDvyn/06.webp",
-        "https://storage.azorafly.com/public//upload/series/taming-of-heroes/JUiIeZDvyn/07.webp",
-        "https://storage.azorafly.com/public//upload/series/taming-of-heroes/JUiIeZDvyn/08.webp",
-        "https://storage.azorafly.com/public//upload/series/taming-of-heroes/JUiIeZDvyn/09.webp",
-        "https://storage.azorafly.com/public//upload/series/taming-of-heroes/JUiIeZDvyn/10.webp",
-        "https://storage.azorafly.com/public//upload/series/taming-of-heroes/JUiIeZDvyn/11.webp",
-        "https://storage.azorafly.com/public//upload/series/taming-of-heroes/JUiIeZDvyn/12.webp",
-        "https://storage.azorafly.com/public//upload/series/taming-of-heroes/JUiIeZDvyn/13.webp",
-        "https://storage.azorafly.com/public//upload/series/taming-of-heroes/JUiIeZDvyn/14.webp",
-        "https://storage.azorafly.com/public//upload/series/taming-of-heroes/JUiIeZDvyn/15.webp",
-        "https://storage.azorafly.com/public//upload/series/taming-of-heroes/JUiIeZDvyn/16.webp",
-        "https://storage.azorafly.com/public//upload/series/taming-of-heroes/JUiIeZDvyn/17.webp"
-      ]
-    },
-    "https://azorafly.com/series/taming-of-heroes/chapter-36": {
-      "name": "36",
-      "images": [
-        "https://storage.azorafly.com/public//upload/series/taming-of-heroes/QQEliHMl9u/01.webp",
-        "https://storage.azorafly.com/public//upload/series/taming-of-heroes/QQEliHMl9u/02.webp",
-        "https://storage.azorafly.com/public//upload/series/taming-of-heroes/QQEliHMl9u/03.webp",
-        "https://storage.azorafly.com/public//upload/series/taming-of-heroes/QQEliHMl9u/04.webp",
-        "https://storage.azorafly.com/public//upload/series/taming-of-heroes/QQEliHMl9u/05.webp",
-        "https://storage.azorafly.com/public//upload/series/taming-of-heroes/QQEliHMl9u/06.webp",
-        "https://storage.azorafly.com/public//upload/series/taming-of-heroes/QQEliHMl9u/07.webp",
-        "https://storage.azorafly.com/public//upload/series/taming-of-heroes/QQEliHMl9u/08.webp",
-        "https://storage.azorafly.com/public//upload/series/taming-of-heroes/QQEliHMl9u/09.webp",
-        "https://storage.azorafly.com/public//upload/series/taming-of-heroes/QQEliHMl9u/10.webp",
-        "https://storage.azorafly.com/public//upload/series/taming-of-heroes/QQEliHMl9u/11.webp",
-        "https://storage.azorafly.com/public//upload/series/taming-of-heroes/QQEliHMl9u/12.webp",
-        "https://storage.azorafly.com/public//upload/series/taming-of-heroes/QQEliHMl9u/13.webp",
-        "https://storage.azorafly.com/public//upload/series/taming-of-heroes/QQEliHMl9u/14.webp",
-        "https://storage.azorafly.com/public//upload/series/taming-of-heroes/QQEliHMl9u/15.webp",
-        "https://storage.azorafly.com/public//upload/series/taming-of-heroes/QQEliHMl9u/16.webp",
-        "https://storage.azorafly.com/public//upload/series/taming-of-heroes/QQEliHMl9u/17.webp"
-      ]
-    },
-    "https://azorafly.com/series/taming-of-heroes/chapter-35": {
-      "name": "35",
-      "images": [
-        "https://storage.azorafly.com/public//upload/series/taming-of-heroes/ORG29Ug4bN/0.webp",
-        "https://storage.azorafly.com/public//upload/series/taming-of-heroes/ORG29Ug4bN/1.webp",
-        "https://storage.azorafly.com/public//upload/series/taming-of-heroes/ORG29Ug4bN/2.webp",
-        "https://storage.azorafly.com/public//upload/series/taming-of-heroes/ORG29Ug4bN/3.webp",
-        "https://storage.azorafly.com/public//upload/series/taming-of-heroes/ORG29Ug4bN/4.webp",
-        "https://storage.azorafly.com/public//upload/series/taming-of-heroes/ORG29Ug4bN/5.webp",
-        "https://storage.azorafly.com/public//upload/series/taming-of-heroes/ORG29Ug4bN/6.webp",
-        "https://storage.azorafly.com/public//upload/series/taming-of-heroes/ORG29Ug4bN/7.webp",
-        "https://storage.azorafly.com/public//upload/series/taming-of-heroes/ORG29Ug4bN/8.webp",
-        "https://storage.azorafly.com/public//upload/series/taming-of-heroes/ORG29Ug4bN/9.webp",
-        "https://storage.azorafly.com/public//upload/series/taming-of-heroes/ORG29Ug4bN/10.webp",
-        "https://storage.azorafly.com/public//upload/series/taming-of-heroes/ORG29Ug4bN/11.webp",
-        "https://storage.azorafly.com/public//upload/series/taming-of-heroes/ORG29Ug4bN/12.webp"
-      ]
-    },
-    "https://azorafly.com/series/taming-of-heroes/chapter-34": {
-      "name": "34",
-      "images": [
-        "https://storage.azorafly.com/public//upload/series/taming-of-heroes/k0WSePzxl6/01.webp",
-        "https://storage.azorafly.com/public//upload/series/taming-of-heroes/k0WSePzxl6/02.webp",
-        "https://storage.azorafly.com/public//upload/series/taming-of-heroes/k0WSePzxl6/03.webp",
-        "https://storage.azorafly.com/public//upload/series/taming-of-heroes/k0WSePzxl6/04.webp",
-        "https://storage.azorafly.com/public//upload/series/taming-of-heroes/k0WSePzxl6/05.webp",
-        "https://storage.azorafly.com/public//upload/series/taming-of-heroes/k0WSePzxl6/06.webp",
-        "https://storage.azorafly.com/public//upload/series/taming-of-heroes/k0WSePzxl6/07.webp",
-        "https://storage.azorafly.com/public//upload/series/taming-of-heroes/k0WSePzxl6/08.webp",
-        "https://storage.azorafly.com/public//upload/series/taming-of-heroes/k0WSePzxl6/09.webp",
-        "https://storage.azorafly.com/public//upload/series/taming-of-heroes/k0WSePzxl6/10.webp",
-        "https://storage.azorafly.com/public//upload/series/taming-of-heroes/k0WSePzxl6/11.webp",
-        "https://storage.azorafly.com/public//upload/series/taming-of-heroes/k0WSePzxl6/12.webp",
-        "https://storage.azorafly.com/public//upload/series/taming-of-heroes/k0WSePzxl6/13.webp",
-        "https://storage.azorafly.com/public//upload/series/taming-of-heroes/k0WSePzxl6/14.webp"
-      ]
-    },
-    "https://azorafly.com/series/taming-of-heroes/chapter-33": {
-      "name": "33",
-      "images": [
-        "https://storage.azorafly.com/public//upload/series/taming-of-heroes/lTXTHwXNwW/01.webp",
-        "https://storage.azorafly.com/public//upload/series/taming-of-heroes/lTXTHwXNwW/02.webp",
-        "https://storage.azorafly.com/public//upload/series/taming-of-heroes/lTXTHwXNwW/03.webp",
-        "https://storage.azorafly.com/public//upload/series/taming-of-heroes/lTXTHwXNwW/04.webp",
-        "https://storage.azorafly.com/public//upload/series/taming-of-heroes/lTXTHwXNwW/05.webp",
-        "https://storage.azorafly.com/public//upload/series/taming-of-heroes/lTXTHwXNwW/06.webp",
-        "https://storage.azorafly.com/public//upload/series/taming-of-heroes/lTXTHwXNwW/07.webp",
-        "https://storage.azorafly.com/public//upload/series/taming-of-heroes/lTXTHwXNwW/08.webp",
-        "https://storage.azorafly.com/public//upload/series/taming-of-heroes/lTXTHwXNwW/09.webp",
-        "https://storage.azorafly.com/public//upload/series/taming-of-heroes/lTXTHwXNwW/10.webp",
-        "https://storage.azorafly.com/public//upload/series/taming-of-heroes/lTXTHwXNwW/11.webp",
-        "https://storage.azorafly.com/public//upload/series/taming-of-heroes/lTXTHwXNwW/12.webp",
-        "https://storage.azorafly.com/public//upload/series/taming-of-heroes/lTXTHwXNwW/13.webp"
-      ]
-    },
-    "https://azorafly.com/series/taming-of-heroes/chapter-32": {
-      "name": "32",
-      "images": [
-        "https://storage.azorafly.com/public//upload/series/taming-of-heroes/fnluvjQddC/01.webp",
-        "https://storage.azorafly.com/public//upload/series/taming-of-heroes/fnluvjQddC/02.webp",
-        "https://storage.azorafly.com/public//upload/series/taming-of-heroes/fnluvjQddC/03.webp",
-        "https://storage.azorafly.com/public//upload/series/taming-of-heroes/fnluvjQddC/04.webp",
-        "https://storage.azorafly.com/public//upload/series/taming-of-heroes/fnluvjQddC/05.webp",
-        "https://storage.azorafly.com/public//upload/series/taming-of-heroes/fnluvjQddC/06.webp",
-        "https://storage.azorafly.com/public//upload/series/taming-of-heroes/fnluvjQddC/07.webp",
-        "https://storage.azorafly.com/public//upload/series/taming-of-heroes/fnluvjQddC/08.webp",
-        "https://storage.azorafly.com/public//upload/series/taming-of-heroes/fnluvjQddC/09.webp",
-        "https://storage.azorafly.com/public//upload/series/taming-of-heroes/fnluvjQddC/10.webp",
-        "https://storage.azorafly.com/public//upload/series/taming-of-heroes/fnluvjQddC/11.webp",
-        "https://storage.azorafly.com/public//upload/series/taming-of-heroes/fnluvjQddC/12.webp",
-        "https://storage.azorafly.com/public//upload/series/taming-of-heroes/fnluvjQddC/13.webp",
-        "https://storage.azorafly.com/public//upload/series/taming-of-heroes/fnluvjQddC/14.webp",
-        "https://storage.azorafly.com/public//upload/series/taming-of-heroes/fnluvjQddC/15.webp"
-      ]
-    },
-    "https://azorafly.com/series/taming-of-heroes/chapter-31": {
-      "name": "31",
-      "images": [
-        "https://storage.azorafly.com/public//upload/series/taming-of-heroes/JBIpuPMJXJ/01.webp",
-        "https://storage.azorafly.com/public//upload/series/taming-of-heroes/JBIpuPMJXJ/02.webp",
-        "https://storage.azorafly.com/public//upload/series/taming-of-heroes/JBIpuPMJXJ/03.webp",
-        "https://storage.azorafly.com/public//upload/series/taming-of-heroes/JBIpuPMJXJ/04.webp",
-        "https://storage.azorafly.com/public//upload/series/taming-of-heroes/JBIpuPMJXJ/05.webp",
-        "https://storage.azorafly.com/public//upload/series/taming-of-heroes/JBIpuPMJXJ/06.webp",
-        "https://storage.azorafly.com/public//upload/series/taming-of-heroes/JBIpuPMJXJ/07.webp",
-        "https://storage.azorafly.com/public//upload/series/taming-of-heroes/JBIpuPMJXJ/08.webp",
-        "https://storage.azorafly.com/public//upload/series/taming-of-heroes/JBIpuPMJXJ/09.webp",
-        "https://storage.azorafly.com/public//upload/series/taming-of-heroes/JBIpuPMJXJ/10.webp",
-        "https://storage.azorafly.com/public//upload/series/taming-of-heroes/JBIpuPMJXJ/11.webp",
-        "https://storage.azorafly.com/public//upload/series/taming-of-heroes/JBIpuPMJXJ/12.webp",
-        "https://storage.azorafly.com/public//upload/series/taming-of-heroes/JBIpuPMJXJ/13.webp"
-      ]
-    },
-    "https://azorafly.com/series/taming-of-heroes/chapter-30": {
-      "name": "30",
-      "images": [
-        "https://storage.azorafly.com/public//upload/series/taming-of-heroes/rmCEFT4g6f/00.webp",
-        "https://storage.azorafly.com/public//upload/series/taming-of-heroes/rmCEFT4g6f/01.webp",
-        "https://storage.azorafly.com/public//upload/series/taming-of-heroes/rmCEFT4g6f/02.webp",
-        "https://storage.azorafly.com/public//upload/series/taming-of-heroes/rmCEFT4g6f/03.webp",
-        "https://storage.azorafly.com/public//upload/series/taming-of-heroes/rmCEFT4g6f/04.webp",
-        "https://storage.azorafly.com/public//upload/series/taming-of-heroes/rmCEFT4g6f/05.webp",
-        "https://storage.azorafly.com/public//upload/series/taming-of-heroes/rmCEFT4g6f/06.webp",
-        "https://storage.azorafly.com/public//upload/series/taming-of-heroes/rmCEFT4g6f/07.webp",
-        "https://storage.azorafly.com/public//upload/series/taming-of-heroes/rmCEFT4g6f/08.webp",
-        "https://storage.azorafly.com/public//upload/series/taming-of-heroes/rmCEFT4g6f/09.webp",
-        "https://storage.azorafly.com/public//upload/series/taming-of-heroes/rmCEFT4g6f/10.webp",
-        "https://storage.azorafly.com/public//upload/series/taming-of-heroes/rmCEFT4g6f/11.webp",
-        "https://storage.azorafly.com/public//upload/series/taming-of-heroes/rmCEFT4g6f/12.webp",
-        "https://storage.azorafly.com/public//upload/series/taming-of-heroes/rmCEFT4g6f/13.webp",
-        "https://storage.azorafly.com/public//upload/series/taming-of-heroes/rmCEFT4g6f/14.webp"
-      ]
-    },
-    "https://azorafly.com/series/taming-of-heroes/chapter-29": {
-      "name": "29",
-      "images": [
-        "https://storage.azorafly.com/public//upload/series/taming-of-heroes/ljPpKfg7DB/01.webp",
-        "https://storage.azorafly.com/public//upload/series/taming-of-heroes/ljPpKfg7DB/02.webp",
-        "https://storage.azorafly.com/public//upload/series/taming-of-heroes/ljPpKfg7DB/03.webp",
-        "https://storage.azorafly.com/public//upload/series/taming-of-heroes/ljPpKfg7DB/04.webp",
-        "https://storage.azorafly.com/public//upload/series/taming-of-heroes/ljPpKfg7DB/05.webp",
-        "https://storage.azorafly.com/public//upload/series/taming-of-heroes/ljPpKfg7DB/06.webp",
-        "https://storage.azorafly.com/public//upload/series/taming-of-heroes/ljPpKfg7DB/07.webp",
-        "https://storage.azorafly.com/public//upload/series/taming-of-heroes/ljPpKfg7DB/08.webp",
-        "https://storage.azorafly.com/public//upload/series/taming-of-heroes/ljPpKfg7DB/09.webp",
-        "https://storage.azorafly.com/public//upload/series/taming-of-heroes/ljPpKfg7DB/10.webp",
-        "https://storage.azorafly.com/public//upload/series/taming-of-heroes/ljPpKfg7DB/11.webp",
-        "https://storage.azorafly.com/public//upload/series/taming-of-heroes/ljPpKfg7DB/12.webp",
-        "https://storage.azorafly.com/public//upload/series/taming-of-heroes/ljPpKfg7DB/13.webp"
-      ]
-    },
-    "https://azorafly.com/series/taming-of-heroes/chapter-28": {
-      "name": "28",
-      "images": [
-        "https://storage.azorafly.com/upload/series/taming-of-heroes/a165a917-5083-4ca5-8b21-e21ebfcb55b1/page-0001_1_1783196706095-318322.png",
-        "https://storage.azorafly.com/upload/series/taming-of-heroes/a165a917-5083-4ca5-8b21-e21ebfcb55b1/page-0002_2_1783196706095-448149.png",
-        "https://storage.azorafly.com/upload/series/taming-of-heroes/a165a917-5083-4ca5-8b21-e21ebfcb55b1/page-0003_3_1783196706095-675555.png",
-        "https://storage.azorafly.com/upload/series/taming-of-heroes/a165a917-5083-4ca5-8b21-e21ebfcb55b1/page-0004_4_1783196706095-950869.png",
-        "https://storage.azorafly.com/upload/series/taming-of-heroes/a165a917-5083-4ca5-8b21-e21ebfcb55b1/page-0005_5_1783196706095-101052.png",
-        "https://storage.azorafly.com/upload/series/taming-of-heroes/a165a917-5083-4ca5-8b21-e21ebfcb55b1/page-0006_6_1783196706095-90993.png",
-        "https://storage.azorafly.com/upload/series/taming-of-heroes/a165a917-5083-4ca5-8b21-e21ebfcb55b1/page-0007_7_1783196706095-748501.png",
-        "https://storage.azorafly.com/upload/series/taming-of-heroes/a165a917-5083-4ca5-8b21-e21ebfcb55b1/page-0008_8_1783196706095-824258.png",
-        "https://storage.azorafly.com/upload/series/taming-of-heroes/a165a917-5083-4ca5-8b21-e21ebfcb55b1/page-0009_9_1783196706098-405087.png",
-        "https://storage.azorafly.com/upload/series/taming-of-heroes/a165a917-5083-4ca5-8b21-e21ebfcb55b1/page-0010_10_1783196706103-357761.png",
-        "https://storage.azorafly.com/upload/series/taming-of-heroes/a165a917-5083-4ca5-8b21-e21ebfcb55b1/page-0011_11_1783196706103-635572.png"
-      ]
-    },
-    "https://azorafly.com/series/taming-of-heroes/chapter-27": {
-      "name": "27",
-      "images": [
-        "https://storage.azorafly.com/WP-manga/data/manga_68125814677df/23654de7d8c1f69619d4970eaaf6d53b/01.jpg",
-        "https://storage.azorafly.com/WP-manga/data/manga_68125814677df/23654de7d8c1f69619d4970eaaf6d53b/02.jpg",
-        "https://storage.azorafly.com/WP-manga/data/manga_68125814677df/23654de7d8c1f69619d4970eaaf6d53b/03.jpg",
-        "https://storage.azorafly.com/WP-manga/data/manga_68125814677df/23654de7d8c1f69619d4970eaaf6d53b/04.jpg",
-        "https://storage.azorafly.com/WP-manga/data/manga_68125814677df/23654de7d8c1f69619d4970eaaf6d53b/05.jpg",
-        "https://storage.azorafly.com/WP-manga/data/manga_68125814677df/23654de7d8c1f69619d4970eaaf6d53b/06.jpg",
-        "https://storage.azorafly.com/WP-manga/data/manga_68125814677df/23654de7d8c1f69619d4970eaaf6d53b/07.jpg",
-        "https://storage.azorafly.com/WP-manga/data/manga_68125814677df/23654de7d8c1f69619d4970eaaf6d53b/08.jpg",
-        "https://storage.azorafly.com/WP-manga/data/manga_68125814677df/23654de7d8c1f69619d4970eaaf6d53b/09.jpg",
-        "https://storage.azorafly.com/WP-manga/data/manga_68125814677df/23654de7d8c1f69619d4970eaaf6d53b/10.jpg",
-        "https://storage.azorafly.com/WP-manga/data/manga_68125814677df/23654de7d8c1f69619d4970eaaf6d53b/11.jpg",
-        "https://storage.azorafly.com/WP-manga/data/manga_68125814677df/23654de7d8c1f69619d4970eaaf6d53b/12.jpg",
-        "https://storage.azorafly.com/WP-manga/data/manga_68125814677df/23654de7d8c1f69619d4970eaaf6d53b/13.jpg",
-        "https://storage.azorafly.com/WP-manga/data/manga_68125814677df/23654de7d8c1f69619d4970eaaf6d53b/14.jpg",
-        "https://storage.azorafly.com/WP-manga/data/manga_68125814677df/23654de7d8c1f69619d4970eaaf6d53b/15.jpg",
-        "https://storage.azorafly.com/WP-manga/data/manga_68125814677df/23654de7d8c1f69619d4970eaaf6d53b/16.jpg"
-      ]
-    },
-    "https://azorafly.com/series/taming-of-heroes/chapter-26": {
-      "name": "26",
-      "images": [
-        "https://storage.azorafly.com/WP-manga/data/manga_68125814677df/e22126263569129f544e7cf426a99caa/01.jpg",
-        "https://storage.azorafly.com/WP-manga/data/manga_68125814677df/e22126263569129f544e7cf426a99caa/02.jpg",
-        "https://storage.azorafly.com/WP-manga/data/manga_68125814677df/e22126263569129f544e7cf426a99caa/03.jpg",
-        "https://storage.azorafly.com/WP-manga/data/manga_68125814677df/e22126263569129f544e7cf426a99caa/04.jpg",
-        "https://storage.azorafly.com/WP-manga/data/manga_68125814677df/e22126263569129f544e7cf426a99caa/05.jpg",
-        "https://storage.azorafly.com/WP-manga/data/manga_68125814677df/e22126263569129f544e7cf426a99caa/06.jpg",
-        "https://storage.azorafly.com/WP-manga/data/manga_68125814677df/e22126263569129f544e7cf426a99caa/07.jpg",
-        "https://storage.azorafly.com/WP-manga/data/manga_68125814677df/e22126263569129f544e7cf426a99caa/08.jpg",
-        "https://storage.azorafly.com/WP-manga/data/manga_68125814677df/e22126263569129f544e7cf426a99caa/09.jpg",
-        "https://storage.azorafly.com/WP-manga/data/manga_68125814677df/e22126263569129f544e7cf426a99caa/10.jpg",
-        "https://storage.azorafly.com/WP-manga/data/manga_68125814677df/e22126263569129f544e7cf426a99caa/11.jpg",
-        "https://storage.azorafly.com/WP-manga/data/manga_68125814677df/e22126263569129f544e7cf426a99caa/12.jpg",
-        "https://storage.azorafly.com/WP-manga/data/manga_68125814677df/e22126263569129f544e7cf426a99caa/13.jpg",
-        "https://storage.azorafly.com/WP-manga/data/manga_68125814677df/e22126263569129f544e7cf426a99caa/14.jpg",
-        "https://storage.azorafly.com/WP-manga/data/manga_68125814677df/e22126263569129f544e7cf426a99caa/15.jpg"
-      ]
-    },
-    "https://azorafly.com/series/taming-of-heroes/chapter-25": {
-      "name": "25",
-      "images": [
-        "https://storage.azorafly.com/WP-manga/data/manga_68125814677df/86f9776b427b473e9387b76c1e1a8eb4/01.webp",
-        "https://storage.azorafly.com/WP-manga/data/manga_68125814677df/86f9776b427b473e9387b76c1e1a8eb4/02.webp",
-        "https://storage.azorafly.com/WP-manga/data/manga_68125814677df/86f9776b427b473e9387b76c1e1a8eb4/03.webp",
-        "https://storage.azorafly.com/WP-manga/data/manga_68125814677df/86f9776b427b473e9387b76c1e1a8eb4/04.webp",
-        "https://storage.azorafly.com/WP-manga/data/manga_68125814677df/86f9776b427b473e9387b76c1e1a8eb4/05.webp",
-        "https://storage.azorafly.com/WP-manga/data/manga_68125814677df/86f9776b427b473e9387b76c1e1a8eb4/06.webp",
-        "https://storage.azorafly.com/WP-manga/data/manga_68125814677df/86f9776b427b473e9387b76c1e1a8eb4/07.webp",
-        "https://storage.azorafly.com/WP-manga/data/manga_68125814677df/86f9776b427b473e9387b76c1e1a8eb4/08.webp",
-        "https://storage.azorafly.com/WP-manga/data/manga_68125814677df/86f9776b427b473e9387b76c1e1a8eb4/09.webp",
-        "https://storage.azorafly.com/WP-manga/data/manga_68125814677df/86f9776b427b473e9387b76c1e1a8eb4/10.webp",
-        "https://storage.azorafly.com/WP-manga/data/manga_68125814677df/86f9776b427b473e9387b76c1e1a8eb4/11.webp",
-        "https://storage.azorafly.com/WP-manga/data/manga_68125814677df/86f9776b427b473e9387b76c1e1a8eb4/12.webp",
-        "https://storage.azorafly.com/WP-manga/data/manga_68125814677df/86f9776b427b473e9387b76c1e1a8eb4/13.webp",
-        "https://storage.azorafly.com/WP-manga/data/manga_68125814677df/86f9776b427b473e9387b76c1e1a8eb4/14.webp",
-        "https://storage.azorafly.com/WP-manga/data/manga_68125814677df/86f9776b427b473e9387b76c1e1a8eb4/15.webp",
-        "https://storage.azorafly.com/WP-manga/data/manga_68125814677df/86f9776b427b473e9387b76c1e1a8eb4/16.webp",
-        "https://storage.azorafly.com/WP-manga/data/manga_68125814677df/86f9776b427b473e9387b76c1e1a8eb4/17.webp",
-        "https://storage.azorafly.com/WP-manga/data/manga_68125814677df/86f9776b427b473e9387b76c1e1a8eb4/18.webp",
-        "https://storage.azorafly.com/WP-manga/data/manga_68125814677df/86f9776b427b473e9387b76c1e1a8eb4/19.webp",
-        "https://storage.azorafly.com/WP-manga/data/manga_68125814677df/86f9776b427b473e9387b76c1e1a8eb4/20.webp",
-        "https://storage.azorafly.com/WP-manga/data/manga_68125814677df/86f9776b427b473e9387b76c1e1a8eb4/21.webp"
-      ]
-    },
-    "https://azorafly.com/series/taming-of-heroes/chapter-1": {
-      "name": "1",
-      "images": [
-        "https://storage.azorafly.com/WP-manga/data/manga_68125814677df/5e645a3162a28d145644c0d29764729c/01.webp",
-        "https://storage.azorafly.com/WP-manga/data/manga_68125814677df/5e645a3162a28d145644c0d29764729c/02.webp",
-        "https://storage.azorafly.com/WP-manga/data/manga_68125814677df/5e645a3162a28d145644c0d29764729c/03.webp",
-        "https://storage.azorafly.com/WP-manga/data/manga_68125814677df/5e645a3162a28d145644c0d29764729c/04.webp",
-        "https://storage.azorafly.com/WP-manga/data/manga_68125814677df/5e645a3162a28d145644c0d29764729c/05.webp",
-        "https://storage.azorafly.com/WP-manga/data/manga_68125814677df/5e645a3162a28d145644c0d29764729c/06.webp",
-        "https://storage.azorafly.com/WP-manga/data/manga_68125814677df/5e645a3162a28d145644c0d29764729c/07.webp",
-        "https://storage.azorafly.com/WP-manga/data/manga_68125814677df/5e645a3162a28d145644c0d29764729c/08.webp",
-        "https://storage.azorafly.com/WP-manga/data/manga_68125814677df/5e645a3162a28d145644c0d29764729c/09.webp",
-        "https://storage.azorafly.com/WP-manga/data/manga_68125814677df/5e645a3162a28d145644c0d29764729c/10.webp",
-        "https://storage.azorafly.com/WP-manga/data/manga_68125814677df/5e645a3162a28d145644c0d29764729c/11.webp",
-        "https://storage.azorafly.com/WP-manga/data/manga_68125814677df/5e645a3162a28d145644c0d29764729c/12.webp",
-        "https://storage.azorafly.com/WP-manga/data/manga_68125814677df/5e645a3162a28d145644c0d29764729c/13.webp",
-        "https://storage.azorafly.com/WP-manga/data/manga_68125814677df/5e645a3162a28d145644c0d29764729c/14.webp",
-        "https://storage.azorafly.com/WP-manga/data/manga_68125814677df/5e645a3162a28d145644c0d29764729c/15.webp",
-        "https://storage.azorafly.com/WP-manga/data/manga_68125814677df/5e645a3162a28d145644c0d29764729c/16.webp",
-        "https://storage.azorafly.com/WP-manga/data/manga_68125814677df/5e645a3162a28d145644c0d29764729c/17.webp"
-      ]
-    },
-    "https://azorafly.com/series/taming-of-heroes/chapter-24": {
-      "name": "24",
-      "images": [
-        "https://storage.azorafly.com/WP-manga/data/manga_68125814677df/1354204060f93b0eaf0eef79e88ae445/01.jpg",
-        "https://storage.azorafly.com/WP-manga/data/manga_68125814677df/1354204060f93b0eaf0eef79e88ae445/02.jpg",
-        "https://storage.azorafly.com/WP-manga/data/manga_68125814677df/1354204060f93b0eaf0eef79e88ae445/03.jpg",
-        "https://storage.azorafly.com/WP-manga/data/manga_68125814677df/1354204060f93b0eaf0eef79e88ae445/04.jpg",
-        "https://storage.azorafly.com/WP-manga/data/manga_68125814677df/1354204060f93b0eaf0eef79e88ae445/05.jpg",
-        "https://storage.azorafly.com/WP-manga/data/manga_68125814677df/1354204060f93b0eaf0eef79e88ae445/06.jpg",
-        "https://storage.azorafly.com/WP-manga/data/manga_68125814677df/1354204060f93b0eaf0eef79e88ae445/07.jpg",
-        "https://storage.azorafly.com/WP-manga/data/manga_68125814677df/1354204060f93b0eaf0eef79e88ae445/08.jpg",
-        "https://storage.azorafly.com/WP-manga/data/manga_68125814677df/1354204060f93b0eaf0eef79e88ae445/09.jpg",
-        "https://storage.azorafly.com/WP-manga/data/manga_68125814677df/1354204060f93b0eaf0eef79e88ae445/10.jpg",
-        "https://storage.azorafly.com/WP-manga/data/manga_68125814677df/1354204060f93b0eaf0eef79e88ae445/11.jpg",
-        "https://storage.azorafly.com/WP-manga/data/manga_68125814677df/1354204060f93b0eaf0eef79e88ae445/12.jpg",
-        "https://storage.azorafly.com/WP-manga/data/manga_68125814677df/1354204060f93b0eaf0eef79e88ae445/13.jpg",
-        "https://storage.azorafly.com/WP-manga/data/manga_68125814677df/1354204060f93b0eaf0eef79e88ae445/14.jpg",
-        "https://storage.azorafly.com/WP-manga/data/manga_68125814677df/1354204060f93b0eaf0eef79e88ae445/15.jpg"
-      ]
-    },
-    "https://azorafly.com/series/taming-of-heroes/chapter-23": {
-      "name": "23",
-      "images": [
-        "https://storage.azorafly.com/WP-manga/data/manga_68125814677df/8dc37b4f32c2b4a3fc1711efb12f8040/01.jpg",
-        "https://storage.azorafly.com/WP-manga/data/manga_68125814677df/8dc37b4f32c2b4a3fc1711efb12f8040/02.jpg",
-        "https://storage.azorafly.com/WP-manga/data/manga_68125814677df/8dc37b4f32c2b4a3fc1711efb12f8040/03.jpg",
-        "https://storage.azorafly.com/WP-manga/data/manga_68125814677df/8dc37b4f32c2b4a3fc1711efb12f8040/04.jpg",
-        "https://storage.azorafly.com/WP-manga/data/manga_68125814677df/8dc37b4f32c2b4a3fc1711efb12f8040/05.jpg",
-        "https://storage.azorafly.com/WP-manga/data/manga_68125814677df/8dc37b4f32c2b4a3fc1711efb12f8040/06.jpg",
-        "https://storage.azorafly.com/WP-manga/data/manga_68125814677df/8dc37b4f32c2b4a3fc1711efb12f8040/07.jpg",
-        "https://storage.azorafly.com/WP-manga/data/manga_68125814677df/8dc37b4f32c2b4a3fc1711efb12f8040/08.jpg",
-        "https://storage.azorafly.com/WP-manga/data/manga_68125814677df/8dc37b4f32c2b4a3fc1711efb12f8040/09.jpg",
-        "https://storage.azorafly.com/WP-manga/data/manga_68125814677df/8dc37b4f32c2b4a3fc1711efb12f8040/10.jpg",
-        "https://storage.azorafly.com/WP-manga/data/manga_68125814677df/8dc37b4f32c2b4a3fc1711efb12f8040/11.jpg",
-        "https://storage.azorafly.com/WP-manga/data/manga_68125814677df/8dc37b4f32c2b4a3fc1711efb12f8040/12.jpg",
-        "https://storage.azorafly.com/WP-manga/data/manga_68125814677df/8dc37b4f32c2b4a3fc1711efb12f8040/13.jpg",
-        "https://storage.azorafly.com/WP-manga/data/manga_68125814677df/8dc37b4f32c2b4a3fc1711efb12f8040/14.jpg"
-      ]
-    },
-    "https://azorafly.com/series/taming-of-heroes/chapter-22": {
-      "name": "22",
-      "images": [
-        "https://storage.azorafly.com/WP-manga/data/manga_68125814677df/19b59dd26d8306f6a345544b4bdbe693/01.jpg",
-        "https://storage.azorafly.com/WP-manga/data/manga_68125814677df/19b59dd26d8306f6a345544b4bdbe693/02.jpg",
-        "https://storage.azorafly.com/WP-manga/data/manga_68125814677df/19b59dd26d8306f6a345544b4bdbe693/03.jpg",
-        "https://storage.azorafly.com/WP-manga/data/manga_68125814677df/19b59dd26d8306f6a345544b4bdbe693/04.jpg",
-        "https://storage.azorafly.com/WP-manga/data/manga_68125814677df/19b59dd26d8306f6a345544b4bdbe693/05.jpg",
-        "https://storage.azorafly.com/WP-manga/data/manga_68125814677df/19b59dd26d8306f6a345544b4bdbe693/06.jpg",
-        "https://storage.azorafly.com/WP-manga/data/manga_68125814677df/19b59dd26d8306f6a345544b4bdbe693/07.jpg",
-        "https://storage.azorafly.com/WP-manga/data/manga_68125814677df/19b59dd26d8306f6a345544b4bdbe693/08.jpg",
-        "https://storage.azorafly.com/WP-manga/data/manga_68125814677df/19b59dd26d8306f6a345544b4bdbe693/09.jpg"
-      ]
-    },
-    "https://azorafly.com/series/taming-of-heroes/chapter-21": {
-      "name": "21",
-      "images": [
-        "https://storage.azorafly.com/WP-manga/data/manga_68125814677df/fb389cf5e42808cae8092fdf542b5dc5/01.jpg",
-        "https://storage.azorafly.com/WP-manga/data/manga_68125814677df/fb389cf5e42808cae8092fdf542b5dc5/02.jpg",
-        "https://storage.azorafly.com/WP-manga/data/manga_68125814677df/fb389cf5e42808cae8092fdf542b5dc5/03.jpg",
-        "https://storage.azorafly.com/WP-manga/data/manga_68125814677df/fb389cf5e42808cae8092fdf542b5dc5/04.jpg",
-        "https://storage.azorafly.com/WP-manga/data/manga_68125814677df/fb389cf5e42808cae8092fdf542b5dc5/05.jpg",
-        "https://storage.azorafly.com/WP-manga/data/manga_68125814677df/fb389cf5e42808cae8092fdf542b5dc5/06.jpg",
-        "https://storage.azorafly.com/WP-manga/data/manga_68125814677df/fb389cf5e42808cae8092fdf542b5dc5/07.jpg",
-        "https://storage.azorafly.com/WP-manga/data/manga_68125814677df/fb389cf5e42808cae8092fdf542b5dc5/08.jpg",
-        "https://storage.azorafly.com/WP-manga/data/manga_68125814677df/fb389cf5e42808cae8092fdf542b5dc5/09.jpg",
-        "https://storage.azorafly.com/WP-manga/data/manga_68125814677df/fb389cf5e42808cae8092fdf542b5dc5/10.jpg"
-      ]
-    },
-    "https://azorafly.com/series/taming-of-heroes/chapter-20": {
-      "name": "20",
-      "images": [
-        "https://storage.azorafly.com/WP-manga/data/manga_68125814677df/c5324dca18e50d79debb1c14dde7263f/01.webp",
-        "https://storage.azorafly.com/WP-manga/data/manga_68125814677df/c5324dca18e50d79debb1c14dde7263f/02.webp",
-        "https://storage.azorafly.com/WP-manga/data/manga_68125814677df/c5324dca18e50d79debb1c14dde7263f/03.webp",
-        "https://storage.azorafly.com/WP-manga/data/manga_68125814677df/c5324dca18e50d79debb1c14dde7263f/04.webp",
-        "https://storage.azorafly.com/WP-manga/data/manga_68125814677df/c5324dca18e50d79debb1c14dde7263f/05.webp",
-        "https://storage.azorafly.com/WP-manga/data/manga_68125814677df/c5324dca18e50d79debb1c14dde7263f/06.webp",
-        "https://storage.azorafly.com/WP-manga/data/manga_68125814677df/c5324dca18e50d79debb1c14dde7263f/07.webp",
-        "https://storage.azorafly.com/WP-manga/data/manga_68125814677df/c5324dca18e50d79debb1c14dde7263f/08.webp",
-        "https://storage.azorafly.com/WP-manga/data/manga_68125814677df/c5324dca18e50d79debb1c14dde7263f/09.webp",
-        "https://storage.azorafly.com/WP-manga/data/manga_68125814677df/c5324dca18e50d79debb1c14dde7263f/10.webp",
-        "https://storage.azorafly.com/WP-manga/data/manga_68125814677df/c5324dca18e50d79debb1c14dde7263f/11.webp",
-        "https://storage.azorafly.com/WP-manga/data/manga_68125814677df/c5324dca18e50d79debb1c14dde7263f/12.webp",
-        "https://storage.azorafly.com/WP-manga/data/manga_68125814677df/c5324dca18e50d79debb1c14dde7263f/13.webp",
-        "https://storage.azorafly.com/WP-manga/data/manga_68125814677df/c5324dca18e50d79debb1c14dde7263f/14.webp",
-        "https://storage.azorafly.com/WP-manga/data/manga_68125814677df/c5324dca18e50d79debb1c14dde7263f/15.webp",
-        "https://storage.azorafly.com/WP-manga/data/manga_68125814677df/c5324dca18e50d79debb1c14dde7263f/16.webp"
-      ]
-    },
-    "https://azorafly.com/series/taming-of-heroes/chapter-19": {
-      "name": "19",
-      "images": [
-        "https://storage.azorafly.com/WP-manga/data/manga_68125814677df/3fc740aa9f9924e8753e6beaededd41d/01.webp",
-        "https://storage.azorafly.com/WP-manga/data/manga_68125814677df/3fc740aa9f9924e8753e6beaededd41d/02.webp",
-        "https://storage.azorafly.com/WP-manga/data/manga_68125814677df/3fc740aa9f9924e8753e6beaededd41d/03.webp",
-        "https://storage.azorafly.com/WP-manga/data/manga_68125814677df/3fc740aa9f9924e8753e6beaededd41d/04.webp",
-        "https://storage.azorafly.com/WP-manga/data/manga_68125814677df/3fc740aa9f9924e8753e6beaededd41d/05.webp",
-        "https://storage.azorafly.com/WP-manga/data/manga_68125814677df/3fc740aa9f9924e8753e6beaededd41d/06.webp",
-        "https://storage.azorafly.com/WP-manga/data/manga_68125814677df/3fc740aa9f9924e8753e6beaededd41d/07.webp",
-        "https://storage.azorafly.com/WP-manga/data/manga_68125814677df/3fc740aa9f9924e8753e6beaededd41d/08.webp",
-        "https://storage.azorafly.com/WP-manga/data/manga_68125814677df/3fc740aa9f9924e8753e6beaededd41d/09.webp",
-        "https://storage.azorafly.com/WP-manga/data/manga_68125814677df/3fc740aa9f9924e8753e6beaededd41d/10.webp",
-        "https://storage.azorafly.com/WP-manga/data/manga_68125814677df/3fc740aa9f9924e8753e6beaededd41d/11.webp",
-        "https://storage.azorafly.com/WP-manga/data/manga_68125814677df/3fc740aa9f9924e8753e6beaededd41d/12.webp",
-        "https://storage.azorafly.com/WP-manga/data/manga_68125814677df/3fc740aa9f9924e8753e6beaededd41d/13.webp",
-        "https://storage.azorafly.com/WP-manga/data/manga_68125814677df/3fc740aa9f9924e8753e6beaededd41d/14.webp",
-        "https://storage.azorafly.com/WP-manga/data/manga_68125814677df/3fc740aa9f9924e8753e6beaededd41d/15.webp",
-        "https://storage.azorafly.com/WP-manga/data/manga_68125814677df/3fc740aa9f9924e8753e6beaededd41d/16.webp",
-        "https://storage.azorafly.com/WP-manga/data/manga_68125814677df/3fc740aa9f9924e8753e6beaededd41d/17.webp",
-        "https://storage.azorafly.com/WP-manga/data/manga_68125814677df/3fc740aa9f9924e8753e6beaededd41d/18.webp"
-      ]
-    },
-    "https://azorafly.com/series/taming-of-heroes/chapter-18": {
-      "name": "18",
-      "images": [
-        "https://storage.azorafly.com/WP-manga/data/manga_68125814677df/2d046debdf08ba4b75fd5bef5989982f/01.webp",
-        "https://storage.azorafly.com/WP-manga/data/manga_68125814677df/2d046debdf08ba4b75fd5bef5989982f/02.webp",
-        "https://storage.azorafly.com/WP-manga/data/manga_68125814677df/2d046debdf08ba4b75fd5bef5989982f/03.webp",
-        "https://storage.azorafly.com/WP-manga/data/manga_68125814677df/2d046debdf08ba4b75fd5bef5989982f/04.webp",
-        "https://storage.azorafly.com/WP-manga/data/manga_68125814677df/2d046debdf08ba4b75fd5bef5989982f/05.webp",
-        "https://storage.azorafly.com/WP-manga/data/manga_68125814677df/2d046debdf08ba4b75fd5bef5989982f/06.webp",
-        "https://storage.azorafly.com/WP-manga/data/manga_68125814677df/2d046debdf08ba4b75fd5bef5989982f/07.webp",
-        "https://storage.azorafly.com/WP-manga/data/manga_68125814677df/2d046debdf08ba4b75fd5bef5989982f/08.webp",
-        "https://storage.azorafly.com/WP-manga/data/manga_68125814677df/2d046debdf08ba4b75fd5bef5989982f/09.webp",
-        "https://storage.azorafly.com/WP-manga/data/manga_68125814677df/2d046debdf08ba4b75fd5bef5989982f/10.webp",
-        "https://storage.azorafly.com/WP-manga/data/manga_68125814677df/2d046debdf08ba4b75fd5bef5989982f/11.webp",
-        "https://storage.azorafly.com/WP-manga/data/manga_68125814677df/2d046debdf08ba4b75fd5bef5989982f/12.webp",
-        "https://storage.azorafly.com/WP-manga/data/manga_68125814677df/2d046debdf08ba4b75fd5bef5989982f/13.webp",
-        "https://storage.azorafly.com/WP-manga/data/manga_68125814677df/2d046debdf08ba4b75fd5bef5989982f/14.webp",
-        "https://storage.azorafly.com/WP-manga/data/manga_68125814677df/2d046debdf08ba4b75fd5bef5989982f/15.webp"
-      ]
-    },
-    "https://azorafly.com/series/taming-of-heroes/chapter-17": {
-      "name": "17",
-      "images": [
-        "https://storage.azorafly.com/WP-manga/data/manga_68125814677df/94a0316805774cb7e6f4199786cf7c52/01.webp",
-        "https://storage.azorafly.com/WP-manga/data/manga_68125814677df/94a0316805774cb7e6f4199786cf7c52/02.webp",
-        "https://storage.azorafly.com/WP-manga/data/manga_68125814677df/94a0316805774cb7e6f4199786cf7c52/03.webp",
-        "https://storage.azorafly.com/WP-manga/data/manga_68125814677df/94a0316805774cb7e6f4199786cf7c52/04.webp",
-        "https://storage.azorafly.com/WP-manga/data/manga_68125814677df/94a0316805774cb7e6f4199786cf7c52/05.webp",
-        "https://storage.azorafly.com/WP-manga/data/manga_68125814677df/94a0316805774cb7e6f4199786cf7c52/06.webp",
-        "https://storage.azorafly.com/WP-manga/data/manga_68125814677df/94a0316805774cb7e6f4199786cf7c52/07.webp",
-        "https://storage.azorafly.com/WP-manga/data/manga_68125814677df/94a0316805774cb7e6f4199786cf7c52/08.webp",
-        "https://storage.azorafly.com/WP-manga/data/manga_68125814677df/94a0316805774cb7e6f4199786cf7c52/09.webp",
-        "https://storage.azorafly.com/WP-manga/data/manga_68125814677df/94a0316805774cb7e6f4199786cf7c52/10.webp",
-        "https://storage.azorafly.com/WP-manga/data/manga_68125814677df/94a0316805774cb7e6f4199786cf7c52/11.webp",
-        "https://storage.azorafly.com/WP-manga/data/manga_68125814677df/94a0316805774cb7e6f4199786cf7c52/12.webp",
-        "https://storage.azorafly.com/WP-manga/data/manga_68125814677df/94a0316805774cb7e6f4199786cf7c52/13.webp",
-        "https://storage.azorafly.com/WP-manga/data/manga_68125814677df/94a0316805774cb7e6f4199786cf7c52/14.webp",
-        "https://storage.azorafly.com/WP-manga/data/manga_68125814677df/94a0316805774cb7e6f4199786cf7c52/15.webp",
-        "https://storage.azorafly.com/WP-manga/data/manga_68125814677df/94a0316805774cb7e6f4199786cf7c52/16.webp",
-        "https://storage.azorafly.com/WP-manga/data/manga_68125814677df/94a0316805774cb7e6f4199786cf7c52/17.webp"
-      ]
-    },
-    "https://azorafly.com/series/taming-of-heroes/chapter-16": {
-      "name": "16",
-      "images": [
-        "https://storage.azorafly.com/WP-manga/data/manga_68125814677df/976bc7bb24413acded244a7b8385afc7/01.jpg",
-        "https://storage.azorafly.com/WP-manga/data/manga_68125814677df/976bc7bb24413acded244a7b8385afc7/02.jpg",
-        "https://storage.azorafly.com/WP-manga/data/manga_68125814677df/976bc7bb24413acded244a7b8385afc7/03.jpg",
-        "https://storage.azorafly.com/WP-manga/data/manga_68125814677df/976bc7bb24413acded244a7b8385afc7/04.jpg",
-        "https://storage.azorafly.com/WP-manga/data/manga_68125814677df/976bc7bb24413acded244a7b8385afc7/05.jpg",
-        "https://storage.azorafly.com/WP-manga/data/manga_68125814677df/976bc7bb24413acded244a7b8385afc7/06.jpg",
-        "https://storage.azorafly.com/WP-manga/data/manga_68125814677df/976bc7bb24413acded244a7b8385afc7/07.jpg",
-        "https://storage.azorafly.com/WP-manga/data/manga_68125814677df/976bc7bb24413acded244a7b8385afc7/08.jpg",
-        "https://storage.azorafly.com/WP-manga/data/manga_68125814677df/976bc7bb24413acded244a7b8385afc7/09.jpg",
-        "https://storage.azorafly.com/WP-manga/data/manga_68125814677df/976bc7bb24413acded244a7b8385afc7/10.jpg",
-        "https://storage.azorafly.com/WP-manga/data/manga_68125814677df/976bc7bb24413acded244a7b8385afc7/11.jpg",
-        "https://storage.azorafly.com/WP-manga/data/manga_68125814677df/976bc7bb24413acded244a7b8385afc7/12.jpg",
-        "https://storage.azorafly.com/WP-manga/data/manga_68125814677df/976bc7bb24413acded244a7b8385afc7/13.jpg",
-        "https://storage.azorafly.com/WP-manga/data/manga_68125814677df/976bc7bb24413acded244a7b8385afc7/14.jpg",
-        "https://storage.azorafly.com/WP-manga/data/manga_68125814677df/976bc7bb24413acded244a7b8385afc7/15.jpg",
-        "https://storage.azorafly.com/WP-manga/data/manga_68125814677df/976bc7bb24413acded244a7b8385afc7/16.jpg",
-        "https://storage.azorafly.com/WP-manga/data/manga_68125814677df/976bc7bb24413acded244a7b8385afc7/17.jpg",
-        "https://storage.azorafly.com/WP-manga/data/manga_68125814677df/976bc7bb24413acded244a7b8385afc7/18.jpg",
-        "https://storage.azorafly.com/WP-manga/data/manga_68125814677df/976bc7bb24413acded244a7b8385afc7/19.jpg",
-        "https://storage.azorafly.com/WP-manga/data/manga_68125814677df/976bc7bb24413acded244a7b8385afc7/20.jpg",
-        "https://storage.azorafly.com/WP-manga/data/manga_68125814677df/976bc7bb24413acded244a7b8385afc7/21.jpg"
-      ]
-    },
-    "https://azorafly.com/series/taming-of-heroes/chapter-15": {
-      "name": "15",
-      "images": [
-        "https://storage.azorafly.com/WP-manga/data/manga_68125814677df/9768c41909f8a310401f24433eba6142/01.jpg",
-        "https://storage.azorafly.com/WP-manga/data/manga_68125814677df/9768c41909f8a310401f24433eba6142/02.jpg",
-        "https://storage.azorafly.com/WP-manga/data/manga_68125814677df/9768c41909f8a310401f24433eba6142/03.jpg",
-        "https://storage.azorafly.com/WP-manga/data/manga_68125814677df/9768c41909f8a310401f24433eba6142/04.jpg",
-        "https://storage.azorafly.com/WP-manga/data/manga_68125814677df/9768c41909f8a310401f24433eba6142/05.jpg",
-        "https://storage.azorafly.com/WP-manga/data/manga_68125814677df/9768c41909f8a310401f24433eba6142/06.jpg",
-        "https://storage.azorafly.com/WP-manga/data/manga_68125814677df/9768c41909f8a310401f24433eba6142/07.jpg",
-        "https://storage.azorafly.com/WP-manga/data/manga_68125814677df/9768c41909f8a310401f24433eba6142/08.jpg",
-        "https://storage.azorafly.com/WP-manga/data/manga_68125814677df/9768c41909f8a310401f24433eba6142/09.jpg",
-        "https://storage.azorafly.com/WP-manga/data/manga_68125814677df/9768c41909f8a310401f24433eba6142/10.jpg",
-        "https://storage.azorafly.com/WP-manga/data/manga_68125814677df/9768c41909f8a310401f24433eba6142/11.jpg",
-        "https://storage.azorafly.com/WP-manga/data/manga_68125814677df/9768c41909f8a310401f24433eba6142/12.jpg",
-        "https://storage.azorafly.com/WP-manga/data/manga_68125814677df/9768c41909f8a310401f24433eba6142/13.jpg",
-        "https://storage.azorafly.com/WP-manga/data/manga_68125814677df/9768c41909f8a310401f24433eba6142/14.jpg",
-        "https://storage.azorafly.com/WP-manga/data/manga_68125814677df/9768c41909f8a310401f24433eba6142/15.jpg",
-        "https://storage.azorafly.com/WP-manga/data/manga_68125814677df/9768c41909f8a310401f24433eba6142/16.jpg",
-        "https://storage.azorafly.com/WP-manga/data/manga_68125814677df/9768c41909f8a310401f24433eba6142/17.jpg",
-        "https://storage.azorafly.com/WP-manga/data/manga_68125814677df/9768c41909f8a310401f24433eba6142/18.jpg",
-        "https://storage.azorafly.com/WP-manga/data/manga_68125814677df/9768c41909f8a310401f24433eba6142/19.jpg",
-        "https://storage.azorafly.com/WP-manga/data/manga_68125814677df/9768c41909f8a310401f24433eba6142/20.jpg"
-      ]
-    },
-    "https://azorafly.com/series/taming-of-heroes/chapter-14": {
-      "name": "14",
-      "images": [
-        "https://storage.azorafly.com/WP-manga/data/manga_68125814677df/ed636b66a9a3f773cd317f0650d97403/0-حقوق_.jpg",
-        "https://storage.azorafly.com/WP-manga/data/manga_68125814677df/ed636b66a9a3f773cd317f0650d97403/1.jpg",
-        "https://storage.azorafly.com/WP-manga/data/manga_68125814677df/ed636b66a9a3f773cd317f0650d97403/2.jpg",
-        "https://storage.azorafly.com/WP-manga/data/manga_68125814677df/ed636b66a9a3f773cd317f0650d97403/3.jpg",
-        "https://storage.azorafly.com/WP-manga/data/manga_68125814677df/ed636b66a9a3f773cd317f0650d97403/4.jpg",
-        "https://storage.azorafly.com/WP-manga/data/manga_68125814677df/ed636b66a9a3f773cd317f0650d97403/5.jpg",
-        "https://storage.azorafly.com/WP-manga/data/manga_68125814677df/ed636b66a9a3f773cd317f0650d97403/6.jpg",
-        "https://storage.azorafly.com/WP-manga/data/manga_68125814677df/ed636b66a9a3f773cd317f0650d97403/7.jpg",
-        "https://storage.azorafly.com/WP-manga/data/manga_68125814677df/ed636b66a9a3f773cd317f0650d97403/8.jpg",
-        "https://storage.azorafly.com/WP-manga/data/manga_68125814677df/ed636b66a9a3f773cd317f0650d97403/نهاية-فصل_.jpg"
-      ]
-    },
-    "https://azorafly.com/series/taming-of-heroes/chapter-13": {
-      "name": "13",
-      "images": [
-        "https://storage.azorafly.com/WP-manga/data/manga_68125814677df/5fd7b870ec8c5e49d6bed9d9735a70be/01.jpg",
-        "https://storage.azorafly.com/WP-manga/data/manga_68125814677df/5fd7b870ec8c5e49d6bed9d9735a70be/02.jpg",
-        "https://storage.azorafly.com/WP-manga/data/manga_68125814677df/5fd7b870ec8c5e49d6bed9d9735a70be/03.jpg",
-        "https://storage.azorafly.com/WP-manga/data/manga_68125814677df/5fd7b870ec8c5e49d6bed9d9735a70be/04.jpg",
-        "https://storage.azorafly.com/WP-manga/data/manga_68125814677df/5fd7b870ec8c5e49d6bed9d9735a70be/05.jpg",
-        "https://storage.azorafly.com/WP-manga/data/manga_68125814677df/5fd7b870ec8c5e49d6bed9d9735a70be/06.jpg",
-        "https://storage.azorafly.com/WP-manga/data/manga_68125814677df/5fd7b870ec8c5e49d6bed9d9735a70be/07.jpg",
-        "https://storage.azorafly.com/WP-manga/data/manga_68125814677df/5fd7b870ec8c5e49d6bed9d9735a70be/08.jpg",
-        "https://storage.azorafly.com/WP-manga/data/manga_68125814677df/5fd7b870ec8c5e49d6bed9d9735a70be/09.jpg",
-        "https://storage.azorafly.com/WP-manga/data/manga_68125814677df/5fd7b870ec8c5e49d6bed9d9735a70be/10.jpg",
-        "https://storage.azorafly.com/WP-manga/data/manga_68125814677df/5fd7b870ec8c5e49d6bed9d9735a70be/11.jpg",
-        "https://storage.azorafly.com/WP-manga/data/manga_68125814677df/5fd7b870ec8c5e49d6bed9d9735a70be/12.jpg",
-        "https://storage.azorafly.com/WP-manga/data/manga_68125814677df/5fd7b870ec8c5e49d6bed9d9735a70be/13.jpg",
-        "https://storage.azorafly.com/WP-manga/data/manga_68125814677df/5fd7b870ec8c5e49d6bed9d9735a70be/14.jpg",
-        "https://storage.azorafly.com/WP-manga/data/manga_68125814677df/5fd7b870ec8c5e49d6bed9d9735a70be/15.jpg",
-        "https://storage.azorafly.com/WP-manga/data/manga_68125814677df/5fd7b870ec8c5e49d6bed9d9735a70be/16.jpg"
-      ]
-    },
-    "https://azorafly.com/series/taming-of-heroes/chapter-12": {
-      "name": "12",
-      "images": [
-        "https://storage.azorafly.com/WP-manga/data/manga_68125814677df/765e59441691e2fd1f047c8339cbe067/01.jpg",
-        "https://storage.azorafly.com/WP-manga/data/manga_68125814677df/765e59441691e2fd1f047c8339cbe067/02.jpg",
-        "https://storage.azorafly.com/WP-manga/data/manga_68125814677df/765e59441691e2fd1f047c8339cbe067/03.jpg",
-        "https://storage.azorafly.com/WP-manga/data/manga_68125814677df/765e59441691e2fd1f047c8339cbe067/04.jpg",
-        "https://storage.azorafly.com/WP-manga/data/manga_68125814677df/765e59441691e2fd1f047c8339cbe067/05.jpg",
-        "https://storage.azorafly.com/WP-manga/data/manga_68125814677df/765e59441691e2fd1f047c8339cbe067/06.jpg",
-        "https://storage.azorafly.com/WP-manga/data/manga_68125814677df/765e59441691e2fd1f047c8339cbe067/07.jpg",
-        "https://storage.azorafly.com/WP-manga/data/manga_68125814677df/765e59441691e2fd1f047c8339cbe067/08.jpg",
-        "https://storage.azorafly.com/WP-manga/data/manga_68125814677df/765e59441691e2fd1f047c8339cbe067/09.jpg",
-        "https://storage.azorafly.com/WP-manga/data/manga_68125814677df/765e59441691e2fd1f047c8339cbe067/10.jpg",
-        "https://storage.azorafly.com/WP-manga/data/manga_68125814677df/765e59441691e2fd1f047c8339cbe067/11.jpg",
-        "https://storage.azorafly.com/WP-manga/data/manga_68125814677df/765e59441691e2fd1f047c8339cbe067/12.jpg",
-        "https://storage.azorafly.com/WP-manga/data/manga_68125814677df/765e59441691e2fd1f047c8339cbe067/13.jpg",
-        "https://storage.azorafly.com/WP-manga/data/manga_68125814677df/765e59441691e2fd1f047c8339cbe067/14.jpg",
-        "https://storage.azorafly.com/WP-manga/data/manga_68125814677df/765e59441691e2fd1f047c8339cbe067/15.jpg",
-        "https://storage.azorafly.com/WP-manga/data/manga_68125814677df/765e59441691e2fd1f047c8339cbe067/16.jpg",
-        "https://storage.azorafly.com/WP-manga/data/manga_68125814677df/765e59441691e2fd1f047c8339cbe067/17.jpg",
-        "https://storage.azorafly.com/WP-manga/data/manga_68125814677df/765e59441691e2fd1f047c8339cbe067/18.jpg"
-      ]
-    },
-    "https://azorafly.com/series/taming-of-heroes/chapter-11": {
-      "name": "11",
-      "images": [
-        "https://storage.azorafly.com/WP-manga/data/manga_68125814677df/635bff88a0ab973ca1570f7a17aee0b7/01.jpg",
-        "https://storage.azorafly.com/WP-manga/data/manga_68125814677df/635bff88a0ab973ca1570f7a17aee0b7/02.jpg",
-        "https://storage.azorafly.com/WP-manga/data/manga_68125814677df/635bff88a0ab973ca1570f7a17aee0b7/03.jpg",
-        "https://storage.azorafly.com/WP-manga/data/manga_68125814677df/635bff88a0ab973ca1570f7a17aee0b7/04.jpg",
-        "https://storage.azorafly.com/WP-manga/data/manga_68125814677df/635bff88a0ab973ca1570f7a17aee0b7/05.jpg",
-        "https://storage.azorafly.com/WP-manga/data/manga_68125814677df/635bff88a0ab973ca1570f7a17aee0b7/06.jpg",
-        "https://storage.azorafly.com/WP-manga/data/manga_68125814677df/635bff88a0ab973ca1570f7a17aee0b7/07.jpg",
-        "https://storage.azorafly.com/WP-manga/data/manga_68125814677df/635bff88a0ab973ca1570f7a17aee0b7/08.jpg",
-        "https://storage.azorafly.com/WP-manga/data/manga_68125814677df/635bff88a0ab973ca1570f7a17aee0b7/09.jpg",
-        "https://storage.azorafly.com/WP-manga/data/manga_68125814677df/635bff88a0ab973ca1570f7a17aee0b7/10.jpg",
-        "https://storage.azorafly.com/WP-manga/data/manga_68125814677df/635bff88a0ab973ca1570f7a17aee0b7/11.jpg",
-        "https://storage.azorafly.com/WP-manga/data/manga_68125814677df/635bff88a0ab973ca1570f7a17aee0b7/12.jpg",
-        "https://storage.azorafly.com/WP-manga/data/manga_68125814677df/635bff88a0ab973ca1570f7a17aee0b7/13.jpg",
-        "https://storage.azorafly.com/WP-manga/data/manga_68125814677df/635bff88a0ab973ca1570f7a17aee0b7/14.jpg",
-        "https://storage.azorafly.com/WP-manga/data/manga_68125814677df/635bff88a0ab973ca1570f7a17aee0b7/15.jpg",
-        "https://storage.azorafly.com/WP-manga/data/manga_68125814677df/635bff88a0ab973ca1570f7a17aee0b7/16.jpg",
-        "https://storage.azorafly.com/WP-manga/data/manga_68125814677df/635bff88a0ab973ca1570f7a17aee0b7/17.jpg"
-      ]
-    },
-    "https://azorafly.com/series/taming-of-heroes/chapter-10": {
-      "name": "10",
-      "images": [
-        "https://storage.azorafly.com/WP-manga/data/manga_68125814677df/17caac2435e0789cca10c933a26801ec/01.jpg",
-        "https://storage.azorafly.com/WP-manga/data/manga_68125814677df/17caac2435e0789cca10c933a26801ec/02.jpg",
-        "https://storage.azorafly.com/WP-manga/data/manga_68125814677df/17caac2435e0789cca10c933a26801ec/03.jpg",
-        "https://storage.azorafly.com/WP-manga/data/manga_68125814677df/17caac2435e0789cca10c933a26801ec/04.jpg",
-        "https://storage.azorafly.com/WP-manga/data/manga_68125814677df/17caac2435e0789cca10c933a26801ec/05.jpg",
-        "https://storage.azorafly.com/WP-manga/data/manga_68125814677df/17caac2435e0789cca10c933a26801ec/06.jpg",
-        "https://storage.azorafly.com/WP-manga/data/manga_68125814677df/17caac2435e0789cca10c933a26801ec/07.jpg",
-        "https://storage.azorafly.com/WP-manga/data/manga_68125814677df/17caac2435e0789cca10c933a26801ec/08.jpg",
-        "https://storage.azorafly.com/WP-manga/data/manga_68125814677df/17caac2435e0789cca10c933a26801ec/09.jpg",
-        "https://storage.azorafly.com/WP-manga/data/manga_68125814677df/17caac2435e0789cca10c933a26801ec/10.jpg",
-        "https://storage.azorafly.com/WP-manga/data/manga_68125814677df/17caac2435e0789cca10c933a26801ec/11.jpg",
-        "https://storage.azorafly.com/WP-manga/data/manga_68125814677df/17caac2435e0789cca10c933a26801ec/12.jpg",
-        "https://storage.azorafly.com/WP-manga/data/manga_68125814677df/17caac2435e0789cca10c933a26801ec/13.jpg",
-        "https://storage.azorafly.com/WP-manga/data/manga_68125814677df/17caac2435e0789cca10c933a26801ec/14.jpg",
-        "https://storage.azorafly.com/WP-manga/data/manga_68125814677df/17caac2435e0789cca10c933a26801ec/15.jpg",
-        "https://storage.azorafly.com/WP-manga/data/manga_68125814677df/17caac2435e0789cca10c933a26801ec/16.jpg",
-        "https://storage.azorafly.com/WP-manga/data/manga_68125814677df/17caac2435e0789cca10c933a26801ec/17.jpg",
-        "https://storage.azorafly.com/WP-manga/data/manga_68125814677df/17caac2435e0789cca10c933a26801ec/18.jpg",
-        "https://storage.azorafly.com/WP-manga/data/manga_68125814677df/17caac2435e0789cca10c933a26801ec/19.jpg",
-        "https://storage.azorafly.com/WP-manga/data/manga_68125814677df/17caac2435e0789cca10c933a26801ec/20.jpg",
-        "https://storage.azorafly.com/WP-manga/data/manga_68125814677df/17caac2435e0789cca10c933a26801ec/21.jpg",
-        "https://storage.azorafly.com/WP-manga/data/manga_68125814677df/17caac2435e0789cca10c933a26801ec/22.jpg",
-        "https://storage.azorafly.com/WP-manga/data/manga_68125814677df/17caac2435e0789cca10c933a26801ec/23.jpg",
-        "https://storage.azorafly.com/WP-manga/data/manga_68125814677df/17caac2435e0789cca10c933a26801ec/24.jpg"
-      ]
-    },
-    "https://azorafly.com/series/taming-of-heroes/chapter-9": {
-      "name": "9",
-      "images": [
-        "https://storage.azorafly.com/WP-manga/data/manga_68125814677df/038501dcfb76501bf0bc86cd2608f5dd/01.webp",
-        "https://storage.azorafly.com/WP-manga/data/manga_68125814677df/038501dcfb76501bf0bc86cd2608f5dd/02.webp",
-        "https://storage.azorafly.com/WP-manga/data/manga_68125814677df/038501dcfb76501bf0bc86cd2608f5dd/03.webp",
-        "https://storage.azorafly.com/WP-manga/data/manga_68125814677df/038501dcfb76501bf0bc86cd2608f5dd/04.webp",
-        "https://storage.azorafly.com/WP-manga/data/manga_68125814677df/038501dcfb76501bf0bc86cd2608f5dd/05.webp",
-        "https://storage.azorafly.com/WP-manga/data/manga_68125814677df/038501dcfb76501bf0bc86cd2608f5dd/06.webp",
-        "https://storage.azorafly.com/WP-manga/data/manga_68125814677df/038501dcfb76501bf0bc86cd2608f5dd/07.webp",
-        "https://storage.azorafly.com/WP-manga/data/manga_68125814677df/038501dcfb76501bf0bc86cd2608f5dd/08.webp",
-        "https://storage.azorafly.com/WP-manga/data/manga_68125814677df/038501dcfb76501bf0bc86cd2608f5dd/09.webp",
-        "https://storage.azorafly.com/WP-manga/data/manga_68125814677df/038501dcfb76501bf0bc86cd2608f5dd/10.webp",
-        "https://storage.azorafly.com/WP-manga/data/manga_68125814677df/038501dcfb76501bf0bc86cd2608f5dd/11.webp",
-        "https://storage.azorafly.com/WP-manga/data/manga_68125814677df/038501dcfb76501bf0bc86cd2608f5dd/12.webp",
-        "https://storage.azorafly.com/WP-manga/data/manga_68125814677df/038501dcfb76501bf0bc86cd2608f5dd/13.webp",
-        "https://storage.azorafly.com/WP-manga/data/manga_68125814677df/038501dcfb76501bf0bc86cd2608f5dd/14.webp",
-        "https://storage.azorafly.com/WP-manga/data/manga_68125814677df/038501dcfb76501bf0bc86cd2608f5dd/15.webp",
-        "https://storage.azorafly.com/WP-manga/data/manga_68125814677df/038501dcfb76501bf0bc86cd2608f5dd/16.webp",
-        "https://storage.azorafly.com/WP-manga/data/manga_68125814677df/038501dcfb76501bf0bc86cd2608f5dd/17.webp",
-        "https://storage.azorafly.com/WP-manga/data/manga_68125814677df/038501dcfb76501bf0bc86cd2608f5dd/18.webp",
-        "https://storage.azorafly.com/WP-manga/data/manga_68125814677df/038501dcfb76501bf0bc86cd2608f5dd/19.webp",
-        "https://storage.azorafly.com/WP-manga/data/manga_68125814677df/038501dcfb76501bf0bc86cd2608f5dd/20.webp",
-        "https://storage.azorafly.com/WP-manga/data/manga_68125814677df/038501dcfb76501bf0bc86cd2608f5dd/21.webp",
-        "https://storage.azorafly.com/WP-manga/data/manga_68125814677df/038501dcfb76501bf0bc86cd2608f5dd/22.webp",
-        "https://storage.azorafly.com/WP-manga/data/manga_68125814677df/038501dcfb76501bf0bc86cd2608f5dd/23.webp",
-        "https://storage.azorafly.com/WP-manga/data/manga_68125814677df/038501dcfb76501bf0bc86cd2608f5dd/24.webp",
-        "https://storage.azorafly.com/WP-manga/data/manga_68125814677df/038501dcfb76501bf0bc86cd2608f5dd/25.webp"
-      ]
-    },
-    "https://azorafly.com/series/taming-of-heroes/chapter-8": {
-      "name": "8",
-      "images": [
-        "https://storage.azorafly.com/WP-manga/data/manga_68125814677df/403c1d879e3356426f824ad7b9b2b715/01.webp",
-        "https://storage.azorafly.com/WP-manga/data/manga_68125814677df/403c1d879e3356426f824ad7b9b2b715/02.webp",
-        "https://storage.azorafly.com/WP-manga/data/manga_68125814677df/403c1d879e3356426f824ad7b9b2b715/03.webp",
-        "https://storage.azorafly.com/WP-manga/data/manga_68125814677df/403c1d879e3356426f824ad7b9b2b715/04.webp",
-        "https://storage.azorafly.com/WP-manga/data/manga_68125814677df/403c1d879e3356426f824ad7b9b2b715/05.webp",
-        "https://storage.azorafly.com/WP-manga/data/manga_68125814677df/403c1d879e3356426f824ad7b9b2b715/06.webp",
-        "https://storage.azorafly.com/WP-manga/data/manga_68125814677df/403c1d879e3356426f824ad7b9b2b715/07.webp",
-        "https://storage.azorafly.com/WP-manga/data/manga_68125814677df/403c1d879e3356426f824ad7b9b2b715/08.webp",
-        "https://storage.azorafly.com/WP-manga/data/manga_68125814677df/403c1d879e3356426f824ad7b9b2b715/09.webp",
-        "https://storage.azorafly.com/WP-manga/data/manga_68125814677df/403c1d879e3356426f824ad7b9b2b715/10.webp",
-        "https://storage.azorafly.com/WP-manga/data/manga_68125814677df/403c1d879e3356426f824ad7b9b2b715/11.webp",
-        "https://storage.azorafly.com/WP-manga/data/manga_68125814677df/403c1d879e3356426f824ad7b9b2b715/12.webp",
-        "https://storage.azorafly.com/WP-manga/data/manga_68125814677df/403c1d879e3356426f824ad7b9b2b715/13.webp",
-        "https://storage.azorafly.com/WP-manga/data/manga_68125814677df/403c1d879e3356426f824ad7b9b2b715/14.webp",
-        "https://storage.azorafly.com/WP-manga/data/manga_68125814677df/403c1d879e3356426f824ad7b9b2b715/15.webp",
-        "https://storage.azorafly.com/WP-manga/data/manga_68125814677df/403c1d879e3356426f824ad7b9b2b715/16.webp",
-        "https://storage.azorafly.com/WP-manga/data/manga_68125814677df/403c1d879e3356426f824ad7b9b2b715/17.webp",
-        "https://storage.azorafly.com/WP-manga/data/manga_68125814677df/403c1d879e3356426f824ad7b9b2b715/18.webp",
-        "https://storage.azorafly.com/WP-manga/data/manga_68125814677df/403c1d879e3356426f824ad7b9b2b715/19.webp"
-      ]
-    },
-    "https://azorafly.com/series/taming-of-heroes/chapter-7": {
-      "name": "7",
-      "images": [
-        "https://storage.azorafly.com/WP-manga/data/manga_68125814677df/ef75edb00a0cce1dfd91e4afc8083095/01.webp",
-        "https://storage.azorafly.com/WP-manga/data/manga_68125814677df/ef75edb00a0cce1dfd91e4afc8083095/02.webp",
-        "https://storage.azorafly.com/WP-manga/data/manga_68125814677df/ef75edb00a0cce1dfd91e4afc8083095/03.webp",
-        "https://storage.azorafly.com/WP-manga/data/manga_68125814677df/ef75edb00a0cce1dfd91e4afc8083095/04.webp",
-        "https://storage.azorafly.com/WP-manga/data/manga_68125814677df/ef75edb00a0cce1dfd91e4afc8083095/05.webp",
-        "https://storage.azorafly.com/WP-manga/data/manga_68125814677df/ef75edb00a0cce1dfd91e4afc8083095/06.webp",
-        "https://storage.azorafly.com/WP-manga/data/manga_68125814677df/ef75edb00a0cce1dfd91e4afc8083095/07.webp",
-        "https://storage.azorafly.com/WP-manga/data/manga_68125814677df/ef75edb00a0cce1dfd91e4afc8083095/08.webp",
-        "https://storage.azorafly.com/WP-manga/data/manga_68125814677df/ef75edb00a0cce1dfd91e4afc8083095/09.webp",
-        "https://storage.azorafly.com/WP-manga/data/manga_68125814677df/ef75edb00a0cce1dfd91e4afc8083095/10.webp",
-        "https://storage.azorafly.com/WP-manga/data/manga_68125814677df/ef75edb00a0cce1dfd91e4afc8083095/11.webp",
-        "https://storage.azorafly.com/WP-manga/data/manga_68125814677df/ef75edb00a0cce1dfd91e4afc8083095/12.webp",
-        "https://storage.azorafly.com/WP-manga/data/manga_68125814677df/ef75edb00a0cce1dfd91e4afc8083095/13.webp",
-        "https://storage.azorafly.com/WP-manga/data/manga_68125814677df/ef75edb00a0cce1dfd91e4afc8083095/14.webp",
-        "https://storage.azorafly.com/WP-manga/data/manga_68125814677df/ef75edb00a0cce1dfd91e4afc8083095/15.webp",
-        "https://storage.azorafly.com/WP-manga/data/manga_68125814677df/ef75edb00a0cce1dfd91e4afc8083095/16.webp",
-        "https://storage.azorafly.com/WP-manga/data/manga_68125814677df/ef75edb00a0cce1dfd91e4afc8083095/17.webp",
-        "https://storage.azorafly.com/WP-manga/data/manga_68125814677df/ef75edb00a0cce1dfd91e4afc8083095/18.webp"
-      ]
-    },
-    "https://azorafly.com/series/taming-of-heroes/chapter-6": {
-      "name": "6",
-      "images": [
-        "https://storage.azorafly.com/WP-manga/data/manga_68125814677df/58f1bf133eae7dfc83e3b4dfc5b3486b/01.webp",
-        "https://storage.azorafly.com/WP-manga/data/manga_68125814677df/58f1bf133eae7dfc83e3b4dfc5b3486b/02.webp",
-        "https://storage.azorafly.com/WP-manga/data/manga_68125814677df/58f1bf133eae7dfc83e3b4dfc5b3486b/03.webp",
-        "https://storage.azorafly.com/WP-manga/data/manga_68125814677df/58f1bf133eae7dfc83e3b4dfc5b3486b/04.webp",
-        "https://storage.azorafly.com/WP-manga/data/manga_68125814677df/58f1bf133eae7dfc83e3b4dfc5b3486b/05.webp",
-        "https://storage.azorafly.com/WP-manga/data/manga_68125814677df/58f1bf133eae7dfc83e3b4dfc5b3486b/06.webp",
-        "https://storage.azorafly.com/WP-manga/data/manga_68125814677df/58f1bf133eae7dfc83e3b4dfc5b3486b/07.webp",
-        "https://storage.azorafly.com/WP-manga/data/manga_68125814677df/58f1bf133eae7dfc83e3b4dfc5b3486b/08.webp",
-        "https://storage.azorafly.com/WP-manga/data/manga_68125814677df/58f1bf133eae7dfc83e3b4dfc5b3486b/09.webp",
-        "https://storage.azorafly.com/WP-manga/data/manga_68125814677df/58f1bf133eae7dfc83e3b4dfc5b3486b/10.webp",
-        "https://storage.azorafly.com/WP-manga/data/manga_68125814677df/58f1bf133eae7dfc83e3b4dfc5b3486b/11.webp",
-        "https://storage.azorafly.com/WP-manga/data/manga_68125814677df/58f1bf133eae7dfc83e3b4dfc5b3486b/12.webp",
-        "https://storage.azorafly.com/WP-manga/data/manga_68125814677df/58f1bf133eae7dfc83e3b4dfc5b3486b/13.webp",
-        "https://storage.azorafly.com/WP-manga/data/manga_68125814677df/58f1bf133eae7dfc83e3b4dfc5b3486b/14.webp",
-        "https://storage.azorafly.com/WP-manga/data/manga_68125814677df/58f1bf133eae7dfc83e3b4dfc5b3486b/15.webp",
-        "https://storage.azorafly.com/WP-manga/data/manga_68125814677df/58f1bf133eae7dfc83e3b4dfc5b3486b/16.webp",
-        "https://storage.azorafly.com/WP-manga/data/manga_68125814677df/58f1bf133eae7dfc83e3b4dfc5b3486b/17.webp",
-        "https://storage.azorafly.com/WP-manga/data/manga_68125814677df/58f1bf133eae7dfc83e3b4dfc5b3486b/18.webp",
-        "https://storage.azorafly.com/WP-manga/data/manga_68125814677df/58f1bf133eae7dfc83e3b4dfc5b3486b/19.webp",
-        "https://storage.azorafly.com/WP-manga/data/manga_68125814677df/58f1bf133eae7dfc83e3b4dfc5b3486b/20.webp"
-      ]
-    },
-    "https://azorafly.com/series/taming-of-heroes/chapter-5": {
-      "name": "5",
-      "images": [
-        "https://storage.azorafly.com/WP-manga/data/manga_68125814677df/19449ce78bd323dd711b19a6e26f4d24/01.webp",
-        "https://storage.azorafly.com/WP-manga/data/manga_68125814677df/19449ce78bd323dd711b19a6e26f4d24/02.webp",
-        "https://storage.azorafly.com/WP-manga/data/manga_68125814677df/19449ce78bd323dd711b19a6e26f4d24/03.webp",
-        "https://storage.azorafly.com/WP-manga/data/manga_68125814677df/19449ce78bd323dd711b19a6e26f4d24/04.webp",
-        "https://storage.azorafly.com/WP-manga/data/manga_68125814677df/19449ce78bd323dd711b19a6e26f4d24/05.webp",
-        "https://storage.azorafly.com/WP-manga/data/manga_68125814677df/19449ce78bd323dd711b19a6e26f4d24/06.webp",
-        "https://storage.azorafly.com/WP-manga/data/manga_68125814677df/19449ce78bd323dd711b19a6e26f4d24/07.webp",
-        "https://storage.azorafly.com/WP-manga/data/manga_68125814677df/19449ce78bd323dd711b19a6e26f4d24/08.webp",
-        "https://storage.azorafly.com/WP-manga/data/manga_68125814677df/19449ce78bd323dd711b19a6e26f4d24/09.webp",
-        "https://storage.azorafly.com/WP-manga/data/manga_68125814677df/19449ce78bd323dd711b19a6e26f4d24/10.webp",
-        "https://storage.azorafly.com/WP-manga/data/manga_68125814677df/19449ce78bd323dd711b19a6e26f4d24/11.webp",
-        "https://storage.azorafly.com/WP-manga/data/manga_68125814677df/19449ce78bd323dd711b19a6e26f4d24/12.webp",
-        "https://storage.azorafly.com/WP-manga/data/manga_68125814677df/19449ce78bd323dd711b19a6e26f4d24/13.webp",
-        "https://storage.azorafly.com/WP-manga/data/manga_68125814677df/19449ce78bd323dd711b19a6e26f4d24/14.webp",
-        "https://storage.azorafly.com/WP-manga/data/manga_68125814677df/19449ce78bd323dd711b19a6e26f4d24/15.webp",
-        "https://storage.azorafly.com/WP-manga/data/manga_68125814677df/19449ce78bd323dd711b19a6e26f4d24/16.webp",
-        "https://storage.azorafly.com/WP-manga/data/manga_68125814677df/19449ce78bd323dd711b19a6e26f4d24/17.webp",
-        "https://storage.azorafly.com/WP-manga/data/manga_68125814677df/19449ce78bd323dd711b19a6e26f4d24/18.webp",
-        "https://storage.azorafly.com/WP-manga/data/manga_68125814677df/19449ce78bd323dd711b19a6e26f4d24/19.webp",
-        "https://storage.azorafly.com/WP-manga/data/manga_68125814677df/19449ce78bd323dd711b19a6e26f4d24/20.webp"
-      ]
-    },
-    "https://azorafly.com/series/taming-of-heroes/chapter-4": {
-      "name": "4",
-      "images": [
-        "https://storage.azorafly.com/WP-manga/data/manga_68125814677df/98369a3cb29f8abbf4c914774fc2bee8/01.webp",
-        "https://storage.azorafly.com/WP-manga/data/manga_68125814677df/98369a3cb29f8abbf4c914774fc2bee8/02.webp",
-        "https://storage.azorafly.com/WP-manga/data/manga_68125814677df/98369a3cb29f8abbf4c914774fc2bee8/03.webp",
-        "https://storage.azorafly.com/WP-manga/data/manga_68125814677df/98369a3cb29f8abbf4c914774fc2bee8/04.webp",
-        "https://storage.azorafly.com/WP-manga/data/manga_68125814677df/98369a3cb29f8abbf4c914774fc2bee8/05.webp",
-        "https://storage.azorafly.com/WP-manga/data/manga_68125814677df/98369a3cb29f8abbf4c914774fc2bee8/06.webp",
-        "https://storage.azorafly.com/WP-manga/data/manga_68125814677df/98369a3cb29f8abbf4c914774fc2bee8/07.webp",
-        "https://storage.azorafly.com/WP-manga/data/manga_68125814677df/98369a3cb29f8abbf4c914774fc2bee8/08.webp",
-        "https://storage.azorafly.com/WP-manga/data/manga_68125814677df/98369a3cb29f8abbf4c914774fc2bee8/09.webp",
-        "https://storage.azorafly.com/WP-manga/data/manga_68125814677df/98369a3cb29f8abbf4c914774fc2bee8/10.webp",
-        "https://storage.azorafly.com/WP-manga/data/manga_68125814677df/98369a3cb29f8abbf4c914774fc2bee8/11.webp",
-        "https://storage.azorafly.com/WP-manga/data/manga_68125814677df/98369a3cb29f8abbf4c914774fc2bee8/12.webp",
-        "https://storage.azorafly.com/WP-manga/data/manga_68125814677df/98369a3cb29f8abbf4c914774fc2bee8/13.webp",
-        "https://storage.azorafly.com/WP-manga/data/manga_68125814677df/98369a3cb29f8abbf4c914774fc2bee8/14.webp",
-        "https://storage.azorafly.com/WP-manga/data/manga_68125814677df/98369a3cb29f8abbf4c914774fc2bee8/15.webp",
-        "https://storage.azorafly.com/WP-manga/data/manga_68125814677df/98369a3cb29f8abbf4c914774fc2bee8/16.webp",
-        "https://storage.azorafly.com/WP-manga/data/manga_68125814677df/98369a3cb29f8abbf4c914774fc2bee8/17.webp",
-        "https://storage.azorafly.com/WP-manga/data/manga_68125814677df/98369a3cb29f8abbf4c914774fc2bee8/18.webp"
-      ]
-    },
-    "https://azorafly.com/series/taming-of-heroes/chapter-3": {
-      "name": "3",
-      "images": [
-        "https://storage.azorafly.com/WP-manga/data/manga_68125814677df/5a846200ca54af57cd46a26909ea3d58/01.webp",
-        "https://storage.azorafly.com/WP-manga/data/manga_68125814677df/5a846200ca54af57cd46a26909ea3d58/02.webp",
-        "https://storage.azorafly.com/WP-manga/data/manga_68125814677df/5a846200ca54af57cd46a26909ea3d58/03.webp",
-        "https://storage.azorafly.com/WP-manga/data/manga_68125814677df/5a846200ca54af57cd46a26909ea3d58/04.webp",
-        "https://storage.azorafly.com/WP-manga/data/manga_68125814677df/5a846200ca54af57cd46a26909ea3d58/05.webp",
-        "https://storage.azorafly.com/WP-manga/data/manga_68125814677df/5a846200ca54af57cd46a26909ea3d58/06.webp",
-        "https://storage.azorafly.com/WP-manga/data/manga_68125814677df/5a846200ca54af57cd46a26909ea3d58/07.webp",
-        "https://storage.azorafly.com/WP-manga/data/manga_68125814677df/5a846200ca54af57cd46a26909ea3d58/08.webp",
-        "https://storage.azorafly.com/WP-manga/data/manga_68125814677df/5a846200ca54af57cd46a26909ea3d58/09.webp",
-        "https://storage.azorafly.com/WP-manga/data/manga_68125814677df/5a846200ca54af57cd46a26909ea3d58/10.webp",
-        "https://storage.azorafly.com/WP-manga/data/manga_68125814677df/5a846200ca54af57cd46a26909ea3d58/11.webp",
-        "https://storage.azorafly.com/WP-manga/data/manga_68125814677df/5a846200ca54af57cd46a26909ea3d58/12.webp",
-        "https://storage.azorafly.com/WP-manga/data/manga_68125814677df/5a846200ca54af57cd46a26909ea3d58/13.webp",
-        "https://storage.azorafly.com/WP-manga/data/manga_68125814677df/5a846200ca54af57cd46a26909ea3d58/14.webp",
-        "https://storage.azorafly.com/WP-manga/data/manga_68125814677df/5a846200ca54af57cd46a26909ea3d58/15.webp",
-        "https://storage.azorafly.com/WP-manga/data/manga_68125814677df/5a846200ca54af57cd46a26909ea3d58/16.webp"
-      ]
-    },
-    "https://azorafly.com/series/taming-of-heroes/chapter-2": {
-      "name": "2",
-      "images": [
-        "https://storage.azorafly.com/WP-manga/data/manga_68125814677df/e1a91316655869277323f968a455e0a7/01.webp",
-        "https://storage.azorafly.com/WP-manga/data/manga_68125814677df/e1a91316655869277323f968a455e0a7/02.webp",
-        "https://storage.azorafly.com/WP-manga/data/manga_68125814677df/e1a91316655869277323f968a455e0a7/03.webp",
-        "https://storage.azorafly.com/WP-manga/data/manga_68125814677df/e1a91316655869277323f968a455e0a7/04.webp",
-        "https://storage.azorafly.com/WP-manga/data/manga_68125814677df/e1a91316655869277323f968a455e0a7/05.webp",
-        "https://storage.azorafly.com/WP-manga/data/manga_68125814677df/e1a91316655869277323f968a455e0a7/06.webp",
-        "https://storage.azorafly.com/WP-manga/data/manga_68125814677df/e1a91316655869277323f968a455e0a7/07.webp",
-        "https://storage.azorafly.com/WP-manga/data/manga_68125814677df/e1a91316655869277323f968a455e0a7/08.webp",
-        "https://storage.azorafly.com/WP-manga/data/manga_68125814677df/e1a91316655869277323f968a455e0a7/09.webp",
-        "https://storage.azorafly.com/WP-manga/data/manga_68125814677df/e1a91316655869277323f968a455e0a7/10.webp",
-        "https://storage.azorafly.com/WP-manga/data/manga_68125814677df/e1a91316655869277323f968a455e0a7/11.webp",
-        "https://storage.azorafly.com/WP-manga/data/manga_68125814677df/e1a91316655869277323f968a455e0a7/12.webp",
-        "https://storage.azorafly.com/WP-manga/data/manga_68125814677df/e1a91316655869277323f968a455e0a7/13.webp",
-        "https://storage.azorafly.com/WP-manga/data/manga_68125814677df/e1a91316655869277323f968a455e0a7/14.webp",
-        "https://storage.azorafly.com/WP-manga/data/manga_68125814677df/e1a91316655869277323f968a455e0a7/15.webp",
-        "https://storage.azorafly.com/WP-manga/data/manga_68125814677df/e1a91316655869277323f968a455e0a7/16.webp",
-        "https://storage.azorafly.com/WP-manga/data/manga_68125814677df/e1a91316655869277323f968a455e0a7/17.webp",
-        "https://storage.azorafly.com/WP-manga/data/manga_68125814677df/e1a91316655869277323f968a455e0a7/18.webp",
-        "https://storage.azorafly.com/WP-manga/data/manga_68125814677df/e1a91316655869277323f968a455e0a7/19.webp"
-      ]
-    }
-  },
   "title": "Taming of Heroes",
   "cover_url": "https://storage.azorafly.com/2025/04/20250430_055510.webp",
-  "description": "لكي تتمكن من تربية ابنتها، تحتاج الأميرة الشريرة إلى الولاء من الأبطال!. حُكم على \"الأميرة المتعطشة للدماء\" مارتينا بالنفي في حياتها السابقة، و تم تسميم \"ابنتها\" حتى الموت . لقد بذلت كل ما لديها لل...",
+  "description": "لا يوجد وصف.",
   "type": "مانهوا",
   "status": "مستمر",
-  "last_update": "منذ 3 ساعات تقريبا",
-  "favorites": "",
+  "last_update": "Viewاقرأ الفصل 0إضافة للمفضلةالإبلاغ عن مشكلة10التقييمات1.0KالمفضلةالحالةONGOINGالنوعمانهواالفصول45آخر تحديثمنذ 4 ساعات تقريباًTaming of Heroes الفصول ( 45 )  الملخص التقييمات ( 10 ) اجعل الكل مقروءاًوضع علامة 'مقروء' على جميع الفصولالفصل 43جديد13الفصل 4211 يوم1617الفصل 41بدايـة الموسـم الثانيشهرين تقريبا2237الفصل 40.5اعلان الموسم الثاني24 يوم920الفصل 40نهــــــاية الموســـم الأول7 أشهر3769الفصل 397 أشهر2449الفصل 387 أشهر1447الفصل 377 أشهر1047الفصل 367 أشهر1749الفصل 357 أشهر1258الفصل 348 أشهر1762الفصل 338 أشهر850الفصل 328 أشهر1950الفصل 318 أشهر1851الفصل 308 أشهر554الفصل 299 أشهر550الفصل 289 أشهر1042الفصل 279 أشهر841الفصل 2610 أشهر436الفصل 2510 أشهر439عرض المزيد الملخص لكي تتمكن من تربية ابنتها، تحتاج الأميرة الشريرة إلى الولاء من الأبطال!. حُكم على \"الأميرة المتعطشة للدماء\" مارتينا بالنفي في حياتها السابقة، و تم تسميم \"ابنتها\" حتى الموت . لقد بذلت كل ما لديها للحصول على فرصة جديدة. في هذه...عرض المزيدرعاية اطفالفانتازياانتقامرومانسيالفرقMeowشارك Azora Mangaمع أصدقائكشاركانضم لمجتمعناDiscord0اعجبني0أحببته0اضحكني0واو0احزنني0اغضبنيالنقاش0أعمال مشابهةDarling, Why Do You Regret It?★9.368 فصلI Will Pay the Price for Deceiving You With My Life★9.664 فصلI Saved You, But I'm Not Responsible★9.081 فصلThe Price Is Your Everything★9.3126 فصلSurvive the Horror School★10.071 فصل",
   "rating": "",
   "genres": [],
-  "is_novel": false
+  "is_novel": false,
+  "chapters": {
+    "https://azorafly.com/series/taming-of-heroes/chapter-0": {
+      "name": "0"
+    },
+    "https://azorafly.com/series/taming-of-heroes/chapter-43": {
+      "name": "43"
+    },
+    "https://azorafly.com/series/taming-of-heroes/chapter-42": {
+      "name": "42"
+    },
+    "https://azorafly.com/series/taming-of-heroes/chapter-41": {
+      "name": "41"
+    },
+    "https://azorafly.com/series/taming-of-heroes/chapter-40.5": {
+      "name": "40.5"
+    },
+    "https://azorafly.com/series/taming-of-heroes/chapter-40": {
+      "name": "40"
+    },
+    "https://azorafly.com/series/taming-of-heroes/chapter-39": {
+      "name": "39"
+    },
+    "https://azorafly.com/series/taming-of-heroes/chapter-38": {
+      "name": "38"
+    },
+    "https://azorafly.com/series/taming-of-heroes/chapter-37": {
+      "name": "37"
+    },
+    "https://azorafly.com/series/taming-of-heroes/chapter-36": {
+      "name": "36"
+    },
+    "https://azorafly.com/series/taming-of-heroes/chapter-35": {
+      "name": "35"
+    },
+    "https://azorafly.com/series/taming-of-heroes/chapter-34": {
+      "name": "34"
+    },
+    "https://azorafly.com/series/taming-of-heroes/chapter-33": {
+      "name": "33"
+    },
+    "https://azorafly.com/series/taming-of-heroes/chapter-32": {
+      "name": "32"
+    },
+    "https://azorafly.com/series/taming-of-heroes/chapter-31": {
+      "name": "31"
+    },
+    "https://azorafly.com/series/taming-of-heroes/chapter-30": {
+      "name": "30"
+    },
+    "https://azorafly.com/series/taming-of-heroes/chapter-29": {
+      "name": "29"
+    },
+    "https://azorafly.com/series/taming-of-heroes/chapter-28": {
+      "name": "28"
+    },
+    "https://azorafly.com/series/taming-of-heroes/chapter-27": {
+      "name": "27"
+    },
+    "https://azorafly.com/series/taming-of-heroes/chapter-26": {
+      "name": "26"
+    },
+    "https://azorafly.com/series/taming-of-heroes/chapter-25": {
+      "name": "25"
+    },
+    "https://azorafly.com/series/taming-of-heroes/chapter-1": {
+      "name": "1"
+    },
+    "https://azorafly.com/series/taming-of-heroes/chapter-24": {
+      "name": "24"
+    },
+    "https://azorafly.com/series/taming-of-heroes/chapter-23": {
+      "name": "23"
+    },
+    "https://azorafly.com/series/taming-of-heroes/chapter-22": {
+      "name": "22"
+    },
+    "https://azorafly.com/series/taming-of-heroes/chapter-21": {
+      "name": "21"
+    },
+    "https://azorafly.com/series/taming-of-heroes/chapter-20": {
+      "name": "20"
+    },
+    "https://azorafly.com/series/taming-of-heroes/chapter-19": {
+      "name": "19"
+    },
+    "https://azorafly.com/series/taming-of-heroes/chapter-18": {
+      "name": "18"
+    },
+    "https://azorafly.com/series/taming-of-heroes/chapter-17": {
+      "name": "17"
+    },
+    "https://azorafly.com/series/taming-of-heroes/chapter-16": {
+      "name": "16"
+    },
+    "https://azorafly.com/series/taming-of-heroes/chapter-15": {
+      "name": "15"
+    },
+    "https://azorafly.com/series/taming-of-heroes/chapter-14": {
+      "name": "14"
+    },
+    "https://azorafly.com/series/taming-of-heroes/chapter-13": {
+      "name": "13"
+    },
+    "https://azorafly.com/series/taming-of-heroes/chapter-12": {
+      "name": "12"
+    },
+    "https://azorafly.com/series/taming-of-heroes/chapter-11": {
+      "name": "11"
+    },
+    "https://azorafly.com/series/taming-of-heroes/chapter-10": {
+      "name": "10"
+    },
+    "https://azorafly.com/series/taming-of-heroes/chapter-9": {
+      "name": "9"
+    },
+    "https://azorafly.com/series/taming-of-heroes/chapter-8": {
+      "name": "8"
+    },
+    "https://azorafly.com/series/taming-of-heroes/chapter-7": {
+      "name": "7"
+    },
+    "https://azorafly.com/series/taming-of-heroes/chapter-6": {
+      "name": "6"
+    },
+    "https://azorafly.com/series/taming-of-heroes/chapter-5": {
+      "name": "5"
+    },
+    "https://azorafly.com/series/taming-of-heroes/chapter-4": {
+      "name": "4"
+    },
+    "https://azorafly.com/series/taming-of-heroes/chapter-3": {
+      "name": "3"
+    },
+    "https://azorafly.com/series/taming-of-heroes/chapter-2": {
+      "name": "2"
+    }
+  }
 }
