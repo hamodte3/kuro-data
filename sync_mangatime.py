@@ -87,6 +87,7 @@ def scrape_manga_details_mangatime(session, catalog_item: dict):
     info_input = {"0": {"json": {"slug": slug}}}
     series_data = fetch_trpc(session, "content.getSeriesBySlug", info_input) or {}
 
+    # حزام أمان: لو فشل tRPC نأخذ العنوان والغلاف من الفهرس مباشرة ولا نتركه فارغاً
     title = series_data.get("title") or catalog_item.get("title") or "بدون عنوان"
     cover_url = series_data.get("coverUrl") or series_data.get("cover") or series_data.get("bannerUrl") or catalog_item.get("cover_url") or ""
     if cover_url.startswith("/"):
@@ -104,13 +105,51 @@ def scrape_manga_details_mangatime(session, catalog_item: dict):
 
     genres = [g.get("name") for g in series_data.get("genres", []) if isinstance(g, dict) and g.get("name")]
 
-    # 🎯 التوليد السحري المباشر: سطر واحد ينهي أزمة الفصول كلها
-    total_chapters = int(stats.get("chapterCount") or series_data.get("chapterCount") or 0)
-    
-    chapters_map = {
-        f"{BASE_URL}/manga/{slug}/chapter/{i}": {"name": str(i)}
-        for i in range(total_chapters, 0, -1)
+    # 🎯 1. طلب الفصول الحقيقية
+    chapters_input = {
+        "0": {
+            "json": {
+                "seriesSlug": slug,
+                "limit": 1000,
+                "page": 1,
+                "sortBy": "number-desc"
+            }
+        }
     }
+    chapters_data = fetch_trpc(session, "content.getChapters", chapters_input)
+    chapters_array = extract_items_list(chapters_data)
+
+    chapters_map = {}
+    number_regex = re.compile(r"\d+(\.\d+)?")
+
+    if chapters_array:
+        for ch in chapters_array:
+            if not isinstance(ch, dict): continue
+            ch_num = str(ch.get("number", "")).strip()
+            ch_title = str(ch.get("title", "") or "").strip()
+
+            raw_name = f"{ch_num}: {ch_title}" if ch_title and ch_title != "null" else ch_num
+            match = number_regex.search(raw_name)
+            if match:
+                val = float(match.group(0))
+                clean_name = str(int(val)) if val.is_integer() else str(val)
+            else:
+                clean_name = ch_num if ch_num else "0"
+
+            # 🎯 هنا الحل: الرابط الحقيقي الكامل كباقي المصادر
+            full_chapter_url = f"{BASE_URL}/manga/{slug}/chapter/{clean_name}"
+            chapters_map[full_chapter_url] = {"name": clean_name}
+
+    # 🎯 2. خطة طوارئ (لو كانت قائمة الفصول مقفولة وعطانا فقط رقم أحدث فصل)
+    if not chapters_map:
+        latest_chapter = stats.get("chapterCount") or series_data.get("chapterCount") or 0
+        try:
+            total = int(latest_chapter)
+            if total > 0:
+                for i in range(total, 0, -1):
+                    chapters_map[f"{BASE_URL}/manga/{slug}/chapter/{i}"] = {"name": str(i)}
+        except Exception:
+            pass
 
     return {
         "id": slug,
