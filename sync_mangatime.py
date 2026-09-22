@@ -82,35 +82,51 @@ def format_last_update(raw_date: str) -> str:
     if not raw_date: return ""
     return raw_date.split("T")[0].strip()
 
-def scrape_manga_details_mangatime(session, catalog_item: dict):
-    slug = catalog_item["id"]
+def scrape_manga_details_mangatime(session, target):
+    """
+    تدعم استقبال slug كنص مباشر أو كائن dictionary من الفهرس بأمان تام
+    """
+    if isinstance(target, dict):
+        slug = target.get("id", "")
+        catalog_title = target.get("title", "")
+        catalog_cover = target.get("cover_url", "")
+        catalog_type = target.get("type", "")
+        catalog_status = target.get("status", "")
+        catalog_rating = target.get("rating", "")
+    else:
+        slug = str(target)
+        catalog_title = ""
+        catalog_cover = ""
+        catalog_type = ""
+        catalog_status = ""
+        catalog_rating = ""
+
     info_input = {"0": {"json": {"slug": slug}}}
     series_data = fetch_trpc(session, "content.getSeriesBySlug", info_input) or {}
 
-    # حزام أمان: لو فشل tRPC نأخذ العنوان والغلاف من الفهرس مباشرة ولا نتركه فارغاً
-    title = series_data.get("title") or catalog_item.get("title") or "بدون عنوان"
-    cover_url = series_data.get("coverUrl") or series_data.get("cover") or series_data.get("bannerUrl") or catalog_item.get("cover_url") or ""
+    title = series_data.get("title") or catalog_title or "بدون عنوان"
+    cover_url = series_data.get("coverUrl") or series_data.get("cover") or series_data.get("bannerUrl") or catalog_cover or ""
     if cover_url.startswith("/"):
         cover_url = f"{BASE_URL}{cover_url}"
 
     description = series_data.get("description") or series_data.get("synopsis") or "لا يوجد وصف"
-    raw_type = series_data.get("type") or catalog_item.get("type", "")
-    raw_status = series_data.get("status") or catalog_item.get("status", "")
+    raw_type = series_data.get("type") or catalog_type
+    raw_status = series_data.get("status") or catalog_status
     is_novel = "رواية" in raw_type or "novel" in raw_type.lower() or "رواية" in title
 
     stats = series_data.get("stats") or {}
-    raw_rating = stats.get("rating") or series_data.get("rating") or catalog_item.get("rating") or ""
+    raw_rating = stats.get("rating") or series_data.get("rating") or catalog_rating or ""
     favorites = str(stats.get("favorites") or series_data.get("favorites") or "")
     last_update = format_last_update(series_data.get("updatedAt", ""))
 
     genres = [g.get("name") for g in series_data.get("genres", []) if isinstance(g, dict) and g.get("name")]
 
-    # 🎯 1. طلب الفصول الحقيقية
+    # طلب الفصول
     chapters_input = {
         "0": {
             "json": {
                 "seriesSlug": slug,
-                "limit": 1000,
+                "limit": 10000,
                 "page": 1,
                 "sortBy": "number-desc"
             }
@@ -136,17 +152,17 @@ def scrape_manga_details_mangatime(session, catalog_item: dict):
             else:
                 clean_name = ch_num if ch_num else "0"
 
-            # 🎯 هنا الحل: الرابط الحقيقي الكامل كباقي المصادر
+            # 🎯 الرابط الفعلي الكامل
             full_chapter_url = f"{BASE_URL}/manga/{slug}/chapter/{clean_name}"
             chapters_map[full_chapter_url] = {"name": clean_name}
 
-    # 🎯 2. خطة طوارئ (لو كانت قائمة الفصول مقفولة وعطانا فقط رقم أحدث فصل)
+    # خطة بديلة للأعمال المقفولة التي يظهر فيها إجمالي الفصول فقط
     if not chapters_map:
-        latest_chapter = stats.get("chapterCount") or series_data.get("chapterCount") or 0
+        total = stats.get("chapterCount") or series_data.get("chapterCount") or 0
         try:
-            total = int(latest_chapter)
-            if total > 0:
-                for i in range(total, 0, -1):
+            total_int = int(total)
+            if total_int > 0:
+                for i in range(total_int, 0, -1):
                     chapters_map[f"{BASE_URL}/manga/{slug}/chapter/{i}"] = {"name": str(i)}
         except Exception:
             pass
