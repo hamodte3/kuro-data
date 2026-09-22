@@ -1,0 +1,941 @@
+{
+  "id": "one-punch-man",
+  "title": "ون بنش مان",
+  "cover_url": "https://mangatime.org/uploads/series/697df78a0c5d340ac1545718/cover.webp",
+  "description": "بعد تدريب قاسٍ استمر ثلاث سنوات، يصبح سايتاما قويًا إلى درجة أنه يهزم أي خصم بلكمة واحدة. ما كان حلمًا بالبطولة يتحول إلى مصدر دائم للملل، فلا الوحوش العملاقة ولا المقاتلون المتغطرسون قادرون على منحه المعركة الحماسية التي يبحث عنها.\n\nينضم سايتاما إلى جمعية الأبطال برفقة تلميذه السايبورغ جينوس، لكنه يبدأ من أدنى التصنيفات لأن الاختبارات لا تقيس قوته الحقيقية. وبينما تتعرض المدن لهجمات الوحوش والكائنات الغامضة، ينقذ الناس مرارًا من دون أن يحصل دائمًا على التقدير الذي يستحقه.\n\nتمزج مانجا «ون بنش مان» الأكشن والكوميديا الساخرة في عالم الأبطال الخارقين، وتجمع المعارك الضخمة مع مفارقة بطل لا يخشى الهزيمة بقدر ما يخشى أن يعيش بلا تحدٍ أو معنى.",
+  "type": "مانغا",
+  "status": "مستمر",
+  "last_update": "2026-09-22",
+  "rating": "8.3",
+  "favorites": "47",
+  "genres": [
+    "أكشن",
+    "كوميديا",
+    "مغامرة",
+    "قوى خارقة",
+    "خيال علمي",
+    "دراما",
+    "وحوش",
+    "فنون قتالية",
+    "خارق للطبيعة",
+    "سينين"
+  ],
+  "is_novel": false,
+  "chapters": {
+    "https://mangatime.org/manga/one-punch-man/chapter/305": {
+      "name": "305"
+    },
+    "https://mangatime.org/manga/one-punch-man/chapter/304": {
+      "name": "304"
+    },
+    "https://mangatime.org/manga/one-punch-man/chapter/303": {
+      "name": "303"
+    },
+    "https://mangatime.org/manga/one-punch-man/chapter/302": {
+      "name": "302"
+    },
+    "https://mangatime.org/manga/one-punch-man/chapter/301": {
+      "name": "301"
+    },
+    "https://mangatime.org/manga/one-punch-man/chapter/300": {
+      "name": "300"
+    },
+    "https://mangatime.org/manga/one-punch-man/chapter/299": {
+      "name": "299"
+    },
+    "https://mangatime.org/manga/one-punch-man/chapter/298": {
+      "name": "298"
+    },
+    "https://mangatime.org/manga/one-punch-man/chapter/297": {
+      "name": "297"
+    },
+    "https://mangatime.org/manga/one-punch-man/chapter/296": {
+      "name": "296"
+    },
+    "https://mangatime.org/manga/one-punch-man/chapter/295": {
+      "name": "295"
+    },
+    "https://mangatime.org/manga/one-punch-man/chapter/294": {
+      "name": "294"
+    },
+    "https://mangatime.org/manga/one-punch-man/chapter/293": {
+      "name": "293"
+    },
+    "https://mangatime.org/manga/one-punch-man/chapter/292": {
+      "name": "292"
+    },
+    "https://mangatime.org/manga/one-punch-man/chapter/291": {
+      "name": "291"
+    },
+    "https://mangatime.org/manga/one-punch-man/chapter/290": {
+      "name": "290"
+    },
+    "https://mangatime.org/manga/one-punch-man/chapter/289": {
+      "name": "289"
+    },
+    "https://mangatime.org/manga/one-punch-man/chapter/288": {
+      "name": "288"
+    },
+    "https://mangatime.org/manga/one-punch-man/chapter/287": {
+      "name": "287"
+    },
+    "https://mangatime.org/manga/one-punch-man/chapter/286": {
+      "name": "286"
+    },
+    "https://mangatime.org/manga/one-punch-man/chapter/285": {
+      "name": "285"
+    },
+    "https://mangatime.org/manga/one-punch-man/chapter/284": {
+      "name": "284"
+    },
+    "https://mangatime.org/manga/one-punch-man/chapter/283": {
+      "name": "283"
+    },
+    "https://mangatime.org/manga/one-punch-man/chapter/282": {
+      "name": "282"
+    },
+    "https://mangatime.org/manga/one-punch-man/chapter/281": {
+      "name": "281"
+    },
+    "https://mangatime.org/manga/one-punch-man/chapter/280": {
+      "name": "280"
+    },
+    "https://mangatime.org/manga/one-punch-man/chapter/279": {
+      "name": "279"
+    },
+    "https://mangatime.org/manga/one-punch-man/chapter/278": {
+      "name": "278"
+    },
+    "https://mangatime.org/manga/one-punch-man/chapter/277": {
+      "name": "277"
+    },
+    "https://mangatime.org/manga/one-punch-man/chapter/276": {
+      "name": "276"
+    },
+    "https://mangatime.org/manga/one-punch-man/chapter/275": {
+      "name": "275"
+    },
+    "https://mangatime.org/manga/one-punch-man/chapter/274": {
+      "name": "274"
+    },
+    "https://mangatime.org/manga/one-punch-man/chapter/273": {
+      "name": "273"
+    },
+    "https://mangatime.org/manga/one-punch-man/chapter/272": {
+      "name": "272"
+    },
+    "https://mangatime.org/manga/one-punch-man/chapter/271": {
+      "name": "271"
+    },
+    "https://mangatime.org/manga/one-punch-man/chapter/270": {
+      "name": "270"
+    },
+    "https://mangatime.org/manga/one-punch-man/chapter/269": {
+      "name": "269"
+    },
+    "https://mangatime.org/manga/one-punch-man/chapter/268": {
+      "name": "268"
+    },
+    "https://mangatime.org/manga/one-punch-man/chapter/267": {
+      "name": "267"
+    },
+    "https://mangatime.org/manga/one-punch-man/chapter/266": {
+      "name": "266"
+    },
+    "https://mangatime.org/manga/one-punch-man/chapter/265": {
+      "name": "265"
+    },
+    "https://mangatime.org/manga/one-punch-man/chapter/264": {
+      "name": "264"
+    },
+    "https://mangatime.org/manga/one-punch-man/chapter/263": {
+      "name": "263"
+    },
+    "https://mangatime.org/manga/one-punch-man/chapter/262": {
+      "name": "262"
+    },
+    "https://mangatime.org/manga/one-punch-man/chapter/261": {
+      "name": "261"
+    },
+    "https://mangatime.org/manga/one-punch-man/chapter/260": {
+      "name": "260"
+    },
+    "https://mangatime.org/manga/one-punch-man/chapter/259": {
+      "name": "259"
+    },
+    "https://mangatime.org/manga/one-punch-man/chapter/258": {
+      "name": "258"
+    },
+    "https://mangatime.org/manga/one-punch-man/chapter/257": {
+      "name": "257"
+    },
+    "https://mangatime.org/manga/one-punch-man/chapter/256": {
+      "name": "256"
+    },
+    "https://mangatime.org/manga/one-punch-man/chapter/255": {
+      "name": "255"
+    },
+    "https://mangatime.org/manga/one-punch-man/chapter/254": {
+      "name": "254"
+    },
+    "https://mangatime.org/manga/one-punch-man/chapter/253": {
+      "name": "253"
+    },
+    "https://mangatime.org/manga/one-punch-man/chapter/252": {
+      "name": "252"
+    },
+    "https://mangatime.org/manga/one-punch-man/chapter/251": {
+      "name": "251"
+    },
+    "https://mangatime.org/manga/one-punch-man/chapter/250": {
+      "name": "250"
+    },
+    "https://mangatime.org/manga/one-punch-man/chapter/249": {
+      "name": "249"
+    },
+    "https://mangatime.org/manga/one-punch-man/chapter/248": {
+      "name": "248"
+    },
+    "https://mangatime.org/manga/one-punch-man/chapter/247": {
+      "name": "247"
+    },
+    "https://mangatime.org/manga/one-punch-man/chapter/246": {
+      "name": "246"
+    },
+    "https://mangatime.org/manga/one-punch-man/chapter/245": {
+      "name": "245"
+    },
+    "https://mangatime.org/manga/one-punch-man/chapter/244": {
+      "name": "244"
+    },
+    "https://mangatime.org/manga/one-punch-man/chapter/243": {
+      "name": "243"
+    },
+    "https://mangatime.org/manga/one-punch-man/chapter/242": {
+      "name": "242"
+    },
+    "https://mangatime.org/manga/one-punch-man/chapter/241": {
+      "name": "241"
+    },
+    "https://mangatime.org/manga/one-punch-man/chapter/240": {
+      "name": "240"
+    },
+    "https://mangatime.org/manga/one-punch-man/chapter/239": {
+      "name": "239"
+    },
+    "https://mangatime.org/manga/one-punch-man/chapter/238": {
+      "name": "238"
+    },
+    "https://mangatime.org/manga/one-punch-man/chapter/237": {
+      "name": "237"
+    },
+    "https://mangatime.org/manga/one-punch-man/chapter/236": {
+      "name": "236"
+    },
+    "https://mangatime.org/manga/one-punch-man/chapter/235": {
+      "name": "235"
+    },
+    "https://mangatime.org/manga/one-punch-man/chapter/234": {
+      "name": "234"
+    },
+    "https://mangatime.org/manga/one-punch-man/chapter/233": {
+      "name": "233"
+    },
+    "https://mangatime.org/manga/one-punch-man/chapter/232": {
+      "name": "232"
+    },
+    "https://mangatime.org/manga/one-punch-man/chapter/231": {
+      "name": "231"
+    },
+    "https://mangatime.org/manga/one-punch-man/chapter/230": {
+      "name": "230"
+    },
+    "https://mangatime.org/manga/one-punch-man/chapter/229": {
+      "name": "229"
+    },
+    "https://mangatime.org/manga/one-punch-man/chapter/228": {
+      "name": "228"
+    },
+    "https://mangatime.org/manga/one-punch-man/chapter/227": {
+      "name": "227"
+    },
+    "https://mangatime.org/manga/one-punch-man/chapter/226": {
+      "name": "226"
+    },
+    "https://mangatime.org/manga/one-punch-man/chapter/225": {
+      "name": "225"
+    },
+    "https://mangatime.org/manga/one-punch-man/chapter/224": {
+      "name": "224"
+    },
+    "https://mangatime.org/manga/one-punch-man/chapter/223": {
+      "name": "223"
+    },
+    "https://mangatime.org/manga/one-punch-man/chapter/222": {
+      "name": "222"
+    },
+    "https://mangatime.org/manga/one-punch-man/chapter/221": {
+      "name": "221"
+    },
+    "https://mangatime.org/manga/one-punch-man/chapter/220": {
+      "name": "220"
+    },
+    "https://mangatime.org/manga/one-punch-man/chapter/219": {
+      "name": "219"
+    },
+    "https://mangatime.org/manga/one-punch-man/chapter/218": {
+      "name": "218"
+    },
+    "https://mangatime.org/manga/one-punch-man/chapter/217": {
+      "name": "217"
+    },
+    "https://mangatime.org/manga/one-punch-man/chapter/216": {
+      "name": "216"
+    },
+    "https://mangatime.org/manga/one-punch-man/chapter/215": {
+      "name": "215"
+    },
+    "https://mangatime.org/manga/one-punch-man/chapter/214": {
+      "name": "214"
+    },
+    "https://mangatime.org/manga/one-punch-man/chapter/213": {
+      "name": "213"
+    },
+    "https://mangatime.org/manga/one-punch-man/chapter/212": {
+      "name": "212"
+    },
+    "https://mangatime.org/manga/one-punch-man/chapter/211": {
+      "name": "211"
+    },
+    "https://mangatime.org/manga/one-punch-man/chapter/210": {
+      "name": "210"
+    },
+    "https://mangatime.org/manga/one-punch-man/chapter/209": {
+      "name": "209"
+    },
+    "https://mangatime.org/manga/one-punch-man/chapter/208": {
+      "name": "208"
+    },
+    "https://mangatime.org/manga/one-punch-man/chapter/207": {
+      "name": "207"
+    },
+    "https://mangatime.org/manga/one-punch-man/chapter/206": {
+      "name": "206"
+    },
+    "https://mangatime.org/manga/one-punch-man/chapter/205": {
+      "name": "205"
+    },
+    "https://mangatime.org/manga/one-punch-man/chapter/204": {
+      "name": "204"
+    },
+    "https://mangatime.org/manga/one-punch-man/chapter/203": {
+      "name": "203"
+    },
+    "https://mangatime.org/manga/one-punch-man/chapter/202": {
+      "name": "202"
+    },
+    "https://mangatime.org/manga/one-punch-man/chapter/201": {
+      "name": "201"
+    },
+    "https://mangatime.org/manga/one-punch-man/chapter/200": {
+      "name": "200"
+    },
+    "https://mangatime.org/manga/one-punch-man/chapter/199": {
+      "name": "199"
+    },
+    "https://mangatime.org/manga/one-punch-man/chapter/198": {
+      "name": "198"
+    },
+    "https://mangatime.org/manga/one-punch-man/chapter/197": {
+      "name": "197"
+    },
+    "https://mangatime.org/manga/one-punch-man/chapter/196": {
+      "name": "196"
+    },
+    "https://mangatime.org/manga/one-punch-man/chapter/195": {
+      "name": "195"
+    },
+    "https://mangatime.org/manga/one-punch-man/chapter/194": {
+      "name": "194"
+    },
+    "https://mangatime.org/manga/one-punch-man/chapter/193": {
+      "name": "193"
+    },
+    "https://mangatime.org/manga/one-punch-man/chapter/192": {
+      "name": "192"
+    },
+    "https://mangatime.org/manga/one-punch-man/chapter/191": {
+      "name": "191"
+    },
+    "https://mangatime.org/manga/one-punch-man/chapter/190": {
+      "name": "190"
+    },
+    "https://mangatime.org/manga/one-punch-man/chapter/189": {
+      "name": "189"
+    },
+    "https://mangatime.org/manga/one-punch-man/chapter/188": {
+      "name": "188"
+    },
+    "https://mangatime.org/manga/one-punch-man/chapter/187": {
+      "name": "187"
+    },
+    "https://mangatime.org/manga/one-punch-man/chapter/186": {
+      "name": "186"
+    },
+    "https://mangatime.org/manga/one-punch-man/chapter/185": {
+      "name": "185"
+    },
+    "https://mangatime.org/manga/one-punch-man/chapter/184": {
+      "name": "184"
+    },
+    "https://mangatime.org/manga/one-punch-man/chapter/183": {
+      "name": "183"
+    },
+    "https://mangatime.org/manga/one-punch-man/chapter/182": {
+      "name": "182"
+    },
+    "https://mangatime.org/manga/one-punch-man/chapter/181": {
+      "name": "181"
+    },
+    "https://mangatime.org/manga/one-punch-man/chapter/180": {
+      "name": "180"
+    },
+    "https://mangatime.org/manga/one-punch-man/chapter/179": {
+      "name": "179"
+    },
+    "https://mangatime.org/manga/one-punch-man/chapter/178": {
+      "name": "178"
+    },
+    "https://mangatime.org/manga/one-punch-man/chapter/177": {
+      "name": "177"
+    },
+    "https://mangatime.org/manga/one-punch-man/chapter/176": {
+      "name": "176"
+    },
+    "https://mangatime.org/manga/one-punch-man/chapter/175": {
+      "name": "175"
+    },
+    "https://mangatime.org/manga/one-punch-man/chapter/174": {
+      "name": "174"
+    },
+    "https://mangatime.org/manga/one-punch-man/chapter/173": {
+      "name": "173"
+    },
+    "https://mangatime.org/manga/one-punch-man/chapter/172": {
+      "name": "172"
+    },
+    "https://mangatime.org/manga/one-punch-man/chapter/171": {
+      "name": "171"
+    },
+    "https://mangatime.org/manga/one-punch-man/chapter/170": {
+      "name": "170"
+    },
+    "https://mangatime.org/manga/one-punch-man/chapter/169": {
+      "name": "169"
+    },
+    "https://mangatime.org/manga/one-punch-man/chapter/168": {
+      "name": "168"
+    },
+    "https://mangatime.org/manga/one-punch-man/chapter/167": {
+      "name": "167"
+    },
+    "https://mangatime.org/manga/one-punch-man/chapter/166": {
+      "name": "166"
+    },
+    "https://mangatime.org/manga/one-punch-man/chapter/165": {
+      "name": "165"
+    },
+    "https://mangatime.org/manga/one-punch-man/chapter/164": {
+      "name": "164"
+    },
+    "https://mangatime.org/manga/one-punch-man/chapter/163": {
+      "name": "163"
+    },
+    "https://mangatime.org/manga/one-punch-man/chapter/162": {
+      "name": "162"
+    },
+    "https://mangatime.org/manga/one-punch-man/chapter/161": {
+      "name": "161"
+    },
+    "https://mangatime.org/manga/one-punch-man/chapter/160": {
+      "name": "160"
+    },
+    "https://mangatime.org/manga/one-punch-man/chapter/159": {
+      "name": "159"
+    },
+    "https://mangatime.org/manga/one-punch-man/chapter/158": {
+      "name": "158"
+    },
+    "https://mangatime.org/manga/one-punch-man/chapter/157": {
+      "name": "157"
+    },
+    "https://mangatime.org/manga/one-punch-man/chapter/156": {
+      "name": "156"
+    },
+    "https://mangatime.org/manga/one-punch-man/chapter/155": {
+      "name": "155"
+    },
+    "https://mangatime.org/manga/one-punch-man/chapter/154": {
+      "name": "154"
+    },
+    "https://mangatime.org/manga/one-punch-man/chapter/153": {
+      "name": "153"
+    },
+    "https://mangatime.org/manga/one-punch-man/chapter/152": {
+      "name": "152"
+    },
+    "https://mangatime.org/manga/one-punch-man/chapter/151": {
+      "name": "151"
+    },
+    "https://mangatime.org/manga/one-punch-man/chapter/150": {
+      "name": "150"
+    },
+    "https://mangatime.org/manga/one-punch-man/chapter/149": {
+      "name": "149"
+    },
+    "https://mangatime.org/manga/one-punch-man/chapter/148": {
+      "name": "148"
+    },
+    "https://mangatime.org/manga/one-punch-man/chapter/147": {
+      "name": "147"
+    },
+    "https://mangatime.org/manga/one-punch-man/chapter/146": {
+      "name": "146"
+    },
+    "https://mangatime.org/manga/one-punch-man/chapter/145": {
+      "name": "145"
+    },
+    "https://mangatime.org/manga/one-punch-man/chapter/144": {
+      "name": "144"
+    },
+    "https://mangatime.org/manga/one-punch-man/chapter/143": {
+      "name": "143"
+    },
+    "https://mangatime.org/manga/one-punch-man/chapter/142": {
+      "name": "142"
+    },
+    "https://mangatime.org/manga/one-punch-man/chapter/141": {
+      "name": "141"
+    },
+    "https://mangatime.org/manga/one-punch-man/chapter/140": {
+      "name": "140"
+    },
+    "https://mangatime.org/manga/one-punch-man/chapter/139": {
+      "name": "139"
+    },
+    "https://mangatime.org/manga/one-punch-man/chapter/138": {
+      "name": "138"
+    },
+    "https://mangatime.org/manga/one-punch-man/chapter/137": {
+      "name": "137"
+    },
+    "https://mangatime.org/manga/one-punch-man/chapter/136": {
+      "name": "136"
+    },
+    "https://mangatime.org/manga/one-punch-man/chapter/135": {
+      "name": "135"
+    },
+    "https://mangatime.org/manga/one-punch-man/chapter/134": {
+      "name": "134"
+    },
+    "https://mangatime.org/manga/one-punch-man/chapter/133": {
+      "name": "133"
+    },
+    "https://mangatime.org/manga/one-punch-man/chapter/132": {
+      "name": "132"
+    },
+    "https://mangatime.org/manga/one-punch-man/chapter/131": {
+      "name": "131"
+    },
+    "https://mangatime.org/manga/one-punch-man/chapter/130": {
+      "name": "130"
+    },
+    "https://mangatime.org/manga/one-punch-man/chapter/129": {
+      "name": "129"
+    },
+    "https://mangatime.org/manga/one-punch-man/chapter/128": {
+      "name": "128"
+    },
+    "https://mangatime.org/manga/one-punch-man/chapter/127": {
+      "name": "127"
+    },
+    "https://mangatime.org/manga/one-punch-man/chapter/126": {
+      "name": "126"
+    },
+    "https://mangatime.org/manga/one-punch-man/chapter/125": {
+      "name": "125"
+    },
+    "https://mangatime.org/manga/one-punch-man/chapter/124": {
+      "name": "124"
+    },
+    "https://mangatime.org/manga/one-punch-man/chapter/123": {
+      "name": "123"
+    },
+    "https://mangatime.org/manga/one-punch-man/chapter/122": {
+      "name": "122"
+    },
+    "https://mangatime.org/manga/one-punch-man/chapter/121": {
+      "name": "121"
+    },
+    "https://mangatime.org/manga/one-punch-man/chapter/120": {
+      "name": "120"
+    },
+    "https://mangatime.org/manga/one-punch-man/chapter/119": {
+      "name": "119"
+    },
+    "https://mangatime.org/manga/one-punch-man/chapter/118": {
+      "name": "118"
+    },
+    "https://mangatime.org/manga/one-punch-man/chapter/117": {
+      "name": "117"
+    },
+    "https://mangatime.org/manga/one-punch-man/chapter/116": {
+      "name": "116"
+    },
+    "https://mangatime.org/manga/one-punch-man/chapter/115": {
+      "name": "115"
+    },
+    "https://mangatime.org/manga/one-punch-man/chapter/114": {
+      "name": "114"
+    },
+    "https://mangatime.org/manga/one-punch-man/chapter/113": {
+      "name": "113"
+    },
+    "https://mangatime.org/manga/one-punch-man/chapter/112": {
+      "name": "112"
+    },
+    "https://mangatime.org/manga/one-punch-man/chapter/111": {
+      "name": "111"
+    },
+    "https://mangatime.org/manga/one-punch-man/chapter/110": {
+      "name": "110"
+    },
+    "https://mangatime.org/manga/one-punch-man/chapter/109": {
+      "name": "109"
+    },
+    "https://mangatime.org/manga/one-punch-man/chapter/108": {
+      "name": "108"
+    },
+    "https://mangatime.org/manga/one-punch-man/chapter/107": {
+      "name": "107"
+    },
+    "https://mangatime.org/manga/one-punch-man/chapter/106": {
+      "name": "106"
+    },
+    "https://mangatime.org/manga/one-punch-man/chapter/105": {
+      "name": "105"
+    },
+    "https://mangatime.org/manga/one-punch-man/chapter/104": {
+      "name": "104"
+    },
+    "https://mangatime.org/manga/one-punch-man/chapter/103": {
+      "name": "103"
+    },
+    "https://mangatime.org/manga/one-punch-man/chapter/102": {
+      "name": "102"
+    },
+    "https://mangatime.org/manga/one-punch-man/chapter/101": {
+      "name": "101"
+    },
+    "https://mangatime.org/manga/one-punch-man/chapter/100": {
+      "name": "100"
+    },
+    "https://mangatime.org/manga/one-punch-man/chapter/99": {
+      "name": "99"
+    },
+    "https://mangatime.org/manga/one-punch-man/chapter/98": {
+      "name": "98"
+    },
+    "https://mangatime.org/manga/one-punch-man/chapter/97": {
+      "name": "97"
+    },
+    "https://mangatime.org/manga/one-punch-man/chapter/96": {
+      "name": "96"
+    },
+    "https://mangatime.org/manga/one-punch-man/chapter/95": {
+      "name": "95"
+    },
+    "https://mangatime.org/manga/one-punch-man/chapter/94": {
+      "name": "94"
+    },
+    "https://mangatime.org/manga/one-punch-man/chapter/93": {
+      "name": "93"
+    },
+    "https://mangatime.org/manga/one-punch-man/chapter/92": {
+      "name": "92"
+    },
+    "https://mangatime.org/manga/one-punch-man/chapter/91": {
+      "name": "91"
+    },
+    "https://mangatime.org/manga/one-punch-man/chapter/90": {
+      "name": "90"
+    },
+    "https://mangatime.org/manga/one-punch-man/chapter/89": {
+      "name": "89"
+    },
+    "https://mangatime.org/manga/one-punch-man/chapter/88": {
+      "name": "88"
+    },
+    "https://mangatime.org/manga/one-punch-man/chapter/87": {
+      "name": "87"
+    },
+    "https://mangatime.org/manga/one-punch-man/chapter/86": {
+      "name": "86"
+    },
+    "https://mangatime.org/manga/one-punch-man/chapter/85": {
+      "name": "85"
+    },
+    "https://mangatime.org/manga/one-punch-man/chapter/84": {
+      "name": "84"
+    },
+    "https://mangatime.org/manga/one-punch-man/chapter/83": {
+      "name": "83"
+    },
+    "https://mangatime.org/manga/one-punch-man/chapter/82": {
+      "name": "82"
+    },
+    "https://mangatime.org/manga/one-punch-man/chapter/81": {
+      "name": "81"
+    },
+    "https://mangatime.org/manga/one-punch-man/chapter/80": {
+      "name": "80"
+    },
+    "https://mangatime.org/manga/one-punch-man/chapter/79": {
+      "name": "79"
+    },
+    "https://mangatime.org/manga/one-punch-man/chapter/78": {
+      "name": "78"
+    },
+    "https://mangatime.org/manga/one-punch-man/chapter/77": {
+      "name": "77"
+    },
+    "https://mangatime.org/manga/one-punch-man/chapter/76": {
+      "name": "76"
+    },
+    "https://mangatime.org/manga/one-punch-man/chapter/75": {
+      "name": "75"
+    },
+    "https://mangatime.org/manga/one-punch-man/chapter/74": {
+      "name": "74"
+    },
+    "https://mangatime.org/manga/one-punch-man/chapter/73": {
+      "name": "73"
+    },
+    "https://mangatime.org/manga/one-punch-man/chapter/72": {
+      "name": "72"
+    },
+    "https://mangatime.org/manga/one-punch-man/chapter/71": {
+      "name": "71"
+    },
+    "https://mangatime.org/manga/one-punch-man/chapter/70": {
+      "name": "70"
+    },
+    "https://mangatime.org/manga/one-punch-man/chapter/69": {
+      "name": "69"
+    },
+    "https://mangatime.org/manga/one-punch-man/chapter/68": {
+      "name": "68"
+    },
+    "https://mangatime.org/manga/one-punch-man/chapter/67": {
+      "name": "67"
+    },
+    "https://mangatime.org/manga/one-punch-man/chapter/66": {
+      "name": "66"
+    },
+    "https://mangatime.org/manga/one-punch-man/chapter/65": {
+      "name": "65"
+    },
+    "https://mangatime.org/manga/one-punch-man/chapter/64": {
+      "name": "64"
+    },
+    "https://mangatime.org/manga/one-punch-man/chapter/63": {
+      "name": "63"
+    },
+    "https://mangatime.org/manga/one-punch-man/chapter/62": {
+      "name": "62"
+    },
+    "https://mangatime.org/manga/one-punch-man/chapter/61": {
+      "name": "61"
+    },
+    "https://mangatime.org/manga/one-punch-man/chapter/60": {
+      "name": "60"
+    },
+    "https://mangatime.org/manga/one-punch-man/chapter/59": {
+      "name": "59"
+    },
+    "https://mangatime.org/manga/one-punch-man/chapter/58": {
+      "name": "58"
+    },
+    "https://mangatime.org/manga/one-punch-man/chapter/57": {
+      "name": "57"
+    },
+    "https://mangatime.org/manga/one-punch-man/chapter/56": {
+      "name": "56"
+    },
+    "https://mangatime.org/manga/one-punch-man/chapter/55": {
+      "name": "55"
+    },
+    "https://mangatime.org/manga/one-punch-man/chapter/54": {
+      "name": "54"
+    },
+    "https://mangatime.org/manga/one-punch-man/chapter/53": {
+      "name": "53"
+    },
+    "https://mangatime.org/manga/one-punch-man/chapter/52": {
+      "name": "52"
+    },
+    "https://mangatime.org/manga/one-punch-man/chapter/51": {
+      "name": "51"
+    },
+    "https://mangatime.org/manga/one-punch-man/chapter/50": {
+      "name": "50"
+    },
+    "https://mangatime.org/manga/one-punch-man/chapter/49": {
+      "name": "49"
+    },
+    "https://mangatime.org/manga/one-punch-man/chapter/48": {
+      "name": "48"
+    },
+    "https://mangatime.org/manga/one-punch-man/chapter/47": {
+      "name": "47"
+    },
+    "https://mangatime.org/manga/one-punch-man/chapter/46": {
+      "name": "46"
+    },
+    "https://mangatime.org/manga/one-punch-man/chapter/45": {
+      "name": "45"
+    },
+    "https://mangatime.org/manga/one-punch-man/chapter/44": {
+      "name": "44"
+    },
+    "https://mangatime.org/manga/one-punch-man/chapter/43": {
+      "name": "43"
+    },
+    "https://mangatime.org/manga/one-punch-man/chapter/42": {
+      "name": "42"
+    },
+    "https://mangatime.org/manga/one-punch-man/chapter/41": {
+      "name": "41"
+    },
+    "https://mangatime.org/manga/one-punch-man/chapter/40": {
+      "name": "40"
+    },
+    "https://mangatime.org/manga/one-punch-man/chapter/39": {
+      "name": "39"
+    },
+    "https://mangatime.org/manga/one-punch-man/chapter/38": {
+      "name": "38"
+    },
+    "https://mangatime.org/manga/one-punch-man/chapter/37": {
+      "name": "37"
+    },
+    "https://mangatime.org/manga/one-punch-man/chapter/36": {
+      "name": "36"
+    },
+    "https://mangatime.org/manga/one-punch-man/chapter/35": {
+      "name": "35"
+    },
+    "https://mangatime.org/manga/one-punch-man/chapter/34": {
+      "name": "34"
+    },
+    "https://mangatime.org/manga/one-punch-man/chapter/33": {
+      "name": "33"
+    },
+    "https://mangatime.org/manga/one-punch-man/chapter/32": {
+      "name": "32"
+    },
+    "https://mangatime.org/manga/one-punch-man/chapter/31": {
+      "name": "31"
+    },
+    "https://mangatime.org/manga/one-punch-man/chapter/30": {
+      "name": "30"
+    },
+    "https://mangatime.org/manga/one-punch-man/chapter/29": {
+      "name": "29"
+    },
+    "https://mangatime.org/manga/one-punch-man/chapter/28": {
+      "name": "28"
+    },
+    "https://mangatime.org/manga/one-punch-man/chapter/27": {
+      "name": "27"
+    },
+    "https://mangatime.org/manga/one-punch-man/chapter/26": {
+      "name": "26"
+    },
+    "https://mangatime.org/manga/one-punch-man/chapter/25": {
+      "name": "25"
+    },
+    "https://mangatime.org/manga/one-punch-man/chapter/24": {
+      "name": "24"
+    },
+    "https://mangatime.org/manga/one-punch-man/chapter/23": {
+      "name": "23"
+    },
+    "https://mangatime.org/manga/one-punch-man/chapter/22": {
+      "name": "22"
+    },
+    "https://mangatime.org/manga/one-punch-man/chapter/21": {
+      "name": "21"
+    },
+    "https://mangatime.org/manga/one-punch-man/chapter/20": {
+      "name": "20"
+    },
+    "https://mangatime.org/manga/one-punch-man/chapter/19": {
+      "name": "19"
+    },
+    "https://mangatime.org/manga/one-punch-man/chapter/18": {
+      "name": "18"
+    },
+    "https://mangatime.org/manga/one-punch-man/chapter/17": {
+      "name": "17"
+    },
+    "https://mangatime.org/manga/one-punch-man/chapter/16": {
+      "name": "16"
+    },
+    "https://mangatime.org/manga/one-punch-man/chapter/15": {
+      "name": "15"
+    },
+    "https://mangatime.org/manga/one-punch-man/chapter/14": {
+      "name": "14"
+    },
+    "https://mangatime.org/manga/one-punch-man/chapter/13": {
+      "name": "13"
+    },
+    "https://mangatime.org/manga/one-punch-man/chapter/12": {
+      "name": "12"
+    },
+    "https://mangatime.org/manga/one-punch-man/chapter/11": {
+      "name": "11"
+    },
+    "https://mangatime.org/manga/one-punch-man/chapter/10": {
+      "name": "10"
+    },
+    "https://mangatime.org/manga/one-punch-man/chapter/9": {
+      "name": "9"
+    },
+    "https://mangatime.org/manga/one-punch-man/chapter/8": {
+      "name": "8"
+    },
+    "https://mangatime.org/manga/one-punch-man/chapter/7": {
+      "name": "7"
+    },
+    "https://mangatime.org/manga/one-punch-man/chapter/6": {
+      "name": "6"
+    },
+    "https://mangatime.org/manga/one-punch-man/chapter/5": {
+      "name": "5"
+    },
+    "https://mangatime.org/manga/one-punch-man/chapter/4": {
+      "name": "4"
+    },
+    "https://mangatime.org/manga/one-punch-man/chapter/3": {
+      "name": "3"
+    },
+    "https://mangatime.org/manga/one-punch-man/chapter/2": {
+      "name": "2"
+    },
+    "https://mangatime.org/manga/one-punch-man/chapter/1": {
+      "name": "1"
+    }
+  }
+}

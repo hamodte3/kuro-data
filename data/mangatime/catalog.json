@@ -6,7 +6,8 @@
     "cover_url": "https://mangatime.org/uploads/series/697df7820c5d340ac154519f/cover.jpg",
     "type": "مانغا",
     "status": "مستمر",
-    "rating": "9.2"
+    "rating": "9.2",
+    "total_chapters": 370
   },
   {
     "id": "kimetsu-no-yaiba",
@@ -15,7 +16,8 @@
     "cover_url": "https://mangatime.org/uploads/series/697df7790c5d340ac1544e4a/cover.webp",
     "type": "مانغا",
     "status": "مكتمل",
-    "rating": "8.8"
+    "rating": "8.8",
+    "total_chapters": 205
   },
   {
     "id": "sakamoto-days",
@@ -24,7 +26,8 @@
     "cover_url": "https://mangatime.org/uploads/series/697df7740c5d340ac1544a76/cover-ar-v2.webp",
     "type": "مانغا",
     "status": "مستمر",
-    "rating": "6.8"
+    "rating": "6.8",
+    "total_chapters": 262
   },
   {
     "id": "tomb-raider-king",
@@ -33,7 +36,8 @@
     "cover_url": "https://mangatime.org/uploads/series/6a3bc82a7ed7ae6716d52653-b6b9926d8c35f8cf.jpg",
     "type": "مانهوا",
     "status": "مكتمل",
-    "rating": "9.1"
+    "rating": "9.1",
+    "total_chapters": 373
   },
   {
     "id": "jujutsu-kaisen",
@@ -42,7 +46,8 @@
     "cover_url": "https://mangatime.org/uploads/series/697df76a0c5d340ac1544633/cover.jpg",
     "type": "مانغا",
     "status": "مكتمل",
-    "rating": "8.2"
+    "rating": "8.2",
+    "total_chapters": 269
   },
   {
     "id": "kagurabachi",
@@ -51,7 +56,8 @@
     "cover_url": "https://mangatime.org/uploads/series/697df7610c5d340ac1544072/cover-ar-v2.webp",
     "type": "مانغا",
     "status": "مستمر",
-    "rating": "8.4"
+    "rating": "8.4",
+    "total_chapters": 110
   },
   {
     "id": "noblesse",
@@ -60,7 +66,8 @@
     "cover_url": "https://mangatime.org/uploads/series/697df7990c5d340ac1545fc3/cover.webp",
     "type": "مانهوا",
     "status": "مكتمل",
-    "rating": "10.0"
+    "rating": "10.0",
+    "total_chapters": 532
   },
   {
     "id": "wee",
@@ -69,7 +76,8 @@
     "cover_url": "https://mangatime.org/uploads/series/697df7d10c5d340ac15481b5/cover.webp",
     "type": "ويب تون",
     "status": "مستمر",
-    "rating": "8.6"
+    "rating": "8.6",
+    "total_chapters": 469
   },
   {
     "id": "swordmaster-s-youngest-son",
@@ -78,7 +86,8 @@
     "cover_url": "https://mangatime.org/uploads/series/697df7640c5d340ac1544235/cover.webp",
     "type": "مانهوا",
     "status": "مستمر",
-    "rating": "7.9"
+    "rating": "7.9",
+    "total_chapters": 201
   },
   {
     "id": "classmate",
@@ -87,7 +96,8 @@
     "cover_url": "https://mangatime.org/uploads/series/697df8310c5d340ac154c912/cover.webp",
     "type": "مانهوا",
     "status": "مستمر",
-    "rating": "8.0"
+    "rating": "8.0",
+    "total_chapters": 61
   },
   {
     "id": "solo-leveling",
@@ -96,7 +106,8 @@
     "cover_url": "https://mangatime.org/uploads/cover/697df75c0c5d340ac1541f88/2026/02/sziqqpl2.webp",
     "type": "مانهوا",
     "status": "مكتمل",
-    "rating": "9.0"
+    "rating": "9.0",
+    "total_chapters": 202
   },
   {
     "id": "boruto-two-blue-vortex",
@@ -105,7 +116,8 @@
     "cover_url": "https://mangatime.org/uploads/series/697df7e80c5d340ac15495b2/cover.webp",
     "type": "مانغا",
     "status": "مستمر",
-    "rating": "7.5"
+    "rating": "7.5",
+    "total_chapters": 22
   },
   {
     "id": "one-punch-man",
@@ -114,7 +126,8 @@
     "cover_url": "https://mangatime.org/uploads/series/697df78a0c5d340ac1545718/cover.webp",
     "type": "مانغا",
     "status": "مستمر",
-    "rating": "8.3"
+    "rating": "8.3",
+    "total_chapters": 305
   },
   {
     "id": "boruto-naruto-next-generation",
@@ -123,7 +136,8 @@
     "cover_url": "https://mangatime.org/uploads/series/697df7e60c5d340ac15494ca/cover.jpg",
     "type": "مانغا",
     "status": "مكتمل",
-    "rating": "8.2"
+    "rating": "8.2",
+    "total_chapters": 53
   },
   {
     "id": "magic-emperor",
@@ -132,7 +146,8 @@
     "cover_url": "https://mangatime.org/uploads/series/697df7e90c5d340ac1549661/cover.webp",
     "type": "مانها",
     "status": "مستمر",
-    "rating": "9.5"
+    "rating": "9.5",
+    "total_chapters": 929
   },
   {
     "id": "blue-lock-episode-nagi",
@@ -141,7 +156,8 @@
     "cover_url": "https://mangatime.org/uploads/cover/697df75c0c5d340ac1541f88/2026/02/f7satp5q.webp",
     "type": "مانغا",
     "status": "مكتمل",
-    "rating": "9.7"
+    "rating": "9.7",
+    "total_chapters": 34
   },
   {
     "id": "special-civil-servant",
@@ -150,7 +166,8 @@
     "cover_url": "https://mangatime.org/uploads/series/697df7c70c5d340ac1547b4f/cover.webp",
     "type": "مانهوا",
     "status": "مستمر",
-    "rating": "8.2"
+    "rating": "8.2",
+    "total_chapters": 66
   },
   {
     "id": "chronicles-of-the-demon-faction",
@@ -159,7 +176,8 @@
     "cover_url": "https://mangatime.org/uploads/series/697df78f0c5d340ac154593e/cover.webp",
     "type": "مانهوا",
     "status": "مستمر",
-    "rating": "9.0"
+    "rating": "9.0",
+    "total_chapters": 189
   },
   {
     "id": "escort-warrior",
@@ -168,7 +186,8 @@
     "cover_url": "https://mangatime.org/uploads/series/697df7c50c5d340ac15479e1/cover.webp",
     "type": "مانهوا",
     "status": "مكتمل",
-    "rating": "1.0"
+    "rating": "1.0",
+    "total_chapters": 88
   },
   {
     "id": "for-your-murder",
@@ -177,7 +196,8 @@
     "cover_url": "https://mangatime.org/uploads/cover/697df75c0c5d340ac1541f88/2026/02/1zsi6kj4.webp",
     "type": "مانهوا",
     "status": "مكتمل",
-    "rating": "8.8"
+    "rating": "8.8",
+    "total_chapters": 69
   },
   {
     "id": "star-embracing-swordmaster",
@@ -1323,20 +1343,20 @@
     "rating": "10.0"
   },
   {
-    "id": "the-third-prince-of-the-fallen-kingdom-has-regress",
-    "title": "عودة الأمير الثالث للمملكة المنهارة",
-    "url": "https://mangatime.org/manga/the-third-prince-of-the-fallen-kingdom-has-regress",
-    "cover_url": "https://mangatime.org/uploads/cover/697df75c0c5d340ac1541f88/2026/02/w0y0lidz.jpg",
-    "type": "مانهوا",
-    "status": "مستمر",
-    "rating": ""
-  },
-  {
     "id": "astro-royale",
     "title": "Astro Royale",
     "url": "https://mangatime.org/manga/astro-royale",
     "cover_url": "https://mangatime.org/uploads/series/697df7610c5d340ac1544037/cover.webp",
     "type": "مانغا",
+    "status": "مستمر",
+    "rating": ""
+  },
+  {
+    "id": "the-third-prince-of-the-fallen-kingdom-has-regress",
+    "title": "عودة الأمير الثالث للمملكة المنهارة",
+    "url": "https://mangatime.org/manga/the-third-prince-of-the-fallen-kingdom-has-regress",
+    "cover_url": "https://mangatime.org/uploads/cover/697df75c0c5d340ac1541f88/2026/02/w0y0lidz.jpg",
+    "type": "مانهوا",
     "status": "مستمر",
     "rating": ""
   },
@@ -2286,15 +2306,6 @@
     "rating": ""
   },
   {
-    "id": "footsteps-in-the-snow",
-    "title": "Footsteps in the Snow",
-    "url": "https://mangatime.org/manga/footsteps-in-the-snow",
-    "cover_url": "https://mangatime.org/uploads/cover/697df75c0c5d340ac1541f88/2026/02/b7z1n3mu.webp",
-    "type": "مانهوا",
-    "status": "مستمر",
-    "rating": "8.0"
-  },
-  {
     "id": "serims-iron-rule",
     "title": "Serim ui Cheolchik",
     "url": "https://mangatime.org/manga/serims-iron-rule",
@@ -2302,6 +2313,15 @@
     "type": "مانهوا",
     "status": "مستمر",
     "rating": ""
+  },
+  {
+    "id": "footsteps-in-the-snow",
+    "title": "Footsteps in the Snow",
+    "url": "https://mangatime.org/manga/footsteps-in-the-snow",
+    "cover_url": "https://mangatime.org/uploads/cover/697df75c0c5d340ac1541f88/2026/02/b7z1n3mu.webp",
+    "type": "مانهوا",
+    "status": "مستمر",
+    "rating": "8.0"
   },
   {
     "id": "how-a-terminally-ill-genius-survives",
@@ -3024,20 +3044,20 @@
     "rating": ""
   },
   {
-    "id": "kaiju-no-8-b-side",
-    "title": "Kaiju No. 8: B-Side",
-    "url": "https://mangatime.org/manga/kaiju-no-8-b-side",
-    "cover_url": "https://mangatime.org/uploads/series/697df7d00c5d340ac1548153/cover.webp",
-    "type": "مانغا",
-    "status": "مستمر",
-    "rating": ""
-  },
-  {
     "id": "fighting-uncle",
     "title": "Fighting Uncle",
     "url": "https://mangatime.org/manga/fighting-uncle",
     "cover_url": "https://mangatime.org/uploads/series/697df8000c5d340ac154a60b/cover.webp",
     "type": "مانهوا",
+    "status": "مستمر",
+    "rating": ""
+  },
+  {
+    "id": "kaiju-no-8-b-side",
+    "title": "Kaiju No. 8: B-Side",
+    "url": "https://mangatime.org/manga/kaiju-no-8-b-side",
+    "cover_url": "https://mangatime.org/uploads/series/697df7d00c5d340ac1548153/cover.webp",
+    "type": "مانغا",
     "status": "مستمر",
     "rating": ""
   },
@@ -3213,20 +3233,20 @@
     "rating": ""
   },
   {
-    "id": "in-the-bleak-midwinter",
-    "title": "In the Bleak Midwinter;",
-    "url": "https://mangatime.org/manga/in-the-bleak-midwinter",
-    "cover_url": "https://mangatime.org/uploads/series/6a6e2d1842e919fa2211ee84.jpg",
-    "type": "ويب تون",
-    "status": "مستمر",
-    "rating": ""
-  },
-  {
     "id": "invincible",
     "title": "Invincible",
     "url": "https://mangatime.org/manga/invincible",
     "cover_url": "https://mangatime.org/uploads/cover/697df75c0c5d340ac1541f88/2026/05/vsz0lofu.webp",
     "type": "كوميك",
+    "status": "مستمر",
+    "rating": ""
+  },
+  {
+    "id": "in-the-bleak-midwinter",
+    "title": "In the Bleak Midwinter;",
+    "url": "https://mangatime.org/manga/in-the-bleak-midwinter",
+    "cover_url": "https://mangatime.org/uploads/series/6a6e2d1842e919fa2211ee84.jpg",
+    "type": "ويب تون",
     "status": "مستمر",
     "rating": ""
   },
@@ -3816,21 +3836,21 @@
     "rating": ""
   },
   {
-    "id": "noble-lady-reformation-guide",
-    "title": "دليل إصلاح السيدة النبيلة",
-    "url": "https://mangatime.org/manga/noble-lady-reformation-guide",
-    "cover_url": "https://mangatime.org/uploads/series/6a5985af173c894644b9843f.webp",
-    "type": "مانهوا",
-    "status": "مستمر",
-    "rating": ""
-  },
-  {
     "id": "pigpen",
     "title": "زريبة الخنازير",
     "url": "https://mangatime.org/manga/pigpen",
     "cover_url": "https://mangatime.org/uploads/series/6a9363882a4d537e51e09cb8.jpg",
     "type": "مانهوا",
     "status": "مكتمل",
+    "rating": ""
+  },
+  {
+    "id": "noble-lady-reformation-guide",
+    "title": "دليل إصلاح السيدة النبيلة",
+    "url": "https://mangatime.org/manga/noble-lady-reformation-guide",
+    "cover_url": "https://mangatime.org/uploads/series/6a5985af173c894644b9843f.webp",
+    "type": "مانهوا",
+    "status": "مستمر",
     "rating": ""
   },
   {
@@ -4041,20 +4061,20 @@
     "rating": ""
   },
   {
-    "id": "otr-of-the-flame",
-    "title": "Otr of the Flame",
-    "url": "https://mangatime.org/manga/otr-of-the-flame",
-    "cover_url": "https://mangatime.org/uploads/cover/697df75c0c5d340ac1541f88/2026/02/zcmd8r4e.webp",
-    "type": "مانهوا",
-    "status": "مستمر",
-    "rating": ""
-  },
-  {
     "id": "doubutsu-ningen",
     "title": "Doubutsu Ningen",
     "url": "https://mangatime.org/manga/doubutsu-ningen",
     "cover_url": "https://mangatime.org/uploads/series/6a0a4ed569517cd60c605922.webp",
     "type": "مانغا",
+    "status": "مستمر",
+    "rating": ""
+  },
+  {
+    "id": "otr-of-the-flame",
+    "title": "Otr of the Flame",
+    "url": "https://mangatime.org/manga/otr-of-the-flame",
+    "cover_url": "https://mangatime.org/uploads/cover/697df75c0c5d340ac1541f88/2026/02/zcmd8r4e.webp",
+    "type": "مانهوا",
     "status": "مستمر",
     "rating": ""
   },
@@ -4491,15 +4511,6 @@
     "rating": ""
   },
   {
-    "id": "lalins-curse",
-    "title": "Lalin's Curse",
-    "url": "https://mangatime.org/manga/lalins-curse",
-    "cover_url": "https://mangatime.org/uploads/series/6a476550b0e23e715bf44e1f.jpg",
-    "type": "ويب تون",
-    "status": "مستمر",
-    "rating": "10.0"
-  },
-  {
     "id": "on-the-way-to-meet-mom",
     "title": "On the Way to Meet Mom",
     "url": "https://mangatime.org/manga/on-the-way-to-meet-mom",
@@ -4507,6 +4518,15 @@
     "type": "مانهوا",
     "status": "مستمر",
     "rating": "5.5"
+  },
+  {
+    "id": "lalins-curse",
+    "title": "Lalin's Curse",
+    "url": "https://mangatime.org/manga/lalins-curse",
+    "cover_url": "https://mangatime.org/uploads/series/6a476550b0e23e715bf44e1f.jpg",
+    "type": "ويب تون",
+    "status": "مستمر",
+    "rating": "10.0"
   },
   {
     "id": "gosu",
@@ -4905,20 +4925,20 @@
     "rating": ""
   },
   {
-    "id": "my-exclusive-tower-guide",
-    "title": "دليل البرج الذي أراه وحدي",
-    "url": "https://mangatime.org/manga/my-exclusive-tower-guide",
-    "cover_url": "https://mangatime.org/uploads/series/6a955de68df1ea2e987135db.jpg",
-    "type": "مانهوا",
-    "status": "مستمر",
-    "rating": ""
-  },
-  {
     "id": "return-of-the-hated-black-mage",
     "title": "Kiraware <Kokuma Jutsushi> no Yarinaoshi",
     "url": "https://mangatime.org/manga/return-of-the-hated-black-mage",
     "cover_url": "https://mangatime.org/uploads/series/6a6c660ea340283bc532c49d.jpg",
     "type": "مانغا",
+    "status": "مستمر",
+    "rating": ""
+  },
+  {
+    "id": "my-exclusive-tower-guide",
+    "title": "دليل البرج الذي أراه وحدي",
+    "url": "https://mangatime.org/manga/my-exclusive-tower-guide",
+    "cover_url": "https://mangatime.org/uploads/series/6a955de68df1ea2e987135db.jpg",
+    "type": "مانهوا",
     "status": "مستمر",
     "rating": ""
   },
@@ -4986,15 +5006,6 @@
     "rating": ""
   },
   {
-    "id": "dragon-ball-kakumei",
-    "title": "دراغون بول: الثورة",
-    "url": "https://mangatime.org/manga/dragon-ball-kakumei",
-    "cover_url": "https://mangatime.org/uploads/series/6a8a8ca5253a2ecb3d70d7f6.jpg",
-    "type": "مانغا",
-    "status": "مستمر",
-    "rating": "10.0"
-  },
-  {
     "id": "copycat",
     "title": "Copycat",
     "url": "https://mangatime.org/manga/copycat",
@@ -5002,6 +5013,15 @@
     "type": "مانهوا",
     "status": "مستمر",
     "rating": ""
+  },
+  {
+    "id": "dragon-ball-kakumei",
+    "title": "دراغون بول: الثورة",
+    "url": "https://mangatime.org/manga/dragon-ball-kakumei",
+    "cover_url": "https://mangatime.org/uploads/series/6a8a8ca5253a2ecb3d70d7f6.jpg",
+    "type": "مانغا",
+    "status": "مستمر",
+    "rating": "10.0"
   },
   {
     "id": "kijin-gentoushou",
@@ -5148,15 +5168,6 @@
     "rating": ""
   },
   {
-    "id": "frozen-frontiers",
-    "title": "Arctic Cold War",
-    "url": "https://mangatime.org/manga/frozen-frontiers",
-    "cover_url": "https://mangatime.org/uploads/series/6a6e58e642e919fa221332dd.png",
-    "type": "مانها",
-    "status": "مستمر",
-    "rating": ""
-  },
-  {
     "id": "beautiful-fire",
     "title": "Beautiful Fire",
     "url": "https://mangatime.org/manga/beautiful-fire",
@@ -5164,6 +5175,15 @@
     "type": "مانهوا",
     "status": "مستمر",
     "rating": "8.0"
+  },
+  {
+    "id": "frozen-frontiers",
+    "title": "Arctic Cold War",
+    "url": "https://mangatime.org/manga/frozen-frontiers",
+    "cover_url": "https://mangatime.org/uploads/series/6a6e58e642e919fa221332dd.png",
+    "type": "مانها",
+    "status": "مستمر",
+    "rating": ""
   },
   {
     "id": "the-glutton-devourer-of-kings",
@@ -5229,20 +5249,20 @@
     "rating": ""
   },
   {
-    "id": "the-graymark",
-    "title": "The GrayMark",
-    "url": "https://mangatime.org/manga/the-graymark",
-    "cover_url": "https://mangatime.org/uploads/series/6a47231bb0e23e715bf31de0.jpg",
-    "type": "مانهوا",
-    "status": "مستمر",
-    "rating": ""
-  },
-  {
     "id": "royal-astro",
     "title": "Royal Astro",
     "url": "https://mangatime.org/manga/royal-astro",
     "cover_url": "https://mangatime.org/uploads/series/69bb9245c30314ce8f594c84.webp",
     "type": "مانغا",
+    "status": "مستمر",
+    "rating": ""
+  },
+  {
+    "id": "the-graymark",
+    "title": "The GrayMark",
+    "url": "https://mangatime.org/manga/the-graymark",
+    "cover_url": "https://mangatime.org/uploads/series/6a47231bb0e23e715bf31de0.jpg",
+    "type": "مانهوا",
     "status": "مستمر",
     "rating": ""
   },
@@ -5688,15 +5708,6 @@
     "rating": ""
   },
   {
-    "id": "until-i-meet-you",
-    "title": "حتى ألتقي بك",
-    "url": "https://mangatime.org/manga/until-i-meet-you",
-    "cover_url": "https://mangatime.org/uploads/series/6a85a2af253a2ecb3d4571a2-ff7df7255c4bd699.jpg",
-    "type": "مانهوا",
-    "status": "مكتمل",
-    "rating": "10.0"
-  },
-  {
     "id": "wind-breaker-it5lo",
     "title": "Wind Breaker",
     "url": "https://mangatime.org/manga/wind-breaker-it5lo",
@@ -5704,6 +5715,15 @@
     "type": "مانغا",
     "status": "مستمر",
     "rating": "7.0"
+  },
+  {
+    "id": "until-i-meet-you",
+    "title": "حتى ألتقي بك",
+    "url": "https://mangatime.org/manga/until-i-meet-you",
+    "cover_url": "https://mangatime.org/uploads/series/6a85a2af253a2ecb3d4571a2-ff7df7255c4bd699.jpg",
+    "type": "مانهوا",
+    "status": "مكتمل",
+    "rating": "10.0"
   },
   {
     "id": "ao-to-haru",
@@ -6489,21 +6509,21 @@
     "rating": ""
   },
   {
-    "id": "the-horizon",
-    "title": "الأفق",
-    "url": "https://mangatime.org/manga/the-horizon",
-    "cover_url": "https://mangatime.org/uploads/series/6a9adae0310463fd1833ca0c.jpg",
-    "type": "مانغا",
-    "status": "مكتمل",
-    "rating": ""
-  },
-  {
     "id": "spy-no-tsuma",
     "title": "Spy no Tsuma",
     "url": "https://mangatime.org/manga/spy-no-tsuma",
     "cover_url": "https://mangatime.org/uploads/series/697df83f0c5d340ac154d23c/cover.webp",
     "type": "مانغا",
     "status": "مستمر",
+    "rating": ""
+  },
+  {
+    "id": "the-horizon",
+    "title": "الأفق",
+    "url": "https://mangatime.org/manga/the-horizon",
+    "cover_url": "https://mangatime.org/uploads/series/6a9adae0310463fd1833ca0c.jpg",
+    "type": "مانغا",
+    "status": "مكتمل",
     "rating": ""
   },
   {
@@ -6885,6 +6905,15 @@
     "rating": ""
   },
   {
+    "id": "attack-on-titan-junior-high",
+    "title": "هجوم العمالقة: المدرسة الإعدادية",
+    "url": "https://mangatime.org/manga/attack-on-titan-junior-high",
+    "cover_url": "https://mangatime.org/uploads/series/6a8b3283253a2ecb3d787426.jpg",
+    "type": "مانغا",
+    "status": "مكتمل",
+    "rating": ""
+  },
+  {
     "id": "sonic-boom",
     "title": "Sonic Boom",
     "url": "https://mangatime.org/manga/sonic-boom",
@@ -6900,15 +6929,6 @@
     "cover_url": "https://mangatime.org/uploads/series/6aa6cb11de4b4873fc5fe968.jpg",
     "type": "مانهوا",
     "status": "مستمر",
-    "rating": ""
-  },
-  {
-    "id": "attack-on-titan-junior-high",
-    "title": "هجوم العمالقة: المدرسة الإعدادية",
-    "url": "https://mangatime.org/manga/attack-on-titan-junior-high",
-    "cover_url": "https://mangatime.org/uploads/series/6a8b3283253a2ecb3d787426.jpg",
-    "type": "مانغا",
-    "status": "مكتمل",
     "rating": ""
   },
   {
@@ -7056,15 +7076,6 @@
     "rating": ""
   },
   {
-    "id": "the-awakening-monster",
-    "title": "The Awakening Monster",
-    "url": "https://mangatime.org/manga/the-awakening-monster",
-    "cover_url": "https://mangatime.org/uploads/series/697df7d40c5d340ac1548845/cover.webp",
-    "type": "مانغا",
-    "status": "مستمر",
-    "rating": ""
-  },
-  {
     "id": "berserk-official-guidebook",
     "title": "بيرسيرك — الدليل الرسمي",
     "url": "https://mangatime.org/manga/berserk-official-guidebook",
@@ -7078,6 +7089,15 @@
     "title": "Radiant Rewind",
     "url": "https://mangatime.org/manga/radiant-rewind",
     "cover_url": "https://mangatime.org/uploads/series/radiant-rewind-cover-20260802.webp",
+    "type": "مانغا",
+    "status": "مستمر",
+    "rating": ""
+  },
+  {
+    "id": "the-awakening-monster",
+    "title": "The Awakening Monster",
+    "url": "https://mangatime.org/manga/the-awakening-monster",
+    "cover_url": "https://mangatime.org/uploads/series/697df7d40c5d340ac1548845/cover.webp",
     "type": "مانغا",
     "status": "مستمر",
     "rating": ""
@@ -7398,6 +7418,15 @@
     "rating": ""
   },
   {
+    "id": "ai-dream",
+    "title": "Idol Dreams",
+    "url": "https://mangatime.org/manga/ai-dream",
+    "cover_url": "https://mangatime.org/uploads/series/6a6e3c9042e919fa22124d6f.jpg",
+    "type": "مانغا",
+    "status": "مكتمل",
+    "rating": ""
+  },
+  {
     "id": "backchannel",
     "title": "Backchannel",
     "url": "https://mangatime.org/manga/backchannel",
@@ -7407,10 +7436,10 @@
     "rating": ""
   },
   {
-    "id": "ai-dream",
-    "title": "Idol Dreams",
-    "url": "https://mangatime.org/manga/ai-dream",
-    "cover_url": "https://mangatime.org/uploads/series/6a6e3c9042e919fa22124d6f.jpg",
+    "id": "haikyuu-bu",
+    "title": "نادي هايكيو!!",
+    "url": "https://mangatime.org/manga/haikyuu-bu",
+    "cover_url": "https://mangatime.org/uploads/series/6a879035253a2ecb3d52797b.jpg",
     "type": "مانغا",
     "status": "مكتمل",
     "rating": ""
@@ -7422,15 +7451,6 @@
     "cover_url": "https://mangatime.org/uploads/cover/697df75c0c5d340ac1541f88/2026/02/zyt4t46h.webp",
     "type": "مانغا",
     "status": "مستمر",
-    "rating": ""
-  },
-  {
-    "id": "haikyuu-bu",
-    "title": "نادي هايكيو!!",
-    "url": "https://mangatime.org/manga/haikyuu-bu",
-    "cover_url": "https://mangatime.org/uploads/series/6a879035253a2ecb3d52797b.jpg",
-    "type": "مانغا",
-    "status": "مكتمل",
     "rating": ""
   },
   {
@@ -9063,6 +9083,15 @@
     "rating": ""
   },
   {
+    "id": "toorigakari",
+    "title": "نصائح الجانح العابر",
+    "url": "https://mangatime.org/manga/toorigakari",
+    "cover_url": "https://mangatime.org/uploads/series/6a9f4023dfca5ffa94c8a827.webp",
+    "type": "مانغا",
+    "status": "مكتمل",
+    "rating": ""
+  },
+  {
     "id": "hikari-no-iroha",
     "title": "إيروها النور",
     "url": "https://mangatime.org/manga/hikari-no-iroha",
@@ -9144,15 +9173,6 @@
     "rating": "10.0"
   },
   {
-    "id": "toorigakari",
-    "title": "نصائح الجانح العابر",
-    "url": "https://mangatime.org/manga/toorigakari",
-    "cover_url": "https://mangatime.org/uploads/series/6a9f4023dfca5ffa94c8a827.webp",
-    "type": "مانغا",
-    "status": "مكتمل",
-    "rating": ""
-  },
-  {
     "id": "to-aru-majutsu-no-index",
     "title": "فهرس السحر المحرّم",
     "url": "https://mangatime.org/manga/to-aru-majutsu-no-index",
@@ -9177,6 +9197,15 @@
     "cover_url": "https://mangatime.org/uploads/series/6a9f6374dfca5ffa94c9af70.webp",
     "type": "مانغا",
     "status": "مكتمل",
+    "rating": ""
+  },
+  {
+    "id": "cool-doji",
+    "title": "فتيان رائعون خرقون",
+    "url": "https://mangatime.org/manga/cool-doji",
+    "cover_url": "https://mangatime.org/uploads/series/6a9f2627dfca5ffa94c7ff5f.webp",
+    "type": "مانغا",
+    "status": "مستمر",
     "rating": ""
   },
   {
@@ -9249,15 +9278,6 @@
     "cover_url": "https://mangatime.org/uploads/series/6a9f557cdfca5ffa94c94627.webp",
     "type": "مانغا",
     "status": "مكتمل",
-    "rating": ""
-  },
-  {
-    "id": "cool-doji",
-    "title": "فتيان رائعون خرقون",
-    "url": "https://mangatime.org/manga/cool-doji",
-    "cover_url": "https://mangatime.org/uploads/series/6a9f2627dfca5ffa94c7ff5f.webp",
-    "type": "مانغا",
-    "status": "مستمر",
     "rating": ""
   },
   {
@@ -10008,6 +10028,15 @@
     "rating": ""
   },
   {
+    "id": "call-of-the-night-paradise-arc",
+    "title": "أغنية السهر — فصل الفردوس",
+    "url": "https://mangatime.org/manga/call-of-the-night-paradise-arc",
+    "cover_url": "https://mangatime.org/uploads/series/6aa3997bde4b4873fc8248bf.jpg",
+    "type": "مانغا",
+    "status": "مكتمل",
+    "rating": ""
+  },
+  {
     "id": "red-riding-hood",
     "title": "الذئب تلميذ ذات الرداء الأحمر",
     "url": "https://mangatime.org/manga/red-riding-hood",
@@ -10035,15 +10064,6 @@
     "rating": ""
   },
   {
-    "id": "call-of-the-night-paradise-arc",
-    "title": "أغنية السهر — فصل الفردوس",
-    "url": "https://mangatime.org/manga/call-of-the-night-paradise-arc",
-    "cover_url": "https://mangatime.org/uploads/series/6aa3997bde4b4873fc8248bf.jpg",
-    "type": "مانغا",
-    "status": "مكتمل",
-    "rating": ""
-  },
-  {
     "id": "naruto-the-path-shone-by-the-full-moons-light",
     "title": "ناروتو: الطريق الذي أناره البدر",
     "url": "https://mangatime.org/manga/naruto-the-path-shone-by-the-full-moons-light",
@@ -10062,19 +10082,19 @@
     "rating": ""
   },
   {
-    "id": "the-legendary-hero-is-an-academy-honors-student",
-    "title": "البطل الأسطوري طالب متفوّق",
-    "url": "https://mangatime.org/manga/the-legendary-hero-is-an-academy-honors-student",
-    "cover_url": "https://mangatime.org/uploads/series/6aaea70b7ecb87d76e4e212a.jpeg",
+    "id": "the-regressed-mercenarys-machinations",
+    "title": "المرتزق العائد لديه خطة",
+    "url": "https://mangatime.org/manga/the-regressed-mercenarys-machinations",
+    "cover_url": "https://mangatime.org/uploads/series/6aaea1e97ecb87d76e4bf76b.jpg",
     "type": "مانهوا",
     "status": "مستمر",
     "rating": ""
   },
   {
-    "id": "the-regressed-mercenarys-machinations",
-    "title": "المرتزق العائد لديه خطة",
-    "url": "https://mangatime.org/manga/the-regressed-mercenarys-machinations",
-    "cover_url": "https://mangatime.org/uploads/series/6aaea1e97ecb87d76e4bf76b.jpg",
+    "id": "the-legendary-hero-is-an-academy-honors-student",
+    "title": "البطل الأسطوري طالب متفوّق",
+    "url": "https://mangatime.org/manga/the-legendary-hero-is-an-academy-honors-student",
+    "cover_url": "https://mangatime.org/uploads/series/6aaea70b7ecb87d76e4e212a.jpeg",
     "type": "مانهوا",
     "status": "مستمر",
     "rating": ""
