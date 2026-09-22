@@ -17,12 +17,14 @@ os.makedirs(DATA_DIR, exist_ok=True)
 
 # 🎯 محاكاة ترويسات تطبيق الهاتف لتخطي قفل الويب
 HEADERS = {
-    "User-Agent": "Mozilla/5.0 (Linux; Android 14; Mobile; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Mobile Safari/537.36 MangaTimeApp/2.0",
+    "User-Agent": "Mozilla/5.0 (Linux; Android 14; Mobile; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Mobile Safari/537.36",
     "Accept": "application/json",
     "Accept-Encoding": "gzip, deflate",
-    "X-MT-Platform": "app",
-    "Origin": "https://localhost",
-    "Referer": f"{BASE_URL}/"
+    "X-MT-Platform": "app",                  # 🎯 هذا المفتاح يخبر السيرفر بتجاوز فحص إعلانات الويب
+    "Origin": "https://localhost",            # 🎯 محاكاة بيئة Capacitor الأصلية
+    "Referer": "https://localhost/",
+    "Sec-Fetch-Mode": "cors",
+    "Sec-Fetch-Site": "cross-site"
 }
 
 def get_session():
