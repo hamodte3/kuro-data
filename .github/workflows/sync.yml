@@ -31,7 +31,6 @@ jobs:
           python sync_kolnovel.py
           python sync_mangatime.py
           python sync_teamx.py
-          python sync_mangatek.py
 
       - name: Commit and Push Changes
         run: |
