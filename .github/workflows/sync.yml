@@ -23,12 +23,14 @@ jobs:
       - name: Install Libraries
         run: pip install -r requirements.txt
 
-      - name: Run Sync Script
-        run: python sync.py
+      - name: Run Sync Scripts
+        run: |
+          python sync.py
+          python sync_ashiq.py
 
       - name: Commit and Push Changes
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git add data/
-          git diff --staged --quiet || (git commit -m "Auto update manga chapters" && git push)
+          git diff --staged --quiet || (git commit -m "Auto update manga sources (Azora + Ashiq)" && git push)
