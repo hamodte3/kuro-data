@@ -8,7 +8,7 @@ BASE_URL = "https://azorafly.com"
 
 # قائمة الأعمال التي تريد متابعتها (مع الرابط الصحيح)
 TRACKED_MANGA = [
-    "https://azorafly.com/series/can-i-cry-now",
+    "https://azorafly.com/series/en-travesti-i-became-a-fake-prince1",
 ]
 
 DATA_DIR = "data"
