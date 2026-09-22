@@ -108,7 +108,7 @@ def extract_chapters(session, manga_url: str) -> list:
             found_chapters[full_url] = clean_name
 
     # 2. استخراج الفصول من الـ HTML عبر Regex
-    for match in re.finditer(r"chapter-[0-9]+(?:[-._][0-9a-zA-Z]+)*", html, re.IGNORE_CASE):
+    for match in re.finditer(r"chapter-[0-9]+(?:[-._][0-9a-zA-Z]+)*", html, re.IGNORECASE):
         slug = match.group(0)
         full_url = f"{BASE_URL}/series/{series_slug}/{slug}"
         if full_url not in found_chapters:
