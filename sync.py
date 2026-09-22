@@ -1,16 +1,15 @@
 import json
 import os
 import re
+import time
 from bs4 import BeautifulSoup
 from curl_cffi import requests
 
 BASE_URL = "https://azorafly.com"
-
-TRACKED_MANGA = [
-    "https://azorafly.com/series/en-travesti-i-became-a-fake-prince1",
-]
-
 DATA_DIR = "data"
+INDEX_FILE = os.path.join(DATA_DIR, "index.json")
+TOTAL_MANGA_TARGET = 30  # عدد الأعمال المطلوبة في الفهرس
+
 os.makedirs(DATA_DIR, exist_ok=True)
 
 HEADERS = {
@@ -34,19 +33,19 @@ def normalize_url(url: str) -> str:
 
 def format_type(raw_type: str) -> str:
     t = raw_type.strip().lower()
-    if "novel" in t or "رواية" in t: return "رواية"
-    if "manhwa" in t or "مانهوا" in t: return "مانهوا"
-    if "manhua" in t or "مانها" in t: return "مانها"
-    if "webtoon" in t or "ويبتون" in t: return "ويب تون"
-    if "comic" in t or "كوميك" in t: return "كوميك"
-    if "manga" in t or "مانجا" in t or "مانغا" in t: return "مانغا"
+    if any(k in t for k in ["novel", "رواية"]): return "رواية"
+    if any(k in t for k in ["manhwa", "مانهوا"]): return "مانهوا"
+    if any(k in t for k in ["manhua", "مانها"]): return "مانها"
+    if any(k in t for k in ["webtoon", "ويبتون", "ويب تون"]): return "ويب تون"
+    if any(k in t for k in ["comic", "كوميك"]): return "كوميك"
+    if any(k in t for k in ["manga", "مانجا", "مانغا"]): return "مانغا"
     return raw_type if raw_type else "مانهوا"
 
 def format_status(raw_status: str) -> str:
     s = raw_status.strip().lower()
-    if "ongoing" in s or "مستمر" in s or "مستمرة" in s: return "مستمر"
-    if "completed" in s or "مكتمل" in s or "مكتملة" in s: return "مكتمل"
-    if "hiatus" in s or "متوقف" in s or "متوقفة" in s: return "متوقف مؤقتاً"
+    if any(k in s for k in ["ongoing", "مستمر", "مستمرة"]): return "مستمر"
+    if any(k in s for k in ["completed", "مكتمل", "مكتملة"]): return "مكتمل"
+    if any(k in s for k in ["hiatus", "متوقف", "متوقفة"]): return "متوقف مؤقتاً"
     return "مستمر"
 
 def format_rating(raw_rating: str) -> str:
@@ -139,13 +138,64 @@ def scrape_chapter_images(session, chapter_url: str) -> list:
         print(f"خطأ أثناء جلب صور الفصل {chapter_url}: {e}")
         return []
 
+def discover_top_manga(session, target_count=30) -> list:
+    """استكشاف أحدث الأعمال تلقائياً من صفحات الموقع"""
+    print(f"جاري استكشاف أحدث {target_count} عمل من الموقع...")
+    discovered = []
+    page = 1
+
+    while len(discovered) < target_count and page <= 3:
+        url = f"{BASE_URL}/series" if page == 1 else f"{BASE_URL}/series?page={page}"
+        res = session.get(url, timeout=25)
+        soup = BeautifulSoup(res.text, "html.parser")
+
+        cards = soup.select("div:has(a.text-foreground[href^='/series/'])")
+        if not cards:
+            break
+
+        for container in cards:
+            link = container.select_one("a.text-foreground[href^='/series/']:not([href*='/chapter'])")
+            if not link:
+                continue
+
+            title = link.text.strip()
+            if "الحالة" in title or not title:
+                continue
+
+            manga_url = link.get("href", "").strip()
+            if not manga_url.startswith("http"):
+                manga_url = f"{BASE_URL}{manga_url}"
+            manga_url = normalize_url(manga_url)
+
+            # تجنب التكرار
+            if not any(m["url"] == manga_url for m in discovered):
+                cover_el = container.select_one("img.object-cover")
+                cover = cover_el.get("src", "").strip() if cover_el else ""
+                if cover and not cover.startswith("http"):
+                    cover = f"{BASE_URL}{cover}"
+
+                slug = manga_url.rstrip("/").split("/")[-1]
+                discovered.append({
+                    "id": slug,
+                    "title": title,
+                    "url": manga_url,
+                    "cover_url": cover.replace("http://", "https://")
+                })
+
+            if len(discovered) >= target_count:
+                break
+
+        page += 1
+
+    print(f"تم اكتشاف {len(discovered)} عمل بنجاح.")
+    return discovered
+
 def scrape_manga_details(session, manga_url: str):
     clean_url = normalize_url(manga_url).rstrip("/")
     res = session.get(clean_url, timeout=25)
     html = res.text
     soup = BeautifulSoup(html, "html.parser")
 
-    # 1. العنوان
     title_el = soup.select_one("h1[itemprop=name]")
     if not title_el:
         for h in soup.select("h1"):
@@ -154,7 +204,6 @@ def scrape_manga_details(session, manga_url: str):
                 break
     title = title_el.text.strip() if title_el else "بدون عنوان"
 
-    # 2. صورة الغلاف
     cover_el = soup.select_one("img[itemprop=image]")
     cover_url = cover_el.get("src", "").strip() if cover_el else ""
     if not cover_url:
@@ -164,49 +213,40 @@ def scrape_manga_details(session, manga_url: str):
         cover_url = f"{BASE_URL}{cover_url}"
     cover_url = cover_url.replace("http://", "https://")
 
-    # 3. الحالة
     raw_status = ""
     status_el = soup.select_one(".post-content_item:contains(الحالة), .post-status, div:has(h1:contains(الحالة))")
     if status_el:
         raw_status = status_el.text
     status = format_status(raw_status)
 
-    # 4. آخر تحديث
     time_units = "لحظات|ثواني|ثوان|دقيقة|دقيقتين|دقائق|ساعة|ساعتين|ساعات|يوم|يومين|أيام|ايام|أسبوع|اسبوع|أسبوعين|اسبوعين|أسابيع|اسابيع|شهر|شهرين|أشهر|اشهر|شهور|سنة|سنتين|سنوات|سنين"
     time_el = soup.find(lambda tag: tag.name in ["span", "div", "p"] and "منذ" in tag.text)
     raw_time = time_el.text.strip() if time_el else ""
     match_time = re.search(rf"منذ\s+(?:\d+\s+)?({time_units})(?:\s+تقريبا|\s+تقريباً)?", raw_time)
     last_update = match_time.group(0).strip() if match_time else ""
 
-    # 5. نوع العمل والرواية
     novel_badge = any("رواية" in s.text.strip() and ("blue" in s.get("class", [])) for s in soup.select("span"))
     is_novel = novel_badge or ("رواية" in title) or ("/novel/" in clean_url)
     type_el = soup.select_one("div:has(h1:contains(النوع)) div.inline span")
     raw_type = "رواية" if is_novel else (type_el.text.strip() if type_el else "مانهوا")
     manga_type = format_type(raw_type)
 
-    # 6. التصنيفات (Genres)
     genres = [a.text.strip() for a in soup.select(".genres-content a, .manga-tags a") if a.text.strip()]
 
-    # 7. الوصف
     desc_el = soup.select_one(".review-content p, div.summary__content p, div.manga-excerpt p, div[itemprop=description] p")
-    raw_desc = ""
-    if desc_el:
-        raw_desc = str(desc_el)
-    else:
+    raw_desc = str(desc_el) if desc_el else ""
+    if not raw_desc:
         meta_desc = soup.select_one("meta[property='og:description']")
         if meta_desc and len(meta_desc.get("content", "")) > 40:
             raw_desc = meta_desc.get("content", "")
     final_desc = clean_description(raw_desc, title)
 
-    # 8. التقييم والمفضلة
     fav_el = soup.select_one(".bookmark-count, .manga-action .count, .count-bookmark")
     favorites = fav_el.text.strip() if fav_el else ""
     
     rate_el = soup.select_one(".score.font-bold, .post-total-rating .score")
     rating = format_rating(rate_el.text if rate_el else "")
 
-    # 9. الفصول
     series_slug = clean_url.split("/")[-1]
     found_chapters = {}
 
@@ -246,49 +286,75 @@ def scrape_manga_details(session, manga_url: str):
         "chapters_to_sync": chapters_list
     }
 
-def sync_manga(session, manga_url: str):
-    clean_url = normalize_url(manga_url).rstrip("/")
-    slug = clean_url.split("/")[-1]
-    file_path = os.path.join(DATA_DIR, f"{slug}.json")
+def sync_all():
+    session = get_session()
+    discovered_manga = discover_top_manga(session, TOTAL_MANGA_TARGET)
+    
+    index_catalog = []
 
-    existing_data = {"id": slug, "chapters": {}}
-    if os.path.exists(file_path):
-        with open(file_path, "r", encoding="utf-8") as f:
-            existing_data = json.load(f)
+    for index, item in enumerate(discovered_manga, 1):
+        manga_url = item["url"]
+        slug = item["id"]
+        file_path = os.path.join(DATA_DIR, f"{slug}.json")
+        
+        print(f"\n[{index}/{len(discovered_manga)}] معالجة: {slug}")
 
-    print(f"جاري جلب بيانات وبطاقة: {slug}")
-    details = scrape_manga_details(session, clean_url)
+        try:
+            existing_data = {"id": slug, "chapters": {}}
+            if os.path.exists(file_path):
+                with open(file_path, "r", encoding="utf-8") as f:
+                    existing_data = json.load(f)
 
-    # تحديث بيانات البطاقة دوماً بآخر حالة وتقييم
-    for key in ["title", "cover_url", "description", "type", "status", "last_update", "favorites", "rating", "genres", "is_novel"]:
-        existing_data[key] = details[key]
+            details = scrape_manga_details(session, manga_url)
 
-    new_count = 0
-    for ch in details["chapters_to_sync"]:
-        ch_url = ch["url"]
-        ch_name = ch["name"]
+            # تحديث تفاصيل العمل
+            for key in ["title", "cover_url", "description", "type", "status", "last_update", "favorites", "rating", "genres", "is_novel"]:
+                existing_data[key] = details[key]
 
-        # الاحتفاظ بالفصول وصورها السابقة دون إعادة طلب
-        if ch_url in existing_data["chapters"]:
-            continue
+            # جلب الفصول الجديدة فقط
+            new_chapters = 0
+            for ch in details["chapters_to_sync"]:
+                ch_url = ch["url"]
+                ch_name = ch["name"]
 
-        print(f"--> جلب صور الفصل الجديد: {ch_name}")
-        images = scrape_chapter_images(session, ch_url)
-        if images:
-            existing_data["chapters"][ch_url] = {
-                "name": ch_name,
-                "images": images
-            }
-            new_count += 1
+                if ch_url in existing_data["chapters"]:
+                    continue
 
-    with open(file_path, "w", encoding="utf-8") as f:
-        json.dump(existing_data, f, ensure_ascii=False, indent=2)
-    print(f"تم حفظ البيانات الكاملة مع {new_count} فصول جديدة لـ {slug}!")
+                images = scrape_chapter_images(session, ch_url)
+                if images:
+                    existing_data["chapters"][ch_url] = {
+                        "name": ch_name,
+                        "images": images
+                    }
+                    new_chapters += 1
+
+            # حفظ ملف العمل الفردي
+            with open(file_path, "w", encoding="utf-8") as f:
+                json.dump(existing_data, f, ensure_ascii=False, indent=2)
+
+            # إضافة بطاقة العمل للفهرس العام
+            latest_ch = details["chapters_to_sync"][0]["name"] if details["chapters_to_sync"] else ""
+            index_catalog.append({
+                "id": slug,
+                "title": details["title"],
+                "cover_url": details["cover_url"],
+                "type": details["type"],
+                "status": details["status"],
+                "rating": details["rating"],
+                "latest_chapter": latest_ch,
+                "last_update": details["last_update"]
+            })
+
+            print(f"تم تحديث {slug} (فصول جديدة: {new_chapters})")
+            time.sleep(1) # تأخير بسيط لتفادي الضغط على الموقع
+
+        except Exception as e:
+            print(f"خطأ أثناء معالجة {slug}: {e}")
+
+    # حفظ الفهرس العام
+    with open(INDEX_FILE, "w", encoding="utf-8") as f:
+        json.dump(index_catalog, f, ensure_ascii=False, indent=2)
+    print(f"\nاكتملت المزامنة! تم حفظ {len(index_catalog)} عمل في {INDEX_FILE}")
 
 if __name__ == "__main__":
-    session = get_session()
-    for manga in TRACKED_MANGA:
-        try:
-            sync_manga(session, manga)
-        except Exception as e:
-            print(f"خطأ أثناء معالجة {manga}: {e}")
+    sync_all()
