@@ -1,14 +1,1131 @@
 {
   "id": "blue-lock",
-  "title": "بدون عنوان",
-  "cover_url": "",
-  "description": "لا يوجد وصف",
+  "title": "بلو لوك",
+  "cover_url": "https://mangatime.org/uploads/series/697df7820c5d340ac154519f/cover.jpg",
+  "description": "بعد إخفاق المنتخب الياباني في كأس العالم 2018، يطلق اتحاد كرة القدم مشروعًا غير مسبوق لصناعة المهاجم القادر على قيادة اليابان إلى القمة. داخل منشأة «بلو لوك» المغلقة، يجتمع 300 من أفضل المهاجمين الشباب في اختبارات إقصائية لا تعترف إلا بالأهداف والأنانية الكروية والرغبة المطلقة في الفوز.\n\nيوئيتشي إيساغي، مهاجم ثانوي ما زال يطارده قرار واحد حرمه من التأهل إلى البطولة الوطنية، يجد نفسه وسط منافسين يمتلك كل منهم سلاحًا خاصًا وطموحًا لا يقل خطورة. ومع كل مباراة واختبار، عليه أن يفهم موهبته الحقيقية، ويتجاوز تردده، ويعيد بناء طريقته في اللعب كي يصبح المهاجم الأول.\n\nتقدم مانجا «بلو لوك» مزيجًا مكثفًا من كرة القدم والتشويق والصراع النفسي، حيث تتحول المنافسة الرياضية إلى معركة إرادات تتصادم فيها الموهبة والعمل الجماعي مع غرور المهاجمين وحلم الفوز بكأس العالم.",
   "type": "مانغا",
   "status": "مستمر",
-  "last_update": "",
-  "rating": "",
-  "favorites": "",
-  "genres": [],
+  "last_update": "2026-09-22",
+  "rating": "9.2",
+  "favorites": "219",
+  "genres": [
+    "رياضة",
+    "إثارة",
+    "دراما",
+    "نفسي",
+    "شونين"
+  ],
   "is_novel": false,
-  "chapters": {}
+  "chapters": {
+    "blue-lock|370": {
+      "name": "370"
+    },
+    "blue-lock|369": {
+      "name": "369"
+    },
+    "blue-lock|368": {
+      "name": "368"
+    },
+    "blue-lock|367": {
+      "name": "367"
+    },
+    "blue-lock|366": {
+      "name": "366"
+    },
+    "blue-lock|365": {
+      "name": "365"
+    },
+    "blue-lock|364": {
+      "name": "364"
+    },
+    "blue-lock|363": {
+      "name": "363"
+    },
+    "blue-lock|362": {
+      "name": "362"
+    },
+    "blue-lock|361": {
+      "name": "361"
+    },
+    "blue-lock|360": {
+      "name": "360"
+    },
+    "blue-lock|359": {
+      "name": "359"
+    },
+    "blue-lock|358": {
+      "name": "358"
+    },
+    "blue-lock|357": {
+      "name": "357"
+    },
+    "blue-lock|356": {
+      "name": "356"
+    },
+    "blue-lock|355": {
+      "name": "355"
+    },
+    "blue-lock|354": {
+      "name": "354"
+    },
+    "blue-lock|353": {
+      "name": "353"
+    },
+    "blue-lock|352": {
+      "name": "352"
+    },
+    "blue-lock|351": {
+      "name": "351"
+    },
+    "blue-lock|350": {
+      "name": "350"
+    },
+    "blue-lock|349": {
+      "name": "349"
+    },
+    "blue-lock|348": {
+      "name": "348"
+    },
+    "blue-lock|347": {
+      "name": "347"
+    },
+    "blue-lock|346": {
+      "name": "346"
+    },
+    "blue-lock|345": {
+      "name": "345"
+    },
+    "blue-lock|344": {
+      "name": "344"
+    },
+    "blue-lock|343": {
+      "name": "343"
+    },
+    "blue-lock|342": {
+      "name": "342"
+    },
+    "blue-lock|341": {
+      "name": "341"
+    },
+    "blue-lock|340": {
+      "name": "340"
+    },
+    "blue-lock|339": {
+      "name": "339"
+    },
+    "blue-lock|338": {
+      "name": "338"
+    },
+    "blue-lock|337": {
+      "name": "337"
+    },
+    "blue-lock|336": {
+      "name": "336"
+    },
+    "blue-lock|335": {
+      "name": "335"
+    },
+    "blue-lock|334": {
+      "name": "334"
+    },
+    "blue-lock|333": {
+      "name": "333"
+    },
+    "blue-lock|332": {
+      "name": "332"
+    },
+    "blue-lock|331": {
+      "name": "331"
+    },
+    "blue-lock|330": {
+      "name": "330"
+    },
+    "blue-lock|329": {
+      "name": "329"
+    },
+    "blue-lock|328": {
+      "name": "328"
+    },
+    "blue-lock|327": {
+      "name": "327"
+    },
+    "blue-lock|326": {
+      "name": "326"
+    },
+    "blue-lock|325": {
+      "name": "325"
+    },
+    "blue-lock|324": {
+      "name": "324"
+    },
+    "blue-lock|323": {
+      "name": "323"
+    },
+    "blue-lock|322": {
+      "name": "322"
+    },
+    "blue-lock|321": {
+      "name": "321"
+    },
+    "blue-lock|320": {
+      "name": "320"
+    },
+    "blue-lock|319": {
+      "name": "319"
+    },
+    "blue-lock|318": {
+      "name": "318"
+    },
+    "blue-lock|317": {
+      "name": "317"
+    },
+    "blue-lock|316": {
+      "name": "316"
+    },
+    "blue-lock|315": {
+      "name": "315"
+    },
+    "blue-lock|314": {
+      "name": "314"
+    },
+    "blue-lock|313": {
+      "name": "313"
+    },
+    "blue-lock|312": {
+      "name": "312"
+    },
+    "blue-lock|311": {
+      "name": "311"
+    },
+    "blue-lock|310": {
+      "name": "310"
+    },
+    "blue-lock|309": {
+      "name": "309"
+    },
+    "blue-lock|308": {
+      "name": "308"
+    },
+    "blue-lock|307": {
+      "name": "307"
+    },
+    "blue-lock|306": {
+      "name": "306"
+    },
+    "blue-lock|305": {
+      "name": "305"
+    },
+    "blue-lock|304": {
+      "name": "304"
+    },
+    "blue-lock|303": {
+      "name": "303"
+    },
+    "blue-lock|302": {
+      "name": "302"
+    },
+    "blue-lock|301": {
+      "name": "301"
+    },
+    "blue-lock|300": {
+      "name": "300"
+    },
+    "blue-lock|299": {
+      "name": "299"
+    },
+    "blue-lock|298": {
+      "name": "298"
+    },
+    "blue-lock|297": {
+      "name": "297"
+    },
+    "blue-lock|296": {
+      "name": "296"
+    },
+    "blue-lock|295": {
+      "name": "295"
+    },
+    "blue-lock|294": {
+      "name": "294"
+    },
+    "blue-lock|293": {
+      "name": "293"
+    },
+    "blue-lock|292": {
+      "name": "292"
+    },
+    "blue-lock|291": {
+      "name": "291"
+    },
+    "blue-lock|290": {
+      "name": "290"
+    },
+    "blue-lock|289": {
+      "name": "289"
+    },
+    "blue-lock|288": {
+      "name": "288"
+    },
+    "blue-lock|287": {
+      "name": "287"
+    },
+    "blue-lock|286": {
+      "name": "286"
+    },
+    "blue-lock|285": {
+      "name": "285"
+    },
+    "blue-lock|284": {
+      "name": "284"
+    },
+    "blue-lock|283": {
+      "name": "283"
+    },
+    "blue-lock|282": {
+      "name": "282"
+    },
+    "blue-lock|281": {
+      "name": "281"
+    },
+    "blue-lock|280": {
+      "name": "280"
+    },
+    "blue-lock|279": {
+      "name": "279"
+    },
+    "blue-lock|278": {
+      "name": "278"
+    },
+    "blue-lock|277": {
+      "name": "277"
+    },
+    "blue-lock|276": {
+      "name": "276"
+    },
+    "blue-lock|275": {
+      "name": "275"
+    },
+    "blue-lock|274": {
+      "name": "274"
+    },
+    "blue-lock|273": {
+      "name": "273"
+    },
+    "blue-lock|272": {
+      "name": "272"
+    },
+    "blue-lock|271": {
+      "name": "271"
+    },
+    "blue-lock|270": {
+      "name": "270"
+    },
+    "blue-lock|269": {
+      "name": "269"
+    },
+    "blue-lock|268": {
+      "name": "268"
+    },
+    "blue-lock|267": {
+      "name": "267"
+    },
+    "blue-lock|266": {
+      "name": "266"
+    },
+    "blue-lock|265": {
+      "name": "265"
+    },
+    "blue-lock|264": {
+      "name": "264"
+    },
+    "blue-lock|263": {
+      "name": "263"
+    },
+    "blue-lock|262": {
+      "name": "262"
+    },
+    "blue-lock|261": {
+      "name": "261"
+    },
+    "blue-lock|260": {
+      "name": "260"
+    },
+    "blue-lock|259": {
+      "name": "259"
+    },
+    "blue-lock|258": {
+      "name": "258"
+    },
+    "blue-lock|257": {
+      "name": "257"
+    },
+    "blue-lock|256": {
+      "name": "256"
+    },
+    "blue-lock|255": {
+      "name": "255"
+    },
+    "blue-lock|254": {
+      "name": "254"
+    },
+    "blue-lock|253": {
+      "name": "253"
+    },
+    "blue-lock|252": {
+      "name": "252"
+    },
+    "blue-lock|251": {
+      "name": "251"
+    },
+    "blue-lock|250": {
+      "name": "250"
+    },
+    "blue-lock|249": {
+      "name": "249"
+    },
+    "blue-lock|248": {
+      "name": "248"
+    },
+    "blue-lock|247": {
+      "name": "247"
+    },
+    "blue-lock|246": {
+      "name": "246"
+    },
+    "blue-lock|245": {
+      "name": "245"
+    },
+    "blue-lock|244": {
+      "name": "244"
+    },
+    "blue-lock|243": {
+      "name": "243"
+    },
+    "blue-lock|242": {
+      "name": "242"
+    },
+    "blue-lock|241": {
+      "name": "241"
+    },
+    "blue-lock|240": {
+      "name": "240"
+    },
+    "blue-lock|239": {
+      "name": "239"
+    },
+    "blue-lock|238": {
+      "name": "238"
+    },
+    "blue-lock|237": {
+      "name": "237"
+    },
+    "blue-lock|236": {
+      "name": "236"
+    },
+    "blue-lock|235": {
+      "name": "235"
+    },
+    "blue-lock|234": {
+      "name": "234"
+    },
+    "blue-lock|233": {
+      "name": "233"
+    },
+    "blue-lock|232": {
+      "name": "232"
+    },
+    "blue-lock|231": {
+      "name": "231"
+    },
+    "blue-lock|230": {
+      "name": "230"
+    },
+    "blue-lock|229": {
+      "name": "229"
+    },
+    "blue-lock|228": {
+      "name": "228"
+    },
+    "blue-lock|227": {
+      "name": "227"
+    },
+    "blue-lock|226": {
+      "name": "226"
+    },
+    "blue-lock|225": {
+      "name": "225"
+    },
+    "blue-lock|224": {
+      "name": "224"
+    },
+    "blue-lock|223": {
+      "name": "223"
+    },
+    "blue-lock|222": {
+      "name": "222"
+    },
+    "blue-lock|221": {
+      "name": "221"
+    },
+    "blue-lock|220": {
+      "name": "220"
+    },
+    "blue-lock|219": {
+      "name": "219"
+    },
+    "blue-lock|218": {
+      "name": "218"
+    },
+    "blue-lock|217": {
+      "name": "217"
+    },
+    "blue-lock|216": {
+      "name": "216"
+    },
+    "blue-lock|215": {
+      "name": "215"
+    },
+    "blue-lock|214": {
+      "name": "214"
+    },
+    "blue-lock|213": {
+      "name": "213"
+    },
+    "blue-lock|212": {
+      "name": "212"
+    },
+    "blue-lock|211": {
+      "name": "211"
+    },
+    "blue-lock|210": {
+      "name": "210"
+    },
+    "blue-lock|209": {
+      "name": "209"
+    },
+    "blue-lock|208": {
+      "name": "208"
+    },
+    "blue-lock|207": {
+      "name": "207"
+    },
+    "blue-lock|206": {
+      "name": "206"
+    },
+    "blue-lock|205": {
+      "name": "205"
+    },
+    "blue-lock|204": {
+      "name": "204"
+    },
+    "blue-lock|203": {
+      "name": "203"
+    },
+    "blue-lock|202": {
+      "name": "202"
+    },
+    "blue-lock|201": {
+      "name": "201"
+    },
+    "blue-lock|200": {
+      "name": "200"
+    },
+    "blue-lock|199": {
+      "name": "199"
+    },
+    "blue-lock|198": {
+      "name": "198"
+    },
+    "blue-lock|197": {
+      "name": "197"
+    },
+    "blue-lock|196": {
+      "name": "196"
+    },
+    "blue-lock|195": {
+      "name": "195"
+    },
+    "blue-lock|194": {
+      "name": "194"
+    },
+    "blue-lock|193": {
+      "name": "193"
+    },
+    "blue-lock|192": {
+      "name": "192"
+    },
+    "blue-lock|191": {
+      "name": "191"
+    },
+    "blue-lock|190": {
+      "name": "190"
+    },
+    "blue-lock|189": {
+      "name": "189"
+    },
+    "blue-lock|188": {
+      "name": "188"
+    },
+    "blue-lock|187": {
+      "name": "187"
+    },
+    "blue-lock|186": {
+      "name": "186"
+    },
+    "blue-lock|185": {
+      "name": "185"
+    },
+    "blue-lock|184": {
+      "name": "184"
+    },
+    "blue-lock|183": {
+      "name": "183"
+    },
+    "blue-lock|182": {
+      "name": "182"
+    },
+    "blue-lock|181": {
+      "name": "181"
+    },
+    "blue-lock|180": {
+      "name": "180"
+    },
+    "blue-lock|179": {
+      "name": "179"
+    },
+    "blue-lock|178": {
+      "name": "178"
+    },
+    "blue-lock|177": {
+      "name": "177"
+    },
+    "blue-lock|176": {
+      "name": "176"
+    },
+    "blue-lock|175": {
+      "name": "175"
+    },
+    "blue-lock|174": {
+      "name": "174"
+    },
+    "blue-lock|173": {
+      "name": "173"
+    },
+    "blue-lock|172": {
+      "name": "172"
+    },
+    "blue-lock|171": {
+      "name": "171"
+    },
+    "blue-lock|170": {
+      "name": "170"
+    },
+    "blue-lock|169": {
+      "name": "169"
+    },
+    "blue-lock|168": {
+      "name": "168"
+    },
+    "blue-lock|167": {
+      "name": "167"
+    },
+    "blue-lock|166": {
+      "name": "166"
+    },
+    "blue-lock|165": {
+      "name": "165"
+    },
+    "blue-lock|164": {
+      "name": "164"
+    },
+    "blue-lock|163": {
+      "name": "163"
+    },
+    "blue-lock|162": {
+      "name": "162"
+    },
+    "blue-lock|161": {
+      "name": "161"
+    },
+    "blue-lock|160": {
+      "name": "160"
+    },
+    "blue-lock|159": {
+      "name": "159"
+    },
+    "blue-lock|158": {
+      "name": "158"
+    },
+    "blue-lock|157": {
+      "name": "157"
+    },
+    "blue-lock|156": {
+      "name": "156"
+    },
+    "blue-lock|155": {
+      "name": "155"
+    },
+    "blue-lock|154": {
+      "name": "154"
+    },
+    "blue-lock|153": {
+      "name": "153"
+    },
+    "blue-lock|152": {
+      "name": "152"
+    },
+    "blue-lock|151": {
+      "name": "151"
+    },
+    "blue-lock|150": {
+      "name": "150"
+    },
+    "blue-lock|149": {
+      "name": "149"
+    },
+    "blue-lock|148": {
+      "name": "148"
+    },
+    "blue-lock|147": {
+      "name": "147"
+    },
+    "blue-lock|146": {
+      "name": "146"
+    },
+    "blue-lock|145": {
+      "name": "145"
+    },
+    "blue-lock|144": {
+      "name": "144"
+    },
+    "blue-lock|143": {
+      "name": "143"
+    },
+    "blue-lock|142": {
+      "name": "142"
+    },
+    "blue-lock|141": {
+      "name": "141"
+    },
+    "blue-lock|140": {
+      "name": "140"
+    },
+    "blue-lock|139": {
+      "name": "139"
+    },
+    "blue-lock|138": {
+      "name": "138"
+    },
+    "blue-lock|137": {
+      "name": "137"
+    },
+    "blue-lock|136": {
+      "name": "136"
+    },
+    "blue-lock|135": {
+      "name": "135"
+    },
+    "blue-lock|134": {
+      "name": "134"
+    },
+    "blue-lock|133": {
+      "name": "133"
+    },
+    "blue-lock|132": {
+      "name": "132"
+    },
+    "blue-lock|131": {
+      "name": "131"
+    },
+    "blue-lock|130": {
+      "name": "130"
+    },
+    "blue-lock|129": {
+      "name": "129"
+    },
+    "blue-lock|128": {
+      "name": "128"
+    },
+    "blue-lock|127": {
+      "name": "127"
+    },
+    "blue-lock|126": {
+      "name": "126"
+    },
+    "blue-lock|125": {
+      "name": "125"
+    },
+    "blue-lock|124": {
+      "name": "124"
+    },
+    "blue-lock|123": {
+      "name": "123"
+    },
+    "blue-lock|122": {
+      "name": "122"
+    },
+    "blue-lock|121": {
+      "name": "121"
+    },
+    "blue-lock|120": {
+      "name": "120"
+    },
+    "blue-lock|119": {
+      "name": "119"
+    },
+    "blue-lock|118": {
+      "name": "118"
+    },
+    "blue-lock|117": {
+      "name": "117"
+    },
+    "blue-lock|116": {
+      "name": "116"
+    },
+    "blue-lock|115": {
+      "name": "115"
+    },
+    "blue-lock|114": {
+      "name": "114"
+    },
+    "blue-lock|113": {
+      "name": "113"
+    },
+    "blue-lock|112": {
+      "name": "112"
+    },
+    "blue-lock|111": {
+      "name": "111"
+    },
+    "blue-lock|110": {
+      "name": "110"
+    },
+    "blue-lock|109": {
+      "name": "109"
+    },
+    "blue-lock|108": {
+      "name": "108"
+    },
+    "blue-lock|107": {
+      "name": "107"
+    },
+    "blue-lock|106": {
+      "name": "106"
+    },
+    "blue-lock|105": {
+      "name": "105"
+    },
+    "blue-lock|104": {
+      "name": "104"
+    },
+    "blue-lock|103": {
+      "name": "103"
+    },
+    "blue-lock|102": {
+      "name": "102"
+    },
+    "blue-lock|101": {
+      "name": "101"
+    },
+    "blue-lock|100": {
+      "name": "100"
+    },
+    "blue-lock|99": {
+      "name": "99"
+    },
+    "blue-lock|98": {
+      "name": "98"
+    },
+    "blue-lock|97": {
+      "name": "97"
+    },
+    "blue-lock|96": {
+      "name": "96"
+    },
+    "blue-lock|95": {
+      "name": "95"
+    },
+    "blue-lock|94": {
+      "name": "94"
+    },
+    "blue-lock|93": {
+      "name": "93"
+    },
+    "blue-lock|92": {
+      "name": "92"
+    },
+    "blue-lock|91": {
+      "name": "91"
+    },
+    "blue-lock|90": {
+      "name": "90"
+    },
+    "blue-lock|89": {
+      "name": "89"
+    },
+    "blue-lock|88": {
+      "name": "88"
+    },
+    "blue-lock|87": {
+      "name": "87"
+    },
+    "blue-lock|86": {
+      "name": "86"
+    },
+    "blue-lock|85": {
+      "name": "85"
+    },
+    "blue-lock|84": {
+      "name": "84"
+    },
+    "blue-lock|83": {
+      "name": "83"
+    },
+    "blue-lock|82": {
+      "name": "82"
+    },
+    "blue-lock|81": {
+      "name": "81"
+    },
+    "blue-lock|80": {
+      "name": "80"
+    },
+    "blue-lock|79": {
+      "name": "79"
+    },
+    "blue-lock|78": {
+      "name": "78"
+    },
+    "blue-lock|77": {
+      "name": "77"
+    },
+    "blue-lock|76": {
+      "name": "76"
+    },
+    "blue-lock|75": {
+      "name": "75"
+    },
+    "blue-lock|74": {
+      "name": "74"
+    },
+    "blue-lock|73": {
+      "name": "73"
+    },
+    "blue-lock|72": {
+      "name": "72"
+    },
+    "blue-lock|71": {
+      "name": "71"
+    },
+    "blue-lock|70": {
+      "name": "70"
+    },
+    "blue-lock|69": {
+      "name": "69"
+    },
+    "blue-lock|68": {
+      "name": "68"
+    },
+    "blue-lock|67": {
+      "name": "67"
+    },
+    "blue-lock|66": {
+      "name": "66"
+    },
+    "blue-lock|65": {
+      "name": "65"
+    },
+    "blue-lock|64": {
+      "name": "64"
+    },
+    "blue-lock|63": {
+      "name": "63"
+    },
+    "blue-lock|62": {
+      "name": "62"
+    },
+    "blue-lock|61": {
+      "name": "61"
+    },
+    "blue-lock|60": {
+      "name": "60"
+    },
+    "blue-lock|59": {
+      "name": "59"
+    },
+    "blue-lock|58": {
+      "name": "58"
+    },
+    "blue-lock|57": {
+      "name": "57"
+    },
+    "blue-lock|56": {
+      "name": "56"
+    },
+    "blue-lock|55": {
+      "name": "55"
+    },
+    "blue-lock|54": {
+      "name": "54"
+    },
+    "blue-lock|53": {
+      "name": "53"
+    },
+    "blue-lock|52": {
+      "name": "52"
+    },
+    "blue-lock|51": {
+      "name": "51"
+    },
+    "blue-lock|50": {
+      "name": "50"
+    },
+    "blue-lock|49": {
+      "name": "49"
+    },
+    "blue-lock|48": {
+      "name": "48"
+    },
+    "blue-lock|47": {
+      "name": "47"
+    },
+    "blue-lock|46": {
+      "name": "46"
+    },
+    "blue-lock|45": {
+      "name": "45"
+    },
+    "blue-lock|44": {
+      "name": "44"
+    },
+    "blue-lock|43": {
+      "name": "43"
+    },
+    "blue-lock|42": {
+      "name": "42"
+    },
+    "blue-lock|41": {
+      "name": "41"
+    },
+    "blue-lock|40": {
+      "name": "40"
+    },
+    "blue-lock|39": {
+      "name": "39"
+    },
+    "blue-lock|38": {
+      "name": "38"
+    },
+    "blue-lock|37": {
+      "name": "37"
+    },
+    "blue-lock|36": {
+      "name": "36"
+    },
+    "blue-lock|35": {
+      "name": "35"
+    },
+    "blue-lock|34": {
+      "name": "34"
+    },
+    "blue-lock|33": {
+      "name": "33"
+    },
+    "blue-lock|32": {
+      "name": "32"
+    },
+    "blue-lock|31": {
+      "name": "31"
+    },
+    "blue-lock|30": {
+      "name": "30"
+    },
+    "blue-lock|29": {
+      "name": "29"
+    },
+    "blue-lock|28": {
+      "name": "28"
+    },
+    "blue-lock|27": {
+      "name": "27"
+    },
+    "blue-lock|26": {
+      "name": "26"
+    },
+    "blue-lock|25": {
+      "name": "25"
+    },
+    "blue-lock|24": {
+      "name": "24"
+    },
+    "blue-lock|23": {
+      "name": "23"
+    },
+    "blue-lock|22": {
+      "name": "22"
+    },
+    "blue-lock|21": {
+      "name": "21"
+    },
+    "blue-lock|20": {
+      "name": "20"
+    },
+    "blue-lock|19": {
+      "name": "19"
+    },
+    "blue-lock|18": {
+      "name": "18"
+    },
+    "blue-lock|17": {
+      "name": "17"
+    },
+    "blue-lock|16": {
+      "name": "16"
+    },
+    "blue-lock|15": {
+      "name": "15"
+    },
+    "blue-lock|14": {
+      "name": "14"
+    },
+    "blue-lock|13": {
+      "name": "13"
+    },
+    "blue-lock|12": {
+      "name": "12"
+    },
+    "blue-lock|11": {
+      "name": "11"
+    },
+    "blue-lock|10": {
+      "name": "10"
+    },
+    "blue-lock|9": {
+      "name": "9"
+    },
+    "blue-lock|8": {
+      "name": "8"
+    },
+    "blue-lock|7": {
+      "name": "7"
+    },
+    "blue-lock|6": {
+      "name": "6"
+    },
+    "blue-lock|5": {
+      "name": "5"
+    },
+    "blue-lock|4": {
+      "name": "4"
+    },
+    "blue-lock|3": {
+      "name": "3"
+    },
+    "blue-lock|2": {
+      "name": "2"
+    },
+    "blue-lock|1": {
+      "name": "1"
+    }
+  }
 }

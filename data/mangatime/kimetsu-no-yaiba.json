@@ -1,14 +1,642 @@
 {
   "id": "kimetsu-no-yaiba",
-  "title": "بدون عنوان",
-  "cover_url": "",
-  "description": "لا يوجد وصف",
+  "title": "قاتل الشياطين",
+  "cover_url": "https://mangatime.org/uploads/series/697df7790c5d340ac1544e4a/cover.webp",
+  "description": "في اليابان خلال حقبة تايشو، يعيش تانجيرو كامادو حياة متواضعة وهو يعيل أسرته ببيع الفحم. تنقلب حياته في ليلة واحدة عندما يعود إلى منزله فيجد عائلته ضحية لهجوم شيطاني، فيما تنجو شقيقته نيزوكو وحدها بعد أن تحولت إلى شيطان.\n\nيرفض تانجيرو التخلي عن إنسانية شقيقته، وينطلق في رحلة قاسية بحثًا عن علاج يعيدها إلى طبيعتها وعن القوة اللازمة لمواجهة الشيطان المسؤول عن مأساته. بانضمامه إلى فيلق صائدي الشياطين، يتعلم أساليب التنفس والقتال بالسيف، ويخوض معارك متصاعدة إلى جانب زينيتسو وإينوسكي ضد أقمار الشياطين وأتباع موزان كيبوتسوجي.\n\nتمزج مانجا «قاتل الشياطين» بين الأكشن والفانتازيا المظلمة والدراما العائلية، وتبني حكاية عن الرحمة والفقد والإصرار، حيث لا يخلو الصراع مع الشياطين من قصص إنسانية مؤلمة واختبارات صعبة للوفاء والشجاعة.",
   "type": "مانغا",
-  "status": "مستمر",
-  "last_update": "",
-  "rating": "",
-  "favorites": "",
-  "genres": [],
+  "status": "مكتمل",
+  "last_update": "2026-09-22",
+  "rating": "8.8",
+  "favorites": "142",
+  "genres": [
+    "أكشن",
+    "دراما",
+    "قوى خارقة",
+    "مغامرة",
+    "تاريخي",
+    "كوميديا",
+    "تراجيديا",
+    "شياطين",
+    "فنون قتالية",
+    "خارق للطبيعة",
+    "شونين"
+  ],
   "is_novel": false,
-  "chapters": {}
+  "chapters": {
+    "kimetsu-no-yaiba|205": {
+      "name": "205"
+    },
+    "kimetsu-no-yaiba|204": {
+      "name": "204"
+    },
+    "kimetsu-no-yaiba|203": {
+      "name": "203"
+    },
+    "kimetsu-no-yaiba|202": {
+      "name": "202"
+    },
+    "kimetsu-no-yaiba|201": {
+      "name": "201"
+    },
+    "kimetsu-no-yaiba|200": {
+      "name": "200"
+    },
+    "kimetsu-no-yaiba|199": {
+      "name": "199"
+    },
+    "kimetsu-no-yaiba|198": {
+      "name": "198"
+    },
+    "kimetsu-no-yaiba|197": {
+      "name": "197"
+    },
+    "kimetsu-no-yaiba|196": {
+      "name": "196"
+    },
+    "kimetsu-no-yaiba|195": {
+      "name": "195"
+    },
+    "kimetsu-no-yaiba|194": {
+      "name": "194"
+    },
+    "kimetsu-no-yaiba|193": {
+      "name": "193"
+    },
+    "kimetsu-no-yaiba|192": {
+      "name": "192"
+    },
+    "kimetsu-no-yaiba|191": {
+      "name": "191"
+    },
+    "kimetsu-no-yaiba|190": {
+      "name": "190"
+    },
+    "kimetsu-no-yaiba|189": {
+      "name": "189"
+    },
+    "kimetsu-no-yaiba|188": {
+      "name": "188"
+    },
+    "kimetsu-no-yaiba|187": {
+      "name": "187"
+    },
+    "kimetsu-no-yaiba|186": {
+      "name": "186"
+    },
+    "kimetsu-no-yaiba|185": {
+      "name": "185"
+    },
+    "kimetsu-no-yaiba|184": {
+      "name": "184"
+    },
+    "kimetsu-no-yaiba|183": {
+      "name": "183"
+    },
+    "kimetsu-no-yaiba|182": {
+      "name": "182"
+    },
+    "kimetsu-no-yaiba|181": {
+      "name": "181"
+    },
+    "kimetsu-no-yaiba|180": {
+      "name": "180"
+    },
+    "kimetsu-no-yaiba|179": {
+      "name": "179"
+    },
+    "kimetsu-no-yaiba|178": {
+      "name": "178"
+    },
+    "kimetsu-no-yaiba|177": {
+      "name": "177"
+    },
+    "kimetsu-no-yaiba|176": {
+      "name": "176"
+    },
+    "kimetsu-no-yaiba|175": {
+      "name": "175"
+    },
+    "kimetsu-no-yaiba|174": {
+      "name": "174"
+    },
+    "kimetsu-no-yaiba|173": {
+      "name": "173"
+    },
+    "kimetsu-no-yaiba|172": {
+      "name": "172"
+    },
+    "kimetsu-no-yaiba|171": {
+      "name": "171"
+    },
+    "kimetsu-no-yaiba|170": {
+      "name": "170"
+    },
+    "kimetsu-no-yaiba|169": {
+      "name": "169"
+    },
+    "kimetsu-no-yaiba|168": {
+      "name": "168"
+    },
+    "kimetsu-no-yaiba|167": {
+      "name": "167"
+    },
+    "kimetsu-no-yaiba|166": {
+      "name": "166"
+    },
+    "kimetsu-no-yaiba|165": {
+      "name": "165"
+    },
+    "kimetsu-no-yaiba|164": {
+      "name": "164"
+    },
+    "kimetsu-no-yaiba|163": {
+      "name": "163"
+    },
+    "kimetsu-no-yaiba|162": {
+      "name": "162"
+    },
+    "kimetsu-no-yaiba|161": {
+      "name": "161"
+    },
+    "kimetsu-no-yaiba|160": {
+      "name": "160"
+    },
+    "kimetsu-no-yaiba|159": {
+      "name": "159"
+    },
+    "kimetsu-no-yaiba|158": {
+      "name": "158"
+    },
+    "kimetsu-no-yaiba|157": {
+      "name": "157"
+    },
+    "kimetsu-no-yaiba|156": {
+      "name": "156"
+    },
+    "kimetsu-no-yaiba|155": {
+      "name": "155"
+    },
+    "kimetsu-no-yaiba|154": {
+      "name": "154"
+    },
+    "kimetsu-no-yaiba|153": {
+      "name": "153"
+    },
+    "kimetsu-no-yaiba|152": {
+      "name": "152"
+    },
+    "kimetsu-no-yaiba|151": {
+      "name": "151"
+    },
+    "kimetsu-no-yaiba|150": {
+      "name": "150"
+    },
+    "kimetsu-no-yaiba|149": {
+      "name": "149"
+    },
+    "kimetsu-no-yaiba|148": {
+      "name": "148"
+    },
+    "kimetsu-no-yaiba|147": {
+      "name": "147"
+    },
+    "kimetsu-no-yaiba|146": {
+      "name": "146"
+    },
+    "kimetsu-no-yaiba|145": {
+      "name": "145"
+    },
+    "kimetsu-no-yaiba|144": {
+      "name": "144"
+    },
+    "kimetsu-no-yaiba|143": {
+      "name": "143"
+    },
+    "kimetsu-no-yaiba|142": {
+      "name": "142"
+    },
+    "kimetsu-no-yaiba|141": {
+      "name": "141"
+    },
+    "kimetsu-no-yaiba|140": {
+      "name": "140"
+    },
+    "kimetsu-no-yaiba|139": {
+      "name": "139"
+    },
+    "kimetsu-no-yaiba|138": {
+      "name": "138"
+    },
+    "kimetsu-no-yaiba|137": {
+      "name": "137"
+    },
+    "kimetsu-no-yaiba|136": {
+      "name": "136"
+    },
+    "kimetsu-no-yaiba|135": {
+      "name": "135"
+    },
+    "kimetsu-no-yaiba|134": {
+      "name": "134"
+    },
+    "kimetsu-no-yaiba|133": {
+      "name": "133"
+    },
+    "kimetsu-no-yaiba|132": {
+      "name": "132"
+    },
+    "kimetsu-no-yaiba|131": {
+      "name": "131"
+    },
+    "kimetsu-no-yaiba|130": {
+      "name": "130"
+    },
+    "kimetsu-no-yaiba|129": {
+      "name": "129"
+    },
+    "kimetsu-no-yaiba|128": {
+      "name": "128"
+    },
+    "kimetsu-no-yaiba|127": {
+      "name": "127"
+    },
+    "kimetsu-no-yaiba|126": {
+      "name": "126"
+    },
+    "kimetsu-no-yaiba|125": {
+      "name": "125"
+    },
+    "kimetsu-no-yaiba|124": {
+      "name": "124"
+    },
+    "kimetsu-no-yaiba|123": {
+      "name": "123"
+    },
+    "kimetsu-no-yaiba|122": {
+      "name": "122"
+    },
+    "kimetsu-no-yaiba|121": {
+      "name": "121"
+    },
+    "kimetsu-no-yaiba|120": {
+      "name": "120"
+    },
+    "kimetsu-no-yaiba|119": {
+      "name": "119"
+    },
+    "kimetsu-no-yaiba|118": {
+      "name": "118"
+    },
+    "kimetsu-no-yaiba|117": {
+      "name": "117"
+    },
+    "kimetsu-no-yaiba|116": {
+      "name": "116"
+    },
+    "kimetsu-no-yaiba|115": {
+      "name": "115"
+    },
+    "kimetsu-no-yaiba|114": {
+      "name": "114"
+    },
+    "kimetsu-no-yaiba|113": {
+      "name": "113"
+    },
+    "kimetsu-no-yaiba|112": {
+      "name": "112"
+    },
+    "kimetsu-no-yaiba|111": {
+      "name": "111"
+    },
+    "kimetsu-no-yaiba|110": {
+      "name": "110"
+    },
+    "kimetsu-no-yaiba|109": {
+      "name": "109"
+    },
+    "kimetsu-no-yaiba|108": {
+      "name": "108"
+    },
+    "kimetsu-no-yaiba|107": {
+      "name": "107"
+    },
+    "kimetsu-no-yaiba|106": {
+      "name": "106"
+    },
+    "kimetsu-no-yaiba|105": {
+      "name": "105"
+    },
+    "kimetsu-no-yaiba|104": {
+      "name": "104"
+    },
+    "kimetsu-no-yaiba|103": {
+      "name": "103"
+    },
+    "kimetsu-no-yaiba|102": {
+      "name": "102"
+    },
+    "kimetsu-no-yaiba|101": {
+      "name": "101"
+    },
+    "kimetsu-no-yaiba|100": {
+      "name": "100"
+    },
+    "kimetsu-no-yaiba|99": {
+      "name": "99"
+    },
+    "kimetsu-no-yaiba|98": {
+      "name": "98"
+    },
+    "kimetsu-no-yaiba|97": {
+      "name": "97"
+    },
+    "kimetsu-no-yaiba|96": {
+      "name": "96"
+    },
+    "kimetsu-no-yaiba|95": {
+      "name": "95"
+    },
+    "kimetsu-no-yaiba|94": {
+      "name": "94"
+    },
+    "kimetsu-no-yaiba|93": {
+      "name": "93"
+    },
+    "kimetsu-no-yaiba|92": {
+      "name": "92"
+    },
+    "kimetsu-no-yaiba|91": {
+      "name": "91"
+    },
+    "kimetsu-no-yaiba|90": {
+      "name": "90"
+    },
+    "kimetsu-no-yaiba|89": {
+      "name": "89"
+    },
+    "kimetsu-no-yaiba|88": {
+      "name": "88"
+    },
+    "kimetsu-no-yaiba|87": {
+      "name": "87"
+    },
+    "kimetsu-no-yaiba|86": {
+      "name": "86"
+    },
+    "kimetsu-no-yaiba|85": {
+      "name": "85"
+    },
+    "kimetsu-no-yaiba|84": {
+      "name": "84"
+    },
+    "kimetsu-no-yaiba|83": {
+      "name": "83"
+    },
+    "kimetsu-no-yaiba|82": {
+      "name": "82"
+    },
+    "kimetsu-no-yaiba|81": {
+      "name": "81"
+    },
+    "kimetsu-no-yaiba|80": {
+      "name": "80"
+    },
+    "kimetsu-no-yaiba|79": {
+      "name": "79"
+    },
+    "kimetsu-no-yaiba|78": {
+      "name": "78"
+    },
+    "kimetsu-no-yaiba|77": {
+      "name": "77"
+    },
+    "kimetsu-no-yaiba|76": {
+      "name": "76"
+    },
+    "kimetsu-no-yaiba|75": {
+      "name": "75"
+    },
+    "kimetsu-no-yaiba|74": {
+      "name": "74"
+    },
+    "kimetsu-no-yaiba|73": {
+      "name": "73"
+    },
+    "kimetsu-no-yaiba|72": {
+      "name": "72"
+    },
+    "kimetsu-no-yaiba|71": {
+      "name": "71"
+    },
+    "kimetsu-no-yaiba|70": {
+      "name": "70"
+    },
+    "kimetsu-no-yaiba|69": {
+      "name": "69"
+    },
+    "kimetsu-no-yaiba|68": {
+      "name": "68"
+    },
+    "kimetsu-no-yaiba|67": {
+      "name": "67"
+    },
+    "kimetsu-no-yaiba|66": {
+      "name": "66"
+    },
+    "kimetsu-no-yaiba|65": {
+      "name": "65"
+    },
+    "kimetsu-no-yaiba|64": {
+      "name": "64"
+    },
+    "kimetsu-no-yaiba|63": {
+      "name": "63"
+    },
+    "kimetsu-no-yaiba|62": {
+      "name": "62"
+    },
+    "kimetsu-no-yaiba|61": {
+      "name": "61"
+    },
+    "kimetsu-no-yaiba|60": {
+      "name": "60"
+    },
+    "kimetsu-no-yaiba|59": {
+      "name": "59"
+    },
+    "kimetsu-no-yaiba|58": {
+      "name": "58"
+    },
+    "kimetsu-no-yaiba|57": {
+      "name": "57"
+    },
+    "kimetsu-no-yaiba|56": {
+      "name": "56"
+    },
+    "kimetsu-no-yaiba|55": {
+      "name": "55"
+    },
+    "kimetsu-no-yaiba|54": {
+      "name": "54"
+    },
+    "kimetsu-no-yaiba|53": {
+      "name": "53"
+    },
+    "kimetsu-no-yaiba|52": {
+      "name": "52"
+    },
+    "kimetsu-no-yaiba|51": {
+      "name": "51"
+    },
+    "kimetsu-no-yaiba|50": {
+      "name": "50"
+    },
+    "kimetsu-no-yaiba|49": {
+      "name": "49"
+    },
+    "kimetsu-no-yaiba|48": {
+      "name": "48"
+    },
+    "kimetsu-no-yaiba|47": {
+      "name": "47"
+    },
+    "kimetsu-no-yaiba|46": {
+      "name": "46"
+    },
+    "kimetsu-no-yaiba|45": {
+      "name": "45"
+    },
+    "kimetsu-no-yaiba|44": {
+      "name": "44"
+    },
+    "kimetsu-no-yaiba|43": {
+      "name": "43"
+    },
+    "kimetsu-no-yaiba|42": {
+      "name": "42"
+    },
+    "kimetsu-no-yaiba|41": {
+      "name": "41"
+    },
+    "kimetsu-no-yaiba|40": {
+      "name": "40"
+    },
+    "kimetsu-no-yaiba|39": {
+      "name": "39"
+    },
+    "kimetsu-no-yaiba|38": {
+      "name": "38"
+    },
+    "kimetsu-no-yaiba|37": {
+      "name": "37"
+    },
+    "kimetsu-no-yaiba|36": {
+      "name": "36"
+    },
+    "kimetsu-no-yaiba|35": {
+      "name": "35"
+    },
+    "kimetsu-no-yaiba|34": {
+      "name": "34"
+    },
+    "kimetsu-no-yaiba|33": {
+      "name": "33"
+    },
+    "kimetsu-no-yaiba|32": {
+      "name": "32"
+    },
+    "kimetsu-no-yaiba|31": {
+      "name": "31"
+    },
+    "kimetsu-no-yaiba|30": {
+      "name": "30"
+    },
+    "kimetsu-no-yaiba|29": {
+      "name": "29"
+    },
+    "kimetsu-no-yaiba|28": {
+      "name": "28"
+    },
+    "kimetsu-no-yaiba|27": {
+      "name": "27"
+    },
+    "kimetsu-no-yaiba|26": {
+      "name": "26"
+    },
+    "kimetsu-no-yaiba|25": {
+      "name": "25"
+    },
+    "kimetsu-no-yaiba|24": {
+      "name": "24"
+    },
+    "kimetsu-no-yaiba|23": {
+      "name": "23"
+    },
+    "kimetsu-no-yaiba|22": {
+      "name": "22"
+    },
+    "kimetsu-no-yaiba|21": {
+      "name": "21"
+    },
+    "kimetsu-no-yaiba|20": {
+      "name": "20"
+    },
+    "kimetsu-no-yaiba|19": {
+      "name": "19"
+    },
+    "kimetsu-no-yaiba|18": {
+      "name": "18"
+    },
+    "kimetsu-no-yaiba|17": {
+      "name": "17"
+    },
+    "kimetsu-no-yaiba|16": {
+      "name": "16"
+    },
+    "kimetsu-no-yaiba|15": {
+      "name": "15"
+    },
+    "kimetsu-no-yaiba|14": {
+      "name": "14"
+    },
+    "kimetsu-no-yaiba|13": {
+      "name": "13"
+    },
+    "kimetsu-no-yaiba|12": {
+      "name": "12"
+    },
+    "kimetsu-no-yaiba|11": {
+      "name": "11"
+    },
+    "kimetsu-no-yaiba|10": {
+      "name": "10"
+    },
+    "kimetsu-no-yaiba|9": {
+      "name": "9"
+    },
+    "kimetsu-no-yaiba|8": {
+      "name": "8"
+    },
+    "kimetsu-no-yaiba|7": {
+      "name": "7"
+    },
+    "kimetsu-no-yaiba|6": {
+      "name": "6"
+    },
+    "kimetsu-no-yaiba|5": {
+      "name": "5"
+    },
+    "kimetsu-no-yaiba|4": {
+      "name": "4"
+    },
+    "kimetsu-no-yaiba|3": {
+      "name": "3"
+    },
+    "kimetsu-no-yaiba|2": {
+      "name": "2"
+    },
+    "kimetsu-no-yaiba|1": {
+      "name": "1"
+    }
+  }
 }

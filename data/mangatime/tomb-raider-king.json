@@ -1,14 +1,1143 @@
 {
   "id": "tomb-raider-king",
-  "title": "بدون عنوان",
-  "cover_url": "",
-  "description": "لا يوجد وصف",
-  "type": "مانغا",
-  "status": "مستمر",
-  "last_update": "",
-  "rating": "",
-  "favorites": "",
-  "genres": [],
+  "title": "Tomb Raider King",
+  "cover_url": "https://mangatime.org/uploads/series/6a3bc82a7ed7ae6716d52653-b6b9926d8c35f8cf.jpg",
+  "description": "مع ظهور مقابر غامضة حول العالم، تخرج إلى الوجود آثار تمنح أصحابها قدرات تتجاوز المنطق. يصبح سيو جوهيون واحدًا من أمهر المنقبين القادرين على اقتحام هذه المقابر، لكنه يُستغل من صاحب نفوذ ثم يُترك للموت بعد أن أدى المهمة التي طُلبت منه.\n\nبدل أن تنتهي قصته، يعود جوهيون خمسة عشر عامًا إلى الماضي، قبل أن يعرف العالم قيمة الآثار وقبل أن تبدأ الخيانات التي دمرت حياته. وبفضل خبرته وذكرياته، يتحرك مبكرًا للاستيلاء على أقوى الكنوز وتكوين فريقه الخاص ومواجهة أولئك الذين صنعوا قوتهم على حسابه.\n\nتقدم مانهوا «ملك نهب القبور» مغامرة فانتازية سريعة تجمع الكنوز الأسطورية والعودة بالزمن والانتقام، وتتابع صعود جوهيون من أداة في يد الآخرين إلى منافس يطمح لفرض سيطرته على سوق الآثار والمقابر في العالم كله.",
+  "type": "مانهوا",
+  "status": "مكتمل",
+  "last_update": "2026-09-22",
+  "rating": "9.1",
+  "favorites": "94",
+  "genres": [
+    "أكشن",
+    "مغامرة",
+    "فانتازيا",
+    "كوميديا",
+    "سفر عبر الزمن",
+    "وحوش",
+    "سحر",
+    "خارق للطبيعة"
+  ],
   "is_novel": false,
-  "chapters": {}
+  "chapters": {
+    "tomb-raider-king|373": {
+      "name": "373"
+    },
+    "tomb-raider-king|372": {
+      "name": "372"
+    },
+    "tomb-raider-king|371": {
+      "name": "371"
+    },
+    "tomb-raider-king|370": {
+      "name": "370"
+    },
+    "tomb-raider-king|369": {
+      "name": "369"
+    },
+    "tomb-raider-king|368": {
+      "name": "368"
+    },
+    "tomb-raider-king|367": {
+      "name": "367"
+    },
+    "tomb-raider-king|366": {
+      "name": "366"
+    },
+    "tomb-raider-king|365": {
+      "name": "365"
+    },
+    "tomb-raider-king|364": {
+      "name": "364"
+    },
+    "tomb-raider-king|363": {
+      "name": "363"
+    },
+    "tomb-raider-king|362": {
+      "name": "362"
+    },
+    "tomb-raider-king|361": {
+      "name": "361"
+    },
+    "tomb-raider-king|360": {
+      "name": "360"
+    },
+    "tomb-raider-king|359": {
+      "name": "359"
+    },
+    "tomb-raider-king|358": {
+      "name": "358"
+    },
+    "tomb-raider-king|357": {
+      "name": "357"
+    },
+    "tomb-raider-king|356": {
+      "name": "356"
+    },
+    "tomb-raider-king|355": {
+      "name": "355"
+    },
+    "tomb-raider-king|354": {
+      "name": "354"
+    },
+    "tomb-raider-king|353": {
+      "name": "353"
+    },
+    "tomb-raider-king|352": {
+      "name": "352"
+    },
+    "tomb-raider-king|351": {
+      "name": "351"
+    },
+    "tomb-raider-king|350": {
+      "name": "350"
+    },
+    "tomb-raider-king|349": {
+      "name": "349"
+    },
+    "tomb-raider-king|348": {
+      "name": "348"
+    },
+    "tomb-raider-king|347": {
+      "name": "347"
+    },
+    "tomb-raider-king|346": {
+      "name": "346"
+    },
+    "tomb-raider-king|345": {
+      "name": "345"
+    },
+    "tomb-raider-king|344": {
+      "name": "344"
+    },
+    "tomb-raider-king|343": {
+      "name": "343"
+    },
+    "tomb-raider-king|342": {
+      "name": "342"
+    },
+    "tomb-raider-king|341": {
+      "name": "341"
+    },
+    "tomb-raider-king|340": {
+      "name": "340"
+    },
+    "tomb-raider-king|339": {
+      "name": "339"
+    },
+    "tomb-raider-king|338": {
+      "name": "338"
+    },
+    "tomb-raider-king|337": {
+      "name": "337"
+    },
+    "tomb-raider-king|336": {
+      "name": "336"
+    },
+    "tomb-raider-king|335": {
+      "name": "335"
+    },
+    "tomb-raider-king|334": {
+      "name": "334"
+    },
+    "tomb-raider-king|333": {
+      "name": "333"
+    },
+    "tomb-raider-king|332": {
+      "name": "332"
+    },
+    "tomb-raider-king|331": {
+      "name": "331"
+    },
+    "tomb-raider-king|330": {
+      "name": "330"
+    },
+    "tomb-raider-king|329": {
+      "name": "329"
+    },
+    "tomb-raider-king|328": {
+      "name": "328"
+    },
+    "tomb-raider-king|327": {
+      "name": "327"
+    },
+    "tomb-raider-king|326": {
+      "name": "326"
+    },
+    "tomb-raider-king|325": {
+      "name": "325"
+    },
+    "tomb-raider-king|324": {
+      "name": "324"
+    },
+    "tomb-raider-king|323": {
+      "name": "323"
+    },
+    "tomb-raider-king|322": {
+      "name": "322"
+    },
+    "tomb-raider-king|321": {
+      "name": "321"
+    },
+    "tomb-raider-king|320": {
+      "name": "320"
+    },
+    "tomb-raider-king|319": {
+      "name": "319"
+    },
+    "tomb-raider-king|318": {
+      "name": "318"
+    },
+    "tomb-raider-king|317": {
+      "name": "317"
+    },
+    "tomb-raider-king|316": {
+      "name": "316"
+    },
+    "tomb-raider-king|315": {
+      "name": "315"
+    },
+    "tomb-raider-king|314": {
+      "name": "314"
+    },
+    "tomb-raider-king|313": {
+      "name": "313"
+    },
+    "tomb-raider-king|312": {
+      "name": "312"
+    },
+    "tomb-raider-king|311": {
+      "name": "311"
+    },
+    "tomb-raider-king|310": {
+      "name": "310"
+    },
+    "tomb-raider-king|309": {
+      "name": "309"
+    },
+    "tomb-raider-king|308": {
+      "name": "308"
+    },
+    "tomb-raider-king|307": {
+      "name": "307"
+    },
+    "tomb-raider-king|306": {
+      "name": "306"
+    },
+    "tomb-raider-king|305": {
+      "name": "305"
+    },
+    "tomb-raider-king|304": {
+      "name": "304"
+    },
+    "tomb-raider-king|303": {
+      "name": "303"
+    },
+    "tomb-raider-king|302": {
+      "name": "302"
+    },
+    "tomb-raider-king|301": {
+      "name": "301"
+    },
+    "tomb-raider-king|300": {
+      "name": "300"
+    },
+    "tomb-raider-king|299": {
+      "name": "299"
+    },
+    "tomb-raider-king|298": {
+      "name": "298"
+    },
+    "tomb-raider-king|297": {
+      "name": "297"
+    },
+    "tomb-raider-king|296": {
+      "name": "296"
+    },
+    "tomb-raider-king|295": {
+      "name": "295"
+    },
+    "tomb-raider-king|294": {
+      "name": "294"
+    },
+    "tomb-raider-king|293": {
+      "name": "293"
+    },
+    "tomb-raider-king|292": {
+      "name": "292"
+    },
+    "tomb-raider-king|291": {
+      "name": "291"
+    },
+    "tomb-raider-king|290": {
+      "name": "290"
+    },
+    "tomb-raider-king|289": {
+      "name": "289"
+    },
+    "tomb-raider-king|288": {
+      "name": "288"
+    },
+    "tomb-raider-king|287": {
+      "name": "287"
+    },
+    "tomb-raider-king|286": {
+      "name": "286"
+    },
+    "tomb-raider-king|285": {
+      "name": "285"
+    },
+    "tomb-raider-king|284": {
+      "name": "284"
+    },
+    "tomb-raider-king|283": {
+      "name": "283"
+    },
+    "tomb-raider-king|282": {
+      "name": "282"
+    },
+    "tomb-raider-king|281": {
+      "name": "281"
+    },
+    "tomb-raider-king|280": {
+      "name": "280"
+    },
+    "tomb-raider-king|279": {
+      "name": "279"
+    },
+    "tomb-raider-king|278": {
+      "name": "278"
+    },
+    "tomb-raider-king|277": {
+      "name": "277"
+    },
+    "tomb-raider-king|276": {
+      "name": "276"
+    },
+    "tomb-raider-king|275": {
+      "name": "275"
+    },
+    "tomb-raider-king|274": {
+      "name": "274"
+    },
+    "tomb-raider-king|273": {
+      "name": "273"
+    },
+    "tomb-raider-king|272": {
+      "name": "272"
+    },
+    "tomb-raider-king|271": {
+      "name": "271"
+    },
+    "tomb-raider-king|270": {
+      "name": "270"
+    },
+    "tomb-raider-king|269": {
+      "name": "269"
+    },
+    "tomb-raider-king|268": {
+      "name": "268"
+    },
+    "tomb-raider-king|267": {
+      "name": "267"
+    },
+    "tomb-raider-king|266": {
+      "name": "266"
+    },
+    "tomb-raider-king|265": {
+      "name": "265"
+    },
+    "tomb-raider-king|264": {
+      "name": "264"
+    },
+    "tomb-raider-king|263": {
+      "name": "263"
+    },
+    "tomb-raider-king|262": {
+      "name": "262"
+    },
+    "tomb-raider-king|261": {
+      "name": "261"
+    },
+    "tomb-raider-king|260": {
+      "name": "260"
+    },
+    "tomb-raider-king|259": {
+      "name": "259"
+    },
+    "tomb-raider-king|258": {
+      "name": "258"
+    },
+    "tomb-raider-king|257": {
+      "name": "257"
+    },
+    "tomb-raider-king|256": {
+      "name": "256"
+    },
+    "tomb-raider-king|255": {
+      "name": "255"
+    },
+    "tomb-raider-king|254": {
+      "name": "254"
+    },
+    "tomb-raider-king|253": {
+      "name": "253"
+    },
+    "tomb-raider-king|252": {
+      "name": "252"
+    },
+    "tomb-raider-king|251": {
+      "name": "251"
+    },
+    "tomb-raider-king|250": {
+      "name": "250"
+    },
+    "tomb-raider-king|249": {
+      "name": "249"
+    },
+    "tomb-raider-king|248": {
+      "name": "248"
+    },
+    "tomb-raider-king|247": {
+      "name": "247"
+    },
+    "tomb-raider-king|246": {
+      "name": "246"
+    },
+    "tomb-raider-king|245": {
+      "name": "245"
+    },
+    "tomb-raider-king|244": {
+      "name": "244"
+    },
+    "tomb-raider-king|243": {
+      "name": "243"
+    },
+    "tomb-raider-king|242": {
+      "name": "242"
+    },
+    "tomb-raider-king|241": {
+      "name": "241"
+    },
+    "tomb-raider-king|240": {
+      "name": "240"
+    },
+    "tomb-raider-king|239": {
+      "name": "239"
+    },
+    "tomb-raider-king|238": {
+      "name": "238"
+    },
+    "tomb-raider-king|237": {
+      "name": "237"
+    },
+    "tomb-raider-king|236": {
+      "name": "236"
+    },
+    "tomb-raider-king|235": {
+      "name": "235"
+    },
+    "tomb-raider-king|234": {
+      "name": "234"
+    },
+    "tomb-raider-king|233": {
+      "name": "233"
+    },
+    "tomb-raider-king|232": {
+      "name": "232"
+    },
+    "tomb-raider-king|231": {
+      "name": "231"
+    },
+    "tomb-raider-king|230": {
+      "name": "230"
+    },
+    "tomb-raider-king|229": {
+      "name": "229"
+    },
+    "tomb-raider-king|228": {
+      "name": "228"
+    },
+    "tomb-raider-king|227": {
+      "name": "227"
+    },
+    "tomb-raider-king|226": {
+      "name": "226"
+    },
+    "tomb-raider-king|225": {
+      "name": "225"
+    },
+    "tomb-raider-king|224": {
+      "name": "224"
+    },
+    "tomb-raider-king|223": {
+      "name": "223"
+    },
+    "tomb-raider-king|222": {
+      "name": "222"
+    },
+    "tomb-raider-king|221": {
+      "name": "221"
+    },
+    "tomb-raider-king|220": {
+      "name": "220"
+    },
+    "tomb-raider-king|219": {
+      "name": "219"
+    },
+    "tomb-raider-king|218": {
+      "name": "218"
+    },
+    "tomb-raider-king|217": {
+      "name": "217"
+    },
+    "tomb-raider-king|216": {
+      "name": "216"
+    },
+    "tomb-raider-king|215": {
+      "name": "215"
+    },
+    "tomb-raider-king|214": {
+      "name": "214"
+    },
+    "tomb-raider-king|213": {
+      "name": "213"
+    },
+    "tomb-raider-king|212": {
+      "name": "212"
+    },
+    "tomb-raider-king|211": {
+      "name": "211"
+    },
+    "tomb-raider-king|210": {
+      "name": "210"
+    },
+    "tomb-raider-king|209": {
+      "name": "209"
+    },
+    "tomb-raider-king|208": {
+      "name": "208"
+    },
+    "tomb-raider-king|207": {
+      "name": "207"
+    },
+    "tomb-raider-king|206": {
+      "name": "206"
+    },
+    "tomb-raider-king|205": {
+      "name": "205"
+    },
+    "tomb-raider-king|204": {
+      "name": "204"
+    },
+    "tomb-raider-king|203": {
+      "name": "203"
+    },
+    "tomb-raider-king|202": {
+      "name": "202"
+    },
+    "tomb-raider-king|201": {
+      "name": "201"
+    },
+    "tomb-raider-king|200": {
+      "name": "200"
+    },
+    "tomb-raider-king|199": {
+      "name": "199"
+    },
+    "tomb-raider-king|198": {
+      "name": "198"
+    },
+    "tomb-raider-king|197": {
+      "name": "197"
+    },
+    "tomb-raider-king|196": {
+      "name": "196"
+    },
+    "tomb-raider-king|195": {
+      "name": "195"
+    },
+    "tomb-raider-king|194": {
+      "name": "194"
+    },
+    "tomb-raider-king|193": {
+      "name": "193"
+    },
+    "tomb-raider-king|192": {
+      "name": "192"
+    },
+    "tomb-raider-king|191": {
+      "name": "191"
+    },
+    "tomb-raider-king|190": {
+      "name": "190"
+    },
+    "tomb-raider-king|189": {
+      "name": "189"
+    },
+    "tomb-raider-king|188": {
+      "name": "188"
+    },
+    "tomb-raider-king|187": {
+      "name": "187"
+    },
+    "tomb-raider-king|186": {
+      "name": "186"
+    },
+    "tomb-raider-king|185": {
+      "name": "185"
+    },
+    "tomb-raider-king|184": {
+      "name": "184"
+    },
+    "tomb-raider-king|183": {
+      "name": "183"
+    },
+    "tomb-raider-king|182": {
+      "name": "182"
+    },
+    "tomb-raider-king|181": {
+      "name": "181"
+    },
+    "tomb-raider-king|180": {
+      "name": "180"
+    },
+    "tomb-raider-king|179": {
+      "name": "179"
+    },
+    "tomb-raider-king|178": {
+      "name": "178"
+    },
+    "tomb-raider-king|177": {
+      "name": "177"
+    },
+    "tomb-raider-king|176": {
+      "name": "176"
+    },
+    "tomb-raider-king|175": {
+      "name": "175"
+    },
+    "tomb-raider-king|174": {
+      "name": "174"
+    },
+    "tomb-raider-king|173": {
+      "name": "173"
+    },
+    "tomb-raider-king|172": {
+      "name": "172"
+    },
+    "tomb-raider-king|171": {
+      "name": "171"
+    },
+    "tomb-raider-king|170": {
+      "name": "170"
+    },
+    "tomb-raider-king|169": {
+      "name": "169"
+    },
+    "tomb-raider-king|168": {
+      "name": "168"
+    },
+    "tomb-raider-king|167": {
+      "name": "167"
+    },
+    "tomb-raider-king|166": {
+      "name": "166"
+    },
+    "tomb-raider-king|165": {
+      "name": "165"
+    },
+    "tomb-raider-king|164": {
+      "name": "164"
+    },
+    "tomb-raider-king|163": {
+      "name": "163"
+    },
+    "tomb-raider-king|162": {
+      "name": "162"
+    },
+    "tomb-raider-king|161": {
+      "name": "161"
+    },
+    "tomb-raider-king|160": {
+      "name": "160"
+    },
+    "tomb-raider-king|159": {
+      "name": "159"
+    },
+    "tomb-raider-king|158": {
+      "name": "158"
+    },
+    "tomb-raider-king|157": {
+      "name": "157"
+    },
+    "tomb-raider-king|156": {
+      "name": "156"
+    },
+    "tomb-raider-king|155": {
+      "name": "155"
+    },
+    "tomb-raider-king|154": {
+      "name": "154"
+    },
+    "tomb-raider-king|153": {
+      "name": "153"
+    },
+    "tomb-raider-king|152": {
+      "name": "152"
+    },
+    "tomb-raider-king|151": {
+      "name": "151"
+    },
+    "tomb-raider-king|150": {
+      "name": "150"
+    },
+    "tomb-raider-king|149": {
+      "name": "149"
+    },
+    "tomb-raider-king|148": {
+      "name": "148"
+    },
+    "tomb-raider-king|147": {
+      "name": "147"
+    },
+    "tomb-raider-king|146": {
+      "name": "146"
+    },
+    "tomb-raider-king|145": {
+      "name": "145"
+    },
+    "tomb-raider-king|144": {
+      "name": "144"
+    },
+    "tomb-raider-king|143": {
+      "name": "143"
+    },
+    "tomb-raider-king|142": {
+      "name": "142"
+    },
+    "tomb-raider-king|141": {
+      "name": "141"
+    },
+    "tomb-raider-king|140": {
+      "name": "140"
+    },
+    "tomb-raider-king|139": {
+      "name": "139"
+    },
+    "tomb-raider-king|138": {
+      "name": "138"
+    },
+    "tomb-raider-king|137": {
+      "name": "137"
+    },
+    "tomb-raider-king|136": {
+      "name": "136"
+    },
+    "tomb-raider-king|135": {
+      "name": "135"
+    },
+    "tomb-raider-king|134": {
+      "name": "134"
+    },
+    "tomb-raider-king|133": {
+      "name": "133"
+    },
+    "tomb-raider-king|132": {
+      "name": "132"
+    },
+    "tomb-raider-king|131": {
+      "name": "131"
+    },
+    "tomb-raider-king|130": {
+      "name": "130"
+    },
+    "tomb-raider-king|129": {
+      "name": "129"
+    },
+    "tomb-raider-king|128": {
+      "name": "128"
+    },
+    "tomb-raider-king|127": {
+      "name": "127"
+    },
+    "tomb-raider-king|126": {
+      "name": "126"
+    },
+    "tomb-raider-king|125": {
+      "name": "125"
+    },
+    "tomb-raider-king|124": {
+      "name": "124"
+    },
+    "tomb-raider-king|123": {
+      "name": "123"
+    },
+    "tomb-raider-king|122": {
+      "name": "122"
+    },
+    "tomb-raider-king|121": {
+      "name": "121"
+    },
+    "tomb-raider-king|120": {
+      "name": "120"
+    },
+    "tomb-raider-king|119": {
+      "name": "119"
+    },
+    "tomb-raider-king|118": {
+      "name": "118"
+    },
+    "tomb-raider-king|117": {
+      "name": "117"
+    },
+    "tomb-raider-king|116": {
+      "name": "116"
+    },
+    "tomb-raider-king|115": {
+      "name": "115"
+    },
+    "tomb-raider-king|114": {
+      "name": "114"
+    },
+    "tomb-raider-king|113": {
+      "name": "113"
+    },
+    "tomb-raider-king|112": {
+      "name": "112"
+    },
+    "tomb-raider-king|111": {
+      "name": "111"
+    },
+    "tomb-raider-king|110": {
+      "name": "110"
+    },
+    "tomb-raider-king|109": {
+      "name": "109"
+    },
+    "tomb-raider-king|108": {
+      "name": "108"
+    },
+    "tomb-raider-king|107": {
+      "name": "107"
+    },
+    "tomb-raider-king|106": {
+      "name": "106"
+    },
+    "tomb-raider-king|105": {
+      "name": "105"
+    },
+    "tomb-raider-king|104": {
+      "name": "104"
+    },
+    "tomb-raider-king|103": {
+      "name": "103"
+    },
+    "tomb-raider-king|102": {
+      "name": "102"
+    },
+    "tomb-raider-king|101": {
+      "name": "101"
+    },
+    "tomb-raider-king|100": {
+      "name": "100"
+    },
+    "tomb-raider-king|99": {
+      "name": "99"
+    },
+    "tomb-raider-king|98": {
+      "name": "98"
+    },
+    "tomb-raider-king|97": {
+      "name": "97"
+    },
+    "tomb-raider-king|96": {
+      "name": "96"
+    },
+    "tomb-raider-king|95": {
+      "name": "95"
+    },
+    "tomb-raider-king|94": {
+      "name": "94"
+    },
+    "tomb-raider-king|93": {
+      "name": "93"
+    },
+    "tomb-raider-king|92": {
+      "name": "92"
+    },
+    "tomb-raider-king|91": {
+      "name": "91"
+    },
+    "tomb-raider-king|90": {
+      "name": "90"
+    },
+    "tomb-raider-king|89": {
+      "name": "89"
+    },
+    "tomb-raider-king|88": {
+      "name": "88"
+    },
+    "tomb-raider-king|87": {
+      "name": "87"
+    },
+    "tomb-raider-king|86": {
+      "name": "86"
+    },
+    "tomb-raider-king|85": {
+      "name": "85"
+    },
+    "tomb-raider-king|84": {
+      "name": "84"
+    },
+    "tomb-raider-king|83": {
+      "name": "83"
+    },
+    "tomb-raider-king|82": {
+      "name": "82"
+    },
+    "tomb-raider-king|81": {
+      "name": "81"
+    },
+    "tomb-raider-king|80": {
+      "name": "80"
+    },
+    "tomb-raider-king|79": {
+      "name": "79"
+    },
+    "tomb-raider-king|78": {
+      "name": "78"
+    },
+    "tomb-raider-king|77": {
+      "name": "77"
+    },
+    "tomb-raider-king|76": {
+      "name": "76"
+    },
+    "tomb-raider-king|75": {
+      "name": "75"
+    },
+    "tomb-raider-king|74": {
+      "name": "74"
+    },
+    "tomb-raider-king|73": {
+      "name": "73"
+    },
+    "tomb-raider-king|72": {
+      "name": "72"
+    },
+    "tomb-raider-king|71": {
+      "name": "71"
+    },
+    "tomb-raider-king|70": {
+      "name": "70"
+    },
+    "tomb-raider-king|69": {
+      "name": "69"
+    },
+    "tomb-raider-king|68": {
+      "name": "68"
+    },
+    "tomb-raider-king|67": {
+      "name": "67"
+    },
+    "tomb-raider-king|66": {
+      "name": "66"
+    },
+    "tomb-raider-king|65": {
+      "name": "65"
+    },
+    "tomb-raider-king|64": {
+      "name": "64"
+    },
+    "tomb-raider-king|63": {
+      "name": "63"
+    },
+    "tomb-raider-king|62": {
+      "name": "62"
+    },
+    "tomb-raider-king|61": {
+      "name": "61"
+    },
+    "tomb-raider-king|60": {
+      "name": "60"
+    },
+    "tomb-raider-king|59": {
+      "name": "59"
+    },
+    "tomb-raider-king|58": {
+      "name": "58"
+    },
+    "tomb-raider-king|57": {
+      "name": "57"
+    },
+    "tomb-raider-king|56": {
+      "name": "56"
+    },
+    "tomb-raider-king|55": {
+      "name": "55"
+    },
+    "tomb-raider-king|54": {
+      "name": "54"
+    },
+    "tomb-raider-king|53": {
+      "name": "53"
+    },
+    "tomb-raider-king|52": {
+      "name": "52"
+    },
+    "tomb-raider-king|51": {
+      "name": "51"
+    },
+    "tomb-raider-king|50": {
+      "name": "50"
+    },
+    "tomb-raider-king|49": {
+      "name": "49"
+    },
+    "tomb-raider-king|48": {
+      "name": "48"
+    },
+    "tomb-raider-king|47": {
+      "name": "47"
+    },
+    "tomb-raider-king|46": {
+      "name": "46"
+    },
+    "tomb-raider-king|45": {
+      "name": "45"
+    },
+    "tomb-raider-king|44": {
+      "name": "44"
+    },
+    "tomb-raider-king|43": {
+      "name": "43"
+    },
+    "tomb-raider-king|42": {
+      "name": "42"
+    },
+    "tomb-raider-king|41": {
+      "name": "41"
+    },
+    "tomb-raider-king|40": {
+      "name": "40"
+    },
+    "tomb-raider-king|39": {
+      "name": "39"
+    },
+    "tomb-raider-king|38": {
+      "name": "38"
+    },
+    "tomb-raider-king|37": {
+      "name": "37"
+    },
+    "tomb-raider-king|36": {
+      "name": "36"
+    },
+    "tomb-raider-king|35": {
+      "name": "35"
+    },
+    "tomb-raider-king|34": {
+      "name": "34"
+    },
+    "tomb-raider-king|33": {
+      "name": "33"
+    },
+    "tomb-raider-king|32": {
+      "name": "32"
+    },
+    "tomb-raider-king|31": {
+      "name": "31"
+    },
+    "tomb-raider-king|30": {
+      "name": "30"
+    },
+    "tomb-raider-king|29": {
+      "name": "29"
+    },
+    "tomb-raider-king|28": {
+      "name": "28"
+    },
+    "tomb-raider-king|27": {
+      "name": "27"
+    },
+    "tomb-raider-king|26": {
+      "name": "26"
+    },
+    "tomb-raider-king|25": {
+      "name": "25"
+    },
+    "tomb-raider-king|24": {
+      "name": "24"
+    },
+    "tomb-raider-king|23": {
+      "name": "23"
+    },
+    "tomb-raider-king|22": {
+      "name": "22"
+    },
+    "tomb-raider-king|21": {
+      "name": "21"
+    },
+    "tomb-raider-king|20": {
+      "name": "20"
+    },
+    "tomb-raider-king|19": {
+      "name": "19"
+    },
+    "tomb-raider-king|18": {
+      "name": "18"
+    },
+    "tomb-raider-king|17": {
+      "name": "17"
+    },
+    "tomb-raider-king|16": {
+      "name": "16"
+    },
+    "tomb-raider-king|15": {
+      "name": "15"
+    },
+    "tomb-raider-king|14": {
+      "name": "14"
+    },
+    "tomb-raider-king|13": {
+      "name": "13"
+    },
+    "tomb-raider-king|12": {
+      "name": "12"
+    },
+    "tomb-raider-king|11": {
+      "name": "11"
+    },
+    "tomb-raider-king|10": {
+      "name": "10"
+    },
+    "tomb-raider-king|9": {
+      "name": "9"
+    },
+    "tomb-raider-king|8": {
+      "name": "8"
+    },
+    "tomb-raider-king|7": {
+      "name": "7"
+    },
+    "tomb-raider-king|6": {
+      "name": "6"
+    },
+    "tomb-raider-king|5": {
+      "name": "5"
+    },
+    "tomb-raider-king|4": {
+      "name": "4"
+    },
+    "tomb-raider-king|3": {
+      "name": "3"
+    },
+    "tomb-raider-king|2": {
+      "name": "2"
+    },
+    "tomb-raider-king|1": {
+      "name": "1"
+    }
+  }
 }

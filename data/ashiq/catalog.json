@@ -744,20 +744,20 @@
     "rating": "4.2"
   },
   {
-    "id": "k-y-m",
-    "title": "Kekkon Yubiwa Monogatari",
-    "url": "https://3asq.online/manga/k-y-m",
-    "cover_url": "https://3asq.online/wp-content/uploads/2020/03/1-175x238.jpg",
-    "type": "18+",
-    "rating": "4.3"
-  },
-  {
     "id": "giant-killing",
     "title": "Giant Killing",
     "url": "https://3asq.online/manga/giant-killing",
     "cover_url": "https://3asq.online/wp-content/uploads/2022/08/000-175x238.png",
     "type": "BLACKHAT TEAM",
     "rating": "4.4"
+  },
+  {
+    "id": "k-y-m",
+    "title": "Kekkon Yubiwa Monogatari",
+    "url": "https://3asq.online/manga/k-y-m",
+    "cover_url": "https://3asq.online/wp-content/uploads/2020/03/1-175x238.jpg",
+    "type": "18+",
+    "rating": "4.3"
   },
   {
     "id": "bakemonogatari",
@@ -2112,20 +2112,20 @@
     "rating": "3.6"
   },
   {
-    "id": "bungo-stray-dogs",
-    "title": "Bungo Stray Dogs",
-    "url": "https://3asq.online/manga/bungo-stray-dogs",
-    "cover_url": "https://3asq.online/wp-content/uploads/2025/05/57-175x238.jpeg",
-    "type": "ReDEJA",
-    "rating": "4.6"
-  },
-  {
     "id": "sangeki",
     "title": "Sangeki",
     "url": "https://3asq.online/manga/sangeki",
     "cover_url": "https://3asq.online/wp-content/uploads/2026/04/غلاف-مانجا-مسرحية-الجبل-175x238.png",
     "type": "مانغا",
     "rating": "3.9"
+  },
+  {
+    "id": "bungo-stray-dogs",
+    "title": "Bungo Stray Dogs",
+    "url": "https://3asq.online/manga/bungo-stray-dogs",
+    "cover_url": "https://3asq.online/wp-content/uploads/2025/05/57-175x238.jpeg",
+    "type": "ReDEJA",
+    "rating": "4.6"
   },
   {
     "id": "gokko",
@@ -3152,20 +3152,20 @@
     "rating": ""
   },
   {
-    "id": "jjkmojuro",
-    "title": "جوجوتسو كايسن موجورو",
-    "url": "https://3asq.online/manga/jjkmojuro",
-    "cover_url": "",
-    "type": "مانغا",
-    "rating": ""
-  },
-  {
     "id": "noisering",
     "title": "Noisering",
     "url": "https://3asq.online/manga/noisering",
     "cover_url": "https://3asq.online/wp-content/uploads/2026/09/noisering-175x238.jpg",
     "type": "ASSASSIN SCANS",
     "rating": "5.0"
+  },
+  {
+    "id": "jjkmojuro",
+    "title": "جوجوتسو كايسن موجورو",
+    "url": "https://3asq.online/manga/jjkmojuro",
+    "cover_url": "",
+    "type": "مانغا",
+    "rating": ""
   },
   {
     "id": "hibi-wa-sugiredo-meshi-umashi",
