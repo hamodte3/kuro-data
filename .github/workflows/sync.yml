@@ -20,7 +20,6 @@ on:
           - despair
           - kolnovel
           - mangatime
-          - teamx
 
 jobs:
   update-manga:
@@ -66,12 +65,6 @@ jobs:
         if: ${{ github.event.inputs.target_source == 'all' || github.event.inputs.target_source == 'mangatime' || github.event_name == 'schedule' }}
         continue-on-error: true
         run: python sync_mangatime.py
-
-      # 🧪 المصدر التجريبي الجديد: Team X
-      - name: Sync TeamX
-        if: ${{ github.event.inputs.target_source == 'all' || github.event.inputs.target_source == 'teamx' || github.event_name == 'schedule' }}
-        continue-on-error: true
-        run: python sync_teamx.py
 
       # 🎯 حفظ التعديلات ودفعها بأمان
       - name: Commit and Push Changes
