@@ -2104,20 +2104,20 @@
     "rating": "4.5"
   },
   {
-    "id": "blue-phobia",
-    "title": "Blue Phobia",
-    "url": "https://3asq.online/manga/blue-phobia",
-    "cover_url": "https://3asq.online/wp-content/uploads/2019/04/196946l-175x238.jpg",
-    "type": "مانغا",
-    "rating": "3.6"
-  },
-  {
     "id": "sangeki",
     "title": "Sangeki",
     "url": "https://3asq.online/manga/sangeki",
     "cover_url": "https://3asq.online/wp-content/uploads/2026/04/غلاف-مانجا-مسرحية-الجبل-175x238.png",
     "type": "مانغا",
     "rating": "3.9"
+  },
+  {
+    "id": "blue-phobia",
+    "title": "Blue Phobia",
+    "url": "https://3asq.online/manga/blue-phobia",
+    "cover_url": "https://3asq.online/wp-content/uploads/2019/04/196946l-175x238.jpg",
+    "type": "مانغا",
+    "rating": "3.6"
   },
   {
     "id": "bungo-stray-dogs",
@@ -3072,20 +3072,20 @@
     "rating": "3.5"
   },
   {
-    "id": "gizmo-riser",
-    "title": "Gizmo Riser",
-    "url": "https://3asq.online/manga/gizmo-riser",
-    "cover_url": "https://3asq.online/wp-content/uploads/2026/08/Gizmo-cover-175x238.jpg",
-    "type": "The Fools",
-    "rating": "4.6"
-  },
-  {
     "id": "prism-rondo",
     "title": "Love Through a Prism",
     "url": "https://3asq.online/manga/prism-rondo",
     "cover_url": "https://3asq.online/wp-content/uploads/2026/07/prism-cover-2-new-175x238.jpg",
     "type": "The Fools",
     "rating": "4.7"
+  },
+  {
+    "id": "gizmo-riser",
+    "title": "Gizmo Riser",
+    "url": "https://3asq.online/manga/gizmo-riser",
+    "cover_url": "https://3asq.online/wp-content/uploads/2026/08/Gizmo-cover-175x238.jpg",
+    "type": "The Fools",
+    "rating": "4.6"
   },
   {
     "id": "ikoku-nikki",
@@ -3144,20 +3144,20 @@
     "rating": "2.3"
   },
   {
-    "id": "nazo-no-kanojo-x",
-    "title": "Nazo no Kanojo X",
-    "url": "https://3asq.online/manga/nazo-no-kanojo-x",
-    "cover_url": "https://3asq.online/wp-content/uploads/2025/08/1111_20250822010434-175x238.png",
-    "type": "18+",
-    "rating": ""
-  },
-  {
     "id": "noisering",
     "title": "Noisering",
     "url": "https://3asq.online/manga/noisering",
     "cover_url": "https://3asq.online/wp-content/uploads/2026/09/noisering-175x238.jpg",
     "type": "ASSASSIN SCANS",
     "rating": "5.0"
+  },
+  {
+    "id": "nazo-no-kanojo-x",
+    "title": "Nazo no Kanojo X",
+    "url": "https://3asq.online/manga/nazo-no-kanojo-x",
+    "cover_url": "https://3asq.online/wp-content/uploads/2025/08/1111_20250822010434-175x238.png",
+    "type": "18+",
+    "rating": ""
   },
   {
     "id": "jjkmojuro",
