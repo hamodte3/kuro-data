@@ -106,7 +106,7 @@
     "cover_url": "https://mangatime.org/uploads/cover/697df75c0c5d340ac1541f88/2026/02/sziqqpl2.webp",
     "type": "مانهوا",
     "status": "مكتمل",
-    "rating": "9.0",
+    "rating": "9.1",
     "total_chapters": 202
   },
   {
@@ -326,19 +326,19 @@
     "rating": "6.0"
   },
   {
-    "id": "my-pirate-prince",
-    "title": "أميري القرصان",
-    "url": "https://mangatime.org/manga/my-pirate-prince",
-    "cover_url": "https://mangatime.org/uploads/series/69bef8e6bf5fdeab9af8fb09.webp",
+    "id": "i-became-the-rogue-first-prince",
+    "title": "أصبحت الأمير الأول المارق",
+    "url": "https://mangatime.org/manga/i-became-the-rogue-first-prince",
+    "cover_url": "https://mangatime.org/uploads/series/69c7469e0472419cc8a90afa.webp",
     "type": "مانهوا",
     "status": "مستمر",
     "rating": "10.0"
   },
   {
-    "id": "i-became-the-rogue-first-prince",
-    "title": "أصبحت الأمير الأول المارق",
-    "url": "https://mangatime.org/manga/i-became-the-rogue-first-prince",
-    "cover_url": "https://mangatime.org/uploads/series/69c7469e0472419cc8a90afa.webp",
+    "id": "my-pirate-prince",
+    "title": "أميري القرصان",
+    "url": "https://mangatime.org/manga/my-pirate-prince",
+    "cover_url": "https://mangatime.org/uploads/series/69bef8e6bf5fdeab9af8fb09.webp",
     "type": "مانهوا",
     "status": "مستمر",
     "rating": "10.0"
@@ -380,19 +380,19 @@
     "rating": "8.0"
   },
   {
-    "id": "regressor-of-the-fallen-family",
-    "title": "Regressor of the Fallen family",
-    "url": "https://mangatime.org/manga/regressor-of-the-fallen-family",
-    "cover_url": "https://mangatime.org/uploads/series/6a379ab6cc417cd3a14d6a6f.png",
+    "id": "eleceed",
+    "title": "إليسيد",
+    "url": "https://mangatime.org/manga/eleceed",
+    "cover_url": "https://mangatime.org/uploads/series/6a37eadecc417cd3a14f3fee.jpg",
     "type": "مانهوا",
     "status": "مستمر",
     "rating": "10.0"
   },
   {
-    "id": "eleceed",
-    "title": "إليسيد",
-    "url": "https://mangatime.org/manga/eleceed",
-    "cover_url": "https://mangatime.org/uploads/series/6a37eadecc417cd3a14f3fee.jpg",
+    "id": "regressor-of-the-fallen-family",
+    "title": "Regressor of the Fallen family",
+    "url": "https://mangatime.org/manga/regressor-of-the-fallen-family",
+    "cover_url": "https://mangatime.org/uploads/series/6a379ab6cc417cd3a14d6a6f.png",
     "type": "مانهوا",
     "status": "مستمر",
     "rating": "10.0"
@@ -497,15 +497,6 @@
     "rating": "9.5"
   },
   {
-    "id": "the-return-of-the-crazy-demon",
-    "title": "The Return Of The Crazy Demon",
-    "url": "https://mangatime.org/manga/the-return-of-the-crazy-demon",
-    "cover_url": "https://mangatime.org/uploads/series/6a4571c2a21dcfce6f6a78d6.webp",
-    "type": "مانهوا",
-    "status": "مستمر",
-    "rating": "9.7"
-  },
-  {
     "id": "i-was-just-having-fun-with-the-time-limit",
     "title": "I Was Just Having Fun With the Time Limit",
     "url": "https://mangatime.org/manga/i-was-just-having-fun-with-the-time-limit",
@@ -513,6 +504,15 @@
     "type": "مانهوا",
     "status": "مستمر",
     "rating": "10.0"
+  },
+  {
+    "id": "the-return-of-the-crazy-demon",
+    "title": "The Return Of The Crazy Demon",
+    "url": "https://mangatime.org/manga/the-return-of-the-crazy-demon",
+    "cover_url": "https://mangatime.org/uploads/series/6a4571c2a21dcfce6f6a78d6.webp",
+    "type": "مانهوا",
+    "status": "مستمر",
+    "rating": "9.7"
   },
   {
     "id": "the-superhuman-era",
@@ -542,6 +542,15 @@
     "rating": "3.0"
   },
   {
+    "id": "fog-land",
+    "title": "أرض الضباب",
+    "url": "https://mangatime.org/manga/fog-land",
+    "cover_url": "https://mangatime.org/uploads/series/697df82e0c5d340ac154c696/cover.webp",
+    "type": "مانهوا",
+    "status": "مستمر",
+    "rating": "6.7"
+  },
+  {
     "id": "when-the-system-opens-after-the-age-of-100-all-gra",
     "title": "نظام المئة عام: الأحفاد يملؤون الجبال",
     "url": "https://mangatime.org/manga/when-the-system-opens-after-the-age-of-100-all-gra",
@@ -558,15 +567,6 @@
     "type": "مانهوا",
     "status": "مستمر",
     "rating": ""
-  },
-  {
-    "id": "fog-land",
-    "title": "أرض الضباب",
-    "url": "https://mangatime.org/manga/fog-land",
-    "cover_url": "https://mangatime.org/uploads/series/697df82e0c5d340ac154c696/cover.webp",
-    "type": "مانهوا",
-    "status": "مستمر",
-    "rating": "6.7"
   },
   {
     "id": "secret-family",
@@ -650,15 +650,6 @@
     "rating": "10.0"
   },
   {
-    "id": "return-of-the-apocalypse-class-death-knight",
-    "title": "عودة فارس الموت بمستوى نهاية العالم",
-    "url": "https://mangatime.org/manga/return-of-the-apocalypse-class-death-knight",
-    "cover_url": "https://mangatime.org/uploads/series/69c746880472419cc8a909b1.webp",
-    "type": "مانهوا",
-    "status": "مستمر",
-    "rating": "7.0"
-  },
-  {
     "id": "catastrophic-necromancer",
     "title": "مستحضر الأرواح الكارثي",
     "url": "https://mangatime.org/manga/catastrophic-necromancer",
@@ -668,13 +659,13 @@
     "rating": "10.0"
   },
   {
-    "id": "bad-boy",
-    "title": "باد بوي: قصة ليفاي",
-    "url": "https://mangatime.org/manga/bad-boy",
-    "cover_url": "https://mangatime.org/uploads/series/697df7640c5d340ac154421f/cover.jpg",
-    "type": "مانغا",
-    "status": "مكتمل",
-    "rating": "10.0"
+    "id": "return-of-the-apocalypse-class-death-knight",
+    "title": "عودة فارس الموت بمستوى نهاية العالم",
+    "url": "https://mangatime.org/manga/return-of-the-apocalypse-class-death-knight",
+    "cover_url": "https://mangatime.org/uploads/series/69c746880472419cc8a909b1.webp",
+    "type": "مانهوا",
+    "status": "مستمر",
+    "rating": "7.0"
   },
   {
     "id": "revenge-of-the-iron-blooded-sword-hound",
@@ -684,6 +675,15 @@
     "type": "مانهوا",
     "status": "مستمر",
     "rating": "6.8"
+  },
+  {
+    "id": "bad-boy",
+    "title": "باد بوي: قصة ليفاي",
+    "url": "https://mangatime.org/manga/bad-boy",
+    "cover_url": "https://mangatime.org/uploads/series/697df7640c5d340ac154421f/cover.jpg",
+    "type": "مانغا",
+    "status": "مكتمل",
+    "rating": "10.0"
   },
   {
     "id": "seabird-and-the-wolf",
@@ -728,7 +728,7 @@
     "cover_url": "https://mangatime.org/uploads/series/6a39a4a7cc417cd3a1585b70.gif",
     "type": "مانها",
     "status": "مستمر",
-    "rating": ""
+    "rating": "10.0"
   },
   {
     "id": "smoking-behind-the-supermarket-with-you",
@@ -767,15 +767,6 @@
     "rating": ""
   },
   {
-    "id": "surviving-the-apocalypse",
-    "title": "النجاة من نهاية العالم",
-    "url": "https://mangatime.org/manga/surviving-the-apocalypse",
-    "cover_url": "https://mangatime.org/uploads/cover/697df75c0c5d340ac1541f88/2026/02/885cjre4.webp",
-    "type": "مانهوا",
-    "status": "متوقف مؤقتاً",
-    "rating": "1.0"
-  },
-  {
     "id": "return-of-the-runebound-professor",
     "title": "عودة أستاذ الرونيات",
     "url": "https://mangatime.org/manga/return-of-the-runebound-professor",
@@ -783,6 +774,15 @@
     "type": "ويب تون",
     "status": "مستمر",
     "rating": ""
+  },
+  {
+    "id": "surviving-the-apocalypse",
+    "title": "النجاة من نهاية العالم",
+    "url": "https://mangatime.org/manga/surviving-the-apocalypse",
+    "cover_url": "https://mangatime.org/uploads/cover/697df75c0c5d340ac1541f88/2026/02/885cjre4.webp",
+    "type": "مانهوا",
+    "status": "متوقف مؤقتاً",
+    "rating": "1.0"
   },
   {
     "id": "the-mad-dog",
@@ -803,15 +803,6 @@
     "rating": ""
   },
   {
-    "id": "noah-s-tube",
-    "title": "أنبوب نوح",
-    "url": "https://mangatime.org/manga/noah-s-tube",
-    "cover_url": "https://mangatime.org/uploads/cover/697df75c0c5d340ac1541f88/2026/02/oiuw4zhi.webp",
-    "type": "مانهوا",
-    "status": "مستمر",
-    "rating": "5.0"
-  },
-  {
     "id": "survival-story-of-a-sword-king-in-a-fantasy-world",
     "title": "Survival Story of a Sword King in a Fantasy World",
     "url": "https://mangatime.org/manga/survival-story-of-a-sword-king-in-a-fantasy-world",
@@ -819,6 +810,15 @@
     "type": "مانهوا",
     "status": "مستمر",
     "rating": "10.0"
+  },
+  {
+    "id": "noah-s-tube",
+    "title": "أنبوب نوح",
+    "url": "https://mangatime.org/manga/noah-s-tube",
+    "cover_url": "https://mangatime.org/uploads/cover/697df75c0c5d340ac1541f88/2026/02/oiuw4zhi.webp",
+    "type": "مانهوا",
+    "status": "مستمر",
+    "rating": "5.0"
   },
   {
     "id": "the-genius-midfielder-s-passes-are-special",
@@ -875,28 +875,19 @@
     "rating": "10.0"
   },
   {
-    "id": "genius-prismatic-mage",
-    "title": "الساحر العبقري متعدد الأطياف",
-    "url": "https://mangatime.org/manga/genius-prismatic-mage",
-    "cover_url": "https://mangatime.org/uploads/series/697df7ee0c5d340ac1549b68/cover.webp",
-    "type": "مانهوا",
-    "status": "مستمر",
-    "rating": ""
-  },
-  {
-    "id": "a-dragonslayer-s-peerless-regression",
-    "title": "عودة قاتل التنانين التي لا تُضاهى",
-    "url": "https://mangatime.org/manga/a-dragonslayer-s-peerless-regression",
-    "cover_url": "https://mangatime.org/uploads/cover/697df75c0c5d340ac1541f88/2026/02/pe7jatb9.webp",
-    "type": "مانهوا",
-    "status": "مستمر",
-    "rating": ""
-  },
-  {
     "id": "academys-genius-swordmaster",
     "title": "سياف الأكاديمية العبقري",
     "url": "https://mangatime.org/manga/academys-genius-swordmaster",
     "cover_url": "https://mangatime.org/uploads/series/6a43d1812d2f2827ee33d481.jpg",
+    "type": "مانهوا",
+    "status": "مستمر",
+    "rating": ""
+  },
+  {
+    "id": "genius-prismatic-mage",
+    "title": "الساحر العبقري متعدد الأطياف",
+    "url": "https://mangatime.org/manga/genius-prismatic-mage",
+    "cover_url": "https://mangatime.org/uploads/series/697df7ee0c5d340ac1549b68/cover.webp",
     "type": "مانهوا",
     "status": "مستمر",
     "rating": ""
@@ -911,6 +902,15 @@
     "rating": "6.0"
   },
   {
+    "id": "a-dragonslayer-s-peerless-regression",
+    "title": "عودة قاتل التنانين التي لا تُضاهى",
+    "url": "https://mangatime.org/manga/a-dragonslayer-s-peerless-regression",
+    "cover_url": "https://mangatime.org/uploads/cover/697df75c0c5d340ac1541f88/2026/02/pe7jatb9.webp",
+    "type": "مانهوا",
+    "status": "مستمر",
+    "rating": ""
+  },
+  {
     "id": "kengan-ashua",
     "title": "كينغان أشورا",
     "url": "https://mangatime.org/manga/kengan-ashua",
@@ -920,15 +920,6 @@
     "rating": ""
   },
   {
-    "id": "the-back-alley-mage-s-return",
-    "title": "الحياة الثانية لساحر الأزقة",
-    "url": "https://mangatime.org/manga/the-back-alley-mage-s-return",
-    "cover_url": "https://mangatime.org/uploads/series/697df81a0c5d340ac154b7f3/cover.jpg",
-    "type": "مانهوا",
-    "status": "مستمر",
-    "rating": "8.0"
-  },
-  {
     "id": "the-world-after-the-fall",
     "title": "The World After The Fall",
     "url": "https://mangatime.org/manga/the-world-after-the-fall",
@@ -936,6 +927,15 @@
     "type": "مانهوا",
     "status": "مستمر",
     "rating": "10.0"
+  },
+  {
+    "id": "the-back-alley-mage-s-return",
+    "title": "الحياة الثانية لساحر الأزقة",
+    "url": "https://mangatime.org/manga/the-back-alley-mage-s-return",
+    "cover_url": "https://mangatime.org/uploads/series/697df81a0c5d340ac154b7f3/cover.jpg",
+    "type": "مانهوا",
+    "status": "مستمر",
+    "rating": "8.0"
   },
   {
     "id": "king-of-martial-arts",
@@ -1091,30 +1091,21 @@
     "rating": "10.0"
   },
   {
+    "id": "koori-no-jouheki",
+    "title": "Koori no Jouheki",
+    "url": "https://mangatime.org/manga/koori-no-jouheki",
+    "cover_url": "https://mangatime.org/uploads/series/6a6cf2fc5a737ad920302eb6.jpg",
+    "type": "مانغا",
+    "status": "مكتمل",
+    "rating": "10.0"
+  },
+  {
     "id": "return-of-the-frozen-player",
     "title": "عودة اللاعب المتجمد",
     "url": "https://mangatime.org/manga/return-of-the-frozen-player",
     "cover_url": "https://mangatime.org/uploads/series/6a3bff020c740b3108617fa6.png",
     "type": "مانهوا",
     "status": "مستمر",
-    "rating": ""
-  },
-  {
-    "id": "evolution-begins-with-a-big-tree",
-    "title": "التطور يبدأ من شجرة عملاقة",
-    "url": "https://mangatime.org/manga/evolution-begins-with-a-big-tree",
-    "cover_url": "https://mangatime.org/uploads/series/6a5985a5173c894644b98415.webp",
-    "type": "مانها",
-    "status": "مستمر",
-    "rating": ""
-  },
-  {
-    "id": "the-zenith",
-    "title": "الذروة",
-    "url": "https://mangatime.org/manga/the-zenith",
-    "cover_url": "https://mangatime.org/uploads/series/697df7df0c5d340ac1548fcb/cover.webp",
-    "type": "ويب تون",
-    "status": "مكتمل",
     "rating": ""
   },
   {
@@ -1127,22 +1118,22 @@
     "rating": "10.0"
   },
   {
-    "id": "koori-no-jouheki",
-    "title": "Koori no Jouheki",
-    "url": "https://mangatime.org/manga/koori-no-jouheki",
-    "cover_url": "https://mangatime.org/uploads/series/6a6cf2fc5a737ad920302eb6.jpg",
-    "type": "مانغا",
+    "id": "the-zenith",
+    "title": "الذروة",
+    "url": "https://mangatime.org/manga/the-zenith",
+    "cover_url": "https://mangatime.org/uploads/series/697df7df0c5d340ac1548fcb/cover.webp",
+    "type": "ويب تون",
     "status": "مكتمل",
-    "rating": "10.0"
+    "rating": ""
   },
   {
-    "id": "the-cold-blooded-warrior",
-    "title": "المحارب عديم الرحمة",
-    "url": "https://mangatime.org/manga/the-cold-blooded-warrior",
-    "cover_url": "https://mangatime.org/uploads/series/697df81e0c5d340ac154bb2a/cover.webp",
-    "type": "مانهوا",
+    "id": "evolution-begins-with-a-big-tree",
+    "title": "التطور يبدأ من شجرة عملاقة",
+    "url": "https://mangatime.org/manga/evolution-begins-with-a-big-tree",
+    "cover_url": "https://mangatime.org/uploads/series/6a5985a5173c894644b98415.webp",
+    "type": "مانها",
     "status": "مستمر",
-    "rating": "5.5"
+    "rating": ""
   },
   {
     "id": "reaper-of-the-drifting-moon",
@@ -1154,11 +1145,29 @@
     "rating": ""
   },
   {
+    "id": "the-cold-blooded-warrior",
+    "title": "المحارب عديم الرحمة",
+    "url": "https://mangatime.org/manga/the-cold-blooded-warrior",
+    "cover_url": "https://mangatime.org/uploads/series/697df81e0c5d340ac154bb2a/cover.webp",
+    "type": "مانهوا",
+    "status": "مستمر",
+    "rating": "5.5"
+  },
+  {
     "id": "strongest-abandoned-son",
     "title": "Strongest Abandoned Son",
     "url": "https://mangatime.org/manga/strongest-abandoned-son",
     "cover_url": "https://mangatime.org/uploads/series/69cdb9a10472419cc8aa72eb.webp",
     "type": "مانها",
+    "status": "مستمر",
+    "rating": "10.0"
+  },
+  {
+    "id": "murim-psychopath",
+    "title": "Murim Psychopath",
+    "url": "https://mangatime.org/manga/murim-psychopath",
+    "cover_url": "https://mangatime.org/uploads/series/69bb92d0c30314ce8f594ec0.webp",
+    "type": "مانهوا",
     "status": "مستمر",
     "rating": "10.0"
   },
@@ -1172,13 +1181,13 @@
     "rating": ""
   },
   {
-    "id": "murim-psychopath",
-    "title": "Murim Psychopath",
-    "url": "https://mangatime.org/manga/murim-psychopath",
-    "cover_url": "https://mangatime.org/uploads/series/69bb92d0c30314ce8f594ec0.webp",
+    "id": "a-returners-magic-should-be-special",
+    "title": "A Returner’s Magic Should Be Special",
+    "url": "https://mangatime.org/manga/a-returners-magic-should-be-special",
+    "cover_url": "https://mangatime.org/uploads/series/6a3632022b3aed86b0d95a4d.jpg",
     "type": "مانهوا",
     "status": "مستمر",
-    "rating": "10.0"
+    "rating": ""
   },
   {
     "id": "kimetsu-gakuenn",
@@ -1194,15 +1203,6 @@
     "title": "Colorist",
     "url": "https://mangatime.org/manga/colorist",
     "cover_url": "https://mangatime.org/uploads/series/69ff948f5026238e00d59e70.webp",
-    "type": "مانهوا",
-    "status": "مستمر",
-    "rating": ""
-  },
-  {
-    "id": "a-returners-magic-should-be-special",
-    "title": "A Returner’s Magic Should Be Special",
-    "url": "https://mangatime.org/manga/a-returners-magic-should-be-special",
-    "cover_url": "https://mangatime.org/uploads/series/6a3632022b3aed86b0d95a4d.jpg",
     "type": "مانهوا",
     "status": "مستمر",
     "rating": ""
@@ -1352,15 +1352,6 @@
     "rating": ""
   },
   {
-    "id": "the-third-prince-of-the-fallen-kingdom-has-regress",
-    "title": "عودة الأمير الثالث للمملكة المنهارة",
-    "url": "https://mangatime.org/manga/the-third-prince-of-the-fallen-kingdom-has-regress",
-    "cover_url": "https://mangatime.org/uploads/cover/697df75c0c5d340ac1541f88/2026/02/w0y0lidz.jpg",
-    "type": "مانهوا",
-    "status": "مستمر",
-    "rating": ""
-  },
-  {
     "id": "limit-breaking-genius-mage",
     "title": "الساحر العبقري محطم الحدود",
     "url": "https://mangatime.org/manga/limit-breaking-genius-mage",
@@ -1368,6 +1359,15 @@
     "type": "مانهوا",
     "status": "مستمر",
     "rating": "7.0"
+  },
+  {
+    "id": "the-third-prince-of-the-fallen-kingdom-has-regress",
+    "title": "عودة الأمير الثالث للمملكة المنهارة",
+    "url": "https://mangatime.org/manga/the-third-prince-of-the-fallen-kingdom-has-regress",
+    "cover_url": "https://mangatime.org/uploads/cover/697df75c0c5d340ac1541f88/2026/02/w0y0lidz.jpg",
+    "type": "مانهوا",
+    "status": "مستمر",
+    "rating": ""
   },
   {
     "id": "souten-no-ken",
@@ -1451,15 +1451,6 @@
     "rating": ""
   },
   {
-    "id": "seoul-station-barbarian",
-    "title": "بربري محطة سيول",
-    "url": "https://mangatime.org/manga/seoul-station-barbarian",
-    "cover_url": "https://mangatime.org/uploads/series/697df7d30c5d340ac15487ac/cover.webp",
-    "type": "مانهوا",
-    "status": "متوقف مؤقتاً",
-    "rating": ""
-  },
-  {
     "id": "a-dragon-lives-in-kunlun",
     "title": "A Dragon Lives in Kunlun",
     "url": "https://mangatime.org/manga/a-dragon-lives-in-kunlun",
@@ -1475,6 +1466,15 @@
     "cover_url": "https://mangatime.org/uploads/series/697df7f50c5d340ac1549ec4/cover.webp",
     "type": "ويب تون",
     "status": "مكتمل",
+    "rating": ""
+  },
+  {
+    "id": "seoul-station-barbarian",
+    "title": "بربري محطة سيول",
+    "url": "https://mangatime.org/manga/seoul-station-barbarian",
+    "cover_url": "https://mangatime.org/uploads/series/697df7d30c5d340ac15487ac/cover.webp",
+    "type": "مانهوا",
+    "status": "متوقف مؤقتاً",
     "rating": ""
   },
   {
@@ -1577,6 +1577,15 @@
     "rating": ""
   },
   {
+    "id": "damn-reincarnation",
+    "title": "Damn Reincarnation",
+    "url": "https://mangatime.org/manga/damn-reincarnation",
+    "cover_url": "https://mangatime.org/uploads/series/6a368446c65f0f6b50f88af8.png",
+    "type": "مانهوا",
+    "status": "مستمر",
+    "rating": "5.5"
+  },
+  {
     "id": "im-not-a-soccer-genius",
     "title": "I'm Not a Soccer Genius!",
     "url": "https://mangatime.org/manga/im-not-a-soccer-genius",
@@ -1595,20 +1604,20 @@
     "rating": ""
   },
   {
-    "id": "rust",
-    "title": "Rust",
-    "url": "https://mangatime.org/manga/rust",
-    "cover_url": "https://mangatime.org/uploads/series/697df7cf0c5d340ac15480e6/cover.webp",
-    "type": "مانهوا",
-    "status": "مستمر",
-    "rating": ""
-  },
-  {
     "id": "the-ultimate-weapon-returns-after-100-million-years",
     "title": "عودة السلاح النهائي بعد مئة مليون عام",
     "url": "https://mangatime.org/manga/the-ultimate-weapon-returns-after-100-million-years",
     "cover_url": "https://mangatime.org/uploads/series/69bb915ec30314ce8f59455d.webp",
     "type": "مانغا",
+    "status": "مستمر",
+    "rating": ""
+  },
+  {
+    "id": "rust",
+    "title": "Rust",
+    "url": "https://mangatime.org/manga/rust",
+    "cover_url": "https://mangatime.org/uploads/series/697df7cf0c5d340ac15480e6/cover.webp",
+    "type": "مانهوا",
     "status": "مستمر",
     "rating": ""
   },
@@ -1620,15 +1629,6 @@
     "type": "مانهوا",
     "status": "مستمر",
     "rating": "10.0"
-  },
-  {
-    "id": "damn-reincarnation",
-    "title": "Damn Reincarnation",
-    "url": "https://mangatime.org/manga/damn-reincarnation",
-    "cover_url": "https://mangatime.org/uploads/series/6a368446c65f0f6b50f88af8.png",
-    "type": "مانهوا",
-    "status": "مستمر",
-    "rating": "5.5"
   },
   {
     "id": "wild-west-murim",
@@ -1676,12 +1676,12 @@
     "rating": "4.0"
   },
   {
-    "id": "the-reset-life-of-a-game-addict",
-    "title": "The Reset Life of a Game Addict",
-    "url": "https://mangatime.org/manga/the-reset-life-of-a-game-addict",
-    "cover_url": "https://mangatime.org/uploads/series/697df7fe0c5d340ac154a508/cover.webp",
+    "id": "return-of-the-sss-class-ranker",
+    "title": "عودة المصنف من فئة SSS",
+    "url": "https://mangatime.org/manga/return-of-the-sss-class-ranker",
+    "cover_url": "https://mangatime.org/uploads/series/6a5985ad173c894644b98435.webp",
     "type": "مانهوا",
-    "status": "مستمر",
+    "status": "مكتمل",
     "rating": ""
   },
   {
@@ -1694,12 +1694,12 @@
     "rating": "10.0"
   },
   {
-    "id": "return-of-the-sss-class-ranker",
-    "title": "عودة المصنف من فئة SSS",
-    "url": "https://mangatime.org/manga/return-of-the-sss-class-ranker",
-    "cover_url": "https://mangatime.org/uploads/series/6a5985ad173c894644b98435.webp",
+    "id": "the-reset-life-of-a-game-addict",
+    "title": "The Reset Life of a Game Addict",
+    "url": "https://mangatime.org/manga/the-reset-life-of-a-game-addict",
+    "cover_url": "https://mangatime.org/uploads/series/697df7fe0c5d340ac154a508/cover.webp",
     "type": "مانهوا",
-    "status": "مكتمل",
+    "status": "مستمر",
     "rating": ""
   },
   {
@@ -1775,15 +1775,6 @@
     "rating": ""
   },
   {
-    "id": "death-note-one-shot",
-    "title": "ديث نوت: الفصل الخاص",
-    "url": "https://mangatime.org/manga/death-note-one-shot",
-    "cover_url": "https://mangatime.org/uploads/cover/697df75c0c5d340ac1541f88/2026/02/2d5t7n7a.webp",
-    "type": "مانغا",
-    "status": "مكتمل",
-    "rating": "9.0"
-  },
-  {
     "id": "lord-prestons-secret-tutor",
     "title": "Lord Preston's Secret Tutor",
     "url": "https://mangatime.org/manga/lord-prestons-secret-tutor",
@@ -1791,6 +1782,15 @@
     "type": "مانهوا",
     "status": "مستمر",
     "rating": "10.0"
+  },
+  {
+    "id": "death-note-one-shot",
+    "title": "ديث نوت: الفصل الخاص",
+    "url": "https://mangatime.org/manga/death-note-one-shot",
+    "cover_url": "https://mangatime.org/uploads/cover/697df75c0c5d340ac1541f88/2026/02/2d5t7n7a.webp",
+    "type": "مانغا",
+    "status": "مكتمل",
+    "rating": "9.0"
   },
   {
     "id": "path-of-the-shaman",
@@ -1847,15 +1847,6 @@
     "rating": ""
   },
   {
-    "id": "awakening",
-    "title": "Awakening",
-    "url": "https://mangatime.org/manga/awakening",
-    "cover_url": "https://mangatime.org/uploads/cover/697df75c0c5d340ac1541f88/2026/02/8jjc52k9.webp",
-    "type": "مانهوا",
-    "status": "مستمر",
-    "rating": "1.0"
-  },
-  {
     "id": "all-my-alter-egos-are-tycoons",
     "title": "All My Alter Egos Are Tycoons",
     "url": "https://mangatime.org/manga/all-my-alter-egos-are-tycoons",
@@ -1863,6 +1854,15 @@
     "type": "مانهوا",
     "status": "مستمر",
     "rating": "5.5"
+  },
+  {
+    "id": "awakening",
+    "title": "Awakening",
+    "url": "https://mangatime.org/manga/awakening",
+    "cover_url": "https://mangatime.org/uploads/cover/697df75c0c5d340ac1541f88/2026/02/8jjc52k9.webp",
+    "type": "مانهوا",
+    "status": "مستمر",
+    "rating": "1.0"
   },
   {
     "id": "the-gwichon-village-mystery",
@@ -1883,15 +1883,6 @@
     "rating": ""
   },
   {
-    "id": "the-saint-levels-up-through-necromancy",
-    "title": "The Saint Levels Up Through Necromancy",
-    "url": "https://mangatime.org/manga/the-saint-levels-up-through-necromancy",
-    "cover_url": "https://mangatime.org/uploads/series/69c3d5cc0472419cc8a88129.webp",
-    "type": "مانهوا",
-    "status": "مستمر",
-    "rating": ""
-  },
-  {
     "id": "nano-machine",
     "title": "Nano Machine",
     "url": "https://mangatime.org/manga/nano-machine",
@@ -1899,15 +1890,6 @@
     "type": "مانهوا",
     "status": "مستمر",
     "rating": "10.0"
-  },
-  {
-    "id": "starting-with-a-mythic-talent-i-cut-down-kings",
-    "title": "Starting with a Mythic Talent, I Cut Down kings",
-    "url": "https://mangatime.org/manga/starting-with-a-mythic-talent-i-cut-down-kings",
-    "cover_url": "https://mangatime.org/uploads/cover/697df75c0c5d340ac1541f88/2026/02/mc1up0mi.webp",
-    "type": "مانها",
-    "status": "مستمر",
-    "rating": "8.0"
   },
   {
     "id": "hand-jumper",
@@ -1919,13 +1901,31 @@
     "rating": ""
   },
   {
-    "id": "dr-shineon-who-sees-the-future",
-    "title": "Dr. Shineon Who Sees the Future",
-    "url": "https://mangatime.org/manga/dr-shineon-who-sees-the-future",
-    "cover_url": "https://mangatime.org/uploads/series/69cdbc300472419cc8aa8284.webp",
+    "id": "the-saint-levels-up-through-necromancy",
+    "title": "The Saint Levels Up Through Necromancy",
+    "url": "https://mangatime.org/manga/the-saint-levels-up-through-necromancy",
+    "cover_url": "https://mangatime.org/uploads/series/69c3d5cc0472419cc8a88129.webp",
     "type": "مانهوا",
     "status": "مستمر",
     "rating": ""
+  },
+  {
+    "id": "starting-with-a-mythic-talent-i-cut-down-kings",
+    "title": "Starting with a Mythic Talent, I Cut Down kings",
+    "url": "https://mangatime.org/manga/starting-with-a-mythic-talent-i-cut-down-kings",
+    "cover_url": "https://mangatime.org/uploads/cover/697df75c0c5d340ac1541f88/2026/02/mc1up0mi.webp",
+    "type": "مانها",
+    "status": "مستمر",
+    "rating": "8.0"
+  },
+  {
+    "id": "olgami-trapped",
+    "title": "الأُحبولة",
+    "url": "https://mangatime.org/manga/olgami-trapped",
+    "cover_url": "https://mangatime.org/uploads/series/6a93f3aa2a4d537e51e7a051.png",
+    "type": "مانهوا",
+    "status": "مكتمل",
+    "rating": "9.0"
   },
   {
     "id": "jujutsu-kaisen-modulo",
@@ -1946,13 +1946,13 @@
     "rating": ""
   },
   {
-    "id": "olgami-trapped",
-    "title": "الأُحبولة",
-    "url": "https://mangatime.org/manga/olgami-trapped",
-    "cover_url": "https://mangatime.org/uploads/series/6a93f3aa2a4d537e51e7a051.png",
+    "id": "dr-shineon-who-sees-the-future",
+    "title": "Dr. Shineon Who Sees the Future",
+    "url": "https://mangatime.org/manga/dr-shineon-who-sees-the-future",
+    "cover_url": "https://mangatime.org/uploads/series/69cdbc300472419cc8aa8284.webp",
     "type": "مانهوا",
-    "status": "مكتمل",
-    "rating": "9.0"
+    "status": "مستمر",
+    "rating": ""
   },
   {
     "id": "can-i-borrow-the-fire",
@@ -1964,11 +1964,11 @@
     "rating": "1.0"
   },
   {
-    "id": "become-the-strongest-hero-through-the-cheat-system",
-    "title": "Become the Strongest Hero Through the Cheat System",
-    "url": "https://mangatime.org/manga/become-the-strongest-hero-through-the-cheat-system",
-    "cover_url": "https://mangatime.org/uploads/cover/697df75c0c5d340ac1541f88/2026/02/b7tdppxq.webp",
-    "type": "مانها",
+    "id": "the-heavenly-demon-wants-a-quiet-life",
+    "title": "The Heavenly Demon Wants A Quiet Life",
+    "url": "https://mangatime.org/manga/the-heavenly-demon-wants-a-quiet-life",
+    "cover_url": "https://mangatime.org/uploads/series/6a48efac5dbdedf27e8291d5-96527db971719c0b.webp",
+    "type": "مانهوا",
     "status": "مستمر",
     "rating": "10.0"
   },
@@ -1982,11 +1982,11 @@
     "rating": ""
   },
   {
-    "id": "the-heavenly-demon-wants-a-quiet-life",
-    "title": "The Heavenly Demon Wants A Quiet Life",
-    "url": "https://mangatime.org/manga/the-heavenly-demon-wants-a-quiet-life",
-    "cover_url": "https://mangatime.org/uploads/series/6a48efac5dbdedf27e8291d5-96527db971719c0b.webp",
-    "type": "مانهوا",
+    "id": "become-the-strongest-hero-through-the-cheat-system",
+    "title": "Become the Strongest Hero Through the Cheat System",
+    "url": "https://mangatime.org/manga/become-the-strongest-hero-through-the-cheat-system",
+    "cover_url": "https://mangatime.org/uploads/cover/697df75c0c5d340ac1541f88/2026/02/b7tdppxq.webp",
+    "type": "مانها",
     "status": "مستمر",
     "rating": "10.0"
   },
@@ -2009,13 +2009,13 @@
     "rating": ""
   },
   {
-    "id": "reverend-insanity-master-of-gu",
-    "title": "Reverend Insanity (Master of Gu)",
-    "url": "https://mangatime.org/manga/reverend-insanity-master-of-gu",
-    "cover_url": "https://mangatime.org/uploads/cover/697df75c0c5d340ac1541f88/2026/02/2hl06p4h.webp",
-    "type": "مانها",
+    "id": "black-haze-remake",
+    "title": "Black Haze Remake",
+    "url": "https://mangatime.org/manga/black-haze-remake",
+    "cover_url": "https://mangatime.org/uploads/series/black-haze-remake-cover-20260802.webp",
+    "type": "مانهوا",
     "status": "مستمر",
-    "rating": "10.0"
+    "rating": "6.0"
   },
   {
     "id": "our-guilds-idol",
@@ -2027,6 +2027,15 @@
     "rating": "10.0"
   },
   {
+    "id": "reverend-insanity-master-of-gu",
+    "title": "Reverend Insanity (Master of Gu)",
+    "url": "https://mangatime.org/manga/reverend-insanity-master-of-gu",
+    "cover_url": "https://mangatime.org/uploads/cover/697df75c0c5d340ac1541f88/2026/02/2hl06p4h.webp",
+    "type": "مانها",
+    "status": "مستمر",
+    "rating": "10.0"
+  },
+  {
     "id": "academy-s-undercover-professor",
     "title": "Academy's Undercover professor",
     "url": "https://mangatime.org/manga/academy-s-undercover-professor",
@@ -2034,15 +2043,6 @@
     "type": "مانهوا",
     "status": "مكتمل",
     "rating": ""
-  },
-  {
-    "id": "black-haze-remake",
-    "title": "Black Haze Remake",
-    "url": "https://mangatime.org/manga/black-haze-remake",
-    "cover_url": "https://mangatime.org/uploads/series/black-haze-remake-cover-20260802.webp",
-    "type": "مانهوا",
-    "status": "مستمر",
-    "rating": "6.0"
   },
   {
     "id": "crimson-reset",
@@ -2099,19 +2099,19 @@
     "rating": "10.0"
   },
   {
-    "id": "mount-hua-sect-s-master-swordsman",
-    "title": "Mount Hua Sect’s Master Swordsman",
-    "url": "https://mangatime.org/manga/mount-hua-sect-s-master-swordsman",
-    "cover_url": "https://mangatime.org/uploads/cover/697df75c0c5d340ac1541f88/2026/02/wd8sax27.jpg",
+    "id": "lingering-pain",
+    "title": "Lingering Pain",
+    "url": "https://mangatime.org/manga/lingering-pain",
+    "cover_url": "https://mangatime.org/uploads/series/6a4752b2b0e23e715bf3fe73.jpg",
     "type": "مانهوا",
     "status": "مستمر",
     "rating": ""
   },
   {
-    "id": "lingering-pain",
-    "title": "Lingering Pain",
-    "url": "https://mangatime.org/manga/lingering-pain",
-    "cover_url": "https://mangatime.org/uploads/series/6a4752b2b0e23e715bf3fe73.jpg",
+    "id": "mount-hua-sect-s-master-swordsman",
+    "title": "Mount Hua Sect’s Master Swordsman",
+    "url": "https://mangatime.org/manga/mount-hua-sect-s-master-swordsman",
+    "cover_url": "https://mangatime.org/uploads/cover/697df75c0c5d340ac1541f88/2026/02/wd8sax27.jpg",
     "type": "مانهوا",
     "status": "مستمر",
     "rating": ""
@@ -2162,6 +2162,15 @@
     "rating": "10.0"
   },
   {
+    "id": "absolute-sword-sense",
+    "title": "Absolute Sword Sense",
+    "url": "https://mangatime.org/manga/absolute-sword-sense",
+    "cover_url": "https://mangatime.org/uploads/series/6a4c0aa8f06ca4eda544648f.jpg",
+    "type": "مانهوا",
+    "status": "مستمر",
+    "rating": "7.2"
+  },
+  {
     "id": "national-level-dungeon-architect",
     "title": "National-Level Dungeon architect",
     "url": "https://mangatime.org/manga/national-level-dungeon-architect",
@@ -2187,15 +2196,6 @@
     "type": "مانهوا",
     "status": "مستمر",
     "rating": "10.0"
-  },
-  {
-    "id": "absolute-sword-sense",
-    "title": "Absolute Sword Sense",
-    "url": "https://mangatime.org/manga/absolute-sword-sense",
-    "cover_url": "https://mangatime.org/uploads/series/6a4c0aa8f06ca4eda544648f.jpg",
-    "type": "مانهوا",
-    "status": "مستمر",
-    "rating": "7.2"
   },
   {
     "id": "the-ruler-of-darkness",
@@ -2225,15 +2225,6 @@
     "rating": "7.3"
   },
   {
-    "id": "i-m-a-phantom-thief-but-i-faked-a-marriage-with-an",
-    "title": "I’m a Phantom Thief But I Faked A Marriage With An Investigator",
-    "url": "https://mangatime.org/manga/i-m-a-phantom-thief-but-i-faked-a-marriage-with-an",
-    "cover_url": "https://mangatime.org/uploads/series/697df83b0c5d340ac154d0c9/cover.webp",
-    "type": "مانهوا",
-    "status": "مستمر",
-    "rating": "1.0"
-  },
-  {
     "id": "nebulas-civilization",
     "title": "Nebulas Civilization",
     "url": "https://mangatime.org/manga/nebulas-civilization",
@@ -2252,6 +2243,15 @@
     "rating": "10.0"
   },
   {
+    "id": "i-m-a-phantom-thief-but-i-faked-a-marriage-with-an",
+    "title": "I’m a Phantom Thief But I Faked A Marriage With An Investigator",
+    "url": "https://mangatime.org/manga/i-m-a-phantom-thief-but-i-faked-a-marriage-with-an",
+    "cover_url": "https://mangatime.org/uploads/series/697df83b0c5d340ac154d0c9/cover.webp",
+    "type": "مانهوا",
+    "status": "مستمر",
+    "rating": "1.0"
+  },
+  {
     "id": "the-genius-assassin-s-second-life-at-the-academy",
     "title": "The Genius Assassin’s Second Life at The Academy",
     "url": "https://mangatime.org/manga/the-genius-assassin-s-second-life-at-the-academy",
@@ -2265,6 +2265,15 @@
     "title": "Dam of the Forest",
     "url": "https://mangatime.org/manga/dam-of-the-forest",
     "cover_url": "https://mangatime.org/uploads/series/6a474826b0e23e715bf3c4e1.webp",
+    "type": "مانهوا",
+    "status": "مستمر",
+    "rating": ""
+  },
+  {
+    "id": "serims-iron-rule",
+    "title": "Serim ui Cheolchik",
+    "url": "https://mangatime.org/manga/serims-iron-rule",
+    "cover_url": "https://mangatime.org/uploads/series/6a6c8035a340283bc5335c50.png",
     "type": "مانهوا",
     "status": "مستمر",
     "rating": ""
@@ -2288,20 +2297,20 @@
     "rating": ""
   },
   {
-    "id": "serims-iron-rule",
-    "title": "Serim ui Cheolchik",
-    "url": "https://mangatime.org/manga/serims-iron-rule",
-    "cover_url": "https://mangatime.org/uploads/series/6a6c8035a340283bc5335c50.png",
-    "type": "مانهوا",
-    "status": "مستمر",
-    "rating": ""
-  },
-  {
     "id": "yokohama-kaidashi-kikou",
     "title": "Yokohama Kaidashi Kikou",
     "url": "https://mangatime.org/manga/yokohama-kaidashi-kikou",
     "cover_url": "https://mangatime.org/uploads/cover/697df75c0c5d340ac1541f88/2026/02/0zsxzegh.jpg",
     "type": "مانغا",
+    "status": "مستمر",
+    "rating": ""
+  },
+  {
+    "id": "how-a-terminally-ill-genius-survives",
+    "title": "نجاة العبقري في الوقت المستعار",
+    "url": "https://mangatime.org/manga/how-a-terminally-ill-genius-survives",
+    "cover_url": "https://mangatime.org/uploads/series/6a5971152de0d8959951cb95.webp",
+    "type": "مانهوا",
     "status": "مستمر",
     "rating": ""
   },
@@ -2322,15 +2331,6 @@
     "type": "مانهوا",
     "status": "مستمر",
     "rating": "8.0"
-  },
-  {
-    "id": "how-a-terminally-ill-genius-survives",
-    "title": "نجاة العبقري في الوقت المستعار",
-    "url": "https://mangatime.org/manga/how-a-terminally-ill-genius-survives",
-    "cover_url": "https://mangatime.org/uploads/series/6a5971152de0d8959951cb95.webp",
-    "type": "مانهوا",
-    "status": "مستمر",
-    "rating": ""
   },
   {
     "id": "monopolizing-fortunes",
@@ -2450,15 +2450,6 @@
     "rating": ""
   },
   {
-    "id": "demonic-beast-hunter-survival-guide",
-    "title": "Demonic Beast Hunter Survival Guide",
-    "url": "https://mangatime.org/manga/demonic-beast-hunter-survival-guide",
-    "cover_url": "https://mangatime.org/uploads/series/69f8376f3294f271241d6d67.webp",
-    "type": "مانهوا",
-    "status": "مستمر",
-    "rating": ""
-  },
-  {
     "id": "the-scent-of-desire",
     "title": "The Scent of Desire",
     "url": "https://mangatime.org/manga/the-scent-of-desire",
@@ -2473,6 +2464,15 @@
     "url": "https://mangatime.org/manga/i-shall-seal-the-heavens-2025",
     "cover_url": "https://mangatime.org/uploads/cover/697df75c0c5d340ac1541f88/2026/02/go2jdkc1.webp",
     "type": "مانها",
+    "status": "مستمر",
+    "rating": ""
+  },
+  {
+    "id": "demonic-beast-hunter-survival-guide",
+    "title": "Demonic Beast Hunter Survival Guide",
+    "url": "https://mangatime.org/manga/demonic-beast-hunter-survival-guide",
+    "cover_url": "https://mangatime.org/uploads/series/69f8376f3294f271241d6d67.webp",
+    "type": "مانهوا",
     "status": "مستمر",
     "rating": ""
   },
@@ -2504,15 +2504,6 @@
     "rating": ""
   },
   {
-    "id": "the-shepherd-wizard",
-    "title": "The Shepherd Wizard",
-    "url": "https://mangatime.org/manga/the-shepherd-wizard",
-    "cover_url": "https://mangatime.org/uploads/series/69a512363446bf2013eb6a91/cover.jpg",
-    "type": "مانهوا",
-    "status": "مستمر",
-    "rating": "8.5"
-  },
-  {
     "id": "im-going-to-destroy-this-country",
     "title": "أنا ذاهب لتدمير هذا البلد",
     "url": "https://mangatime.org/manga/im-going-to-destroy-this-country",
@@ -2520,6 +2511,15 @@
     "type": "مانهوا",
     "status": "مستمر",
     "rating": "5.5"
+  },
+  {
+    "id": "the-shepherd-wizard",
+    "title": "The Shepherd Wizard",
+    "url": "https://mangatime.org/manga/the-shepherd-wizard",
+    "cover_url": "https://mangatime.org/uploads/series/69a512363446bf2013eb6a91/cover.jpg",
+    "type": "مانهوا",
+    "status": "مستمر",
+    "rating": "8.5"
   },
   {
     "id": "villain-of-the-octagon",
@@ -2549,6 +2549,15 @@
     "rating": ""
   },
   {
+    "id": "secretly-more-powerful-than-the-hero",
+    "title": "أقوى من البطل سراً",
+    "url": "https://mangatime.org/manga/secretly-more-powerful-than-the-hero",
+    "cover_url": "https://mangatime.org/uploads/series/6a5985ad173c894644b98439.webp",
+    "type": "مانهوا",
+    "status": "مستمر",
+    "rating": ""
+  },
+  {
     "id": "fast-break",
     "title": "Fast Break",
     "url": "https://mangatime.org/manga/fast-break",
@@ -2567,6 +2576,15 @@
     "rating": ""
   },
   {
+    "id": "volcanic-age",
+    "title": "عصر البركان",
+    "url": "https://mangatime.org/manga/volcanic-age",
+    "cover_url": "https://mangatime.org/uploads/series/6a93a3822a4d537e51e244ba.png",
+    "type": "مانهوا",
+    "status": "مكتمل",
+    "rating": ""
+  },
+  {
     "id": "hunter-x-hunter-hisoka-origin-story",
     "title": "Hunter x Hunter - Hisoka Origin Story",
     "url": "https://mangatime.org/manga/hunter-x-hunter-hisoka-origin-story",
@@ -2576,10 +2594,10 @@
     "rating": ""
   },
   {
-    "id": "secretly-more-powerful-than-the-hero",
-    "title": "أقوى من البطل سراً",
-    "url": "https://mangatime.org/manga/secretly-more-powerful-than-the-hero",
-    "cover_url": "https://mangatime.org/uploads/series/6a5985ad173c894644b98439.webp",
+    "id": "reincarnation-of-the-suicidal-battle-king",
+    "title": "Reincarnation of the Suicidal Battle King",
+    "url": "https://mangatime.org/manga/reincarnation-of-the-suicidal-battle-king",
+    "cover_url": "https://mangatime.org/uploads/series/6a51c998cdc3a9a86897f399.jpg",
     "type": "مانهوا",
     "status": "مستمر",
     "rating": ""
@@ -2603,6 +2621,15 @@
     "rating": "9.3"
   },
   {
+    "id": "plaza-wars-mercy-for-none",
+    "title": "Plaza Wars: Mercy for None",
+    "url": "https://mangatime.org/manga/plaza-wars-mercy-for-none",
+    "cover_url": "https://mangatime.org/uploads/series/6a4806b25317dc1f4235b9d9.webp",
+    "type": "مانهوا",
+    "status": "مستمر",
+    "rating": ""
+  },
+  {
     "id": "like-a-chilling-flame",
     "title": "Like A Chilling Flame",
     "url": "https://mangatime.org/manga/like-a-chilling-flame",
@@ -2610,15 +2637,6 @@
     "type": "مانهوا",
     "status": "مستمر",
     "rating": "10.0"
-  },
-  {
-    "id": "reincarnation-of-the-suicidal-battle-king",
-    "title": "Reincarnation of the Suicidal Battle King",
-    "url": "https://mangatime.org/manga/reincarnation-of-the-suicidal-battle-king",
-    "cover_url": "https://mangatime.org/uploads/series/6a51c998cdc3a9a86897f399.jpg",
-    "type": "مانهوا",
-    "status": "مستمر",
-    "rating": ""
   },
   {
     "id": "from-the-womb-to-dominance-unbeatable-at-birth",
@@ -2630,29 +2648,11 @@
     "rating": ""
   },
   {
-    "id": "volcanic-age",
-    "title": "عصر البركان",
-    "url": "https://mangatime.org/manga/volcanic-age",
-    "cover_url": "https://mangatime.org/uploads/series/6a93a3822a4d537e51e244ba.png",
-    "type": "مانهوا",
-    "status": "مكتمل",
-    "rating": ""
-  },
-  {
     "id": "omori",
     "title": "OMORI",
     "url": "https://mangatime.org/manga/omori",
     "cover_url": "https://mangatime.org/uploads/series/697df7d00c5d340ac154818d/cover.webp",
     "type": "مانغا",
-    "status": "مستمر",
-    "rating": ""
-  },
-  {
-    "id": "plaza-wars-mercy-for-none",
-    "title": "Plaza Wars: Mercy for None",
-    "url": "https://mangatime.org/manga/plaza-wars-mercy-for-none",
-    "cover_url": "https://mangatime.org/uploads/series/6a4806b25317dc1f4235b9d9.webp",
-    "type": "مانهوا",
     "status": "مستمر",
     "rating": ""
   },
@@ -2693,21 +2693,21 @@
     "rating": "10.0"
   },
   {
-    "id": "jojos-bizarre-adventure-part-8-jojolion",
-    "title": "JoJo’s Bizarre Adventure Part 8 – JoJolion",
-    "url": "https://mangatime.org/manga/jojos-bizarre-adventure-part-8-jojolion",
-    "cover_url": "https://mangatime.org/uploads/series/6a2916b14f41596d2ce2ce61.jpg",
-    "type": "مانغا",
-    "status": "مكتمل",
-    "rating": ""
-  },
-  {
     "id": "peerless-battle-spirit",
     "title": "Peerless Battle Spirit",
     "url": "https://mangatime.org/manga/peerless-battle-spirit",
     "cover_url": "https://mangatime.org/uploads/series/697df7940c5d340ac1545c71/cover.webp",
     "type": "مانها",
     "status": "مستمر",
+    "rating": ""
+  },
+  {
+    "id": "jojos-bizarre-adventure-part-8-jojolion",
+    "title": "JoJo’s Bizarre Adventure Part 8 – JoJolion",
+    "url": "https://mangatime.org/manga/jojos-bizarre-adventure-part-8-jojolion",
+    "cover_url": "https://mangatime.org/uploads/series/6a2916b14f41596d2ce2ce61.jpg",
+    "type": "مانغا",
+    "status": "مكتمل",
     "rating": ""
   },
   {
@@ -2873,6 +2873,15 @@
     "rating": ""
   },
   {
+    "id": "the-invisible-one",
+    "title": "غير المرئي",
+    "url": "https://mangatime.org/manga/the-invisible-one",
+    "cover_url": "https://mangatime.org/uploads/series/6a5985a3173c894644b9840d.webp",
+    "type": "مانهوا",
+    "status": "مستمر",
+    "rating": "10.0"
+  },
+  {
     "id": "hyouka",
     "title": "Hyouka",
     "url": "https://mangatime.org/manga/hyouka",
@@ -2891,6 +2900,15 @@
     "rating": ""
   },
   {
+    "id": "the-apocalypse-needs-a-pro",
+    "title": "The Apocalypse Needs a Pro",
+    "url": "https://mangatime.org/manga/the-apocalypse-needs-a-pro",
+    "cover_url": "https://mangatime.org/uploads/series/6a6c75bea340283bc5331d73.jpg?v=20260731T103918Z",
+    "type": "مانهوا",
+    "status": "مستمر",
+    "rating": ""
+  },
+  {
     "id": "dao-of-the-bizarre-immortal",
     "title": "الخالدون الجامحون",
     "url": "https://mangatime.org/manga/dao-of-the-bizarre-immortal",
@@ -2900,10 +2918,10 @@
     "rating": ""
   },
   {
-    "id": "the-apocalypse-needs-a-pro",
-    "title": "The Apocalypse Needs a Pro",
-    "url": "https://mangatime.org/manga/the-apocalypse-needs-a-pro",
-    "cover_url": "https://mangatime.org/uploads/series/6a6c75bea340283bc5331d73.jpg?v=20260731T103918Z",
+    "id": "hardcore-leveling-warrior-earth-game",
+    "title": "Hardcore Leveling Warrior: Earth Game",
+    "url": "https://mangatime.org/manga/hardcore-leveling-warrior-earth-game",
+    "cover_url": "https://mangatime.org/uploads/series/6a47e5a55317dc1f4235420a.jpg",
     "type": "مانهوا",
     "status": "مستمر",
     "rating": ""
@@ -2918,19 +2936,10 @@
     "rating": ""
   },
   {
-    "id": "the-invisible-one",
-    "title": "غير المرئي",
-    "url": "https://mangatime.org/manga/the-invisible-one",
-    "cover_url": "https://mangatime.org/uploads/series/6a5985a3173c894644b9840d.webp",
-    "type": "مانهوا",
-    "status": "مستمر",
-    "rating": "10.0"
-  },
-  {
-    "id": "hardcore-leveling-warrior-earth-game",
-    "title": "Hardcore Leveling Warrior: Earth Game",
-    "url": "https://mangatime.org/manga/hardcore-leveling-warrior-earth-game",
-    "cover_url": "https://mangatime.org/uploads/series/6a47e5a55317dc1f4235420a.jpg",
+    "id": "the-veteran-swordmasters-stream",
+    "title": "Sword God's Livestream",
+    "url": "https://mangatime.org/manga/the-veteran-swordmasters-stream",
+    "cover_url": "https://mangatime.org/uploads/series/6a6c6c43a340283bc532e10a.jpg",
     "type": "مانهوا",
     "status": "مستمر",
     "rating": ""
@@ -2940,15 +2949,6 @@
     "title": "من ممثّل طفل إلى نجم عالمي",
     "url": "https://mangatime.org/manga/from-child-actor-to-world-star",
     "cover_url": "https://mangatime.org/uploads/series/6a846ec4253a2ecb3d3e9b6e.png",
-    "type": "مانهوا",
-    "status": "مستمر",
-    "rating": ""
-  },
-  {
-    "id": "the-veteran-swordmasters-stream",
-    "title": "Sword God's Livestream",
-    "url": "https://mangatime.org/manga/the-veteran-swordmasters-stream",
-    "cover_url": "https://mangatime.org/uploads/series/6a6c6c43a340283bc532e10a.jpg",
     "type": "مانهوا",
     "status": "مستمر",
     "rating": ""
@@ -3044,6 +3044,15 @@
     "rating": ""
   },
   {
+    "id": "attack-on-titan",
+    "title": "هجوم العمالقة",
+    "url": "https://mangatime.org/manga/attack-on-titan",
+    "cover_url": "https://mangatime.org/uploads/series/6a8a7698253a2ecb3d6facee.jpg",
+    "type": "مانغا",
+    "status": "مكتمل",
+    "rating": ""
+  },
+  {
     "id": "fighting-uncle",
     "title": "Fighting Uncle",
     "url": "https://mangatime.org/manga/fighting-uncle",
@@ -3059,15 +3068,6 @@
     "cover_url": "https://mangatime.org/uploads/series/697df7d00c5d340ac1548153/cover.webp",
     "type": "مانغا",
     "status": "مستمر",
-    "rating": ""
-  },
-  {
-    "id": "attack-on-titan",
-    "title": "هجوم العمالقة",
-    "url": "https://mangatime.org/manga/attack-on-titan",
-    "cover_url": "https://mangatime.org/uploads/series/6a8a7698253a2ecb3d6facee.jpg",
-    "type": "مانغا",
-    "status": "مكتمل",
     "rating": ""
   },
   {
@@ -3143,6 +3143,15 @@
     "rating": ""
   },
   {
+    "id": "peerless-dad",
+    "title": "الأب الذي لا يُبارى",
+    "url": "https://mangatime.org/manga/peerless-dad",
+    "cover_url": "https://mangatime.org/uploads/series/6a9535a78df1ea2e986dabf8.png",
+    "type": "مانهوا",
+    "status": "مكتمل",
+    "rating": ""
+  },
+  {
     "id": "somebody-stop-the-pope",
     "title": "Somebody Stop the Pope",
     "url": "https://mangatime.org/manga/somebody-stop-the-pope",
@@ -3179,20 +3188,20 @@
     "rating": ""
   },
   {
-    "id": "peerless-dad",
-    "title": "الأب الذي لا يُبارى",
-    "url": "https://mangatime.org/manga/peerless-dad",
-    "cover_url": "https://mangatime.org/uploads/series/6a9535a78df1ea2e986dabf8.png",
-    "type": "مانهوا",
-    "status": "مكتمل",
-    "rating": ""
-  },
-  {
     "id": "the-dark-mage-i-am-the-only-transcendant-mage-who-",
     "title": "The Dark Mage ~ I am the Only Transcendant Mage who Regressed with Cheat Skills",
     "url": "https://mangatime.org/manga/the-dark-mage-i-am-the-only-transcendant-mage-who-",
     "cover_url": "https://mangatime.org/uploads/cover/697df75c0c5d340ac1541f88/2026/02/yxps4r7i.webp",
     "type": "مانغا",
+    "status": "مستمر",
+    "rating": ""
+  },
+  {
+    "id": "leveling-up-with-the-kings",
+    "title": "Leveling Up with the Kings",
+    "url": "https://mangatime.org/manga/leveling-up-with-the-kings",
+    "cover_url": "https://mangatime.org/uploads/series/6a515594cdc3a9a8689371ab.jpg",
+    "type": "مانهوا",
     "status": "مستمر",
     "rating": ""
   },
@@ -3224,10 +3233,10 @@
     "rating": ""
   },
   {
-    "id": "leveling-up-with-the-kings",
-    "title": "Leveling Up with the Kings",
-    "url": "https://mangatime.org/manga/leveling-up-with-the-kings",
-    "cover_url": "https://mangatime.org/uploads/series/6a515594cdc3a9a8689371ab.jpg",
+    "id": "the-tale-of-cultivation-and-demon-extermination",
+    "title": "The Tale of Cultivation and Demon Extermination",
+    "url": "https://mangatime.org/manga/the-tale-of-cultivation-and-demon-extermination",
+    "cover_url": "https://mangatime.org/uploads/cover/6a4fe60b262d941f2563c38e/2026/07/o57lta60.png",
     "type": "مانهوا",
     "status": "مستمر",
     "rating": ""
@@ -3247,15 +3256,6 @@
     "url": "https://mangatime.org/manga/in-the-bleak-midwinter",
     "cover_url": "https://mangatime.org/uploads/series/6a6e2d1842e919fa2211ee84.jpg",
     "type": "ويب تون",
-    "status": "مستمر",
-    "rating": ""
-  },
-  {
-    "id": "the-tale-of-cultivation-and-demon-extermination",
-    "title": "The Tale of Cultivation and Demon Extermination",
-    "url": "https://mangatime.org/manga/the-tale-of-cultivation-and-demon-extermination",
-    "cover_url": "https://mangatime.org/uploads/cover/6a4fe60b262d941f2563c38e/2026/07/o57lta60.png",
-    "type": "مانهوا",
     "status": "مستمر",
     "rating": ""
   },
@@ -3332,20 +3332,20 @@
     "rating": ""
   },
   {
-    "id": "the-devil-never-cries",
-    "title": "The Devil Never Cries",
-    "url": "https://mangatime.org/manga/the-devil-never-cries",
-    "cover_url": "https://mangatime.org/uploads/series/6a3264e1da651edf33a6c73c.jpg",
-    "type": "مانها",
-    "status": "مستمر",
-    "rating": ""
-  },
-  {
     "id": "avatar-the-last-airbender-the-promise",
     "title": "AVATAR The Last Airbender – The Promise",
     "url": "https://mangatime.org/manga/avatar-the-last-airbender-the-promise",
     "cover_url": "https://mangatime.org/uploads/series/697df8190c5d340ac154b716/cover.webp",
     "type": "مانهوا",
+    "status": "مستمر",
+    "rating": ""
+  },
+  {
+    "id": "the-devil-never-cries",
+    "title": "The Devil Never Cries",
+    "url": "https://mangatime.org/manga/the-devil-never-cries",
+    "cover_url": "https://mangatime.org/uploads/series/6a3264e1da651edf33a6c73c.jpg",
+    "type": "مانها",
     "status": "مستمر",
     "rating": ""
   },
@@ -3404,20 +3404,20 @@
     "rating": ""
   },
   {
-    "id": "beethoven-reborn",
-    "title": "Beethoven reborn",
-    "url": "https://mangatime.org/manga/beethoven-reborn",
-    "cover_url": "https://mangatime.org/uploads/series/69c746f70472419cc8a90c1b.webp",
-    "type": "مانهوا",
-    "status": "مستمر",
-    "rating": ""
-  },
-  {
     "id": "mairimashita-iruma-kun-if-episode-of-mafia",
     "title": "Mairimashita! Iruma-kun: If Episode of Mafia",
     "url": "https://mangatime.org/manga/mairimashita-iruma-kun-if-episode-of-mafia",
     "cover_url": "https://mangatime.org/uploads/series/6a47f7ee5317dc1f4235815e.jpg",
     "type": "مانغا",
+    "status": "مستمر",
+    "rating": ""
+  },
+  {
+    "id": "beethoven-reborn",
+    "title": "Beethoven reborn",
+    "url": "https://mangatime.org/manga/beethoven-reborn",
+    "cover_url": "https://mangatime.org/uploads/series/69c746f70472419cc8a90c1b.webp",
+    "type": "مانهوا",
     "status": "مستمر",
     "rating": ""
   },
@@ -3429,6 +3429,15 @@
     "type": "مانهوا",
     "status": "مستمر",
     "rating": ""
+  },
+  {
+    "id": "the-villain-wants-to-live",
+    "title": "الشرير يريد أن يعيش",
+    "url": "https://mangatime.org/manga/the-villain-wants-to-live",
+    "cover_url": "https://mangatime.org/uploads/series/6a5985ae173c894644b9843d.webp",
+    "type": "مانهوا",
+    "status": "مستمر",
+    "rating": "10.0"
   },
   {
     "id": "the-returnees-hidden-strategy-stream",
@@ -3449,15 +3458,6 @@
     "rating": ""
   },
   {
-    "id": "the-villain-wants-to-live",
-    "title": "الشرير يريد أن يعيش",
-    "url": "https://mangatime.org/manga/the-villain-wants-to-live",
-    "cover_url": "https://mangatime.org/uploads/series/6a5985ae173c894644b9843d.webp",
-    "type": "مانهوا",
-    "status": "مستمر",
-    "rating": "10.0"
-  },
-  {
     "id": "lemon-tree-forest",
     "title": "غابة شجرة الليمون",
     "url": "https://mangatime.org/manga/lemon-tree-forest",
@@ -3467,19 +3467,19 @@
     "rating": ""
   },
   {
-    "id": "the-bat-knight-dan",
-    "title": "The Bat Knight: Dan",
-    "url": "https://mangatime.org/manga/the-bat-knight-dan",
-    "cover_url": "https://mangatime.org/uploads/series/69b620c730782886d711862b.webp",
+    "id": "the-heavenly-scalpel",
+    "title": "The Heavenly Scalpel",
+    "url": "https://mangatime.org/manga/the-heavenly-scalpel",
+    "cover_url": "https://mangatime.org/uploads/cover/697df75c0c5d340ac1541f88/2026/02/118fupiq.webp",
     "type": "مانهوا",
     "status": "مستمر",
     "rating": ""
   },
   {
-    "id": "the-heavenly-scalpel",
-    "title": "The Heavenly Scalpel",
-    "url": "https://mangatime.org/manga/the-heavenly-scalpel",
-    "cover_url": "https://mangatime.org/uploads/cover/697df75c0c5d340ac1541f88/2026/02/118fupiq.webp",
+    "id": "the-bat-knight-dan",
+    "title": "The Bat Knight: Dan",
+    "url": "https://mangatime.org/manga/the-bat-knight-dan",
+    "cover_url": "https://mangatime.org/uploads/series/69b620c730782886d711862b.webp",
     "type": "مانهوا",
     "status": "مستمر",
     "rating": ""
@@ -3521,15 +3521,6 @@
     "rating": ""
   },
   {
-    "id": "reborn-on-the-demonic-cult-battlefield",
-    "title": "Demonic Frontline: The 13th Flying Dragon Company",
-    "url": "https://mangatime.org/manga/reborn-on-the-demonic-cult-battlefield",
-    "cover_url": "https://mangatime.org/uploads/series/6a6c7220a340283bc532f73c.jpg",
-    "type": "مانهوا",
-    "status": "مستمر",
-    "rating": "10.0"
-  },
-  {
     "id": "black-butler",
     "title": "الخادم الأسود",
     "url": "https://mangatime.org/manga/black-butler",
@@ -3537,6 +3528,15 @@
     "type": "مانغا",
     "status": "مستمر",
     "rating": "7.0"
+  },
+  {
+    "id": "reborn-on-the-demonic-cult-battlefield",
+    "title": "Demonic Frontline: The 13th Flying Dragon Company",
+    "url": "https://mangatime.org/manga/reborn-on-the-demonic-cult-battlefield",
+    "cover_url": "https://mangatime.org/uploads/series/6a6c7220a340283bc532f73c.jpg",
+    "type": "مانهوا",
+    "status": "مستمر",
+    "rating": "10.0"
   },
   {
     "id": "red-blue",
@@ -3562,6 +3562,15 @@
     "url": "https://mangatime.org/manga/i-gained-power-in-a-post-apocalyptic-world",
     "cover_url": "https://mangatime.org/uploads/series/6a73450af9bb217a880af4db-f101b7e2b4347833.webp",
     "type": "مانها",
+    "status": "مستمر",
+    "rating": ""
+  },
+  {
+    "id": "necromancer-i-can-summon-a-million-skeletons-with-a-wave-of-my-hand",
+    "title": "Necromancer I Can Summon A Million Skeletons With A Wave Of My Hand",
+    "url": "https://mangatime.org/manga/necromancer-i-can-summon-a-million-skeletons-with-a-wave-of-my-hand",
+    "cover_url": "https://mangatime.org/uploads/series/6a47768fb0e23e715bf47c6b.jpg",
+    "type": "مانهوا",
     "status": "مستمر",
     "rating": ""
   },
@@ -3593,15 +3602,6 @@
     "rating": "10.0"
   },
   {
-    "id": "necromancer-i-can-summon-a-million-skeletons-with-a-wave-of-my-hand",
-    "title": "Necromancer I Can Summon A Million Skeletons With A Wave Of My Hand",
-    "url": "https://mangatime.org/manga/necromancer-i-can-summon-a-million-skeletons-with-a-wave-of-my-hand",
-    "cover_url": "https://mangatime.org/uploads/series/6a47768fb0e23e715bf47c6b.jpg",
-    "type": "مانهوا",
-    "status": "مستمر",
-    "rating": ""
-  },
-  {
     "id": "stagtown",
     "title": "Stagtown",
     "url": "https://mangatime.org/manga/stagtown",
@@ -3620,20 +3620,20 @@
     "rating": ""
   },
   {
-    "id": "beyond-redemption",
-    "title": "Beyond Redemption",
-    "url": "https://mangatime.org/manga/beyond-redemption",
-    "cover_url": "https://mangatime.org/uploads/cover/697df75c0c5d340ac1541f88/2026/02/rlbowdof.webp",
-    "type": "مانها",
-    "status": "مستمر",
-    "rating": ""
-  },
-  {
     "id": "skeleton-soldier-couldnt-protect-the-dungeon",
     "title": "الجنديّ الهيكل العظميّ لم يستطع حماية الزنزانة",
     "url": "https://mangatime.org/manga/skeleton-soldier-couldnt-protect-the-dungeon",
     "cover_url": "https://mangatime.org/uploads/series/6a924a732a4d537e51d851af.jpg",
     "type": "مانهوا",
+    "status": "مستمر",
+    "rating": ""
+  },
+  {
+    "id": "beyond-redemption",
+    "title": "Beyond Redemption",
+    "url": "https://mangatime.org/manga/beyond-redemption",
+    "cover_url": "https://mangatime.org/uploads/cover/697df75c0c5d340ac1541f88/2026/02/rlbowdof.webp",
+    "type": "مانها",
     "status": "مستمر",
     "rating": ""
   },
@@ -3665,6 +3665,15 @@
     "rating": ""
   },
   {
+    "id": "pigpen",
+    "title": "زريبة الخنازير",
+    "url": "https://mangatime.org/manga/pigpen",
+    "cover_url": "https://mangatime.org/uploads/series/6a9363882a4d537e51e09cb8.jpg",
+    "type": "مانهوا",
+    "status": "مكتمل",
+    "rating": ""
+  },
+  {
     "id": "rookie-talent-agent-knows-it-all",
     "title": "Rookie Talent Agent Knows It All",
     "url": "https://mangatime.org/manga/rookie-talent-agent-knows-it-all",
@@ -3680,15 +3689,6 @@
     "cover_url": "https://mangatime.org/uploads/series/6a47d5175317dc1f4234fa58.jpg",
     "type": "مانهوا",
     "status": "مستمر",
-    "rating": ""
-  },
-  {
-    "id": "pigpen",
-    "title": "زريبة الخنازير",
-    "url": "https://mangatime.org/manga/pigpen",
-    "cover_url": "https://mangatime.org/uploads/series/6a9363882a4d537e51e09cb8.jpg",
-    "type": "مانهوا",
-    "status": "مكتمل",
     "rating": ""
   },
   {
@@ -3710,20 +3710,20 @@
     "rating": "9.0"
   },
   {
-    "id": "one-day-i-became-a-hatchling",
-    "title": "One Day, I Became a Hatchling",
-    "url": "https://mangatime.org/manga/one-day-i-became-a-hatchling",
-    "cover_url": "https://mangatime.org/uploads/series/6a0e764f8a7b9c613be3f89b.webp",
-    "type": "مانهوا",
-    "status": "مستمر",
-    "rating": ""
-  },
-  {
     "id": "my-brother-is-a-mad-dog",
     "title": "My Brother Is a Mad Dog",
     "url": "https://mangatime.org/manga/my-brother-is-a-mad-dog",
     "cover_url": "https://mangatime.org/uploads/series/6a6c4b74a340283bc5325782.jpg?v=20260731T102539Z",
     "type": "مانغا",
+    "status": "مستمر",
+    "rating": ""
+  },
+  {
+    "id": "one-day-i-became-a-hatchling",
+    "title": "One Day, I Became a Hatchling",
+    "url": "https://mangatime.org/manga/one-day-i-became-a-hatchling",
+    "cover_url": "https://mangatime.org/uploads/series/6a0e764f8a7b9c613be3f89b.webp",
+    "type": "مانهوا",
     "status": "مستمر",
     "rating": ""
   },
@@ -3734,6 +3734,15 @@
     "cover_url": "https://mangatime.org/uploads/series/6a90a06a2aa10e5ac727952f.jpg",
     "type": "مانهوا",
     "status": "مكتمل",
+    "rating": ""
+  },
+  {
+    "id": "the-descent-of-the-demonic-master",
+    "title": "نزول سيّد الشياطين",
+    "url": "https://mangatime.org/manga/the-descent-of-the-demonic-master",
+    "cover_url": "https://mangatime.org/uploads/series/6a9293b32a4d537e51dadb93.jpg",
+    "type": "مانهوا",
+    "status": "متوقف مؤقتاً",
     "rating": ""
   },
   {
@@ -3755,21 +3764,21 @@
     "rating": ""
   },
   {
-    "id": "touhou-ibara-kasen-wild-and-horned-hermir",
-    "title": "Touhou Ibara kasen - wild and horned hermir",
-    "url": "https://mangatime.org/manga/touhou-ibara-kasen-wild-and-horned-hermir",
-    "cover_url": "https://mangatime.org/uploads/series/697df7640c5d340ac154420a/cover.webp",
-    "type": "مانغا",
-    "status": "مستمر",
-    "rating": ""
-  },
-  {
     "id": "medical-return",
     "title": "العودة الطبّية",
     "url": "https://mangatime.org/manga/medical-return",
     "cover_url": "https://mangatime.org/uploads/series/6a97359f8f02caf731efbb38.png",
     "type": "مانهوا",
     "status": "مكتمل",
+    "rating": ""
+  },
+  {
+    "id": "touhou-ibara-kasen-wild-and-horned-hermir",
+    "title": "Touhou Ibara kasen - wild and horned hermir",
+    "url": "https://mangatime.org/manga/touhou-ibara-kasen-wild-and-horned-hermir",
+    "cover_url": "https://mangatime.org/uploads/series/697df7640c5d340ac154420a/cover.webp",
+    "type": "مانغا",
+    "status": "مستمر",
     "rating": ""
   },
   {
@@ -3824,15 +3833,6 @@
     "cover_url": "https://mangatime.org/uploads/series/6a90c8de79a4476e1fc02e67.jpg",
     "type": "مانهوا",
     "status": "مستمر",
-    "rating": ""
-  },
-  {
-    "id": "the-descent-of-the-demonic-master",
-    "title": "نزول سيّد الشياطين",
-    "url": "https://mangatime.org/manga/the-descent-of-the-demonic-master",
-    "cover_url": "https://mangatime.org/uploads/series/6a9293b32a4d537e51dadb93.jpg",
-    "type": "مانهوا",
-    "status": "متوقف مؤقتاً",
     "rating": ""
   },
   {
@@ -3899,6 +3899,15 @@
     "rating": ""
   },
   {
+    "id": "tokyo-ghoul-re",
+    "title": "طوكيو غول: ري",
+    "url": "https://mangatime.org/manga/tokyo-ghoul-re",
+    "cover_url": "https://mangatime.org/uploads/series/6a87c066253a2ecb3d53a274.png",
+    "type": "مانغا",
+    "status": "مكتمل",
+    "rating": ""
+  },
+  {
     "id": "tonari-no-kaibutsu-kun",
     "title": "وحشي الصغير",
     "url": "https://mangatime.org/manga/tonari-no-kaibutsu-kun",
@@ -3935,15 +3944,6 @@
     "rating": ""
   },
   {
-    "id": "tokyo-ghoul-re",
-    "title": "طوكيو غول: ري",
-    "url": "https://mangatime.org/manga/tokyo-ghoul-re",
-    "cover_url": "https://mangatime.org/uploads/series/6a87c066253a2ecb3d53a274.png",
-    "type": "مانغا",
-    "status": "مكتمل",
-    "rating": ""
-  },
-  {
     "id": "hanyo-no-yashahime",
     "title": "Hanyo no Yashahime",
     "url": "https://mangatime.org/manga/hanyo-no-yashahime",
@@ -3953,13 +3953,13 @@
     "rating": ""
   },
   {
-    "id": "rise-of-the-sect-master",
-    "title": "Rise of the Sect Master",
-    "url": "https://mangatime.org/manga/rise-of-the-sect-master",
-    "cover_url": "https://mangatime.org/uploads/series/69bb9419c30314ce8f595a02.webp",
-    "type": "مانها",
-    "status": "مستمر",
-    "rating": ""
+    "id": "im-a-villainess-but-im-good-at-cooking",
+    "title": "أنا شريرة، لكنني بارعة في الطهي",
+    "url": "https://mangatime.org/manga/im-a-villainess-but-im-good-at-cooking",
+    "cover_url": "https://mangatime.org/uploads/series/6a5985b1173c894644b9844b.webp",
+    "type": "مانهوا",
+    "status": "مكتمل",
+    "rating": "10.0"
   },
   {
     "id": "nocturne",
@@ -3969,6 +3969,15 @@
     "type": "مانهوا",
     "status": "مستمر",
     "rating": "8.0"
+  },
+  {
+    "id": "rise-of-the-sect-master",
+    "title": "Rise of the Sect Master",
+    "url": "https://mangatime.org/manga/rise-of-the-sect-master",
+    "cover_url": "https://mangatime.org/uploads/series/69bb9419c30314ce8f595a02.webp",
+    "type": "مانها",
+    "status": "مستمر",
+    "rating": ""
   },
   {
     "id": "fantasy-enlistment-squad",
@@ -3998,13 +4007,13 @@
     "rating": ""
   },
   {
-    "id": "im-a-villainess-but-im-good-at-cooking",
-    "title": "أنا شريرة، لكنني بارعة في الطهي",
-    "url": "https://mangatime.org/manga/im-a-villainess-but-im-good-at-cooking",
-    "cover_url": "https://mangatime.org/uploads/series/6a5985b1173c894644b9844b.webp",
-    "type": "مانهوا",
-    "status": "مكتمل",
-    "rating": "10.0"
+    "id": "if-you-like-someone-you-become-stupid",
+    "title": "If You Like Someone, You Become Stupid",
+    "url": "https://mangatime.org/manga/if-you-like-someone-you-become-stupid",
+    "cover_url": "https://mangatime.org/uploads/series/6a0a4f3069517cd60c605add.webp",
+    "type": "مانغا",
+    "status": "مستمر",
+    "rating": ""
   },
   {
     "id": "shinobi-undercover",
@@ -4025,11 +4034,11 @@
     "rating": ""
   },
   {
-    "id": "if-you-like-someone-you-become-stupid",
-    "title": "If You Like Someone, You Become Stupid",
-    "url": "https://mangatime.org/manga/if-you-like-someone-you-become-stupid",
-    "cover_url": "https://mangatime.org/uploads/series/6a0a4f3069517cd60c605add.webp",
-    "type": "مانغا",
+    "id": "ovcharka",
+    "title": "Ovcharka",
+    "url": "https://mangatime.org/manga/ovcharka",
+    "cover_url": "https://mangatime.org/uploads/series/69b620d730782886d71186db.webp",
+    "type": "مانهوا",
     "status": "مستمر",
     "rating": ""
   },
@@ -4052,19 +4061,19 @@
     "rating": ""
   },
   {
-    "id": "the-former-supreme",
-    "title": "The Former Supreme",
-    "url": "https://mangatime.org/manga/the-former-supreme",
-    "cover_url": "https://mangatime.org/uploads/series/6a6c2f5ba340283bc531fcb7.jpg?v=20260731T102539Z",
+    "id": "the-regressed-sword-saint-s-magic-theory",
+    "title": "The Regressed Sword Saint’s Magic Theory",
+    "url": "https://mangatime.org/manga/the-regressed-sword-saint-s-magic-theory",
+    "cover_url": "https://mangatime.org/uploads/series/6a5131b8cdc3a9a86891680b.jpg",
     "type": "مانغا",
     "status": "مستمر",
     "rating": ""
   },
   {
-    "id": "the-regressed-sword-saint-s-magic-theory",
-    "title": "The Regressed Sword Saint’s Magic Theory",
-    "url": "https://mangatime.org/manga/the-regressed-sword-saint-s-magic-theory",
-    "cover_url": "https://mangatime.org/uploads/series/6a5131b8cdc3a9a86891680b.jpg",
+    "id": "the-former-supreme",
+    "title": "The Former Supreme",
+    "url": "https://mangatime.org/manga/the-former-supreme",
+    "cover_url": "https://mangatime.org/uploads/series/6a6c2f5ba340283bc531fcb7.jpg?v=20260731T102539Z",
     "type": "مانغا",
     "status": "مستمر",
     "rating": ""
@@ -4083,15 +4092,6 @@
     "title": "هل من السيئ أن يكون البطل مهووساً بتقمص الأدوار؟",
     "url": "https://mangatime.org/manga/is-it-bad-that-the-main-characters-a-roleplayer",
     "cover_url": "https://mangatime.org/uploads/series/6a5985a3173c894644b9840b.webp",
-    "type": "مانهوا",
-    "status": "مستمر",
-    "rating": ""
-  },
-  {
-    "id": "ovcharka",
-    "title": "Ovcharka",
-    "url": "https://mangatime.org/manga/ovcharka",
-    "cover_url": "https://mangatime.org/uploads/series/69b620d730782886d71186db.webp",
     "type": "مانهوا",
     "status": "مستمر",
     "rating": ""
@@ -4241,15 +4241,6 @@
     "rating": ""
   },
   {
-    "id": "the-invincible-man",
-    "title": "Jimi na Ojisan, Jitsu wa Eiyuu datta. ~Jikaku ga Nai Mama Musou Shitetara, Mei no Dungeon Haishin de Sarasareteta you desu~",
-    "url": "https://mangatime.org/manga/the-invincible-man",
-    "cover_url": "https://mangatime.org/uploads/series/6a6c1064a340283bc5319e74.jpg",
-    "type": "مانغا",
-    "status": "مستمر",
-    "rating": ""
-  },
-  {
     "id": "the-divine-eyed-grimoire-mage",
     "title": "The Divine-Eyed Grimoire Mage",
     "url": "https://mangatime.org/manga/the-divine-eyed-grimoire-mage",
@@ -4259,11 +4250,11 @@
     "rating": ""
   },
   {
-    "id": "the-player-purge-when-the-world-becomes-a-game",
-    "title": "The Player Purge: When the World Becomes a Game",
-    "url": "https://mangatime.org/manga/the-player-purge-when-the-world-becomes-a-game",
-    "cover_url": "https://mangatime.org/uploads/series/697df8350c5d340ac154ccea/cover.webp",
-    "type": "مانها",
+    "id": "the-invincible-man",
+    "title": "Jimi na Ojisan, Jitsu wa Eiyuu datta. ~Jikaku ga Nai Mama Musou Shitetara, Mei no Dungeon Haishin de Sarasareteta you desu~",
+    "url": "https://mangatime.org/manga/the-invincible-man",
+    "cover_url": "https://mangatime.org/uploads/series/6a6c1064a340283bc5319e74.jpg",
+    "type": "مانغا",
     "status": "مستمر",
     "rating": ""
   },
@@ -4277,11 +4268,20 @@
     "rating": ""
   },
   {
-    "id": "monster-eater",
-    "title": "آكل الوحوش",
-    "url": "https://mangatime.org/manga/monster-eater",
-    "cover_url": "https://mangatime.org/uploads/series/6a5985cc173c894644b984c3.webp",
-    "type": "مانغا",
+    "id": "the-player-purge-when-the-world-becomes-a-game",
+    "title": "The Player Purge: When the World Becomes a Game",
+    "url": "https://mangatime.org/manga/the-player-purge-when-the-world-becomes-a-game",
+    "cover_url": "https://mangatime.org/uploads/series/697df8350c5d340ac154ccea/cover.webp",
+    "type": "مانها",
+    "status": "مستمر",
+    "rating": ""
+  },
+  {
+    "id": "top-1-fighting-tutoring",
+    "title": "دروس قتال من الدرجة الأولى",
+    "url": "https://mangatime.org/manga/top-1-fighting-tutoring",
+    "cover_url": "https://mangatime.org/uploads/series/6a5985b2173c894644b9844d.webp",
+    "type": "مانهوا",
     "status": "مستمر",
     "rating": ""
   },
@@ -4304,20 +4304,20 @@
     "rating": ""
   },
   {
-    "id": "battle-of-the-six-realms",
-    "title": "Battle of the Six Realms",
-    "url": "https://mangatime.org/manga/battle-of-the-six-realms",
-    "cover_url": "https://mangatime.org/uploads/cover/697df75c0c5d340ac1541f88/2026/02/npw85pd9.jpg",
+    "id": "monster-eater",
+    "title": "آكل الوحوش",
+    "url": "https://mangatime.org/manga/monster-eater",
+    "cover_url": "https://mangatime.org/uploads/series/6a5985cc173c894644b984c3.webp",
     "type": "مانغا",
     "status": "مستمر",
     "rating": ""
   },
   {
-    "id": "top-1-fighting-tutoring",
-    "title": "دروس قتال من الدرجة الأولى",
-    "url": "https://mangatime.org/manga/top-1-fighting-tutoring",
-    "cover_url": "https://mangatime.org/uploads/series/6a5985b2173c894644b9844d.webp",
-    "type": "مانهوا",
+    "id": "battle-of-the-six-realms",
+    "title": "Battle of the Six Realms",
+    "url": "https://mangatime.org/manga/battle-of-the-six-realms",
+    "cover_url": "https://mangatime.org/uploads/cover/697df75c0c5d340ac1541f88/2026/02/npw85pd9.jpg",
+    "type": "مانغا",
     "status": "مستمر",
     "rating": ""
   },
@@ -4421,15 +4421,6 @@
     "rating": "8.0"
   },
   {
-    "id": "the-classmate",
-    "title": "The Classmate",
-    "url": "https://mangatime.org/manga/the-classmate",
-    "cover_url": "https://mangatime.org/uploads/series/6a3244898346caf8a27cab7d/cover.jpg",
-    "type": "مانهوا",
-    "status": "مستمر",
-    "rating": "5.0"
-  },
-  {
     "id": "i-regressed-but-the-world-didnt-end",
     "title": "I Regressed, but the World didn’t End",
     "url": "https://mangatime.org/manga/i-regressed-but-the-world-didnt-end",
@@ -4439,13 +4430,13 @@
     "rating": ""
   },
   {
-    "id": "muslim-manga-club",
-    "title": "Muslim Manga Club",
-    "url": "https://mangatime.org/manga/muslim-manga-club",
-    "cover_url": "https://mangatime.org/uploads/series/697df7d70c5d340ac15489bc/cover.webp",
+    "id": "the-classmate",
+    "title": "The Classmate",
+    "url": "https://mangatime.org/manga/the-classmate",
+    "cover_url": "https://mangatime.org/uploads/series/6a3244898346caf8a27cab7d/cover.jpg",
     "type": "مانهوا",
     "status": "مستمر",
-    "rating": ""
+    "rating": "5.0"
   },
   {
     "id": "new-chronicles-of-goguryeo",
@@ -4457,19 +4448,10 @@
     "rating": "10.0"
   },
   {
-    "id": "on-the-way-to-meet-mom",
-    "title": "On the Way to Meet Mom",
-    "url": "https://mangatime.org/manga/on-the-way-to-meet-mom",
-    "cover_url": "https://mangatime.org/uploads/series/6a47ee165317dc1f42355e8b.jpg",
-    "type": "مانهوا",
-    "status": "مستمر",
-    "rating": "5.5"
-  },
-  {
-    "id": "sichuans-supreme-king",
-    "title": "Sichuans Supreme King",
-    "url": "https://mangatime.org/manga/sichuans-supreme-king",
-    "cover_url": "https://mangatime.org/uploads/series/6a6c5768a340283bc53284c2.jpeg",
+    "id": "muslim-manga-club",
+    "title": "Muslim Manga Club",
+    "url": "https://mangatime.org/manga/muslim-manga-club",
+    "cover_url": "https://mangatime.org/uploads/series/697df7d70c5d340ac15489bc/cover.webp",
     "type": "مانهوا",
     "status": "مستمر",
     "rating": ""
@@ -4484,6 +4466,33 @@
     "rating": "8.0"
   },
   {
+    "id": "on-the-way-to-meet-mom",
+    "title": "On the Way to Meet Mom",
+    "url": "https://mangatime.org/manga/on-the-way-to-meet-mom",
+    "cover_url": "https://mangatime.org/uploads/series/6a47ee165317dc1f42355e8b.jpg",
+    "type": "مانهوا",
+    "status": "مستمر",
+    "rating": "5.5"
+  },
+  {
+    "id": "gosu",
+    "title": "غوسو — الأستاذ",
+    "url": "https://mangatime.org/manga/gosu",
+    "cover_url": "https://mangatime.org/uploads/series/6a92b16c2a4d537e51dbded7.png",
+    "type": "مانهوا",
+    "status": "مكتمل",
+    "rating": ""
+  },
+  {
+    "id": "sichuans-supreme-king",
+    "title": "Sichuans Supreme King",
+    "url": "https://mangatime.org/manga/sichuans-supreme-king",
+    "cover_url": "https://mangatime.org/uploads/series/6a6c5768a340283bc53284c2.jpeg",
+    "type": "مانهوا",
+    "status": "مستمر",
+    "rating": ""
+  },
+  {
     "id": "hero-killer",
     "title": "Hero Killer",
     "url": "https://mangatime.org/manga/hero-killer",
@@ -4493,15 +4502,6 @@
     "rating": "1.0"
   },
   {
-    "id": "lalins-curse",
-    "title": "Lalin's Curse",
-    "url": "https://mangatime.org/manga/lalins-curse",
-    "cover_url": "https://mangatime.org/uploads/series/6a476550b0e23e715bf44e1f.jpg",
-    "type": "ويب تون",
-    "status": "مستمر",
-    "rating": "10.0"
-  },
-  {
     "id": "third-rate-martial-family-becomes-the-best-under-heaven",
     "title": "عائلة قتالية من الدرجة الثالثة تصير الأولى تحت السماء",
     "url": "https://mangatime.org/manga/third-rate-martial-family-becomes-the-best-under-heaven",
@@ -4509,6 +4509,15 @@
     "type": "مانهوا",
     "status": "مستمر",
     "rating": "8.5"
+  },
+  {
+    "id": "lalins-curse",
+    "title": "Lalin's Curse",
+    "url": "https://mangatime.org/manga/lalins-curse",
+    "cover_url": "https://mangatime.org/uploads/series/6a476550b0e23e715bf44e1f.jpg",
+    "type": "ويب تون",
+    "status": "مستمر",
+    "rating": "10.0"
   },
   {
     "id": "above-the-great-dao",
@@ -4526,15 +4535,6 @@
     "cover_url": "https://mangatime.org/uploads/series/697df82b0c5d340ac154c477/cover.webp",
     "type": "مانهوا",
     "status": "مستمر",
-    "rating": ""
-  },
-  {
-    "id": "gosu",
-    "title": "غوسو — الأستاذ",
-    "url": "https://mangatime.org/manga/gosu",
-    "cover_url": "https://mangatime.org/uploads/series/6a92b16c2a4d537e51dbded7.png",
-    "type": "مانهوا",
-    "status": "مكتمل",
     "rating": ""
   },
   {
@@ -4574,6 +4574,15 @@
     "rating": "1.0"
   },
   {
+    "id": "jojo-no-kimyou-na-bouken-part-1-phantom-blood",
+    "title": "JoJo No Kimyou Na Bouken Part 1: Phantom Blood",
+    "url": "https://mangatime.org/manga/jojo-no-kimyou-na-bouken-part-1-phantom-blood",
+    "cover_url": "https://mangatime.org/uploads/series/6a189aa740fefe79fcbdb1d5.webp",
+    "type": "مانغا",
+    "status": "مكتمل",
+    "rating": "10.0"
+  },
+  {
     "id": "a-match-with-me",
     "title": "A Match with Me",
     "url": "https://mangatime.org/manga/a-match-with-me",
@@ -4610,15 +4619,6 @@
     "rating": ""
   },
   {
-    "id": "jojo-no-kimyou-na-bouken-part-1-phantom-blood",
-    "title": "JoJo No Kimyou Na Bouken Part 1: Phantom Blood",
-    "url": "https://mangatime.org/manga/jojo-no-kimyou-na-bouken-part-1-phantom-blood",
-    "cover_url": "https://mangatime.org/uploads/series/6a189aa740fefe79fcbdb1d5.webp",
-    "type": "مانغا",
-    "status": "مكتمل",
-    "rating": "10.0"
-  },
-  {
     "id": "centuria",
     "title": "Centuria",
     "url": "https://mangatime.org/manga/centuria",
@@ -4633,6 +4633,15 @@
     "url": "https://mangatime.org/manga/kimi-wa-yotsuba-no-clover",
     "cover_url": "https://mangatime.org/uploads/series/6a5985b5173c894644b9845d.webp",
     "type": "مانغا",
+    "status": "مستمر",
+    "rating": ""
+  },
+  {
+    "id": "system-universe",
+    "title": "System Universe",
+    "url": "https://mangatime.org/manga/system-universe",
+    "cover_url": "https://mangatime.org/uploads/series/697df83b0c5d340ac154d091/cover.webp",
+    "type": "ويب تون",
     "status": "مستمر",
     "rating": ""
   },
@@ -4664,11 +4673,11 @@
     "rating": ""
   },
   {
-    "id": "system-universe",
-    "title": "System Universe",
-    "url": "https://mangatime.org/manga/system-universe",
-    "cover_url": "https://mangatime.org/uploads/series/697df83b0c5d340ac154d091/cover.webp",
-    "type": "ويب تون",
+    "id": "overgeared",
+    "title": "أوفرغيرد",
+    "url": "https://mangatime.org/manga/overgeared",
+    "cover_url": "https://mangatime.org/uploads/series/6a8f5babf1a5e87af68c564b.jpg",
+    "type": "مانهوا",
     "status": "مستمر",
     "rating": ""
   },
@@ -4700,6 +4709,15 @@
     "rating": ""
   },
   {
+    "id": "efforts-never-betray",
+    "title": "Efforts Never Betray",
+    "url": "https://mangatime.org/manga/efforts-never-betray",
+    "cover_url": "https://mangatime.org/uploads/series/6a6c94065a737ad9202e4ef6.jpg",
+    "type": "مانهوا",
+    "status": "مكتمل",
+    "rating": ""
+  },
+  {
     "id": "jojos-bizarre-adventure-part-3-stardust-crusaders-official-colored",
     "title": "JoJo’s Bizarre Adventure: part 3 stardust crusaders (Official colored)",
     "url": "https://mangatime.org/manga/jojos-bizarre-adventure-part-3-stardust-crusaders-official-colored",
@@ -4707,6 +4725,15 @@
     "type": "مانغا",
     "status": "مكتمل",
     "rating": "10.0"
+  },
+  {
+    "id": "the-swordmaster-in-a-magic-supremacy-world",
+    "title": "The Swordmaster in a Magic-Supremacy World",
+    "url": "https://mangatime.org/manga/the-swordmaster-in-a-magic-supremacy-world",
+    "cover_url": "https://mangatime.org/uploads/series/69d4f3490472419cc8ab04d2.webp",
+    "type": "مانهوا",
+    "status": "مستمر",
+    "rating": ""
   },
   {
     "id": "destined-murderer",
@@ -4718,22 +4745,13 @@
     "rating": ""
   },
   {
-    "id": "efforts-never-betray",
-    "title": "Efforts Never Betray",
-    "url": "https://mangatime.org/manga/efforts-never-betray",
-    "cover_url": "https://mangatime.org/uploads/series/6a6c94065a737ad9202e4ef6.jpg",
-    "type": "مانهوا",
-    "status": "مكتمل",
-    "rating": ""
-  },
-  {
-    "id": "the-swordmaster-in-a-magic-supremacy-world",
-    "title": "The Swordmaster in a Magic-Supremacy World",
-    "url": "https://mangatime.org/manga/the-swordmaster-in-a-magic-supremacy-world",
-    "cover_url": "https://mangatime.org/uploads/series/69d4f3490472419cc8ab04d2.webp",
-    "type": "مانهوا",
+    "id": "wind-breaker-it5lo",
+    "title": "Wind Breaker",
+    "url": "https://mangatime.org/manga/wind-breaker-it5lo",
+    "cover_url": "https://mangatime.org/uploads/cover/6aaa4738a67da02748a6ccd8/2026/09/9rygoqpv.jpg",
+    "type": "مانغا",
     "status": "مستمر",
-    "rating": ""
+    "rating": "7.0"
   },
   {
     "id": "i-alone-am-an-ex-class-summoner",
@@ -4772,12 +4790,21 @@
     "rating": ""
   },
   {
-    "id": "overgeared",
-    "title": "أوفرغيرد",
-    "url": "https://mangatime.org/manga/overgeared",
-    "cover_url": "https://mangatime.org/uploads/series/6a8f5babf1a5e87af68c564b.jpg",
-    "type": "مانهوا",
+    "id": "astral-pet-store",
+    "title": "متجر الوحوش الأليفة الخارق",
+    "url": "https://mangatime.org/manga/astral-pet-store",
+    "cover_url": "https://mangatime.org/uploads/series/6a8d7cd5f1a5e87af679df6a.png",
+    "type": "مانها",
     "status": "مستمر",
+    "rating": ""
+  },
+  {
+    "id": "hard-carry-support",
+    "title": "الداعم الذي يحمل الفريق",
+    "url": "https://mangatime.org/manga/hard-carry-support",
+    "cover_url": "https://mangatime.org/uploads/series/6a5985ad173c894644b98437.webp",
+    "type": "مانهوا",
+    "status": "مكتمل",
     "rating": ""
   },
   {
@@ -4790,15 +4817,6 @@
     "rating": "8.0"
   },
   {
-    "id": "hard-carry-support",
-    "title": "الداعم الذي يحمل الفريق",
-    "url": "https://mangatime.org/manga/hard-carry-support",
-    "cover_url": "https://mangatime.org/uploads/series/6a5985ad173c894644b98437.webp",
-    "type": "مانهوا",
-    "status": "مكتمل",
-    "rating": ""
-  },
-  {
     "id": "the-marshal-king",
     "title": "The Marshal King",
     "url": "https://mangatime.org/manga/the-marshal-king",
@@ -4808,19 +4826,10 @@
     "rating": ""
   },
   {
-    "id": "astral-pet-store",
-    "title": "متجر الوحوش الأليفة الخارق",
-    "url": "https://mangatime.org/manga/astral-pet-store",
-    "cover_url": "https://mangatime.org/uploads/series/6a8d7cd5f1a5e87af679df6a.png",
-    "type": "مانها",
-    "status": "مستمر",
-    "rating": ""
-  },
-  {
-    "id": "shadow-master-a-legend-of-unrivaled-power-under-the-moonlight",
-    "title": "Shadow Master – A Legend of Unrivaled Power Under the Moonlight",
-    "url": "https://mangatime.org/manga/shadow-master-a-legend-of-unrivaled-power-under-the-moonlight",
-    "cover_url": "https://mangatime.org/uploads/series/6a0bcdf869517cd60c61a10c.webp",
+    "id": "living-with-an-aberrant-lifeform-in-my-body",
+    "title": "Living with an Aberrant Lifeform in My Body",
+    "url": "https://mangatime.org/manga/living-with-an-aberrant-lifeform-in-my-body",
+    "cover_url": "https://mangatime.org/uploads/series/69c7468c0472419cc8a90a3c.webp",
     "type": "مانهوا",
     "status": "مستمر",
     "rating": ""
@@ -4835,10 +4844,10 @@
     "rating": ""
   },
   {
-    "id": "living-with-an-aberrant-lifeform-in-my-body",
-    "title": "Living with an Aberrant Lifeform in My Body",
-    "url": "https://mangatime.org/manga/living-with-an-aberrant-lifeform-in-my-body",
-    "cover_url": "https://mangatime.org/uploads/series/69c7468c0472419cc8a90a3c.webp",
+    "id": "shadow-master-a-legend-of-unrivaled-power-under-the-moonlight",
+    "title": "Shadow Master – A Legend of Unrivaled Power Under the Moonlight",
+    "url": "https://mangatime.org/manga/shadow-master-a-legend-of-unrivaled-power-under-the-moonlight",
+    "cover_url": "https://mangatime.org/uploads/series/6a0bcdf869517cd60c61a10c.webp",
     "type": "مانهوا",
     "status": "مستمر",
     "rating": ""
@@ -4862,10 +4871,28 @@
     "rating": ""
   },
   {
+    "id": "double-kill",
+    "title": "double kill",
+    "url": "https://mangatime.org/manga/double-kill",
+    "cover_url": "https://mangatime.org/uploads/cover/6a46bc13c47627a4fdb7c8d1/2026/07/pjoqzldq.jpg",
+    "type": "ويب تون",
+    "status": "متوقف مؤقتاً",
+    "rating": "10.0"
+  },
+  {
     "id": "midwood",
     "title": "Midwood",
     "url": "https://mangatime.org/manga/midwood",
     "cover_url": "https://mangatime.org/uploads/series/6a6eb2d45f5bf457f9c84847.jpg",
+    "type": "مانهوا",
+    "status": "مستمر",
+    "rating": ""
+  },
+  {
+    "id": "i-became-a-transcendent-class-hunter-with-100000x-experience",
+    "title": "I Became A Transcendent Class Hunter With 100000x Experience",
+    "url": "https://mangatime.org/manga/i-became-a-transcendent-class-hunter-with-100000x-experience",
+    "cover_url": "https://mangatime.org/uploads/series/6a6c0262a340283bc531742f.jpg?v=20260731T102539Z",
     "type": "مانهوا",
     "status": "مستمر",
     "rating": ""
@@ -4880,13 +4907,13 @@
     "rating": ""
   },
   {
-    "id": "i-became-a-transcendent-class-hunter-with-100000x-experience",
-    "title": "I Became A Transcendent Class Hunter With 100000x Experience",
-    "url": "https://mangatime.org/manga/i-became-a-transcendent-class-hunter-with-100000x-experience",
-    "cover_url": "https://mangatime.org/uploads/series/6a6c0262a340283bc531742f.jpg?v=20260731T102539Z",
-    "type": "مانهوا",
+    "id": "wistorias-wand-and-sword",
+    "title": "ويستوريا: العصا والسيف",
+    "url": "https://mangatime.org/manga/wistorias-wand-and-sword",
+    "cover_url": "https://mangatime.org/uploads/series/6a978e728f02caf731faeaf2.jpg",
+    "type": "مانغا",
     "status": "مستمر",
-    "rating": ""
+    "rating": "7.0"
   },
   {
     "id": "ki-ni-natteru-hito-ga-otoko-ja-nakatta",
@@ -4907,15 +4934,6 @@
     "rating": ""
   },
   {
-    "id": "double-kill",
-    "title": "double kill",
-    "url": "https://mangatime.org/manga/double-kill",
-    "cover_url": "https://mangatime.org/uploads/cover/6a46bc13c47627a4fdb7c8d1/2026/07/pjoqzldq.jpg",
-    "type": "ويب تون",
-    "status": "متوقف مؤقتاً",
-    "rating": "10.0"
-  },
-  {
     "id": "backrooms",
     "title": "Backrooms",
     "url": "https://mangatime.org/manga/backrooms",
@@ -4925,13 +4943,13 @@
     "rating": ""
   },
   {
-    "id": "wistorias-wand-and-sword",
-    "title": "ويستوريا: العصا والسيف",
-    "url": "https://mangatime.org/manga/wistorias-wand-and-sword",
-    "cover_url": "https://mangatime.org/uploads/series/6a978e728f02caf731faeaf2.jpg",
+    "id": "dragon-ball-kakumei",
+    "title": "دراغون بول: الثورة",
+    "url": "https://mangatime.org/manga/dragon-ball-kakumei",
+    "cover_url": "https://mangatime.org/uploads/series/6a8a8ca5253a2ecb3d70d7f6.jpg",
     "type": "مانغا",
     "status": "مستمر",
-    "rating": "7.0"
+    "rating": "10.0"
   },
   {
     "id": "my-exclusive-tower-guide",
@@ -4970,20 +4988,20 @@
     "rating": ""
   },
   {
-    "id": "dragon-ball-kakumei",
-    "title": "دراغون بول: الثورة",
-    "url": "https://mangatime.org/manga/dragon-ball-kakumei",
-    "cover_url": "https://mangatime.org/uploads/series/6a8a8ca5253a2ecb3d70d7f6.jpg",
-    "type": "مانغا",
-    "status": "مستمر",
-    "rating": "10.0"
-  },
-  {
     "id": "soshite-setsuna-wa-kurikaesu",
     "title": "Soshite Setsuna wa Kurikaesu",
     "url": "https://mangatime.org/manga/soshite-setsuna-wa-kurikaesu",
     "cover_url": "https://mangatime.org/uploads/series/6a6c90635a737ad9202e3d5b.jpg",
     "type": "مانغا",
+    "status": "مستمر",
+    "rating": ""
+  },
+  {
+    "id": "the-ss-rank-freshman-at-dawn-academy",
+    "title": "The SS-Rank Freshman at Dawn Academy",
+    "url": "https://mangatime.org/manga/the-ss-rank-freshman-at-dawn-academy",
+    "cover_url": "https://mangatime.org/uploads/series/6a5212b8cdc3a9a8689c1538.webp",
+    "type": "مانها",
     "status": "مستمر",
     "rating": ""
   },
@@ -5006,10 +5024,28 @@
     "rating": ""
   },
   {
+    "id": "a-boy-raised-by-the-ultimate-dragon-wants-to-be-fostered-by-someone-stronger-than-his-parent",
+    "title": "A Boy Raised By The Ultimate Dragon Wants To Be Fostered By Someone Stronger Than His Parent",
+    "url": "https://mangatime.org/manga/a-boy-raised-by-the-ultimate-dragon-wants-to-be-fostered-by-someone-stronger-than-his-parent",
+    "cover_url": "https://mangatime.org/uploads/series/6a4a6414c794f51335785804.webp",
+    "type": "مانهوا",
+    "status": "مستمر",
+    "rating": ""
+  },
+  {
     "id": "i-became-the-successor-of-the-martial-king",
     "title": "I Became the Successor of the Martial king",
     "url": "https://mangatime.org/manga/i-became-the-successor-of-the-martial-king",
     "cover_url": "https://mangatime.org/uploads/series/697df81c0c5d340ac154b9ed/cover.webp",
+    "type": "مانهوا",
+    "status": "مستمر",
+    "rating": ""
+  },
+  {
+    "id": "copycat",
+    "title": "Copycat",
+    "url": "https://mangatime.org/manga/copycat",
+    "cover_url": "https://mangatime.org/uploads/series/6a47b95a5317dc1f423489a3.jpg",
     "type": "مانهوا",
     "status": "مستمر",
     "rating": ""
@@ -5024,29 +5060,11 @@
     "rating": ""
   },
   {
-    "id": "copycat",
-    "title": "Copycat",
-    "url": "https://mangatime.org/manga/copycat",
-    "cover_url": "https://mangatime.org/uploads/series/6a47b95a5317dc1f423489a3.jpg",
-    "type": "مانهوا",
-    "status": "مستمر",
-    "rating": ""
-  },
-  {
     "id": "tefuda-ga-oume-no-victoria",
     "title": "فيكتوريا صاحبة الأوراق الرابحة",
     "url": "https://mangatime.org/manga/tefuda-ga-oume-no-victoria",
     "cover_url": "https://mangatime.org/uploads/series/6a5985c0173c894644b9848f.webp",
     "type": "مانغا",
-    "status": "مستمر",
-    "rating": ""
-  },
-  {
-    "id": "a-boy-raised-by-the-ultimate-dragon-wants-to-be-fostered-by-someone-stronger-than-his-parent",
-    "title": "A Boy Raised By The Ultimate Dragon Wants To Be Fostered By Someone Stronger Than His Parent",
-    "url": "https://mangatime.org/manga/a-boy-raised-by-the-ultimate-dragon-wants-to-be-fostered-by-someone-stronger-than-his-parent",
-    "cover_url": "https://mangatime.org/uploads/series/6a4a6414c794f51335785804.webp",
-    "type": "مانهوا",
     "status": "مستمر",
     "rating": ""
   },
@@ -5078,11 +5096,11 @@
     "rating": ""
   },
   {
-    "id": "the-ss-rank-freshman-at-dawn-academy",
-    "title": "The SS-Rank Freshman at Dawn Academy",
-    "url": "https://mangatime.org/manga/the-ss-rank-freshman-at-dawn-academy",
-    "cover_url": "https://mangatime.org/uploads/series/6a5212b8cdc3a9a8689c1538.webp",
-    "type": "مانها",
+    "id": "margraves-bastard-son-was-the-emperor",
+    "title": "ابن المركيز غير الشرعيّ كان الإمبراطور",
+    "url": "https://mangatime.org/manga/margraves-bastard-son-was-the-emperor",
+    "cover_url": "https://mangatime.org/uploads/series/6a90ade179a4476e1fbe0f18.jpg",
+    "type": "مانهوا",
     "status": "مستمر",
     "rating": ""
   },
@@ -5123,20 +5141,20 @@
     "rating": ""
   },
   {
-    "id": "margraves-bastard-son-was-the-emperor",
-    "title": "ابن المركيز غير الشرعيّ كان الإمبراطور",
-    "url": "https://mangatime.org/manga/margraves-bastard-son-was-the-emperor",
-    "cover_url": "https://mangatime.org/uploads/series/6a90ade179a4476e1fbe0f18.jpg",
-    "type": "مانهوا",
-    "status": "مستمر",
-    "rating": ""
-  },
-  {
     "id": "frozen-hearts",
     "title": "القلوب المجمدة",
     "url": "https://mangatime.org/manga/frozen-hearts",
     "cover_url": "https://mangatime.org/uploads/series/6a6bc8aca340283bc5305a03.jpg",
     "type": "مانهوا",
+    "status": "مستمر",
+    "rating": ""
+  },
+  {
+    "id": "king-of-runes",
+    "title": "King of Runes",
+    "url": "https://mangatime.org/manga/king-of-runes",
+    "cover_url": "https://mangatime.org/uploads/series/697df7d50c5d340ac1548854/cover.jpg",
+    "type": "مانها",
     "status": "مستمر",
     "rating": ""
   },
@@ -5159,11 +5177,11 @@
     "rating": ""
   },
   {
-    "id": "king-of-runes",
-    "title": "King of Runes",
-    "url": "https://mangatime.org/manga/king-of-runes",
-    "cover_url": "https://mangatime.org/uploads/series/697df7d50c5d340ac1548854/cover.jpg",
-    "type": "مانها",
+    "id": "immortal-weakling",
+    "title": "Immortal Weakling",
+    "url": "https://mangatime.org/manga/immortal-weakling",
+    "cover_url": "https://mangatime.org/uploads/series/6a47eaa15317dc1f42354f95.jpg",
+    "type": "ويب تون",
     "status": "مستمر",
     "rating": ""
   },
@@ -5186,15 +5204,6 @@
     "rating": ""
   },
   {
-    "id": "immortal-weakling",
-    "title": "Immortal Weakling",
-    "url": "https://mangatime.org/manga/immortal-weakling",
-    "cover_url": "https://mangatime.org/uploads/series/6a47eaa15317dc1f42354f95.jpg",
-    "type": "ويب تون",
-    "status": "مستمر",
-    "rating": ""
-  },
-  {
     "id": "the-glutton-devourer-of-kings",
     "title": "The Glutton: Devourer of Kings",
     "url": "https://mangatime.org/manga/the-glutton-devourer-of-kings",
@@ -5213,13 +5222,13 @@
     "rating": ""
   },
   {
-    "id": "wind-breaker-it5lo",
-    "title": "Wind Breaker",
-    "url": "https://mangatime.org/manga/wind-breaker-it5lo",
-    "cover_url": "https://mangatime.org/uploads/cover/6aaa4738a67da02748a6ccd8/2026/09/9rygoqpv.jpg",
-    "type": "مانغا",
+    "id": "strongest-abandoned-sonn",
+    "title": "Strongest Abandoned Sonn",
+    "url": "https://mangatime.org/manga/strongest-abandoned-sonn",
+    "cover_url": "https://mangatime.org/uploads/series/6a6cb0b45a737ad9202ed890.webp",
+    "type": "مانها",
     "status": "مستمر",
-    "rating": "7.0"
+    "rating": ""
   },
   {
     "id": "yakusoku-no-neverland",
@@ -5229,15 +5238,6 @@
     "type": "مانغا",
     "status": "مكتمل",
     "rating": "5.0"
-  },
-  {
-    "id": "strongest-abandoned-sonn",
-    "title": "Strongest Abandoned Sonn",
-    "url": "https://mangatime.org/manga/strongest-abandoned-sonn",
-    "cover_url": "https://mangatime.org/uploads/series/6a6cb0b45a737ad9202ed890.webp",
-    "type": "مانها",
-    "status": "مستمر",
-    "rating": ""
   },
   {
     "id": "king-of-the-cartel",
@@ -5294,15 +5294,6 @@
     "rating": ""
   },
   {
-    "id": "fairy-cat",
-    "title": "Fairy Cat",
-    "url": "https://mangatime.org/manga/fairy-cat",
-    "cover_url": "https://mangatime.org/uploads/series/69dbd5400472419cc8ab4780.webp",
-    "type": "مانغا",
-    "status": "مستمر",
-    "rating": "7.0"
-  },
-  {
     "id": "world-saving-is-a-skill",
     "title": "إنقاذ العالم مهارة",
     "url": "https://mangatime.org/manga/world-saving-is-a-skill",
@@ -5312,12 +5303,30 @@
     "rating": ""
   },
   {
+    "id": "fairy-cat",
+    "title": "Fairy Cat",
+    "url": "https://mangatime.org/manga/fairy-cat",
+    "cover_url": "https://mangatime.org/uploads/series/69dbd5400472419cc8ab4780.webp",
+    "type": "مانغا",
+    "status": "مستمر",
+    "rating": "7.0"
+  },
+  {
     "id": "slam-dunk",
     "title": "سلام دانك",
     "url": "https://mangatime.org/manga/slam-dunk",
     "cover_url": "https://mangatime.org/uploads/series/6a880bd0253a2ecb3d55c39f.png",
     "type": "مانغا",
     "status": "مكتمل",
+    "rating": ""
+  },
+  {
+    "id": "the-return-of-the-disaster-class-hero",
+    "title": "The Return of the Disaster-Class Hero",
+    "url": "https://mangatime.org/manga/the-return-of-the-disaster-class-hero",
+    "cover_url": "https://mangatime.org/uploads/series/6a3c00690c740b3108618995.jpg",
+    "type": "مانهوا",
+    "status": "مستمر",
     "rating": ""
   },
   {
@@ -5334,15 +5343,6 @@
     "title": "Becoming king by Paying Cash",
     "url": "https://mangatime.org/manga/becoming-king-by-paying-cash",
     "cover_url": "https://mangatime.org/uploads/cover/697df75c0c5d340ac1541f88/2026/02/wob7tz9v.webp",
-    "type": "مانهوا",
-    "status": "مستمر",
-    "rating": ""
-  },
-  {
-    "id": "the-return-of-the-disaster-class-hero",
-    "title": "The Return of the Disaster-Class Hero",
-    "url": "https://mangatime.org/manga/the-return-of-the-disaster-class-hero",
-    "cover_url": "https://mangatime.org/uploads/series/6a3c00690c740b3108618995.jpg",
     "type": "مانهوا",
     "status": "مستمر",
     "rating": ""
@@ -5429,10 +5429,10 @@
     "rating": ""
   },
   {
-    "id": "bully-conquest",
-    "title": "Bully Conquest",
-    "url": "https://mangatime.org/manga/bully-conquest",
-    "cover_url": "https://mangatime.org/uploads/series/6a4a9ba0c794f5133578c5be.webp",
+    "id": "fire-dragon-king",
+    "title": "Fire Dragon King",
+    "url": "https://mangatime.org/manga/fire-dragon-king",
+    "cover_url": "https://mangatime.org/uploads/series/6a47190736d83daa2cb514f2-b676ea39d70a336a.jpg",
     "type": "مانهوا",
     "status": "مستمر",
     "rating": ""
@@ -5456,19 +5456,10 @@
     "rating": "10.0"
   },
   {
-    "id": "the-returning-student",
-    "title": "The returning student",
-    "url": "https://mangatime.org/manga/the-returning-student",
-    "cover_url": "https://mangatime.org/uploads/series/697df8410c5d340ac154d303/cover.webp",
-    "type": "مانهوا",
-    "status": "مستمر",
-    "rating": ""
-  },
-  {
-    "id": "fire-dragon-king",
-    "title": "Fire Dragon King",
-    "url": "https://mangatime.org/manga/fire-dragon-king",
-    "cover_url": "https://mangatime.org/uploads/series/6a47190736d83daa2cb514f2-b676ea39d70a336a.jpg",
+    "id": "bully-conquest",
+    "title": "Bully Conquest",
+    "url": "https://mangatime.org/manga/bully-conquest",
+    "cover_url": "https://mangatime.org/uploads/series/6a4a9ba0c794f5133578c5be.webp",
     "type": "مانهوا",
     "status": "مستمر",
     "rating": ""
@@ -5479,6 +5470,15 @@
     "url": "https://mangatime.org/manga/all-my-summoned-beasts-were-dark-creatures",
     "cover_url": "https://mangatime.org/uploads/series/6a6c6a64a340283bc532d535.jpg?v=20260731T110400Z",
     "type": "مانغا",
+    "status": "مستمر",
+    "rating": ""
+  },
+  {
+    "id": "the-returning-student",
+    "title": "The returning student",
+    "url": "https://mangatime.org/manga/the-returning-student",
+    "cover_url": "https://mangatime.org/uploads/series/697df8410c5d340ac154d303/cover.webp",
+    "type": "مانهوا",
     "status": "مستمر",
     "rating": ""
   },
@@ -5537,6 +5537,15 @@
     "rating": ""
   },
   {
+    "id": "sandmancer-of-the-scorched-desert",
+    "title": "Sandmancer of the Scorched Desert",
+    "url": "https://mangatime.org/manga/sandmancer-of-the-scorched-desert",
+    "cover_url": "https://mangatime.org/uploads/cover/697df75c0c5d340ac1541f88/2026/05/j3y6c4rt.webp",
+    "type": "مانهوا",
+    "status": "مستمر",
+    "rating": "9.3"
+  },
+  {
     "id": "legend-of-the-reincarnated-demon-king",
     "title": "Legend of the Reincarnated Demon king",
     "url": "https://mangatime.org/manga/legend-of-the-reincarnated-demon-king",
@@ -5553,15 +5562,6 @@
     "type": "مانها",
     "status": "مستمر",
     "rating": ""
-  },
-  {
-    "id": "sandmancer-of-the-scorched-desert",
-    "title": "Sandmancer of the Scorched Desert",
-    "url": "https://mangatime.org/manga/sandmancer-of-the-scorched-desert",
-    "cover_url": "https://mangatime.org/uploads/cover/697df75c0c5d340ac1541f88/2026/05/j3y6c4rt.webp",
-    "type": "مانهوا",
-    "status": "مستمر",
-    "rating": "9.3"
   },
   {
     "id": "genshin-impact",
@@ -5618,6 +5618,15 @@
     "rating": ""
   },
   {
+    "id": "yuan-zun",
+    "title": "يوان زون",
+    "url": "https://mangatime.org/manga/yuan-zun",
+    "cover_url": "https://mangatime.org/uploads/series/6a90c7a779a4476e1fc01489.jpg",
+    "type": "مانها",
+    "status": "مكتمل",
+    "rating": ""
+  },
+  {
     "id": "stone-house-on-jeju-island",
     "title": "Stone house on jeju island",
     "url": "https://mangatime.org/manga/stone-house-on-jeju-island",
@@ -5633,15 +5642,6 @@
     "cover_url": "https://mangatime.org/uploads/series/69bb9217c30314ce8f594a86.webp",
     "type": "مانغا",
     "status": "مستمر",
-    "rating": ""
-  },
-  {
-    "id": "yuan-zun",
-    "title": "يوان زون",
-    "url": "https://mangatime.org/manga/yuan-zun",
-    "cover_url": "https://mangatime.org/uploads/series/6a90c7a779a4476e1fc01489.jpg",
-    "type": "مانها",
-    "status": "مكتمل",
     "rating": ""
   },
   {
@@ -5704,6 +5704,15 @@
     "url": "https://mangatime.org/manga/sonic-the-comic",
     "cover_url": "https://mangatime.org/uploads/series/697df8350c5d340ac154cc49/cover.webp",
     "type": "كوميك",
+    "status": "مستمر",
+    "rating": ""
+  },
+  {
+    "id": "a-man-s-man",
+    "title": "A Man’s Man",
+    "url": "https://mangatime.org/manga/a-man-s-man",
+    "cover_url": "https://mangatime.org/uploads/cover/6a4fe60b262d941f2563c38e/2026/08/sihikfcp.png",
+    "type": "مانهوا",
     "status": "مستمر",
     "rating": ""
   },
@@ -5771,15 +5780,6 @@
     "rating": ""
   },
   {
-    "id": "a-man-s-man",
-    "title": "A Man’s Man",
-    "url": "https://mangatime.org/manga/a-man-s-man",
-    "cover_url": "https://mangatime.org/uploads/cover/6a4fe60b262d941f2563c38e/2026/08/sihikfcp.png",
-    "type": "مانهوا",
-    "status": "مستمر",
-    "rating": ""
-  },
-  {
     "id": "the-last-human",
     "title": "آخر البشر",
     "url": "https://mangatime.org/manga/the-last-human",
@@ -5805,6 +5805,15 @@
     "type": "مانغا",
     "status": "مستمر",
     "rating": ""
+  },
+  {
+    "id": "one-piece-episode-a",
+    "title": "ون بيس: قصة آيس",
+    "url": "https://mangatime.org/manga/one-piece-episode-a",
+    "cover_url": "https://mangatime.org/uploads/series/6a59859e173c894644b983f3.webp",
+    "type": "مانغا",
+    "status": "مكتمل",
+    "rating": "10.0"
   },
   {
     "id": "heroes-demons-villains",
@@ -5834,15 +5843,6 @@
     "rating": ""
   },
   {
-    "id": "one-piece-episode-a",
-    "title": "ون بيس: قصة آيس",
-    "url": "https://mangatime.org/manga/one-piece-episode-a",
-    "cover_url": "https://mangatime.org/uploads/series/6a59859e173c894644b983f3.webp",
-    "type": "مانغا",
-    "status": "مكتمل",
-    "rating": "10.0"
-  },
-  {
     "id": "naruto-the-whorl-within-the-spiral",
     "title": "Naruto: The Whorl within the Spiral",
     "url": "https://mangatime.org/manga/naruto-the-whorl-within-the-spiral",
@@ -5861,22 +5861,13 @@
     "rating": ""
   },
   {
-    "id": "deadlove",
-    "title": "Deadlove",
-    "url": "https://mangatime.org/manga/deadlove",
-    "cover_url": "https://mangatime.org/uploads/series/6a477e4ab0e23e715bf492b7.jpg",
+    "id": "immortal-s-way-of-life",
+    "title": "Immortal’s Way of Life",
+    "url": "https://mangatime.org/manga/immortal-s-way-of-life",
+    "cover_url": "https://mangatime.org/uploads/series/6a514298cdc3a9a86892561c.jpg",
     "type": "مانهوا",
     "status": "مستمر",
     "rating": ""
-  },
-  {
-    "id": "spoiler",
-    "title": "Spoiler",
-    "url": "https://mangatime.org/manga/spoiler",
-    "cover_url": "https://mangatime.org/uploads/series/69bef8e3bf5fdeab9af8fad9.webp",
-    "type": "مانهوا",
-    "status": "مستمر",
-    "rating": "9.0"
   },
   {
     "id": "the-case-study-of-vanitas",
@@ -5884,6 +5875,15 @@
     "url": "https://mangatime.org/manga/the-case-study-of-vanitas",
     "cover_url": "https://mangatime.org/uploads/series/6a97bc42f258c9e99a578eb8.jpg",
     "type": "مانغا",
+    "status": "مستمر",
+    "rating": ""
+  },
+  {
+    "id": "deadlove",
+    "title": "Deadlove",
+    "url": "https://mangatime.org/manga/deadlove",
+    "cover_url": "https://mangatime.org/uploads/series/6a477e4ab0e23e715bf492b7.jpg",
+    "type": "مانهوا",
     "status": "مستمر",
     "rating": ""
   },
@@ -5897,13 +5897,13 @@
     "rating": ""
   },
   {
-    "id": "immortal-s-way-of-life",
-    "title": "Immortal’s Way of Life",
-    "url": "https://mangatime.org/manga/immortal-s-way-of-life",
-    "cover_url": "https://mangatime.org/uploads/series/6a514298cdc3a9a86892561c.jpg",
+    "id": "spoiler",
+    "title": "Spoiler",
+    "url": "https://mangatime.org/manga/spoiler",
+    "cover_url": "https://mangatime.org/uploads/series/69bef8e3bf5fdeab9af8fad9.webp",
     "type": "مانهوا",
     "status": "مستمر",
-    "rating": ""
+    "rating": "9.0"
   },
   {
     "id": "blood-breaker",
@@ -5942,21 +5942,30 @@
     "rating": ""
   },
   {
-    "id": "night-fishing",
-    "title": "Night Fishing",
-    "url": "https://mangatime.org/manga/night-fishing",
-    "cover_url": "https://mangatime.org/uploads/series/6a6eb5885f5bf457f9c852d5.png",
-    "type": "مانهوا",
-    "status": "مكتمل",
-    "rating": ""
-  },
-  {
     "id": "mojuro",
     "title": "Mojuro",
     "url": "https://mangatime.org/manga/mojuro",
     "cover_url": "https://mangatime.org/uploads/series/697df82d0c5d340ac154c662/cover.webp",
     "type": "مانغا",
     "status": "مستمر",
+    "rating": ""
+  },
+  {
+    "id": "attack-on-titan-before-the-fall",
+    "title": "هجوم العمالقة: قبل السقوط",
+    "url": "https://mangatime.org/manga/attack-on-titan-before-the-fall",
+    "cover_url": "https://mangatime.org/uploads/series/6a8a0ba5253a2ecb3d6a58ac.jpg",
+    "type": "مانغا",
+    "status": "مكتمل",
+    "rating": ""
+  },
+  {
+    "id": "night-fishing",
+    "title": "Night Fishing",
+    "url": "https://mangatime.org/manga/night-fishing",
+    "cover_url": "https://mangatime.org/uploads/series/6a6eb5885f5bf457f9c852d5.png",
+    "type": "مانهوا",
+    "status": "مكتمل",
     "rating": ""
   },
   {
@@ -5996,12 +6005,12 @@
     "rating": ""
   },
   {
-    "id": "attack-on-titan-before-the-fall",
-    "title": "هجوم العمالقة: قبل السقوط",
-    "url": "https://mangatime.org/manga/attack-on-titan-before-the-fall",
-    "cover_url": "https://mangatime.org/uploads/series/6a8a0ba5253a2ecb3d6a58ac.jpg",
-    "type": "مانغا",
-    "status": "مكتمل",
+    "id": "to-hell-with-the-status-window",
+    "title": "إلى الجحيم مع نافذة الحالة",
+    "url": "https://mangatime.org/manga/to-hell-with-the-status-window",
+    "cover_url": "https://mangatime.org/uploads/series/6a5985a4173c894644b9840f.webp",
+    "type": "مانهوا",
+    "status": "مستمر",
     "rating": ""
   },
   {
@@ -6012,15 +6021,6 @@
     "type": "مانغا",
     "status": "مستمر",
     "rating": "1.0"
-  },
-  {
-    "id": "to-hell-with-the-status-window",
-    "title": "إلى الجحيم مع نافذة الحالة",
-    "url": "https://mangatime.org/manga/to-hell-with-the-status-window",
-    "cover_url": "https://mangatime.org/uploads/series/6a5985a4173c894644b9840f.webp",
-    "type": "مانهوا",
-    "status": "مستمر",
-    "rating": ""
   },
   {
     "id": "tokyo-ghoul",
@@ -6059,6 +6059,15 @@
     "rating": ""
   },
   {
+    "id": "the-tyrant-girl-neros-rebellion",
+    "title": "The Rebel of the Tyrant Noble House — Aster",
+    "url": "https://mangatime.org/manga/the-tyrant-girl-neros-rebellion",
+    "cover_url": "https://mangatime.org/uploads/series/6a6bf00ca340283bc5313852.jpg?v=20260731T102539Z",
+    "type": "مانهوا",
+    "status": "مستمر",
+    "rating": ""
+  },
+  {
     "id": "day-of-disaster",
     "title": "Day Of Disaster",
     "url": "https://mangatime.org/manga/day-of-disaster",
@@ -6091,15 +6100,6 @@
     "url": "https://mangatime.org/manga/holding-hands",
     "cover_url": "https://mangatime.org/uploads/series/697df8360c5d340ac154cd03/cover.webp",
     "type": "مانغا",
-    "status": "مستمر",
-    "rating": ""
-  },
-  {
-    "id": "the-tyrant-girl-neros-rebellion",
-    "title": "The Rebel of the Tyrant Noble House — Aster",
-    "url": "https://mangatime.org/manga/the-tyrant-girl-neros-rebellion",
-    "cover_url": "https://mangatime.org/uploads/series/6a6bf00ca340283bc5313852.jpg?v=20260731T102539Z",
-    "type": "مانهوا",
     "status": "مستمر",
     "rating": ""
   },
@@ -6176,6 +6176,15 @@
     "rating": ""
   },
   {
+    "id": "eldmia-ega-the-reincarnated-avenger",
+    "title": "Eldmia Ega, the Reincarnated Avenger",
+    "url": "https://mangatime.org/manga/eldmia-ega-the-reincarnated-avenger",
+    "cover_url": "https://mangatime.org/uploads/series/6a4720b9b0e23e715bf31336.jpg",
+    "type": "مانهوا",
+    "status": "مستمر",
+    "rating": ""
+  },
+  {
     "id": "damn-demonic-swords",
     "title": "السيوف الشيطانية اللعينة",
     "url": "https://mangatime.org/manga/damn-demonic-swords",
@@ -6189,15 +6198,6 @@
     "title": "All-Class Awakening: King Slayer II",
     "url": "https://mangatime.org/manga/all-class-awakening-king-slayer-ii",
     "cover_url": "https://mangatime.org/uploads/series/6a477ac6b0e23e715bf48a7a.jpg",
-    "type": "مانهوا",
-    "status": "مستمر",
-    "rating": ""
-  },
-  {
-    "id": "eldmia-ega-the-reincarnated-avenger",
-    "title": "Eldmia Ega, the Reincarnated Avenger",
-    "url": "https://mangatime.org/manga/eldmia-ega-the-reincarnated-avenger",
-    "cover_url": "https://mangatime.org/uploads/series/6a4720b9b0e23e715bf31336.jpg",
     "type": "مانهوا",
     "status": "مستمر",
     "rating": ""
@@ -6221,6 +6221,24 @@
     "rating": ""
   },
   {
+    "id": "reincarnation-of-the-fist-king",
+    "title": "عودة ملك القبضة",
+    "url": "https://mangatime.org/manga/reincarnation-of-the-fist-king",
+    "cover_url": "https://mangatime.org/uploads/series/6aa3eef9de4b4873fc8d4f97.jpeg",
+    "type": "مانهوا",
+    "status": "مستمر",
+    "rating": ""
+  },
+  {
+    "id": "aidie",
+    "title": "Aidie",
+    "url": "https://mangatime.org/manga/aidie",
+    "cover_url": "https://mangatime.org/uploads/series/6a480c8e5317dc1f4235d56a.jpg",
+    "type": "مانغا",
+    "status": "مستمر",
+    "rating": "10.0"
+  },
+  {
     "id": "all-hail-the-sect-leader",
     "title": "في حضرة زعيم الطائفة",
     "url": "https://mangatime.org/manga/all-hail-the-sect-leader",
@@ -6239,13 +6257,13 @@
     "rating": ""
   },
   {
-    "id": "aidie",
-    "title": "Aidie",
-    "url": "https://mangatime.org/manga/aidie",
-    "cover_url": "https://mangatime.org/uploads/series/6a480c8e5317dc1f4235d56a.jpg",
+    "id": "ao-ashi",
+    "title": "آو آشي",
+    "url": "https://mangatime.org/manga/ao-ashi",
+    "cover_url": "https://mangatime.org/uploads/series/6a9b4403f91cef950259f143.webp",
     "type": "مانغا",
-    "status": "مستمر",
-    "rating": "10.0"
+    "status": "مكتمل",
+    "rating": ""
   },
   {
     "id": "the-strongest-level-0",
@@ -6257,13 +6275,13 @@
     "rating": "10.0"
   },
   {
-    "id": "ao-ashi",
-    "title": "آو آشي",
-    "url": "https://mangatime.org/manga/ao-ashi",
-    "cover_url": "https://mangatime.org/uploads/series/6a9b4403f91cef950259f143.webp",
+    "id": "tougen-anki-gaiden-tsuki-to-sakura-no-kyosoukyoku",
+    "title": "Tougen Anki Gaiden : Tsuki to Sakura no Kyosoukyoku",
+    "url": "https://mangatime.org/manga/tougen-anki-gaiden-tsuki-to-sakura-no-kyosoukyoku",
+    "cover_url": "https://mangatime.org/uploads/cover/6a5832c82b60927c28511c34/2026/08/b9myufh2.jpg",
     "type": "مانغا",
-    "status": "مكتمل",
-    "rating": ""
+    "status": "مستمر",
+    "rating": "9.0"
   },
   {
     "id": "shitai-katsugi-no-nemu",
@@ -6291,15 +6309,6 @@
     "type": "مانهوا",
     "status": "مستمر",
     "rating": ""
-  },
-  {
-    "id": "tougen-anki-gaiden-tsuki-to-sakura-no-kyosoukyoku",
-    "title": "Tougen Anki Gaiden : Tsuki to Sakura no Kyosoukyoku",
-    "url": "https://mangatime.org/manga/tougen-anki-gaiden-tsuki-to-sakura-no-kyosoukyoku",
-    "cover_url": "https://mangatime.org/uploads/cover/6a5832c82b60927c28511c34/2026/08/b9myufh2.jpg",
-    "type": "مانغا",
-    "status": "مستمر",
-    "rating": "9.0"
   },
   {
     "id": "s-class-butler",
@@ -6383,6 +6392,24 @@
     "rating": ""
   },
   {
+    "id": "archmage-transcending-through-regression",
+    "title": "كبير السحرة يتجاوز بالرجوع",
+    "url": "https://mangatime.org/manga/archmage-transcending-through-regression",
+    "cover_url": "https://mangatime.org/uploads/series/6aa6cb11de4b4873fc5fe968.jpg",
+    "type": "مانهوا",
+    "status": "مستمر",
+    "rating": ""
+  },
+  {
+    "id": "my-disciples-are-all-invincible-monsters",
+    "title": "تلاميذي جميعهم وحوش لا تقهر",
+    "url": "https://mangatime.org/manga/my-disciples-are-all-invincible-monsters",
+    "cover_url": "https://mangatime.org/uploads/series/6a5985ab173c894644b9842d.webp",
+    "type": "مانها",
+    "status": "مستمر",
+    "rating": ""
+  },
+  {
     "id": "shadow-slave",
     "title": "عبد الظل",
     "url": "https://mangatime.org/manga/shadow-slave",
@@ -6437,24 +6464,6 @@
     "rating": ""
   },
   {
-    "id": "my-disciples-are-all-invincible-monsters",
-    "title": "تلاميذي جميعهم وحوش لا تقهر",
-    "url": "https://mangatime.org/manga/my-disciples-are-all-invincible-monsters",
-    "cover_url": "https://mangatime.org/uploads/series/6a5985ab173c894644b9842d.webp",
-    "type": "مانها",
-    "status": "مستمر",
-    "rating": ""
-  },
-  {
-    "id": "reincarnation-of-the-fist-king",
-    "title": "عودة ملك القبضة",
-    "url": "https://mangatime.org/manga/reincarnation-of-the-fist-king",
-    "cover_url": "https://mangatime.org/uploads/series/6aa3eef9de4b4873fc8d4f97.jpeg",
-    "type": "مانهوا",
-    "status": "مستمر",
-    "rating": ""
-  },
-  {
     "id": "real",
     "title": "ريال",
     "url": "https://mangatime.org/manga/real",
@@ -6491,6 +6500,15 @@
     "rating": ""
   },
   {
+    "id": "weak-hero",
+    "title": "البطل الضعيف",
+    "url": "https://mangatime.org/manga/weak-hero",
+    "cover_url": "https://mangatime.org/uploads/series/6aa93036b3020d4a786409e5.jpg",
+    "type": "مانهوا",
+    "status": "مكتمل",
+    "rating": ""
+  },
+  {
     "id": "goth-loli-chan-to-mondaiji-kun",
     "title": "Goth Loli-chan to Mondaiji-kun",
     "url": "https://mangatime.org/manga/goth-loli-chan-to-mondaiji-kun",
@@ -6509,15 +6527,6 @@
     "rating": ""
   },
   {
-    "id": "black-torch",
-    "title": "Black Torch",
-    "url": "https://mangatime.org/manga/black-torch",
-    "cover_url": "https://mangatime.org/uploads/series/6a6e76f842e919fa22145472.jpg",
-    "type": "مانغا",
-    "status": "مكتمل",
-    "rating": ""
-  },
-  {
     "id": "the-horizon",
     "title": "الأفق",
     "url": "https://mangatime.org/manga/the-horizon",
@@ -6527,19 +6536,28 @@
     "rating": ""
   },
   {
-    "id": "weak-hero",
-    "title": "البطل الضعيف",
-    "url": "https://mangatime.org/manga/weak-hero",
-    "cover_url": "https://mangatime.org/uploads/series/6aa93036b3020d4a786409e5.jpg",
-    "type": "مانهوا",
+    "id": "black-torch",
+    "title": "Black Torch",
+    "url": "https://mangatime.org/manga/black-torch",
+    "cover_url": "https://mangatime.org/uploads/series/6a6e76f842e919fa22145472.jpg",
+    "type": "مانغا",
     "status": "مكتمل",
     "rating": ""
   },
   {
-    "id": "archmage-transcending-through-regression",
-    "title": "كبير السحرة يتجاوز بالرجوع",
-    "url": "https://mangatime.org/manga/archmage-transcending-through-regression",
-    "cover_url": "https://mangatime.org/uploads/series/6aa6cb11de4b4873fc5fe968.jpg",
+    "id": "bug-player",
+    "title": "لاعب الأخطاء",
+    "url": "https://mangatime.org/manga/bug-player",
+    "cover_url": "https://mangatime.org/uploads/series/6a5985aa173c894644b9842b.webp",
+    "type": "مانهوا",
+    "status": "مستمر",
+    "rating": ""
+  },
+  {
+    "id": "perfect-gold",
+    "title": "Perfect Gold",
+    "url": "https://mangatime.org/manga/perfect-gold",
+    "cover_url": "https://mangatime.org/uploads/cover/697df75c0c5d340ac1541f88/2026/02/0ahsf773.webp",
     "type": "مانهوا",
     "status": "مستمر",
     "rating": ""
@@ -6552,24 +6570,6 @@
     "type": "مانهوا",
     "status": "مستمر",
     "rating": "8.3"
-  },
-  {
-    "id": "perfect-gold",
-    "title": "Perfect Gold",
-    "url": "https://mangatime.org/manga/perfect-gold",
-    "cover_url": "https://mangatime.org/uploads/cover/697df75c0c5d340ac1541f88/2026/02/0ahsf773.webp",
-    "type": "مانهوا",
-    "status": "مستمر",
-    "rating": ""
-  },
-  {
-    "id": "bug-player",
-    "title": "لاعب الأخطاء",
-    "url": "https://mangatime.org/manga/bug-player",
-    "cover_url": "https://mangatime.org/uploads/series/6a5985aa173c894644b9842b.webp",
-    "type": "مانهوا",
-    "status": "مستمر",
-    "rating": ""
   },
   {
     "id": "once-upon-a-time",
@@ -6626,19 +6626,19 @@
     "rating": ""
   },
   {
-    "id": "villain-to-kill",
-    "title": "شرير للقتل",
-    "url": "https://mangatime.org/manga/villain-to-kill",
-    "cover_url": "https://mangatime.org/uploads/series/6aa794d2b3020d4a78900e00.jpg",
+    "id": "double-click",
+    "title": "انقر نقراً مزدوجاً",
+    "url": "https://mangatime.org/manga/double-click",
+    "cover_url": "https://mangatime.org/uploads/series/6a5985a7173c894644b9841d.webp",
     "type": "مانهوا",
     "status": "مستمر",
     "rating": ""
   },
   {
-    "id": "double-click",
-    "title": "انقر نقراً مزدوجاً",
-    "url": "https://mangatime.org/manga/double-click",
-    "cover_url": "https://mangatime.org/uploads/series/6a5985a7173c894644b9841d.webp",
+    "id": "villain-to-kill",
+    "title": "شرير للقتل",
+    "url": "https://mangatime.org/manga/villain-to-kill",
+    "cover_url": "https://mangatime.org/uploads/series/6aa794d2b3020d4a78900e00.jpg",
     "type": "مانهوا",
     "status": "مستمر",
     "rating": ""
@@ -6707,6 +6707,15 @@
     "rating": ""
   },
   {
+    "id": "the-worlds-best-martial-arts-instructor",
+    "title": "أفضل مدرّب فنون قتالية في العالم",
+    "url": "https://mangatime.org/manga/the-worlds-best-martial-arts-instructor",
+    "cover_url": "https://mangatime.org/uploads/series/6aa44d72de4b4873fca03a4e.jpg",
+    "type": "مانهوا",
+    "status": "مستمر",
+    "rating": ""
+  },
+  {
     "id": "the-gamer-s7",
     "title": "The Gamer S7",
     "url": "https://mangatime.org/manga/the-gamer-s7",
@@ -6716,12 +6725,12 @@
     "rating": ""
   },
   {
-    "id": "the-worlds-best-martial-arts-instructor",
-    "title": "أفضل مدرّب فنون قتالية في العالم",
-    "url": "https://mangatime.org/manga/the-worlds-best-martial-arts-instructor",
-    "cover_url": "https://mangatime.org/uploads/series/6aa44d72de4b4873fca03a4e.jpg",
+    "id": "chronicles-of-heavenlydemon",
+    "title": "سجلات الشيطان السماوي",
+    "url": "https://mangatime.org/manga/chronicles-of-heavenlydemon",
+    "cover_url": "https://mangatime.org/uploads/series/6aadc1b07ecb87d76ee18e6a.jpg",
     "type": "مانهوا",
-    "status": "مستمر",
+    "status": "مكتمل",
     "rating": ""
   },
   {
@@ -6752,15 +6761,6 @@
     "rating": "10.0"
   },
   {
-    "id": "wind-breaker-manhwa",
-    "title": "ويند بريكر: الدرّاجات",
-    "url": "https://mangatime.org/manga/wind-breaker-manhwa",
-    "cover_url": "https://mangatime.org/uploads/series/6a987d92e0275c336fb76758.jpg",
-    "type": "مانهوا",
-    "status": "cancelled",
-    "rating": ""
-  },
-  {
     "id": "the-girl-from-the-other-side",
     "title": "الفتاة من الجانب الآخر",
     "url": "https://mangatime.org/manga/the-girl-from-the-other-side",
@@ -6768,6 +6768,15 @@
     "type": "مانغا",
     "status": "مستمر",
     "rating": "7.0"
+  },
+  {
+    "id": "wind-breaker-manhwa",
+    "title": "ويند بريكر: الدرّاجات",
+    "url": "https://mangatime.org/manga/wind-breaker-manhwa",
+    "cover_url": "https://mangatime.org/uploads/series/6a987d92e0275c336fb76758.jpg",
+    "type": "مانهوا",
+    "status": "cancelled",
+    "rating": ""
   },
   {
     "id": "ookami-ryoushu-no-ojou-sama",
@@ -6785,15 +6794,6 @@
     "cover_url": "https://mangatime.org/uploads/series/6a8b73ddf1a5e87af6668fca.jpg",
     "type": "مانهوا",
     "status": "مستمر",
-    "rating": ""
-  },
-  {
-    "id": "chronicles-of-heavenlydemon",
-    "title": "سجلات الشيطان السماوي",
-    "url": "https://mangatime.org/manga/chronicles-of-heavenlydemon",
-    "cover_url": "https://mangatime.org/uploads/series/6aadc1b07ecb87d76ee18e6a.jpg",
-    "type": "مانهوا",
-    "status": "مكتمل",
     "rating": ""
   },
   {
@@ -6878,6 +6878,24 @@
     "rating": "10.0"
   },
   {
+    "id": "i-am-sorry-for-being-a-fool",
+    "title": "أنا آسف لكوني أحمق",
+    "url": "https://mangatime.org/manga/i-am-sorry-for-being-a-fool",
+    "cover_url": "https://mangatime.org/uploads/series/6a5985b1173c894644b98447.webp",
+    "type": "مانها",
+    "status": "مستمر",
+    "rating": ""
+  },
+  {
+    "id": "hells-paradise-jigokuraku",
+    "title": "جنّة الجحيم",
+    "url": "https://mangatime.org/manga/hells-paradise-jigokuraku",
+    "cover_url": "https://mangatime.org/uploads/series/6aa3f7fade4b4873fc8eee64.png",
+    "type": "مانغا",
+    "status": "مكتمل",
+    "rating": ""
+  },
+  {
     "id": "archmage-curriculum",
     "title": "Archmage Curriculum",
     "url": "https://mangatime.org/manga/archmage-curriculum",
@@ -6893,15 +6911,6 @@
     "cover_url": "https://mangatime.org/uploads/series/69bb915ec30314ce8f594576.webp",
     "type": "مانهوا",
     "status": "مستمر",
-    "rating": ""
-  },
-  {
-    "id": "hells-paradise-jigokuraku",
-    "title": "جنّة الجحيم",
-    "url": "https://mangatime.org/manga/hells-paradise-jigokuraku",
-    "cover_url": "https://mangatime.org/uploads/series/6aa3f7fade4b4873fc8eee64.png",
-    "type": "مانغا",
-    "status": "مكتمل",
     "rating": ""
   },
   {
@@ -6923,11 +6932,11 @@
     "rating": "9.0"
   },
   {
-    "id": "i-am-sorry-for-being-a-fool",
-    "title": "أنا آسف لكوني أحمق",
-    "url": "https://mangatime.org/manga/i-am-sorry-for-being-a-fool",
-    "cover_url": "https://mangatime.org/uploads/series/6a5985b1173c894644b98447.webp",
-    "type": "مانها",
+    "id": "10000-ways-to-eliminate-players",
+    "title": "10,000 Ways to eliminate Players",
+    "url": "https://mangatime.org/manga/10000-ways-to-eliminate-players",
+    "cover_url": "https://mangatime.org/uploads/series/6a2c40b048583c8b2070fb17.webp",
+    "type": "مانهوا",
     "status": "مستمر",
     "rating": ""
   },
@@ -6941,12 +6950,12 @@
     "rating": ""
   },
   {
-    "id": "10000-ways-to-eliminate-players",
-    "title": "10,000 Ways to eliminate Players",
-    "url": "https://mangatime.org/manga/10000-ways-to-eliminate-players",
-    "cover_url": "https://mangatime.org/uploads/series/6a2c40b048583c8b2070fb17.webp",
-    "type": "مانهوا",
-    "status": "مستمر",
+    "id": "30-years-since-the-prologue",
+    "title": "Meikyuu Shokudou \"Maoukutsu\" e Youkoso! ~Tensei Shite kara 300-nen mo Neteita node, Inshokuten Keiei de Maou wo Mezasou to Omoimasu~",
+    "url": "https://mangatime.org/manga/30-years-since-the-prologue",
+    "cover_url": "https://mangatime.org/uploads/series/6a6c6848a340283bc532ce94.jpg",
+    "type": "مانغا",
+    "status": "مكتمل",
     "rating": ""
   },
   {
@@ -6956,15 +6965,6 @@
     "cover_url": "https://mangatime.org/uploads/series/6a8b6e77f1a5e87af6665a81.jpg",
     "type": "مانغا",
     "status": "مستمر",
-    "rating": ""
-  },
-  {
-    "id": "30-years-since-the-prologue",
-    "title": "Meikyuu Shokudou \"Maoukutsu\" e Youkoso! ~Tensei Shite kara 300-nen mo Neteita node, Inshokuten Keiei de Maou wo Mezasou to Omoimasu~",
-    "url": "https://mangatime.org/manga/30-years-since-the-prologue",
-    "cover_url": "https://mangatime.org/uploads/series/6a6c6848a340283bc532ce94.jpg",
-    "type": "مانغا",
-    "status": "مكتمل",
     "rating": ""
   },
   {
@@ -7067,20 +7067,20 @@
     "rating": ""
   },
   {
-    "id": "the-roguish-guard-in-a-medieval-fantasy",
-    "title": "قائد الحرس المتهوّر في عالم القرون الوسطى",
-    "url": "https://mangatime.org/manga/the-roguish-guard-in-a-medieval-fantasy",
-    "cover_url": "https://mangatime.org/uploads/series/6a8d38cdf1a5e87af677c268.jpg",
-    "type": "مانهوا",
-    "status": "مستمر",
-    "rating": ""
-  },
-  {
     "id": "sayonara-zetsubou-sensei",
     "title": "Sayonara Zetsubou Sensei",
     "url": "https://mangatime.org/manga/sayonara-zetsubou-sensei",
     "cover_url": "https://mangatime.org/uploads/series/697df8130c5d340ac154b19e/cover.webp",
     "type": "مانغا",
+    "status": "مستمر",
+    "rating": ""
+  },
+  {
+    "id": "the-roguish-guard-in-a-medieval-fantasy",
+    "title": "قائد الحرس المتهوّر في عالم القرون الوسطى",
+    "url": "https://mangatime.org/manga/the-roguish-guard-in-a-medieval-fantasy",
+    "cover_url": "https://mangatime.org/uploads/series/6a8d38cdf1a5e87af677c268.jpg",
+    "type": "مانهوا",
     "status": "مستمر",
     "rating": ""
   },
@@ -7148,15 +7148,6 @@
     "rating": ""
   },
   {
-    "id": "the-wind-mage",
-    "title": "The Wind Mage",
-    "url": "https://mangatime.org/manga/the-wind-mage",
-    "cover_url": "https://mangatime.org/uploads/cover/6a4fe60b262d941f2563c38e/2026/07/gzcft9ct.png",
-    "type": "مانهوا",
-    "status": "مستمر",
-    "rating": ""
-  },
-  {
     "id": "naruto-gaiden-the-seventh-hokage",
     "title": "ناروتو غايدن: الهوكاجي السابع",
     "url": "https://mangatime.org/manga/naruto-gaiden-the-seventh-hokage",
@@ -7164,6 +7155,15 @@
     "type": "مانغا",
     "status": "مكتمل",
     "rating": "10.0"
+  },
+  {
+    "id": "the-wind-mage",
+    "title": "The Wind Mage",
+    "url": "https://mangatime.org/manga/the-wind-mage",
+    "cover_url": "https://mangatime.org/uploads/cover/6a4fe60b262d941f2563c38e/2026/07/gzcft9ct.png",
+    "type": "مانهوا",
+    "status": "مستمر",
+    "rating": ""
   },
   {
     "id": "ghostly-spirit",
@@ -7229,6 +7229,15 @@
     "rating": ""
   },
   {
+    "id": "kingdom-hearts-358-2-days",
+    "title": "كينغدوم هارتس 358/2 أيام",
+    "url": "https://mangatime.org/manga/kingdom-hearts-358-2-days",
+    "cover_url": "https://mangatime.org/uploads/series/6a863aaa253a2ecb3d4a0c4d-ccc5e44d23e0368d.jpg",
+    "type": "مانغا",
+    "status": "مكتمل",
+    "rating": ""
+  },
+  {
     "id": "dragon-ball",
     "title": "دراغون بول",
     "url": "https://mangatime.org/manga/dragon-ball",
@@ -7256,15 +7265,6 @@
     "rating": ""
   },
   {
-    "id": "kingdom-hearts-358-2-days",
-    "title": "كينغدوم هارتس 358/2 أيام",
-    "url": "https://mangatime.org/manga/kingdom-hearts-358-2-days",
-    "cover_url": "https://mangatime.org/uploads/series/6a863aaa253a2ecb3d4a0c4d-ccc5e44d23e0368d.jpg",
-    "type": "مانغا",
-    "status": "مكتمل",
-    "rating": ""
-  },
-  {
     "id": "axe-king-the-path-of-invincibility",
     "title": "Axe king: The Path of Invincibility",
     "url": "https://mangatime.org/manga/axe-king-the-path-of-invincibility",
@@ -7283,6 +7283,15 @@
     "rating": "10.0"
   },
   {
+    "id": "kiseijuu-reversi",
+    "title": "Parasyte Reversi",
+    "url": "https://mangatime.org/manga/kiseijuu-reversi",
+    "cover_url": "https://mangatime.org/uploads/series/6a6e9a1a42e919fa22157b8f.jpg",
+    "type": "مانغا",
+    "status": "مكتمل",
+    "rating": ""
+  },
+  {
     "id": "the-heros-bereaved-family",
     "title": "The Hero’s Bereaved Family",
     "url": "https://mangatime.org/manga/the-heros-bereaved-family",
@@ -7296,15 +7305,6 @@
     "title": "مذكّرة الموت",
     "url": "https://mangatime.org/manga/death-note",
     "cover_url": "https://mangatime.org/uploads/series/6a8821f7253a2ecb3d567322.jpg",
-    "type": "مانغا",
-    "status": "مكتمل",
-    "rating": ""
-  },
-  {
-    "id": "kiseijuu-reversi",
-    "title": "Parasyte Reversi",
-    "url": "https://mangatime.org/manga/kiseijuu-reversi",
-    "cover_url": "https://mangatime.org/uploads/series/6a6e9a1a42e919fa22157b8f.jpg",
     "type": "مانغا",
     "status": "مكتمل",
     "rating": ""
@@ -7364,6 +7364,15 @@
     "rating": ""
   },
   {
+    "id": "return-of-the-genius-swordmaster",
+    "title": "عودة سيد السيف العبقري",
+    "url": "https://mangatime.org/manga/return-of-the-genius-swordmaster",
+    "cover_url": "https://mangatime.org/uploads/series/6a5985b1173c894644b98449.webp",
+    "type": "مانغا",
+    "status": "مستمر",
+    "rating": ""
+  },
+  {
     "id": "iljin-demonic-cult",
     "title": "Iljin Demonic Cult",
     "url": "https://mangatime.org/manga/iljin-demonic-cult",
@@ -7389,15 +7398,6 @@
     "type": "مانغا",
     "status": "مكتمل",
     "rating": "10.0"
-  },
-  {
-    "id": "return-of-the-genius-swordmaster",
-    "title": "عودة سيد السيف العبقري",
-    "url": "https://mangatime.org/manga/return-of-the-genius-swordmaster",
-    "cover_url": "https://mangatime.org/uploads/series/6a5985b1173c894644b98449.webp",
-    "type": "مانغا",
-    "status": "مستمر",
-    "rating": ""
   },
   {
     "id": "magical-flowers-age",
@@ -7454,6 +7454,15 @@
     "rating": ""
   },
   {
+    "id": "the-fairytale-like-you-goes-on-the-assault",
+    "title": "Hakanai Kimi wa Moukou wo Hajimeru",
+    "url": "https://mangatime.org/manga/the-fairytale-like-you-goes-on-the-assault",
+    "cover_url": "https://mangatime.org/uploads/series/6a6e1e1342e919fa22119299.jpg",
+    "type": "مانغا",
+    "status": "مستمر",
+    "rating": ""
+  },
+  {
     "id": "revenge-of-the-top-ranker",
     "title": "الانتقام من أعلى رتبة",
     "url": "https://mangatime.org/manga/revenge-of-the-top-ranker",
@@ -7472,21 +7481,21 @@
     "rating": ""
   },
   {
-    "id": "the-fairytale-like-you-goes-on-the-assault",
-    "title": "Hakanai Kimi wa Moukou wo Hajimeru",
-    "url": "https://mangatime.org/manga/the-fairytale-like-you-goes-on-the-assault",
-    "cover_url": "https://mangatime.org/uploads/series/6a6e1e1342e919fa22119299.jpg",
-    "type": "مانغا",
-    "status": "مستمر",
-    "rating": ""
-  },
-  {
     "id": "cosmic-heavenly-demon-3077",
     "title": "الشيطان السماوي 3077",
     "url": "https://mangatime.org/manga/cosmic-heavenly-demon-3077",
     "cover_url": "https://mangatime.org/uploads/series/6aa44384de4b4873fc9c2bb9.jpg",
     "type": "مانهوا",
     "status": "مستمر",
+    "rating": ""
+  },
+  {
+    "id": "spider-man-fake-red",
+    "title": "Spider-Man / Itsuwari no Aka",
+    "url": "https://mangatime.org/manga/spider-man-fake-red",
+    "cover_url": "https://mangatime.org/uploads/series/6a6e974442e919fa221566c0.jpg",
+    "type": "مانغا",
+    "status": "مكتمل",
     "rating": ""
   },
   {
@@ -7505,15 +7514,6 @@
     "cover_url": "https://mangatime.org/uploads/series/697df7d80c5d340ac1548ac7/cover.webp",
     "type": "مانغا",
     "status": "مستمر",
-    "rating": ""
-  },
-  {
-    "id": "spider-man-fake-red",
-    "title": "Spider-Man / Itsuwari no Aka",
-    "url": "https://mangatime.org/manga/spider-man-fake-red",
-    "cover_url": "https://mangatime.org/uploads/series/6a6e974442e919fa221566c0.jpg",
-    "type": "مانغا",
-    "status": "مكتمل",
     "rating": ""
   },
   {
@@ -7589,6 +7589,15 @@
     "rating": ""
   },
   {
+    "id": "administrator-kang-jin-lee",
+    "title": "الحاكم لي كانغ جين",
+    "url": "https://mangatime.org/manga/administrator-kang-jin-lee",
+    "cover_url": "https://mangatime.org/uploads/series/6a9531258df1ea2e986d520e.png",
+    "type": "مانهوا",
+    "status": "مستمر",
+    "rating": ""
+  },
+  {
     "id": "akari",
     "title": "أكاري",
     "url": "https://mangatime.org/manga/akari",
@@ -7611,15 +7620,6 @@
     "title": "Black Resume",
     "url": "https://mangatime.org/manga/black-resume",
     "cover_url": "https://mangatime.org/uploads/series/697df8130c5d340ac154b23e/cover.webp",
-    "type": "مانهوا",
-    "status": "مستمر",
-    "rating": ""
-  },
-  {
-    "id": "administrator-kang-jin-lee",
-    "title": "الحاكم لي كانغ جين",
-    "url": "https://mangatime.org/manga/administrator-kang-jin-lee",
-    "cover_url": "https://mangatime.org/uploads/series/6a9531258df1ea2e986d520e.png",
     "type": "مانهوا",
     "status": "مستمر",
     "rating": ""
@@ -7675,6 +7675,15 @@
     "url": "https://mangatime.org/manga/return-of-the-reaper-assassin",
     "cover_url": "https://mangatime.org/uploads/series/6a6c6093a340283bc532a591.jpg",
     "type": "مانهوا",
+    "status": "مستمر",
+    "rating": ""
+  },
+  {
+    "id": "reincarnated-as-the-weakest-warrior-with-the-power-to-choose-any-reward",
+    "title": "Reincarnated As The Weakest Warrior With The Power To Choose Any Reward",
+    "url": "https://mangatime.org/manga/reincarnated-as-the-weakest-warrior-with-the-power-to-choose-any-reward",
+    "cover_url": "https://mangatime.org/uploads/series/6a6c1f28a340283bc531cd0f.jpg?v=20260731T102539Z",
+    "type": "مانغا",
     "status": "مستمر",
     "rating": ""
   },
@@ -7742,15 +7751,6 @@
     "rating": ""
   },
   {
-    "id": "reincarnated-as-the-weakest-warrior-with-the-power-to-choose-any-reward",
-    "title": "Reincarnated As The Weakest Warrior With The Power To Choose Any Reward",
-    "url": "https://mangatime.org/manga/reincarnated-as-the-weakest-warrior-with-the-power-to-choose-any-reward",
-    "cover_url": "https://mangatime.org/uploads/series/6a6c1f28a340283bc531cd0f.jpg?v=20260731T102539Z",
-    "type": "مانغا",
-    "status": "مستمر",
-    "rating": ""
-  },
-  {
     "id": "tomie",
     "title": "تومي",
     "url": "https://mangatime.org/manga/tomie",
@@ -7783,6 +7783,15 @@
     "url": "https://mangatime.org/manga/book-owner",
     "cover_url": "https://mangatime.org/uploads/series/697df8310c5d340ac154c8da/cover.webp",
     "type": "مانغا",
+    "status": "مستمر",
+    "rating": ""
+  },
+  {
+    "id": "the-hero-returns",
+    "title": "عودة البطل",
+    "url": "https://mangatime.org/manga/the-hero-returns",
+    "cover_url": "https://mangatime.org/uploads/series/6aa5ef46de4b4873fc095656.jpg",
+    "type": "مانهوا",
     "status": "مستمر",
     "rating": ""
   },
@@ -7832,6 +7841,15 @@
     "rating": ""
   },
   {
+    "id": "berserk-of-gluttony-webtoon",
+    "title": "بيرسيرك الشراهة — النسخة الملوّنة",
+    "url": "https://mangatime.org/manga/berserk-of-gluttony-webtoon",
+    "cover_url": "https://mangatime.org/uploads/series/6a8f9699ff1608b476307be3.png",
+    "type": "مانغا",
+    "status": "مستمر",
+    "rating": ""
+  },
+  {
     "id": "a-scar",
     "title": "A Scar",
     "url": "https://mangatime.org/manga/a-scar",
@@ -7868,12 +7886,12 @@
     "rating": ""
   },
   {
-    "id": "berserk-of-gluttony-webtoon",
-    "title": "بيرسيرك الشراهة — النسخة الملوّنة",
-    "url": "https://mangatime.org/manga/berserk-of-gluttony-webtoon",
-    "cover_url": "https://mangatime.org/uploads/series/6a8f9699ff1608b476307be3.png",
+    "id": "dragon-ball-pride-of-the-beast",
+    "title": "دراغون بول: كبرياء الوحش",
+    "url": "https://mangatime.org/manga/dragon-ball-pride-of-the-beast",
+    "cover_url": "https://mangatime.org/uploads/series/6a8a980b253a2ecb3d715c03.jpg",
     "type": "مانغا",
-    "status": "مستمر",
+    "status": "مكتمل",
     "rating": ""
   },
   {
@@ -7931,12 +7949,12 @@
     "rating": ""
   },
   {
-    "id": "dragon-ball-pride-of-the-beast",
-    "title": "دراغون بول: كبرياء الوحش",
-    "url": "https://mangatime.org/manga/dragon-ball-pride-of-the-beast",
-    "cover_url": "https://mangatime.org/uploads/series/6a8a980b253a2ecb3d715c03.jpg",
+    "id": "dragon-ball-vs",
+    "title": "دراغون بول VS",
+    "url": "https://mangatime.org/manga/dragon-ball-vs",
+    "cover_url": "https://mangatime.org/uploads/series/6a8a973a253a2ecb3d715357.jpg",
     "type": "مانغا",
-    "status": "مكتمل",
+    "status": "مستمر",
     "rating": ""
   },
   {
@@ -7965,15 +7983,6 @@
     "type": "مانغا",
     "status": "مستمر",
     "rating": "10.0"
-  },
-  {
-    "id": "dragon-ball-vs",
-    "title": "دراغون بول VS",
-    "url": "https://mangatime.org/manga/dragon-ball-vs",
-    "cover_url": "https://mangatime.org/uploads/series/6a8a973a253a2ecb3d715357.jpg",
-    "type": "مانغا",
-    "status": "مستمر",
-    "rating": ""
   },
   {
     "id": "neko-no-massajiya-san",
@@ -8012,10 +8021,28 @@
     "rating": ""
   },
   {
+    "id": "reincarnated-as-a-genius-prodigy-of-a-prestigious-family",
+    "title": "التناسخ كعبقريٍّ نابغة في عائلةٍ عريقة",
+    "url": "https://mangatime.org/manga/reincarnated-as-a-genius-prodigy-of-a-prestigious-family",
+    "cover_url": "https://mangatime.org/uploads/series/6aa82d90b3020d4a78bedd75.png",
+    "type": "مانهوا",
+    "status": "مستمر",
+    "rating": ""
+  },
+  {
     "id": "doctor-reborn",
     "title": "طبيب يُبعث من جديد",
     "url": "https://mangatime.org/manga/doctor-reborn",
     "cover_url": "https://mangatime.org/uploads/series/6aa720c4de4b4873fca4f821.png",
+    "type": "مانها",
+    "status": "مستمر",
+    "rating": ""
+  },
+  {
+    "id": "hunter-age",
+    "title": "عصر الصيّاد",
+    "url": "https://mangatime.org/manga/hunter-age",
+    "cover_url": "https://mangatime.org/uploads/series/6aa71b4cde4b4873fc9a0d60.jpg",
     "type": "مانها",
     "status": "مستمر",
     "rating": ""
@@ -8039,10 +8066,19 @@
     "rating": "7.0"
   },
   {
-    "id": "what-a-bountiful-harvest-demon-lord",
-    "title": "يا له من حصادٍ وفير، يا سيّد الشياطين!",
-    "url": "https://mangatime.org/manga/what-a-bountiful-harvest-demon-lord",
-    "cover_url": "https://mangatime.org/uploads/series/6aa439f2de4b4873fc98895c.jpg",
+    "id": "the-tutorial-is-too-hard",
+    "title": "التدريب أصعب مما ينبغي",
+    "url": "https://mangatime.org/manga/the-tutorial-is-too-hard",
+    "cover_url": "https://mangatime.org/uploads/series/6aa99da3b3020d4a78d8aa57.png",
+    "type": "مانهوا",
+    "status": "مستمر",
+    "rating": ""
+  },
+  {
+    "id": "a-dragonslayers-peerless-regression",
+    "title": "قاتل التنين يعود بمستوى آخر",
+    "url": "https://mangatime.org/manga/a-dragonslayers-peerless-regression",
+    "cover_url": "https://mangatime.org/uploads/series/6aa46200de4b4873fca5aeed.jpeg",
     "type": "مانهوا",
     "status": "مستمر",
     "rating": ""
@@ -8057,20 +8093,29 @@
     "rating": ""
   },
   {
+    "id": "my-disciples-are-all-big-villains",
+    "title": "تلاميذي كلهم أشرار كبار",
+    "url": "https://mangatime.org/manga/my-disciples-are-all-big-villains",
+    "cover_url": "https://mangatime.org/uploads/series/6aaba7b4b3020d4a787ba006.jpg",
+    "type": "مانها",
+    "status": "مستمر",
+    "rating": "8.0"
+  },
+  {
+    "id": "what-a-bountiful-harvest-demon-lord",
+    "title": "يا له من حصادٍ وفير، يا سيّد الشياطين!",
+    "url": "https://mangatime.org/manga/what-a-bountiful-harvest-demon-lord",
+    "cover_url": "https://mangatime.org/uploads/series/6aa439f2de4b4873fc98895c.jpg",
+    "type": "مانهوا",
+    "status": "مستمر",
+    "rating": ""
+  },
+  {
     "id": "ultimate-exorcist-kiyoshi",
     "title": "كيوشي، أقوى طارد أرواح",
     "url": "https://mangatime.org/manga/ultimate-exorcist-kiyoshi",
     "cover_url": "https://mangatime.org/uploads/series/6a5985bd173c894644b9847f.webp",
     "type": "مانغا",
-    "status": "مستمر",
-    "rating": ""
-  },
-  {
-    "id": "the-tutorial-is-too-hard",
-    "title": "التدريب أصعب مما ينبغي",
-    "url": "https://mangatime.org/manga/the-tutorial-is-too-hard",
-    "cover_url": "https://mangatime.org/uploads/series/6aa99da3b3020d4a78d8aa57.png",
-    "type": "مانهوا",
     "status": "مستمر",
     "rating": ""
   },
@@ -8098,15 +8143,6 @@
     "url": "https://mangatime.org/manga/shingeki-no-kyojin-kuinaki-sentaku-prologue",
     "cover_url": "https://mangatime.org/uploads/cover/697df75c0c5d340ac1541f88/2026/02/f968y2yh.webp",
     "type": "مانغا",
-    "status": "مستمر",
-    "rating": ""
-  },
-  {
-    "id": "my-disciples-are-all-big-villains",
-    "title": "تلاميذي كلهم أشرار كبار",
-    "url": "https://mangatime.org/manga/my-disciples-are-all-big-villains",
-    "cover_url": "https://mangatime.org/uploads/series/6aaba7b4b3020d4a787ba006.jpg",
-    "type": "مانها",
     "status": "مستمر",
     "rating": ""
   },
@@ -8192,15 +8228,6 @@
     "rating": ""
   },
   {
-    "id": "hunter-age",
-    "title": "عصر الصيّاد",
-    "url": "https://mangatime.org/manga/hunter-age",
-    "cover_url": "https://mangatime.org/uploads/series/6aa71b4cde4b4873fc9a0d60.jpg",
-    "type": "مانها",
-    "status": "مستمر",
-    "rating": ""
-  },
-  {
     "id": "kill-the-hero",
     "title": "اقتل البطل",
     "url": "https://mangatime.org/manga/kill-the-hero",
@@ -8255,6 +8282,15 @@
     "rating": ""
   },
   {
+    "id": "kurasu-≪mushoku≫-no-eiyuu-tan-～koushaku-ka-o-tsuihou-sareta-ga-jitsu-wa-nagutta-dake-de-sukiru-o-kakutoku-dekiru-to-wakari-tairiku-ichi-no-eiyuu-ni-noboritsumeru～",
+    "title": "سجل بطل من فئة بلا مهنة",
+    "url": "https://mangatime.org/manga/kurasu-≪mushoku≫-no-eiyuu-tan-～koushaku-ka-o-tsuihou-sareta-ga-jitsu-wa-nagutta-dake-de-sukiru-o-kakutoku-dekiru-to-wakari-tairiku-ichi-no-eiyuu-ni-noboritsumeru～",
+    "cover_url": "https://mangatime.org/uploads/series/6a5985c7173c894644b984ad.webp",
+    "type": "مانغا",
+    "status": "مستمر",
+    "rating": ""
+  },
+  {
     "id": "hulked-out-heroes",
     "title": "Hulked Out Heroes",
     "url": "https://mangatime.org/manga/hulked-out-heroes",
@@ -8273,6 +8309,15 @@
     "rating": ""
   },
   {
+    "id": "surviving-in-another-world",
+    "title": "النجاة في عالم آخر",
+    "url": "https://mangatime.org/manga/surviving-in-another-world",
+    "cover_url": "https://mangatime.org/uploads/series/6aa4aa13de4b4873fcae4bb9.jpg",
+    "type": "مانغا",
+    "status": "مكتمل",
+    "rating": ""
+  },
+  {
     "id": "tata-the-cat",
     "title": "Tata the Cat",
     "url": "https://mangatime.org/manga/tata-the-cat",
@@ -8282,28 +8327,10 @@
     "rating": ""
   },
   {
-    "id": "kurasu-≪mushoku≫-no-eiyuu-tan-～koushaku-ka-o-tsuihou-sareta-ga-jitsu-wa-nagutta-dake-de-sukiru-o-kakutoku-dekiru-to-wakari-tairiku-ichi-no-eiyuu-ni-noboritsumeru～",
-    "title": "سجل بطل من فئة بلا مهنة",
-    "url": "https://mangatime.org/manga/kurasu-≪mushoku≫-no-eiyuu-tan-～koushaku-ka-o-tsuihou-sareta-ga-jitsu-wa-nagutta-dake-de-sukiru-o-kakutoku-dekiru-to-wakari-tairiku-ichi-no-eiyuu-ni-noboritsumeru～",
-    "cover_url": "https://mangatime.org/uploads/series/6a5985c7173c894644b984ad.webp",
-    "type": "مانغا",
-    "status": "مستمر",
-    "rating": ""
-  },
-  {
     "id": "no-salvation",
     "title": "No Salvation",
     "url": "https://mangatime.org/manga/no-salvation",
     "cover_url": "https://mangatime.org/uploads/series/69d4f3db0472419cc8ab073a.webp",
-    "type": "مانهوا",
-    "status": "مستمر",
-    "rating": ""
-  },
-  {
-    "id": "the-hero-returns",
-    "title": "عودة البطل",
-    "url": "https://mangatime.org/manga/the-hero-returns",
-    "cover_url": "https://mangatime.org/uploads/series/6aa5ef46de4b4873fc095656.jpg",
     "type": "مانهوا",
     "status": "مستمر",
     "rating": ""
@@ -8336,21 +8363,12 @@
     "rating": ""
   },
   {
-    "id": "a-dragonslayers-peerless-regression",
-    "title": "قاتل التنين يعود بمستوى آخر",
-    "url": "https://mangatime.org/manga/a-dragonslayers-peerless-regression",
-    "cover_url": "https://mangatime.org/uploads/series/6aa46200de4b4873fca5aeed.jpeg",
-    "type": "مانهوا",
-    "status": "مستمر",
-    "rating": ""
-  },
-  {
-    "id": "surviving-in-another-world",
-    "title": "النجاة في عالم آخر",
-    "url": "https://mangatime.org/manga/surviving-in-another-world",
-    "cover_url": "https://mangatime.org/uploads/series/6aa4aa13de4b4873fcae4bb9.jpg",
+    "id": "baki-gaiden-gaia-to-sikorsky-tokidoki-nomura-futari-dakedo-sannin-kurashi",
+    "title": "Baki Gaiden – Gaia to Sikorsky ~Tokidoki Nomura Futari Dakedo Sannin Kurashi~",
+    "url": "https://mangatime.org/manga/baki-gaiden-gaia-to-sikorsky-tokidoki-nomura-futari-dakedo-sannin-kurashi",
+    "cover_url": "https://mangatime.org/uploads/series/69e98fdada002e0013682e66.webp",
     "type": "مانغا",
-    "status": "مكتمل",
+    "status": "مستمر",
     "rating": ""
   },
   {
@@ -8363,13 +8381,13 @@
     "rating": ""
   },
   {
-    "id": "baki-gaiden-gaia-to-sikorsky-tokidoki-nomura-futari-dakedo-sannin-kurashi",
-    "title": "Baki Gaiden – Gaia to Sikorsky ~Tokidoki Nomura Futari Dakedo Sannin Kurashi~",
-    "url": "https://mangatime.org/manga/baki-gaiden-gaia-to-sikorsky-tokidoki-nomura-futari-dakedo-sannin-kurashi",
-    "cover_url": "https://mangatime.org/uploads/series/69e98fdada002e0013682e66.webp",
-    "type": "مانغا",
+    "id": "please-turn-my-body-back",
+    "title": "Please Turn My Body Back",
+    "url": "https://mangatime.org/manga/please-turn-my-body-back",
+    "cover_url": "https://mangatime.org/uploads/series/697df83b0c5d340ac154d080/cover.webp",
+    "type": "مانهوا",
     "status": "مستمر",
-    "rating": ""
+    "rating": "10.0"
   },
   {
     "id": "the-devil-taught-me-graffiti",
@@ -8379,15 +8397,6 @@
     "type": "مانهوا",
     "status": "مستمر",
     "rating": ""
-  },
-  {
-    "id": "please-turn-my-body-back",
-    "title": "Please Turn My Body Back",
-    "url": "https://mangatime.org/manga/please-turn-my-body-back",
-    "cover_url": "https://mangatime.org/uploads/series/697df83b0c5d340ac154d080/cover.webp",
-    "type": "مانهوا",
-    "status": "مستمر",
-    "rating": "10.0"
   },
   {
     "id": "kaguya-sama",
@@ -8408,6 +8417,15 @@
     "rating": ""
   },
   {
+    "id": "vigilante-2",
+    "title": "Vigilante 2",
+    "url": "https://mangatime.org/manga/vigilante-2",
+    "cover_url": "https://mangatime.org/uploads/series/6a47e0ba5317dc1f42352f76.jpg",
+    "type": "مانهوا",
+    "status": "مستمر",
+    "rating": ""
+  },
+  {
     "id": "the-earth-warrior",
     "title": " The Earth Warrior",
     "url": "https://mangatime.org/manga/the-earth-warrior",
@@ -8422,15 +8440,6 @@
     "url": "https://mangatime.org/manga/psycho-pass-kanshikan-kogami-shinya",
     "cover_url": "https://mangatime.org/uploads/series/6a5985bd173c894644b9847d.webp",
     "type": "مانغا",
-    "status": "مستمر",
-    "rating": ""
-  },
-  {
-    "id": "vigilante-2",
-    "title": "Vigilante 2",
-    "url": "https://mangatime.org/manga/vigilante-2",
-    "cover_url": "https://mangatime.org/uploads/series/6a47e0ba5317dc1f42352f76.jpg",
-    "type": "مانهوا",
     "status": "مستمر",
     "rating": ""
   },
@@ -8480,6 +8489,15 @@
     "rating": ""
   },
   {
+    "id": "the-apothecary-diaries",
+    "title": "مذكّرات الصيدلانيّة",
+    "url": "https://mangatime.org/manga/the-apothecary-diaries",
+    "cover_url": "https://mangatime.org/uploads/series/6ab37bc023a31f7c9ed0452f.jpg",
+    "type": "مانغا",
+    "status": "مستمر",
+    "rating": ""
+  },
+  {
     "id": "bleach-official-colored",
     "title": "بليتش – النسخة الملونة الرسمية",
     "url": "https://mangatime.org/manga/bleach-official-colored",
@@ -8496,6 +8514,15 @@
     "type": "مانغا",
     "status": "مستمر",
     "rating": ""
+  },
+  {
+    "id": "forty-millenniums-of-cultivation",
+    "title": "أربعون ألف عام من الصقل",
+    "url": "https://mangatime.org/manga/forty-millenniums-of-cultivation",
+    "cover_url": "https://mangatime.org/uploads/series/6aa9c280b3020d4a782337a4.jpg",
+    "type": "مانها",
+    "status": "مستمر",
+    "rating": "10.0"
   },
   {
     "id": "baki-gaiden-kenjin-2",
@@ -8516,22 +8543,13 @@
     "rating": ""
   },
   {
-    "id": "munou-na-nana",
-    "title": "نانا عديمة الموهبة",
-    "url": "https://mangatime.org/manga/munou-na-nana",
-    "cover_url": "https://mangatime.org/uploads/series/6aa0f951a44ea8bf5196dcae.jpg",
-    "type": "مانغا",
-    "status": "مستمر",
-    "rating": ""
-  },
-  {
-    "id": "forty-millenniums-of-cultivation",
-    "title": "أربعون ألف عام من الصقل",
-    "url": "https://mangatime.org/manga/forty-millenniums-of-cultivation",
-    "cover_url": "https://mangatime.org/uploads/series/6aa9c280b3020d4a782337a4.jpg",
+    "id": "top-tier-providence-secretly-cultivate-for-a-thousand-years",
+    "title": "عناية من الدرجة الأولى",
+    "url": "https://mangatime.org/manga/top-tier-providence-secretly-cultivate-for-a-thousand-years",
+    "cover_url": "https://mangatime.org/uploads/series/6aa9bcffb3020d4a781864bd.jpg",
     "type": "مانها",
     "status": "مستمر",
-    "rating": "10.0"
+    "rating": ""
   },
   {
     "id": "a-returners-magic-should-bespecial",
@@ -8539,6 +8557,15 @@
     "url": "https://mangatime.org/manga/a-returners-magic-should-bespecial",
     "cover_url": "https://mangatime.org/uploads/series/6aa94feab3020d4a787e5ddb.jpg",
     "type": "مانهوا",
+    "status": "مستمر",
+    "rating": ""
+  },
+  {
+    "id": "munou-na-nana",
+    "title": "نانا عديمة الموهبة",
+    "url": "https://mangatime.org/manga/munou-na-nana",
+    "cover_url": "https://mangatime.org/uploads/series/6aa0f951a44ea8bf5196dcae.jpg",
+    "type": "مانغا",
     "status": "مستمر",
     "rating": ""
   },
@@ -8597,12 +8624,57 @@
     "rating": ""
   },
   {
+    "id": "baki-revenge-tokyo",
+    "title": "باكي: إنتقام طوكيو",
+    "url": "https://mangatime.org/manga/baki-revenge-tokyo",
+    "cover_url": "https://mangatime.org/uploads/series/6a5985ce173c894644b984cb.webp",
+    "type": "مانغا",
+    "status": "مستمر",
+    "rating": ""
+  },
+  {
     "id": "skeleton-warrior",
     "title": "المحارب الهيكل العظميّ",
     "url": "https://mangatime.org/manga/skeleton-warrior",
     "cover_url": "https://mangatime.org/uploads/series/6a9242692a4d537e51d81aa8.jpg",
     "type": "مانهوا",
     "status": "مكتمل",
+    "rating": ""
+  },
+  {
+    "id": "kill-the-dragon",
+    "title": "Reloaded into the Other World",
+    "url": "https://mangatime.org/manga/kill-the-dragon",
+    "cover_url": "https://mangatime.org/uploads/cover/6a952073a2fc48e05c05f189/2026/09/mau0sqdw.jpg",
+    "type": "مانهوا",
+    "status": "مستمر",
+    "rating": "10.0"
+  },
+  {
+    "id": "past-live-regressor-remake",
+    "title": "العائد من حياة سابقة",
+    "url": "https://mangatime.org/manga/past-live-regressor-remake",
+    "cover_url": "https://mangatime.org/uploads/series/6aa6331fde4b4873fc206873.jpg",
+    "type": "مانهوا",
+    "status": "مستمر",
+    "rating": ""
+  },
+  {
+    "id": "dear-anemone",
+    "title": "عزيزي أنيمون",
+    "url": "https://mangatime.org/manga/dear-anemone",
+    "cover_url": "https://mangatime.org/uploads/series/6aa0f9e2a44ea8bf5196df57.jpg",
+    "type": "مانغا",
+    "status": "مستمر",
+    "rating": ""
+  },
+  {
+    "id": "omniscient-readers-viewpoint",
+    "title": "وجهة نظر القارئ كلّي المعرفة",
+    "url": "https://mangatime.org/manga/omniscient-readers-viewpoint",
+    "cover_url": "https://mangatime.org/uploads/series/6a8fb9a47d3207cb2faf20a0.jpg",
+    "type": "مانهوا",
+    "status": "مستمر",
     "rating": ""
   },
   {
@@ -8624,10 +8696,10 @@
     "rating": ""
   },
   {
-    "id": "baki-revenge-tokyo",
-    "title": "باكي: إنتقام طوكيو",
-    "url": "https://mangatime.org/manga/baki-revenge-tokyo",
-    "cover_url": "https://mangatime.org/uploads/series/6a5985ce173c894644b984cb.webp",
+    "id": "urareta-henkyou-haku-reijou-wa-ringoku-no-outaishi-ni-dekiai-sareru",
+    "title": "السيدة الحدودية المباعة تحظى بحب ولي عهد المملكة المجاورة",
+    "url": "https://mangatime.org/manga/urareta-henkyou-haku-reijou-wa-ringoku-no-outaishi-ni-dekiai-sareru",
+    "cover_url": "https://mangatime.org/uploads/series/6a5985c0173c894644b9848b.webp",
     "type": "مانغا",
     "status": "مستمر",
     "rating": ""
@@ -8642,15 +8714,6 @@
     "rating": "9.0"
   },
   {
-    "id": "past-live-regressor-remake",
-    "title": "العائد من حياة سابقة",
-    "url": "https://mangatime.org/manga/past-live-regressor-remake",
-    "cover_url": "https://mangatime.org/uploads/series/6aa6331fde4b4873fc206873.jpg",
-    "type": "مانهوا",
-    "status": "مستمر",
-    "rating": ""
-  },
-  {
     "id": "barakamon",
     "title": "باراكامون",
     "url": "https://mangatime.org/manga/barakamon",
@@ -8660,46 +8723,10 @@
     "rating": ""
   },
   {
-    "id": "omniscient-readers-viewpoint",
-    "title": "وجهة نظر القارئ كلّي المعرفة",
-    "url": "https://mangatime.org/manga/omniscient-readers-viewpoint",
-    "cover_url": "https://mangatime.org/uploads/series/6a8fb9a47d3207cb2faf20a0.jpg",
-    "type": "مانهوا",
-    "status": "مستمر",
-    "rating": ""
-  },
-  {
     "id": "attack-on-titan-requiem",
     "title": "هجوم العمالقة: قدّاس الفجر",
     "url": "https://mangatime.org/manga/attack-on-titan-requiem",
     "cover_url": "https://mangatime.org/uploads/series/6a8b3850253a2ecb3d78c78b.jpg",
-    "type": "مانغا",
-    "status": "مستمر",
-    "rating": ""
-  },
-  {
-    "id": "urareta-henkyou-haku-reijou-wa-ringoku-no-outaishi-ni-dekiai-sareru",
-    "title": "السيدة الحدودية المباعة تحظى بحب ولي عهد المملكة المجاورة",
-    "url": "https://mangatime.org/manga/urareta-henkyou-haku-reijou-wa-ringoku-no-outaishi-ni-dekiai-sareru",
-    "cover_url": "https://mangatime.org/uploads/series/6a5985c0173c894644b9848b.webp",
-    "type": "مانغا",
-    "status": "مستمر",
-    "rating": ""
-  },
-  {
-    "id": "kill-the-dragon",
-    "title": "Reloaded into the Other World",
-    "url": "https://mangatime.org/manga/kill-the-dragon",
-    "cover_url": "https://mangatime.org/uploads/cover/6a952073a2fc48e05c05f189/2026/09/mau0sqdw.jpg",
-    "type": "مانهوا",
-    "status": "مستمر",
-    "rating": "10.0"
-  },
-  {
-    "id": "dear-anemone",
-    "title": "عزيزي أنيمون",
-    "url": "https://mangatime.org/manga/dear-anemone",
-    "cover_url": "https://mangatime.org/uploads/series/6aa0f9e2a44ea8bf5196df57.jpg",
     "type": "مانغا",
     "status": "مستمر",
     "rating": ""
@@ -8741,15 +8768,6 @@
     "rating": ""
   },
   {
-    "id": "last-chance",
-    "title": "Last chance",
-    "url": "https://mangatime.org/manga/last-chance",
-    "cover_url": "https://mangatime.org/uploads/cover/697df75c0c5d340ac1541f88/2026/02/59shbtsj.webp",
-    "type": "مانغا",
-    "status": "مستمر",
-    "rating": ""
-  },
-  {
     "id": "dark-gathering-ygpkf",
     "title": "Dark Gathering",
     "url": "https://mangatime.org/manga/dark-gathering-ygpkf",
@@ -8759,10 +8777,37 @@
     "rating": "10.0"
   },
   {
+    "id": "kaijuu-kamui",
+    "title": "كايجو كاموي",
+    "url": "https://mangatime.org/manga/kaijuu-kamui",
+    "cover_url": "https://mangatime.org/uploads/series/6a5985d1173c894644b984d9.webp",
+    "type": "مانغا",
+    "status": "مكتمل",
+    "rating": ""
+  },
+  {
+    "id": "last-chance",
+    "title": "Last chance",
+    "url": "https://mangatime.org/manga/last-chance",
+    "cover_url": "https://mangatime.org/uploads/cover/697df75c0c5d340ac1541f88/2026/02/59shbtsj.webp",
+    "type": "مانغا",
+    "status": "مستمر",
+    "rating": ""
+  },
+  {
     "id": "banhyang-the-remote-island",
     "title": "Banhyang: The Remote Island",
     "url": "https://mangatime.org/manga/banhyang-the-remote-island",
     "cover_url": "https://mangatime.org/uploads/series/6a47579eb0e23e715bf41212.jpg",
+    "type": "مانهوا",
+    "status": "مستمر",
+    "rating": ""
+  },
+  {
+    "id": "regressing-with-the-kings-power",
+    "title": "العودة بقوة الملك",
+    "url": "https://mangatime.org/manga/regressing-with-the-kings-power",
+    "cover_url": "https://mangatime.org/uploads/series/6aa5adb2de4b4873fcf0741e.jpg",
     "type": "مانهوا",
     "status": "مستمر",
     "rating": ""
@@ -8786,15 +8831,6 @@
     "rating": ""
   },
   {
-    "id": "kaijuu-kamui",
-    "title": "كايجو كاموي",
-    "url": "https://mangatime.org/manga/kaijuu-kamui",
-    "cover_url": "https://mangatime.org/uploads/series/6a5985d1173c894644b984d9.webp",
-    "type": "مانغا",
-    "status": "مكتمل",
-    "rating": ""
-  },
-  {
     "id": "kiyora-tamayura",
     "title": "كيورا تامايورا",
     "url": "https://mangatime.org/manga/kiyora-tamayura",
@@ -8809,15 +8845,6 @@
     "url": "https://mangatime.org/manga/hawkwood",
     "cover_url": "https://mangatime.org/uploads/series/6a0a4ed569517cd60c60592a.webp",
     "type": "مانغا",
-    "status": "مستمر",
-    "rating": ""
-  },
-  {
-    "id": "top-tier-providence-secretly-cultivate-for-a-thousand-years",
-    "title": "عناية من الدرجة الأولى",
-    "url": "https://mangatime.org/manga/top-tier-providence-secretly-cultivate-for-a-thousand-years",
-    "cover_url": "https://mangatime.org/uploads/series/6aa9bcffb3020d4a781864bd.jpg",
-    "type": "مانها",
     "status": "مستمر",
     "rating": ""
   },
@@ -8882,6 +8909,15 @@
     "cover_url": "https://mangatime.org/uploads/series/6a7289c5f9bb217a88069812.jpg",
     "type": "مانغا",
     "status": "مكتمل",
+    "rating": ""
+  },
+  {
+    "id": "the-legendary-hero-is-an-academy-honors-student",
+    "title": "البطل الأسطوري طالب متفوّق",
+    "url": "https://mangatime.org/manga/the-legendary-hero-is-an-academy-honors-student",
+    "cover_url": "https://mangatime.org/uploads/series/6aaea70b7ecb87d76e4e212a.jpeg",
+    "type": "مانهوا",
+    "status": "مستمر",
     "rating": ""
   },
   {
@@ -9002,15 +9038,6 @@
     "rating": ""
   },
   {
-    "id": "regressing-with-the-kings-power",
-    "title": "العودة بقوة الملك",
-    "url": "https://mangatime.org/manga/regressing-with-the-kings-power",
-    "cover_url": "https://mangatime.org/uploads/series/6aa5adb2de4b4873fcf0741e.jpg",
-    "type": "مانهوا",
-    "status": "مستمر",
-    "rating": ""
-  },
-  {
     "id": "rokusen",
     "title": "ستة آلاف",
     "url": "https://mangatime.org/manga/rokusen",
@@ -9027,6 +9054,24 @@
     "type": "رواية",
     "status": "مستمر",
     "rating": ""
+  },
+  {
+    "id": "king-of-apocalypse",
+    "title": "ملك نهاية العالم",
+    "url": "https://mangatime.org/manga/king-of-apocalypse",
+    "cover_url": "https://mangatime.org/uploads/series/6aab3205b3020d4a7837238f-v2.png",
+    "type": "مانها",
+    "status": "مستمر",
+    "rating": ""
+  },
+  {
+    "id": "1",
+    "title": "إلى من لا يرى نفسه شئ1",
+    "url": "https://mangatime.org/manga/1",
+    "cover_url": "https://mangatime.org/uploads/cover/6a98eb7dc3688fd40c27205c/2026/09/70cdyko0.jpg",
+    "type": "كوميك",
+    "status": "مستمر",
+    "rating": "10.0"
   },
   {
     "id": "cool-doji",
@@ -9101,37 +9146,10 @@
     "rating": ""
   },
   {
-    "id": "king-of-apocalypse",
-    "title": "ملك نهاية العالم",
-    "url": "https://mangatime.org/manga/king-of-apocalypse",
-    "cover_url": "https://mangatime.org/uploads/series/6aab3205b3020d4a7837238f-v2.png",
-    "type": "مانها",
-    "status": "مستمر",
-    "rating": ""
-  },
-  {
-    "id": "1",
-    "title": "إلى من لا يرى نفسه شئ1",
-    "url": "https://mangatime.org/manga/1",
-    "cover_url": "https://mangatime.org/uploads/cover/6a98eb7dc3688fd40c27205c/2026/09/70cdyko0.jpg",
-    "type": "كوميك",
-    "status": "مستمر",
-    "rating": "10.0"
-  },
-  {
-    "id": "baki-gaiden-gaia-to-sikorsky",
-    "title": "باكي جايدن: جايا إلى سيكورسكي",
-    "url": "https://mangatime.org/manga/baki-gaiden-gaia-to-sikorsky",
-    "cover_url": "https://mangatime.org/uploads/series/6a5985d0173c894644b984d5.webp",
-    "type": "مانغا",
-    "status": "مستمر",
-    "rating": ""
-  },
-  {
-    "id": "sparrowing-windward",
-    "title": "Sparrowing Windward",
-    "url": "https://mangatime.org/manga/sparrowing-windward",
-    "cover_url": "https://mangatime.org/uploads/cover/697df75c0c5d340ac1541f88/2026/02/jq0v8yn5.webp",
+    "id": "the-regressed-mercenarys-machinations",
+    "title": "المرتزق العائد لديه خطة",
+    "url": "https://mangatime.org/manga/the-regressed-mercenarys-machinations",
+    "cover_url": "https://mangatime.org/uploads/series/6aaea1e97ecb87d76e4bf76b.jpg",
     "type": "مانهوا",
     "status": "مستمر",
     "rating": ""
@@ -9155,6 +9173,33 @@
     "rating": ""
   },
   {
+    "id": "baki-gaiden-gaia-to-sikorsky",
+    "title": "باكي جايدن: جايا إلى سيكورسكي",
+    "url": "https://mangatime.org/manga/baki-gaiden-gaia-to-sikorsky",
+    "cover_url": "https://mangatime.org/uploads/series/6a5985d0173c894644b984d5.webp",
+    "type": "مانغا",
+    "status": "مستمر",
+    "rating": ""
+  },
+  {
+    "id": "sparrowing-windward",
+    "title": "Sparrowing Windward",
+    "url": "https://mangatime.org/manga/sparrowing-windward",
+    "cover_url": "https://mangatime.org/uploads/cover/697df75c0c5d340ac1541f88/2026/02/jq0v8yn5.webp",
+    "type": "مانهوا",
+    "status": "مستمر",
+    "rating": ""
+  },
+  {
+    "id": "the-max-level-hero-has-returned",
+    "title": "البطل الأقصى مستوًى سيعود!",
+    "url": "https://mangatime.org/manga/the-max-level-hero-has-returned",
+    "cover_url": "https://mangatime.org/uploads/series/6aa749f5de4b4873fccb5740.png",
+    "type": "مانهوا",
+    "status": "مستمر",
+    "rating": ""
+  },
+  {
     "id": "one-operation-joker",
     "title": "عملية جوكر",
     "url": "https://mangatime.org/manga/one-operation-joker",
@@ -9168,6 +9213,15 @@
     "title": "إيروها النور",
     "url": "https://mangatime.org/manga/hikari-no-iroha",
     "cover_url": "https://mangatime.org/uploads/series/6a9f1d0fdfca5ffa94c7a0a8.webp",
+    "type": "مانغا",
+    "status": "مستمر",
+    "rating": ""
+  },
+  {
+    "id": "marchen-crown",
+    "title": "تاج الحكاية",
+    "url": "https://mangatime.org/manga/marchen-crown",
+    "cover_url": "https://mangatime.org/uploads/series/6a9b2eb5f91cef9502593413.webp",
     "type": "مانغا",
     "status": "مستمر",
     "rating": ""
@@ -9209,6 +9263,15 @@
     "rating": ""
   },
   {
+    "id": "زهوري-الحزينة",
+    "title": "زهوري الحزينة",
+    "url": "https://mangatime.org/manga/زهوري-الحزينة",
+    "cover_url": "https://mangatime.org/uploads/series/6a5985d2173c894644b984e1.webp",
+    "type": "مانغا",
+    "status": "مستمر",
+    "rating": ""
+  },
+  {
     "id": "home-at-the-horizon",
     "title": "المنزل في الأفق",
     "url": "https://mangatime.org/manga/home-at-the-horizon",
@@ -9236,10 +9299,10 @@
     "rating": "9.5"
   },
   {
-    "id": "marchen-crown",
-    "title": "تاج الحكاية",
-    "url": "https://mangatime.org/manga/marchen-crown",
-    "cover_url": "https://mangatime.org/uploads/series/6a9b2eb5f91cef9502593413.webp",
+    "id": "fate-prototype-sougin-no-fragments",
+    "title": "فيت/بروتوتايب: شظايا الفضة",
+    "url": "https://mangatime.org/manga/fate-prototype-sougin-no-fragments",
+    "cover_url": "https://mangatime.org/uploads/series/6a9b399ff91cef9502599e1b.jpg",
     "type": "مانغا",
     "status": "مستمر",
     "rating": ""
@@ -9254,29 +9317,11 @@
     "rating": ""
   },
   {
-    "id": "زهوري-الحزينة",
-    "title": "زهوري الحزينة",
-    "url": "https://mangatime.org/manga/زهوري-الحزينة",
-    "cover_url": "https://mangatime.org/uploads/series/6a5985d2173c894644b984e1.webp",
-    "type": "مانغا",
-    "status": "مستمر",
-    "rating": ""
-  },
-  {
-    "id": "the-max-level-hero-has-returned",
-    "title": "البطل الأقصى مستوًى سيعود!",
-    "url": "https://mangatime.org/manga/the-max-level-hero-has-returned",
-    "cover_url": "https://mangatime.org/uploads/series/6aa749f5de4b4873fccb5740.png",
+    "id": "the-skeleton-became-a-cat-dad",
+    "title": "الهيكل العظميّ صار أباً لقطّة",
+    "url": "https://mangatime.org/manga/the-skeleton-became-a-cat-dad",
+    "cover_url": "https://mangatime.org/uploads/series/6a9248852a4d537e51d84091.jpg",
     "type": "مانهوا",
-    "status": "مستمر",
-    "rating": ""
-  },
-  {
-    "id": "fate-prototype-sougin-no-fragments",
-    "title": "فيت/بروتوتايب: شظايا الفضة",
-    "url": "https://mangatime.org/manga/fate-prototype-sougin-no-fragments",
-    "cover_url": "https://mangatime.org/uploads/series/6a9b399ff91cef9502599e1b.jpg",
-    "type": "مانغا",
     "status": "مستمر",
     "rating": ""
   },
@@ -9308,10 +9353,10 @@
     "rating": ""
   },
   {
-    "id": "the-skeleton-became-a-cat-dad",
-    "title": "الهيكل العظميّ صار أباً لقطّة",
-    "url": "https://mangatime.org/manga/the-skeleton-became-a-cat-dad",
-    "cover_url": "https://mangatime.org/uploads/series/6a9248852a4d537e51d84091.jpg",
+    "id": "moonlight-hair",
+    "title": "شَعر ضوء القمر",
+    "url": "https://mangatime.org/manga/moonlight-hair",
+    "cover_url": "https://mangatime.org/uploads/series/6a91539179a4476e1fc55c7a.jpg",
     "type": "مانهوا",
     "status": "مستمر",
     "rating": ""
@@ -9326,38 +9371,20 @@
     "rating": ""
   },
   {
-    "id": "ihoujin",
-    "title": "غريب في الزنزانة",
-    "url": "https://mangatime.org/manga/ihoujin",
-    "cover_url": "https://mangatime.org/uploads/series/6a9f8692dfca5ffa94ca92b5.webp",
-    "type": "مانغا",
-    "status": "مستمر",
-    "rating": ""
-  },
-  {
-    "id": "moonlight-hair",
-    "title": "شَعر ضوء القمر",
-    "url": "https://mangatime.org/manga/moonlight-hair",
-    "cover_url": "https://mangatime.org/uploads/series/6a91539179a4476e1fc55c7a.jpg",
-    "type": "مانهوا",
-    "status": "مستمر",
-    "rating": ""
-  },
-  {
-    "id": "dragon-ball-rebirth",
-    "title": "دراغون بول: البعث",
-    "url": "https://mangatime.org/manga/dragon-ball-rebirth",
-    "cover_url": "https://mangatime.org/uploads/series/6a8a9b3b253a2ecb3d719128.jpg",
-    "type": "مانغا",
-    "status": "مستمر",
-    "rating": ""
-  },
-  {
     "id": "the-tang-clan-chronicles",
     "title": "سجلات عشيرة تانغ",
     "url": "https://mangatime.org/manga/the-tang-clan-chronicles",
     "cover_url": "https://mangatime.org/uploads/series/6aa3d28cde4b4873fc8892af.webp",
     "type": "مانهوا",
+    "status": "مستمر",
+    "rating": ""
+  },
+  {
+    "id": "ihoujin",
+    "title": "غريب في الزنزانة",
+    "url": "https://mangatime.org/manga/ihoujin",
+    "cover_url": "https://mangatime.org/uploads/series/6a9f8692dfca5ffa94ca92b5.webp",
+    "type": "مانغا",
     "status": "مستمر",
     "rating": ""
   },
@@ -9371,12 +9398,12 @@
     "rating": ""
   },
   {
-    "id": "attack-on-titan-chibi-training-squad",
-    "title": "هجوم العمالقة: فرقة التدريب — أربع لوحات",
-    "url": "https://mangatime.org/manga/attack-on-titan-chibi-training-squad",
-    "cover_url": "https://mangatime.org/uploads/series/6a8b35f6253a2ecb3d78ac71.jpg",
+    "id": "dragon-ball-rebirth",
+    "title": "دراغون بول: البعث",
+    "url": "https://mangatime.org/manga/dragon-ball-rebirth",
+    "cover_url": "https://mangatime.org/uploads/series/6a8a9b3b253a2ecb3d719128.jpg",
     "type": "مانغا",
-    "status": "مكتمل",
+    "status": "مستمر",
     "rating": ""
   },
   {
@@ -9386,6 +9413,15 @@
     "cover_url": "https://mangatime.org/uploads/series/6aaac79ab3020d4a78ea9e90.jpg",
     "type": "مانها",
     "status": "مستمر",
+    "rating": "1.0"
+  },
+  {
+    "id": "attack-on-titan-chibi-training-squad",
+    "title": "هجوم العمالقة: فرقة التدريب — أربع لوحات",
+    "url": "https://mangatime.org/manga/attack-on-titan-chibi-training-squad",
+    "cover_url": "https://mangatime.org/uploads/series/6a8b35f6253a2ecb3d78ac71.jpg",
+    "type": "مانغا",
+    "status": "مكتمل",
     "rating": ""
   },
   {
@@ -9434,6 +9470,15 @@
     "rating": "7.0"
   },
   {
+    "id": "47",
+    "title": "عميل 47",
+    "url": "https://mangatime.org/manga/47",
+    "cover_url": "https://mangatime.org/uploads/cover/6a3d2a84d1f469134c81b9bc/2026/07/l1tze9kb.jpg",
+    "type": "ويب تون",
+    "status": "متوقف مؤقتاً",
+    "rating": "10.0"
+  },
+  {
     "id": "the-legend-of-the-minkai",
     "title": "The Legend of the Minkai ",
     "url": "https://mangatime.org/manga/the-legend-of-the-minkai",
@@ -9479,13 +9524,13 @@
     "rating": "9.0"
   },
   {
-    "id": "47",
-    "title": "عميل 47",
-    "url": "https://mangatime.org/manga/47",
-    "cover_url": "https://mangatime.org/uploads/cover/6a3d2a84d1f469134c81b9bc/2026/07/l1tze9kb.jpg",
-    "type": "ويب تون",
-    "status": "متوقف مؤقتاً",
-    "rating": "10.0"
+    "id": "as-a-hijabi-girl-i-became-the-heroine",
+    "title": "As A Hijabi girl, I Became The Heroine",
+    "url": "https://mangatime.org/manga/as-a-hijabi-girl-i-became-the-heroine",
+    "cover_url": "https://mangatime.org/uploads/cover/6ab1adab180dd579316f779c/2026/09/kkx3ic2s.jpg",
+    "type": "مانهوا",
+    "status": "مستمر",
+    "rating": ""
   },
   {
     "id": "medalist",
@@ -9623,6 +9668,24 @@
     "rating": ""
   },
   {
+    "id": "groundless",
+    "title": "بلا أساس",
+    "url": "https://mangatime.org/manga/groundless",
+    "cover_url": "https://mangatime.org/uploads/series/6a5985ba173c894644b98471.webp",
+    "type": "مانغا",
+    "status": "مستمر",
+    "rating": ""
+  },
+  {
+    "id": "versus",
+    "title": "فيرسوس",
+    "url": "https://mangatime.org/manga/versus",
+    "cover_url": "https://mangatime.org/uploads/series/6aa0f7efa44ea8bf5196cbf8.jpg",
+    "type": "مانغا",
+    "status": "مستمر",
+    "rating": ""
+  },
+  {
     "id": "shoujo",
     "title": "فتاة غير مكتملة",
     "url": "https://mangatime.org/manga/shoujo",
@@ -9650,11 +9713,11 @@
     "rating": ""
   },
   {
-    "id": "groundless",
-    "title": "بلا أساس",
-    "url": "https://mangatime.org/manga/groundless",
-    "cover_url": "https://mangatime.org/uploads/series/6a5985ba173c894644b98471.webp",
-    "type": "مانغا",
+    "id": "hero-i-quit-that-a-long-time-ago",
+    "title": "اعتزلت البطولة منذ زمن",
+    "url": "https://mangatime.org/manga/hero-i-quit-that-a-long-time-ago",
+    "cover_url": "https://mangatime.org/uploads/series/6aaac519b3020d4a78e65d29.jpg",
+    "type": "مانها",
     "status": "مستمر",
     "rating": ""
   },
@@ -9704,15 +9767,6 @@
     "rating": ""
   },
   {
-    "id": "versus",
-    "title": "فيرسوس",
-    "url": "https://mangatime.org/manga/versus",
-    "cover_url": "https://mangatime.org/uploads/series/6aa0f7efa44ea8bf5196cbf8.jpg",
-    "type": "مانغا",
-    "status": "مستمر",
-    "rating": ""
-  },
-  {
     "id": "uratarou",
     "title": "أوراتارو",
     "url": "https://mangatime.org/manga/uratarou",
@@ -9731,6 +9785,24 @@
     "rating": ""
   },
   {
+    "id": "the-red-yaksha",
+    "title": "الياكشا الأحمر",
+    "url": "https://mangatime.org/manga/the-red-yaksha",
+    "cover_url": "https://mangatime.org/uploads/series/6aa39260de4b4873fc820432.jpg",
+    "type": "مانهوا",
+    "status": "مستمر",
+    "rating": ""
+  },
+  {
+    "id": "omukae-shibuya",
+    "title": "أهلاً شيبويا",
+    "url": "https://mangatime.org/manga/omukae-shibuya",
+    "cover_url": "https://mangatime.org/uploads/series/6aa0a43ca44ea8bf5194600a.jpg",
+    "type": "مانغا",
+    "status": "مكتمل",
+    "rating": ""
+  },
+  {
     "id": "ore-gentei",
     "title": "خجلي محدود النطاق",
     "url": "https://mangatime.org/manga/ore-gentei",
@@ -9745,24 +9817,6 @@
     "url": "https://mangatime.org/manga/kakashi-x-mina",
     "cover_url": "https://mangatime.org/uploads/series/6a8ac377253a2ecb3d735bc8.jpg",
     "type": "مانغا",
-    "status": "مستمر",
-    "rating": ""
-  },
-  {
-    "id": "hero-i-quit-that-a-long-time-ago",
-    "title": "اعتزلت البطولة منذ زمن",
-    "url": "https://mangatime.org/manga/hero-i-quit-that-a-long-time-ago",
-    "cover_url": "https://mangatime.org/uploads/series/6aaac519b3020d4a78e65d29.jpg",
-    "type": "مانها",
-    "status": "مستمر",
-    "rating": ""
-  },
-  {
-    "id": "the-red-yaksha",
-    "title": "الياكشا الأحمر",
-    "url": "https://mangatime.org/manga/the-red-yaksha",
-    "cover_url": "https://mangatime.org/uploads/series/6aa39260de4b4873fc820432.jpg",
-    "type": "مانهوا",
     "status": "مستمر",
     "rating": ""
   },
@@ -9785,6 +9839,15 @@
     "rating": ""
   },
   {
+    "id": "martial-inheritance",
+    "title": "ميراث القتال",
+    "url": "https://mangatime.org/manga/martial-inheritance",
+    "cover_url": "https://mangatime.org/uploads/series/6a928fa72a4d537e51dab046.jpg",
+    "type": "مانها",
+    "status": "مستمر",
+    "rating": ""
+  },
+  {
     "id": "one-million-times-of-suffocation-with-you",
     "title": "مليون مرة من الاختناق معك",
     "url": "https://mangatime.org/manga/one-million-times-of-suffocation-with-you",
@@ -9794,12 +9857,12 @@
     "rating": ""
   },
   {
-    "id": "omukae-shibuya",
-    "title": "أهلاً شيبويا",
-    "url": "https://mangatime.org/manga/omukae-shibuya",
-    "cover_url": "https://mangatime.org/uploads/series/6aa0a43ca44ea8bf5194600a.jpg",
-    "type": "مانغا",
-    "status": "مكتمل",
+    "id": "star-instructor-master-baek",
+    "title": "المدرب النجم بايك",
+    "url": "https://mangatime.org/manga/star-instructor-master-baek",
+    "cover_url": "https://mangatime.org/uploads/series/6aa59e70de4b4873fce7e76c.jpg",
+    "type": "مانهوا",
+    "status": "مستمر",
     "rating": ""
   },
   {
@@ -9866,15 +9929,6 @@
     "rating": ""
   },
   {
-    "id": "star-instructor-master-baek",
-    "title": "المدرب النجم بايك",
-    "url": "https://mangatime.org/manga/star-instructor-master-baek",
-    "cover_url": "https://mangatime.org/uploads/series/6aa59e70de4b4873fce7e76c.jpg",
-    "type": "مانهوا",
-    "status": "مستمر",
-    "rating": ""
-  },
-  {
     "id": "tousei-gensou",
     "title": "موسوعة أوهام هذا العصر",
     "url": "https://mangatime.org/manga/tousei-gensou",
@@ -9902,19 +9956,19 @@
     "rating": ""
   },
   {
-    "id": "martial-inheritance",
-    "title": "ميراث القتال",
-    "url": "https://mangatime.org/manga/martial-inheritance",
-    "cover_url": "https://mangatime.org/uploads/series/6a928fa72a4d537e51dab046.jpg",
-    "type": "مانها",
-    "status": "مستمر",
-    "rating": ""
-  },
-  {
     "id": "black-terror",
     "title": "الرعب الأسود",
     "url": "https://mangatime.org/manga/black-terror",
     "cover_url": "https://mangatime.org/uploads/series/6a92411a2a4d537e51d8112b.jpg",
+    "type": "مانغا",
+    "status": "مكتمل",
+    "rating": ""
+  },
+  {
+    "id": "dragon-ball-yardrats-the-story-of-a-survivor",
+    "title": "دراغون بول: يادرات — قصّة ناجٍ",
+    "url": "https://mangatime.org/manga/dragon-ball-yardrats-the-story-of-a-survivor",
+    "cover_url": "https://mangatime.org/uploads/series/6a8a97c2253a2ecb3d715899.jpg",
     "type": "مانغا",
     "status": "مكتمل",
     "rating": ""
@@ -9965,10 +10019,10 @@
     "rating": ""
   },
   {
-    "id": "dragon-ball-yardrats-the-story-of-a-survivor",
-    "title": "دراغون بول: يادرات — قصّة ناجٍ",
-    "url": "https://mangatime.org/manga/dragon-ball-yardrats-the-story-of-a-survivor",
-    "cover_url": "https://mangatime.org/uploads/series/6a8a97c2253a2ecb3d715899.jpg",
+    "id": "alpen-rose",
+    "title": "ورد الألب",
+    "url": "https://mangatime.org/manga/alpen-rose",
+    "cover_url": "https://mangatime.org/uploads/series/6a9f9120dfca5ffa94cadbc6.webp",
     "type": "مانغا",
     "status": "مكتمل",
     "rating": ""
@@ -9992,15 +10046,6 @@
     "rating": ""
   },
   {
-    "id": "alpen-rose",
-    "title": "ورد الألب",
-    "url": "https://mangatime.org/manga/alpen-rose",
-    "cover_url": "https://mangatime.org/uploads/series/6a9f9120dfca5ffa94cadbc6.webp",
-    "type": "مانغا",
-    "status": "مكتمل",
-    "rating": ""
-  },
-  {
     "id": "animeta",
     "title": "أنيميتا!",
     "url": "https://mangatime.org/manga/animeta",
@@ -10019,21 +10064,21 @@
     "rating": ""
   },
   {
-    "id": "mount-hua-sects-genius-phantom-swordsman",
-    "title": "عبقري سيف هواشان الشبحي",
-    "url": "https://mangatime.org/manga/mount-hua-sects-genius-phantom-swordsman",
-    "cover_url": "https://mangatime.org/uploads/series/6aa4305bde4b4873fc966587.jpg",
-    "type": "مانهوا",
-    "status": "مستمر",
-    "rating": ""
-  },
-  {
     "id": "moonlight-sculptor-4-koma",
     "title": "نحّات ضوء القمر — النسخة الكوميدية القصيرة",
     "url": "https://mangatime.org/manga/moonlight-sculptor-4-koma",
     "cover_url": "https://mangatime.org/uploads/series/6a8fb8db7d3207cb2faf1c4e.jpg",
     "type": "مانهوا",
     "status": "مكتمل",
+    "rating": ""
+  },
+  {
+    "id": "mount-hua-sects-genius-phantom-swordsman",
+    "title": "عبقري سيف هواشان الشبحي",
+    "url": "https://mangatime.org/manga/mount-hua-sects-genius-phantom-swordsman",
+    "cover_url": "https://mangatime.org/uploads/series/6aa4305bde4b4873fc966587.jpg",
+    "type": "مانهوا",
+    "status": "مستمر",
     "rating": ""
   },
   {
@@ -10118,19 +10163,10 @@
     "rating": ""
   },
   {
-    "id": "the-regressed-mercenarys-machinations",
-    "title": "المرتزق العائد لديه خطة",
-    "url": "https://mangatime.org/manga/the-regressed-mercenarys-machinations",
-    "cover_url": "https://mangatime.org/uploads/series/6aaea1e97ecb87d76e4bf76b.jpg",
-    "type": "مانهوا",
-    "status": "مستمر",
-    "rating": ""
-  },
-  {
-    "id": "the-legendary-hero-is-an-academy-honors-student",
-    "title": "البطل الأسطوري طالب متفوّق",
-    "url": "https://mangatime.org/manga/the-legendary-hero-is-an-academy-honors-student",
-    "cover_url": "https://mangatime.org/uploads/series/6aaea70b7ecb87d76e4e212a.jpeg",
+    "id": "warrior-grandpa-and-supreme-granddaughter",
+    "title": "الجدّ المحارب والحفيدة المتفوّقة",
+    "url": "https://mangatime.org/manga/warrior-grandpa-and-supreme-granddaughter",
+    "cover_url": "https://mangatime.org/uploads/series/6aafd4057ecb87d76ed95ad6.png",
     "type": "مانهوا",
     "status": "مستمر",
     "rating": ""
@@ -10244,6 +10280,15 @@
     "rating": ""
   },
   {
+    "id": "chis-sweet-home",
+    "title": "تشي: بيتنا الصغير",
+    "url": "https://mangatime.org/manga/chis-sweet-home",
+    "cover_url": "https://mangatime.org/uploads/series/6aa395ccde4b4873fc821c63.jpg",
+    "type": "مانغا",
+    "status": "مكتمل",
+    "rating": ""
+  },
+  {
     "id": "the-return-of-the-back-alley-sorcerer",
     "title": "عودة ساحر الأزقّة",
     "url": "https://mangatime.org/manga/the-return-of-the-back-alley-sorcerer",
@@ -10271,24 +10316,6 @@
     "rating": ""
   },
   {
-    "id": "the-apothecary-diaries",
-    "title": "مذكّرات الصيدلانيّة",
-    "url": "https://mangatime.org/manga/the-apothecary-diaries",
-    "cover_url": "https://mangatime.org/uploads/series/6ab37bc023a31f7c9ed0452f.jpg",
-    "type": "مانغا",
-    "status": "مستمر",
-    "rating": ""
-  },
-  {
-    "id": "chis-sweet-home",
-    "title": "تشي: بيتنا الصغير",
-    "url": "https://mangatime.org/manga/chis-sweet-home",
-    "cover_url": "https://mangatime.org/uploads/series/6aa395ccde4b4873fc821c63.jpg",
-    "type": "مانغا",
-    "status": "مكتمل",
-    "rating": ""
-  },
-  {
     "id": "anne-no-seishun",
     "title": "شباب آن",
     "url": "https://mangatime.org/manga/anne-no-seishun",
@@ -10313,6 +10340,15 @@
     "cover_url": "https://stellarsaber.pro/wp-content/uploads/2025/04/1-738x1024.png",
     "type": "مانغا",
     "status": "مستمر",
+    "rating": ""
+  },
+  {
+    "id": "fighting-girls",
+    "title": "فايتينغ غيرلز",
+    "url": "https://mangatime.org/manga/fighting-girls",
+    "cover_url": "https://mangatime.org/uploads/series/6aa239031f85820defad3393.webp",
+    "type": "مانغا",
+    "status": "مكتمل",
     "rating": ""
   },
   {
@@ -10361,28 +10397,10 @@
     "rating": ""
   },
   {
-    "id": "reincarnated-as-a-genius-prodigy-of-a-prestigious-family",
-    "title": "التناسخ كعبقريٍّ نابغة في عائلةٍ عريقة",
-    "url": "https://mangatime.org/manga/reincarnated-as-a-genius-prodigy-of-a-prestigious-family",
-    "cover_url": "https://mangatime.org/uploads/series/6aa82d90b3020d4a78bedd75.png",
-    "type": "مانهوا",
-    "status": "مستمر",
-    "rating": ""
-  },
-  {
     "id": "sekai-no-ai",
     "title": "كلمة سر العالم ماء",
     "url": "https://mangatime.org/manga/sekai-no-ai",
     "cover_url": "https://mangatime.org/uploads/series/6aa4b351de4b4873fcb022b3.jpg",
-    "type": "مانغا",
-    "status": "مكتمل",
-    "rating": ""
-  },
-  {
-    "id": "fighting-girls",
-    "title": "فايتينغ غيرلز",
-    "url": "https://mangatime.org/manga/fighting-girls",
-    "cover_url": "https://mangatime.org/uploads/series/6aa239031f85820defad3393.webp",
     "type": "مانغا",
     "status": "مكتمل",
     "rating": ""
@@ -10618,15 +10636,6 @@
     "url": "https://mangatime.org/manga/planet-of-wheat",
     "cover_url": "https://mangatime.org/uploads/series/6aa0f8cba44ea8bf5196da44.jpg",
     "type": "مانغا",
-    "status": "مستمر",
-    "rating": ""
-  },
-  {
-    "id": "warrior-grandpa-and-supreme-granddaughter",
-    "title": "الجدّ المحارب والحفيدة المتفوّقة",
-    "url": "https://mangatime.org/manga/warrior-grandpa-and-supreme-granddaughter",
-    "cover_url": "https://mangatime.org/uploads/series/6aafd4057ecb87d76ed95ad6.png",
-    "type": "مانهوا",
     "status": "مستمر",
     "rating": ""
   },

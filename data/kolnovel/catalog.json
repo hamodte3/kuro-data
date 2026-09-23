@@ -184,7 +184,7 @@
     "is_novel": true,
     "rating": "",
     "status": "مستمر",
-    "total_chapters": 3661
+    "total_chapters": 3664
   },
   {
     "id": "overgeared",
@@ -1786,15 +1786,6 @@
     "rating": "8.8"
   },
   {
-    "id": "%d9%83%d8%aa%d8%a7%d8%a8-%d8%a7%d9%84%d9%85%d8%a6%d8%a9-%d8%ad%d9%8a%d8%a7%d8%a9",
-    "title": "كتاب المئة حياة",
-    "url": "https://kolnovel.com/series/%d9%83%d8%aa%d8%a7%d8%a8-%d8%a7%d9%84%d9%85%d8%a6%d8%a9-%d8%ad%d9%8a%d8%a7%d8%a9",
-    "cover_url": "https://kolnovel.com/wp-content/uploads/2026/08/بدون-اسم124_20260822084136.png",
-    "type": "رواية",
-    "is_novel": true,
-    "rating": ""
-  },
-  {
     "id": "%d8%a7%d9%84%d9%85%d8%ad%d8%b1%d8%b1-%d8%b4%d8%ae%d8%b5%d9%8a%d8%a9-%d8%a5%d8%b6%d8%a7%d9%81%d9%8a%d8%a9-%d9%81%d9%8a-%d8%a7%d9%84%d8%b1%d9%88%d8%a7%d9%8a%d8%a9",
     "title": "المحرر شخصية إضافية في الرواية",
     "url": "https://kolnovel.com/series/%d8%a7%d9%84%d9%85%d8%ad%d8%b1%d8%b1-%d8%b4%d8%ae%d8%b5%d9%8a%d8%a9-%d8%a5%d8%b6%d8%a7%d9%81%d9%8a%d8%a9-%d9%81%d9%8a-%d8%a7%d9%84%d8%b1%d9%88%d8%a7%d9%8a%d8%a9",
@@ -1802,6 +1793,15 @@
     "type": "رواية",
     "is_novel": true,
     "rating": "8.5"
+  },
+  {
+    "id": "%d9%83%d8%aa%d8%a7%d8%a8-%d8%a7%d9%84%d9%85%d8%a6%d8%a9-%d8%ad%d9%8a%d8%a7%d8%a9",
+    "title": "كتاب المئة حياة",
+    "url": "https://kolnovel.com/series/%d9%83%d8%aa%d8%a7%d8%a8-%d8%a7%d9%84%d9%85%d8%a6%d8%a9-%d8%ad%d9%8a%d8%a7%d8%a9",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2026/08/بدون-اسم124_20260822084136.png",
+    "type": "رواية",
+    "is_novel": true,
+    "rating": ""
   },
   {
     "id": "i-want-to-eat-your-pancreas",
@@ -1885,6 +1885,15 @@
     "rating": "8.0"
   },
   {
+    "id": "%d8%b9%d9%88%d8%af%d8%a9-%d9%85%d8%a8%d8%a7%d9%84%d8%ba-%d9%81%d9%8a%d9%87%d8%a7",
+    "title": "عودة مبالغ فيها",
+    "url": "https://kolnovel.com/series/%d8%b9%d9%88%d8%af%d8%a9-%d9%85%d8%a8%d8%a7%d9%84%d8%ba-%d9%81%d9%8a%d9%87%d8%a7",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2025/09/090355.png",
+    "type": "رواية",
+    "is_novel": true,
+    "rating": "8.5"
+  },
+  {
     "id": "%d9%83%d8%a7%d8%b1%d9%87-%d8%a7%d9%84%d8%b4%d9%88%d8%ac%d9%88",
     "title": "كاره الشوجو",
     "url": "https://kolnovel.com/series/%d9%83%d8%a7%d8%b1%d9%87-%d8%a7%d9%84%d8%b4%d9%88%d8%ac%d9%88",
@@ -1901,15 +1910,6 @@
     "type": "رواية",
     "is_novel": true,
     "rating": "7.5"
-  },
-  {
-    "id": "%d8%b9%d9%88%d8%af%d8%a9-%d9%85%d8%a8%d8%a7%d9%84%d8%ba-%d9%81%d9%8a%d9%87%d8%a7",
-    "title": "عودة مبالغ فيها",
-    "url": "https://kolnovel.com/series/%d8%b9%d9%88%d8%af%d8%a9-%d9%85%d8%a8%d8%a7%d9%84%d8%ba-%d9%81%d9%8a%d9%87%d8%a7",
-    "cover_url": "https://kolnovel.com/wp-content/uploads/2025/09/090355.png",
-    "type": "رواية",
-    "is_novel": true,
-    "rating": "8.5"
   },
   {
     "id": "%d8%a7%d8%ad%d9%85%d9%84-%d8%ae%d8%a7%d8%aa%d9%85-%d8%a5%d9%84%d8%af%d9%86",
@@ -2137,15 +2137,6 @@
     "rating": "8.0"
   },
   {
-    "id": "%d9%83%d9%8a%d9%81-%d8%a3%d8%b9%d8%a7%d8%af-%d8%a8%d8%b7%d9%84-%d9%88%d8%a7%d9%82%d8%b9%d9%8a-%d8%a8%d9%86%d8%a7%d8%a1-%d8%a7%d9%84%d9%85%d9%85%d9%84%d9%83%d8%a9",
-    "title": "كيف أعاد بطل واقعي بناء المملكة",
-    "url": "https://kolnovel.com/series/%d9%83%d9%8a%d9%81-%d8%a3%d8%b9%d8%a7%d8%af-%d8%a8%d8%b7%d9%84-%d9%88%d8%a7%d9%82%d8%b9%d9%8a-%d8%a8%d9%86%d8%a7%d8%a1-%d8%a7%d9%84%d9%85%d9%85%d9%84%d9%83%d8%a9",
-    "cover_url": "https://kolnovel.com/wp-content/uploads/2026/08/RealistHero-LN-v02-Cover.jpg",
-    "type": "رواية",
-    "is_novel": true,
-    "rating": ""
-  },
-  {
     "id": "%d9%85%d9%87%d9%84%d8%a9-%d8%a7%d9%84%d8%b9%d8%b4%d8%b1-%d8%a3%d9%8a%d8%a7%d9%85",
     "title": "مهلة العشر أيام",
     "url": "https://kolnovel.com/series/%d9%85%d9%87%d9%84%d8%a9-%d8%a7%d9%84%d8%b9%d8%b4%d8%b1-%d8%a3%d9%8a%d8%a7%d9%85",
@@ -2153,6 +2144,15 @@
     "type": "رواية",
     "is_novel": true,
     "rating": "8.5"
+  },
+  {
+    "id": "%d9%83%d9%8a%d9%81-%d8%a3%d8%b9%d8%a7%d8%af-%d8%a8%d8%b7%d9%84-%d9%88%d8%a7%d9%82%d8%b9%d9%8a-%d8%a8%d9%86%d8%a7%d8%a1-%d8%a7%d9%84%d9%85%d9%85%d9%84%d9%83%d8%a9",
+    "title": "كيف أعاد بطل واقعي بناء المملكة",
+    "url": "https://kolnovel.com/series/%d9%83%d9%8a%d9%81-%d8%a3%d8%b9%d8%a7%d8%af-%d8%a8%d8%b7%d9%84-%d9%88%d8%a7%d9%82%d8%b9%d9%8a-%d8%a8%d9%86%d8%a7%d8%a1-%d8%a7%d9%84%d9%85%d9%85%d9%84%d9%83%d8%a9",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2026/08/RealistHero-LN-v02-Cover.jpg",
+    "type": "رواية",
+    "is_novel": true,
+    "rating": ""
   },
   {
     "id": "m-f-kol",
@@ -2173,19 +2173,19 @@
     "rating": "6.0"
   },
   {
-    "id": "%d9%85%d8%ac%d9%84%d8%b3-%d8%a7%d9%84%d8%ae%d8%a7%d9%84",
-    "title": "مجلس الخال!",
-    "url": "https://kolnovel.com/series/%d9%85%d8%ac%d9%84%d8%b3-%d8%a7%d9%84%d8%ae%d8%a7%d9%84",
-    "cover_url": "https://kolnovel.com/wp-content/uploads/2024/11/14_20241108121832.png",
+    "id": "%d8%a7%d9%84%d9%85%d9%8f%d8%aa%d9%8e%d8%ad%d9%8e%d8%b1%d9%90%d9%91%d8%b1",
+    "title": "المُتَحَرِّر",
+    "url": "https://kolnovel.com/series/%d8%a7%d9%84%d9%85%d9%8f%d8%aa%d9%8e%d8%ad%d9%8e%d8%b1%d9%90%d9%91%d8%b1",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2026/09/cover.png",
     "type": "رواية",
     "is_novel": true,
     "rating": "7.5"
   },
   {
-    "id": "%d8%a7%d9%84%d9%85%d9%8f%d8%aa%d9%8e%d8%ad%d9%8e%d8%b1%d9%90%d9%91%d8%b1",
-    "title": "المُتَحَرِّر",
-    "url": "https://kolnovel.com/series/%d8%a7%d9%84%d9%85%d9%8f%d8%aa%d9%8e%d8%ad%d9%8e%d8%b1%d9%90%d9%91%d8%b1",
-    "cover_url": "https://kolnovel.com/wp-content/uploads/2026/09/cover.png",
+    "id": "%d9%85%d8%ac%d9%84%d8%b3-%d8%a7%d9%84%d8%ae%d8%a7%d9%84",
+    "title": "مجلس الخال!",
+    "url": "https://kolnovel.com/series/%d9%85%d8%ac%d9%84%d8%b3-%d8%a7%d9%84%d8%ae%d8%a7%d9%84",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2024/11/14_20241108121832.png",
     "type": "رواية",
     "is_novel": true,
     "rating": "7.5"
@@ -2362,13 +2362,13 @@
     "rating": "8.0"
   },
   {
-    "id": "%d8%b9%d9%8a%d8%af-%d9%86%d9%87%d8%a7%d9%8a%d8%a9-%d8%a7%d9%84%d8%b3%d9%86%d8%a9-%d9%84%d8%a7-%d9%8a%d8%a3%d8%aa%d9%8a-%d9%85%d9%86-%d8%a3%d8%ac%d9%84%d9%86%d8%a7",
-    "title": "عيد نهاية السنة لا يأتي من أجلنا",
-    "url": "https://kolnovel.com/series/%d8%b9%d9%8a%d8%af-%d9%86%d9%87%d8%a7%d9%8a%d8%a9-%d8%a7%d9%84%d8%b3%d9%86%d8%a9-%d9%84%d8%a7-%d9%8a%d8%a3%d8%aa%d9%8a-%d9%85%d9%86-%d8%a3%d8%ac%d9%84%d9%86%d8%a7",
-    "cover_url": "https://kolnovel.com/wp-content/uploads/2026/01/Screenshot_٢٠٢٦-٠١-٠٥-٢١-٠٠-٢٢-٨٢٢-edit_com.discord.jpg",
+    "id": "%d8%ad%d8%aa%d9%89-%d8%a7%d9%84%d8%b9%d9%86%d8%a7%d9%83%d8%a8-%d8%aa%d8%ae%d8%aa%d9%86%d9%82-%d9%87%d9%86%d8%a7",
+    "title": "حتى العناكب تختنق هنا",
+    "url": "https://kolnovel.com/series/%d8%ad%d8%aa%d9%89-%d8%a7%d9%84%d8%b9%d9%86%d8%a7%d9%83%d8%a8-%d8%aa%d8%ae%d8%aa%d9%86%d9%82-%d9%87%d9%86%d8%a7",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2025/04/3e04a3b3641808b1fdeb81fc0b5f8769.jpg",
     "type": "رواية",
     "is_novel": true,
-    "rating": "7.5"
+    "rating": "8.0"
   },
   {
     "id": "%d8%b0%d8%a7%d9%83%d8%b1%d8%a9-%d9%84%d9%84%d8%a8%d9%8a%d8%b9",
@@ -2378,15 +2378,6 @@
     "type": "رواية",
     "is_novel": true,
     "rating": ""
-  },
-  {
-    "id": "%d8%ad%d8%aa%d9%89-%d8%a7%d9%84%d8%b9%d9%86%d8%a7%d9%83%d8%a8-%d8%aa%d8%ae%d8%aa%d9%86%d9%82-%d9%87%d9%86%d8%a7",
-    "title": "حتى العناكب تختنق هنا",
-    "url": "https://kolnovel.com/series/%d8%ad%d8%aa%d9%89-%d8%a7%d9%84%d8%b9%d9%86%d8%a7%d9%83%d8%a8-%d8%aa%d8%ae%d8%aa%d9%86%d9%82-%d9%87%d9%86%d8%a7",
-    "cover_url": "https://kolnovel.com/wp-content/uploads/2025/04/3e04a3b3641808b1fdeb81fc0b5f8769.jpg",
-    "type": "رواية",
-    "is_novel": true,
-    "rating": "8.0"
   },
   {
     "id": "%d8%a7%d9%84%d8%b4%d8%a8%d8%ad-%d8%a7%d9%84%d8%a8%d8%a7%d9%83%d9%8a",
