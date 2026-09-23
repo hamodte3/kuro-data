@@ -2,6 +2,7 @@ import json
 import os
 import re
 import time
+import subprocess
 from bs4 import BeautifulSoup
 from curl_cffi import requests
 
@@ -11,19 +12,12 @@ CATALOG_FILE = os.path.join(DATA_DIR, "catalog.json")
 
 # تجربة مبدئية لأول 10 أعمال لفحص السحابة
 DETAILS_SYNC_LIMIT = 10
-MAX_PAGES_SAFETY = 5
+MAX_PAGES_SAFETY = 125
 
 os.makedirs(DATA_DIR, exist_ok=True)
 
-HEADERS = {
-    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36",
-    "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8",
-    "Accept-Language": "ar,en-US;q=0.8,en;q=0.5",
-    "Referer": f"{BASE_URL}/",
-}
-
 def get_session():
-    # نترك curl_cffi يضبط الترويسات الأصلية المتوافقة تماماً مع بصمة المتصفح
+    # محاكاة متصفح Chrome حديث لتجاوز فحص Cloudflare
     session = requests.Session(impersonate="chrome124")
     session.headers.update({
         "Accept-Language": "ar,en-US;q=0.9,en;q=0.8",
@@ -35,7 +29,7 @@ def get_session():
         "Upgrade-Insecure-Requests": "1",
     })
     return session
-    
+
 def normalize_url(raw_url: str) -> str:
     if not raw_url: return ""
     u = raw_url.strip()
@@ -71,7 +65,6 @@ def scrape_teamx_details(session, slug: str) -> dict:
 
     genres = [a.get_text(strip=True) for a in soup.select("div.review-author-info a")]
 
-    # 🎯 استخراج الفصول وسد الفجوات
     chapters_map = {}
     number_regex = re.compile(r"\d+(\.\d+)?")
     found_numbers = set()
@@ -89,7 +82,6 @@ def scrape_teamx_details(session, slug: str) -> dict:
             except ValueError:
                 pass
 
-    # حساب العداد الكلي وسد الفجوات بروابط صريحة
     total_match = re.search(r"(?:قائمة الفصول|الفصول)\s*\(([0-9]+)\)", html)
     total_count = int(total_match.group(1)) if total_match else 0
     max_ch = max(max(found_numbers) if found_numbers else 0, total_count)
@@ -155,11 +147,9 @@ def sync_teamx():
         print(f"Team X [صفحة {page}]: تم جمع {len(catalog)} عمل.")
         time.sleep(1)
 
-    # حفظ الفهرس العام
     with open(CATALOG_FILE, "w", encoding="utf-8") as f:
         json.dump(catalog, f, ensure_ascii=False, indent=2)
 
-    # مزامنة تفاصيل أول 10 أعمال كتجربة
     targets = catalog[:DETAILS_SYNC_LIMIT]
     for idx, item in enumerate(targets, 1):
         slug = item["id"]
@@ -173,7 +163,29 @@ def sync_teamx():
         except Exception as e:
             print(f"خطأ أثناء تجهيز {slug}: {e}")
 
-    print("\n⚡ اكتملت مزامنة Team X التجريبية بنجاح!")
+    print("\n⚡ اكتملت مزامنة البيانات وحفظها محلياً في مجلد data/teamx!")
+
+# 🎯 الدالة المسؤولة عن الرفع لـ GitHub تلقائياً
+def auto_push_to_github():
+    print("\n📤 جاري فرض رفع التحديثات إلى GitHub إجبارياً...")
+    try:
+        # فحص وجود أي تغييرات في مجلد البيانات
+        status = subprocess.run(["git", "status", "--porcelain", "data/teamx/"], capture_output=True, text=True)
+        if not status.stdout.strip():
+            print("✨ لا توجد أي بيانات جديدة للرفع.")
+            return
+
+        # إضافة التغييرات والالتزام
+        subprocess.run(["git", "add", "data/teamx/"], check=True)
+        commit_msg = f"Force update: TeamX data ({time.strftime('%Y-%m-%d %H:%M')})"
+        subprocess.run(["git", "commit", "-m", commit_msg], check=True)
+
+        # 🎯 دفع إجباري مباشر يتجاوز أي فوارق أو تعارضات على السيرفر
+        subprocess.run(["git", "push", "origin", "main", "--force"], check=True)
+        print("⚡ تم فرض الرفع (Force Push) بنجاح إلى المستودع!")
+    except subprocess.CalledProcessError as e:
+        print(f"❌ حدث خطأ أثناء الرفع الإجباري: {e}")
 
 if __name__ == "__main__":
     sync_teamx()
+    auto_push_to_github()
