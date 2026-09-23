@@ -1,1 +1,2009 @@
-[]
+[
+  {
+    "id": "the-quest-for-immortality",
+    "title": "السعي إلى العمر الطويل",
+    "url": "https://seanovel.org/novels/the-quest-for-immortality",
+    "cover_url": "https://seanovel.org/api/novel/the-quest-for-immortality/cover",
+    "type": "رواية",
+    "status": "مستمر",
+    "rating": ""
+  },
+  {
+    "id": "the-greatest-sinner",
+    "title": "أعظم الخاطئين",
+    "url": "https://seanovel.org/novels/the-greatest-sinner",
+    "cover_url": "https://seanovel.org/api/novel/the-greatest-sinner/cover",
+    "type": "رواية",
+    "status": "مستمر",
+    "rating": ""
+  },
+  {
+    "id": "the-younger-son-of-the-lord-of-the-sword",
+    "title": "الابن الأصغر لسيد السيف",
+    "url": "https://seanovel.org/novels/the-younger-son-of-the-lord-of-the-sword",
+    "cover_url": "https://seanovel.org/api/novel/the-younger-son-of-the-lord-of-the-sword/cover",
+    "type": "رواية",
+    "status": "مستمر",
+    "rating": ""
+  },
+  {
+    "id": "the-combative-universe",
+    "title": "الكون القتالي",
+    "url": "https://seanovel.org/novels/the-combative-universe",
+    "cover_url": "https://seanovel.org/api/novel/the-combative-universe/cover",
+    "type": "رواية",
+    "status": "مستمر",
+    "rating": ""
+  },
+  {
+    "id": "the-birth-of-the-devils-sword",
+    "title": "ولادة السيف الشيطاني",
+    "url": "https://seanovel.org/novels/the-birth-of-the-devils-sword",
+    "cover_url": "https://seanovel.org/api/novel/the-birth-of-the-devils-sword/cover",
+    "type": "رواية",
+    "status": "مستمر",
+    "rating": ""
+  },
+  {
+    "id": "rebirth-of-the-thief",
+    "title": "ولادة جديدة للص",
+    "url": "https://seanovel.org/novels/rebirth-of-the-thief",
+    "cover_url": "https://seanovel.org/api/novel/rebirth-of-the-thief/cover",
+    "type": "رواية",
+    "status": "مستمر",
+    "rating": ""
+  },
+  {
+    "id": "6907f4f3c82c7dbad2b562e0",
+    "title": "النحات الأسطوري لضوء القمر",
+    "url": "https://seanovel.org/novels/6907f4f3c82c7dbad2b562e0",
+    "cover_url": "https://seanovel.org/api/novel/6907f4f3c82c7dbad2b562e0/cover",
+    "type": "رواية",
+    "status": "مستمر",
+    "rating": ""
+  },
+  {
+    "id": "invincible",
+    "title": "لا يقهر",
+    "url": "https://seanovel.org/novels/invincible",
+    "cover_url": "https://seanovel.org/api/novel/invincible/cover",
+    "type": "رواية",
+    "status": "مستمر",
+    "rating": ""
+  },
+  {
+    "id": "cursed-immortality",
+    "title": "الخلود الملعون",
+    "url": "https://seanovel.org/novels/cursed-immortality",
+    "cover_url": "https://seanovel.org/api/novel/cursed-immortality/cover",
+    "type": "رواية",
+    "status": "مستمر",
+    "rating": ""
+  },
+  {
+    "id": "6901e9bfcc7a2812b61205c1",
+    "title": "عودة البطل",
+    "url": "https://seanovel.org/novels/6901e9bfcc7a2812b61205c1",
+    "cover_url": "https://seanovel.org/api/novel/6901e9bfcc7a2812b61205c1/cover",
+    "type": "رواية",
+    "status": "مستمر",
+    "rating": ""
+  },
+  {
+    "id": "global-game-afk-in-the-zombie-apocalypse-game",
+    "title": "لعبة عالمية: AFK في لعبة زومبي نهاية العالم",
+    "url": "https://seanovel.org/novels/global-game-afk-in-the-zombie-apocalypse-game",
+    "cover_url": "https://seanovel.org/api/novel/global-game-afk-in-the-zombie-apocalypse-game/cover",
+    "type": "رواية",
+    "status": "مستمر",
+    "rating": ""
+  },
+  {
+    "id": "to-be-a-power-in-the-shadows",
+    "title": "أن تكون قوة في الظلال!",
+    "url": "https://seanovel.org/novels/to-be-a-power-in-the-shadows",
+    "cover_url": "https://seanovel.org/api/novel/to-be-a-power-in-the-shadows/cover",
+    "type": "رواية",
+    "status": "مستمر",
+    "rating": ""
+  },
+  {
+    "id": "solo-leveling",
+    "title": "رفع المستوى منفرداً",
+    "url": "https://seanovel.org/novels/solo-leveling",
+    "cover_url": "https://seanovel.org/api/novel/solo-leveling/cover",
+    "type": "رواية",
+    "status": "مستمر",
+    "rating": ""
+  },
+  {
+    "id": "the-first-order",
+    "title": "النظام الأول",
+    "url": "https://seanovel.org/novels/the-first-order",
+    "cover_url": "https://seanovel.org/api/novel/the-first-order/cover",
+    "type": "رواية",
+    "status": "مستمر",
+    "rating": ""
+  },
+  {
+    "id": "mystery-hunter",
+    "title": "صياد الألغاز",
+    "url": "https://seanovel.org/novels/mystery-hunter",
+    "cover_url": "https://seanovel.org/api/novel/mystery-hunter/cover",
+    "type": "رواية",
+    "status": "مستمر",
+    "rating": ""
+  },
+  {
+    "id": "6905c6a9cc7a2812b616d09f",
+    "title": "​القطعة 31 تقلب لوح اللعبة",
+    "url": "https://seanovel.org/novels/6905c6a9cc7a2812b616d09f",
+    "cover_url": "https://seanovel.org/api/novel/6905c6a9cc7a2812b616d09f/cover",
+    "type": "رواية",
+    "status": "مستمر",
+    "rating": ""
+  },
+  {
+    "id": "simulation-suppressing-the-fate-of-heaven-i-became-an-immortal-in-three-days",
+    "title": "المحاكاة: بقمع قدر السماء، أصبحت ذا عمر طويل في ثلاثة أيام",
+    "url": "https://seanovel.org/novels/simulation-suppressing-the-fate-of-heaven-i-became-an-immortal-in-three-days",
+    "cover_url": "https://seanovel.org/api/novel/simulation-suppressing-the-fate-of-heaven-i-became-an-immortal-in-three-days/cover",
+    "type": "رواية",
+    "status": "مستمر",
+    "rating": ""
+  },
+  {
+    "id": "sss-class-suicide-hunter",
+    "title": "صياد الانتحار من الفئة SSS",
+    "url": "https://seanovel.org/novels/sss-class-suicide-hunter",
+    "cover_url": "https://seanovel.org/api/novel/sss-class-suicide-hunter/cover",
+    "type": "رواية",
+    "status": "مستمر",
+    "rating": ""
+  },
+  {
+    "id": "novel-294",
+    "title": "الإنتقال إلى عالم ون بيس مع علبة هدايا",
+    "url": "https://seanovel.org/novels/novel-294",
+    "cover_url": "https://seanovel.org/api/novel/novel-294/cover",
+    "type": "رواية",
+    "status": "مستمر",
+    "rating": ""
+  },
+  {
+    "id": "the-infinite-magician",
+    "title": "الساحر اللانهائي",
+    "url": "https://seanovel.org/novels/the-infinite-magician",
+    "cover_url": "https://seanovel.org/api/novel/the-infinite-magician/cover",
+    "type": "رواية",
+    "status": "مستمر",
+    "rating": ""
+  },
+  {
+    "id": "the-irregular-at-magic-high-school-mahouka-koukou-no-rettous",
+    "title": "المختلف في مدرسة السحر الثانوية",
+    "url": "https://seanovel.org/novels/the-irregular-at-magic-high-school-mahouka-koukou-no-rettous",
+    "cover_url": "https://seanovel.org/api/novel/the-irregular-at-magic-high-school-mahouka-koukou-no-rettous/cover",
+    "type": "رواية",
+    "status": "مستمر",
+    "rating": ""
+  },
+  {
+    "id": "novel-120",
+    "title": "نواة الدم اللانهائية",
+    "url": "https://seanovel.org/novels/novel-120",
+    "cover_url": "https://seanovel.org/api/novel/novel-120/cover",
+    "type": "رواية",
+    "status": "مستمر",
+    "rating": ""
+  },
+  {
+    "id": "the-reaper-of-the-drifting-moon",
+    "title": "حاصد القمر المنجرف",
+    "url": "https://seanovel.org/novels/the-reaper-of-the-drifting-moon",
+    "cover_url": "https://seanovel.org/api/novel/the-reaper-of-the-drifting-moon/cover",
+    "type": "رواية",
+    "status": "مستمر",
+    "rating": ""
+  },
+  {
+    "id": "my-wife-is-the-demonic-cult-leader",
+    "title": "زوجتي هي زعيمة طائفة شيطانية",
+    "url": "https://seanovel.org/novels/my-wife-is-the-demonic-cult-leader",
+    "cover_url": "https://seanovel.org/api/novel/my-wife-is-the-demonic-cult-leader/cover",
+    "type": "رواية",
+    "status": "مستمر",
+    "rating": ""
+  },
+  {
+    "id": "the-dark-king",
+    "title": "الملك المظلم",
+    "url": "https://seanovel.org/novels/the-dark-king",
+    "cover_url": "https://seanovel.org/api/novel/the-dark-king/cover",
+    "type": "رواية",
+    "status": "مستمر",
+    "rating": ""
+  },
+  {
+    "id": "water-magician",
+    "title": "ساحر الماء",
+    "url": "https://seanovel.org/novels/water-magician",
+    "cover_url": "https://seanovel.org/api/novel/water-magician/cover",
+    "type": "رواية",
+    "status": "مستمر",
+    "rating": ""
+  },
+  {
+    "id": "novel-198",
+    "title": "إمبراطور الخيمياء من العالم السماوي",
+    "url": "https://seanovel.org/novels/novel-198",
+    "cover_url": "https://seanovel.org/api/novel/novel-198/cover",
+    "type": "رواية",
+    "status": "مستمر",
+    "rating": ""
+  },
+  {
+    "id": "run-away-this-civilization-is-cheating",
+    "title": "اهربوا، هذه الحضارة تغش!",
+    "url": "https://seanovel.org/novels/run-away-this-civilization-is-cheating",
+    "cover_url": "https://seanovel.org/api/novel/run-away-this-civilization-is-cheating/cover",
+    "type": "رواية",
+    "status": "مستمر",
+    "rating": ""
+  },
+  {
+    "id": "691ad0f9598211bfce5688d5",
+    "title": "إمبراطور التنين الأبدي",
+    "url": "https://seanovel.org/novels/691ad0f9598211bfce5688d5",
+    "cover_url": "https://seanovel.org/api/novel/691ad0f9598211bfce5688d5/cover",
+    "type": "رواية",
+    "status": "مستمر",
+    "rating": ""
+  },
+  {
+    "id": "85042",
+    "title": "مكتبة الخيال",
+    "url": "https://seanovel.org/novels/85042",
+    "cover_url": "https://seanovel.org/api/novel/85042/cover",
+    "type": "رواية",
+    "status": "مستمر",
+    "rating": ""
+  },
+  {
+    "id": "first-immortal-of-the-sword",
+    "title": "first immortal of the sword",
+    "url": "https://seanovel.org/novels/first-immortal-of-the-sword",
+    "cover_url": "https://seanovel.org/api/novel/first-immortal-of-the-sword/cover",
+    "type": "رواية",
+    "status": "مستمر",
+    "rating": ""
+  },
+  {
+    "id": "death-of-an-extra-i-am-the-son-of-hades",
+    "title": "death of an extra i am the son of hades",
+    "url": "https://seanovel.org/novels/death-of-an-extra-i-am-the-son-of-hades",
+    "cover_url": "https://seanovel.org/api/novel/death-of-an-extra-i-am-the-son-of-hades/cover",
+    "type": "رواية",
+    "status": "مستمر",
+    "rating": ""
+  },
+  {
+    "id": "shadow-slave",
+    "title": "shadow slave",
+    "url": "https://seanovel.org/novels/shadow-slave",
+    "cover_url": "https://seanovel.org/api/novel/shadow-slave/cover",
+    "type": "رواية",
+    "status": "مستمر",
+    "rating": ""
+  },
+  {
+    "id": "i-became-the-pope-now-what",
+    "title": "i became the pope now what",
+    "url": "https://seanovel.org/novels/i-became-the-pope-now-what",
+    "cover_url": "https://seanovel.org/api/novel/i-became-the-pope-now-what/cover",
+    "type": "رواية",
+    "status": "مستمر",
+    "rating": ""
+  },
+  {
+    "id": "getting-a-technology-system-in-modern-day",
+    "title": "getting a technology system in modern day",
+    "url": "https://seanovel.org/novels/getting-a-technology-system-in-modern-day",
+    "cover_url": "https://seanovel.org/api/novel/getting-a-technology-system-in-modern-day/cover",
+    "type": "رواية",
+    "status": "مستمر",
+    "rating": ""
+  },
+  {
+    "id": "radiant-blade-of-the-wilderness",
+    "title": "radiant blade of the wilderness",
+    "url": "https://seanovel.org/novels/radiant-blade-of-the-wilderness",
+    "cover_url": "https://seanovel.org/api/novel/radiant-blade-of-the-wilderness/cover",
+    "type": "رواية",
+    "status": "مستمر",
+    "rating": ""
+  },
+  {
+    "id": "novel-496",
+    "title": "novel 496",
+    "url": "https://seanovel.org/novels/novel-496",
+    "cover_url": "https://seanovel.org/api/novel/novel-496/cover",
+    "type": "رواية",
+    "status": "مستمر",
+    "rating": ""
+  },
+  {
+    "id": "release-that-witch",
+    "title": "release that witch",
+    "url": "https://seanovel.org/novels/release-that-witch",
+    "cover_url": "https://seanovel.org/api/novel/release-that-witch/cover",
+    "type": "رواية",
+    "status": "مستمر",
+    "rating": ""
+  },
+  {
+    "id": "the-steward-demonic-emperor",
+    "title": "the steward demonic emperor",
+    "url": "https://seanovel.org/novels/the-steward-demonic-emperor",
+    "cover_url": "https://seanovel.org/api/novel/the-steward-demonic-emperor/cover",
+    "type": "رواية",
+    "status": "مستمر",
+    "rating": ""
+  },
+  {
+    "id": "throne-of-magic-arcana",
+    "title": "throne of magic arcana",
+    "url": "https://seanovel.org/novels/throne-of-magic-arcana",
+    "cover_url": "https://seanovel.org/api/novel/throne-of-magic-arcana/cover",
+    "type": "رواية",
+    "status": "مستمر",
+    "rating": ""
+  },
+  {
+    "id": "black-tech-internet-cafe-system",
+    "title": "black tech internet cafe system",
+    "url": "https://seanovel.org/novels/black-tech-internet-cafe-system",
+    "cover_url": "https://seanovel.org/api/novel/black-tech-internet-cafe-system/cover",
+    "type": "رواية",
+    "status": "مستمر",
+    "rating": ""
+  },
+  {
+    "id": "lord-of-mysteries",
+    "title": "lord of mysteries",
+    "url": "https://seanovel.org/novels/lord-of-mysteries",
+    "cover_url": "https://seanovel.org/api/novel/lord-of-mysteries/cover",
+    "type": "رواية",
+    "status": "مستمر",
+    "rating": ""
+  },
+  {
+    "id": "my-death-flags-show-no-sign-of-ending",
+    "title": "my death flags show no sign of ending",
+    "url": "https://seanovel.org/novels/my-death-flags-show-no-sign-of-ending",
+    "cover_url": "https://seanovel.org/api/novel/my-death-flags-show-no-sign-of-ending/cover",
+    "type": "رواية",
+    "status": "مستمر",
+    "rating": ""
+  },
+  {
+    "id": "68db80d61871e67f86edf623",
+    "title": "68db80d61871e67f86edf623",
+    "url": "https://seanovel.org/novels/68db80d61871e67f86edf623",
+    "cover_url": "https://seanovel.org/api/novel/68db80d61871e67f86edf623/cover",
+    "type": "رواية",
+    "status": "مستمر",
+    "rating": ""
+  },
+  {
+    "id": "690e07cc6f0a5426d225f06f",
+    "title": "690e07cc6f0a5426d225f06f",
+    "url": "https://seanovel.org/novels/690e07cc6f0a5426d225f06f",
+    "cover_url": "https://seanovel.org/api/novel/690e07cc6f0a5426d225f06f/cover",
+    "type": "رواية",
+    "status": "مستمر",
+    "rating": ""
+  },
+  {
+    "id": "sevens",
+    "title": "sevens",
+    "url": "https://seanovel.org/novels/sevens",
+    "cover_url": "https://seanovel.org/api/novel/sevens/cover",
+    "type": "رواية",
+    "status": "مستمر",
+    "rating": ""
+  },
+  {
+    "id": "the-legend-of-ling-tian",
+    "title": "the legend of ling tian",
+    "url": "https://seanovel.org/novels/the-legend-of-ling-tian",
+    "cover_url": "https://seanovel.org/api/novel/the-legend-of-ling-tian/cover",
+    "type": "رواية",
+    "status": "مستمر",
+    "rating": ""
+  },
+  {
+    "id": "first-legendary-dragon-starting-with-the-limitless-system",
+    "title": "first legendary dragon starting with the limitless system",
+    "url": "https://seanovel.org/novels/first-legendary-dragon-starting-with-the-limitless-system",
+    "cover_url": "https://seanovel.org/api/novel/first-legendary-dragon-starting-with-the-limitless-system/cover",
+    "type": "رواية",
+    "status": "مستمر",
+    "rating": ""
+  },
+  {
+    "id": "starting-as-a-son-in-law-to-establish-an-immortal-family",
+    "title": "starting as a son in law to establish an immortal family",
+    "url": "https://seanovel.org/novels/starting-as-a-son-in-law-to-establish-an-immortal-family",
+    "cover_url": "https://seanovel.org/api/novel/starting-as-a-son-in-law-to-establish-an-immortal-family/cover",
+    "type": "رواية",
+    "status": "مستمر",
+    "rating": ""
+  },
+  {
+    "id": "the-sacred-ruins",
+    "title": "the sacred ruins",
+    "url": "https://seanovel.org/novels/the-sacred-ruins",
+    "cover_url": "https://seanovel.org/api/novel/the-sacred-ruins/cover",
+    "type": "رواية",
+    "status": "مستمر",
+    "rating": ""
+  },
+  {
+    "id": "6909c972d65992c7d04ef4ae",
+    "title": "6909c972d65992c7d04ef4ae",
+    "url": "https://seanovel.org/novels/6909c972d65992c7d04ef4ae",
+    "cover_url": "https://seanovel.org/api/novel/6909c972d65992c7d04ef4ae/cover",
+    "type": "رواية",
+    "status": "مستمر",
+    "rating": ""
+  },
+  {
+    "id": "kingdom-dynasty",
+    "title": "kingdom dynasty",
+    "url": "https://seanovel.org/novels/kingdom-dynasty",
+    "cover_url": "https://seanovel.org/api/novel/kingdom-dynasty/cover",
+    "type": "رواية",
+    "status": "مستمر",
+    "rating": ""
+  },
+  {
+    "id": "novel-1649",
+    "title": "novel 1649",
+    "url": "https://seanovel.org/novels/novel-1649",
+    "cover_url": "https://seanovel.org/api/novel/novel-1649/cover",
+    "type": "رواية",
+    "status": "مستمر",
+    "rating": ""
+  },
+  {
+    "id": "surviving-the-game-as-a-barbarian",
+    "title": "surviving the game as a barbarian",
+    "url": "https://seanovel.org/novels/surviving-the-game-as-a-barbarian",
+    "cover_url": "https://seanovel.org/api/novel/surviving-the-game-as-a-barbarian/cover",
+    "type": "رواية",
+    "status": "مستمر",
+    "rating": ""
+  },
+  {
+    "id": "the-all-encompassing-reader",
+    "title": "the all encompassing reader",
+    "url": "https://seanovel.org/novels/the-all-encompassing-reader",
+    "cover_url": "https://seanovel.org/api/novel/the-all-encompassing-reader/cover",
+    "type": "رواية",
+    "status": "مستمر",
+    "rating": ""
+  },
+  {
+    "id": "hail-the-king",
+    "title": "hail the king",
+    "url": "https://seanovel.org/novels/hail-the-king",
+    "cover_url": "https://seanovel.org/api/novel/hail-the-king/cover",
+    "type": "رواية",
+    "status": "مستمر",
+    "rating": ""
+  },
+  {
+    "id": "diary-of-a-dead-wizard",
+    "title": "diary of a dead wizard",
+    "url": "https://seanovel.org/novels/diary-of-a-dead-wizard",
+    "cover_url": "https://seanovel.org/api/novel/diary-of-a-dead-wizard/cover",
+    "type": "رواية",
+    "status": "مستمر",
+    "rating": ""
+  },
+  {
+    "id": "novel-38",
+    "title": "novel 38",
+    "url": "https://seanovel.org/novels/novel-38",
+    "cover_url": "https://seanovel.org/api/novel/novel-38/cover",
+    "type": "رواية",
+    "status": "مستمر",
+    "rating": ""
+  },
+  {
+    "id": "the-strongest-system",
+    "title": "the strongest system",
+    "url": "https://seanovel.org/novels/the-strongest-system",
+    "cover_url": "https://seanovel.org/api/novel/the-strongest-system/cover",
+    "type": "رواية",
+    "status": "مستمر",
+    "rating": ""
+  },
+  {
+    "id": "lord-of-mysteries-2-circle-of-inevitability",
+    "title": "lord of mysteries 2 circle of inevitability",
+    "url": "https://seanovel.org/novels/lord-of-mysteries-2-circle-of-inevitability",
+    "cover_url": "https://seanovel.org/api/novel/lord-of-mysteries-2-circle-of-inevitability/cover",
+    "type": "رواية",
+    "status": "مستمر",
+    "rating": ""
+  },
+  {
+    "id": "god-of-martial-arts",
+    "title": "god of martial arts",
+    "url": "https://seanovel.org/novels/god-of-martial-arts",
+    "cover_url": "https://seanovel.org/api/novel/god-of-martial-arts/cover",
+    "type": "رواية",
+    "status": "مستمر",
+    "rating": ""
+  },
+  {
+    "id": "pursuit-of-truth",
+    "title": "pursuit of truth",
+    "url": "https://seanovel.org/novels/pursuit-of-truth",
+    "cover_url": "https://seanovel.org/api/novel/pursuit-of-truth/cover",
+    "type": "رواية",
+    "status": "مستمر",
+    "rating": ""
+  },
+  {
+    "id": "79726",
+    "title": "79726",
+    "url": "https://seanovel.org/novels/79726",
+    "cover_url": "https://seanovel.org/api/novel/79726/cover",
+    "type": "رواية",
+    "status": "مستمر",
+    "rating": ""
+  },
+  {
+    "id": "cote-there-is-something-wrong-with-hikigaya",
+    "title": "cote there is something wrong with hikigaya",
+    "url": "https://seanovel.org/novels/cote-there-is-something-wrong-with-hikigaya",
+    "cover_url": "https://seanovel.org/api/novel/cote-there-is-something-wrong-with-hikigaya/cover",
+    "type": "رواية",
+    "status": "مستمر",
+    "rating": ""
+  },
+  {
+    "id": "the-lone-wanderer",
+    "title": "the lone wanderer",
+    "url": "https://seanovel.org/novels/the-lone-wanderer",
+    "cover_url": "https://seanovel.org/api/novel/the-lone-wanderer/cover",
+    "type": "رواية",
+    "status": "مستمر",
+    "rating": ""
+  },
+  {
+    "id": "turns-out-im-in-a-villain-clan",
+    "title": "turns out im in a villain clan",
+    "url": "https://seanovel.org/novels/turns-out-im-in-a-villain-clan",
+    "cover_url": "https://seanovel.org/api/novel/turns-out-im-in-a-villain-clan/cover",
+    "type": "رواية",
+    "status": "مستمر",
+    "rating": ""
+  },
+  {
+    "id": "mechanical-alchemist",
+    "title": "mechanical alchemist",
+    "url": "https://seanovel.org/novels/mechanical-alchemist",
+    "cover_url": "https://seanovel.org/api/novel/mechanical-alchemist/cover",
+    "type": "رواية",
+    "status": "مستمر",
+    "rating": ""
+  },
+  {
+    "id": "a-will-eternal",
+    "title": "a will eternal",
+    "url": "https://seanovel.org/novels/a-will-eternal",
+    "cover_url": "https://seanovel.org/api/novel/a-will-eternal/cover",
+    "type": "رواية",
+    "status": "مستمر",
+    "rating": ""
+  },
+  {
+    "id": "horror-game-developer-my-games-arent-that-scary",
+    "title": "horror game developer my games arent that scary",
+    "url": "https://seanovel.org/novels/horror-game-developer-my-games-arent-that-scary",
+    "cover_url": "https://seanovel.org/api/novel/horror-game-developer-my-games-arent-that-scary/cover",
+    "type": "رواية",
+    "status": "مستمر",
+    "rating": ""
+  },
+  {
+    "id": "affinitychaos",
+    "title": "affinitychaos",
+    "url": "https://seanovel.org/novels/affinitychaos",
+    "cover_url": "https://seanovel.org/api/novel/affinitychaos/cover",
+    "type": "رواية",
+    "status": "مستمر",
+    "rating": ""
+  },
+  {
+    "id": "myst-might-mayhem",
+    "title": "myst might mayhem",
+    "url": "https://seanovel.org/novels/myst-might-mayhem",
+    "cover_url": "https://seanovel.org/api/novel/myst-might-mayhem/cover",
+    "type": "رواية",
+    "status": "مستمر",
+    "rating": ""
+  },
+  {
+    "id": "classroom-of-the-elite-year-1",
+    "title": "classroom of the elite year 1",
+    "url": "https://seanovel.org/novels/classroom-of-the-elite-year-1",
+    "cover_url": "https://seanovel.org/api/novel/classroom-of-the-elite-year-1/cover",
+    "type": "رواية",
+    "status": "مستمر",
+    "rating": ""
+  },
+  {
+    "id": "dragon-marked-war-god",
+    "title": "dragon marked war god",
+    "url": "https://seanovel.org/novels/dragon-marked-war-god",
+    "cover_url": "https://seanovel.org/api/novel/dragon-marked-war-god/cover",
+    "type": "رواية",
+    "status": "مستمر",
+    "rating": ""
+  },
+  {
+    "id": "tales-of-a-returnees-cultivation",
+    "title": "tales of a returnees cultivation",
+    "url": "https://seanovel.org/novels/tales-of-a-returnees-cultivation",
+    "cover_url": "https://seanovel.org/api/novel/tales-of-a-returnees-cultivation/cover",
+    "type": "رواية",
+    "status": "مستمر",
+    "rating": ""
+  },
+  {
+    "id": "novel-618",
+    "title": "novel 618",
+    "url": "https://seanovel.org/novels/novel-618",
+    "cover_url": "https://seanovel.org/api/novel/novel-618/cover",
+    "type": "رواية",
+    "status": "مستمر",
+    "rating": ""
+  },
+  {
+    "id": "martial-arts-master",
+    "title": "martial arts master",
+    "url": "https://seanovel.org/novels/martial-arts-master",
+    "cover_url": "https://seanovel.org/api/novel/martial-arts-master/cover",
+    "type": "رواية",
+    "status": "مستمر",
+    "rating": ""
+  },
+  {
+    "id": "archean-eon-art",
+    "title": "archean eon art",
+    "url": "https://seanovel.org/novels/archean-eon-art",
+    "cover_url": "https://seanovel.org/api/novel/archean-eon-art/cover",
+    "type": "رواية",
+    "status": "مستمر",
+    "rating": ""
+  },
+  {
+    "id": "return-of-the-blossoming-blade",
+    "title": "return of the blossoming blade",
+    "url": "https://seanovel.org/novels/return-of-the-blossoming-blade",
+    "cover_url": "https://seanovel.org/api/novel/return-of-the-blossoming-blade/cover",
+    "type": "رواية",
+    "status": "مستمر",
+    "rating": ""
+  },
+  {
+    "id": "6985ac0d7d66c84567c8a74e",
+    "title": "6985ac0d7d66c84567c8a74e",
+    "url": "https://seanovel.org/novels/6985ac0d7d66c84567c8a74e",
+    "cover_url": "https://seanovel.org/api/novel/6985ac0d7d66c84567c8a74e/cover",
+    "type": "رواية",
+    "status": "مستمر",
+    "rating": ""
+  },
+  {
+    "id": "the-mediocre-youth",
+    "title": "the mediocre youth",
+    "url": "https://seanovel.org/novels/the-mediocre-youth",
+    "cover_url": "https://seanovel.org/api/novel/the-mediocre-youth/cover",
+    "type": "رواية",
+    "status": "مستمر",
+    "rating": ""
+  },
+  {
+    "id": "tales-of-the-world-devouring-serpent",
+    "title": "tales of the world devouring serpent",
+    "url": "https://seanovel.org/novels/tales-of-the-world-devouring-serpent",
+    "cover_url": "https://seanovel.org/api/novel/tales-of-the-world-devouring-serpent/cover",
+    "type": "رواية",
+    "status": "مستمر",
+    "rating": ""
+  },
+  {
+    "id": "ancient-godly-monarch",
+    "title": "ancient godly monarch",
+    "url": "https://seanovel.org/novels/ancient-godly-monarch",
+    "cover_url": "https://seanovel.org/api/novel/ancient-godly-monarch/cover",
+    "type": "رواية",
+    "status": "مستمر",
+    "rating": ""
+  },
+  {
+    "id": "the-worlds-greatest-martial-arts-instructor",
+    "title": "the worlds greatest martial arts instructor",
+    "url": "https://seanovel.org/novels/the-worlds-greatest-martial-arts-instructor",
+    "cover_url": "https://seanovel.org/api/novel/the-worlds-greatest-martial-arts-instructor/cover",
+    "type": "رواية",
+    "status": "مستمر",
+    "rating": ""
+  },
+  {
+    "id": "my-house-of-horrors",
+    "title": "my house of horrors",
+    "url": "https://seanovel.org/novels/my-house-of-horrors",
+    "cover_url": "https://seanovel.org/api/novel/my-house-of-horrors/cover",
+    "type": "رواية",
+    "status": "مستمر",
+    "rating": ""
+  },
+  {
+    "id": "immune-to-pain-worried-that-the-villain-is-not-perverted-enough",
+    "title": "immune to pain worried that the villain is not perverted enough",
+    "url": "https://seanovel.org/novels/immune-to-pain-worried-that-the-villain-is-not-perverted-enough",
+    "cover_url": "https://seanovel.org/api/novel/immune-to-pain-worried-that-the-villain-is-not-perverted-enough/cover",
+    "type": "رواية",
+    "status": "مستمر",
+    "rating": ""
+  },
+  {
+    "id": "6917e475598211bfce402eff",
+    "title": "6917e475598211bfce402eff",
+    "url": "https://seanovel.org/novels/6917e475598211bfce402eff",
+    "cover_url": "https://seanovel.org/api/novel/6917e475598211bfce402eff/cover",
+    "type": "رواية",
+    "status": "مستمر",
+    "rating": ""
+  },
+  {
+    "id": "overgeared",
+    "title": "overgeared",
+    "url": "https://seanovel.org/novels/overgeared",
+    "cover_url": "https://seanovel.org/api/novel/overgeared/cover",
+    "type": "رواية",
+    "status": "مستمر",
+    "rating": ""
+  },
+  {
+    "id": "martial-god-asura",
+    "title": "martial god asura",
+    "url": "https://seanovel.org/novels/martial-god-asura",
+    "cover_url": "https://seanovel.org/api/novel/martial-god-asura/cover",
+    "type": "رواية",
+    "status": "مستمر",
+    "rating": ""
+  },
+  {
+    "id": "the-descent-of-the-devil",
+    "title": "the descent of the devil",
+    "url": "https://seanovel.org/novels/the-descent-of-the-devil",
+    "cover_url": "https://seanovel.org/api/novel/the-descent-of-the-devil/cover",
+    "type": "رواية",
+    "status": "مستمر",
+    "rating": ""
+  },
+  {
+    "id": "cultivation-start-from-simplifying-martial-arts-techniques",
+    "title": "cultivation start from simplifying martial arts techniques",
+    "url": "https://seanovel.org/novels/cultivation-start-from-simplifying-martial-arts-techniques",
+    "cover_url": "https://seanovel.org/api/novel/cultivation-start-from-simplifying-martial-arts-techniques/cover",
+    "type": "رواية",
+    "status": "مستمر",
+    "rating": ""
+  },
+  {
+    "id": "novel-83",
+    "title": "novel 83",
+    "url": "https://seanovel.org/novels/novel-83",
+    "cover_url": "https://seanovel.org/api/novel/novel-83/cover",
+    "type": "رواية",
+    "status": "مستمر",
+    "rating": ""
+  },
+  {
+    "id": "the-novels-extra",
+    "title": "the novels extra",
+    "url": "https://seanovel.org/novels/the-novels-extra",
+    "cover_url": "https://seanovel.org/api/novel/the-novels-extra/cover",
+    "type": "رواية",
+    "status": "مستمر",
+    "rating": ""
+  },
+  {
+    "id": "i-became-the-tyrant-of-a-defense-game",
+    "title": "i became the tyrant of a defense game",
+    "url": "https://seanovel.org/novels/i-became-the-tyrant-of-a-defense-game",
+    "cover_url": "https://seanovel.org/api/novel/i-became-the-tyrant-of-a-defense-game/cover",
+    "type": "رواية",
+    "status": "مستمر",
+    "rating": ""
+  },
+  {
+    "id": "after-ten-millennia-in-hell",
+    "title": "after ten millennia in hell",
+    "url": "https://seanovel.org/novels/after-ten-millennia-in-hell",
+    "cover_url": "https://seanovel.org/api/novel/after-ten-millennia-in-hell/cover",
+    "type": "رواية",
+    "status": "مستمر",
+    "rating": ""
+  },
+  {
+    "id": "realizing-this-is-a-wuxia-world-after-cultivating-for-300-ye",
+    "title": "realizing this is a wuxia world after cultivating for 300 ye",
+    "url": "https://seanovel.org/novels/realizing-this-is-a-wuxia-world-after-cultivating-for-300-ye",
+    "cover_url": "https://seanovel.org/api/novel/realizing-this-is-a-wuxia-world-after-cultivating-for-300-ye/cover",
+    "type": "رواية",
+    "status": "مستمر",
+    "rating": ""
+  },
+  {
+    "id": "ive-been-home-for-a-hundred-years-and-im-invincible-when-i-go-out",
+    "title": "ive been home for a hundred years and im invincible when i go out",
+    "url": "https://seanovel.org/novels/ive-been-home-for-a-hundred-years-and-im-invincible-when-i-go-out",
+    "cover_url": "https://seanovel.org/api/novel/ive-been-home-for-a-hundred-years-and-im-invincible-when-i-go-out/cover",
+    "type": "رواية",
+    "status": "مستمر",
+    "rating": ""
+  },
+  {
+    "id": "i-am-a-scarecrow-and-the-demon-lord-of-terror",
+    "title": "i am a scarecrow and the demon lord of terror",
+    "url": "https://seanovel.org/novels/i-am-a-scarecrow-and-the-demon-lord-of-terror",
+    "cover_url": "https://seanovel.org/api/novel/i-am-a-scarecrow-and-the-demon-lord-of-terror/cover",
+    "type": "رواية",
+    "status": "مستمر",
+    "rating": ""
+  },
+  {
+    "id": "supreme-magus",
+    "title": "supreme magus",
+    "url": "https://seanovel.org/novels/supreme-magus",
+    "cover_url": "https://seanovel.org/api/novel/supreme-magus/cover",
+    "type": "رواية",
+    "status": "مستمر",
+    "rating": ""
+  },
+  {
+    "id": "69033a71cc7a2812b613a677",
+    "title": "69033a71cc7a2812b613a677",
+    "url": "https://seanovel.org/novels/69033a71cc7a2812b613a677",
+    "cover_url": "https://seanovel.org/api/novel/69033a71cc7a2812b613a677/cover",
+    "type": "رواية",
+    "status": "مستمر",
+    "rating": ""
+  },
+  {
+    "id": "lightning-is-the-only-way",
+    "title": "lightning is the only way",
+    "url": "https://seanovel.org/novels/lightning-is-the-only-way",
+    "cover_url": "https://seanovel.org/api/novel/lightning-is-the-only-way/cover",
+    "type": "رواية",
+    "status": "مستمر",
+    "rating": ""
+  },
+  {
+    "id": "everyone-i-started-with-a-mythical-talent-and-i-killed-a-god-with-one-sword",
+    "title": "everyone i started with a mythical talent and i killed a god with one sword",
+    "url": "https://seanovel.org/novels/everyone-i-started-with-a-mythical-talent-and-i-killed-a-god-with-one-sword",
+    "cover_url": "https://seanovel.org/api/novel/everyone-i-started-with-a-mythical-talent-and-i-killed-a-god-with-one-sword/cover",
+    "type": "رواية",
+    "status": "مستمر",
+    "rating": ""
+  },
+  {
+    "id": "sovereign-of-the-three-realms",
+    "title": "sovereign of the three realms",
+    "url": "https://seanovel.org/novels/sovereign-of-the-three-realms",
+    "cover_url": "https://seanovel.org/api/novel/sovereign-of-the-three-realms/cover",
+    "type": "رواية",
+    "status": "مستمر",
+    "rating": ""
+  },
+  {
+    "id": "novel-195",
+    "title": "novel 195",
+    "url": "https://seanovel.org/novels/novel-195",
+    "cover_url": "https://seanovel.org/api/novel/novel-195/cover",
+    "type": "رواية",
+    "status": "مستمر",
+    "rating": ""
+  },
+  {
+    "id": "novel-329",
+    "title": "novel 329",
+    "url": "https://seanovel.org/novels/novel-329",
+    "cover_url": "https://seanovel.org/api/novel/novel-329/cover",
+    "type": "رواية",
+    "status": "مستمر",
+    "rating": ""
+  },
+  {
+    "id": "i-have-quietly-become-a-great-leader-in-the-village-of-begin",
+    "title": "i have quietly become a great leader in the village of begin",
+    "url": "https://seanovel.org/novels/i-have-quietly-become-a-great-leader-in-the-village-of-begin",
+    "cover_url": "https://seanovel.org/api/novel/i-have-quietly-become-a-great-leader-in-the-village-of-begin/cover",
+    "type": "رواية",
+    "status": "مستمر",
+    "rating": ""
+  },
+  {
+    "id": "warlock-of-the-magus-world",
+    "title": "warlock of the magus world",
+    "url": "https://seanovel.org/novels/warlock-of-the-magus-world",
+    "cover_url": "https://seanovel.org/api/novel/warlock-of-the-magus-world/cover",
+    "type": "رواية",
+    "status": "مستمر",
+    "rating": ""
+  },
+  {
+    "id": "they-are-all-reborn-who-will-fall-in-love",
+    "title": "they are all reborn who will fall in love",
+    "url": "https://seanovel.org/novels/they-are-all-reborn-who-will-fall-in-love",
+    "cover_url": "https://seanovel.org/api/novel/they-are-all-reborn-who-will-fall-in-love/cover",
+    "type": "رواية",
+    "status": "مستمر",
+    "rating": ""
+  },
+  {
+    "id": "ascendance-of-a-bookworm",
+    "title": "ascendance of a bookworm",
+    "url": "https://seanovel.org/novels/ascendance-of-a-bookworm",
+    "cover_url": "https://seanovel.org/api/novel/ascendance-of-a-bookworm/cover",
+    "type": "رواية",
+    "status": "مستمر",
+    "rating": ""
+  },
+  {
+    "id": "the-tavern-keeper",
+    "title": "the tavern keeper",
+    "url": "https://seanovel.org/novels/the-tavern-keeper",
+    "cover_url": "https://seanovel.org/api/novel/the-tavern-keeper/cover",
+    "type": "رواية",
+    "status": "مستمر",
+    "rating": ""
+  },
+  {
+    "id": "it-is-lonely-to-be-invincible",
+    "title": "it is lonely to be invincible",
+    "url": "https://seanovel.org/novels/it-is-lonely-to-be-invincible",
+    "cover_url": "https://seanovel.org/api/novel/it-is-lonely-to-be-invincible/cover",
+    "type": "رواية",
+    "status": "مستمر",
+    "rating": ""
+  },
+  {
+    "id": "a-new-body-with-the-strongest-system",
+    "title": "a new body with the strongest system",
+    "url": "https://seanovel.org/novels/a-new-body-with-the-strongest-system",
+    "cover_url": "https://seanovel.org/api/novel/a-new-body-with-the-strongest-system/cover",
+    "type": "رواية",
+    "status": "مستمر",
+    "rating": ""
+  },
+  {
+    "id": "690df0466f0a5426d2250919",
+    "title": "690df0466f0a5426d2250919",
+    "url": "https://seanovel.org/novels/690df0466f0a5426d2250919",
+    "cover_url": "https://seanovel.org/api/novel/690df0466f0a5426d2250919/cover",
+    "type": "رواية",
+    "status": "مستمر",
+    "rating": ""
+  },
+  {
+    "id": "life-rebooted-with-copy-and-paste",
+    "title": "life rebooted with copy and paste",
+    "url": "https://seanovel.org/novels/life-rebooted-with-copy-and-paste",
+    "cover_url": "https://seanovel.org/api/novel/life-rebooted-with-copy-and-paste/cover",
+    "type": "رواية",
+    "status": "مستمر",
+    "rating": ""
+  },
+  {
+    "id": "simulation-of-prolonging-life",
+    "title": "simulation of prolonging life",
+    "url": "https://seanovel.org/novels/simulation-of-prolonging-life",
+    "cover_url": "https://seanovel.org/api/novel/simulation-of-prolonging-life/cover",
+    "type": "رواية",
+    "status": "مستمر",
+    "rating": ""
+  },
+  {
+    "id": "tales-of-herding-gods",
+    "title": "tales of herding gods",
+    "url": "https://seanovel.org/novels/tales-of-herding-gods",
+    "cover_url": "https://seanovel.org/api/novel/tales-of-herding-gods/cover",
+    "type": "رواية",
+    "status": "مستمر",
+    "rating": ""
+  },
+  {
+    "id": "6907f77ac82c7dbad2b56434",
+    "title": "6907f77ac82c7dbad2b56434",
+    "url": "https://seanovel.org/novels/6907f77ac82c7dbad2b56434",
+    "cover_url": "https://seanovel.org/api/novel/6907f77ac82c7dbad2b56434/cover",
+    "type": "رواية",
+    "status": "مستمر",
+    "rating": ""
+  },
+  {
+    "id": "90442",
+    "title": "90442",
+    "url": "https://seanovel.org/novels/90442",
+    "cover_url": "https://seanovel.org/api/novel/90442/cover",
+    "type": "رواية",
+    "status": "مستمر",
+    "rating": ""
+  },
+  {
+    "id": "second-life-ranker",
+    "title": "second life ranker",
+    "url": "https://seanovel.org/novels/second-life-ranker",
+    "cover_url": "https://seanovel.org/api/novel/second-life-ranker/cover",
+    "type": "رواية",
+    "status": "مستمر",
+    "rating": ""
+  },
+  {
+    "id": "nurturing-humanity",
+    "title": "nurturing humanity",
+    "url": "https://seanovel.org/novels/nurturing-humanity",
+    "cover_url": "https://seanovel.org/api/novel/nurturing-humanity/cover",
+    "type": "رواية",
+    "status": "مستمر",
+    "rating": ""
+  },
+  {
+    "id": "silent-witch",
+    "title": "silent witch",
+    "url": "https://seanovel.org/novels/silent-witch",
+    "cover_url": "https://seanovel.org/api/novel/silent-witch/cover",
+    "type": "رواية",
+    "status": "مستمر",
+    "rating": ""
+  },
+  {
+    "id": "novel-160",
+    "title": "novel 160",
+    "url": "https://seanovel.org/novels/novel-160",
+    "cover_url": "https://seanovel.org/api/novel/novel-160/cover",
+    "type": "رواية",
+    "status": "مستمر",
+    "rating": ""
+  },
+  {
+    "id": "steel-and-sorrow-rise-of-the-mercenary-king",
+    "title": "steel and sorrow rise of the mercenary king",
+    "url": "https://seanovel.org/novels/steel-and-sorrow-rise-of-the-mercenary-king",
+    "cover_url": "https://seanovel.org/api/novel/steel-and-sorrow-rise-of-the-mercenary-king/cover",
+    "type": "رواية",
+    "status": "مستمر",
+    "rating": ""
+  },
+  {
+    "id": "68f753dc69ffe48a59bf719f",
+    "title": "68f753dc69ffe48a59bf719f",
+    "url": "https://seanovel.org/novels/68f753dc69ffe48a59bf719f",
+    "cover_url": "https://seanovel.org/api/novel/68f753dc69ffe48a59bf719f/cover",
+    "type": "رواية",
+    "status": "مستمر",
+    "rating": ""
+  },
+  {
+    "id": "return-of-the-calamity-class-death-knight",
+    "title": "return of the calamity class death knight",
+    "url": "https://seanovel.org/novels/return-of-the-calamity-class-death-knight",
+    "cover_url": "https://seanovel.org/api/novel/return-of-the-calamity-class-death-knight/cover",
+    "type": "رواية",
+    "status": "مستمر",
+    "rating": ""
+  },
+  {
+    "id": "being-a-talent-in-the-chusheng-demon-sect",
+    "title": "being a talent in the chusheng demon sect",
+    "url": "https://seanovel.org/novels/being-a-talent-in-the-chusheng-demon-sect",
+    "cover_url": "https://seanovel.org/api/novel/being-a-talent-in-the-chusheng-demon-sect/cover",
+    "type": "رواية",
+    "status": "مستمر",
+    "rating": ""
+  },
+  {
+    "id": "the-tutorial-is-too-hard",
+    "title": "the tutorial is too hard",
+    "url": "https://seanovel.org/novels/the-tutorial-is-too-hard",
+    "cover_url": "https://seanovel.org/api/novel/the-tutorial-is-too-hard/cover",
+    "type": "رواية",
+    "status": "مستمر",
+    "rating": ""
+  },
+  {
+    "id": "damn-reincarnation",
+    "title": "damn reincarnation",
+    "url": "https://seanovel.org/novels/damn-reincarnation",
+    "cover_url": "https://seanovel.org/api/novel/damn-reincarnation/cover",
+    "type": "رواية",
+    "status": "مستمر",
+    "rating": ""
+  },
+  {
+    "id": "i-want-to-eat-your-pancreas",
+    "title": "i want to eat your pancreas",
+    "url": "https://seanovel.org/novels/i-want-to-eat-your-pancreas",
+    "cover_url": "https://seanovel.org/api/novel/i-want-to-eat-your-pancreas/cover",
+    "type": "رواية",
+    "status": "مستمر",
+    "rating": ""
+  },
+  {
+    "id": "emperors-domination",
+    "title": "emperors domination",
+    "url": "https://seanovel.org/novels/emperors-domination",
+    "cover_url": "https://seanovel.org/api/novel/emperors-domination/cover",
+    "type": "رواية",
+    "status": "مستمر",
+    "rating": ""
+  },
+  {
+    "id": "gateway-of-immortality",
+    "title": "gateway of immortality",
+    "url": "https://seanovel.org/novels/gateway-of-immortality",
+    "cover_url": "https://seanovel.org/api/novel/gateway-of-immortality/cover",
+    "type": "رواية",
+    "status": "مستمر",
+    "rating": ""
+  },
+  {
+    "id": "starting-with-an-sss-rank-swordsmanship-talent",
+    "title": "starting with an sss rank swordsmanship talent",
+    "url": "https://seanovel.org/novels/starting-with-an-sss-rank-swordsmanship-talent",
+    "cover_url": "https://seanovel.org/api/novel/starting-with-an-sss-rank-swordsmanship-talent/cover",
+    "type": "رواية",
+    "status": "مستمر",
+    "rating": ""
+  },
+  {
+    "id": "69020d37cc7a2812b6123140",
+    "title": "69020d37cc7a2812b6123140",
+    "url": "https://seanovel.org/novels/69020d37cc7a2812b6123140",
+    "cover_url": "https://seanovel.org/api/novel/69020d37cc7a2812b6123140/cover",
+    "type": "رواية",
+    "status": "مستمر",
+    "rating": ""
+  },
+  {
+    "id": "the-authors-pov",
+    "title": "the authors pov",
+    "url": "https://seanovel.org/novels/the-authors-pov",
+    "cover_url": "https://seanovel.org/api/novel/the-authors-pov/cover",
+    "type": "رواية",
+    "status": "مستمر",
+    "rating": ""
+  },
+  {
+    "id": "all-my-disciples-are-kings",
+    "title": "all my disciples are kings",
+    "url": "https://seanovel.org/novels/all-my-disciples-are-kings",
+    "cover_url": "https://seanovel.org/api/novel/all-my-disciples-are-kings/cover",
+    "type": "رواية",
+    "status": "مستمر",
+    "rating": ""
+  },
+  {
+    "id": "the-demonic-cultivator-in-zombie-world",
+    "title": "the demonic cultivator in zombie world",
+    "url": "https://seanovel.org/novels/the-demonic-cultivator-in-zombie-world",
+    "cover_url": "https://seanovel.org/api/novel/the-demonic-cultivator-in-zombie-world/cover",
+    "type": "رواية",
+    "status": "مستمر",
+    "rating": ""
+  },
+  {
+    "id": "imitation-my-identity-is-endlessly-renewed-sweeping-through-the-heavenly-worlds",
+    "title": "imitation my identity is endlessly renewed sweeping through the heavenly worlds",
+    "url": "https://seanovel.org/novels/imitation-my-identity-is-endlessly-renewed-sweeping-through-the-heavenly-worlds",
+    "cover_url": "https://seanovel.org/api/novel/imitation-my-identity-is-endlessly-renewed-sweeping-through-the-heavenly-worlds/cover",
+    "type": "رواية",
+    "status": "مستمر",
+    "rating": ""
+  },
+  {
+    "id": "trash-of-the-counts-family",
+    "title": "trash of the counts family",
+    "url": "https://seanovel.org/novels/trash-of-the-counts-family",
+    "cover_url": "https://seanovel.org/api/novel/trash-of-the-counts-family/cover",
+    "type": "رواية",
+    "status": "مستمر",
+    "rating": ""
+  },
+  {
+    "id": "my-wife-is-a-sword-god",
+    "title": "my wife is a sword god",
+    "url": "https://seanovel.org/novels/my-wife-is-a-sword-god",
+    "cover_url": "https://seanovel.org/api/novel/my-wife-is-a-sword-god/cover",
+    "type": "رواية",
+    "status": "مستمر",
+    "rating": ""
+  },
+  {
+    "id": "beyond-the-temporal-horizon",
+    "title": "beyond the temporal horizon",
+    "url": "https://seanovel.org/novels/beyond-the-temporal-horizon",
+    "cover_url": "https://seanovel.org/api/novel/beyond-the-temporal-horizon/cover",
+    "type": "رواية",
+    "status": "مستمر",
+    "rating": ""
+  },
+  {
+    "id": "soul-of-searing-steel",
+    "title": "soul of searing steel",
+    "url": "https://seanovel.org/novels/soul-of-searing-steel",
+    "cover_url": "https://seanovel.org/api/novel/soul-of-searing-steel/cover",
+    "type": "رواية",
+    "status": "مستمر",
+    "rating": ""
+  },
+  {
+    "id": "the-book-eater-wizard",
+    "title": "the book eater wizard",
+    "url": "https://seanovel.org/novels/the-book-eater-wizard",
+    "cover_url": "https://seanovel.org/api/novel/the-book-eater-wizard/cover",
+    "type": "رواية",
+    "status": "مستمر",
+    "rating": ""
+  },
+  {
+    "id": "classroom-of-the-elite-year-2",
+    "title": "classroom of the elite year 2",
+    "url": "https://seanovel.org/novels/classroom-of-the-elite-year-2",
+    "cover_url": "https://seanovel.org/api/novel/classroom-of-the-elite-year-2/cover",
+    "type": "رواية",
+    "status": "مستمر",
+    "rating": ""
+  },
+  {
+    "id": "novel-1680",
+    "title": "novel 1680",
+    "url": "https://seanovel.org/novels/novel-1680",
+    "cover_url": "https://seanovel.org/api/novel/novel-1680/cover",
+    "type": "رواية",
+    "status": "مستمر",
+    "rating": ""
+  },
+  {
+    "id": "complete-signs-of-a-hidden-marriage-catch-a-son-get-a-free-h",
+    "title": "complete signs of a hidden marriage catch a son get a free h",
+    "url": "https://seanovel.org/novels/complete-signs-of-a-hidden-marriage-catch-a-son-get-a-free-h",
+    "cover_url": "https://seanovel.org/api/novel/complete-signs-of-a-hidden-marriage-catch-a-son-get-a-free-h/cover",
+    "type": "رواية",
+    "status": "مستمر",
+    "rating": ""
+  },
+  {
+    "id": "tensei-shitara-slime-datta-ken",
+    "title": "tensei shitara slime datta ken",
+    "url": "https://seanovel.org/novels/tensei-shitara-slime-datta-ken",
+    "cover_url": "https://seanovel.org/api/novel/tensei-shitara-slime-datta-ken/cover",
+    "type": "رواية",
+    "status": "مستمر",
+    "rating": ""
+  },
+  {
+    "id": "blood-warlock-succubus-partner-in-the-apocalypse",
+    "title": "blood warlock succubus partner in the apocalypse",
+    "url": "https://seanovel.org/novels/blood-warlock-succubus-partner-in-the-apocalypse",
+    "cover_url": "https://seanovel.org/api/novel/blood-warlock-succubus-partner-in-the-apocalypse/cover",
+    "type": "رواية",
+    "status": "مستمر",
+    "rating": ""
+  },
+  {
+    "id": "the-last-gentleman",
+    "title": "the last gentleman",
+    "url": "https://seanovel.org/novels/the-last-gentleman",
+    "cover_url": "https://seanovel.org/api/novel/the-last-gentleman/cover",
+    "type": "رواية",
+    "status": "مستمر",
+    "rating": ""
+  },
+  {
+    "id": "im-an-infinite-regressor-but-ive-got-stories-to-tell",
+    "title": "im an infinite regressor but ive got stories to tell",
+    "url": "https://seanovel.org/novels/im-an-infinite-regressor-but-ive-got-stories-to-tell",
+    "cover_url": "https://seanovel.org/api/novel/im-an-infinite-regressor-but-ive-got-stories-to-tell/cover",
+    "type": "رواية",
+    "status": "مستمر",
+    "rating": ""
+  },
+  {
+    "id": "51286",
+    "title": "51286",
+    "url": "https://seanovel.org/novels/51286",
+    "cover_url": "https://seanovel.org/api/novel/51286/cover",
+    "type": "رواية",
+    "status": "مستمر",
+    "rating": ""
+  },
+  {
+    "id": "mystical-journey",
+    "title": "mystical journey",
+    "url": "https://seanovel.org/novels/mystical-journey",
+    "cover_url": "https://seanovel.org/api/novel/mystical-journey/cover",
+    "type": "رواية",
+    "status": "مستمر",
+    "rating": ""
+  },
+  {
+    "id": "69ca6172492ed3ae6a38a15e",
+    "title": "69ca6172492ed3ae6a38a15e",
+    "url": "https://seanovel.org/novels/69ca6172492ed3ae6a38a15e",
+    "cover_url": "https://seanovel.org/api/novel/69ca6172492ed3ae6a38a15e/cover",
+    "type": "رواية",
+    "status": "مستمر",
+    "rating": ""
+  },
+  {
+    "id": "legend-of-the-great-sage",
+    "title": "legend of the great sage",
+    "url": "https://seanovel.org/novels/legend-of-the-great-sage",
+    "cover_url": "https://seanovel.org/api/novel/legend-of-the-great-sage/cover",
+    "type": "رواية",
+    "status": "مستمر",
+    "rating": ""
+  },
+  {
+    "id": "dorothys-forbidden-grimoire",
+    "title": "dorothys forbidden grimoire",
+    "url": "https://seanovel.org/novels/dorothys-forbidden-grimoire",
+    "cover_url": "https://seanovel.org/api/novel/dorothys-forbidden-grimoire/cover",
+    "type": "رواية",
+    "status": "مستمر",
+    "rating": ""
+  },
+  {
+    "id": "nine-star-hegemon-body-art",
+    "title": "nine star hegemon body art",
+    "url": "https://seanovel.org/novels/nine-star-hegemon-body-art",
+    "cover_url": "https://seanovel.org/api/novel/nine-star-hegemon-body-art/cover",
+    "type": "رواية",
+    "status": "مستمر",
+    "rating": ""
+  },
+  {
+    "id": "gao-wu-i-will-always-be-four-realms-higher-than-my-son",
+    "title": "gao wu i will always be four realms higher than my son",
+    "url": "https://seanovel.org/novels/gao-wu-i-will-always-be-four-realms-higher-than-my-son",
+    "cover_url": "https://seanovel.org/api/novel/gao-wu-i-will-always-be-four-realms-higher-than-my-son/cover",
+    "type": "رواية",
+    "status": "مستمر",
+    "rating": ""
+  },
+  {
+    "id": "my-sss-rank-clone-talent-i-level-up-endlessly",
+    "title": "my sss rank clone talent i level up endlessly",
+    "url": "https://seanovel.org/novels/my-sss-rank-clone-talent-i-level-up-endlessly",
+    "cover_url": "https://seanovel.org/api/novel/my-sss-rank-clone-talent-i-level-up-endlessly/cover",
+    "type": "رواية",
+    "status": "مستمر",
+    "rating": ""
+  },
+  {
+    "id": "the-world-online",
+    "title": "the world online",
+    "url": "https://seanovel.org/novels/the-world-online",
+    "cover_url": "https://seanovel.org/api/novel/the-world-online/cover",
+    "type": "رواية",
+    "status": "مستمر",
+    "rating": ""
+  },
+  {
+    "id": "the-strongest-gene",
+    "title": "the strongest gene",
+    "url": "https://seanovel.org/novels/the-strongest-gene",
+    "cover_url": "https://seanovel.org/api/novel/the-strongest-gene/cover",
+    "type": "رواية",
+    "status": "مستمر",
+    "rating": ""
+  },
+  {
+    "id": "i-can-copy-talents",
+    "title": "i can copy talents",
+    "url": "https://seanovel.org/novels/i-can-copy-talents",
+    "cover_url": "https://seanovel.org/api/novel/i-can-copy-talents/cover",
+    "type": "رواية",
+    "status": "مستمر",
+    "rating": ""
+  },
+  {
+    "id": "acting-as-the-perfect-narrow-eyed-villain",
+    "title": "acting as the perfect narrow eyed villain",
+    "url": "https://seanovel.org/novels/acting-as-the-perfect-narrow-eyed-villain",
+    "cover_url": "https://seanovel.org/api/novel/acting-as-the-perfect-narrow-eyed-villain/cover",
+    "type": "رواية",
+    "status": "مستمر",
+    "rating": ""
+  },
+  {
+    "id": "agriculture-online",
+    "title": "agriculture online",
+    "url": "https://seanovel.org/novels/agriculture-online",
+    "cover_url": "https://seanovel.org/api/novel/agriculture-online/cover",
+    "type": "رواية",
+    "status": "مستمر",
+    "rating": ""
+  },
+  {
+    "id": "this-earth-is-a-bit-fearsome",
+    "title": "this earth is a bit fearsome",
+    "url": "https://seanovel.org/novels/this-earth-is-a-bit-fearsome",
+    "cover_url": "https://seanovel.org/api/novel/this-earth-is-a-bit-fearsome/cover",
+    "type": "رواية",
+    "status": "مستمر",
+    "rating": ""
+  },
+  {
+    "id": "mother-of-learning",
+    "title": "mother of learning",
+    "url": "https://seanovel.org/novels/mother-of-learning",
+    "cover_url": "https://seanovel.org/api/novel/mother-of-learning/cover",
+    "type": "رواية",
+    "status": "مستمر",
+    "rating": ""
+  },
+  {
+    "id": "reincarnation-of-the-strongest-spirit-master",
+    "title": "reincarnation of the strongest spirit master",
+    "url": "https://seanovel.org/novels/reincarnation-of-the-strongest-spirit-master",
+    "cover_url": "https://seanovel.org/api/novel/reincarnation-of-the-strongest-spirit-master/cover",
+    "type": "رواية",
+    "status": "مستمر",
+    "rating": ""
+  },
+  {
+    "id": "lord-of-the-people-discount-artifact-for-signing-in-at-the-start",
+    "title": "lord of the people discount artifact for signing in at the start",
+    "url": "https://seanovel.org/novels/lord-of-the-people-discount-artifact-for-signing-in-at-the-start",
+    "cover_url": "https://seanovel.org/api/novel/lord-of-the-people-discount-artifact-for-signing-in-at-the-start/cover",
+    "type": "رواية",
+    "status": "مستمر",
+    "rating": ""
+  },
+  {
+    "id": "villain-cultivator",
+    "title": "villain cultivator",
+    "url": "https://seanovel.org/novels/villain-cultivator",
+    "cover_url": "https://seanovel.org/api/novel/villain-cultivator/cover",
+    "type": "رواية",
+    "status": "مستمر",
+    "rating": ""
+  },
+  {
+    "id": "690db1ad6f0a5426d2233c49",
+    "title": "690db1ad6f0a5426d2233c49",
+    "url": "https://seanovel.org/novels/690db1ad6f0a5426d2233c49",
+    "cover_url": "https://seanovel.org/api/novel/690db1ad6f0a5426d2233c49/cover",
+    "type": "رواية",
+    "status": "مستمر",
+    "rating": ""
+  },
+  {
+    "id": "creating-heavenly-laws",
+    "title": "creating heavenly laws",
+    "url": "https://seanovel.org/novels/creating-heavenly-laws",
+    "cover_url": "https://seanovel.org/api/novel/creating-heavenly-laws/cover",
+    "type": "رواية",
+    "status": "مستمر",
+    "rating": ""
+  },
+  {
+    "id": "online-game-starting-contract-with-the-tree-of-life",
+    "title": "online game starting contract with the tree of life",
+    "url": "https://seanovel.org/novels/online-game-starting-contract-with-the-tree-of-life",
+    "cover_url": "https://seanovel.org/api/novel/online-game-starting-contract-with-the-tree-of-life/cover",
+    "type": "رواية",
+    "status": "مستمر",
+    "rating": ""
+  },
+  {
+    "id": "novel-575",
+    "title": "novel 575",
+    "url": "https://seanovel.org/novels/novel-575",
+    "cover_url": "https://seanovel.org/api/novel/novel-575/cover",
+    "type": "رواية",
+    "status": "مستمر",
+    "rating": ""
+  },
+  {
+    "id": "i-am-the-beloved-villain",
+    "title": "i am the beloved villain",
+    "url": "https://seanovel.org/novels/i-am-the-beloved-villain",
+    "cover_url": "https://seanovel.org/api/novel/i-am-the-beloved-villain/cover",
+    "type": "رواية",
+    "status": "مستمر",
+    "rating": ""
+  },
+  {
+    "id": "history-number-1-founder",
+    "title": "history number 1 founder",
+    "url": "https://seanovel.org/novels/history-number-1-founder",
+    "cover_url": "https://seanovel.org/api/novel/history-number-1-founder/cover",
+    "type": "رواية",
+    "status": "مستمر",
+    "rating": ""
+  },
+  {
+    "id": "i-can-see-through-everything",
+    "title": "i can see through everything",
+    "url": "https://seanovel.org/novels/i-can-see-through-everything",
+    "cover_url": "https://seanovel.org/api/novel/i-can-see-through-everything/cover",
+    "type": "رواية",
+    "status": "مستمر",
+    "rating": ""
+  },
+  {
+    "id": "novel-7",
+    "title": "novel 7",
+    "url": "https://seanovel.org/novels/novel-7",
+    "cover_url": "https://seanovel.org/api/novel/novel-7/cover",
+    "type": "رواية",
+    "status": "مستمر",
+    "rating": ""
+  },
+  {
+    "id": "the-legend-of-futian",
+    "title": "the legend of futian",
+    "url": "https://seanovel.org/novels/the-legend-of-futian",
+    "cover_url": "https://seanovel.org/api/novel/the-legend-of-futian/cover",
+    "type": "رواية",
+    "status": "مستمر",
+    "rating": ""
+  },
+  {
+    "id": "my-disciples-are-all-villains",
+    "title": "my disciples are all villains",
+    "url": "https://seanovel.org/novels/my-disciples-are-all-villains",
+    "cover_url": "https://seanovel.org/api/novel/my-disciples-are-all-villains/cover",
+    "type": "رواية",
+    "status": "مستمر",
+    "rating": ""
+  },
+  {
+    "id": "khaled-the-keyboard",
+    "title": "khaled the keyboard",
+    "url": "https://seanovel.org/novels/khaled-the-keyboard",
+    "cover_url": "https://seanovel.org/api/novel/khaled-the-keyboard/cover",
+    "type": "رواية",
+    "status": "مستمر",
+    "rating": ""
+  },
+  {
+    "id": "77582",
+    "title": "77582",
+    "url": "https://seanovel.org/novels/77582",
+    "cover_url": "https://seanovel.org/api/novel/77582/cover",
+    "type": "رواية",
+    "status": "مستمر",
+    "rating": ""
+  },
+  {
+    "id": "follow-the-path-of-al-dau-since-childhood",
+    "title": "follow the path of al dau since childhood",
+    "url": "https://seanovel.org/novels/follow-the-path-of-al-dau-since-childhood",
+    "cover_url": "https://seanovel.org/api/novel/follow-the-path-of-al-dau-since-childhood/cover",
+    "type": "رواية",
+    "status": "مستمر",
+    "rating": ""
+  },
+  {
+    "id": "69bd2783bf96d8fc9c5023e5",
+    "title": "69bd2783bf96d8fc9c5023e5",
+    "url": "https://seanovel.org/novels/69bd2783bf96d8fc9c5023e5",
+    "cover_url": "https://seanovel.org/api/novel/69bd2783bf96d8fc9c5023e5/cover",
+    "type": "رواية",
+    "status": "مستمر",
+    "rating": ""
+  },
+  {
+    "id": "lord-of-the-frozen-winter-starting-with-daily-intelligence-r",
+    "title": "lord of the frozen winter starting with daily intelligence r",
+    "url": "https://seanovel.org/novels/lord-of-the-frozen-winter-starting-with-daily-intelligence-r",
+    "cover_url": "https://seanovel.org/api/novel/lord-of-the-frozen-winter-starting-with-daily-intelligence-r/cover",
+    "type": "رواية",
+    "status": "مستمر",
+    "rating": ""
+  },
+  {
+    "id": "supreme-lord-i-can-extract-everything",
+    "title": "supreme lord i can extract everything",
+    "url": "https://seanovel.org/novels/supreme-lord-i-can-extract-everything",
+    "cover_url": "https://seanovel.org/api/novel/supreme-lord-i-can-extract-everything/cover",
+    "type": "رواية",
+    "status": "مستمر",
+    "rating": ""
+  },
+  {
+    "id": "my-vampire-system",
+    "title": "my vampire system",
+    "url": "https://seanovel.org/novels/my-vampire-system",
+    "cover_url": "https://seanovel.org/api/novel/my-vampire-system/cover",
+    "type": "رواية",
+    "status": "مستمر",
+    "rating": ""
+  },
+  {
+    "id": "the-academy-weapon-replicator",
+    "title": "the academy weapon replicator",
+    "url": "https://seanovel.org/novels/the-academy-weapon-replicator",
+    "cover_url": "https://seanovel.org/api/novel/the-academy-weapon-replicator/cover",
+    "type": "رواية",
+    "status": "مستمر",
+    "rating": ""
+  },
+  {
+    "id": "fantasy-simulator",
+    "title": "fantasy simulator",
+    "url": "https://seanovel.org/novels/fantasy-simulator",
+    "cover_url": "https://seanovel.org/api/novel/fantasy-simulator/cover",
+    "type": "رواية",
+    "status": "مستمر",
+    "rating": ""
+  },
+  {
+    "id": "simulating-endless-possibilities-invincible-once-i-act",
+    "title": "simulating endless possibilities invincible once i act",
+    "url": "https://seanovel.org/novels/simulating-endless-possibilities-invincible-once-i-act",
+    "cover_url": "https://seanovel.org/api/novel/simulating-endless-possibilities-invincible-once-i-act/cover",
+    "type": "رواية",
+    "status": "مستمر",
+    "rating": ""
+  },
+  {
+    "id": "immortal-space",
+    "title": "immortal space",
+    "url": "https://seanovel.org/novels/immortal-space",
+    "cover_url": "https://seanovel.org/api/novel/immortal-space/cover",
+    "type": "رواية",
+    "status": "مستمر",
+    "rating": ""
+  },
+  {
+    "id": "the-regressor-and-the-blind-saint",
+    "title": "the regressor and the blind saint",
+    "url": "https://seanovel.org/novels/the-regressor-and-the-blind-saint",
+    "cover_url": "https://seanovel.org/api/novel/the-regressor-and-the-blind-saint/cover",
+    "type": "رواية",
+    "status": "مستمر",
+    "rating": ""
+  },
+  {
+    "id": "advent-of-the-three-calamities",
+    "title": "advent of the three calamities",
+    "url": "https://seanovel.org/novels/advent-of-the-three-calamities",
+    "cover_url": "https://seanovel.org/api/novel/advent-of-the-three-calamities/cover",
+    "type": "رواية",
+    "status": "مستمر",
+    "rating": ""
+  },
+  {
+    "id": "evolution-of-a-demon-to-the-top",
+    "title": "evolution of a demon to the top",
+    "url": "https://seanovel.org/novels/evolution-of-a-demon-to-the-top",
+    "cover_url": "https://seanovel.org/api/novel/evolution-of-a-demon-to-the-top/cover",
+    "type": "رواية",
+    "status": "مستمر",
+    "rating": ""
+  },
+  {
+    "id": "novel-231",
+    "title": "novel 231",
+    "url": "https://seanovel.org/novels/novel-231",
+    "cover_url": "https://seanovel.org/api/novel/novel-231/cover",
+    "type": "رواية",
+    "status": "مستمر",
+    "rating": ""
+  },
+  {
+    "id": "mushoku-tensei-isekai-ittara-honki-dasu",
+    "title": "mushoku tensei isekai ittara honki dasu",
+    "url": "https://seanovel.org/novels/mushoku-tensei-isekai-ittara-honki-dasu",
+    "cover_url": "https://seanovel.org/api/novel/mushoku-tensei-isekai-ittara-honki-dasu/cover",
+    "type": "رواية",
+    "status": "مستمر",
+    "rating": ""
+  },
+  {
+    "id": "cultivation-i-have-studied-abroad-in-the-modern-world",
+    "title": "cultivation i have studied abroad in the modern world",
+    "url": "https://seanovel.org/novels/cultivation-i-have-studied-abroad-in-the-modern-world",
+    "cover_url": "https://seanovel.org/api/novel/cultivation-i-have-studied-abroad-in-the-modern-world/cover",
+    "type": "رواية",
+    "status": "مستمر",
+    "rating": ""
+  },
+  {
+    "id": "sword-god-in-a-world-of-magic",
+    "title": "sword god in a world of magic",
+    "url": "https://seanovel.org/novels/sword-god-in-a-world-of-magic",
+    "cover_url": "https://seanovel.org/api/novel/sword-god-in-a-world-of-magic/cover",
+    "type": "رواية",
+    "status": "مستمر",
+    "rating": ""
+  },
+  {
+    "id": "terra-nova-online-rise-of-the-strongest-player",
+    "title": "terra nova online rise of the strongest player",
+    "url": "https://seanovel.org/novels/terra-nova-online-rise-of-the-strongest-player",
+    "cover_url": "https://seanovel.org/api/novel/terra-nova-online-rise-of-the-strongest-player/cover",
+    "type": "رواية",
+    "status": "مستمر",
+    "rating": ""
+  },
+  {
+    "id": "shadow-hack",
+    "title": "shadow hack",
+    "url": "https://seanovel.org/novels/shadow-hack",
+    "cover_url": "https://seanovel.org/api/novel/shadow-hack/cover",
+    "type": "رواية",
+    "status": "مستمر",
+    "rating": ""
+  },
+  {
+    "id": "there-is-an-immortal-tribe-in-the-north-its-name-is-qin",
+    "title": "there is an immortal tribe in the north its name is qin",
+    "url": "https://seanovel.org/novels/there-is-an-immortal-tribe-in-the-north-its-name-is-qin",
+    "cover_url": "https://seanovel.org/api/novel/there-is-an-immortal-tribe-in-the-north-its-name-is-qin/cover",
+    "type": "رواية",
+    "status": "مستمر",
+    "rating": ""
+  },
+  {
+    "id": "perfect-world",
+    "title": "perfect world",
+    "url": "https://seanovel.org/novels/perfect-world",
+    "cover_url": "https://seanovel.org/api/novel/perfect-world/cover",
+    "type": "رواية",
+    "status": "مستمر",
+    "rating": ""
+  },
+  {
+    "id": "the-primordial-record",
+    "title": "the primordial record",
+    "url": "https://seanovel.org/novels/the-primordial-record",
+    "cover_url": "https://seanovel.org/api/novel/the-primordial-record/cover",
+    "type": "رواية",
+    "status": "مستمر",
+    "rating": ""
+  },
+  {
+    "id": "the-lazy-king",
+    "title": "the lazy king",
+    "url": "https://seanovel.org/novels/the-lazy-king",
+    "cover_url": "https://seanovel.org/api/novel/the-lazy-king/cover",
+    "type": "رواية",
+    "status": "مستمر",
+    "rating": ""
+  },
+  {
+    "id": "superstars-of-tomorrow",
+    "title": "superstars of tomorrow",
+    "url": "https://seanovel.org/novels/superstars-of-tomorrow",
+    "cover_url": "https://seanovel.org/api/novel/superstars-of-tomorrow/cover",
+    "type": "رواية",
+    "status": "مستمر",
+    "rating": ""
+  },
+  {
+    "id": "the-second-coming-of-gluttony",
+    "title": "the second coming of gluttony",
+    "url": "https://seanovel.org/novels/the-second-coming-of-gluttony",
+    "cover_url": "https://seanovel.org/api/novel/the-second-coming-of-gluttony/cover",
+    "type": "رواية",
+    "status": "مستمر",
+    "rating": ""
+  },
+  {
+    "id": "if-i-become-a-saint-the-immortal-official-will-call-me-to-raise-horses",
+    "title": "if i become a saint the immortal official will call me to raise horses",
+    "url": "https://seanovel.org/novels/if-i-become-a-saint-the-immortal-official-will-call-me-to-raise-horses",
+    "cover_url": "https://seanovel.org/api/novel/if-i-become-a-saint-the-immortal-official-will-call-me-to-raise-horses/cover",
+    "type": "رواية",
+    "status": "مستمر",
+    "rating": ""
+  },
+  {
+    "id": "absolute-regression",
+    "title": "absolute regression",
+    "url": "https://seanovel.org/novels/absolute-regression",
+    "cover_url": "https://seanovel.org/api/novel/absolute-regression/cover",
+    "type": "رواية",
+    "status": "مستمر",
+    "rating": ""
+  },
+  {
+    "id": "mysteries-of-immortal-puppet-master-advent-of-immortal-truth",
+    "title": "mysteries of immortal puppet master advent of immortal truth",
+    "url": "https://seanovel.org/novels/mysteries-of-immortal-puppet-master-advent-of-immortal-truth",
+    "cover_url": "https://seanovel.org/api/novel/mysteries-of-immortal-puppet-master-advent-of-immortal-truth/cover",
+    "type": "رواية",
+    "status": "مستمر",
+    "rating": ""
+  },
+  {
+    "id": "city-wide-manhunt-im-really-not-a-criminal",
+    "title": "city wide manhunt im really not a criminal",
+    "url": "https://seanovel.org/novels/city-wide-manhunt-im-really-not-a-criminal",
+    "cover_url": "https://seanovel.org/api/novel/city-wide-manhunt-im-really-not-a-criminal/cover",
+    "type": "رواية",
+    "status": "مستمر",
+    "rating": ""
+  },
+  {
+    "id": "a-regressor-s-tale-of-cultivation",
+    "title": "a regressor s tale of cultivation",
+    "url": "https://seanovel.org/novels/a-regressor-s-tale-of-cultivation",
+    "cover_url": "https://seanovel.org/api/novel/a-regressor-s-tale-of-cultivation/cover",
+    "type": "رواية",
+    "status": "مستمر",
+    "rating": ""
+  },
+  {
+    "id": "otherworldly-evil-monarch",
+    "title": "otherworldly evil monarch",
+    "url": "https://seanovel.org/novels/otherworldly-evil-monarch",
+    "cover_url": "https://seanovel.org/api/novel/otherworldly-evil-monarch/cover",
+    "type": "رواية",
+    "status": "مستمر",
+    "rating": ""
+  },
+  {
+    "id": "martial-world",
+    "title": "martial world",
+    "url": "https://seanovel.org/novels/martial-world",
+    "cover_url": "https://seanovel.org/api/novel/martial-world/cover",
+    "type": "رواية",
+    "status": "مستمر",
+    "rating": ""
+  },
+  {
+    "id": "nano-machine",
+    "title": "nano machine",
+    "url": "https://seanovel.org/novels/nano-machine",
+    "cover_url": "https://seanovel.org/api/novel/nano-machine/cover",
+    "type": "رواية",
+    "status": "مستمر",
+    "rating": ""
+  },
+  {
+    "id": "novel-37",
+    "title": "novel 37",
+    "url": "https://seanovel.org/novels/novel-37",
+    "cover_url": "https://seanovel.org/api/novel/novel-37/cover",
+    "type": "رواية",
+    "status": "مستمر",
+    "rating": ""
+  },
+  {
+    "id": "the-ideal-course",
+    "title": "the ideal course",
+    "url": "https://seanovel.org/novels/the-ideal-course",
+    "cover_url": "https://seanovel.org/api/novel/the-ideal-course/cover",
+    "type": "رواية",
+    "status": "مستمر",
+    "rating": ""
+  },
+  {
+    "id": "desolate-era",
+    "title": "desolate era",
+    "url": "https://seanovel.org/novels/desolate-era",
+    "cover_url": "https://seanovel.org/api/novel/desolate-era/cover",
+    "type": "رواية",
+    "status": "مستمر",
+    "rating": ""
+  },
+  {
+    "id": "the-eternal-holy-king",
+    "title": "the eternal holy king",
+    "url": "https://seanovel.org/novels/the-eternal-holy-king",
+    "cover_url": "https://seanovel.org/api/novel/the-eternal-holy-king/cover",
+    "type": "رواية",
+    "status": "مستمر",
+    "rating": ""
+  },
+  {
+    "id": "novel-237",
+    "title": "novel 237",
+    "url": "https://seanovel.org/novels/novel-237",
+    "cover_url": "https://seanovel.org/api/novel/novel-237/cover",
+    "type": "رواية",
+    "status": "مستمر",
+    "rating": ""
+  },
+  {
+    "id": "library-of-heavens-path",
+    "title": "library of heavens path",
+    "url": "https://seanovel.org/novels/library-of-heavens-path",
+    "cover_url": "https://seanovel.org/api/novel/library-of-heavens-path/cover",
+    "type": "رواية",
+    "status": "مستمر",
+    "rating": ""
+  },
+  {
+    "id": "69673c147d66c84567a7ccda",
+    "title": "69673c147d66c84567a7ccda",
+    "url": "https://seanovel.org/novels/69673c147d66c84567a7ccda",
+    "cover_url": "https://seanovel.org/api/novel/69673c147d66c84567a7ccda/cover",
+    "type": "رواية",
+    "status": "مستمر",
+    "rating": ""
+  },
+  {
+    "id": "investing-in-the-mandate-of-heaven-clan-my-strength-is-the-sum-of-the-whole-clan",
+    "title": "investing in the mandate of heaven clan my strength is the sum of the whole clan",
+    "url": "https://seanovel.org/novels/investing-in-the-mandate-of-heaven-clan-my-strength-is-the-sum-of-the-whole-clan",
+    "cover_url": "https://seanovel.org/api/novel/investing-in-the-mandate-of-heaven-clan-my-strength-is-the-sum-of-the-whole-clan/cover",
+    "type": "رواية",
+    "status": "مستمر",
+    "rating": ""
+  },
+  {
+    "id": "i-must-close-the-heavens",
+    "title": "i must close the heavens",
+    "url": "https://seanovel.org/novels/i-must-close-the-heavens",
+    "cover_url": "https://seanovel.org/api/novel/i-must-close-the-heavens/cover",
+    "type": "رواية",
+    "status": "مستمر",
+    "rating": ""
+  },
+  {
+    "id": "the-163417413th-soulslike-hero",
+    "title": "the 163417413th soulslike hero",
+    "url": "https://seanovel.org/novels/the-163417413th-soulslike-hero",
+    "cover_url": "https://seanovel.org/api/novel/the-163417413th-soulslike-hero/cover",
+    "type": "رواية",
+    "status": "مستمر",
+    "rating": ""
+  },
+  {
+    "id": "48270",
+    "title": "48270",
+    "url": "https://seanovel.org/novels/48270",
+    "cover_url": "https://seanovel.org/api/novel/48270/cover",
+    "type": "رواية",
+    "status": "مستمر",
+    "rating": ""
+  },
+  {
+    "id": "one-piece-talent-system",
+    "title": "one piece talent system",
+    "url": "https://seanovel.org/novels/one-piece-talent-system",
+    "cover_url": "https://seanovel.org/api/novel/one-piece-talent-system/cover",
+    "type": "رواية",
+    "status": "مستمر",
+    "rating": ""
+  },
+  {
+    "id": "soul-land-v-rebirth-of-tang-san",
+    "title": "soul land v rebirth of tang san",
+    "url": "https://seanovel.org/novels/soul-land-v-rebirth-of-tang-san",
+    "cover_url": "https://seanovel.org/api/novel/soul-land-v-rebirth-of-tang-san/cover",
+    "type": "رواية",
+    "status": "مستمر",
+    "rating": ""
+  }
+]
