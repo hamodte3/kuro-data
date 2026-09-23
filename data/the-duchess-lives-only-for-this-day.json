@@ -1,608 +1,125 @@
 {
   "id": "the-duchess-lives-only-for-this-day",
-  "chapters": {
-    "https://azorafly.com/series/the-duchess-lives-only-for-this-day/chapter-1": {
-      "name": "1",
-      "images": [
-        "https://storage.azorafly.com/public//upload/series/the-duchess-lives-only-for-this-day/yK3Xsf5zkZ/01.webp",
-        "https://storage.azorafly.com/public//upload/series/the-duchess-lives-only-for-this-day/yK3Xsf5zkZ/02.webp",
-        "https://storage.azorafly.com/public//upload/series/the-duchess-lives-only-for-this-day/yK3Xsf5zkZ/03.webp",
-        "https://storage.azorafly.com/public//upload/series/the-duchess-lives-only-for-this-day/yK3Xsf5zkZ/04.webp",
-        "https://storage.azorafly.com/public//upload/series/the-duchess-lives-only-for-this-day/yK3Xsf5zkZ/05.webp",
-        "https://storage.azorafly.com/public//upload/series/the-duchess-lives-only-for-this-day/yK3Xsf5zkZ/06.webp",
-        "https://storage.azorafly.com/public//upload/series/the-duchess-lives-only-for-this-day/yK3Xsf5zkZ/07.webp",
-        "https://storage.azorafly.com/public//upload/series/the-duchess-lives-only-for-this-day/yK3Xsf5zkZ/08.webp",
-        "https://storage.azorafly.com/public//upload/series/the-duchess-lives-only-for-this-day/yK3Xsf5zkZ/09.webp",
-        "https://storage.azorafly.com/public//upload/series/the-duchess-lives-only-for-this-day/yK3Xsf5zkZ/10.webp",
-        "https://storage.azorafly.com/public//upload/series/the-duchess-lives-only-for-this-day/yK3Xsf5zkZ/11.webp",
-        "https://storage.azorafly.com/public//upload/series/the-duchess-lives-only-for-this-day/yK3Xsf5zkZ/12.webp",
-        "https://storage.azorafly.com/public//upload/series/the-duchess-lives-only-for-this-day/yK3Xsf5zkZ/20.webp"
-      ]
-    },
-    "https://azorafly.com/series/the-duchess-lives-only-for-this-day/chapter-32": {
-      "name": "32",
-      "images": [
-        "https://storage.azorafly.com/upload/series/the-duchess-lives-only-for-this-day/a8f39b19-e4e8-4099-9650-0e3792ff1236/page-0001_01_1786829913850-468555.jpg",
-        "https://storage.azorafly.com/upload/series/the-duchess-lives-only-for-this-day/a8f39b19-e4e8-4099-9650-0e3792ff1236/page-0002_02_1786829913851-700994.jpg",
-        "https://storage.azorafly.com/upload/series/the-duchess-lives-only-for-this-day/a8f39b19-e4e8-4099-9650-0e3792ff1236/page-0003_03_1786829913851-212952.jpg",
-        "https://storage.azorafly.com/upload/series/the-duchess-lives-only-for-this-day/a8f39b19-e4e8-4099-9650-0e3792ff1236/page-0004_04_1786829913851-166052.jpg",
-        "https://storage.azorafly.com/upload/series/the-duchess-lives-only-for-this-day/a8f39b19-e4e8-4099-9650-0e3792ff1236/page-0005_05_1786829913851-843687.jpg",
-        "https://storage.azorafly.com/upload/series/the-duchess-lives-only-for-this-day/a8f39b19-e4e8-4099-9650-0e3792ff1236/page-0006_06_1786829913851-555660.jpg",
-        "https://storage.azorafly.com/upload/series/the-duchess-lives-only-for-this-day/a8f39b19-e4e8-4099-9650-0e3792ff1236/page-0007_07_1786829913851-525914.jpg",
-        "https://storage.azorafly.com/upload/series/the-duchess-lives-only-for-this-day/a8f39b19-e4e8-4099-9650-0e3792ff1236/page-0008_08_1786829913851-136697.jpg",
-        "https://storage.azorafly.com/upload/series/the-duchess-lives-only-for-this-day/a8f39b19-e4e8-4099-9650-0e3792ff1236/page-0009_09_1786829913852-434746.jpg",
-        "https://storage.azorafly.com/upload/series/the-duchess-lives-only-for-this-day/a8f39b19-e4e8-4099-9650-0e3792ff1236/page-0010_10_1786829913852-35935.jpg",
-        "https://storage.azorafly.com/upload/series/the-duchess-lives-only-for-this-day/a8f39b19-e4e8-4099-9650-0e3792ff1236/page-0011_11_1786829913852-917231.jpg",
-        "https://storage.azorafly.com/upload/series/the-duchess-lives-only-for-this-day/a8f39b19-e4e8-4099-9650-0e3792ff1236/page-0012_12_1786829913852-802957.jpg",
-        "https://storage.azorafly.com/upload/series/the-duchess-lives-only-for-this-day/a8f39b19-e4e8-4099-9650-0e3792ff1236/page-0013_13_1786829913852-447809.jpg",
-        "https://storage.azorafly.com/upload/series/the-duchess-lives-only-for-this-day/a8f39b19-e4e8-4099-9650-0e3792ff1236/page-0014_14_1786829913852-564420.jpg",
-        "https://storage.azorafly.com/upload/series/the-duchess-lives-only-for-this-day/a8f39b19-e4e8-4099-9650-0e3792ff1236/page-0015_15_1786829913853-265521.jpg",
-        "https://storage.azorafly.com/upload/series/the-duchess-lives-only-for-this-day/a8f39b19-e4e8-4099-9650-0e3792ff1236/page-0016_16_1786829913853-519265.jpg",
-        "https://storage.azorafly.com/upload/series/the-duchess-lives-only-for-this-day/a8f39b19-e4e8-4099-9650-0e3792ff1236/page-0017_17_1786829913853-431974.jpg",
-        "https://storage.azorafly.com/upload/series/the-duchess-lives-only-for-this-day/a8f39b19-e4e8-4099-9650-0e3792ff1236/page-0018_999-1_1786829913853-851350.jpg"
-      ]
-    },
-    "https://azorafly.com/series/the-duchess-lives-only-for-this-day/chapter-31": {
-      "name": "31",
-      "images": [
-        "https://storage.azorafly.com/upload/series/the-duchess-lives-only-for-this-day/ee77a79e-6b28-4e64-bacc-762d265e1cf2/page-0001_1_1786447542934-85735.jpg",
-        "https://storage.azorafly.com/upload/series/the-duchess-lives-only-for-this-day/ee77a79e-6b28-4e64-bacc-762d265e1cf2/page-0002_2_1786447542934-89339.jpg",
-        "https://storage.azorafly.com/upload/series/the-duchess-lives-only-for-this-day/ee77a79e-6b28-4e64-bacc-762d265e1cf2/page-0003_3_1786447542934-567041.jpg",
-        "https://storage.azorafly.com/upload/series/the-duchess-lives-only-for-this-day/ee77a79e-6b28-4e64-bacc-762d265e1cf2/page-0004_4_1786447542934-210835.jpg",
-        "https://storage.azorafly.com/upload/series/the-duchess-lives-only-for-this-day/ee77a79e-6b28-4e64-bacc-762d265e1cf2/page-0005_5_1786447542934-305130.jpg",
-        "https://storage.azorafly.com/upload/series/the-duchess-lives-only-for-this-day/ee77a79e-6b28-4e64-bacc-762d265e1cf2/page-0006_6_1786447542934-732576.jpg",
-        "https://storage.azorafly.com/upload/series/the-duchess-lives-only-for-this-day/ee77a79e-6b28-4e64-bacc-762d265e1cf2/page-0007_7_1786447542934-713914.jpg",
-        "https://storage.azorafly.com/upload/series/the-duchess-lives-only-for-this-day/ee77a79e-6b28-4e64-bacc-762d265e1cf2/page-0008_8_1786447542934-854478.jpg",
-        "https://storage.azorafly.com/upload/series/the-duchess-lives-only-for-this-day/ee77a79e-6b28-4e64-bacc-762d265e1cf2/page-0009_9_1786447542939-437788.jpg",
-        "https://storage.azorafly.com/upload/series/the-duchess-lives-only-for-this-day/ee77a79e-6b28-4e64-bacc-762d265e1cf2/page-0010_10_1786447542939-934465.jpg",
-        "https://storage.azorafly.com/upload/series/the-duchess-lives-only-for-this-day/ee77a79e-6b28-4e64-bacc-762d265e1cf2/page-0011_99_1786447542939-453364.jpg"
-      ]
-    },
-    "https://azorafly.com/series/the-duchess-lives-only-for-this-day/chapter-30": {
-      "name": "30",
-      "images": [
-        "https://storage.azorafly.com/upload/series/the-duchess-lives-only-for-this-day/e7ed6b76-4bd7-4311-bc87-058e96350c58/page-0001_1_1786358995416-105355.jpg",
-        "https://storage.azorafly.com/upload/series/the-duchess-lives-only-for-this-day/e7ed6b76-4bd7-4311-bc87-058e96350c58/page-0002_2_1786358995416-189716.jpg",
-        "https://storage.azorafly.com/upload/series/the-duchess-lives-only-for-this-day/e7ed6b76-4bd7-4311-bc87-058e96350c58/page-0003_3_1786358995416-509354.jpg",
-        "https://storage.azorafly.com/upload/series/the-duchess-lives-only-for-this-day/e7ed6b76-4bd7-4311-bc87-058e96350c58/page-0004_4_1786358995416-311273.jpg",
-        "https://storage.azorafly.com/upload/series/the-duchess-lives-only-for-this-day/e7ed6b76-4bd7-4311-bc87-058e96350c58/page-0005_5_1786358995416-193401.jpg",
-        "https://storage.azorafly.com/upload/series/the-duchess-lives-only-for-this-day/e7ed6b76-4bd7-4311-bc87-058e96350c58/page-0006_6_1786358995416-963148.jpg",
-        "https://storage.azorafly.com/upload/series/the-duchess-lives-only-for-this-day/e7ed6b76-4bd7-4311-bc87-058e96350c58/page-0007_99_1786358995416-70665.jpg"
-      ]
-    },
-    "https://azorafly.com/series/the-duchess-lives-only-for-this-day/chapter-29": {
-      "name": "29",
-      "images": [
-        "https://storage.azorafly.com/upload/series/the-duchess-lives-only-for-this-day/1ece932b-b770-4e34-8110-c10b1b7aeb64/page-0001_1_1785423015774-889836.jpg",
-        "https://storage.azorafly.com/upload/series/the-duchess-lives-only-for-this-day/1ece932b-b770-4e34-8110-c10b1b7aeb64/page-0002_2_1785423015774-699540.jpg",
-        "https://storage.azorafly.com/upload/series/the-duchess-lives-only-for-this-day/1ece932b-b770-4e34-8110-c10b1b7aeb64/page-0003_3_1785423015774-215015.jpg",
-        "https://storage.azorafly.com/upload/series/the-duchess-lives-only-for-this-day/1ece932b-b770-4e34-8110-c10b1b7aeb64/page-0004_4_1785423015774-817924.jpg",
-        "https://storage.azorafly.com/upload/series/the-duchess-lives-only-for-this-day/1ece932b-b770-4e34-8110-c10b1b7aeb64/page-0005_5_1785423015774-652.jpg",
-        "https://storage.azorafly.com/upload/series/the-duchess-lives-only-for-this-day/1ece932b-b770-4e34-8110-c10b1b7aeb64/page-0006_6_1785423015774-846710.jpg",
-        "https://storage.azorafly.com/upload/series/the-duchess-lives-only-for-this-day/1ece932b-b770-4e34-8110-c10b1b7aeb64/page-0007_7_1785423015774-168744.jpg",
-        "https://storage.azorafly.com/upload/series/the-duchess-lives-only-for-this-day/1ece932b-b770-4e34-8110-c10b1b7aeb64/page-0008_8_1785423015774-873069.jpg",
-        "https://storage.azorafly.com/upload/series/the-duchess-lives-only-for-this-day/1ece932b-b770-4e34-8110-c10b1b7aeb64/page-0009_9_1785423015776-202608.jpg",
-        "https://storage.azorafly.com/upload/series/the-duchess-lives-only-for-this-day/1ece932b-b770-4e34-8110-c10b1b7aeb64/page-0010_999_1785423015804-268858.jpg"
-      ]
-    },
-    "https://azorafly.com/series/the-duchess-lives-only-for-this-day/chapter-28": {
-      "name": "28",
-      "images": [
-        "https://storage.azorafly.com/upload/series/the-duchess-lives-only-for-this-day/f9414a55-33ec-4d9c-8652-600608c9d55f/page-0001_1_1785422945904-322181.jpg",
-        "https://storage.azorafly.com/upload/series/the-duchess-lives-only-for-this-day/f9414a55-33ec-4d9c-8652-600608c9d55f/page-0002_2_1785422945904-174823.jpg",
-        "https://storage.azorafly.com/upload/series/the-duchess-lives-only-for-this-day/f9414a55-33ec-4d9c-8652-600608c9d55f/page-0003_3_1785422945904-110118.jpg",
-        "https://storage.azorafly.com/upload/series/the-duchess-lives-only-for-this-day/f9414a55-33ec-4d9c-8652-600608c9d55f/page-0004_4_1785422945904-942104.jpg",
-        "https://storage.azorafly.com/upload/series/the-duchess-lives-only-for-this-day/f9414a55-33ec-4d9c-8652-600608c9d55f/page-0005_5_1785422945904-662996.jpg",
-        "https://storage.azorafly.com/upload/series/the-duchess-lives-only-for-this-day/f9414a55-33ec-4d9c-8652-600608c9d55f/page-0006_6_1785422945904-371300.jpg",
-        "https://storage.azorafly.com/upload/series/the-duchess-lives-only-for-this-day/f9414a55-33ec-4d9c-8652-600608c9d55f/page-0007_7_1785422945904-679791.jpg",
-        "https://storage.azorafly.com/upload/series/the-duchess-lives-only-for-this-day/f9414a55-33ec-4d9c-8652-600608c9d55f/page-0008_8_1785422945904-234469.jpg",
-        "https://storage.azorafly.com/upload/series/the-duchess-lives-only-for-this-day/f9414a55-33ec-4d9c-8652-600608c9d55f/page-0009_9_1785422945906-581832.jpg",
-        "https://storage.azorafly.com/upload/series/the-duchess-lives-only-for-this-day/f9414a55-33ec-4d9c-8652-600608c9d55f/page-0010_999_1785422945907-914441.jpg"
-      ]
-    },
-    "https://azorafly.com/series/the-duchess-lives-only-for-this-day/chapter-27": {
-      "name": "27",
-      "images": [
-        "https://storage.azorafly.com/upload/series/the-duchess-lives-only-for-this-day/21f31983-dc9e-4e9e-ae6f-889699b7589f/page-0001_1_1785386130448-218637.jpg",
-        "https://storage.azorafly.com/upload/series/the-duchess-lives-only-for-this-day/21f31983-dc9e-4e9e-ae6f-889699b7589f/page-0002_2_1785386130448-799858.jpg",
-        "https://storage.azorafly.com/upload/series/the-duchess-lives-only-for-this-day/21f31983-dc9e-4e9e-ae6f-889699b7589f/page-0003_3_1785386130448-651842.jpg",
-        "https://storage.azorafly.com/upload/series/the-duchess-lives-only-for-this-day/21f31983-dc9e-4e9e-ae6f-889699b7589f/page-0004_4_1785386130448-34310.jpg",
-        "https://storage.azorafly.com/upload/series/the-duchess-lives-only-for-this-day/21f31983-dc9e-4e9e-ae6f-889699b7589f/page-0005_5_1785386130448-780543.jpg",
-        "https://storage.azorafly.com/upload/series/the-duchess-lives-only-for-this-day/21f31983-dc9e-4e9e-ae6f-889699b7589f/page-0006_6_1785386130448-415721.jpg",
-        "https://storage.azorafly.com/upload/series/the-duchess-lives-only-for-this-day/21f31983-dc9e-4e9e-ae6f-889699b7589f/page-0007_7_1785386130448-861649.jpg",
-        "https://storage.azorafly.com/upload/series/the-duchess-lives-only-for-this-day/21f31983-dc9e-4e9e-ae6f-889699b7589f/page-0008_8_1785386130448-99968.jpg",
-        "https://storage.azorafly.com/upload/series/the-duchess-lives-only-for-this-day/21f31983-dc9e-4e9e-ae6f-889699b7589f/page-0009_9_1785386130451-438400.jpg",
-        "https://storage.azorafly.com/upload/series/the-duchess-lives-only-for-this-day/21f31983-dc9e-4e9e-ae6f-889699b7589f/page-0010_10_1785386130451-459562.jpg",
-        "https://storage.azorafly.com/upload/series/the-duchess-lives-only-for-this-day/21f31983-dc9e-4e9e-ae6f-889699b7589f/page-0011_999_1785386130451-349053.jpg"
-      ]
-    },
-    "https://azorafly.com/series/the-duchess-lives-only-for-this-day/chapter-26": {
-      "name": "26",
-      "images": [
-        "https://storage.azorafly.com/upload/series/the-duchess-lives-only-for-this-day/aa5bcd92-90a4-48da-abc3-175bb6a7265a/page-0001_1_1782675495912-966533.jpg",
-        "https://storage.azorafly.com/upload/series/the-duchess-lives-only-for-this-day/aa5bcd92-90a4-48da-abc3-175bb6a7265a/page-0002_2_1782675495912-500795.jpg",
-        "https://storage.azorafly.com/upload/series/the-duchess-lives-only-for-this-day/aa5bcd92-90a4-48da-abc3-175bb6a7265a/page-0003_3_1782675495912-353108.jpg",
-        "https://storage.azorafly.com/upload/series/the-duchess-lives-only-for-this-day/aa5bcd92-90a4-48da-abc3-175bb6a7265a/page-0004_4_1782675495912-683569.jpg",
-        "https://storage.azorafly.com/upload/series/the-duchess-lives-only-for-this-day/aa5bcd92-90a4-48da-abc3-175bb6a7265a/page-0005_5_1782675495912-255895.jpg",
-        "https://storage.azorafly.com/upload/series/the-duchess-lives-only-for-this-day/aa5bcd92-90a4-48da-abc3-175bb6a7265a/page-0006_6_1782675495912-363767.jpg",
-        "https://storage.azorafly.com/upload/series/the-duchess-lives-only-for-this-day/aa5bcd92-90a4-48da-abc3-175bb6a7265a/page-0007_7_1782675495912-104539.jpg",
-        "https://storage.azorafly.com/upload/series/the-duchess-lives-only-for-this-day/aa5bcd92-90a4-48da-abc3-175bb6a7265a/page-0008_8_1782675495912-325078.jpg",
-        "https://storage.azorafly.com/upload/series/the-duchess-lives-only-for-this-day/aa5bcd92-90a4-48da-abc3-175bb6a7265a/page-0009_9_1782675495915-309616.jpg"
-      ]
-    },
-    "https://azorafly.com/series/the-duchess-lives-only-for-this-day/chapter-25": {
-      "name": "25",
-      "images": [
-        "https://storage.azorafly.com/upload/series/the-duchess-lives-only-for-this-day/fab7f328-aaa8-499d-88a1-5b5f3dd60dad/page-0001_01_1782153042108-48968.jpg",
-        "https://storage.azorafly.com/upload/series/the-duchess-lives-only-for-this-day/fab7f328-aaa8-499d-88a1-5b5f3dd60dad/page-0002_02_1782153042108-74413.jpg",
-        "https://storage.azorafly.com/upload/series/the-duchess-lives-only-for-this-day/fab7f328-aaa8-499d-88a1-5b5f3dd60dad/page-0003_03_1782153042108-635445.jpg",
-        "https://storage.azorafly.com/upload/series/the-duchess-lives-only-for-this-day/fab7f328-aaa8-499d-88a1-5b5f3dd60dad/page-0004_04_1782153042108-460694.jpg",
-        "https://storage.azorafly.com/upload/series/the-duchess-lives-only-for-this-day/fab7f328-aaa8-499d-88a1-5b5f3dd60dad/page-0005_05_1782153042108-402994.jpg",
-        "https://storage.azorafly.com/upload/series/the-duchess-lives-only-for-this-day/fab7f328-aaa8-499d-88a1-5b5f3dd60dad/page-0006_06_1782153042108-972738.jpg",
-        "https://storage.azorafly.com/upload/series/the-duchess-lives-only-for-this-day/fab7f328-aaa8-499d-88a1-5b5f3dd60dad/page-0007_07_1782153042108-609834.jpg",
-        "https://storage.azorafly.com/upload/series/the-duchess-lives-only-for-this-day/fab7f328-aaa8-499d-88a1-5b5f3dd60dad/page-0008_08_1782153042108-661735.jpg",
-        "https://storage.azorafly.com/upload/series/the-duchess-lives-only-for-this-day/fab7f328-aaa8-499d-88a1-5b5f3dd60dad/page-0009_09_1782153042112-267748.jpg",
-        "https://storage.azorafly.com/upload/series/the-duchess-lives-only-for-this-day/fab7f328-aaa8-499d-88a1-5b5f3dd60dad/page-0010_10_1782153042112-407011.jpg"
-      ]
-    },
-    "https://azorafly.com/series/the-duchess-lives-only-for-this-day/chapter-24": {
-      "name": "24",
-      "images": [
-        "https://storage.azorafly.com/upload/series/the-duchess-lives-only-for-this-day/0c8c6685-0da3-43f7-8dc7-65ca97254f24/page-0001_01-1_1781454626906-141489.jpg",
-        "https://storage.azorafly.com/upload/series/the-duchess-lives-only-for-this-day/0c8c6685-0da3-43f7-8dc7-65ca97254f24/page-0002_02-1_1781454626906-394161.jpg",
-        "https://storage.azorafly.com/upload/series/the-duchess-lives-only-for-this-day/0c8c6685-0da3-43f7-8dc7-65ca97254f24/page-0003_03-1_1781454626906-450094.jpg",
-        "https://storage.azorafly.com/upload/series/the-duchess-lives-only-for-this-day/0c8c6685-0da3-43f7-8dc7-65ca97254f24/page-0004_04-1_1781454626906-370142.jpg",
-        "https://storage.azorafly.com/upload/series/the-duchess-lives-only-for-this-day/0c8c6685-0da3-43f7-8dc7-65ca97254f24/page-0005_05-1_1781454626906-516862.jpg",
-        "https://storage.azorafly.com/upload/series/the-duchess-lives-only-for-this-day/0c8c6685-0da3-43f7-8dc7-65ca97254f24/page-0006_06-1_1781454626906-338168.jpg",
-        "https://storage.azorafly.com/upload/series/the-duchess-lives-only-for-this-day/0c8c6685-0da3-43f7-8dc7-65ca97254f24/page-0007_07-1_1781454626906-983174.jpg",
-        "https://storage.azorafly.com/upload/series/the-duchess-lives-only-for-this-day/0c8c6685-0da3-43f7-8dc7-65ca97254f24/page-0008_08-1_1781454626906-94623.jpg",
-        "https://storage.azorafly.com/upload/series/the-duchess-lives-only-for-this-day/0c8c6685-0da3-43f7-8dc7-65ca97254f24/page-0009_100_1781454626908-912224.jpg"
-      ]
-    },
-    "https://azorafly.com/series/the-duchess-lives-only-for-this-day/chapter-23": {
-      "name": "23",
-      "images": [
-        "https://storage.azorafly.com/upload/series/the-duchess-lives-only-for-this-day/632a3f49-c456-485a-b9e5-5df3c40b6db2/page-0001_01_1780794368657-801263.jpg",
-        "https://storage.azorafly.com/upload/series/the-duchess-lives-only-for-this-day/632a3f49-c456-485a-b9e5-5df3c40b6db2/page-0002_02_1780794368657-510558.jpg",
-        "https://storage.azorafly.com/upload/series/the-duchess-lives-only-for-this-day/632a3f49-c456-485a-b9e5-5df3c40b6db2/page-0003_03_1780794368657-694310.jpg",
-        "https://storage.azorafly.com/upload/series/the-duchess-lives-only-for-this-day/632a3f49-c456-485a-b9e5-5df3c40b6db2/page-0004_04_1780794368657-423506.jpg",
-        "https://storage.azorafly.com/upload/series/the-duchess-lives-only-for-this-day/632a3f49-c456-485a-b9e5-5df3c40b6db2/page-0005_05_1780794368657-307.jpg",
-        "https://storage.azorafly.com/upload/series/the-duchess-lives-only-for-this-day/632a3f49-c456-485a-b9e5-5df3c40b6db2/page-0006_06_1780794368657-858379.jpg",
-        "https://storage.azorafly.com/upload/series/the-duchess-lives-only-for-this-day/632a3f49-c456-485a-b9e5-5df3c40b6db2/page-0007_07_1780794368657-189357.jpg",
-        "https://storage.azorafly.com/upload/series/the-duchess-lives-only-for-this-day/632a3f49-c456-485a-b9e5-5df3c40b6db2/page-0008_100_1780794368657-282410.jpg"
-      ]
-    },
-    "https://azorafly.com/series/the-duchess-lives-only-for-this-day/chapter-22": {
-      "name": "22",
-      "images": [
-        "https://storage.azorafly.com/upload/series/the-duchess-lives-only-for-this-day/63251a2b-d5b6-4865-b7e3-a11d8b1e48f1/page-0001_01_1780438749106-985416.jpg",
-        "https://storage.azorafly.com/upload/series/the-duchess-lives-only-for-this-day/63251a2b-d5b6-4865-b7e3-a11d8b1e48f1/page-0002_02_1780438749107-822373.jpg",
-        "https://storage.azorafly.com/upload/series/the-duchess-lives-only-for-this-day/63251a2b-d5b6-4865-b7e3-a11d8b1e48f1/page-0003_03_1780438749107-560760.jpg",
-        "https://storage.azorafly.com/upload/series/the-duchess-lives-only-for-this-day/63251a2b-d5b6-4865-b7e3-a11d8b1e48f1/page-0004_04_1780438749107-98224.jpg",
-        "https://storage.azorafly.com/upload/series/the-duchess-lives-only-for-this-day/63251a2b-d5b6-4865-b7e3-a11d8b1e48f1/page-0005_05_1780438749107-4557.jpg",
-        "https://storage.azorafly.com/upload/series/the-duchess-lives-only-for-this-day/63251a2b-d5b6-4865-b7e3-a11d8b1e48f1/page-0006_06_1780438749107-99726.jpg",
-        "https://storage.azorafly.com/upload/series/the-duchess-lives-only-for-this-day/63251a2b-d5b6-4865-b7e3-a11d8b1e48f1/page-0007_07_1780438749107-205900.jpg",
-        "https://storage.azorafly.com/upload/series/the-duchess-lives-only-for-this-day/63251a2b-d5b6-4865-b7e3-a11d8b1e48f1/page-0008_08_1780438749107-40767.jpg",
-        "https://storage.azorafly.com/upload/series/the-duchess-lives-only-for-this-day/63251a2b-d5b6-4865-b7e3-a11d8b1e48f1/page-0009_09_1780438749108-549018.jpg",
-        "https://storage.azorafly.com/upload/series/the-duchess-lives-only-for-this-day/63251a2b-d5b6-4865-b7e3-a11d8b1e48f1/page-0010_100_1780438749108-401752.jpg"
-      ]
-    },
-    "https://azorafly.com/series/the-duchess-lives-only-for-this-day/chapter-21": {
-      "name": "21",
-      "images": [
-        "https://storage.azorafly.com/upload/series/the-duchess-lives-only-for-this-day/31885e20-90fe-4940-947a-6f5f2e5acd00/page-0001_01-1_1779756482690-738438.jpg",
-        "https://storage.azorafly.com/upload/series/the-duchess-lives-only-for-this-day/31885e20-90fe-4940-947a-6f5f2e5acd00/page-0002_02-1_1779756482690-122110.jpg",
-        "https://storage.azorafly.com/upload/series/the-duchess-lives-only-for-this-day/31885e20-90fe-4940-947a-6f5f2e5acd00/page-0003_03-1_1779756482690-812733.jpg",
-        "https://storage.azorafly.com/upload/series/the-duchess-lives-only-for-this-day/31885e20-90fe-4940-947a-6f5f2e5acd00/page-0004_04-1_1779756482690-748705.jpg",
-        "https://storage.azorafly.com/upload/series/the-duchess-lives-only-for-this-day/31885e20-90fe-4940-947a-6f5f2e5acd00/page-0005_05-1_1779756482690-976573.jpg",
-        "https://storage.azorafly.com/upload/series/the-duchess-lives-only-for-this-day/31885e20-90fe-4940-947a-6f5f2e5acd00/page-0006_06-1_1779756482690-81294.jpg",
-        "https://storage.azorafly.com/upload/series/the-duchess-lives-only-for-this-day/31885e20-90fe-4940-947a-6f5f2e5acd00/page-0007_07-1_1779756482690-204094.jpg",
-        "https://storage.azorafly.com/upload/series/the-duchess-lives-only-for-this-day/31885e20-90fe-4940-947a-6f5f2e5acd00/page-0008_08-1_1779756482690-802687.jpg",
-        "https://storage.azorafly.com/upload/series/the-duchess-lives-only-for-this-day/31885e20-90fe-4940-947a-6f5f2e5acd00/page-0009_09-1_1779756482692-446366.jpg",
-        "https://storage.azorafly.com/upload/series/the-duchess-lives-only-for-this-day/31885e20-90fe-4940-947a-6f5f2e5acd00/page-0010_10-2_1779756482693-944077.jpg",
-        "https://storage.azorafly.com/upload/series/the-duchess-lives-only-for-this-day/31885e20-90fe-4940-947a-6f5f2e5acd00/page-0011_100_1779756482693-870127.jpg"
-      ]
-    },
-    "https://azorafly.com/series/the-duchess-lives-only-for-this-day/chapter-20": {
-      "name": "20",
-      "images": [
-        "https://storage.azorafly.com/upload/series/the-duchess-lives-only-for-this-day/1a292c72-5b91-4ae7-ad39-3041d19c1803/page-0001_01_1779028886803-37224.jpg",
-        "https://storage.azorafly.com/upload/series/the-duchess-lives-only-for-this-day/1a292c72-5b91-4ae7-ad39-3041d19c1803/page-0002_02_1779028886803-67148.jpg",
-        "https://storage.azorafly.com/upload/series/the-duchess-lives-only-for-this-day/1a292c72-5b91-4ae7-ad39-3041d19c1803/page-0003_03_1779028886803-513633.jpg",
-        "https://storage.azorafly.com/upload/series/the-duchess-lives-only-for-this-day/1a292c72-5b91-4ae7-ad39-3041d19c1803/page-0004_04_1779028886803-990449.jpg",
-        "https://storage.azorafly.com/upload/series/the-duchess-lives-only-for-this-day/1a292c72-5b91-4ae7-ad39-3041d19c1803/page-0005_05_1779028886803-268035.jpg",
-        "https://storage.azorafly.com/upload/series/the-duchess-lives-only-for-this-day/1a292c72-5b91-4ae7-ad39-3041d19c1803/page-0006_06_1779028886803-84333.jpg",
-        "https://storage.azorafly.com/upload/series/the-duchess-lives-only-for-this-day/1a292c72-5b91-4ae7-ad39-3041d19c1803/page-0007_07_1779028886803-654301.jpg",
-        "https://storage.azorafly.com/upload/series/the-duchess-lives-only-for-this-day/1a292c72-5b91-4ae7-ad39-3041d19c1803/page-0008_08_1779028886803-507075.jpg",
-        "https://storage.azorafly.com/upload/series/the-duchess-lives-only-for-this-day/1a292c72-5b91-4ae7-ad39-3041d19c1803/page-0009_09_1779028886805-751737.jpg",
-        "https://storage.azorafly.com/upload/series/the-duchess-lives-only-for-this-day/1a292c72-5b91-4ae7-ad39-3041d19c1803/page-0010_10_1779028886805-122453.jpg",
-        "https://storage.azorafly.com/upload/series/the-duchess-lives-only-for-this-day/1a292c72-5b91-4ae7-ad39-3041d19c1803/page-0011_100_1779028886806-680806.jpg"
-      ]
-    },
-    "https://azorafly.com/series/the-duchess-lives-only-for-this-day/chapter-19": {
-      "name": "19",
-      "images": [
-        "https://storage.azorafly.com/upload/series/the-duchess-lives-only-for-this-day/8e67abd8-b59d-47c8-bd48-5bd2ff9bfa46/page-0001_01_1778763201692-785297.jpg",
-        "https://storage.azorafly.com/upload/series/the-duchess-lives-only-for-this-day/8e67abd8-b59d-47c8-bd48-5bd2ff9bfa46/page-0002_02_1778763201692-717881.jpg",
-        "https://storage.azorafly.com/upload/series/the-duchess-lives-only-for-this-day/8e67abd8-b59d-47c8-bd48-5bd2ff9bfa46/page-0003_03_1778763201692-267128.jpg",
-        "https://storage.azorafly.com/upload/series/the-duchess-lives-only-for-this-day/8e67abd8-b59d-47c8-bd48-5bd2ff9bfa46/page-0004_04_1778763201692-169203.jpg",
-        "https://storage.azorafly.com/upload/series/the-duchess-lives-only-for-this-day/8e67abd8-b59d-47c8-bd48-5bd2ff9bfa46/page-0005_05_1778763201692-216078.jpg",
-        "https://storage.azorafly.com/upload/series/the-duchess-lives-only-for-this-day/8e67abd8-b59d-47c8-bd48-5bd2ff9bfa46/page-0006_06_1778763201692-703654.jpg",
-        "https://storage.azorafly.com/upload/series/the-duchess-lives-only-for-this-day/8e67abd8-b59d-47c8-bd48-5bd2ff9bfa46/page-0007_07_1778763201692-144866.jpg",
-        "https://storage.azorafly.com/upload/series/the-duchess-lives-only-for-this-day/8e67abd8-b59d-47c8-bd48-5bd2ff9bfa46/page-0008_08_1778763201692-473450.jpg",
-        "https://storage.azorafly.com/upload/series/the-duchess-lives-only-for-this-day/8e67abd8-b59d-47c8-bd48-5bd2ff9bfa46/page-0009_100_1778763201693-260047.jpg"
-      ]
-    },
-    "https://azorafly.com/series/the-duchess-lives-only-for-this-day/chapter-18": {
-      "name": "18",
-      "images": [
-        "https://storage.azorafly.com/upload/series/the-duchess-lives-only-for-this-day/f6a5e213-e07a-466a-8ba9-89b1f737adce/page-0001_01_1778202805850-657107.jpg",
-        "https://storage.azorafly.com/upload/series/the-duchess-lives-only-for-this-day/f6a5e213-e07a-466a-8ba9-89b1f737adce/page-0002_02-1_1778202805850-196032.jpg",
-        "https://storage.azorafly.com/upload/series/the-duchess-lives-only-for-this-day/f6a5e213-e07a-466a-8ba9-89b1f737adce/page-0003_03-1_1778202805850-470446.jpg",
-        "https://storage.azorafly.com/upload/series/the-duchess-lives-only-for-this-day/f6a5e213-e07a-466a-8ba9-89b1f737adce/page-0004_04-1_1778202805851-79692.jpg",
-        "https://storage.azorafly.com/upload/series/the-duchess-lives-only-for-this-day/f6a5e213-e07a-466a-8ba9-89b1f737adce/page-0005_05-1_1778202805851-556300.jpg",
-        "https://storage.azorafly.com/upload/series/the-duchess-lives-only-for-this-day/f6a5e213-e07a-466a-8ba9-89b1f737adce/page-0006_06_1778202805851-399072.jpg",
-        "https://storage.azorafly.com/upload/series/the-duchess-lives-only-for-this-day/f6a5e213-e07a-466a-8ba9-89b1f737adce/page-0007_7-1_1778202805851-837347.jpg",
-        "https://storage.azorafly.com/upload/series/the-duchess-lives-only-for-this-day/f6a5e213-e07a-466a-8ba9-89b1f737adce/page-0008_08_1778202805851-158564.jpg",
-        "https://storage.azorafly.com/upload/series/the-duchess-lives-only-for-this-day/f6a5e213-e07a-466a-8ba9-89b1f737adce/page-0009_09_1778202805852-506260.jpg",
-        "https://storage.azorafly.com/upload/series/the-duchess-lives-only-for-this-day/f6a5e213-e07a-466a-8ba9-89b1f737adce/page-0010_10-2_1778202805852-748481.jpg"
-      ]
-    },
-    "https://azorafly.com/series/the-duchess-lives-only-for-this-day/chapter-17": {
-      "name": "17",
-      "images": [
-        "https://storage.azorafly.com/public/upload/series/the-duchess-lives-only-for-this-day/483d8834-1a76-41af-8a20-0f3d301ac6f3/page-0001_1_1776704140169-661917.jpg",
-        "https://storage.azorafly.com/public/upload/series/the-duchess-lives-only-for-this-day/483d8834-1a76-41af-8a20-0f3d301ac6f3/page-0002_2_1776704140169-904911.jpg",
-        "https://storage.azorafly.com/public/upload/series/the-duchess-lives-only-for-this-day/483d8834-1a76-41af-8a20-0f3d301ac6f3/page-0003_3_1776704140169-715517.jpg",
-        "https://storage.azorafly.com/public/upload/series/the-duchess-lives-only-for-this-day/483d8834-1a76-41af-8a20-0f3d301ac6f3/page-0004_4_1776704140169-568996.jpg",
-        "https://storage.azorafly.com/public/upload/series/the-duchess-lives-only-for-this-day/483d8834-1a76-41af-8a20-0f3d301ac6f3/page-0005_5_1776704140169-34329.jpg",
-        "https://storage.azorafly.com/public/upload/series/the-duchess-lives-only-for-this-day/483d8834-1a76-41af-8a20-0f3d301ac6f3/page-0006_6_1776704140169-411649.jpg",
-        "https://storage.azorafly.com/public/upload/series/the-duchess-lives-only-for-this-day/483d8834-1a76-41af-8a20-0f3d301ac6f3/page-0007_7_1776704140169-714662.jpg",
-        "https://storage.azorafly.com/public/upload/series/the-duchess-lives-only-for-this-day/483d8834-1a76-41af-8a20-0f3d301ac6f3/page-0008_8_1776704140169-497690.jpg",
-        "https://storage.azorafly.com/public/upload/series/the-duchess-lives-only-for-this-day/483d8834-1a76-41af-8a20-0f3d301ac6f3/page-0009_9_1776704140171-92355.jpg",
-        "https://storage.azorafly.com/public/upload/series/the-duchess-lives-only-for-this-day/483d8834-1a76-41af-8a20-0f3d301ac6f3/page-0010_10_1776704140172-144737.jpg",
-        "https://storage.azorafly.com/public/upload/series/the-duchess-lives-only-for-this-day/483d8834-1a76-41af-8a20-0f3d301ac6f3/page-0011_11_1776704140172-295296.jpg",
-        "https://storage.azorafly.com/public/upload/series/the-duchess-lives-only-for-this-day/483d8834-1a76-41af-8a20-0f3d301ac6f3/page-0012_12_1776704140172-835155.jpg"
-      ]
-    },
-    "https://azorafly.com/series/the-duchess-lives-only-for-this-day/chapter-16": {
-      "name": "16",
-      "images": [
-        "https://storage.azorafly.com/public/upload/series/the-duchess-lives-only-for-this-day/WhzNp2KvFR/page-0001_01_1776269106374-386084.webp",
-        "https://storage.azorafly.com/public/upload/series/the-duchess-lives-only-for-this-day/WhzNp2KvFR/page-0002_01_1776269107612-5565.webp",
-        "https://storage.azorafly.com/public/upload/series/the-duchess-lives-only-for-this-day/WhzNp2KvFR/page-0003_01_1776269109053-668715.webp",
-        "https://storage.azorafly.com/public/upload/series/the-duchess-lives-only-for-this-day/WhzNp2KvFR/page-0004_02_1776269110035-968852.webp",
-        "https://storage.azorafly.com/public/upload/series/the-duchess-lives-only-for-this-day/WhzNp2KvFR/page-0005_02_1776269111091-512149.webp",
-        "https://storage.azorafly.com/public/upload/series/the-duchess-lives-only-for-this-day/WhzNp2KvFR/page-0006_02_1776269112182-869181.webp",
-        "https://storage.azorafly.com/public/upload/series/the-duchess-lives-only-for-this-day/WhzNp2KvFR/page-0007_03_1776269113053-664779.webp",
-        "https://storage.azorafly.com/public/upload/series/the-duchess-lives-only-for-this-day/WhzNp2KvFR/page-0008_03_1776269114157-13526.webp",
-        "https://storage.azorafly.com/public/upload/series/the-duchess-lives-only-for-this-day/WhzNp2KvFR/page-0009_03_1776269115239-121403.webp",
-        "https://storage.azorafly.com/public/upload/series/the-duchess-lives-only-for-this-day/WhzNp2KvFR/page-0010_04_1776269116089-321838.webp",
-        "https://storage.azorafly.com/public/upload/series/the-duchess-lives-only-for-this-day/WhzNp2KvFR/page-0011_04_1776269117054-71471.webp",
-        "https://storage.azorafly.com/public/upload/series/the-duchess-lives-only-for-this-day/WhzNp2KvFR/page-0012_04_1776269118050-878252.webp",
-        "https://storage.azorafly.com/public/upload/series/the-duchess-lives-only-for-this-day/WhzNp2KvFR/page-0013_05_1776269118917-349515.webp",
-        "https://storage.azorafly.com/public/upload/series/the-duchess-lives-only-for-this-day/WhzNp2KvFR/page-0014_05_1776269119910-375407.webp",
-        "https://storage.azorafly.com/public/upload/series/the-duchess-lives-only-for-this-day/WhzNp2KvFR/page-0015_05_1776269120981-706475.webp",
-        "https://storage.azorafly.com/public/upload/series/the-duchess-lives-only-for-this-day/WhzNp2KvFR/page-0016_06_1776269121805-346798.webp",
-        "https://storage.azorafly.com/public/upload/series/the-duchess-lives-only-for-this-day/WhzNp2KvFR/page-0017_06_1776269122792-850319.webp",
-        "https://storage.azorafly.com/public/upload/series/the-duchess-lives-only-for-this-day/WhzNp2KvFR/page-0018_06_1776269123920-878222.webp",
-        "https://storage.azorafly.com/public/upload/series/the-duchess-lives-only-for-this-day/WhzNp2KvFR/page-0019_07_1776269124821-152586.webp",
-        "https://storage.azorafly.com/public/upload/series/the-duchess-lives-only-for-this-day/WhzNp2KvFR/page-0020_07_1776269125902-263853.webp",
-        "https://storage.azorafly.com/public/upload/series/the-duchess-lives-only-for-this-day/WhzNp2KvFR/page-0021_07_1776269127072-68567.webp",
-        "https://storage.azorafly.com/public/upload/series/the-duchess-lives-only-for-this-day/WhzNp2KvFR/page-0022_08_1776269128184-329288.webp",
-        "https://storage.azorafly.com/public/upload/series/the-duchess-lives-only-for-this-day/WhzNp2KvFR/page-0023_08_1776269129494-458557.webp",
-        "https://storage.azorafly.com/public/upload/series/the-duchess-lives-only-for-this-day/WhzNp2KvFR/page-0024_08_1776269130745-244160.webp",
-        "https://storage.azorafly.com/public/upload/series/the-duchess-lives-only-for-this-day/WhzNp2KvFR/page-0025_09_1776269131993-376494.webp",
-        "https://storage.azorafly.com/public/upload/series/the-duchess-lives-only-for-this-day/WhzNp2KvFR/page-0026_09_1776269133219-414459.webp",
-        "https://storage.azorafly.com/public/upload/series/the-duchess-lives-only-for-this-day/WhzNp2KvFR/page-0027_09_1776269134522-30425.webp",
-        "https://storage.azorafly.com/public/upload/series/the-duchess-lives-only-for-this-day/WhzNp2KvFR/page-0028_10_1776269135525-221527.webp"
-      ]
-    },
-    "https://azorafly.com/series/the-duchess-lives-only-for-this-day/chapter-15": {
-      "name": "15",
-      "images": [
-        "https://storage.azorafly.com/public/upload/series/the-duchess-lives-only-for-this-day/tAyPBgeq7t/page-0001_01_1775932692796-972454.webp",
-        "https://storage.azorafly.com/public/upload/series/the-duchess-lives-only-for-this-day/tAyPBgeq7t/page-0002_01_1775932693871-644287.webp",
-        "https://storage.azorafly.com/public/upload/series/the-duchess-lives-only-for-this-day/tAyPBgeq7t/page-0003_01_1775932695062-551395.webp",
-        "https://storage.azorafly.com/public/upload/series/the-duchess-lives-only-for-this-day/tAyPBgeq7t/page-0004_01_1775932696458-490091.webp",
-        "https://storage.azorafly.com/public/upload/series/the-duchess-lives-only-for-this-day/tAyPBgeq7t/page-0005_01_1775932697773-946621.webp",
-        "https://storage.azorafly.com/public/upload/series/the-duchess-lives-only-for-this-day/tAyPBgeq7t/page-0006_01_1775932699127-983936.webp",
-        "https://storage.azorafly.com/public/upload/series/the-duchess-lives-only-for-this-day/tAyPBgeq7t/page-0007_02_1775932699953-786809.webp",
-        "https://storage.azorafly.com/public/upload/series/the-duchess-lives-only-for-this-day/tAyPBgeq7t/page-0008_02_1775932701039-681880.webp",
-        "https://storage.azorafly.com/public/upload/series/the-duchess-lives-only-for-this-day/tAyPBgeq7t/page-0009_02_1775932702093-375034.webp",
-        "https://storage.azorafly.com/public/upload/series/the-duchess-lives-only-for-this-day/tAyPBgeq7t/page-0010_02_1775932703220-441524.webp",
-        "https://storage.azorafly.com/public/upload/series/the-duchess-lives-only-for-this-day/tAyPBgeq7t/page-0011_02_1775932704344-823515.webp",
-        "https://storage.azorafly.com/public/upload/series/the-duchess-lives-only-for-this-day/tAyPBgeq7t/page-0012_02_1775932705539-456303.webp",
-        "https://storage.azorafly.com/public/upload/series/the-duchess-lives-only-for-this-day/tAyPBgeq7t/page-0013_03_1775932706313-566666.webp",
-        "https://storage.azorafly.com/public/upload/series/the-duchess-lives-only-for-this-day/tAyPBgeq7t/page-0014_03_1775932707422-226463.webp",
-        "https://storage.azorafly.com/public/upload/series/the-duchess-lives-only-for-this-day/tAyPBgeq7t/page-0015_03_1775932708510-946857.webp",
-        "https://storage.azorafly.com/public/upload/series/the-duchess-lives-only-for-this-day/tAyPBgeq7t/page-0016_03_1775932709750-843581.webp",
-        "https://storage.azorafly.com/public/upload/series/the-duchess-lives-only-for-this-day/tAyPBgeq7t/page-0017_03_1775932711068-676219.webp",
-        "https://storage.azorafly.com/public/upload/series/the-duchess-lives-only-for-this-day/tAyPBgeq7t/page-0018_03_1775932712414-386735.webp",
-        "https://storage.azorafly.com/public/upload/series/the-duchess-lives-only-for-this-day/tAyPBgeq7t/page-0019_04_1775932713239-724763.webp",
-        "https://storage.azorafly.com/public/upload/series/the-duchess-lives-only-for-this-day/tAyPBgeq7t/page-0020_04_1775932714287-484693.webp",
-        "https://storage.azorafly.com/public/upload/series/the-duchess-lives-only-for-this-day/tAyPBgeq7t/page-0021_04_1775932715334-594859.webp",
-        "https://storage.azorafly.com/public/upload/series/the-duchess-lives-only-for-this-day/tAyPBgeq7t/page-0022_04_1775932716374-663774.webp",
-        "https://storage.azorafly.com/public/upload/series/the-duchess-lives-only-for-this-day/tAyPBgeq7t/page-0023_04_1775932717561-14074.webp",
-        "https://storage.azorafly.com/public/upload/series/the-duchess-lives-only-for-this-day/tAyPBgeq7t/page-0024_04_1775932718902-643989.webp",
-        "https://storage.azorafly.com/public/upload/series/the-duchess-lives-only-for-this-day/tAyPBgeq7t/page-0025_05_1775932719813-210857.webp",
-        "https://storage.azorafly.com/public/upload/series/the-duchess-lives-only-for-this-day/tAyPBgeq7t/page-0026_05_1775932720827-772007.webp",
-        "https://storage.azorafly.com/public/upload/series/the-duchess-lives-only-for-this-day/tAyPBgeq7t/page-0027_05_1775932721883-634761.webp",
-        "https://storage.azorafly.com/public/upload/series/the-duchess-lives-only-for-this-day/tAyPBgeq7t/page-0028_05_1775932722872-848822.webp",
-        "https://storage.azorafly.com/public/upload/series/the-duchess-lives-only-for-this-day/tAyPBgeq7t/page-0029_100_1775932722906-436961.webp"
-      ]
-    },
-    "https://azorafly.com/series/the-duchess-lives-only-for-this-day/chapter-14": {
-      "name": "14",
-      "images": [
-        "https://storage.azorafly.com/public/upload/series/the-duchess-lives-only-for-this-day/YrZOshejZn/page-0001_1_1775932555338-686682.webp",
-        "https://storage.azorafly.com/public/upload/series/the-duchess-lives-only-for-this-day/YrZOshejZn/page-0002_1_1775932556483-89275.webp",
-        "https://storage.azorafly.com/public/upload/series/the-duchess-lives-only-for-this-day/YrZOshejZn/page-0003_1_1775932557672-158475.webp",
-        "https://storage.azorafly.com/public/upload/series/the-duchess-lives-only-for-this-day/YrZOshejZn/page-0004_2_1775932558538-716494.webp",
-        "https://storage.azorafly.com/public/upload/series/the-duchess-lives-only-for-this-day/YrZOshejZn/page-0005_2_1775932559662-924332.webp",
-        "https://storage.azorafly.com/public/upload/series/the-duchess-lives-only-for-this-day/YrZOshejZn/page-0006_2_1775932560781-955640.webp",
-        "https://storage.azorafly.com/public/upload/series/the-duchess-lives-only-for-this-day/YrZOshejZn/page-0007_3_1775932561692-597068.webp",
-        "https://storage.azorafly.com/public/upload/series/the-duchess-lives-only-for-this-day/YrZOshejZn/page-0008_3_1775932562735-273179.webp",
-        "https://storage.azorafly.com/public/upload/series/the-duchess-lives-only-for-this-day/YrZOshejZn/page-0009_3_1775932563757-657273.webp",
-        "https://storage.azorafly.com/public/upload/series/the-duchess-lives-only-for-this-day/YrZOshejZn/page-0010_4_1775932564697-403054.webp",
-        "https://storage.azorafly.com/public/upload/series/the-duchess-lives-only-for-this-day/YrZOshejZn/page-0011_4_1775932565841-350038.webp",
-        "https://storage.azorafly.com/public/upload/series/the-duchess-lives-only-for-this-day/YrZOshejZn/page-0012_4_1775932566965-530029.webp",
-        "https://storage.azorafly.com/public/upload/series/the-duchess-lives-only-for-this-day/YrZOshejZn/page-0013_5_1775932568108-303375.webp",
-        "https://storage.azorafly.com/public/upload/series/the-duchess-lives-only-for-this-day/YrZOshejZn/page-0014_5_1775932569208-344983.webp",
-        "https://storage.azorafly.com/public/upload/series/the-duchess-lives-only-for-this-day/YrZOshejZn/page-0015_5_1775932570399-931219.webp",
-        "https://storage.azorafly.com/public/upload/series/the-duchess-lives-only-for-this-day/YrZOshejZn/page-0016_6_1775932571265-112336.webp",
-        "https://storage.azorafly.com/public/upload/series/the-duchess-lives-only-for-this-day/YrZOshejZn/page-0017_6_1775932572345-106028.webp",
-        "https://storage.azorafly.com/public/upload/series/the-duchess-lives-only-for-this-day/YrZOshejZn/page-0018_6_1775932573550-833090.webp",
-        "https://storage.azorafly.com/public/upload/series/the-duchess-lives-only-for-this-day/YrZOshejZn/page-0019_7_1775932574522-722079.webp",
-        "https://storage.azorafly.com/public/upload/series/the-duchess-lives-only-for-this-day/YrZOshejZn/page-0020_7_1775932575731-713837.webp",
-        "https://storage.azorafly.com/public/upload/series/the-duchess-lives-only-for-this-day/YrZOshejZn/page-0021_7_1775932576912-596304.webp",
-        "https://storage.azorafly.com/public/upload/series/the-duchess-lives-only-for-this-day/YrZOshejZn/page-0022_8_1775932577924-101003.webp",
-        "https://storage.azorafly.com/public/upload/series/the-duchess-lives-only-for-this-day/YrZOshejZn/page-0023_8_1775932578966-356648.webp",
-        "https://storage.azorafly.com/public/upload/series/the-duchess-lives-only-for-this-day/YrZOshejZn/page-0024_8_1775932579954-7471.webp",
-        "https://storage.azorafly.com/public/upload/series/the-duchess-lives-only-for-this-day/YrZOshejZn/page-0025_9_1775932580906-350993.webp",
-        "https://storage.azorafly.com/public/upload/series/the-duchess-lives-only-for-this-day/YrZOshejZn/page-0026_9_1775932581898-140925.webp"
-      ]
-    },
-    "https://azorafly.com/series/the-duchess-lives-only-for-this-day/chapter-13": {
-      "name": "13",
-      "images": [
-        "https://storage.azorafly.com/public//upload/series/the-duchess-lives-only-for-this-day/nXOrfrwtZI/01.webp",
-        "https://storage.azorafly.com/public//upload/series/the-duchess-lives-only-for-this-day/nXOrfrwtZI/02.webp",
-        "https://storage.azorafly.com/public//upload/series/the-duchess-lives-only-for-this-day/nXOrfrwtZI/03.webp",
-        "https://storage.azorafly.com/public//upload/series/the-duchess-lives-only-for-this-day/nXOrfrwtZI/04.webp",
-        "https://storage.azorafly.com/public//upload/series/the-duchess-lives-only-for-this-day/nXOrfrwtZI/05.webp",
-        "https://storage.azorafly.com/public//upload/series/the-duchess-lives-only-for-this-day/nXOrfrwtZI/06.webp",
-        "https://storage.azorafly.com/public//upload/series/the-duchess-lives-only-for-this-day/nXOrfrwtZI/07.webp",
-        "https://storage.azorafly.com/public//upload/series/the-duchess-lives-only-for-this-day/nXOrfrwtZI/08.webp",
-        "https://storage.azorafly.com/public//upload/series/the-duchess-lives-only-for-this-day/nXOrfrwtZI/09.webp",
-        "https://storage.azorafly.com/public//upload/series/the-duchess-lives-only-for-this-day/nXOrfrwtZI/10.webp",
-        "https://storage.azorafly.com/public//upload/series/the-duchess-lives-only-for-this-day/nXOrfrwtZI/11.webp"
-      ]
-    },
-    "https://azorafly.com/series/the-duchess-lives-only-for-this-day/chapter-12": {
-      "name": "12",
-      "images": [
-        "https://storage.azorafly.com/public//upload/series/the-duchess-lives-only-for-this-day/VSQJHimXGS/01.webp",
-        "https://storage.azorafly.com/public//upload/series/the-duchess-lives-only-for-this-day/VSQJHimXGS/02.webp",
-        "https://storage.azorafly.com/public//upload/series/the-duchess-lives-only-for-this-day/VSQJHimXGS/03.webp",
-        "https://storage.azorafly.com/public//upload/series/the-duchess-lives-only-for-this-day/VSQJHimXGS/04.webp",
-        "https://storage.azorafly.com/public//upload/series/the-duchess-lives-only-for-this-day/VSQJHimXGS/05.webp",
-        "https://storage.azorafly.com/public//upload/series/the-duchess-lives-only-for-this-day/VSQJHimXGS/06.webp",
-        "https://storage.azorafly.com/public//upload/series/the-duchess-lives-only-for-this-day/VSQJHimXGS/07.webp",
-        "https://storage.azorafly.com/public//upload/series/the-duchess-lives-only-for-this-day/VSQJHimXGS/08.webp",
-        "https://storage.azorafly.com/public//upload/series/the-duchess-lives-only-for-this-day/VSQJHimXGS/09.webp",
-        "https://storage.azorafly.com/public//upload/series/the-duchess-lives-only-for-this-day/VSQJHimXGS/10.webp"
-      ]
-    },
-    "https://azorafly.com/series/the-duchess-lives-only-for-this-day/chapter-11": {
-      "name": "11",
-      "images": [
-        "https://storage.azorafly.com/public//upload/series/the-duchess-lives-only-for-this-day/R0GIxB5KCd/01.webp",
-        "https://storage.azorafly.com/public//upload/series/the-duchess-lives-only-for-this-day/R0GIxB5KCd/02.webp",
-        "https://storage.azorafly.com/public//upload/series/the-duchess-lives-only-for-this-day/R0GIxB5KCd/03.webp",
-        "https://storage.azorafly.com/public//upload/series/the-duchess-lives-only-for-this-day/R0GIxB5KCd/04.webp",
-        "https://storage.azorafly.com/public//upload/series/the-duchess-lives-only-for-this-day/R0GIxB5KCd/05.webp",
-        "https://storage.azorafly.com/public//upload/series/the-duchess-lives-only-for-this-day/R0GIxB5KCd/06.webp",
-        "https://storage.azorafly.com/public//upload/series/the-duchess-lives-only-for-this-day/R0GIxB5KCd/07.webp",
-        "https://storage.azorafly.com/public//upload/series/the-duchess-lives-only-for-this-day/R0GIxB5KCd/08.webp",
-        "https://storage.azorafly.com/public//upload/series/the-duchess-lives-only-for-this-day/R0GIxB5KCd/09.webp",
-        "https://storage.azorafly.com/public//upload/series/the-duchess-lives-only-for-this-day/R0GIxB5KCd/10.webp",
-        "https://storage.azorafly.com/public//upload/series/the-duchess-lives-only-for-this-day/R0GIxB5KCd/20.webp"
-      ]
-    },
-    "https://azorafly.com/series/the-duchess-lives-only-for-this-day/chapter-10": {
-      "name": "10",
-      "images": [
-        "https://storage.azorafly.com/public//upload/series/the-duchess-lives-only-for-this-day/q0vZKbSdPw/01.webp",
-        "https://storage.azorafly.com/public//upload/series/the-duchess-lives-only-for-this-day/q0vZKbSdPw/02.webp",
-        "https://storage.azorafly.com/public//upload/series/the-duchess-lives-only-for-this-day/q0vZKbSdPw/03.webp",
-        "https://storage.azorafly.com/public//upload/series/the-duchess-lives-only-for-this-day/q0vZKbSdPw/04.webp",
-        "https://storage.azorafly.com/public//upload/series/the-duchess-lives-only-for-this-day/q0vZKbSdPw/05.webp",
-        "https://storage.azorafly.com/public//upload/series/the-duchess-lives-only-for-this-day/q0vZKbSdPw/06.webp",
-        "https://storage.azorafly.com/public//upload/series/the-duchess-lives-only-for-this-day/q0vZKbSdPw/07.webp",
-        "https://storage.azorafly.com/public//upload/series/the-duchess-lives-only-for-this-day/q0vZKbSdPw/08.webp",
-        "https://storage.azorafly.com/public//upload/series/the-duchess-lives-only-for-this-day/q0vZKbSdPw/09.webp",
-        "https://storage.azorafly.com/public//upload/series/the-duchess-lives-only-for-this-day/q0vZKbSdPw/10.webp",
-        "https://storage.azorafly.com/public//upload/series/the-duchess-lives-only-for-this-day/q0vZKbSdPw/11.webp",
-        "https://storage.azorafly.com/public//upload/series/the-duchess-lives-only-for-this-day/q0vZKbSdPw/12.webp",
-        "https://storage.azorafly.com/public//upload/series/the-duchess-lives-only-for-this-day/q0vZKbSdPw/13.webp",
-        "https://storage.azorafly.com/public//upload/series/the-duchess-lives-only-for-this-day/q0vZKbSdPw/14.webp",
-        "https://storage.azorafly.com/public//upload/series/the-duchess-lives-only-for-this-day/q0vZKbSdPw/15.webp",
-        "https://storage.azorafly.com/public//upload/series/the-duchess-lives-only-for-this-day/q0vZKbSdPw/16.webp",
-        "https://storage.azorafly.com/public//upload/series/the-duchess-lives-only-for-this-day/q0vZKbSdPw/17.webp",
-        "https://storage.azorafly.com/public//upload/series/the-duchess-lives-only-for-this-day/q0vZKbSdPw/18.webp",
-        "https://storage.azorafly.com/public//upload/series/the-duchess-lives-only-for-this-day/q0vZKbSdPw/19.webp",
-        "https://storage.azorafly.com/public//upload/series/the-duchess-lives-only-for-this-day/q0vZKbSdPw/20.webp",
-        "https://storage.azorafly.com/public//upload/series/the-duchess-lives-only-for-this-day/q0vZKbSdPw/21.webp",
-        "https://storage.azorafly.com/public//upload/series/the-duchess-lives-only-for-this-day/q0vZKbSdPw/22.webp",
-        "https://storage.azorafly.com/public//upload/series/the-duchess-lives-only-for-this-day/q0vZKbSdPw/23.webp",
-        "https://storage.azorafly.com/public//upload/series/the-duchess-lives-only-for-this-day/q0vZKbSdPw/24.webp",
-        "https://storage.azorafly.com/public//upload/series/the-duchess-lives-only-for-this-day/q0vZKbSdPw/25.webp",
-        "https://storage.azorafly.com/public//upload/series/the-duchess-lives-only-for-this-day/q0vZKbSdPw/26.webp",
-        "https://storage.azorafly.com/public//upload/series/the-duchess-lives-only-for-this-day/q0vZKbSdPw/27.webp",
-        "https://storage.azorafly.com/public//upload/series/the-duchess-lives-only-for-this-day/q0vZKbSdPw/28.webp",
-        "https://storage.azorafly.com/public//upload/series/the-duchess-lives-only-for-this-day/q0vZKbSdPw/29.webp",
-        "https://storage.azorafly.com/public//upload/series/the-duchess-lives-only-for-this-day/q0vZKbSdPw/30.webp",
-        "https://storage.azorafly.com/public//upload/series/the-duchess-lives-only-for-this-day/q0vZKbSdPw/31.webp",
-        "https://storage.azorafly.com/public//upload/series/the-duchess-lives-only-for-this-day/q0vZKbSdPw/32.webp",
-        "https://storage.azorafly.com/public//upload/series/the-duchess-lives-only-for-this-day/q0vZKbSdPw/33.webp",
-        "https://storage.azorafly.com/public//upload/series/the-duchess-lives-only-for-this-day/q0vZKbSdPw/34.webp",
-        "https://storage.azorafly.com/public//upload/series/the-duchess-lives-only-for-this-day/q0vZKbSdPw/35.webp",
-        "https://storage.azorafly.com/public//upload/series/the-duchess-lives-only-for-this-day/q0vZKbSdPw/36.webp",
-        "https://storage.azorafly.com/public//upload/series/the-duchess-lives-only-for-this-day/q0vZKbSdPw/37.webp",
-        "https://storage.azorafly.com/public//upload/series/the-duchess-lives-only-for-this-day/q0vZKbSdPw/38.webp",
-        "https://storage.azorafly.com/public//upload/series/the-duchess-lives-only-for-this-day/q0vZKbSdPw/39.webp",
-        "https://storage.azorafly.com/public//upload/series/the-duchess-lives-only-for-this-day/q0vZKbSdPw/40.webp",
-        "https://storage.azorafly.com/public//upload/series/the-duchess-lives-only-for-this-day/q0vZKbSdPw/41.webp",
-        "https://storage.azorafly.com/public//upload/series/the-duchess-lives-only-for-this-day/q0vZKbSdPw/42.webp",
-        "https://storage.azorafly.com/public//upload/series/the-duchess-lives-only-for-this-day/q0vZKbSdPw/43.webp",
-        "https://storage.azorafly.com/public//upload/series/the-duchess-lives-only-for-this-day/q0vZKbSdPw/44.webp",
-        "https://storage.azorafly.com/public//upload/series/the-duchess-lives-only-for-this-day/q0vZKbSdPw/45.webp",
-        "https://storage.azorafly.com/public//upload/series/the-duchess-lives-only-for-this-day/q0vZKbSdPw/46.webp",
-        "https://storage.azorafly.com/public//upload/series/the-duchess-lives-only-for-this-day/q0vZKbSdPw/47.webp",
-        "https://storage.azorafly.com/public//upload/series/the-duchess-lives-only-for-this-day/q0vZKbSdPw/48.webp",
-        "https://storage.azorafly.com/public//upload/series/the-duchess-lives-only-for-this-day/q0vZKbSdPw/49.webp",
-        "https://storage.azorafly.com/public//upload/series/the-duchess-lives-only-for-this-day/q0vZKbSdPw/50.webp",
-        "https://storage.azorafly.com/public//upload/series/the-duchess-lives-only-for-this-day/q0vZKbSdPw/51.webp",
-        "https://storage.azorafly.com/public//upload/series/the-duchess-lives-only-for-this-day/q0vZKbSdPw/52.webp",
-        "https://storage.azorafly.com/public//upload/series/the-duchess-lives-only-for-this-day/q0vZKbSdPw/53.webp",
-        "https://storage.azorafly.com/public//upload/series/the-duchess-lives-only-for-this-day/q0vZKbSdPw/54.webp",
-        "https://storage.azorafly.com/public//upload/series/the-duchess-lives-only-for-this-day/q0vZKbSdPw/55.webp",
-        "https://storage.azorafly.com/public//upload/series/the-duchess-lives-only-for-this-day/q0vZKbSdPw/56.webp"
-      ]
-    },
-    "https://azorafly.com/series/the-duchess-lives-only-for-this-day/chapter-9": {
-      "name": "9",
-      "images": [
-        "https://storage.azorafly.com/public//upload/series/the-duchess-lives-only-for-this-day/aDtoKA0uVS/01.webp",
-        "https://storage.azorafly.com/public//upload/series/the-duchess-lives-only-for-this-day/aDtoKA0uVS/02.webp",
-        "https://storage.azorafly.com/public//upload/series/the-duchess-lives-only-for-this-day/aDtoKA0uVS/03.webp",
-        "https://storage.azorafly.com/public//upload/series/the-duchess-lives-only-for-this-day/aDtoKA0uVS/04.webp",
-        "https://storage.azorafly.com/public//upload/series/the-duchess-lives-only-for-this-day/aDtoKA0uVS/05.webp",
-        "https://storage.azorafly.com/public//upload/series/the-duchess-lives-only-for-this-day/aDtoKA0uVS/06.webp",
-        "https://storage.azorafly.com/public//upload/series/the-duchess-lives-only-for-this-day/aDtoKA0uVS/07.webp",
-        "https://storage.azorafly.com/public//upload/series/the-duchess-lives-only-for-this-day/aDtoKA0uVS/08.webp",
-        "https://storage.azorafly.com/public//upload/series/the-duchess-lives-only-for-this-day/aDtoKA0uVS/09.webp",
-        "https://storage.azorafly.com/public//upload/series/the-duchess-lives-only-for-this-day/aDtoKA0uVS/20.webp"
-      ]
-    },
-    "https://azorafly.com/series/the-duchess-lives-only-for-this-day/chapter-8": {
-      "name": "8",
-      "images": [
-        "https://storage.azorafly.com/public//upload/series/the-duchess-lives-only-for-this-day/6jYe3sjqWU/01.webp",
-        "https://storage.azorafly.com/public//upload/series/the-duchess-lives-only-for-this-day/6jYe3sjqWU/02.webp",
-        "https://storage.azorafly.com/public//upload/series/the-duchess-lives-only-for-this-day/6jYe3sjqWU/03.webp",
-        "https://storage.azorafly.com/public//upload/series/the-duchess-lives-only-for-this-day/6jYe3sjqWU/04.webp",
-        "https://storage.azorafly.com/public//upload/series/the-duchess-lives-only-for-this-day/6jYe3sjqWU/05.webp",
-        "https://storage.azorafly.com/public//upload/series/the-duchess-lives-only-for-this-day/6jYe3sjqWU/06.webp",
-        "https://storage.azorafly.com/public//upload/series/the-duchess-lives-only-for-this-day/6jYe3sjqWU/07.webp",
-        "https://storage.azorafly.com/public//upload/series/the-duchess-lives-only-for-this-day/6jYe3sjqWU/08.webp"
-      ]
-    },
-    "https://azorafly.com/series/the-duchess-lives-only-for-this-day/chapter-7": {
-      "name": "7",
-      "images": [
-        "https://storage.azorafly.com/public//upload/series/the-duchess-lives-only-for-this-day/xpPAOM9Uhy/01.webp",
-        "https://storage.azorafly.com/public//upload/series/the-duchess-lives-only-for-this-day/xpPAOM9Uhy/02.webp",
-        "https://storage.azorafly.com/public//upload/series/the-duchess-lives-only-for-this-day/xpPAOM9Uhy/03.webp",
-        "https://storage.azorafly.com/public//upload/series/the-duchess-lives-only-for-this-day/xpPAOM9Uhy/04.webp",
-        "https://storage.azorafly.com/public//upload/series/the-duchess-lives-only-for-this-day/xpPAOM9Uhy/05.webp",
-        "https://storage.azorafly.com/public//upload/series/the-duchess-lives-only-for-this-day/xpPAOM9Uhy/06.webp",
-        "https://storage.azorafly.com/public//upload/series/the-duchess-lives-only-for-this-day/xpPAOM9Uhy/07.webp",
-        "https://storage.azorafly.com/public//upload/series/the-duchess-lives-only-for-this-day/xpPAOM9Uhy/08.webp",
-        "https://storage.azorafly.com/public//upload/series/the-duchess-lives-only-for-this-day/xpPAOM9Uhy/09.webp",
-        "https://storage.azorafly.com/public//upload/series/the-duchess-lives-only-for-this-day/xpPAOM9Uhy/20.webp"
-      ]
-    },
-    "https://azorafly.com/series/the-duchess-lives-only-for-this-day/chapter-6": {
-      "name": "6",
-      "images": [
-        "https://storage.azorafly.com/public//upload/series/the-duchess-lives-only-for-this-day/6hoJRc72wy/01.webp",
-        "https://storage.azorafly.com/public//upload/series/the-duchess-lives-only-for-this-day/6hoJRc72wy/02.webp",
-        "https://storage.azorafly.com/public//upload/series/the-duchess-lives-only-for-this-day/6hoJRc72wy/03.webp",
-        "https://storage.azorafly.com/public//upload/series/the-duchess-lives-only-for-this-day/6hoJRc72wy/04.webp",
-        "https://storage.azorafly.com/public//upload/series/the-duchess-lives-only-for-this-day/6hoJRc72wy/05.webp",
-        "https://storage.azorafly.com/public//upload/series/the-duchess-lives-only-for-this-day/6hoJRc72wy/06.webp",
-        "https://storage.azorafly.com/public//upload/series/the-duchess-lives-only-for-this-day/6hoJRc72wy/07.webp",
-        "https://storage.azorafly.com/public//upload/series/the-duchess-lives-only-for-this-day/6hoJRc72wy/08.webp",
-        "https://storage.azorafly.com/public//upload/series/the-duchess-lives-only-for-this-day/6hoJRc72wy/09.webp",
-        "https://storage.azorafly.com/public//upload/series/the-duchess-lives-only-for-this-day/6hoJRc72wy/10.webp"
-      ]
-    },
-    "https://azorafly.com/series/the-duchess-lives-only-for-this-day/chapter-5": {
-      "name": "5",
-      "images": [
-        "https://storage.azorafly.com/public//upload/series/the-duchess-lives-only-for-this-day/O22aCeOqdo/01.webp",
-        "https://storage.azorafly.com/public//upload/series/the-duchess-lives-only-for-this-day/O22aCeOqdo/02.webp",
-        "https://storage.azorafly.com/public//upload/series/the-duchess-lives-only-for-this-day/O22aCeOqdo/03.webp",
-        "https://storage.azorafly.com/public//upload/series/the-duchess-lives-only-for-this-day/O22aCeOqdo/04.webp",
-        "https://storage.azorafly.com/public//upload/series/the-duchess-lives-only-for-this-day/O22aCeOqdo/05.webp",
-        "https://storage.azorafly.com/public//upload/series/the-duchess-lives-only-for-this-day/O22aCeOqdo/06.webp",
-        "https://storage.azorafly.com/public//upload/series/the-duchess-lives-only-for-this-day/O22aCeOqdo/07.webp",
-        "https://storage.azorafly.com/public//upload/series/the-duchess-lives-only-for-this-day/O22aCeOqdo/08.webp",
-        "https://storage.azorafly.com/public//upload/series/the-duchess-lives-only-for-this-day/O22aCeOqdo/09.webp",
-        "https://storage.azorafly.com/public//upload/series/the-duchess-lives-only-for-this-day/O22aCeOqdo/20.webp"
-      ]
-    },
-    "https://azorafly.com/series/the-duchess-lives-only-for-this-day/chapter-4": {
-      "name": "4",
-      "images": [
-        "https://storage.azorafly.com/public//upload/series/the-duchess-lives-only-for-this-day/ZI14eYh0Zj/01.webp",
-        "https://storage.azorafly.com/public//upload/series/the-duchess-lives-only-for-this-day/ZI14eYh0Zj/02.webp",
-        "https://storage.azorafly.com/public//upload/series/the-duchess-lives-only-for-this-day/ZI14eYh0Zj/03.webp",
-        "https://storage.azorafly.com/public//upload/series/the-duchess-lives-only-for-this-day/ZI14eYh0Zj/04.webp",
-        "https://storage.azorafly.com/public//upload/series/the-duchess-lives-only-for-this-day/ZI14eYh0Zj/05.webp",
-        "https://storage.azorafly.com/public//upload/series/the-duchess-lives-only-for-this-day/ZI14eYh0Zj/06.webp",
-        "https://storage.azorafly.com/public//upload/series/the-duchess-lives-only-for-this-day/ZI14eYh0Zj/07.webp",
-        "https://storage.azorafly.com/public//upload/series/the-duchess-lives-only-for-this-day/ZI14eYh0Zj/08.webp",
-        "https://storage.azorafly.com/public//upload/series/the-duchess-lives-only-for-this-day/ZI14eYh0Zj/09.webp",
-        "https://storage.azorafly.com/public//upload/series/the-duchess-lives-only-for-this-day/ZI14eYh0Zj/10.webp",
-        "https://storage.azorafly.com/public//upload/series/the-duchess-lives-only-for-this-day/ZI14eYh0Zj/20.webp"
-      ]
-    },
-    "https://azorafly.com/series/the-duchess-lives-only-for-this-day/chapter-3": {
-      "name": "3",
-      "images": [
-        "https://storage.azorafly.com/public//upload/series/the-duchess-lives-only-for-this-day/2AnmzUJXe1/01.webp",
-        "https://storage.azorafly.com/public//upload/series/the-duchess-lives-only-for-this-day/2AnmzUJXe1/02.webp",
-        "https://storage.azorafly.com/public//upload/series/the-duchess-lives-only-for-this-day/2AnmzUJXe1/03.webp",
-        "https://storage.azorafly.com/public//upload/series/the-duchess-lives-only-for-this-day/2AnmzUJXe1/04.webp",
-        "https://storage.azorafly.com/public//upload/series/the-duchess-lives-only-for-this-day/2AnmzUJXe1/05.webp",
-        "https://storage.azorafly.com/public//upload/series/the-duchess-lives-only-for-this-day/2AnmzUJXe1/06.webp",
-        "https://storage.azorafly.com/public//upload/series/the-duchess-lives-only-for-this-day/2AnmzUJXe1/07.webp",
-        "https://storage.azorafly.com/public//upload/series/the-duchess-lives-only-for-this-day/2AnmzUJXe1/08.webp",
-        "https://storage.azorafly.com/public//upload/series/the-duchess-lives-only-for-this-day/2AnmzUJXe1/09.webp",
-        "https://storage.azorafly.com/public//upload/series/the-duchess-lives-only-for-this-day/2AnmzUJXe1/10.webp",
-        "https://storage.azorafly.com/public//upload/series/the-duchess-lives-only-for-this-day/2AnmzUJXe1/20.webp"
-      ]
-    },
-    "https://azorafly.com/series/the-duchess-lives-only-for-this-day/chapter-2": {
-      "name": "2",
-      "images": [
-        "https://storage.azorafly.com/public//upload/series/the-duchess-lives-only-for-this-day/6eXTyr2MpS/01.webp",
-        "https://storage.azorafly.com/public//upload/series/the-duchess-lives-only-for-this-day/6eXTyr2MpS/02.webp",
-        "https://storage.azorafly.com/public//upload/series/the-duchess-lives-only-for-this-day/6eXTyr2MpS/03.webp",
-        "https://storage.azorafly.com/public//upload/series/the-duchess-lives-only-for-this-day/6eXTyr2MpS/04.webp",
-        "https://storage.azorafly.com/public//upload/series/the-duchess-lives-only-for-this-day/6eXTyr2MpS/05.webp",
-        "https://storage.azorafly.com/public//upload/series/the-duchess-lives-only-for-this-day/6eXTyr2MpS/06.webp",
-        "https://storage.azorafly.com/public//upload/series/the-duchess-lives-only-for-this-day/6eXTyr2MpS/07.webp",
-        "https://storage.azorafly.com/public//upload/series/the-duchess-lives-only-for-this-day/6eXTyr2MpS/08.webp",
-        "https://storage.azorafly.com/public//upload/series/the-duchess-lives-only-for-this-day/6eXTyr2MpS/09.webp",
-        "https://storage.azorafly.com/public//upload/series/the-duchess-lives-only-for-this-day/6eXTyr2MpS/10.webp",
-        "https://storage.azorafly.com/public//upload/series/the-duchess-lives-only-for-this-day/6eXTyr2MpS/11.webp",
-        "https://storage.azorafly.com/public//upload/series/the-duchess-lives-only-for-this-day/6eXTyr2MpS/12.webp",
-        "https://storage.azorafly.com/public//upload/series/the-duchess-lives-only-for-this-day/6eXTyr2MpS/20.webp"
-      ]
-    }
-  },
   "title": "The Duchess Lives Only for This Day",
   "cover_url": "https://storage.azorafly.com/upload/series/featured/a5vVlSc5huft2AzUyK1VxgKh1ckCWLbZ/8863d240-394b-4232-89e6-cdd7382ee56e.png",
   "description": "وُلِدَت \"فريدا هاركبوورن\" من صُلبِ عائلةٍ مكلومة، حيثُ تُختَطفُ البناتُ من أحضانِ الحياةِ قبلَ بلوغِ ربيعِ الرُّشد. وفي غمارِ وهَنِها، تُساقُ كقربانٍ لزواجٍ سياسيٍّ من الدوق \"دانيال ريتشاردز\"؛ بطلِ الحربِ الذي تَرعدُ الفرائصُ لذِكرِه. ​تُرِكَت وحيدةً أمامَ المذبح، لتواجهَ قدرًا...",
   "type": "مانهوا",
   "status": "مستمر",
-  "last_update": "منذ 5 ساعات تقريبا",
-  "favorites": "",
+  "last_update": "Viewاقرأ الفصل 1إضافة للمفضلةالإبلاغ عن مشكلة9.5التقييمات1.4KالمفضلةالحالةONGOINGالنوعمانهواالفصول37آخر تحديثمنذ ساعة واحدة تقريباًThe Duchess Lives Only for This Day الفصول ( 37 )  الملخص التقييمات ( 12 ) اجعل الكل مقروءاًوضع علامة 'مقروء' على جميع الفصولالفصل 37جديد5000الفصل 36جديد5001الفصل 3518 يوم5021الفصل 3425 يوم5003الفصل 33جديد13الفصل 3211 يوم017الفصل 3122 يوم118الفصل 3029 يوم020الفصل 29شهر واحد تقريباً123الفصل 28شهر واحد تقريباً423الفصل 27شهرين تقريبا429الفصل 26شهرين تقريبا336الفصل 25شهرين تقريبا534الفصل 24شهرين تقريبا529الفصل 23شهرين تقريبا130الفصل 223 أشهر233الفصل 213 أشهر438الفصل 203 أشهر446الفصل 194 أشهر1148الفصل 185 أشهر1259عرض المزيد الملخص وُلِدَت \"فريدا هاركبوورن\" من صُلبِ عائلةٍ مكلومة، حيثُ تُختَطفُ البناتُ من أحضانِ الحياةِ قبلَ بلوغِ ربيعِ الرُّشد. وفي غمارِ وهَنِها، تُساقُ كقربانٍ لزواجٍ سياسيٍّ من الدوق \"دانيال ريتشاردز\"؛ بطلِ الحربِ الذي تَرعدُ الفرائصُ لذِكرِه. ​تُرِكَت وحيدةً أمامَ المذبح، لتواجهَ قدرًا...عرض المزيددرامافانتازيارومانسيالفرقCOOKIESتابعونا للاطلاع على آخر الفصول، الأخبار، والتسريبات الحصريةشارك Azora Mangaمع أصدقائكشاركانضم لمجتمعناDiscord0اعجبني0أحببته0اضحكني0واو0احزنني0اغضبنيالنقاش0أعمال مشابهةThe Count's Secret Maid★9.4108 فصلIsn’t Being A Wicked Woman Much Better?★9.8108 فصلMy Body Has Been Possessed By Someone★9.1100 فصلA Saint who was Adopted by the Grand Duke★10.0101 فصلI Watched a Play★9.752 فصل",
   "rating": "",
   "genres": [],
-  "is_novel": false
+  "is_novel": false,
+  "chapters": {
+    "https://azorafly.com/series/the-duchess-lives-only-for-this-day/chapter-1": {
+      "name": "1"
+    },
+    "https://azorafly.com/series/the-duchess-lives-only-for-this-day/chapter-37": {
+      "name": "37"
+    },
+    "https://azorafly.com/series/the-duchess-lives-only-for-this-day/chapter-36": {
+      "name": "36"
+    },
+    "https://azorafly.com/series/the-duchess-lives-only-for-this-day/chapter-35": {
+      "name": "35"
+    },
+    "https://azorafly.com/series/the-duchess-lives-only-for-this-day/chapter-34": {
+      "name": "34"
+    },
+    "https://azorafly.com/series/the-duchess-lives-only-for-this-day/chapter-33": {
+      "name": "33"
+    },
+    "https://azorafly.com/series/the-duchess-lives-only-for-this-day/chapter-32": {
+      "name": "32"
+    },
+    "https://azorafly.com/series/the-duchess-lives-only-for-this-day/chapter-31": {
+      "name": "31"
+    },
+    "https://azorafly.com/series/the-duchess-lives-only-for-this-day/chapter-30": {
+      "name": "30"
+    },
+    "https://azorafly.com/series/the-duchess-lives-only-for-this-day/chapter-29": {
+      "name": "29"
+    },
+    "https://azorafly.com/series/the-duchess-lives-only-for-this-day/chapter-28": {
+      "name": "28"
+    },
+    "https://azorafly.com/series/the-duchess-lives-only-for-this-day/chapter-27": {
+      "name": "27"
+    },
+    "https://azorafly.com/series/the-duchess-lives-only-for-this-day/chapter-26": {
+      "name": "26"
+    },
+    "https://azorafly.com/series/the-duchess-lives-only-for-this-day/chapter-25": {
+      "name": "25"
+    },
+    "https://azorafly.com/series/the-duchess-lives-only-for-this-day/chapter-24": {
+      "name": "24"
+    },
+    "https://azorafly.com/series/the-duchess-lives-only-for-this-day/chapter-23": {
+      "name": "23"
+    },
+    "https://azorafly.com/series/the-duchess-lives-only-for-this-day/chapter-22": {
+      "name": "22"
+    },
+    "https://azorafly.com/series/the-duchess-lives-only-for-this-day/chapter-21": {
+      "name": "21"
+    },
+    "https://azorafly.com/series/the-duchess-lives-only-for-this-day/chapter-20": {
+      "name": "20"
+    },
+    "https://azorafly.com/series/the-duchess-lives-only-for-this-day/chapter-19": {
+      "name": "19"
+    },
+    "https://azorafly.com/series/the-duchess-lives-only-for-this-day/chapter-18": {
+      "name": "18"
+    },
+    "https://azorafly.com/series/the-duchess-lives-only-for-this-day/chapter-17": {
+      "name": "17"
+    },
+    "https://azorafly.com/series/the-duchess-lives-only-for-this-day/chapter-16": {
+      "name": "16"
+    },
+    "https://azorafly.com/series/the-duchess-lives-only-for-this-day/chapter-15": {
+      "name": "15"
+    },
+    "https://azorafly.com/series/the-duchess-lives-only-for-this-day/chapter-14": {
+      "name": "14"
+    },
+    "https://azorafly.com/series/the-duchess-lives-only-for-this-day/chapter-13": {
+      "name": "13"
+    },
+    "https://azorafly.com/series/the-duchess-lives-only-for-this-day/chapter-12": {
+      "name": "12"
+    },
+    "https://azorafly.com/series/the-duchess-lives-only-for-this-day/chapter-11": {
+      "name": "11"
+    },
+    "https://azorafly.com/series/the-duchess-lives-only-for-this-day/chapter-10": {
+      "name": "10"
+    },
+    "https://azorafly.com/series/the-duchess-lives-only-for-this-day/chapter-9": {
+      "name": "9"
+    },
+    "https://azorafly.com/series/the-duchess-lives-only-for-this-day/chapter-8": {
+      "name": "8"
+    },
+    "https://azorafly.com/series/the-duchess-lives-only-for-this-day/chapter-7": {
+      "name": "7"
+    },
+    "https://azorafly.com/series/the-duchess-lives-only-for-this-day/chapter-6": {
+      "name": "6"
+    },
+    "https://azorafly.com/series/the-duchess-lives-only-for-this-day/chapter-5": {
+      "name": "5"
+    },
+    "https://azorafly.com/series/the-duchess-lives-only-for-this-day/chapter-4": {
+      "name": "4"
+    },
+    "https://azorafly.com/series/the-duchess-lives-only-for-this-day/chapter-3": {
+      "name": "3"
+    },
+    "https://azorafly.com/series/the-duchess-lives-only-for-this-day/chapter-2": {
+      "name": "2"
+    }
+  }
 }

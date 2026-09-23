@@ -1741,15 +1741,6 @@
     "rating": "8.0"
   },
   {
-    "id": "dont-stop-the-loop",
-    "title": "لا توقف الحلقة الزمنية!",
-    "url": "https://kolnovel.com/series/dont-stop-the-loop",
-    "cover_url": "https://kolnovel.com/wp-content/uploads/2021/10/1634672143227.jpg",
-    "type": "رواية",
-    "is_novel": true,
-    "rating": "7.5"
-  },
-  {
     "id": "%d9%85%d9%86-%d8%b7%d8%a7%d8%a6%d9%81%d8%a9-%d9%81%d9%86%d9%88%d9%86-%d8%a7%d9%84%d9%82%d8%aa%d8%a7%d9%84-%d8%a5%d9%84%d9%89-%d8%b7%d8%a7%d8%a6%d9%81%d8%a9-%d8%b5%d9%82%d9%84-%d8%a7%d9%84%d8%ae%d9%84",
     "title": "من طائفة فنون القتال إلى طائفة صقل الخلود",
     "url": "https://kolnovel.com/series/%d9%85%d9%86-%d8%b7%d8%a7%d8%a6%d9%81%d8%a9-%d9%81%d9%86%d9%88%d9%86-%d8%a7%d9%84%d9%82%d8%aa%d8%a7%d9%84-%d8%a5%d9%84%d9%89-%d8%b7%d8%a7%d8%a6%d9%81%d8%a9-%d8%b5%d9%82%d9%84-%d8%a7%d9%84%d8%ae%d9%84",
@@ -1757,6 +1748,15 @@
     "type": "رواية",
     "is_novel": true,
     "rating": "8.0"
+  },
+  {
+    "id": "dont-stop-the-loop",
+    "title": "لا توقف الحلقة الزمنية!",
+    "url": "https://kolnovel.com/series/dont-stop-the-loop",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2021/10/1634672143227.jpg",
+    "type": "رواية",
+    "is_novel": true,
+    "rating": "7.5"
   },
   {
     "id": "maria-from-hell",
