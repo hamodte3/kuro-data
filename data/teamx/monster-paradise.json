@@ -1,0 +1,55 @@
+{
+  "id": "monster-paradise",
+  "title": "monster paradise",
+  "cover_url": "https://olympustaff.com/images/manga/0c4f13445c3c2bdb09b2485537f1fdea.png",
+  "description": "باعتباره تجسيدًا جديدًا لهذا الكوكب ، وُلد لين هوانغ بلا صفة ، ولم يتبق سوى 3 أشهر للعيش. إنه على استعداد للموت ، لكن أخته هي مصدر قلقه الأكبر ، لأنه لم يقم بتنشيط القوة حتى الآن. بالصدفة في تلك الليلة ، اقتحمت الأنواع البلعومية منزله وهددت بقتل أخته. من أجل حماية أخته ، تمكن أخيرًا من تنشيط قوته! جذبت معركته انتباه لي لانج الميدالية الفضية للصياد.",
+  "type": "مانهوا",
+  "status": "مستمر",
+  "last_update": "",
+  "rating": "3/5",
+  "favorites": "",
+  "genres": [
+    "أكشن",
+    "إثارة",
+    "دموي"
+  ],
+  "is_novel": false,
+  "chapters": {
+    "https://olympustaff.com/series/monster-paradise/10": {
+      "name": "10"
+    },
+    "https://olympustaff.com/series/monster-paradise/9": {
+      "name": "9"
+    },
+    "https://olympustaff.com/series/monster-paradise/8": {
+      "name": "8"
+    },
+    "https://olympustaff.com/series/monster-paradise/7": {
+      "name": "7"
+    },
+    "https://olympustaff.com/series/monster-paradise/6": {
+      "name": "6"
+    },
+    "https://olympustaff.com/series/monster-paradise/5": {
+      "name": "5"
+    },
+    "https://olympustaff.com/series/monster-paradise/4": {
+      "name": "4"
+    },
+    "https://olympustaff.com/series/monster-paradise/3": {
+      "name": "3"
+    },
+    "https://olympustaff.com/series/monster-paradise/2": {
+      "name": "2"
+    },
+    "https://olympustaff.com/series/monster-paradise/1": {
+      "name": "1"
+    },
+    "https://olympustaff.com/series/monster-paradise/0": {
+      "name": "0"
+    },
+    "https://olympustaff.com/series/monster-paradise/11": {
+      "name": "11"
+    }
+  }
+}

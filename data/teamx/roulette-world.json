@@ -1,0 +1,35 @@
+{
+  "id": "roulette-world",
+  "title": "roulette world",
+  "cover_url": "https://olympustaff.com/images/manga/1057726799.webp",
+  "description": "يي تشونغ مينغ ، الذي كان يكافح من أجل البقاء على قيد الحياة في نهاية العالم، ولد من جديد في اللحظة التي توقفت فيها حياته! بالعودة إلى بداية النهاية فترة ما بعد الظهر قبل عشر سنوات ... البارجة الذهبية المألوفة ، ورولیت اليانصيب المألوف، وحصار الزومبي المألوف ... هل كل هذا هدية أم عقوبة؟ ما زلنا لا نعرف، لكن يي تشونغ مينغ مصمم على العيش! العيش بقوة مع عشر سنوات من تجربته في البقاء على قيد الحياة بعد نهاية العالم!",
+  "type": "مانهوا",
+  "status": "مستمر",
+  "last_update": "",
+  "rating": "4/5",
+  "favorites": "",
+  "genres": [
+    "أكشن",
+    "إثارة",
+    "خيال",
+    "دموي",
+    "مغامرات",
+    "زمكاني",
+    "زومبي"
+  ],
+  "is_novel": false,
+  "chapters": {
+    "https://olympustaff.com/series/roulette-world/4": {
+      "name": "4"
+    },
+    "https://olympustaff.com/series/roulette-world/3": {
+      "name": "3"
+    },
+    "https://olympustaff.com/series/roulette-world/2": {
+      "name": "2"
+    },
+    "https://olympustaff.com/series/roulette-world/1": {
+      "name": "1"
+    }
+  }
+}
