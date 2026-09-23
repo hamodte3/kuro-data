@@ -23,8 +23,19 @@ HEADERS = {
 }
 
 def get_session():
-    return requests.Session(impersonate="chrome120", headers=HEADERS)
-
+    # نترك curl_cffi يضبط الترويسات الأصلية المتوافقة تماماً مع بصمة المتصفح
+    session = requests.Session(impersonate="chrome124")
+    session.headers.update({
+        "Accept-Language": "ar,en-US;q=0.9,en;q=0.8",
+        "Referer": "https://olympustaff.com/",
+        "Sec-Fetch-Dest": "document",
+        "Sec-Fetch-Mode": "navigate",
+        "Sec-Fetch-Site": "same-origin",
+        "Sec-Fetch-User": "?1",
+        "Upgrade-Insecure-Requests": "1",
+    })
+    return session
+    
 def normalize_url(raw_url: str) -> str:
     if not raw_url: return ""
     u = raw_url.strip()
