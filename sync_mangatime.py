@@ -11,7 +11,7 @@ API_URL = f"{BASE_URL}/trpc"
 DATA_DIR = os.path.join("data", "mangatime")
 CATALOG_FILE = os.path.join(DATA_DIR, "catalog.json")
 
-MAX_PAGES_SAFETY = 70      # تغطية كافة صفحات الفهرس
+MAX_PAGES_SAFETY = 3      # تغطية كافة صفحات الفهرس
 
 os.makedirs(DATA_DIR, exist_ok=True)
 
