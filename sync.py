@@ -11,7 +11,7 @@ CATALOG_FILE = os.path.join(DATA_DIR, "catalog.json")
 
 # عدد الأعمال التي سنجهز فصولها في ملفات منفصلة
 DETAILS_SYNC_LIMIT = 20
-MAX_PAGES_SAFETY = 3  # تغطية الفهرس العام
+MAX_PAGES_SAFETY = 1000  # تغطية الفهرس العام
 
 os.makedirs(DATA_DIR, exist_ok=True)
 
