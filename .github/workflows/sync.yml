@@ -19,7 +19,6 @@ on:
           - ashiq
           - despair
           - kolnovel
-          - mangatime
 
 jobs:
   update-manga:
@@ -60,11 +59,6 @@ jobs:
         if: ${{ github.event.inputs.target_source == 'all' || github.event.inputs.target_source == 'kolnovel' || github.event_name == 'schedule' }}
         continue-on-error: true
         run: python sync_kolnovel.py
-
-      - name: Sync MangaTime
-        if: ${{ github.event.inputs.target_source == 'all' || github.event.inputs.target_source == 'mangatime' || github.event_name == 'schedule' }}
-        continue-on-error: true
-        run: python sync_mangatime.py
 
       # 🎯 حفظ التعديلات ودفعها بأمان
       - name: Commit and Push Changes
