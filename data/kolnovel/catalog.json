@@ -1624,15 +1624,6 @@
     "rating": "7.0"
   },
   {
-    "id": "%d8%a7%d9%84%d8%b9%d9%88%d8%a7%d9%84%d9%85-%d9%81%d9%8a-%d8%a7%d9%84%d8%b3%d9%85%d8%a7%d8%a1",
-    "title": "العوالم في السماء",
-    "url": "https://kolnovel.com/series/%d8%a7%d9%84%d8%b9%d9%88%d8%a7%d9%84%d9%85-%d9%81%d9%8a-%d8%a7%d9%84%d8%b3%d9%85%d8%a7%d8%a1",
-    "cover_url": "https://kolnovel.com/wp-content/uploads/2026/06/file_000000000e487243b1f720c3018a491e.png",
-    "type": "رواية",
-    "is_novel": true,
-    "rating": "8.1"
-  },
-  {
     "id": "%d8%af%d8%a7%d9%88-%d8%a7%d9%84%d8%ae%d8%a7%d9%84%d8%af-%d8%a7%d9%84%d8%b9%d8%ac%d9%8a%d8%a8",
     "title": "داو الخالد العجيب",
     "url": "https://kolnovel.com/series/%d8%af%d8%a7%d9%88-%d8%a7%d9%84%d8%ae%d8%a7%d9%84%d8%af-%d8%a7%d9%84%d8%b9%d8%ac%d9%8a%d8%a8",
@@ -1640,6 +1631,15 @@
     "type": "رواية",
     "is_novel": true,
     "rating": "8.0"
+  },
+  {
+    "id": "%d8%a7%d9%84%d8%b9%d9%88%d8%a7%d9%84%d9%85-%d9%81%d9%8a-%d8%a7%d9%84%d8%b3%d9%85%d8%a7%d8%a1",
+    "title": "العوالم في السماء",
+    "url": "https://kolnovel.com/series/%d8%a7%d9%84%d8%b9%d9%88%d8%a7%d9%84%d9%85-%d9%81%d9%8a-%d8%a7%d9%84%d8%b3%d9%85%d8%a7%d8%a1",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2026/06/file_000000000e487243b1f720c3018a491e.png",
+    "type": "رواية",
+    "is_novel": true,
+    "rating": "8.1"
   },
   {
     "id": "a-deal-with-the-devil",
@@ -2137,15 +2137,6 @@
     "rating": "8.0"
   },
   {
-    "id": "under-the-spell-of-evil",
-    "title": "تحت إيقاع الشر",
-    "url": "https://kolnovel.com/series/under-the-spell-of-evil",
-    "cover_url": "https://kolnovel.com/wp-content/themes/lightnovel/assets/images/noimg165px.png",
-    "type": "رواية",
-    "is_novel": true,
-    "rating": "7.0"
-  },
-  {
     "id": "%d9%83%d9%8a%d9%81-%d8%a3%d8%b9%d8%a7%d8%af-%d8%a8%d8%b7%d9%84-%d9%88%d8%a7%d9%82%d8%b9%d9%8a-%d8%a8%d9%86%d8%a7%d8%a1-%d8%a7%d9%84%d9%85%d9%85%d9%84%d9%83%d8%a9",
     "title": "كيف أعاد بطل واقعي بناء المملكة",
     "url": "https://kolnovel.com/series/%d9%83%d9%8a%d9%81-%d8%a3%d8%b9%d8%a7%d8%af-%d8%a8%d8%b7%d9%84-%d9%88%d8%a7%d9%82%d8%b9%d9%8a-%d8%a8%d9%86%d8%a7%d8%a1-%d8%a7%d9%84%d9%85%d9%85%d9%84%d9%83%d8%a9",
@@ -2153,6 +2144,15 @@
     "type": "رواية",
     "is_novel": true,
     "rating": ""
+  },
+  {
+    "id": "under-the-spell-of-evil",
+    "title": "تحت إيقاع الشر",
+    "url": "https://kolnovel.com/series/under-the-spell-of-evil",
+    "cover_url": "https://kolnovel.com/wp-content/themes/lightnovel/assets/images/noimg165px.png",
+    "type": "رواية",
+    "is_novel": true,
+    "rating": "7.0"
   },
   {
     "id": "m-f-kol",
@@ -2164,15 +2164,6 @@
     "rating": "7.0"
   },
   {
-    "id": "the-witch-and-the-gourd-of-stories",
-    "title": "الساحرة وقرع القصص",
-    "url": "https://kolnovel.com/series/the-witch-and-the-gourd-of-stories",
-    "cover_url": "https://kolnovel.com/wp-content/themes/lightnovel/assets/images/noimg165px.png",
-    "type": "رواية",
-    "is_novel": true,
-    "rating": "6.0"
-  },
-  {
     "id": "%d8%a7%d9%84%d9%85%d9%8f%d8%aa%d9%8e%d8%ad%d9%8e%d8%b1%d9%90%d9%91%d8%b1",
     "title": "المُتَحَرِّر",
     "url": "https://kolnovel.com/series/%d8%a7%d9%84%d9%85%d9%8f%d8%aa%d9%8e%d8%ad%d9%8e%d8%b1%d9%90%d9%91%d8%b1",
@@ -2180,6 +2171,15 @@
     "type": "رواية",
     "is_novel": true,
     "rating": "7.5"
+  },
+  {
+    "id": "the-witch-and-the-gourd-of-stories",
+    "title": "الساحرة وقرع القصص",
+    "url": "https://kolnovel.com/series/the-witch-and-the-gourd-of-stories",
+    "cover_url": "https://kolnovel.com/wp-content/themes/lightnovel/assets/images/noimg165px.png",
+    "type": "رواية",
+    "is_novel": true,
+    "rating": "6.0"
   },
   {
     "id": "%d9%85%d8%ac%d9%84%d8%b3-%d8%a7%d9%84%d8%ae%d8%a7%d9%84",
