@@ -10,7 +10,7 @@ DATA_DIR = os.path.join("data", "despair")
 CATALOG_FILE = os.path.join(DATA_DIR, "catalog.json")
 
 DETAILS_SYNC_LIMIT = 20   # تجهيز بيانات وفصول أفضل 20 عملاً
-MAX_PAGES_SAFETY = 70     # عدد صفحات الفهرس لتغطية مكتبة ديسبير
+MAX_PAGES_SAFETY = 2     # عدد صفحات الفهرس لتغطية مكتبة ديسبير
 
 os.makedirs(DATA_DIR, exist_ok=True)
 
