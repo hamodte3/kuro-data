@@ -1,5 +1,15 @@
 [
   {
+    "id": "shadow-slave",
+    "title": "Shadow Slave",
+    "url": "https://azorafly.com/series/shadow-slave",
+    "cover_url": "https://storage.azorafly.com/upload/series/featured/6cac1de1-87ae-4a81-9cd1-2abe99fd84d7/529a28aa-4cda-427e-ad38-535bee166e41.png",
+    "type": "مانهوا",
+    "status": "مستمر",
+    "rating": "",
+    "total_chapters": 10
+  },
+  {
     "id": "the-max-leveled-hero-will-return",
     "title": "The MAX leveled hero will return!",
     "url": "https://azorafly.com/series/the-max-leveled-hero-will-return",
@@ -193,11 +203,7 @@
     "id": "return-of-the-disaster-class-hero",
     "title": "Return of the Disaster-Class Hero",
     "url": "https://azorafly.com/series/return-of-the-disaster-class-hero",
-    "cover_url": "https://storage.azorafly.com/2021/11/resource-1.jpeg",
-    "type": "مانهوا",
-    "status": "مستمر",
-    "rating": "",
-    "total_chapters": 196
+    "cover_url": "https://storage.azorafly.com/2021/11/resource-1.jpeg"
   },
   {
     "id": "after-resignation-i-refuse-the-obsession-from-the-male-leads",
@@ -792,11 +798,5 @@
     "title": "Absolute Sword Sense",
     "url": "https://azorafly.com/series/absolute-sword-sense",
     "cover_url": "https://storage.azorafly.com/2022/06/Absolute-Sword-Sense-1-21.jpg"
-  },
-  {
-    "id": "the-apocalypse-needs-a-pro",
-    "title": "The Apocalypse Needs a Pro",
-    "url": "https://azorafly.com/series/the-apocalypse-needs-a-pro",
-    "cover_url": "https://storage.azorafly.com/upload/series/featured/6cac1de1-87ae-4a81-9cd1-2abe99fd84d7/5036635f-7431-4da4-a2d7-27198f05064d.png"
   }
 ]
