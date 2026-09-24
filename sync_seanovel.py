@@ -11,7 +11,7 @@ DATA_DIR = os.path.join("data", "seanovel")
 CATALOG_FILE = os.path.join(DATA_DIR, "catalog.json")
 
 # عدد الروايات المحدثة حديثاً التي يتم فحص تفاصيلها وفصولها في كل دورة سريعة
-DETAILS_SYNC_LIMIT = 30 
+DETAILS_SYNC_LIMIT = 1000 
 
 os.makedirs(DATA_DIR, exist_ok=True)
 
