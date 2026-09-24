@@ -1336,15 +1336,6 @@
     "rating": "6.8"
   },
   {
-    "id": "infinite-competitive-dungeon-society",
-    "title": "مجتمع الأبراج التنافسي اللامتناهي",
-    "url": "https://kolnovel.com/series/infinite-competitive-dungeon-society",
-    "cover_url": "https://kolnovel.com/wp-content/uploads/2023/01/Infinite-Competitive-Dungeon-Society.jpg",
-    "type": "رواية",
-    "is_novel": true,
-    "rating": "8.0"
-  },
-  {
     "id": "%d8%a7%d8%aa%d8%b6%d8%ad-%d8%a3%d9%86%d9%86%d9%8a-%d9%85%d9%86-%d8%b9%d8%b4%d9%8a%d8%b1%d8%a9-%d8%a7%d9%84%d8%a3%d8%b4%d8%b1%d8%a7%d8%b1",
     "title": "اتضح أنني من عشيرة الأشرار!",
     "url": "https://kolnovel.com/series/%d8%a7%d8%aa%d8%b6%d8%ad-%d8%a3%d9%86%d9%86%d9%8a-%d9%85%d9%86-%d8%b9%d8%b4%d9%8a%d8%b1%d8%a9-%d8%a7%d9%84%d8%a3%d8%b4%d8%b1%d8%a7%d8%b1",
@@ -1352,6 +1343,15 @@
     "type": "رواية",
     "is_novel": true,
     "rating": "8.6"
+  },
+  {
+    "id": "infinite-competitive-dungeon-society",
+    "title": "مجتمع الأبراج التنافسي اللامتناهي",
+    "url": "https://kolnovel.com/series/infinite-competitive-dungeon-society",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2023/01/Infinite-Competitive-Dungeon-Society.jpg",
+    "type": "رواية",
+    "is_novel": true,
+    "rating": "8.0"
   },
   {
     "id": "emperor-has-returned",
@@ -1435,15 +1435,6 @@
     "rating": ""
   },
   {
-    "id": "fugitive-poison-user",
-    "title": "مستخدم السم الهارب",
-    "url": "https://kolnovel.com/series/fugitive-poison-user",
-    "cover_url": "https://kolnovel.com/wp-content/uploads/2021/05/321803001039.jpg",
-    "type": "رواية",
-    "is_novel": true,
-    "rating": "7.0"
-  },
-  {
     "id": "%d8%a7%d9%86%d8%aa%d9%81%d8%a7%d8%b6%d8%a9-%d8%a7%d9%84%d8%ad%d9%8f%d9%85%d8%b1",
     "title": "انتفاضة الحُمر",
     "url": "https://kolnovel.com/series/%d8%a7%d9%86%d8%aa%d9%81%d8%a7%d8%b6%d8%a9-%d8%a7%d9%84%d8%ad%d9%8f%d9%85%d8%b1",
@@ -1451,6 +1442,15 @@
     "type": "رواية",
     "is_novel": true,
     "rating": ""
+  },
+  {
+    "id": "fugitive-poison-user",
+    "title": "مستخدم السم الهارب",
+    "url": "https://kolnovel.com/series/fugitive-poison-user",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2021/05/321803001039.jpg",
+    "type": "رواية",
+    "is_novel": true,
+    "rating": "7.0"
   },
   {
     "id": "crossing-to-the-future",
@@ -1615,15 +1615,6 @@
     "rating": "7.5"
   },
   {
-    "id": "reform-the-nobody",
-    "title": "ReForm: The Nobody",
-    "url": "https://kolnovel.com/series/reform-the-nobody",
-    "cover_url": "https://kolnovel.com/wp-content/uploads/2021/12/5972441263a9514c39309138784a6c69-01_1.jpg",
-    "type": "رواية",
-    "is_novel": true,
-    "rating": "7.0"
-  },
-  {
     "id": "%d8%af%d8%a7%d9%88-%d8%a7%d9%84%d8%ae%d8%a7%d9%84%d8%af-%d8%a7%d9%84%d8%b9%d8%ac%d9%8a%d8%a8",
     "title": "داو الخالد العجيب",
     "url": "https://kolnovel.com/series/%d8%af%d8%a7%d9%88-%d8%a7%d9%84%d8%ae%d8%a7%d9%84%d8%af-%d8%a7%d9%84%d8%b9%d8%ac%d9%8a%d8%a8",
@@ -1631,6 +1622,15 @@
     "type": "رواية",
     "is_novel": true,
     "rating": "8.0"
+  },
+  {
+    "id": "reform-the-nobody",
+    "title": "ReForm: The Nobody",
+    "url": "https://kolnovel.com/series/reform-the-nobody",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2021/12/5972441263a9514c39309138784a6c69-01_1.jpg",
+    "type": "رواية",
+    "is_novel": true,
+    "rating": "7.0"
   },
   {
     "id": "%d8%a7%d9%84%d8%b9%d9%88%d8%a7%d9%84%d9%85-%d9%81%d9%8a-%d8%a7%d9%84%d8%b3%d9%85%d8%a7%d8%a1",
@@ -1921,15 +1921,6 @@
     "rating": "7.5"
   },
   {
-    "id": "%d8%b9%d9%88%d8%af%d8%a9-%d8%a7%d9%84%d8%af%d9%85-%d9%88%d8%a7%d9%84%d8%ad%d8%af%d9%8a%d8%af",
-    "title": "عودة الدم والحديد",
-    "url": "https://kolnovel.com/series/%d8%b9%d9%88%d8%af%d8%a9-%d8%a7%d9%84%d8%af%d9%85-%d9%88%d8%a7%d9%84%d8%ad%d8%af%d9%8a%d8%af",
-    "cover_url": "https://kolnovel.com/wp-content/uploads/2024/10/Screenshot_20241014_090607_com.hihonor.photos.jpg",
-    "type": "رواية",
-    "is_novel": true,
-    "rating": "7.5"
-  },
-  {
     "id": "%d8%a7%d9%84%d8%b5%d9%8a%d8%a7%d8%af-%d8%a7%d9%84%d8%a8%d8%af%d8%a7%d8%a6%d9%8a",
     "title": "الصياد البدائي",
     "url": "https://kolnovel.com/series/%d8%a7%d9%84%d8%b5%d9%8a%d8%a7%d8%af-%d8%a7%d9%84%d8%a8%d8%af%d8%a7%d8%a6%d9%8a",
@@ -1937,6 +1928,15 @@
     "type": "رواية",
     "is_novel": true,
     "rating": "7.7"
+  },
+  {
+    "id": "%d8%b9%d9%88%d8%af%d8%a9-%d8%a7%d9%84%d8%af%d9%85-%d9%88%d8%a7%d9%84%d8%ad%d8%af%d9%8a%d8%af",
+    "title": "عودة الدم والحديد",
+    "url": "https://kolnovel.com/series/%d8%b9%d9%88%d8%af%d8%a9-%d8%a7%d9%84%d8%af%d9%85-%d9%88%d8%a7%d9%84%d8%ad%d8%af%d9%8a%d8%af",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2024/10/Screenshot_20241014_090607_com.hihonor.photos.jpg",
+    "type": "رواية",
+    "is_novel": true,
+    "rating": "7.5"
   },
   {
     "id": "%d8%ae%d8%a7%d9%84%d8%af-%d8%a7%d9%84%d8%b9%d9%88%d8%a7%d9%84%d9%85-%d8%a7%d9%84%d8%aa%d8%b3%d8%b9%d8%a9",
@@ -2128,15 +2128,6 @@
     "rating": "8.0"
   },
   {
-    "id": "%d9%85%d9%84%d9%83-%d9%82%d8%af-%d9%84%d8%a7-%d9%8a%d8%b9%d9%88%d8%af",
-    "title": "ملك قد لا يعود",
-    "url": "https://kolnovel.com/series/%d9%85%d9%84%d9%83-%d9%82%d8%af-%d9%84%d8%a7-%d9%8a%d8%b9%d9%88%d8%af",
-    "cover_url": "https://kolnovel.com/wp-content/uploads/2026/06/AKMNR_2MG-1.png",
-    "type": "رواية",
-    "is_novel": true,
-    "rating": "8.0"
-  },
-  {
     "id": "%d9%83%d9%8a%d9%81-%d8%a3%d8%b9%d8%a7%d8%af-%d8%a8%d8%b7%d9%84-%d9%88%d8%a7%d9%82%d8%b9%d9%8a-%d8%a8%d9%86%d8%a7%d8%a1-%d8%a7%d9%84%d9%85%d9%85%d9%84%d9%83%d8%a9",
     "title": "كيف أعاد بطل واقعي بناء المملكة",
     "url": "https://kolnovel.com/series/%d9%83%d9%8a%d9%81-%d8%a3%d8%b9%d8%a7%d8%af-%d8%a8%d8%b7%d9%84-%d9%88%d8%a7%d9%82%d8%b9%d9%8a-%d8%a8%d9%86%d8%a7%d8%a1-%d8%a7%d9%84%d9%85%d9%85%d9%84%d9%83%d8%a9",
@@ -2146,19 +2137,19 @@
     "rating": ""
   },
   {
+    "id": "%d9%85%d9%84%d9%83-%d9%82%d8%af-%d9%84%d8%a7-%d9%8a%d8%b9%d9%88%d8%af",
+    "title": "ملك قد لا يعود",
+    "url": "https://kolnovel.com/series/%d9%85%d9%84%d9%83-%d9%82%d8%af-%d9%84%d8%a7-%d9%8a%d8%b9%d9%88%d8%af",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2026/06/AKMNR_2MG-1.png",
+    "type": "رواية",
+    "is_novel": true,
+    "rating": "8.0"
+  },
+  {
     "id": "under-the-spell-of-evil",
     "title": "تحت إيقاع الشر",
     "url": "https://kolnovel.com/series/under-the-spell-of-evil",
     "cover_url": "https://kolnovel.com/wp-content/themes/lightnovel/assets/images/noimg165px.png",
-    "type": "رواية",
-    "is_novel": true,
-    "rating": "7.0"
-  },
-  {
-    "id": "m-f-kol",
-    "title": "المتراجع الأحمق",
-    "url": "https://kolnovel.com/series/m-f-kol",
-    "cover_url": "https://kolnovel.com/wp-content/uploads/2024/09/Picsart_24-09-04_22-48-15-172.jpeg",
     "type": "رواية",
     "is_novel": true,
     "rating": "7.0"
@@ -2171,6 +2162,15 @@
     "type": "رواية",
     "is_novel": true,
     "rating": "7.5"
+  },
+  {
+    "id": "m-f-kol",
+    "title": "المتراجع الأحمق",
+    "url": "https://kolnovel.com/series/m-f-kol",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2024/09/Picsart_24-09-04_22-48-15-172.jpeg",
+    "type": "رواية",
+    "is_novel": true,
+    "rating": "7.0"
   },
   {
     "id": "the-witch-and-the-gourd-of-stories",
@@ -2369,15 +2369,6 @@
     "type": "رواية",
     "is_novel": true,
     "rating": "8.0"
-  },
-  {
-    "id": "%d8%b9%d9%8a%d8%af-%d9%86%d9%87%d8%a7%d9%8a%d8%a9-%d8%a7%d9%84%d8%b3%d9%86%d8%a9-%d9%84%d8%a7-%d9%8a%d8%a3%d8%aa%d9%8a-%d9%85%d9%86-%d8%a3%d8%ac%d9%84%d9%86%d8%a7",
-    "title": "عيد نهاية السنة لا يأتي من أجلنا",
-    "url": "https://kolnovel.com/series/%d8%b9%d9%8a%d8%af-%d9%86%d9%87%d8%a7%d9%8a%d8%a9-%d8%a7%d9%84%d8%b3%d9%86%d8%a9-%d9%84%d8%a7-%d9%8a%d8%a3%d8%aa%d9%8a-%d9%85%d9%86-%d8%a3%d8%ac%d9%84%d9%86%d8%a7",
-    "cover_url": "https://kolnovel.com/wp-content/uploads/2026/01/Screenshot_٢٠٢٦-٠١-٠٥-٢١-٠٠-٢٢-٨٢٢-edit_com.discord.jpg",
-    "type": "رواية",
-    "is_novel": true,
-    "rating": "7.5"
   },
   {
     "id": "%d8%b0%d8%a7%d9%83%d8%b1%d8%a9-%d9%84%d9%84%d8%a8%d9%8a%d8%b9",
