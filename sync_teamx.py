@@ -11,7 +11,7 @@ DATA_DIR = os.path.join("data", "teamx")
 CATALOG_FILE = os.path.join(DATA_DIR, "catalog.json")
 
 # 🎯 عدد الصفحات للجولات التراكمية السريعة (3 صفحات كافية لرصد أحدث التحديثات)
-MAX_PAGES = 3 
+MAX_PAGES = 1000 
 
 os.makedirs(DATA_DIR, exist_ok=True)
 
