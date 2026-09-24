@@ -1,5 +1,45 @@
 [
   {
+    "id": "how-to-turn-you-around",
+    "title": "How to Turn You Around",
+    "url": "https://azorafly.com/series/how-to-turn-you-around",
+    "cover_url": "https://storage.azorafly.com/upload/series/featured/02408b52-85d5-445d-9e5c-f7dbcd583bf8/f2d85348-9e25-4829-80ab-79d8234a4fda.png",
+    "type": "مانهوا",
+    "status": "مستمر",
+    "rating": "",
+    "total_chapters": 25
+  },
+  {
+    "id": "i-didn't-mean-to-save-the-villain",
+    "title": "I Didn’t Mean to Save The Villain",
+    "url": "https://azorafly.com/series/i-didn't-mean-to-save-the-villain",
+    "cover_url": "https://storage.azorafly.com/upload/series/featured/a5vVlSc5huft2AzUyK1VxgKh1ckCWLbZ/b6475801-e645-4cda-95be-6fb97215fa27.jpg",
+    "type": "رواية",
+    "status": "مستمر",
+    "rating": "",
+    "total_chapters": 149
+  },
+  {
+    "id": "surviving-as-a-discarded-extra",
+    "title": "Surviving as a Discarded Extra",
+    "url": "https://azorafly.com/series/surviving-as-a-discarded-extra",
+    "cover_url": "https://storage.azorafly.com/public/upload/series/featured/a5vVlSc5huft2AzUyK1VxgKh1ckCWLbZ/01f184ef-5fa2-4ec0-9a5b-381d56dc9aa1.jpg",
+    "type": "رواية",
+    "status": "مستمر",
+    "rating": "",
+    "total_chapters": 70
+  },
+  {
+    "id": "the-male-lead-is-obsessed-with-my-health-1",
+    "title": "The Male Lead is Obsessed With my Health",
+    "url": "https://azorafly.com/series/the-male-lead-is-obsessed-with-my-health-1",
+    "cover_url": "https://storage.azorafly.com/upload/series/featured/4fcea9ae-b6d4-4cdd-8dd2-3ead92b657e7/6106507f-ff0b-4f87-99ef-78e2d8d666d8.jpg",
+    "type": "رواية",
+    "status": "مستمر",
+    "rating": "",
+    "total_chapters": 136
+  },
+  {
     "id": "shadow-slave",
     "title": "Shadow Slave",
     "url": "https://azorafly.com/series/shadow-slave",
@@ -163,41 +203,25 @@
     "id": "i'm-the-youngest-daughter-of-the-snake-family",
     "title": "I’m the Youngest Daughter of the Snake Family",
     "url": "https://azorafly.com/series/i'm-the-youngest-daughter-of-the-snake-family",
-    "cover_url": "https://storage.azorafly.com/upload/series/featured/a5vVlSc5huft2AzUyK1VxgKh1ckCWLbZ/b8dd9d89-0e4e-46bc-9ef3-66efe8cc40c2.jpg",
-    "type": "رواية",
-    "status": "مستمر",
-    "rating": "",
-    "total_chapters": 16
+    "cover_url": "https://storage.azorafly.com/upload/series/featured/a5vVlSc5huft2AzUyK1VxgKh1ckCWLbZ/b8dd9d89-0e4e-46bc-9ef3-66efe8cc40c2.jpg"
   },
   {
     "id": "kneel-your-grace",
     "title": "Kneel, Your Grace!",
     "url": "https://azorafly.com/series/kneel-your-grace",
-    "cover_url": "https://storage.azorafly.com/upload/series/featured/36b5afed-dad7-4e85-86ee-7629e1388021/29a60a66-4b15-4d83-a2b1-91a37372d4e9.png",
-    "type": "مانهوا",
-    "status": "مستمر",
-    "rating": "",
-    "total_chapters": 33
+    "cover_url": "https://storage.azorafly.com/upload/series/featured/36b5afed-dad7-4e85-86ee-7629e1388021/29a60a66-4b15-4d83-a2b1-91a37372d4e9.png"
   },
   {
     "id": "i-have-six-months-to-live-but-i've-captivated-the-tyrant-emperor",
     "title": "I Have Six Months to Live, But I’ve Captivated the Tyrant Emperor",
     "url": "https://azorafly.com/series/i-have-six-months-to-live-but-i've-captivated-the-tyrant-emperor",
-    "cover_url": "https://storage.azorafly.com/upload/series/featured/6cac1de1-87ae-4a81-9cd1-2abe99fd84d7/25bbfdb0-ecdc-4819-9eb9-473669591e61.webp",
-    "type": "مانهوا",
-    "status": "مستمر",
-    "rating": "",
-    "total_chapters": 31
+    "cover_url": "https://storage.azorafly.com/upload/series/featured/6cac1de1-87ae-4a81-9cd1-2abe99fd84d7/25bbfdb0-ecdc-4819-9eb9-473669591e61.webp"
   },
   {
     "id": "this-retired-saintess-will-raise-your-property-value",
     "title": "This Retired Saintess Will Raise Your Property Value",
     "url": "https://azorafly.com/series/this-retired-saintess-will-raise-your-property-value",
-    "cover_url": "https://storage.azorafly.com/public/upload/2026/03/04/696675ac-99fb-45a8-b7f3-935947ae0b70.webp",
-    "type": "مانهوا",
-    "status": "مستمر",
-    "rating": "",
-    "total_chapters": 43
+    "cover_url": "https://storage.azorafly.com/public/upload/2026/03/04/696675ac-99fb-45a8-b7f3-935947ae0b70.webp"
   },
   {
     "id": "return-of-the-disaster-class-hero",
@@ -282,12 +306,6 @@
     "title": "Once an Assassin, Now a Royal Nanny",
     "url": "https://azorafly.com/series/once-an-assassin-now-a-royal-nanny",
     "cover_url": "https://storage.azorafly.com/public/upload/2026/03/20/12c4fba7-71bf-4242-94fc-a8a7ba640189.webp"
-  },
-  {
-    "id": "how-to-turn-you-around",
-    "title": "How to Turn You Around",
-    "url": "https://azorafly.com/series/how-to-turn-you-around",
-    "cover_url": "https://storage.azorafly.com/upload/series/featured/02408b52-85d5-445d-9e5c-f7dbcd583bf8/f2d85348-9e25-4829-80ab-79d8234a4fda.png"
   },
   {
     "id": "myst-might-mayhem",
@@ -762,41 +780,5 @@
     "title": "لوسينا",
     "url": "https://azorafly.com/series/lucinna",
     "cover_url": "https://storage.azorafly.com/upload/series/featured/a5vVlSc5huft2AzUyK1VxgKh1ckCWLbZ/e4cb8384-604a-46ac-a17f-bca4199ae5be.jpg"
-  },
-  {
-    "id": "ever-after",
-    "title": "ever after",
-    "url": "https://azorafly.com/series/ever-after",
-    "cover_url": "https://storage.azorafly.com/upload/series/featured/oGmL0DQZ16QInTPaeDKwFEK9ryegoy88/ed26a916-2017-4cf0-b668-5f8efc2f6588.webp"
-  },
-  {
-    "id": "i-married-the-dragon-i-killed",
-    "title": "I Married the Dragon I Killed",
-    "url": "https://azorafly.com/series/i-married-the-dragon-i-killed",
-    "cover_url": "https://storage.azorafly.com/upload/series/featured/6cac1de1-87ae-4a81-9cd1-2abe99fd84d7/d0651972-78ff-434a-aa5a-7baefc7ed754.png"
-  },
-  {
-    "id": "the-flower-with-a-sword",
-    "title": "The Flower With a Sword",
-    "url": "https://azorafly.com/series/the-flower-with-a-sword",
-    "cover_url": "https://storage.azorafly.com/public/upload/2026/04/03/85f99085-fac0-4b13-97b8-5990ae2a751d.webp"
-  },
-  {
-    "id": "violet's-last-word",
-    "title": "Violet’s Last Word",
-    "url": "https://azorafly.com/series/violet's-last-word",
-    "cover_url": "https://storage.azorafly.com/upload/series/featured/6cac1de1-87ae-4a81-9cd1-2abe99fd84d7/ffab7ebe-9497-41a0-9e2d-e489a2e68751.webp"
-  },
-  {
-    "id": "the-crown-i-will-take-from-you",
-    "title": "The Crown I Will Take From You",
-    "url": "https://azorafly.com/series/the-crown-i-will-take-from-you",
-    "cover_url": "https://storage.azorafly.com/upload/series/featured/oGmL0DQZ16QInTPaeDKwFEK9ryegoy88/173aade7-b421-406f-abc3-58e7363cbb41.jpg"
-  },
-  {
-    "id": "absolute-sword-sense",
-    "title": "Absolute Sword Sense",
-    "url": "https://azorafly.com/series/absolute-sword-sense",
-    "cover_url": "https://storage.azorafly.com/2022/06/Absolute-Sword-Sense-1-21.jpg"
   }
 ]
