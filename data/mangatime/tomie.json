@@ -1,0 +1,33 @@
+{
+  "id": "tomie",
+  "title": "تومي",
+  "cover_url": "https://mangatime.org/uploads/series/6a93e86e2a4d537e51e707c9.jpg",
+  "description": "سلسلة رعب كتبها ورسمها جونجي إيتو، بدأت عام 1987 في 13 فصلاً، وهي أول أعماله المنشورة. تدور حول فتاة تعود دائماً مهما حدث لها، ويفقد كل من يقترب منها القدرة على التصرّف بعقله. رعب وخارق للطبيعة.",
+  "type": "مانغا",
+  "status": "مكتمل",
+  "last_update": "2026-09-23",
+  "rating": "",
+  "favorites": "",
+  "genres": [
+    "رعب",
+    "خارق للطبيعة",
+    "نفسي",
+    "غموض",
+    "دراما"
+  ],
+  "is_novel": false,
+  "chapters": {
+    "https://mangatime.org/manga/tomie/chapter/3": {
+      "name": "3",
+      "images": []
+    },
+    "https://mangatime.org/manga/tomie/chapter/2": {
+      "name": "2",
+      "images": []
+    },
+    "https://mangatime.org/manga/tomie/chapter/1": {
+      "name": "1",
+      "images": []
+    }
+  }
+}

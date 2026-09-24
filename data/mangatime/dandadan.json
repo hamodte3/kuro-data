@@ -1,0 +1,25 @@
+{
+  "id": "dandadan",
+  "title": "داندادان",
+  "cover_url": "https://mangatime.org/uploads/series/6a97568e8f02caf731f4261d.jpg",
+  "description": "مانجا يابانية كتبها ورسمها يوكينوبو تاتسو، تُنشر منذ 2021. طالبة تؤمن بالأشباح وزميل يؤمن بالفضائيين يتراهنان على مَن منهما مخطئ، فيكتشفان أن الاثنين موجودان. أكشن وكوميديا وخارق للطبيعة برسمٍ سريع الإيقاع.",
+  "type": "مانغا",
+  "status": "مستمر",
+  "last_update": "2026-09-23",
+  "rating": "",
+  "favorites": "1",
+  "genres": [
+    "أكشن",
+    "كوميديا",
+    "خارق للطبيعة",
+    "خيال علمي",
+    "رومانسي"
+  ],
+  "is_novel": false,
+  "chapters": {
+    "https://mangatime.org/manga/dandadan/chapter/1": {
+      "name": "1",
+      "images": []
+    }
+  }
+}

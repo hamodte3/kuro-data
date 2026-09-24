@@ -1,0 +1,41 @@
+{
+  "id": "radiant-rewind",
+  "title": "Radiant Rewind",
+  "cover_url": "https://mangatime.org/uploads/series/radiant-rewind-cover-20260802.webp",
+  "description": "استمتع بمشاهدة وقراءة جميع فصول Radiant Rewind حصرياً مترجمة وبدقة عالية على مانجا تايم (MangaTime).\n\nتابع أحداث وتطورات Radiant Rewind مع تحديثات يومية وتجربة قراءة فائقة السلاسة وبدقة عالية حصرياً على موقع مانجا تايم (MangaTime).",
+  "type": "مانغا",
+  "status": "مستمر",
+  "last_update": "2026-09-22",
+  "rating": "",
+  "favorites": "",
+  "genres": [
+    "فانتازيا",
+    "أكشن",
+    "دراما",
+    "مغامرة",
+    "سينين"
+  ],
+  "is_novel": false,
+  "chapters": {
+    "https://mangatime.org/manga/radiant-rewind/chapter/5": {
+      "name": "5",
+      "images": []
+    },
+    "https://mangatime.org/manga/radiant-rewind/chapter/4": {
+      "name": "4",
+      "images": []
+    },
+    "https://mangatime.org/manga/radiant-rewind/chapter/3": {
+      "name": "3",
+      "images": []
+    },
+    "https://mangatime.org/manga/radiant-rewind/chapter/2": {
+      "name": "2",
+      "images": []
+    },
+    "https://mangatime.org/manga/radiant-rewind/chapter/1": {
+      "name": "1",
+      "images": []
+    }
+  }
+}

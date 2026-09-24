@@ -1,0 +1,34 @@
+{
+  "id": "dragon-ball-kame",
+  "title": "دراغون بول كامي",
+  "cover_url": "https://mangatime.org/uploads/series/6a8a9783253a2ecb3d715733.jpg",
+  "description": "عمل فرنسي من صنع المعجبين (غير رسمي) يكمل الأحداث بُعيد نهاية دراغون بول زد. يتابع الجيل التالي من الشخصيات — ومنهم بان وبرا — في مواجهة زوّار من خارج المجرّة يبحثون في الأرض عن قلائد ذات خصائص خاصّة.",
+  "type": "مانغا",
+  "status": "مستمر",
+  "last_update": "2026-09-21",
+  "rating": "",
+  "favorites": "",
+  "genres": [
+    "أكشن",
+    "مغامرة"
+  ],
+  "is_novel": false,
+  "chapters": {
+    "https://mangatime.org/manga/dragon-ball-kame/chapter/4": {
+      "name": "4",
+      "images": []
+    },
+    "https://mangatime.org/manga/dragon-ball-kame/chapter/3": {
+      "name": "3",
+      "images": []
+    },
+    "https://mangatime.org/manga/dragon-ball-kame/chapter/2": {
+      "name": "2",
+      "images": []
+    },
+    "https://mangatime.org/manga/dragon-ball-kame/chapter/1": {
+      "name": "1",
+      "images": []
+    }
+  }
+}

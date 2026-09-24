@@ -1,0 +1,43 @@
+{
+  "id": "kodomo",
+  "title": "طفل بالغ",
+  "cover_url": "https://mangatime.org/uploads/series/6aa0feb3a44ea8bf519701cb.png",
+  "description": "رحلةٌ هادئةٌ ومفعمةٌ بالأجواء التأملية عبر تفاصيل الحياة اليومية العادية لفتىً صغيرٍ ينشأ في اليابان خلال حقبة «شووا». ومن خلال ذكرياتٍ متناثرةٍ للحظاتٍ تبدو عابرةً وعاديةً في طفولته، يروي هذا العمل القصير قصته ببراعةٍ لافتة، ملتقطًا روحَ العصر ومزاجَ جيلٍ كاملٍ من الناس.",
+  "type": "مانغا",
+  "status": "مكتمل",
+  "last_update": "2026-09-19",
+  "rating": "",
+  "favorites": "",
+  "genres": [
+    "مدرسي",
+    "خارق للطبيعة",
+    "كوميديا"
+  ],
+  "is_novel": false,
+  "chapters": {
+    "https://mangatime.org/manga/kodomo/chapter/6": {
+      "name": "6",
+      "images": []
+    },
+    "https://mangatime.org/manga/kodomo/chapter/5": {
+      "name": "5",
+      "images": []
+    },
+    "https://mangatime.org/manga/kodomo/chapter/4": {
+      "name": "4",
+      "images": []
+    },
+    "https://mangatime.org/manga/kodomo/chapter/3": {
+      "name": "3",
+      "images": []
+    },
+    "https://mangatime.org/manga/kodomo/chapter/2": {
+      "name": "2",
+      "images": []
+    },
+    "https://mangatime.org/manga/kodomo/chapter/1": {
+      "name": "1",
+      "images": []
+    }
+  }
+}

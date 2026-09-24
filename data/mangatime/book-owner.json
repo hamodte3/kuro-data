@@ -1,0 +1,30 @@
+{
+  "id": "book-owner",
+  "title": " Book Owner",
+  "cover_url": "https://mangatime.org/uploads/series/697df8310c5d340ac154c8da/cover.webp",
+  "description": "📖 مانجا تايم – صلاح والكتاب الغامض في مدرسة «الإشراق» الخاصة، يستعدّ طلاب الإعدادي لاستقبال مدرس العربية الجديد. 🎒📚 طلب المدرس تلخيصًا من مكتبة المدرسة… فاختار صلاح، ذو الثلاثة عشر عامًا، كتابًا غيّر مجرى حياته بالكامل! 🔍✨ كل صفحة تفتح سرًّا، وكل سطر يقوده إلى خيارٍ أصعب: هل يتخلّص من الكتاب قبل أن يبتلعه غموضه… أم يحتفظ به ويواجه ما يخبّئه؟ 🕯️❓ ربما… هناك طريق ثالث لا يراه أحد بعد. 👁️  ملاحظة: الفصول الأولى متوفّرة على شكل كتاب مطبوع في المتجر. 🛍️",
+  "type": "مانغا",
+  "status": "مستمر",
+  "last_update": "2026-09-18",
+  "rating": "",
+  "favorites": "",
+  "genres": [
+    "قوى خارقة",
+    "مغامرة"
+  ],
+  "is_novel": false,
+  "chapters": {
+    "https://mangatime.org/manga/book-owner/chapter/3": {
+      "name": "3",
+      "images": []
+    },
+    "https://mangatime.org/manga/book-owner/chapter/2": {
+      "name": "2",
+      "images": []
+    },
+    "https://mangatime.org/manga/book-owner/chapter/1": {
+      "name": "1",
+      "images": []
+    }
+  }
+}

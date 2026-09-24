@@ -1,0 +1,33 @@
+{
+  "id": "kimetsu-fan-book",
+  "title": "Kimetsu Fan Book",
+  "cover_url": "https://mangatime.org/uploads/series/kimetsu-fan-book-cover-20260802.webp",
+  "description": "استمتع بمشاهدة وقراءة جميع فصول Kimetsu Fan Book حصرياً مترجمة وبدقة عالية على مانجا تايم (MangaTime).\n\nتابع أحداث وتطورات Kimetsu Fan Book مع تحديثات يومية وتجربة قراءة فائقة السلاسة وبدقة عالية حصرياً على موقع مانجا تايم (MangaTime).",
+  "type": "مانغا",
+  "status": "مستمر",
+  "last_update": "2026-09-23",
+  "rating": "",
+  "favorites": "",
+  "genres": [
+    "فانتازيا",
+    "أكشن",
+    "دراما",
+    "مغامرة",
+    "سينين"
+  ],
+  "is_novel": false,
+  "chapters": {
+    "https://mangatime.org/manga/kimetsu-fan-book/chapter/3": {
+      "name": "3",
+      "images": []
+    },
+    "https://mangatime.org/manga/kimetsu-fan-book/chapter/2": {
+      "name": "2",
+      "images": []
+    },
+    "https://mangatime.org/manga/kimetsu-fan-book/chapter/1": {
+      "name": "1",
+      "images": []
+    }
+  }
+}

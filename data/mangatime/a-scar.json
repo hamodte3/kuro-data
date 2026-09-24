@@ -1,0 +1,37 @@
+{
+  "id": "a-scar",
+  "title": "A Scar",
+  "cover_url": "https://mangatime.org/uploads/series/6a6c4c33a340283bc5325b3e.jpg?v=20260731T103918Z",
+  "description": "دراما رياضية تتمحور حول التزلج على الجليد، والآثار التي تتركها المنافسة والذكريات في حياة أبطالها.",
+  "type": "مانهوا",
+  "status": "مستمر",
+  "last_update": "2026-09-18",
+  "rating": "",
+  "favorites": "1",
+  "genres": [
+    "فانتازيا",
+    "أكشن",
+    "دراما",
+    "مغامرة",
+    "سينين"
+  ],
+  "is_novel": false,
+  "chapters": {
+    "https://mangatime.org/manhwa/a-scar/chapter/4": {
+      "name": "4",
+      "images": []
+    },
+    "https://mangatime.org/manhwa/a-scar/chapter/3": {
+      "name": "3",
+      "images": []
+    },
+    "https://mangatime.org/manhwa/a-scar/chapter/2": {
+      "name": "2",
+      "images": []
+    },
+    "https://mangatime.org/manhwa/a-scar/chapter/1": {
+      "name": "1",
+      "images": []
+    }
+  }
+}

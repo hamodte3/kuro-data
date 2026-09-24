@@ -1,0 +1,70 @@
+{
+  "id": "astro-royale",
+  "title": "Astro Royale",
+  "cover_url": "https://mangatime.org/uploads/series/697df7610c5d340ac1544037/cover.webp",
+  "description": "بعد موت زعيم عشيرة \"ياتسوروجي\" هيبارو يجد نفسه وسط حرب خلافة وقوى خارقة للطبيعة!",
+  "type": "مانغا",
+  "status": "مستمر",
+  "last_update": "2026-09-23",
+  "rating": "",
+  "favorites": "3",
+  "genres": [
+    "أكشن",
+    "دراما",
+    "مغامرة",
+    "جريمة",
+    "خارق للطبيعة",
+    "شونين"
+  ],
+  "is_novel": false,
+  "chapters": {
+    "https://mangatime.org/manga/astro-royale/chapter/12": {
+      "name": "12",
+      "images": []
+    },
+    "https://mangatime.org/manga/astro-royale/chapter/11": {
+      "name": "11",
+      "images": []
+    },
+    "https://mangatime.org/manga/astro-royale/chapter/10": {
+      "name": "10",
+      "images": []
+    },
+    "https://mangatime.org/manga/astro-royale/chapter/9": {
+      "name": "9",
+      "images": []
+    },
+    "https://mangatime.org/manga/astro-royale/chapter/8": {
+      "name": "8",
+      "images": []
+    },
+    "https://mangatime.org/manga/astro-royale/chapter/7": {
+      "name": "7",
+      "images": []
+    },
+    "https://mangatime.org/manga/astro-royale/chapter/6": {
+      "name": "6",
+      "images": []
+    },
+    "https://mangatime.org/manga/astro-royale/chapter/5": {
+      "name": "5",
+      "images": []
+    },
+    "https://mangatime.org/manga/astro-royale/chapter/4": {
+      "name": "4",
+      "images": []
+    },
+    "https://mangatime.org/manga/astro-royale/chapter/3": {
+      "name": "3",
+      "images": []
+    },
+    "https://mangatime.org/manga/astro-royale/chapter/2": {
+      "name": "2",
+      "images": []
+    },
+    "https://mangatime.org/manga/astro-royale/chapter/1": {
+      "name": "1",
+      "images": []
+    }
+  }
+}

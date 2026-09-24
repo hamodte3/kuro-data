@@ -1,0 +1,26 @@
+{
+  "id": "animeta",
+  "title": "أنيميتا!",
+  "cover_url": "https://mangatime.org/uploads/series/6a9c58bec5ffe940977ab0bb.webp",
+  "description": "كانت «مييوكي سانادا» تعيش حياتها بلا شغف، حتى شاهدت ذات ليلة أنمي يُعرض في وقتٍ متأخر، فأشعل فيها لأول مرة حلمًا حقيقيًا بأن تصبح رسامةَ أنمي. لكن طريق تحقيق هذا الحلم ليس سهلًا، إذ تواجه دروسًا قاسية وواقعًا ماليًا أشد قسوة، بينما تسعى بكل ما لديها لتحقيق حلمها.",
+  "type": "مانغا",
+  "status": "مستمر",
+  "last_update": "2026-09-21",
+  "rating": "",
+  "favorites": "",
+  "genres": [
+    "حياة يومية",
+    "كوميديا"
+  ],
+  "is_novel": false,
+  "chapters": {
+    "https://mangatime.org/manga/animeta/chapter/2": {
+      "name": "2",
+      "images": []
+    },
+    "https://mangatime.org/manga/animeta/chapter/1": {
+      "name": "1",
+      "images": []
+    }
+  }
+}

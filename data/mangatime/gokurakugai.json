@@ -1,0 +1,40 @@
+{
+  "id": "gokurakugai",
+  "title": "Gokurakugai",
+  "cover_url": "https://mangatime.org/uploads/series/697df76a0c5d340ac15445e4/cover.webp",
+  "description": " تاو و إلما ثنائي يقومان بحل المشاكل الموجوده في مقاطعة غوكوراكوغاي  لكن في السر عملها الأساسي هو مطاردة الماغا",
+  "type": "مانغا",
+  "status": "مستمر",
+  "last_update": "2026-09-21",
+  "rating": "8.0",
+  "favorites": "9",
+  "genres": [
+    "أكشن",
+    "دراما",
+    "مغامرة",
+    "كوميديا",
+    "جريمة",
+    "وحوش",
+    "خارق للطبيعة",
+    "شونين"
+  ],
+  "is_novel": false,
+  "chapters": {
+    "https://mangatime.org/manga/gokurakugai/chapter/4": {
+      "name": "4",
+      "images": []
+    },
+    "https://mangatime.org/manga/gokurakugai/chapter/3": {
+      "name": "3",
+      "images": []
+    },
+    "https://mangatime.org/manga/gokurakugai/chapter/2": {
+      "name": "2",
+      "images": []
+    },
+    "https://mangatime.org/manga/gokurakugai/chapter/1": {
+      "name": "1",
+      "images": []
+    }
+  }
+}

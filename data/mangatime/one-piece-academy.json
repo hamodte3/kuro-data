@@ -1,0 +1,29 @@
+{
+  "id": "one-piece-academy",
+  "title": "أكاديمية ون بيس",
+  "cover_url": "https://mangatime.org/uploads/series/6a8a1d89253a2ecb3d6b477a.jpg",
+  "description": "سبين-أوف كوميدي يعيد تخيّل شخصيات ون بيس طلاباً ومدرّسين في «أكاديمية العالم الجديد»: القراصنة تلاميذ، وضبّاط البحرية أساتذة. عالم موازٍ لا تسري فيه أحداث القصة الأصلية، فتظهر فيه شخصيات فارقت الحياة هناك، ونبرته ساخرة لا مأساوية.",
+  "type": "مانغا",
+  "status": "مستمر",
+  "last_update": "2026-09-23",
+  "rating": "10.0",
+  "favorites": "",
+  "genres": [
+    "كوميديا",
+    "مدرسي",
+    "أكشن",
+    "حياة يومية",
+    "مغامرة"
+  ],
+  "is_novel": false,
+  "chapters": {
+    "https://mangatime.org/manga/one-piece-academy/chapter/2": {
+      "name": "2",
+      "images": []
+    },
+    "https://mangatime.org/manga/one-piece-academy/chapter/1": {
+      "name": "1",
+      "images": []
+    }
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "id": "the-tide",
+  "title": "The Tide",
+  "cover_url": "https://mangatime.org/uploads/series/6a47a0255317dc1f423444d2.jpg",
+  "description": "عندما يضرب الجفاف العالم، تظهر وحوش بحرية غريبة مع المد والجزر لتبدأ في اصطياد البشر واختطافهم. خيال علمي ورعب يصور كارثة بيئية مرعبة ومواجهة غير متكافئة بين الإنسان ومخلوقات الأعماق. تابعوا أحداث هذه الكارثة على MangaTime.",
+  "type": "مانهوا",
+  "status": "مستمر",
+  "last_update": "2026-09-20",
+  "rating": "",
+  "favorites": "",
+  "genres": [
+    "غموض",
+    "رعب",
+    "إثارة"
+  ],
+  "is_novel": false,
+  "chapters": {
+    "https://mangatime.org/manhwa/the-tide/chapter/10": {
+      "name": "10",
+      "images": []
+    },
+    "https://mangatime.org/manhwa/the-tide/chapter/9": {
+      "name": "9",
+      "images": []
+    },
+    "https://mangatime.org/manhwa/the-tide/chapter/8": {
+      "name": "8",
+      "images": []
+    },
+    "https://mangatime.org/manhwa/the-tide/chapter/7": {
+      "name": "7",
+      "images": []
+    },
+    "https://mangatime.org/manhwa/the-tide/chapter/6": {
+      "name": "6",
+      "images": []
+    },
+    "https://mangatime.org/manhwa/the-tide/chapter/5": {
+      "name": "5",
+      "images": []
+    },
+    "https://mangatime.org/manhwa/the-tide/chapter/4": {
+      "name": "4",
+      "images": []
+    },
+    "https://mangatime.org/manhwa/the-tide/chapter/3": {
+      "name": "3",
+      "images": []
+    },
+    "https://mangatime.org/manhwa/the-tide/chapter/2": {
+      "name": "2",
+      "images": []
+    },
+    "https://mangatime.org/manhwa/the-tide/chapter/1": {
+      "name": "1",
+      "images": []
+    }
+  }
+}

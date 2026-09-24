@@ -1,0 +1,55 @@
+{
+  "id": "the-shepherd-wizard",
+  "title": "The Shepherd Wizard",
+  "cover_url": "https://mangatime.org/uploads/series/69a512363446bf2013eb6a91/cover.jpg",
+  "description": "عاش توران راعيا بسيطا في تلال هيساريل يطوي بين جوانحه موهبة ساحر أعظم وها هو ذا يبرز للعيان أخيرًا.",
+  "type": "مانهوا",
+  "status": "مستمر",
+  "last_update": "2026-09-22",
+  "rating": "8.5",
+  "favorites": "12",
+  "genres": [
+    "أكشن",
+    "مغامرة",
+    "فانتازيا",
+    "بقاء",
+    "سحر",
+    "خارق للطبيعة",
+    "شونين"
+  ],
+  "is_novel": false,
+  "chapters": {
+    "https://mangatime.org/manhwa/the-shepherd-wizard/chapter/8": {
+      "name": "8",
+      "images": []
+    },
+    "https://mangatime.org/manhwa/the-shepherd-wizard/chapter/7": {
+      "name": "7",
+      "images": []
+    },
+    "https://mangatime.org/manhwa/the-shepherd-wizard/chapter/6": {
+      "name": "6",
+      "images": []
+    },
+    "https://mangatime.org/manhwa/the-shepherd-wizard/chapter/5": {
+      "name": "5",
+      "images": []
+    },
+    "https://mangatime.org/manhwa/the-shepherd-wizard/chapter/4": {
+      "name": "4",
+      "images": []
+    },
+    "https://mangatime.org/manhwa/the-shepherd-wizard/chapter/3": {
+      "name": "3",
+      "images": []
+    },
+    "https://mangatime.org/manhwa/the-shepherd-wizard/chapter/2": {
+      "name": "2",
+      "images": []
+    },
+    "https://mangatime.org/manhwa/the-shepherd-wizard/chapter/1": {
+      "name": "1",
+      "images": []
+    }
+  }
+}

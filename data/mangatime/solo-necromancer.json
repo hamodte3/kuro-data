@@ -1,0 +1,35 @@
+{
+  "id": "solo-necromancer",
+  "title": "Solo Necromancer",
+  "cover_url": "https://mangatime.org/uploads/cover/697df75c0c5d340ac1541f88/2026/02/358qs1er.jpg",
+  "description": "إنها نهاية العالم، وحوش من الأساطير تظهر فى كل مكان، يقومون بالتهام البشر وبناء الزنازين في الشوارع والأزقة والأنفاق تحت الأرض، يمكنك اختيار وظيفة واحدة في هذا العالم المتداعي، ماذا سيكون اختيارك؟ استحضار الأرواح هو ملعبي وقوتي تنبع من الموتى!",
+  "type": "مانهوا",
+  "status": "مستمر",
+  "last_update": "2026-08-18",
+  "rating": "10.0",
+  "favorites": "1",
+  "genres": [
+    "أكشن",
+    "قوى خارقة",
+    "مغامرة",
+    "دراما",
+    "فانتازيا",
+    "وحوش",
+    "بقاء",
+    "نهاية العالم",
+    "سحر",
+    "مصاصو دماء",
+    "خارق للطبيعة"
+  ],
+  "is_novel": false,
+  "chapters": {
+    "https://mangatime.org/manhwa/solo-necromancer/chapter/2": {
+      "name": "2",
+      "images": []
+    },
+    "https://mangatime.org/manhwa/solo-necromancer/chapter/1": {
+      "name": "1",
+      "images": []
+    }
+  }
+}

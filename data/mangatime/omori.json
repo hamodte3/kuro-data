@@ -1,0 +1,45 @@
+{
+  "id": "omori",
+  "title": "OMORI",
+  "cover_url": "https://mangatime.org/uploads/series/697df7d00c5d340ac154818d/cover.webp",
+  "description": "تدور قصة ومؤامرة OMORI حول صبي يُدعى SUNNY و\"الأنا البديلة\" OMORI. تحتوي اللعبة على موقعين رئيسيين تدور أحداث القصة فيهما. يتم استكشاف العالم الخيالي لـ HEADSPACE من خلال OMORI وأصدقائه في الليل، بينما يستكشف SUNNY العالم الحقيقي عبر FARAWAY TOWN في النهار. هناك أيضًا طريقان سيحددان في النهاية نتيجة الكيفية التي ستنتهي بها القصة.",
+  "type": "مانغا",
+  "status": "مستمر",
+  "last_update": "2026-09-23",
+  "rating": "",
+  "favorites": "2",
+  "genres": [
+    "دراما",
+    "مغامرة",
+    "نفسي",
+    "رعب",
+    "سينين"
+  ],
+  "is_novel": false,
+  "chapters": {
+    "https://mangatime.org/manga/omori/chapter/6": {
+      "name": "6",
+      "images": []
+    },
+    "https://mangatime.org/manga/omori/chapter/5": {
+      "name": "5",
+      "images": []
+    },
+    "https://mangatime.org/manga/omori/chapter/4": {
+      "name": "4",
+      "images": []
+    },
+    "https://mangatime.org/manga/omori/chapter/3": {
+      "name": "3",
+      "images": []
+    },
+    "https://mangatime.org/manga/omori/chapter/2": {
+      "name": "2",
+      "images": []
+    },
+    "https://mangatime.org/manga/omori/chapter/1": {
+      "name": "1",
+      "images": []
+    }
+  }
+}

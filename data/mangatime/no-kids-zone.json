@@ -1,0 +1,37 @@
+{
+  "id": "no-kids-zone",
+  "title": "No Kids Zone",
+  "cover_url": "https://mangatime.org/uploads/series/6a4801125317dc1f4235aa3b.jpg",
+  "description": "بعد تفشي فيروس يقتل كل من تجاوز العشرين، يجد الفتى نو-إيول نفسه وحيداً في عالم مليء بالوحوش والدمار. رحلة بقاء قاسية في عالم ما بعد الكارثة تبحث عن الأمل وسط أنقاض الحضارة. تابعوا صراع الأطفال من أجل النجاة على MangaTime.",
+  "type": "مانهوا",
+  "status": "مستمر",
+  "last_update": "2026-09-23",
+  "rating": "5.0",
+  "favorites": "",
+  "genres": [
+    "مغامرة",
+    "غموض",
+    "وحوش",
+    "بقاء",
+    "نهاية العالم"
+  ],
+  "is_novel": false,
+  "chapters": {
+    "https://mangatime.org/manhwa/no-kids-zone/chapter/4": {
+      "name": "4",
+      "images": []
+    },
+    "https://mangatime.org/manhwa/no-kids-zone/chapter/3": {
+      "name": "3",
+      "images": []
+    },
+    "https://mangatime.org/manhwa/no-kids-zone/chapter/2": {
+      "name": "2",
+      "images": []
+    },
+    "https://mangatime.org/manhwa/no-kids-zone/chapter/1": {
+      "name": "1",
+      "images": []
+    }
+  }
+}

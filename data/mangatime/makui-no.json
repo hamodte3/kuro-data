@@ -1,0 +1,30 @@
+{
+  "id": "makui-no",
+  "title": "ماكي نو رياس",
+  "cover_url": "https://mangatime.org/uploads/series/6aa0ba19a44ea8bf5194f480.jpg",
+  "description": "في الجرائم التي يُستَخدَم فيها «السِّحر»، يكون من الصعب للغاية القبض على المجرم. تعمل «آن» مُحقِّقةً في القصر الملكي، وفي أحد الأيام تلتقي بفتى يمتلك قدرةً غريبة؛ إذ يستطيع التهامَ القوة السحرية نفسها. ومنذ ذلك الحين، يبدأ بمساعدتها في القضايا التي تنطوي على استخدام السحر.",
+  "type": "مانغا",
+  "status": "مكتمل",
+  "last_update": "2026-09-17",
+  "rating": "",
+  "favorites": "",
+  "genres": [
+    "غموض",
+    "فانتازيا"
+  ],
+  "is_novel": false,
+  "chapters": {
+    "https://mangatime.org/manga/makui-no/chapter/3": {
+      "name": "3",
+      "images": []
+    },
+    "https://mangatime.org/manga/makui-no/chapter/2": {
+      "name": "2",
+      "images": []
+    },
+    "https://mangatime.org/manga/makui-no/chapter/1": {
+      "name": "1",
+      "images": []
+    }
+  }
+}

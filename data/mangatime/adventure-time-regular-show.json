@@ -1,0 +1,25 @@
+{
+  "id": "adventure-time-regular-show",
+  "title": "Adventure Time/Regular Show",
+  "cover_url": "https://mangatime.org/uploads/cover/6a3a0d7f796d0b57cb89c65a/2026/07/seeisav1.png",
+  "description": "كروس اوفر بين وقت المغامرة و العرض العادي ",
+  "type": "ويب تون",
+  "status": "مكتمل",
+  "last_update": "2026-09-20",
+  "rating": "",
+  "favorites": "",
+  "genres": [
+    "مغامرة",
+    "شريحة من الحياة",
+    "فانتازيا",
+    "كوميديا",
+    "ون شوت"
+  ],
+  "is_novel": false,
+  "chapters": {
+    "https://mangatime.org/manga/adventure-time-regular-show/chapter/1": {
+      "name": "1",
+      "images": []
+    }
+  }
+}

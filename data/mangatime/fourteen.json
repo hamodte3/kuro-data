@@ -1,0 +1,36 @@
+{
+  "id": "fourteen",
+  "title": "Fourteen",
+  "cover_url": "https://mangatime.org/uploads/cover/697df75c0c5d340ac1541f88/2026/02/puco9vdx.webp",
+  "description": "في مصنع ضخم لإنتاج الدجاج المعدّل وراثيًا في أمريكا، يظهر مخلوق غريب يُدعى \"تشكن جورج\" (Chicken George) — كائن بعقل بشري وجسم دجاجة. هذا الكائن يكتسب وعيًا ويبدأ في دراسة البشر وتاريخهم وأخطائهم.  خلال بحثه، يكتشف أن البشرية تسير نحو كارثة بيئية ووجودية، وأن الأطفال الذين وُلدوا في سنة محددة (سنة 2000) سيموتون جميعًا عندما يبلغون سن الرابعة عشرة — أي في عام 2014، مما يعني نهاية البشرية.",
+  "type": "مانغا",
+  "status": "مستمر",
+  "last_update": "2026-09-21",
+  "rating": "",
+  "favorites": "",
+  "genres": [
+    "خيال علمي",
+    "أكشن",
+    "مغامرة",
+    "رعب",
+    "حيوانات",
+    "بقاء",
+    "نهاية العالم",
+    "سينين"
+  ],
+  "is_novel": false,
+  "chapters": {
+    "https://mangatime.org/manga/fourteen/chapter/3": {
+      "name": "3",
+      "images": []
+    },
+    "https://mangatime.org/manga/fourteen/chapter/2": {
+      "name": "2",
+      "images": []
+    },
+    "https://mangatime.org/manga/fourteen/chapter/1": {
+      "name": "1",
+      "images": []
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "plants-vs-zombies",
+  "title": "Plants vs Zombies",
+  "cover_url": "https://mangatime.org/uploads/series/697df7940c5d340ac1545bfc/cover.jpg",
+  "description": "سلسلة كوميك \"Plants vs. Zombies\" تقدم مغامرات مشوقة ومثيرة في عالم مليء بالنباتات الذكية والزومبي المرحين. تندرج القصة تحت سقف الفكاهة والإثارة، حيث تتابع النباتات معركتها للدفاع عن منازلها من أعداء متنوعين، مما يجعل كل عدد مشوقاً ومثيراً للاستكشاف.",
+  "type": "مانغا",
+  "status": "مستمر",
+  "last_update": "2026-09-21",
+  "rating": "",
+  "favorites": "",
+  "genres": [
+    "أكشن",
+    "دراما",
+    "مغامرة"
+  ],
+  "is_novel": false,
+  "chapters": {
+    "https://mangatime.org/manga/plants-vs-zombies/chapter/1": {
+      "name": "1",
+      "images": []
+    }
+  }
+}

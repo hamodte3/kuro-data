@@ -1,0 +1,56 @@
+{
+  "id": "planetes",
+  "title": "بلانيتس",
+  "cover_url": "https://mangatime.org/uploads/series/6a96f62b8f02caf731e9f65c.jpg",
+  "description": "مانجا يابانية كتبها ورسمها ماكوتو يوكيمورا — صاحب «فينلاند ساغا» — نُشرت بين 1999 و2004 في 28 فصلاً. تدور في عام 2075 حول طاقم صغير مهمّته جمع الحطام المداري حول الأرض، وهي مهنة لا مجد فيها ولا مكافأة. خيال علمي واقعي ودراما نفسية.",
+  "type": "مانغا",
+  "status": "مكتمل",
+  "last_update": "2026-09-22",
+  "rating": "",
+  "favorites": "",
+  "genres": [
+    "خيال علمي",
+    "دراما",
+    "نفسي",
+    "حياة يومية"
+  ],
+  "is_novel": false,
+  "chapters": {
+    "https://mangatime.org/manga/planetes/chapter/9": {
+      "name": "9",
+      "images": []
+    },
+    "https://mangatime.org/manga/planetes/chapter/8": {
+      "name": "8",
+      "images": []
+    },
+    "https://mangatime.org/manga/planetes/chapter/7": {
+      "name": "7",
+      "images": []
+    },
+    "https://mangatime.org/manga/planetes/chapter/6": {
+      "name": "6",
+      "images": []
+    },
+    "https://mangatime.org/manga/planetes/chapter/5": {
+      "name": "5",
+      "images": []
+    },
+    "https://mangatime.org/manga/planetes/chapter/4": {
+      "name": "4",
+      "images": []
+    },
+    "https://mangatime.org/manga/planetes/chapter/3": {
+      "name": "3",
+      "images": []
+    },
+    "https://mangatime.org/manga/planetes/chapter/2": {
+      "name": "2",
+      "images": []
+    },
+    "https://mangatime.org/manga/planetes/chapter/1": {
+      "name": "1",
+      "images": []
+    }
+  }
+}

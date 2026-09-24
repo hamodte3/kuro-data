@@ -1,0 +1,23 @@
+{
+  "id": "mortal-kombat-x",
+  "title": "مورتال كومبات X",
+  "cover_url": "https://mangatime.org/uploads/series/6aa22d401f85820deface74f.jpg",
+  "description": "مانغا «Mortal Kombat» مقتبسةٌ من فيلم عام 1995 للمخرج «بول دبليو. إس. أندرسون»، حيث تُعيد تقديم المشاهد الأيقونية الشهيرة من الفيلم بأسلوب المانغا ورسوماتها.",
+  "type": "مانغا",
+  "status": "مكتمل",
+  "last_update": "2026-09-18",
+  "rating": "",
+  "favorites": "",
+  "genres": [
+    "أكشن",
+    "فنون قتالية",
+    "ون شوت"
+  ],
+  "is_novel": false,
+  "chapters": {
+    "https://mangatime.org/manga/mortal-kombat-x/chapter/1": {
+      "name": "1",
+      "images": []
+    }
+  }
+}

@@ -1,0 +1,84 @@
+{
+  "id": "red-blue",
+  "title": "Red Blue",
+  "cover_url": "https://mangatime.org/uploads/series/697df8260c5d340ac154c0ed/cover.webp",
+  "description": "📖 مانجا – مانجا تايم  قصة عن آوبا سوزوكي، الفتى المتجهم الذي يخفي وراء صمته عزيمة صلبة، وعن النجم الصاعد كنشين أكاساوا، المقاتل الذي يلمع اسمه في عالم القتال. معًا، يشقّان طريقهما نحو حلبات الـMMA، حيث لا مكان للضعف، وكل ضربة قد تحدد المصير.  رحلة مليئة بالتحديات، العزيمة، والدماء… نحو قمة فنون القتال المختلطة.",
+  "type": "مانغا",
+  "status": "مستمر",
+  "last_update": "2026-09-22",
+  "rating": "",
+  "favorites": "1",
+  "genres": [
+    "أكشن",
+    "دراما",
+    "مغامرة",
+    "كوميديا",
+    "رياضة",
+    "فنون قتالية",
+    "حياة مدرسية",
+    "شونين"
+  ],
+  "is_novel": false,
+  "chapters": {
+    "https://mangatime.org/manga/red-blue/chapter/15": {
+      "name": "15",
+      "images": []
+    },
+    "https://mangatime.org/manga/red-blue/chapter/14": {
+      "name": "14",
+      "images": []
+    },
+    "https://mangatime.org/manga/red-blue/chapter/13": {
+      "name": "13",
+      "images": []
+    },
+    "https://mangatime.org/manga/red-blue/chapter/12": {
+      "name": "12",
+      "images": []
+    },
+    "https://mangatime.org/manga/red-blue/chapter/11": {
+      "name": "11",
+      "images": []
+    },
+    "https://mangatime.org/manga/red-blue/chapter/10": {
+      "name": "10",
+      "images": []
+    },
+    "https://mangatime.org/manga/red-blue/chapter/9": {
+      "name": "9",
+      "images": []
+    },
+    "https://mangatime.org/manga/red-blue/chapter/8": {
+      "name": "8",
+      "images": []
+    },
+    "https://mangatime.org/manga/red-blue/chapter/7": {
+      "name": "7",
+      "images": []
+    },
+    "https://mangatime.org/manga/red-blue/chapter/6": {
+      "name": "6",
+      "images": []
+    },
+    "https://mangatime.org/manga/red-blue/chapter/5": {
+      "name": "5",
+      "images": []
+    },
+    "https://mangatime.org/manga/red-blue/chapter/4": {
+      "name": "4",
+      "images": []
+    },
+    "https://mangatime.org/manga/red-blue/chapter/3": {
+      "name": "3",
+      "images": []
+    },
+    "https://mangatime.org/manga/red-blue/chapter/2": {
+      "name": "2",
+      "images": []
+    },
+    "https://mangatime.org/manga/red-blue/chapter/1": {
+      "name": "1",
+      "images": []
+    }
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "red-riding-hood",
+  "title": "الذئب تلميذ ذات الرداء الأحمر",
+  "cover_url": "https://mangatime.org/uploads/series/6aa0afdda44ea8bf5194adef.jpg",
+  "description": "في هذا العالم، توجد ثلاثةُ أنواعٍ من الكائنات: الوحوش، والبشر، والصيادون. فمنذ العصور الغابرة، كانت الوحوشُ فريسةً للصيادين، بينما كان البشرُ فريسةً للوحوش. تتبع القصة صيادًا شهيرًا وقويًّا يُلقَّب بـ«ذات الرداء الأحمر الصغير»، والذي ستتغير حياتُه بالكامل في اليوم الذي يلتقي فيه بفتاةٍ صغيرةٍ من الوحوش، وهي مستذئبةٌ شابة…",
+  "type": "مانغا",
+  "status": "مكتمل",
+  "last_update": "2026-09-17",
+  "rating": "",
+  "favorites": "",
+  "genres": [
+    "أكشن",
+    "خارق للطبيعة",
+    "دراما",
+    "فانتازيا",
+    "كوميديا",
+    "مغامرة"
+  ],
+  "is_novel": false,
+  "chapters": {
+    "https://mangatime.org/manga/red-riding-hood/chapter/4": {
+      "name": "4",
+      "images": []
+    },
+    "https://mangatime.org/manga/red-riding-hood/chapter/3": {
+      "name": "3",
+      "images": []
+    },
+    "https://mangatime.org/manga/red-riding-hood/chapter/2": {
+      "name": "2",
+      "images": []
+    },
+    "https://mangatime.org/manga/red-riding-hood/chapter/1": {
+      "name": "1",
+      "images": []
+    }
+  }
+}

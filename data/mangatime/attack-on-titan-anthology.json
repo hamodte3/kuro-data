@@ -1,0 +1,36 @@
+{
+  "id": "attack-on-titan-anthology",
+  "title": "هجوم العمالقة: مختارات",
+  "cover_url": "https://mangatime.org/uploads/series/6a8a7894253a2ecb3d6fcc73.jpg",
+  "description": "مجموعة قصص قصيرة مرخّصة رسمياً وبإشراف صاحب السلسلة، أسهم فيها عدد من كتّاب ورسّامي القصص المصوّرة الغربيّين، وكتب كلٌّ منهم قصّة أصلية تدور في عالم هجوم العمالقة.",
+  "type": "مانغا",
+  "status": "مكتمل",
+  "last_update": "2026-09-16",
+  "rating": "",
+  "favorites": "",
+  "genres": [
+    "أكشن",
+    "دراما",
+    "كوميديا",
+    "رعب"
+  ],
+  "is_novel": false,
+  "chapters": {
+    "https://mangatime.org/manga/attack-on-titan-anthology/chapter/4": {
+      "name": "4",
+      "images": []
+    },
+    "https://mangatime.org/manga/attack-on-titan-anthology/chapter/3": {
+      "name": "3",
+      "images": []
+    },
+    "https://mangatime.org/manga/attack-on-titan-anthology/chapter/2": {
+      "name": "2",
+      "images": []
+    },
+    "https://mangatime.org/manga/attack-on-titan-anthology/chapter/1": {
+      "name": "1",
+      "images": []
+    }
+  }
+}

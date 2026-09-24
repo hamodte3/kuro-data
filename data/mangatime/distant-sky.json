@@ -1,0 +1,48 @@
+{
+  "id": "distant-sky",
+  "title": "Distant Sky",
+  "cover_url": "https://mangatime.org/uploads/series/6a47d8655317dc1f42350b3e.jpg",
+  "description": "يستيقظ فتى في مدينة يغلفها الظلام الدامس ليجد نفسه محاطاً بالجثث والدمار في عالم ما بعد الكارثة. رحلة بقاء يائسة في إطار من الغموض والرعب للبحث عن شعاع أمل تحت سماء بعيدة. تابعوا صراع البقاء الملحمي هذا على MangaTime.",
+  "type": "مانهوا",
+  "status": "مستمر",
+  "last_update": "2026-09-22",
+  "rating": "",
+  "favorites": "1",
+  "genres": [
+    "أكشن",
+    "دراما",
+    "رعب",
+    "غموض"
+  ],
+  "is_novel": false,
+  "chapters": {
+    "https://mangatime.org/manhwa/distant-sky/chapter/7": {
+      "name": "7",
+      "images": []
+    },
+    "https://mangatime.org/manhwa/distant-sky/chapter/6": {
+      "name": "6",
+      "images": []
+    },
+    "https://mangatime.org/manhwa/distant-sky/chapter/5": {
+      "name": "5",
+      "images": []
+    },
+    "https://mangatime.org/manhwa/distant-sky/chapter/4": {
+      "name": "4",
+      "images": []
+    },
+    "https://mangatime.org/manhwa/distant-sky/chapter/3": {
+      "name": "3",
+      "images": []
+    },
+    "https://mangatime.org/manhwa/distant-sky/chapter/2": {
+      "name": "2",
+      "images": []
+    },
+    "https://mangatime.org/manhwa/distant-sky/chapter/1": {
+      "name": "1",
+      "images": []
+    }
+  }
+}

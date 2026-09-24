@@ -1,0 +1,34 @@
+{
+  "id": "yaksha",
+  "title": "Yaksha",
+  "cover_url": "https://mangatime.org/uploads/series/69bb707bfe1cce05cceac7c5.webp",
+  "description": "قبل عشر سنوات، وقع انقلاب داخل عشيرة هايجان، وفقد كانغ مين شقيقه الأكبر – ذلك الذي كان والده ومعلمه يحلم به. غضب كانغ مين بشدة، فلاحق الخونة وانتقم منهم، لكن تم القبض عليه وحُكم عليه بالسجن المؤبد. بعد عقد من الزمان، ومع خروج عشيرة هايجان عن السيطرة وسط الفوضى، وضعت الشرطة كانغ مين رهن الاحتجاز مؤقتًا لإعادة التوازن إلى موازين القوى التي برزت في غيابه. الآن، وبعد عشر سنوات من العذاب، تبدأ رحلة كانغ مين، ياكشا، – مغامرة دموية للانتقام!",
+  "type": "مانهوا",
+  "status": "مستمر",
+  "last_update": "2026-09-23",
+  "rating": "",
+  "favorites": "1",
+  "genres": [
+    "أكشن",
+    "دراما",
+    "مغامرة",
+    "إثارة",
+    "جريمة",
+    "شونين"
+  ],
+  "is_novel": false,
+  "chapters": {
+    "https://mangatime.org/manhwa/yaksha/chapter/3": {
+      "name": "3",
+      "images": []
+    },
+    "https://mangatime.org/manhwa/yaksha/chapter/2": {
+      "name": "2",
+      "images": []
+    },
+    "https://mangatime.org/manhwa/yaksha/chapter/1": {
+      "name": "1",
+      "images": []
+    }
+  }
+}

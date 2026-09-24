@@ -1,0 +1,47 @@
+{
+  "id": "dear-anemone",
+  "title": "عزيزي أنيمون",
+  "cover_url": "https://mangatime.org/uploads/series/6aa0f9e2a44ea8bf5196df57.jpg",
+  "description": "عندما يصل «غاكو» إلى «جزر غالاباغوس»، فإن آخر ما سيختبره هو معنى الجنة. فمع كائناتٍ تخضع لتحوّلاتٍ وتطوّراتٍ مرعبةٍ ومشوَّهة، لا يبقى سوى قانونٍ واحدٍ يحكم هذا العالم…",
+  "type": "مانغا",
+  "status": "مستمر",
+  "last_update": "2026-09-23",
+  "rating": "",
+  "favorites": "",
+  "genres": [
+    "أكشن",
+    "رعب",
+    "كوميديا"
+  ],
+  "is_novel": false,
+  "chapters": {
+    "https://mangatime.org/manga/dear-anemone/chapter/7": {
+      "name": "7",
+      "images": []
+    },
+    "https://mangatime.org/manga/dear-anemone/chapter/6": {
+      "name": "6",
+      "images": []
+    },
+    "https://mangatime.org/manga/dear-anemone/chapter/5": {
+      "name": "5",
+      "images": []
+    },
+    "https://mangatime.org/manga/dear-anemone/chapter/4": {
+      "name": "4",
+      "images": []
+    },
+    "https://mangatime.org/manga/dear-anemone/chapter/3": {
+      "name": "3",
+      "images": []
+    },
+    "https://mangatime.org/manga/dear-anemone/chapter/2": {
+      "name": "2",
+      "images": []
+    },
+    "https://mangatime.org/manga/dear-anemone/chapter/1": {
+      "name": "1",
+      "images": []
+    }
+  }
+}

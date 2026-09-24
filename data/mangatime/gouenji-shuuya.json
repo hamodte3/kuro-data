@@ -1,0 +1,28 @@
+{
+  "id": "gouenji-shuuya",
+  "title": "Gouenji Shuuya",
+  "cover_url": "https://mangatime.org/uploads/cover/697df75c0c5d340ac1541f88/2026/02/ipgbwc7w.webp",
+  "description": "مانجا معجبي جوينجي",
+  "type": "مانغا",
+  "status": "مستمر",
+  "last_update": "2026-09-23",
+  "rating": "10.0",
+  "favorites": "",
+  "genres": [
+    "أكشن",
+    "دراما",
+    "ألعاب فيديو",
+    "مغامرة"
+  ],
+  "is_novel": false,
+  "chapters": {
+    "https://mangatime.org/manga/gouenji-shuuya/chapter/2": {
+      "name": "2",
+      "images": []
+    },
+    "https://mangatime.org/manga/gouenji-shuuya/chapter/1": {
+      "name": "1",
+      "images": []
+    }
+  }
+}

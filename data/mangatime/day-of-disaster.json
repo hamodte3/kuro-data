@@ -1,0 +1,34 @@
+{
+  "id": "day-of-disaster",
+  "title": "Day Of Disaster",
+  "cover_url": "https://mangatime.org/uploads/series/697df7e90c5d340ac15496b0/cover.webp",
+  "description": "في عام 2009، يُقتل أحد سكان قرية جبلية صغيرة بالرصاص، مما يؤدي إلى سلسلة من الأحداث المشؤومة. جونغ وو تشو، فتى وُلد وترعرع في القرية، يبدأ بالشعور بنظرات غامضة تلاحقه، ويجد نفسه عالقًا في دوامة من الأحداث الخارجة عن السيطرة.",
+  "type": "مانهوا",
+  "status": "مستمر",
+  "last_update": "2026-09-21",
+  "rating": "8.0",
+  "favorites": "",
+  "genres": [
+    "دراما",
+    "مغامرة",
+    "إثارة",
+    "رعب",
+    "غموض",
+    "خارق للطبيعة"
+  ],
+  "is_novel": false,
+  "chapters": {
+    "https://mangatime.org/manhwa/day-of-disaster/chapter/3": {
+      "name": "3",
+      "images": []
+    },
+    "https://mangatime.org/manhwa/day-of-disaster/chapter/2": {
+      "name": "2",
+      "images": []
+    },
+    "https://mangatime.org/manhwa/day-of-disaster/chapter/1": {
+      "name": "1",
+      "images": []
+    }
+  }
+}

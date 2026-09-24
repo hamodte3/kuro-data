@@ -1,0 +1,34 @@
+{
+  "id": "kakashi-x-mina",
+  "title": "كاكاشي × مينا",
+  "cover_url": "https://mangatime.org/uploads/series/6a8ac377253a2ecb3d735bc8.jpg",
+  "description": "عمل من صنع المعجبين (غير رسمي) يدور حول كاكاشي هاتاكي في خطّ رومانسي مع شخصية تُدعى مينا. لا يتّصل بالقصة الرسمية ولا بدار النشر، ولم نتمكّن من التثبّت من اسم صاحبه.",
+  "type": "مانغا",
+  "status": "مستمر",
+  "last_update": "2026-09-22",
+  "rating": "",
+  "favorites": "",
+  "genres": [
+    "رومانسي",
+    "دراما"
+  ],
+  "is_novel": false,
+  "chapters": {
+    "https://mangatime.org/manga/kakashi-x-mina/chapter/4": {
+      "name": "4",
+      "images": []
+    },
+    "https://mangatime.org/manga/kakashi-x-mina/chapter/3": {
+      "name": "3",
+      "images": []
+    },
+    "https://mangatime.org/manga/kakashi-x-mina/chapter/2": {
+      "name": "2",
+      "images": []
+    },
+    "https://mangatime.org/manga/kakashi-x-mina/chapter/1": {
+      "name": "1",
+      "images": []
+    }
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "planet-of-wheat",
+  "title": "كوكب القمح",
+  "cover_url": "https://mangatime.org/uploads/series/6aa0f8cba44ea8bf5196da44.jpg",
+  "description": "في مخبزٍ يقع على سفحِ جبل، يلتقي «كونتا»، صاحبُ المتجر الشاب، بـ«ماميتا»، وهو كائنٌ فضائيٌّ تائهٌ يبحث عن الطعام. ومع انتهاءِ الأمر بـ«كونتا» إلى تبنّيه باعتباره أخًا صغيرًا له، تبدأ حكايةُ الخبّازِ والكائنِ الفضائيِّ الصغير، في قصةٍ دافئةٍ مليئةٍ بالمواقفِ اللطيفةِ والمشاعرِ الإنسانية.",
+  "type": "مانغا",
+  "status": "مستمر",
+  "last_update": "2026-09-17",
+  "rating": "",
+  "favorites": "",
+  "genres": [
+    "خارق للطبيعة",
+    "خيال علمي",
+    "دراما",
+    "حياة يومية"
+  ],
+  "is_novel": false,
+  "chapters": {
+    "https://mangatime.org/manga/planet-of-wheat/chapter/2": {
+      "name": "2",
+      "images": []
+    },
+    "https://mangatime.org/manga/planet-of-wheat/chapter/1": {
+      "name": "1",
+      "images": []
+    }
+  }
+}

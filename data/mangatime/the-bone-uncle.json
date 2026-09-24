@@ -1,0 +1,40 @@
+{
+  "id": "the-bone-uncle",
+  "title": "The Bone Uncle",
+  "cover_url": "https://mangatime.org/uploads/series/6a0a4f4269517cd60c605b48.webp",
+  "description": "تلك الحقبة المستقبلية القاتمة حيث نُسيت أثمن الأشياء، ألا وهي “العائلة”. قصة أبطال انفصلت أجسادهم عن الإنسانية بسبب حرب طويلة، يستعيدون إنسانيتهم عبر سلسلة من المشقات.",
+  "type": "مانغا",
+  "status": "مستمر",
+  "last_update": "2026-09-21",
+  "rating": "",
+  "favorites": "",
+  "genres": [
+    "أكشن",
+    "دراما",
+    "مغامرة",
+    "شونين"
+  ],
+  "is_novel": false,
+  "chapters": {
+    "https://mangatime.org/manga/the-bone-uncle/chapter/5": {
+      "name": "5",
+      "images": []
+    },
+    "https://mangatime.org/manga/the-bone-uncle/chapter/4": {
+      "name": "4",
+      "images": []
+    },
+    "https://mangatime.org/manga/the-bone-uncle/chapter/3": {
+      "name": "3",
+      "images": []
+    },
+    "https://mangatime.org/manga/the-bone-uncle/chapter/2": {
+      "name": "2",
+      "images": []
+    },
+    "https://mangatime.org/manga/the-bone-uncle/chapter/1": {
+      "name": "1",
+      "images": []
+    }
+  }
+}

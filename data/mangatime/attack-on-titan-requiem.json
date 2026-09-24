@@ -1,0 +1,35 @@
+{
+  "id": "attack-on-titan-requiem",
+  "title": "هجوم العمالقة: قدّاس الفجر",
+  "cover_url": "https://mangatime.org/uploads/series/6a8b3850253a2ecb3d78c78b.jpg",
+  "description": "عمل من صنع المعجبين (غير رسمي) بدأ سنة 2021، يعيد كتابة الفصول الثلاثة الأخيرة من القصة الأصلية في خاتمة بديلة. يصرّح صنّاعه بأنه خارج القصة الرسمية وغير تجاري، وأنه تحيّة للعمل لا نقض له.",
+  "type": "مانغا",
+  "status": "مستمر",
+  "last_update": "2026-09-21",
+  "rating": "",
+  "favorites": "",
+  "genres": [
+    "أكشن",
+    "دراما",
+    "فانتازيا"
+  ],
+  "is_novel": false,
+  "chapters": {
+    "https://mangatime.org/manga/attack-on-titan-requiem/chapter/4": {
+      "name": "4",
+      "images": []
+    },
+    "https://mangatime.org/manga/attack-on-titan-requiem/chapter/3": {
+      "name": "3",
+      "images": []
+    },
+    "https://mangatime.org/manga/attack-on-titan-requiem/chapter/2": {
+      "name": "2",
+      "images": []
+    },
+    "https://mangatime.org/manga/attack-on-titan-requiem/chapter/1": {
+      "name": "1",
+      "images": []
+    }
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "id": "touhou-ibara-kasen-wild-and-horned-hermir",
+  "title": "Touhou Ibara kasen - wild and horned hermir",
+  "cover_url": "https://mangatime.org/uploads/series/697df7640c5d340ac154420a/cover.webp",
+  "description": "Team shanghai alice",
+  "type": "مانغا",
+  "status": "مستمر",
+  "last_update": "2026-09-23",
+  "rating": "",
+  "favorites": "5",
+  "genres": [
+    "دراما",
+    "مغامرة",
+    "كوميديا",
+    "فانتازيا",
+    "شريحة من الحياة",
+    "خارق للطبيعة",
+    "سينين"
+  ],
+  "is_novel": false,
+  "chapters": {
+    "https://mangatime.org/manga/touhou-ibara-kasen-wild-and-horned-hermir/chapter/2": {
+      "name": "2",
+      "images": []
+    },
+    "https://mangatime.org/manga/touhou-ibara-kasen-wild-and-horned-hermir/chapter/1": {
+      "name": "1",
+      "images": []
+    }
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "id": "sonic-boom",
+  "title": "Sonic Boom",
+  "cover_url": "https://mangatime.org/uploads/series/697df82e0c5d340ac154c6d7/cover.jpg",
+  "description": "📺 مانجا تايم – سونيك بوم: شرارة ما بعد الانفجار بعد هدوءٍ قصير، يطلق د. إغمان جهازًا جديدًا اسمه «اللولب الفوضوي» فيتصدّع الفضاء حول الجزيرة ويظهر «ظِلّ السرعة»—كيانٌ يمتص طاقة الحلقات ويقلّد حركات سونيك! 🌀⚙️🦔",
+  "type": "مانهوا",
+  "status": "مستمر",
+  "last_update": "2026-09-19",
+  "rating": "",
+  "favorites": "",
+  "genres": [
+    "أكشن",
+    "دراما",
+    "مغامرة"
+  ],
+  "is_novel": false,
+  "chapters": {
+    "https://mangatime.org/manhwa/sonic-boom/chapter/5": {
+      "name": "5",
+      "images": []
+    },
+    "https://mangatime.org/manhwa/sonic-boom/chapter/4": {
+      "name": "4",
+      "images": []
+    },
+    "https://mangatime.org/manhwa/sonic-boom/chapter/3": {
+      "name": "3",
+      "images": []
+    },
+    "https://mangatime.org/manhwa/sonic-boom/chapter/2": {
+      "name": "2",
+      "images": []
+    },
+    "https://mangatime.org/manhwa/sonic-boom/chapter/1": {
+      "name": "1",
+      "images": []
+    }
+  }
+}

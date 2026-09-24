@@ -1,0 +1,27 @@
+{
+  "id": "inkling-alice",
+  "title": "إنكلينغ أليس",
+  "cover_url": "https://mangatime.org/uploads/series/6aa0f881a44ea8bf5196d8ea.jpg",
+  "description": "في عالمٍ يفيض بالأسرار والغموض، تبدأ مغامرةُ القدر! تجتمع عجائبُ الشرق والغرب، قديمُها وحديثُها، تحت راية «فتاة»ٍ واحدة!",
+  "type": "مانغا",
+  "status": "مستمر",
+  "last_update": "2026-09-18",
+  "rating": "",
+  "favorites": "",
+  "genres": [
+    "أكشن",
+    "فانتازيا",
+    "مغامرة"
+  ],
+  "is_novel": false,
+  "chapters": {
+    "https://mangatime.org/manga/inkling-alice/chapter/2": {
+      "name": "2",
+      "images": []
+    },
+    "https://mangatime.org/manga/inkling-alice/chapter/1": {
+      "name": "1",
+      "images": []
+    }
+  }
+}

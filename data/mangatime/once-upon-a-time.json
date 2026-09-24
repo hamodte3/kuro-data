@@ -1,0 +1,34 @@
+{
+  "id": "once-upon-a-time",
+  "title": "Once upon a time",
+  "cover_url": "https://mangatime.org/uploads/cover/697df75c0c5d340ac1541f88/2026/02/k0408gug.webp",
+  "description": "📖 مانهوا – مانجا تايم  مجموعة قصص قصيرة ومتنوعة… تارة دافئة ولطيفة، وتارة غامضة ومخيفة، وأحيانًا طريفة تثير الابتسامة. لا زمن محدد للأحداث، فكل قصة تأخذك إلى عالم مختلف يحمل نكهته الخاصة.",
+  "type": "مانهوا",
+  "status": "مستمر",
+  "last_update": "2026-09-22",
+  "rating": "",
+  "favorites": "1",
+  "genres": [
+    "أكشن",
+    "مغامرة",
+    "رومانسي",
+    "كوميديا",
+    "دراما",
+    "فانتازيا"
+  ],
+  "is_novel": false,
+  "chapters": {
+    "https://mangatime.org/manhwa/once-upon-a-time/chapter/3": {
+      "name": "3",
+      "images": []
+    },
+    "https://mangatime.org/manhwa/once-upon-a-time/chapter/2": {
+      "name": "2",
+      "images": []
+    },
+    "https://mangatime.org/manhwa/once-upon-a-time/chapter/1": {
+      "name": "1",
+      "images": []
+    }
+  }
+}

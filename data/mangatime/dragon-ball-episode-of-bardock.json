@@ -1,0 +1,31 @@
+{
+  "id": "dragon-ball-episode-of-bardock",
+  "title": "دراغون بول: حلقة باردوك",
+  "cover_url": "https://mangatime.org/uploads/series/6a8a93fa253a2ecb3d712ea1.png",
+  "description": "سبين-أوف رسمي من ثلاثة فصول مرتبط بخطّ قصصي من إحدى الألعاب. ينجو باردوك، والد غوكو، من تدمير كوكب فيجيتا ويجد نفسه في ماضٍ سحيق، فيواجه هناك سلفاً من سلالة فريزا.",
+  "type": "مانغا",
+  "status": "مكتمل",
+  "last_update": "2026-09-22",
+  "rating": "",
+  "favorites": "",
+  "genres": [
+    "أكشن",
+    "خيال علمي",
+    "مغامرة"
+  ],
+  "is_novel": false,
+  "chapters": {
+    "https://mangatime.org/manga/dragon-ball-episode-of-bardock/chapter/3": {
+      "name": "3",
+      "images": []
+    },
+    "https://mangatime.org/manga/dragon-ball-episode-of-bardock/chapter/2": {
+      "name": "2",
+      "images": []
+    },
+    "https://mangatime.org/manga/dragon-ball-episode-of-bardock/chapter/1": {
+      "name": "1",
+      "images": []
+    }
+  }
+}

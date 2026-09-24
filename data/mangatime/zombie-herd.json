@@ -1,0 +1,50 @@
+{
+  "id": "zombie-herd",
+  "title": "Zombie Herd",
+  "cover_url": "https://mangatime.org/uploads/cover/697df75c0c5d340ac1541f88/2026/02/anuff71f.webp",
+  "description": "📖 مانهوا – مانجا تايم  أنا كو سونغ هوان… بطل العالم في الجوجيتسو. لكن حين استيقظت، كان العالم قد انهار أمام عيني. المدن تحولت إلى أطلال، والبشر صاروا فرائس للعدوى المميتة. الأسوأ أنني أنا نفسي قد أُصبت بها…  ومع ذلك، هناك شيء واحد يبقيني واقفًا: لابد أن أجد ابنتي، حتى لو اضطررت لشق طريقي بين أنقاض الحضارة، والقتال حتى آخر نفس!",
+  "type": "مانهوا",
+  "status": "مستمر",
+  "last_update": "2026-09-19",
+  "rating": "",
+  "favorites": "1",
+  "genres": [
+    "أكشن",
+    "مغامرة"
+  ],
+  "is_novel": false,
+  "chapters": {
+    "https://mangatime.org/manhwa/zombie-herd/chapter/8": {
+      "name": "8",
+      "images": []
+    },
+    "https://mangatime.org/manhwa/zombie-herd/chapter/7": {
+      "name": "7",
+      "images": []
+    },
+    "https://mangatime.org/manhwa/zombie-herd/chapter/6": {
+      "name": "6",
+      "images": []
+    },
+    "https://mangatime.org/manhwa/zombie-herd/chapter/5": {
+      "name": "5",
+      "images": []
+    },
+    "https://mangatime.org/manhwa/zombie-herd/chapter/4": {
+      "name": "4",
+      "images": []
+    },
+    "https://mangatime.org/manhwa/zombie-herd/chapter/3": {
+      "name": "3",
+      "images": []
+    },
+    "https://mangatime.org/manhwa/zombie-herd/chapter/2": {
+      "name": "2",
+      "images": []
+    },
+    "https://mangatime.org/manhwa/zombie-herd/chapter/1": {
+      "name": "1",
+      "images": []
+    }
+  }
+}
