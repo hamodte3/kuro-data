@@ -8,14 +8,16 @@ from curl_cffi import requests
 BASE_URL = "https://despair-manga.net"
 DATA_DIR = os.path.join("data", "despair")
 CATALOG_FILE = os.path.join(DATA_DIR, "catalog.json")
+GLOBAL_NEW_FILE = os.path.join("data", "new.json")
 
-DETAILS_SYNC_LIMIT = 20   # تجهيز بيانات وفصول أفضل 20 عملاً
-MAX_PAGES_SAFETY = 2     # عدد صفحات الفهرس لتغطية مكتبة ديسبير
+DETAILS_SYNC_LIMIT = 20    # تجهيز بيانات وفصول أفضل 20 عملاً
+MAX_PAGES_SAFETY = 1000     # عدد صفحات الفهرس لتغطية مكتبة ديسبير
 
 os.makedirs(DATA_DIR, exist_ok=True)
+os.makedirs("data", exist_ok=True)
 
 HEADERS = {
-    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
+    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36",
     "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8",
     "Accept-Language": "ar-SA,ar;q=0.9,en-US;q=0.8,en;q=0.7",
     "Referer": f"{BASE_URL}/",
@@ -74,6 +76,32 @@ def format_rating(raw_rating: str) -> str:
         return f"{val:.1f}" if val > 0 else ""
     except ValueError:
         return ""
+
+def update_global_new_releases(new_releases: list):
+    """دمج الإشعارات الجديدة في data/new.json مع المحافظة على تحديثات المصادر الأخرى"""
+    if not new_releases:
+        return
+
+    existing_releases = []
+    if os.path.exists(GLOBAL_NEW_FILE):
+        try:
+            with open(GLOBAL_NEW_FILE, "r", encoding="utf-8") as f:
+                existing_releases = json.load(f)
+        except Exception:
+            existing_releases = []
+
+    combined = new_releases + existing_releases
+    seen = set()
+    deduped = []
+    for item in combined:
+        key = (item.get("id"), item.get("chapter"))
+        if key not in seen:
+            seen.add(key)
+            deduped.append(item)
+
+    with open(GLOBAL_NEW_FILE, "w", encoding="utf-8") as f:
+        json.dump(deduped[:10], f, ensure_ascii=False, indent=2)
+    print(f"🔔 تم تسجيل {len(new_releases)} تحديث جديد لديسبير في {GLOBAL_NEW_FILE}")
 
 def extract_chapters_despair(soup: BeautifulSoup) -> dict:
     chapters_map = {}
@@ -241,8 +269,13 @@ def fetch_despair_catalog(session) -> list:
 
 def sync_despair_fast():
     session = get_session()
-    catalog = fetch_despair_catalog(session)
-    top_targets = catalog[:DETAILS_SYNC_LIMIT]
+    freshly_scraped = fetch_despair_catalog(session)
+
+    if not freshly_scraped:
+        print("⚠️ لم يتم العثور على أي أعمال في الفهرس.")
+        return
+
+    top_targets = freshly_scraped[:DETAILS_SYNC_LIMIT]
 
     for index, item in enumerate(top_targets, 1):
         slug = item["id"]
@@ -262,10 +295,56 @@ def sync_despair_fast():
         except Exception as e:
             print(f"خطأ أثناء معالجة {slug}: {e}")
 
-    with open(CATALOG_FILE, "w", encoding="utf-8") as f:
-        json.dump(catalog, f, ensure_ascii=False, indent=2)
+    # ================== الدمج الذكي وتوليد الإشعارات ==================
+    old_catalog = []
+    if os.path.exists(CATALOG_FILE):
+        try:
+            with open(CATALOG_FILE, "r", encoding="utf-8") as f:
+                old_catalog = json.load(f)
+        except Exception:
+            old_catalog = []
 
-    print(f"\n⚡ اكتملت مزامنة ديسبير الخاطفة! تم الحفظ في {CATALOG_FILE}")
+    old_map = {item["id"]: item for item in old_catalog}
+    new_releases = []
+
+    for item in freshly_scraped:
+        m_id = item["id"]
+        current_chaps = item.get("total_chapters", 0)
+        prev_chaps = old_map.get(m_id, {}).get("total_chapters", 0)
+
+        # 1. عمل جديد كلياً
+        if m_id not in old_map:
+            new_releases.append({
+                "id": m_id,
+                "title": item["title"],
+                "chapter": f"الفصل {current_chaps}" if current_chaps > 0 else "عمل جديد",
+                "type": item.get("type", "مانغا"),
+                "cover_url": item.get("cover_url", "")
+            })
+        # 2. نزل فصل جديد لعمل موجود
+        elif current_chaps > prev_chaps and current_chaps > 0:
+            new_releases.append({
+                "id": m_id,
+                "title": item["title"],
+                "chapter": f"الفصل {current_chaps}",
+                "type": item.get("type", "مانغا"),
+                "cover_url": item.get("cover_url", "")
+            })
+
+    # الدمج: الجديد في الصدارة + القديم غير المكرر في الخلف
+    fresh_ids = {x["id"] for x in freshly_scraped}
+    remaining_old = [x for x in old_catalog if x["id"] not in fresh_ids]
+    final_merged_catalog = freshly_scraped + remaining_old
+
+    # حفظ الكاتلوج المدمج النهائي
+    with open(CATALOG_FILE, "w", encoding="utf-8") as f:
+        json.dump(final_merged_catalog, f, ensure_ascii=False, indent=2)
+
+    # تحديث إشعارات new.json
+    if new_releases:
+        update_global_new_releases(new_releases)
+
+    print(f"\n⚡ اكتملت مزامنة ديسبير! الكاتلوج يحتوي {len(final_merged_catalog)} عملاً محفوظاً.")
 
 if __name__ == "__main__":
     sync_despair_fast()
