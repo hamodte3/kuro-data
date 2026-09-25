@@ -1,0 +1,39 @@
+{
+  "id": "plundering-the-heavens",
+  "title": "Plundering the Heavens",
+  "cover_url": "https://olympustaff.com/images/manga/1471305486.png",
+  "description": "يقول البعض أن التفاحة الفاسدة في السلة تفسد كل شيء من حولها. البعض يقول أنه أكبر حثالة في قارة تشانبو الجنوبية وأنه يتواطأ مع الطوائف المظلمة للغش والسرقة وارتكاب جميع أنواع الفظائع. ويقولون أيضًا أنه أكثر فتى لعوب\r\n\"احبس بناتك في المنزل لإبعاد فان شينغ!\"\r\n\r\nإلى كل هؤلاء الناس ، \"هذا صحيح ، انا تلك التفاحة الكبيرة الفاسدة. ألديكم مشكلة في ذلك؟\"",
+  "type": "مانهوا",
+  "status": "مستمر",
+  "last_update": "",
+  "rating": "4/5",
+  "favorites": "",
+  "genres": [
+    "أكشن",
+    "إثارة",
+    "بطل غير إعتيادي",
+    "فنون قتال",
+    "مغامرات",
+    "كوميدي"
+  ],
+  "is_novel": false,
+  "total_chapters": 2,
+  "chapters": {
+    "https://olympustaff.com/series/plundering-the-heavens/0.5": {
+      "name": "0.5",
+      "images": []
+    },
+    "https://olympustaff.com/series/plundering-the-heavens/0": {
+      "name": "0",
+      "images": []
+    },
+    "https://olympustaff.com/series/plundering-the-heavens/1": {
+      "name": "1",
+      "images": []
+    },
+    "https://olympustaff.com/series/plundering-the-heavens/2": {
+      "name": "2",
+      "images": []
+    }
+  }
+}

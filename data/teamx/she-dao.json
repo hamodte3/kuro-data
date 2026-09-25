@@ -1,0 +1,47 @@
+{
+  "id": "she-dao",
+  "title": "She Dao",
+  "cover_url": "https://olympustaff.com/images/manga/13205128361803669579.png",
+  "description": "في أوقات الفوضى والكوارث، يظهر أشخاصٌ يقدمون سَيْفَ الدَيْنْ للناس المقدرين، تاركين ورائهم فقط بعض النبوءات. عندما تنتهي النبوءة يعودون لاستعادة \"سيوف الدَيْنْ\". شو مو الذي وُلد في عائلة متواضعة، ذات يوم يحصل على سيف يسمى  \"مو تشينغ\" ويتعلم نبوءته ليكتسب قوى استثنائية تغير مصيره إلى الأبد...",
+  "type": "مانهوا",
+  "status": "مستمر",
+  "last_update": "",
+  "rating": "4/5",
+  "favorites": "",
+  "genres": [
+    "أكشن",
+    "إثارة",
+    "خيال",
+    "دموي",
+    "غموض",
+    "تراجيدي"
+  ],
+  "is_novel": false,
+  "total_chapters": 5,
+  "chapters": {
+    "https://olympustaff.com/series/she-dao/4": {
+      "name": "4",
+      "images": []
+    },
+    "https://olympustaff.com/series/she-dao/3": {
+      "name": "3",
+      "images": []
+    },
+    "https://olympustaff.com/series/she-dao/2": {
+      "name": "2",
+      "images": []
+    },
+    "https://olympustaff.com/series/she-dao/1": {
+      "name": "1",
+      "images": []
+    },
+    "https://olympustaff.com/series/she-dao/0": {
+      "name": "0",
+      "images": []
+    },
+    "https://olympustaff.com/series/she-dao/5": {
+      "name": "5",
+      "images": []
+    }
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "fighting-again-for-a-lifetime",
+  "title": "Fighting Again For A Lifetime",
+  "cover_url": "https://olympustaff.com/images/manga/995821291.jpg",
+  "description": "تم تعقب وو شينغ هي ، أصغر سيد كبير في تاريخ فنون القتال الصينية القديمة ، من قبل منظمة وردة آكلة الدماء وتوفي. ومع ذلك يولد من جديد على جسد صبي نبيل منخفض المستوى في عالم مختلف ، ويفتح مرة أخرى الطريق إلى ذروة سعيه إلى فنون القتال.",
+  "type": "مانهوا",
+  "status": "مستمر",
+  "last_update": "",
+  "rating": "5/5",
+  "favorites": "",
+  "genres": [
+    "أكشن",
+    "إيسيكاي",
+    "فنون قتال",
+    "فانتازيا"
+  ],
+  "is_novel": false,
+  "total_chapters": 2,
+  "chapters": {
+    "https://olympustaff.com/series/fighting-again-for-a-lifetime/2": {
+      "name": "2",
+      "images": []
+    },
+    "https://olympustaff.com/series/fighting-again-for-a-lifetime/1": {
+      "name": "1",
+      "images": []
+    }
+  }
+}

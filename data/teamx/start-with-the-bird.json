@@ -1,0 +1,63 @@
+{
+  "id": "start-with-the-bird",
+  "title": "Start with the bird",
+  "cover_url": "https://olympustaff.com/images/manga/1846768490.jpg",
+  "description": "دخل لي يان ، المصاب بمرض عضال ، إلى عالم يان فو الغريب عن طريق الصدفة وأصبح رجلاً قوياً خطوة بخطوة بفضل عمله الشاق. في عملية المشي عبر عوالم يان فو ، بدأ أيضًا في اكتشاف الأسرار الحقيقية لهذا العالم.",
+  "type": "مانهوا",
+  "status": "مستمر",
+  "last_update": "",
+  "rating": "5/5",
+  "favorites": "",
+  "genres": [
+    "أكشن",
+    "فنون قتال",
+    "غموض",
+    "مغامرات",
+    "خارق للطبيعة",
+    "سنين"
+  ],
+  "is_novel": false,
+  "total_chapters": 9,
+  "chapters": {
+    "https://olympustaff.com/series/start-with-the-bird/9": {
+      "name": "9",
+      "images": []
+    },
+    "https://olympustaff.com/series/start-with-the-bird/8": {
+      "name": "8",
+      "images": []
+    },
+    "https://olympustaff.com/series/start-with-the-bird/7": {
+      "name": "7",
+      "images": []
+    },
+    "https://olympustaff.com/series/start-with-the-bird/6": {
+      "name": "6",
+      "images": []
+    },
+    "https://olympustaff.com/series/start-with-the-bird/5": {
+      "name": "5",
+      "images": []
+    },
+    "https://olympustaff.com/series/start-with-the-bird/4": {
+      "name": "4",
+      "images": []
+    },
+    "https://olympustaff.com/series/start-with-the-bird/3": {
+      "name": "3",
+      "images": []
+    },
+    "https://olympustaff.com/series/start-with-the-bird/2": {
+      "name": "2",
+      "images": []
+    },
+    "https://olympustaff.com/series/start-with-the-bird/1.1": {
+      "name": "1.1",
+      "images": []
+    },
+    "https://olympustaff.com/series/start-with-the-bird/1": {
+      "name": "1",
+      "images": []
+    }
+  }
+}
