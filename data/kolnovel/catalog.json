@@ -1057,15 +1057,6 @@
     "rating": "8.0"
   },
   {
-    "id": "%d8%a3%d9%86%d8%a7-%d9%85%d8%ac%d8%b1%d8%af-npc",
-    "title": "أنا مجرد NPC",
-    "url": "https://kolnovel.com/series/%d8%a3%d9%86%d8%a7-%d9%85%d8%ac%d8%b1%d8%af-npc",
-    "cover_url": "https://kolnovel.com/wp-content/uploads/2023/11/93_20231123222555.png",
-    "type": "رواية",
-    "is_novel": true,
-    "rating": "7.0"
-  },
-  {
     "id": "kingdoms-bloodline",
     "title": "سليل المملكة",
     "url": "https://kolnovel.com/series/kingdoms-bloodline",
@@ -1073,6 +1064,15 @@
     "type": "رواية",
     "is_novel": true,
     "rating": "9.0"
+  },
+  {
+    "id": "%d8%a3%d9%86%d8%a7-%d9%85%d8%ac%d8%b1%d8%af-npc",
+    "title": "أنا مجرد NPC",
+    "url": "https://kolnovel.com/series/%d8%a3%d9%86%d8%a7-%d9%85%d8%ac%d8%b1%d8%af-npc",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2023/11/93_20231123222555.png",
+    "type": "رواية",
+    "is_novel": true,
+    "rating": "7.0"
   },
   {
     "id": "elixir-supplier",
@@ -2245,15 +2245,6 @@
     "rating": "8.0"
   },
   {
-    "id": "%d8%b9%d9%88%d8%af%d8%a9-%d8%a7%d9%84%d8%a5%d9%85%d8%a8%d8%b1%d8%a7%d8%b7%d9%88%d8%b1-%d8%a7%d9%84%d8%b4%d9%8a%d8%b7%d8%a7%d9%86%d9%8a",
-    "title": "عودة الإمبراطور الشيطاني",
-    "url": "https://kolnovel.com/series/%d8%b9%d9%88%d8%af%d8%a9-%d8%a7%d9%84%d8%a5%d9%85%d8%a8%d8%b1%d8%a7%d8%b7%d9%88%d8%b1-%d8%a7%d9%84%d8%b4%d9%8a%d8%b7%d8%a7%d9%86%d9%8a",
-    "cover_url": "https://kolnovel.com/wp-content/uploads/2026/07/file_0000000011d071f4a5bcba4ed38e14f8.png",
-    "type": "رواية",
-    "is_novel": true,
-    "rating": ""
-  },
-  {
     "id": "%d9%85%d8%ad%d9%86%d8%a9-%d8%a7%d9%84%d8%a3%d8%ac%d9%86%d8%a7%d8%b3-%d8%a7%d9%84%d9%85%d8%aa%d8%b9%d8%af%d8%af%d8%a9",
     "title": "محنة الأجناس المتعددة",
     "url": "https://kolnovel.com/series/%d9%85%d8%ad%d9%86%d8%a9-%d8%a7%d9%84%d8%a3%d8%ac%d9%86%d8%a7%d8%b3-%d8%a7%d9%84%d9%85%d8%aa%d8%b9%d8%af%d8%af%d8%a9",
@@ -2261,6 +2252,15 @@
     "type": "رواية",
     "is_novel": true,
     "rating": "7.5"
+  },
+  {
+    "id": "%d8%b9%d9%88%d8%af%d8%a9-%d8%a7%d9%84%d8%a5%d9%85%d8%a8%d8%b1%d8%a7%d8%b7%d9%88%d8%b1-%d8%a7%d9%84%d8%b4%d9%8a%d8%b7%d8%a7%d9%86%d9%8a",
+    "title": "عودة الإمبراطور الشيطاني",
+    "url": "https://kolnovel.com/series/%d8%b9%d9%88%d8%af%d8%a9-%d8%a7%d9%84%d8%a5%d9%85%d8%a8%d8%b1%d8%a7%d8%b7%d9%88%d8%b1-%d8%a7%d9%84%d8%b4%d9%8a%d8%b7%d8%a7%d9%86%d9%8a",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2026/07/file_0000000011d071f4a5bcba4ed38e14f8.png",
+    "type": "رواية",
+    "is_novel": true,
+    "rating": ""
   },
   {
     "id": "%d8%b7%d8%a8%d9%82%d8%a7%d8%aa-%d9%81%d9%8a-%d8%a7%d9%84%d8%a8%d8%ad%d8%b1-%d8%a7%d9%84%d9%85%d9%84%d9%83%d9%8a",

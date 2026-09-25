@@ -1733,7 +1733,7 @@
     "url": "https://3asq.online/manga/hajime-no-ippo-baki",
     "cover_url": "https://3asq.online/wp-content/uploads/2026/06/1000698876-scaled-175x238.jpg",
     "type": "BAKI",
-    "rating": "4.4"
+    "rating": "4.5"
   },
   {
     "id": "kakukaku-shikajika",
@@ -2352,20 +2352,20 @@
     "rating": "4.5"
   },
   {
-    "id": "zanuff-the-butcher",
-    "title": "Zanuff the Butcher",
-    "url": "https://3asq.online/manga/zanuff-the-butcher",
-    "cover_url": "https://3asq.online/wp-content/uploads/2019/09/002-175x238.png",
-    "type": "مانغا",
-    "rating": "4.2"
-  },
-  {
     "id": "haimiya-senpai-wa-kowakute-kawaii",
     "title": "Haimiya-senpai wa Kowakute Kawaii",
     "url": "https://3asq.online/manga/haimiya-senpai-wa-kowakute-kawaii",
     "cover_url": "https://3asq.online/wp-content/uploads/2025/12/0-scaled-175x238.jpg",
     "type": "مانغا",
     "rating": "3.7"
+  },
+  {
+    "id": "zanuff-the-butcher",
+    "title": "Zanuff the Butcher",
+    "url": "https://3asq.online/manga/zanuff-the-butcher",
+    "cover_url": "https://3asq.online/wp-content/uploads/2019/09/002-175x238.png",
+    "type": "مانغا",
+    "rating": "4.2"
   },
   {
     "id": "terra-formars-gaiden-keiji-onizuka",
@@ -2640,20 +2640,20 @@
     "rating": "3.7"
   },
   {
-    "id": "bloody-monday-last-season",
-    "title": "Bloody monday Last season",
-    "url": "https://3asq.online/manga/bloody-monday-last-season",
-    "cover_url": "https://3asq.online/wp-content/uploads/2019/04/185386l-175x238.jpg",
-    "type": "مانغا",
-    "rating": "3.0"
-  },
-  {
     "id": "dr-hound",
     "title": "Dr. Hound",
     "url": "https://3asq.online/manga/dr-hound",
     "cover_url": "https://3asq.online/wp-content/uploads/2026/07/0020-175x238.jpeg",
     "type": "Houston",
     "rating": "4.5"
+  },
+  {
+    "id": "bloody-monday-last-season",
+    "title": "Bloody monday Last season",
+    "url": "https://3asq.online/manga/bloody-monday-last-season",
+    "cover_url": "https://3asq.online/wp-content/uploads/2019/04/185386l-175x238.jpg",
+    "type": "مانغا",
+    "rating": "3.0"
   },
   {
     "id": "clear-color",
@@ -3040,14 +3040,6 @@
     "rating": "3.8"
   },
   {
-    "id": "minasoko",
-    "title": "Minasoko",
-    "url": "https://3asq.online/manga/minasoko",
-    "cover_url": "https://3asq.online/wp-content/uploads/2025/05/316483-175x238.jpg",
-    "type": "مانغا",
-    "rating": "4.8"
-  },
-  {
     "id": "dear-anemone",
     "title": "Dear Anemone",
     "url": "https://3asq.online/manga/dear-anemone",
@@ -3056,12 +3048,12 @@
     "rating": "3.7"
   },
   {
-    "id": "the-room-of-the-april-witch",
-    "title": "The Room of the April Witch (Novel)",
-    "url": "https://3asq.online/manga/the-room-of-the-april-witch",
-    "cover_url": "https://3asq.online/wp-content/uploads/2025/03/الغلاف-175x238.jpg",
-    "type": "abdHD",
-    "rating": "3.5"
+    "id": "minasoko",
+    "title": "Minasoko",
+    "url": "https://3asq.online/manga/minasoko",
+    "cover_url": "https://3asq.online/wp-content/uploads/2025/05/316483-175x238.jpg",
+    "type": "مانغا",
+    "rating": "4.8"
   },
   {
     "id": "prism-rondo",
@@ -3070,6 +3062,14 @@
     "cover_url": "https://3asq.online/wp-content/uploads/2026/07/prism-cover-2-new-175x238.jpg",
     "type": "The Fools",
     "rating": "4.7"
+  },
+  {
+    "id": "the-room-of-the-april-witch",
+    "title": "The Room of the April Witch (Novel)",
+    "url": "https://3asq.online/manga/the-room-of-the-april-witch",
+    "cover_url": "https://3asq.online/wp-content/uploads/2025/03/الغلاف-175x238.jpg",
+    "type": "abdHD",
+    "rating": "3.5"
   },
   {
     "id": "gizmo-riser",
