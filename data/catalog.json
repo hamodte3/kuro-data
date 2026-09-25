@@ -1,5 +1,75 @@
 [
   {
+    "id": "my-love-advisor",
+    "title": "My Love Advisor",
+    "url": "https://azorafly.com/series/my-love-advisor",
+    "cover_url": "https://storage.azorafly.com/upload/series/featured/02408b52-85d5-445d-9e5c-f7dbcd583bf8/ee82758f-1dd2-40be-a405-e5420f9df4c3.webp",
+    "type": "مانهوا",
+    "status": "مستمر",
+    "rating": "",
+    "total_chapters": 18
+  },
+  {
+    "id": "this-wasn't-in-my-adoption-plan!",
+    "title": "This Wasn’t in My Adoption Plan!",
+    "url": "https://azorafly.com/series/this-wasn't-in-my-adoption-plan!",
+    "cover_url": "https://storage.azorafly.com/upload/series/featured/02408b52-85d5-445d-9e5c-f7dbcd583bf8/44d3b16c-725a-43ed-9ffe-322dbc0c1319.jpg",
+    "type": "مانهوا",
+    "status": "مستمر",
+    "rating": "",
+    "total_chapters": 13
+  },
+  {
+    "id": "lucinna",
+    "title": "لوسينا",
+    "url": "https://azorafly.com/series/lucinna",
+    "cover_url": "https://storage.azorafly.com/upload/series/featured/a5vVlSc5huft2AzUyK1VxgKh1ckCWLbZ/e4cb8384-604a-46ac-a17f-bca4199ae5be.jpg",
+    "type": "رواية",
+    "status": "مستمر",
+    "rating": "",
+    "total_chapters": 14
+  },
+  {
+    "id": "saved-by-the-powerless-little-lady",
+    "title": "saved by the powerless little lady",
+    "url": "https://azorafly.com/series/saved-by-the-powerless-little-lady",
+    "cover_url": "https://storage.azorafly.com/public/upload/2026/02/16/18d7280a-b3cd-4c27-b94d-ba2fa4534882.webp",
+    "type": "مانهوا",
+    "status": "مستمر",
+    "rating": "",
+    "total_chapters": 36
+  },
+  {
+    "id": "black-haze-remake",
+    "title": "Black haze [Remake]",
+    "url": "https://azorafly.com/series/black-haze-remake",
+    "cover_url": "https://storage.azorafly.com/public/upload/2026/01/29/918b2c1a-4978-4715-b901-d51261d368a4.webp",
+    "type": "مانهوا",
+    "status": "مستمر",
+    "rating": "",
+    "total_chapters": 92
+  },
+  {
+    "id": "serim's-iron-rule",
+    "title": "Serim’s Iron Rule",
+    "url": "https://azorafly.com/series/serim's-iron-rule",
+    "cover_url": "https://storage.azorafly.com/upload/series/featured/02408b52-85d5-445d-9e5c-f7dbcd583bf8/aa62eab9-2293-44cd-99b8-236779d7d1ad.jpg",
+    "type": "مانهوا",
+    "status": "مستمر",
+    "rating": "",
+    "total_chapters": 16
+  },
+  {
+    "id": "surviving-a-shoujo-with-coins",
+    "title": "Surviving a Shoujo With Coins",
+    "url": "https://azorafly.com/series/surviving-a-shoujo-with-coins",
+    "cover_url": "https://storage.azorafly.com/public/upload/series/featured/02408b52-85d5-445d-9e5c-f7dbcd583bf8/0ab09981-0fde-4f09-9258-dccd601adfb5.jpg",
+    "type": "مانهوا",
+    "status": "مستمر",
+    "rating": "",
+    "total_chapters": 134
+  },
+  {
     "id": "the-empire's-villainess",
     "title": "The Empire’s Villainess",
     "url": "https://azorafly.com/series/the-empire's-villainess",
@@ -133,71 +203,43 @@
     "id": "the-debtor's-lover",
     "title": "The Debtor’s Lover",
     "url": "https://azorafly.com/series/the-debtor's-lover",
-    "cover_url": "https://storage.azorafly.com/upload/series/featured/6cac1de1-87ae-4a81-9cd1-2abe99fd84d7/4a67e050-5eb1-4d3b-8a16-2b6fdfac156e.jpg",
-    "type": "مانهوا",
-    "status": "مستمر",
-    "rating": "",
-    "total_chapters": 25
+    "cover_url": "https://storage.azorafly.com/upload/series/featured/6cac1de1-87ae-4a81-9cd1-2abe99fd84d7/4a67e050-5eb1-4d3b-8a16-2b6fdfac156e.jpg"
   },
   {
     "id": "obsessive-love-kills-the-saint",
     "title": "Obsessive Love Kills the Saint",
     "url": "https://azorafly.com/series/obsessive-love-kills-the-saint",
-    "cover_url": "https://storage.azorafly.com/public/upload/2026/03/26/b359f508-550f-4c76-858e-febfee152e74.webp",
-    "type": "مانهوا",
-    "status": "مستمر",
-    "rating": "",
-    "total_chapters": 39
+    "cover_url": "https://storage.azorafly.com/public/upload/2026/03/26/b359f508-550f-4c76-858e-febfee152e74.webp"
   },
   {
     "id": "the-sword-emperor's-path-to-namgung",
     "title": "The Sword Emperor’s Path to Namgung",
     "url": "https://azorafly.com/series/the-sword-emperor's-path-to-namgung",
-    "cover_url": "https://storage.azorafly.com/upload/series/featured/6cac1de1-87ae-4a81-9cd1-2abe99fd84d7/ef577a58-bc33-4954-aac7-f40dac2850e9.webp",
-    "type": "مانهوا",
-    "status": "مستمر",
-    "rating": "",
-    "total_chapters": 28
+    "cover_url": "https://storage.azorafly.com/upload/series/featured/6cac1de1-87ae-4a81-9cd1-2abe99fd84d7/ef577a58-bc33-4954-aac7-f40dac2850e9.webp"
   },
   {
     "id": "to-me-who-doesnt-love-you",
     "title": "To me who doesn’t love you",
     "url": "https://azorafly.com/series/to-me-who-doesnt-love-you",
-    "cover_url": "https://storage.azorafly.com/2025/12/IMG_8164.webp",
-    "type": "مانهوا",
-    "status": "مستمر",
-    "rating": "",
-    "total_chapters": 41
+    "cover_url": "https://storage.azorafly.com/2025/12/IMG_8164.webp"
   },
   {
     "id": "the-villainess's-last-dance-for-the-one-who-killed-her",
     "title": "The Villainess’s Last Dance for the One Who Killed Her",
     "url": "https://azorafly.com/series/the-villainess's-last-dance-for-the-one-who-killed-her",
-    "cover_url": "https://storage.azorafly.com/upload/series/featured/6cac1de1-87ae-4a81-9cd1-2abe99fd84d7/f9b76c83-dcab-4697-bb5d-03832bb553f1.png",
-    "type": "مانهوا",
-    "status": "مستمر",
-    "rating": "",
-    "total_chapters": 23
+    "cover_url": "https://storage.azorafly.com/upload/series/featured/6cac1de1-87ae-4a81-9cd1-2abe99fd84d7/f9b76c83-dcab-4697-bb5d-03832bb553f1.png"
   },
   {
     "id": "sleepless-death",
     "title": "Sleepless Death",
     "url": "https://azorafly.com/series/sleepless-death",
-    "cover_url": "https://storage.azorafly.com/public/upload/2026/03/05/9adb9016-ff81-4ee1-bfd3-bbd07fadcec5.webp",
-    "type": "مانهوا",
-    "status": "مستمر",
-    "rating": "",
-    "total_chapters": 35
+    "cover_url": "https://storage.azorafly.com/public/upload/2026/03/05/9adb9016-ff81-4ee1-bfd3-bbd07fadcec5.webp"
   },
   {
     "id": "the-substitute-bride-is-doted-on-by-the-cold-blooded-emperor",
     "title": "The Substitute Bride Is Doted on by the Cold-Blooded Emperor",
     "url": "https://azorafly.com/series/the-substitute-bride-is-doted-on-by-the-cold-blooded-emperor",
-    "cover_url": "https://storage.azorafly.com/public/upload/series/featured/cmjkgwd7t0000ld63nf9eiyz6/eff6d1c6-6231-4dec-9d30-e22c9b79362d.webp",
-    "type": "مانهوا",
-    "status": "مستمر",
-    "rating": "",
-    "total_chapters": 45
+    "cover_url": "https://storage.azorafly.com/public/upload/series/featured/cmjkgwd7t0000ld63nf9eiyz6/eff6d1c6-6231-4dec-9d30-e22c9b79362d.webp"
   },
   {
     "id": "became-the-owner-of-a-poor-estate",
@@ -512,12 +554,6 @@
     "cover_url": "https://storage.azorafly.com/public/upload/2026/02/14/e7780ab7-df36-4d12-b9fb-38da66f03708.webp"
   },
   {
-    "id": "my-mother-gets-married-again",
-    "title": "My Mother Gets Married Again",
-    "url": "https://azorafly.com/series/my-mother-gets-married-again",
-    "cover_url": "https://storage.azorafly.com/upload/series/featured/oGmL0DQZ16QInTPaeDKwFEK9ryegoy88/74e621fc-3bf5-44a0-9b10-d54b539be459.jpg"
-  },
-  {
     "id": "i'm-the-youngest-daughter-of-the-snake-family",
     "title": "I’m the Youngest Daughter of the Snake Family",
     "url": "https://azorafly.com/series/i'm-the-youngest-daughter-of-the-snake-family",
@@ -540,6 +576,24 @@
     "title": "This Retired Saintess Will Raise Your Property Value",
     "url": "https://azorafly.com/series/this-retired-saintess-will-raise-your-property-value",
     "cover_url": "https://storage.azorafly.com/public/upload/2026/03/04/696675ac-99fb-45a8-b7f3-935947ae0b70.webp"
+  },
+  {
+    "id": "return-of-the-disaster-class-hero",
+    "title": "Return of the Disaster-Class Hero",
+    "url": "https://azorafly.com/series/return-of-the-disaster-class-hero",
+    "cover_url": "https://storage.azorafly.com/2021/11/resource-1.jpeg"
+  },
+  {
+    "id": "after-resignation-i-refuse-the-obsession-from-the-male-leads",
+    "title": "After Resignation, I Refuse the Obsession from the Male Leads",
+    "url": "https://azorafly.com/series/after-resignation-i-refuse-the-obsession-from-the-male-leads",
+    "cover_url": "https://storage.azorafly.com/upload/series/featured/6cac1de1-87ae-4a81-9cd1-2abe99fd84d7/dd679ef0-92dd-4aba-b221-e88f7b41dfd7.png"
+  },
+  {
+    "id": "to-be-loved",
+    "title": "To Be Loved",
+    "url": "https://azorafly.com/series/to-be-loved",
+    "cover_url": "https://storage.azorafly.com/upload/series/featured/6cac1de1-87ae-4a81-9cd1-2abe99fd84d7/c8bdc33e-1b2d-4e3f-955b-d492afaf0c73.png"
   },
   {
     "id": "hello-mr.-veterinarian!",
@@ -908,12 +962,6 @@
     "cover_url": "https://storage.azorafly.com/public/upload/series/featured/6cac1de1-87ae-4a81-9cd1-2abe99fd84d7/12f5073e-72e8-4c86-82f4-de69d964cc94.webp"
   },
   {
-    "id": "saved-by-the-powerless-little-lady",
-    "title": "saved by the powerless little lady",
-    "url": "https://azorafly.com/series/saved-by-the-powerless-little-lady",
-    "cover_url": "https://storage.azorafly.com/public/upload/2026/02/16/18d7280a-b3cd-4c27-b94d-ba2fa4534882.webp"
-  },
-  {
     "id": "i-will-save-my-father",
     "title": "I will save my father",
     "url": "https://azorafly.com/series/i-will-save-my-father",
@@ -1068,12 +1116,6 @@
     "title": "مغامرات آرين الشجاع",
     "url": "https://azorafly.com/series/mghamrat-aaryn-alshjaa",
     "cover_url": "https://storage.azorafly.com/upload/series/featured/a5vVlSc5huft2AzUyK1VxgKh1ckCWLbZ/69ec4ed9-5fea-40ef-aabc-0d0d3597d618.jpg"
-  },
-  {
-    "id": "lucinna",
-    "title": "لوسينا",
-    "url": "https://azorafly.com/series/lucinna",
-    "cover_url": "https://storage.azorafly.com/upload/series/featured/a5vVlSc5huft2AzUyK1VxgKh1ckCWLbZ/e4cb8384-604a-46ac-a17f-bca4199ae5be.jpg"
   },
   {
     "id": "ever-after",
@@ -1946,12 +1988,6 @@
     "cover_url": "https://storage.azorafly.com/upload/series/featured/6cac1de1-87ae-4a81-9cd1-2abe99fd84d7/bb04e84e-14f4-4a07-b031-59fb992a4bba.webp"
   },
   {
-    "id": "overgeared-12",
-    "title": "Overgeared",
-    "url": "https://azorafly.com/series/overgeared-12",
-    "cover_url": "https://storage.azorafly.com/2020/04/resource-2.jpg"
-  },
-  {
     "id": "the-stray-hound",
     "title": "The Stray Hound",
     "url": "https://azorafly.com/series/the-stray-hound",
@@ -2094,12 +2130,6 @@
     "title": "The Academy’s Weapon Copycat",
     "url": "https://azorafly.com/series/the-academy's-weapon-copycat",
     "cover_url": "https://storage.azorafly.com/upload/series/featured/6cac1de1-87ae-4a81-9cd1-2abe99fd84d7/16c60de3-7f07-45f3-9bad-948b5e7dbbc7.png"
-  },
-  {
-    "id": "my-love-advisor",
-    "title": "My Love Advisor",
-    "url": "https://azorafly.com/series/my-love-advisor",
-    "cover_url": "https://storage.azorafly.com/upload/series/featured/02408b52-85d5-445d-9e5c-f7dbcd583bf8/ee82758f-1dd2-40be-a405-e5420f9df4c3.webp"
   },
   {
     "id": "welcome-to-the-cafe-of-the-dark-guild's-successor",
@@ -2406,12 +2436,6 @@
     "title": "I Destroyed My In-laws and a Constellation Sponsored Me",
     "url": "https://azorafly.com/series/i-destroyed-my-in-laws-and-a-constellation-sponsored-me",
     "cover_url": "https://storage.azorafly.com/upload/series/featured/a5vVlSc5huft2AzUyK1VxgKh1ckCWLbZ/2644d59e-6076-44b5-a94b-3282d0a3e7cb.jpg"
-  },
-  {
-    "id": "this-wasn't-in-my-adoption-plan!",
-    "title": "This Wasn’t in My Adoption Plan!",
-    "url": "https://azorafly.com/series/this-wasn't-in-my-adoption-plan!",
-    "cover_url": "https://storage.azorafly.com/upload/series/featured/02408b52-85d5-445d-9e5c-f7dbcd583bf8/44d3b16c-725a-43ed-9ffe-322dbc0c1319.jpg"
   },
   {
     "id": "transcendence-due-to-a-system-error",
@@ -14222,46 +14246,16 @@
     "cover_url": "https://storage.azorafly.com/2019/09/treading-on-fire-yuwen-jun-29049.jpg"
   },
   {
-    "id": "the-widowed-queen",
-    "title": "the widowed queen",
-    "url": "https://azorafly.com/series/the-widowed-queen",
-    "cover_url": "https://storage.azorafly.com/2022/01/Screenshot__-4.jpg"
+    "id": "wujian-county-office",
+    "title": "Wujian County Office",
+    "url": "https://azorafly.com/series/wujian-county-office",
+    "cover_url": "https://storage.azorafly.com/2021/11/13-1.jpg"
   },
   {
-    "id": "put-the-trash-to-where-lt-belongs",
-    "title": "Put the Trash to where lt Belongs!",
-    "url": "https://azorafly.com/series/put-the-trash-to-where-lt-belongs",
-    "cover_url": "https://storage.azorafly.com/2024/04/BD_C3_.webp"
-  },
-  {
-    "id": "tale-of-hyangdan",
-    "title": "Tale of Hyangdan",
-    "url": "https://azorafly.com/series/tale-of-hyangdan",
-    "cover_url": "https://storage.azorafly.com/2024/08/resource-3.webp"
-  },
-  {
-    "id": "a-business-proposal",
-    "title": "A Business Proposal",
-    "url": "https://azorafly.com/series/a-business-proposal",
-    "cover_url": "https://storage.azorafly.com/2020/12/A-Business-Proposal.jpg"
-  },
-  {
-    "id": "a-hearty-confession",
-    "title": "A Hearty Confession",
-    "url": "https://azorafly.com/series/a-hearty-confession",
-    "cover_url": "https://storage.azorafly.com/2024/08/d4b3012f-d740-4300-962a-561b6b30ac7a.png"
-  },
-  {
-    "id": "the-princess-in-the-dumpster-2",
-    "title": "The Princess in the Dumpster",
-    "url": "https://azorafly.com/series/the-princess-in-the-dumpster-2",
-    "cover_url": "https://storage.azorafly.com/2020/09/resource.jpg"
-  },
-  {
-    "id": "like-family-xx",
-    "title": "Like Family xx",
-    "url": "https://azorafly.com/series/like-family-xx",
-    "cover_url": "https://storage.azorafly.com/2025/01/A381.webp"
+    "id": "blacksun",
+    "title": "BlackSun",
+    "url": "https://azorafly.com/series/blacksun",
+    "cover_url": "https://storage.azorafly.com/2021/04/thumbnail.jpg"
   },
   {
     "id": "shameless-mage",
@@ -14270,46 +14264,52 @@
     "cover_url": "https://storage.azorafly.com/2020/10/600.jpg"
   },
   {
-    "id": "seven-dwarfs",
-    "title": "Seven Dwarfs",
-    "url": "https://azorafly.com/series/seven-dwarfs",
-    "cover_url": "https://storage.azorafly.com/2020/07/IMG_20200723_183308_822.jpg"
+    "id": "sword-gods-life-is-not-that-boring",
+    "title": "Sword God’s Life Is Not That Boring",
+    "url": "https://azorafly.com/series/sword-gods-life-is-not-that-boring",
+    "cover_url": "https://storage.azorafly.com/2021/12/Sword-Gods-Life-Is-Not-That-Boring.jpg"
   },
   {
-    "id": "mirai-no-danna",
-    "title": "mirai no danna",
-    "url": "https://azorafly.com/series/mirai-no-danna",
-    "cover_url": "https://storage.azorafly.com/2020/07/IMG_20200705_200705_194.jpg"
+    "id": "the-devils-daughter",
+    "title": "The Devil's Daughter",
+    "url": "https://azorafly.com/series/the-devils-daughter",
+    "cover_url": "https://storage.azorafly.com/2020/08/OymPGox.jpg"
   },
   {
-    "id": "careful-when-choosing-a-husband",
-    "title": "Careful When Choosing A Husband",
-    "url": "https://azorafly.com/series/careful-when-choosing-a-husband",
-    "cover_url": "https://storage.azorafly.com/2023/05/resource_-_2023-05-06T122803.269.jpg"
+    "id": "a-hearty-confession",
+    "title": "A Hearty Confession",
+    "url": "https://azorafly.com/series/a-hearty-confession",
+    "cover_url": "https://storage.azorafly.com/2024/08/d4b3012f-d740-4300-962a-561b6b30ac7a.png"
   },
   {
-    "id": "kakao-79",
-    "title": "kakao 79%",
-    "url": "https://azorafly.com/series/kakao-79",
-    "cover_url": "https://storage.azorafly.com/2022/01/Kakao-79-.png"
+    "id": "a-woman-who-lost-4-years-and-6-months",
+    "title": "A woman who lost 4 years and 6 months",
+    "url": "https://azorafly.com/series/a-woman-who-lost-4-years-and-6-months",
+    "cover_url": "https://storage.azorafly.com/2025/01/A37.webp"
   },
   {
-    "id": "nitos-lazy-foreign-world-syndrome",
-    "title": "Nito's Lazy Foreign World Syndrome",
-    "url": "https://azorafly.com/series/nitos-lazy-foreign-world-syndrome",
-    "cover_url": "https://storage.azorafly.com/2020/08/unnamed.jpg"
+    "id": "a-love-story-of-a-person",
+    "title": "A Love Story of a Person",
+    "url": "https://azorafly.com/series/a-love-story-of-a-person",
+    "cover_url": "https://storage.azorafly.com/2025/06/Picsart_25-06-14_16-29-32-660.webp"
   },
   {
-    "id": "the-ancient-gods",
-    "title": "The Ancient Gods",
-    "url": "https://azorafly.com/series/the-ancient-gods",
-    "cover_url": "https://storage.azorafly.com/2021/11/The-Ancient-Gods.jpg"
+    "id": "rin-of-the-demon",
+    "title": "Rin of the Demon",
+    "url": "https://azorafly.com/series/rin-of-the-demon",
+    "cover_url": "https://storage.azorafly.com/2021/12/rin-of-the-demon.jpg"
   },
   {
-    "id": "two-heirs",
-    "title": "two Heirs",
-    "url": "https://azorafly.com/series/two-heirs",
-    "cover_url": "https://storage.azorafly.com/2022/04/Two-Heirs.jpg"
+    "id": "kaifuku-jutsushi-no-yarinaoshi",
+    "title": "Kaifuku Jutsushi no Yarinaoshi",
+    "url": "https://azorafly.com/series/kaifuku-jutsushi-no-yarinaoshi",
+    "cover_url": "https://storage.azorafly.com/2020/03/3-e1585161751359.jpg"
+  },
+  {
+    "id": "holy-money",
+    "title": "Holy Money",
+    "url": "https://azorafly.com/series/holy-money",
+    "cover_url": "https://storage.azorafly.com/2024/10/0_20250712074625.webp"
   },
   {
     "id": "press-play-sami",
@@ -14324,16 +14324,94 @@
     "cover_url": "https://storage.azorafly.com/2020/11/resource-1-1.jpg"
   },
   {
-    "id": "the-little-princess-waits-for-the-breakup",
-    "title": "The little princess waits for the breakup",
-    "url": "https://azorafly.com/series/the-little-princess-waits-for-the-breakup",
-    "cover_url": "https://storage.azorafly.com/2025/10/resource-6.webp"
+    "id": "my-awkward-boss",
+    "title": "My Awkward Boss",
+    "url": "https://azorafly.com/series/my-awkward-boss",
+    "cover_url": "https://storage.azorafly.com/2024/04/11.webp"
   },
   {
-    "id": "joseons-ban-on-marriage",
-    "title": "Joseon’s Ban on Marriage",
-    "url": "https://azorafly.com/series/joseons-ban-on-marriage",
-    "cover_url": "https://storage.azorafly.com/2024/04/22.webp"
+    "id": "kill-my-love",
+    "title": "Kill My Love",
+    "url": "https://azorafly.com/series/kill-my-love",
+    "cover_url": "https://storage.azorafly.com/2022/02/Screenshot_2021-04-05-errsimpk05d2df90k64r7bjc-jpg-WEBP-Image-300-×-400-pixels.png"
+  },
+  {
+    "id": "ingrams-lantern",
+    "title": "Ingram’s Lantern",
+    "url": "https://azorafly.com/series/ingrams-lantern",
+    "cover_url": "https://storage.azorafly.com/2022/11/Ingrams-Lantern.jpg"
+  },
+  {
+    "id": "put-the-trash-to-where-lt-belongs",
+    "title": "Put the Trash to where lt Belongs!",
+    "url": "https://azorafly.com/series/put-the-trash-to-where-lt-belongs",
+    "cover_url": "https://storage.azorafly.com/2024/04/BD_C3_.webp"
+  },
+  {
+    "id": "urban-divine-comedy",
+    "title": "Urban Divine Comedy",
+    "url": "https://azorafly.com/series/urban-divine-comedy",
+    "cover_url": "https://storage.azorafly.com/2020/10/80056.jpg"
+  },
+  {
+    "id": "kakao-79",
+    "title": "kakao 79%",
+    "url": "https://azorafly.com/series/kakao-79",
+    "cover_url": "https://storage.azorafly.com/2022/01/Kakao-79-.png"
+  },
+  {
+    "id": "the-ancient-gods",
+    "title": "The Ancient Gods",
+    "url": "https://azorafly.com/series/the-ancient-gods",
+    "cover_url": "https://storage.azorafly.com/2021/11/The-Ancient-Gods.jpg"
+  },
+  {
+    "id": "im-villainess-but-so-popular",
+    "title": "i'm villainess but so popular",
+    "url": "https://azorafly.com/series/im-villainess-but-so-popular",
+    "cover_url": "https://azorafly.com/theme/defaults/nocover.jpg"
+  },
+  {
+    "id": "i-became-young-villain-sister-in-law",
+    "title": "I Became Young Villain Sister In Law",
+    "url": "https://azorafly.com/series/i-became-young-villain-sister-in-law",
+    "cover_url": "https://storage.azorafly.com/2025/08/resource-1.webp"
+  },
+  {
+    "id": "my-younger-sister-chooses-me-tonight",
+    "title": "My younger sister chooses me tonight",
+    "url": "https://azorafly.com/series/my-younger-sister-chooses-me-tonight",
+    "cover_url": "https://storage.azorafly.com/2024/04/BD_C3_B8_AE_C1_EE_.webp"
+  },
+  {
+    "id": "vampire-presidents-past-life-lover",
+    "title": "Vampire President’s Past Life Lover",
+    "url": "https://azorafly.com/series/vampire-presidents-past-life-lover",
+    "cover_url": "https://azorafly.com/theme/defaults/nocover.jpg"
+  },
+  {
+    "id": "seven-knights-dark-servant",
+    "title": "Seven Knights: Dark Servant",
+    "url": "https://azorafly.com/series/seven-knights-dark-servant",
+    "cover_url": "https://storage.azorafly.com/2021/04/PicsArt_02-07-08.11.07_compress82.jpg"
+  },
+  {
+    "id": "another-beginning-with-the-guhuo-bird",
+    "title": "Another beginning with the Guhuo bird",
+    "url": "https://azorafly.com/series/another-beginning-with-the-guhuo-bird",
+    "cover_url": "https://azorafly.com/theme/defaults/nocover.jpg"
+  },
+  {
+    "id": "mirai-no-danna",
+    "title": "mirai no danna",
+    "url": "https://azorafly.com/series/mirai-no-danna",
+    "cover_url": "https://storage.azorafly.com/2020/07/IMG_20200705_200705_194.jpg"
+  },
+  {
+    "id": "im-the-brave-puppy-that-will-save-the-villainess",
+    "title": "I’m The Brave Puppy That Will Save The Villainess",
+    "url": "https://azorafly.com/series/im-the-brave-puppy-that-will-save-the-villainess",
+    "cover_url": "https://azorafly.com/theme/defaults/nocover.jpg"
   },
   {
     "id": "after-school-lessons-for-unripe-apples",
@@ -14348,16 +14426,28 @@
     "cover_url": "https://storage.azorafly.com/2024/08/af6f745c-a8f1-4da7-ba96-4d685750245a.jpg"
   },
   {
-    "id": "wujian-county-office",
-    "title": "Wujian County Office",
-    "url": "https://azorafly.com/series/wujian-county-office",
-    "cover_url": "https://storage.azorafly.com/2021/11/13-1.jpg"
+    "id": "careful-when-choosing-a-husband",
+    "title": "Careful When Choosing A Husband",
+    "url": "https://azorafly.com/series/careful-when-choosing-a-husband",
+    "cover_url": "https://storage.azorafly.com/2023/05/resource_-_2023-05-06T122803.269.jpg"
   },
   {
-    "id": "a-woman-who-lost-4-years-and-6-months",
-    "title": "A woman who lost 4 years and 6 months",
-    "url": "https://azorafly.com/series/a-woman-who-lost-4-years-and-6-months",
-    "cover_url": "https://storage.azorafly.com/2025/01/A37.webp"
+    "id": "the-little-princess-waits-for-the-breakup",
+    "title": "The little princess waits for the breakup",
+    "url": "https://azorafly.com/series/the-little-princess-waits-for-the-breakup",
+    "cover_url": "https://storage.azorafly.com/2025/10/resource-6.webp"
+  },
+  {
+    "id": "nitos-lazy-foreign-world-syndrome",
+    "title": "Nito's Lazy Foreign World Syndrome",
+    "url": "https://azorafly.com/series/nitos-lazy-foreign-world-syndrome",
+    "cover_url": "https://storage.azorafly.com/2020/08/unnamed.jpg"
+  },
+  {
+    "id": "rebirth-from-0-to-1",
+    "title": "Rebirth from 0 to 1",
+    "url": "https://azorafly.com/series/rebirth-from-0-to-1",
+    "cover_url": "https://storage.azorafly.com/2020/07/13.jpg"
   },
   {
     "id": "honey-im-going-on-strike",
@@ -14366,130 +14456,28 @@
     "cover_url": "https://storage.azorafly.com/2021/09/8928dd30d4e4ff87935eaa5fb14835b150b33e53_492_680_136629.jpeg"
   },
   {
-    "id": "my-awkward-boss",
-    "title": "My Awkward Boss",
-    "url": "https://azorafly.com/series/my-awkward-boss",
-    "cover_url": "https://storage.azorafly.com/2024/04/11.webp"
+    "id": "like-family-xx",
+    "title": "Like Family xx",
+    "url": "https://azorafly.com/series/like-family-xx",
+    "cover_url": "https://storage.azorafly.com/2025/01/A381.webp"
   },
   {
-    "id": "a-love-story-of-a-person",
-    "title": "A Love Story of a Person",
-    "url": "https://azorafly.com/series/a-love-story-of-a-person",
-    "cover_url": "https://storage.azorafly.com/2025/06/Picsart_25-06-14_16-29-32-660.webp"
+    "id": "tale-of-hyangdan",
+    "title": "Tale of Hyangdan",
+    "url": "https://azorafly.com/series/tale-of-hyangdan",
+    "cover_url": "https://storage.azorafly.com/2024/08/resource-3.webp"
   },
   {
-    "id": "the-devils-daughter",
-    "title": "The Devil's Daughter",
-    "url": "https://azorafly.com/series/the-devils-daughter",
-    "cover_url": "https://storage.azorafly.com/2020/08/OymPGox.jpg"
-  },
-  {
-    "id": "holy-money",
-    "title": "Holy Money",
-    "url": "https://azorafly.com/series/holy-money",
-    "cover_url": "https://storage.azorafly.com/2024/10/0_20250712074625.webp"
-  },
-  {
-    "id": "daytime-star",
-    "title": "daytime star",
-    "url": "https://azorafly.com/series/daytime-star",
-    "cover_url": "https://storage.azorafly.com/2022/02/41B9472F-D111-47BF-A477-142B605E7625.jpg"
-  },
-  {
-    "id": "i-became-young-villain-sister-in-law",
-    "title": "I Became Young Villain Sister In Law",
-    "url": "https://azorafly.com/series/i-became-young-villain-sister-in-law",
-    "cover_url": "https://storage.azorafly.com/2025/08/resource-1.webp"
+    "id": "joseons-ban-on-marriage",
+    "title": "Joseon’s Ban on Marriage",
+    "url": "https://azorafly.com/series/joseons-ban-on-marriage",
+    "cover_url": "https://storage.azorafly.com/2024/04/22.webp"
   },
   {
     "id": "my-father-is-a-tyrant",
     "title": "My Father Is a Tyrant",
     "url": "https://azorafly.com/series/my-father-is-a-tyrant",
     "cover_url": "https://storage.azorafly.com/2024/08/6e652988-94e0-49ee-bb90-d5532bf80dde.webp"
-  },
-  {
-    "id": "another-beginning-with-the-guhuo-bird",
-    "title": "Another beginning with the Guhuo bird",
-    "url": "https://azorafly.com/series/another-beginning-with-the-guhuo-bird",
-    "cover_url": "https://azorafly.com/theme/defaults/nocover.jpg"
-  },
-  {
-    "id": "vampire-presidents-past-life-lover",
-    "title": "Vampire President’s Past Life Lover",
-    "url": "https://azorafly.com/series/vampire-presidents-past-life-lover",
-    "cover_url": "https://azorafly.com/theme/defaults/nocover.jpg"
-  },
-  {
-    "id": "checkpoint",
-    "title": "Checkpoint",
-    "url": "https://azorafly.com/series/checkpoint",
-    "cover_url": "https://storage.azorafly.com/2020/11/20030.png"
-  },
-  {
-    "id": "sss-grade-cafe-in-front-of-the-dungeon",
-    "title": "SSS-Grade Cafe in Front of The Dungeon",
-    "url": "https://azorafly.com/series/sss-grade-cafe-in-front-of-the-dungeon",
-    "cover_url": "https://storage.azorafly.com/2025/11/resource9.webp"
-  },
-  {
-    "id": "kill-my-love",
-    "title": "Kill My Love",
-    "url": "https://azorafly.com/series/kill-my-love",
-    "cover_url": "https://storage.azorafly.com/2022/02/Screenshot_2021-04-05-errsimpk05d2df90k64r7bjc-jpg-WEBP-Image-300-×-400-pixels.png"
-  },
-  {
-    "id": "my-younger-sister-chooses-me-tonight",
-    "title": "My younger sister chooses me tonight",
-    "url": "https://azorafly.com/series/my-younger-sister-chooses-me-tonight",
-    "cover_url": "https://storage.azorafly.com/2024/04/BD_C3_B8_AE_C1_EE_.webp"
-  },
-  {
-    "id": "im-the-brave-puppy-that-will-save-the-villainess",
-    "title": "I’m The Brave Puppy That Will Save The Villainess",
-    "url": "https://azorafly.com/series/im-the-brave-puppy-that-will-save-the-villainess",
-    "cover_url": "https://azorafly.com/theme/defaults/nocover.jpg"
-  },
-  {
-    "id": "seven-knights-dark-servant",
-    "title": "Seven Knights: Dark Servant",
-    "url": "https://azorafly.com/series/seven-knights-dark-servant",
-    "cover_url": "https://storage.azorafly.com/2021/04/PicsArt_02-07-08.11.07_compress82.jpg"
-  },
-  {
-    "id": "im-villainess-but-so-popular",
-    "title": "i'm villainess but so popular",
-    "url": "https://azorafly.com/series/im-villainess-but-so-popular",
-    "cover_url": "https://azorafly.com/theme/defaults/nocover.jpg"
-  },
-  {
-    "id": "kaifuku-jutsushi-no-yarinaoshi",
-    "title": "Kaifuku Jutsushi no Yarinaoshi",
-    "url": "https://azorafly.com/series/kaifuku-jutsushi-no-yarinaoshi",
-    "cover_url": "https://storage.azorafly.com/2020/03/3-e1585161751359.jpg"
-  },
-  {
-    "id": "urban-divine-comedy",
-    "title": "Urban Divine Comedy",
-    "url": "https://azorafly.com/series/urban-divine-comedy",
-    "cover_url": "https://storage.azorafly.com/2020/10/80056.jpg"
-  },
-  {
-    "id": "ingrams-lantern",
-    "title": "Ingram’s Lantern",
-    "url": "https://azorafly.com/series/ingrams-lantern",
-    "cover_url": "https://storage.azorafly.com/2022/11/Ingrams-Lantern.jpg"
-  },
-  {
-    "id": "sword-gods-life-is-not-that-boring",
-    "title": "Sword God’s Life Is Not That Boring",
-    "url": "https://azorafly.com/series/sword-gods-life-is-not-that-boring",
-    "cover_url": "https://storage.azorafly.com/2021/12/Sword-Gods-Life-Is-Not-That-Boring.jpg"
-  },
-  {
-    "id": "ultra-alter",
-    "title": "ultra alter",
-    "url": "https://azorafly.com/series/ultra-alter",
-    "cover_url": "https://azorafly.com/theme/defaults/nocover.jpg"
   },
   {
     "id": "the-hero-manhua",
