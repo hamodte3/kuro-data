@@ -11,8 +11,8 @@ DATA_DIR = os.path.join("data", "seanovel")
 CATALOG_FILE = os.path.join(DATA_DIR, "catalog.json")
 GLOBAL_NEW_FILE = os.path.join("data", "new.json")
 
-# عدد الروايات المحدثة حديثاً التي يتم فحص تفاصيلها وفصولها في كل دورة
-DETAILS_SYNC_LIMIT = 30  # فحص أحدث 30 رواية نشطة لسرعة التنفيذ ومنع التايم آوت
+# فحص أحدث 30 رواية نشطة في كل دورة لمنع استهلاك وقت الجلسة
+DETAILS_SYNC_LIMIT = 30 
 
 os.makedirs(DATA_DIR, exist_ok=True)
 os.makedirs("data", exist_ok=True)
@@ -186,7 +186,7 @@ def sync_seanovel():
     except Exception as e:
         print(f"تنبيه أثناء قراءة Sitemap: {e}")
 
-    # 4. معالجة الروايات النشطة في الواجهة وتحديث فصولها
+    # 4. معالجة الروايات النشطة وتحديث فصولها
     targets = active_slugs_this_run[:DETAILS_SYNC_LIMIT]
     print(f"\n⚡ فحص وتحديث فصول {len(targets)} رواية نشطة من التحديثات الأخيرة...")
     
@@ -280,11 +280,11 @@ def sync_seanovel():
             print(f"خطأ أثناء تجهيز {slug}: {e}")
 
     # ================== 5. الدمج الذكي للكتالوج ==================
-    # الروايات المحدثة تصعد للأول، وبقية الأرشيف المكتشف والقديم يبقى بالأسفل
+    # الروايات المحدثة تأخذ الصدارة (Index 0)، والأرشيف القديم يبقى في الخلف
     fresh_ids = {x["id"] for x in freshly_scraped}
     remaining_old = [x for x in old_catalog if x.get("id") not in fresh_ids]
 
-    # إضافة أي روايات جديدة تم اكتشافها عبر Sitemap ولم تُفحص بعد
+    # إضافة أي أعمال مكتشفة من الـ Sitemap ولم تسحب تفاصيلها بعد
     for s in discovered_slugs:
         if s not in fresh_ids and s not in old_map:
             remaining_old.append({
@@ -305,7 +305,7 @@ def sync_seanovel():
 
     print(f"\n💾 تم حفظ الفهرس العام المدمج: {len(final_merged_catalog)} رواية (الأحدث في الصدارة).")
 
-    # تحديث ملف الإشعارات العام
+    # تحديث إشعارات new.json
     if new_releases:
         update_global_new_releases(new_releases)
 
@@ -314,7 +314,7 @@ def sync_seanovel():
 def auto_push_to_github():
     print("\n📤 فحص ورفع تحديثات بحر الروايات إلى GitHub...")
     try:
-        # فحص مجلد data/ كاملاً لضمان رفع الكاتلوج وملف الإشعارات data/new.json
+        # فحص مجلد data/ كاملاً لضمان رفع الفهرس وملف الإشعارات data/new.json
         status = subprocess.run(
             ["git", "status", "--porcelain", "data/"], 
             capture_output=True, 
