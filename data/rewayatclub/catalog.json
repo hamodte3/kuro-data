@@ -3,649 +3,1181 @@
     "id": "legend-of-swordsman",
     "title": "أسطورة السياف",
     "url": "https://rewayat.club/novel/legend-of-swordsman",
-    "cover_url": "",
+    "cover_url": "https://api.rewayat.club/media/novel/Legend%20Of%20Swordsman/poster/Legend-of-Swordsman.cover.jpg",
     "type": "رواية",
     "status": "مستمر",
-    "rating": ""
+    "rating": "",
+    "total_chapters": 4101,
+    "genres": [
+      "أكشن",
+      "فانتازيا",
+      "مهارات القتال",
+      "مغامرة",
+      "رومانسي"
+    ]
   },
   {
     "id": "online-cultivation",
     "title": "الزراعة اون لاين",
     "url": "https://rewayat.club/novel/online-cultivation",
-    "cover_url": "",
+    "cover_url": "https://api.rewayat.club/media/novel/online-cultivation/f493.cover.jpg",
     "type": "رواية",
     "status": "مستمر",
-    "rating": ""
+    "rating": "",
+    "total_chapters": 2627,
+    "genres": [
+      "كوميديا",
+      "أكشن",
+      "مهارات القتال",
+      "مغامرة",
+      "رومانسي",
+      "حريم"
+    ]
   },
   {
     "id": "my-vampire-system",
     "title": "نظام مصاص الدماء الخاص بي",
     "url": "https://rewayat.club/novel/my-vampire-system",
-    "cover_url": "",
+    "cover_url": "https://api.rewayat.club/media/novel/My%20vampire%20system/poster/300_1593644509036.cover.webp",
     "type": "رواية",
-    "status": "مستمر",
-    "rating": ""
+    "status": "مكتملة",
+    "rating": "",
+    "total_chapters": 2548,
+    "genres": [
+      "أكشن",
+      "سحر"
+    ]
   },
   {
     "id": "full-marks-hidden-marriage-pick-up-a-son-get-a-free-husband",
     "title": "علامات كامله لزواج مخفي: التقط ابنًا ، واحصل على زوج مجاني",
     "url": "https://rewayat.club/novel/full-marks-hidden-marriage-pick-up-a-son-get-a-free-husband",
-    "cover_url": "",
+    "cover_url": "https://api.rewayat.club/media/novel/Full%20Marks%20Hidden%20Marriage%3A%20Pick%20Up%20a%20Son%2C%20Get%20a%20Free%20Husband/poster/IMG_5856.cover.JPG",
     "type": "رواية",
-    "status": "مستمر",
-    "rating": ""
+    "status": "مكتملة",
+    "rating": "",
+    "total_chapters": 2159,
+    "genres": [
+      "رومانسي"
+    ]
   },
   {
     "id": "the-innkeeper",
     "title": "صاحب الحانة",
     "url": "https://rewayat.club/novel/the-innkeeper",
-    "cover_url": "",
+    "cover_url": "https://api.rewayat.club/media/novel/the-innkeeper/de28.cover.jpg",
     "type": "رواية",
     "status": "مستمر",
-    "rating": ""
+    "rating": "",
+    "total_chapters": 2005,
+    "genres": [
+      "كوميديا",
+      "أكشن",
+      "فانتازيا",
+      "مهارات القتال",
+      "مغامرة",
+      "قوى خارقة",
+      "سحر",
+      "رعب"
+    ]
   },
   {
     "id": "shadow-slave",
     "title": "عبد الظل",
     "url": "https://rewayat.club/novel/shadow-slave",
-    "cover_url": "",
+    "cover_url": "https://api.rewayat.club/media/novel/shadow-slave/04ee.cover.jpg",
     "type": "رواية",
     "status": "مستمر",
-    "rating": ""
+    "rating": "",
+    "total_chapters": 1794,
+    "genres": [
+      "أكشن",
+      "فانتازيا",
+      "مغامرة",
+      "رومانسي",
+      "خيال علمي"
+    ]
   },
   {
     "id": "princess-is-glamorous-in-modern-day",
     "title": "الأميرة ساحرة في العصر الحديث",
     "url": "https://rewayat.club/novel/princess-is-glamorous-in-modern-day",
-    "cover_url": "",
+    "cover_url": "https://api.rewayat.club/media/novel/princess-is-glamorous-in-modern-day/d885.cover.jpg",
     "type": "رواية",
     "status": "مستمر",
-    "rating": ""
+    "rating": "",
+    "total_chapters": 1608,
+    "genres": [
+      "دراما",
+      "رومانسي"
+    ]
   },
   {
     "id": "trash-of-the-count-family",
     "title": "قمامه عائلة الكونت",
     "url": "https://rewayat.club/novel/trash-of-the-count-family",
-    "cover_url": "",
+    "cover_url": "https://api.rewayat.club/media/novel/trash-of-the-count-family/ffe0.cover.jpg",
     "type": "رواية",
     "status": "مستمر",
-    "rating": ""
+    "rating": "",
+    "total_chapters": 1546,
+    "genres": [
+      "كوميديا",
+      "أكشن",
+      "فانتازيا"
+    ]
   },
   {
     "id": "emperors-domination",
     "title": "هيمنة الإمبراطور",
     "url": "https://rewayat.club/novel/emperors-domination",
-    "cover_url": "",
+    "cover_url": "https://api.rewayat.club/media/novel/Emperor's%20Domination/poster/liqiye.cover.jpg",
     "type": "رواية",
     "status": "مستمر",
-    "rating": ""
+    "rating": "",
+    "total_chapters": 1507,
+    "genres": [
+      "أكشن",
+      "فانتازيا",
+      "مهارات القتال",
+      "مغامرة",
+      "قوى خارقة",
+      "حريم"
+    ]
   },
   {
     "id": "hail-the-king",
     "title": "حيوا الملك",
     "url": "https://rewayat.club/novel/hail-the-king",
-    "cover_url": "",
+    "cover_url": "https://api.rewayat.club/media/novel/Hail%20The%20King/poster/JqJaZWy4jb3YPvQ7WP8RFg6RT34mUQXQD41SOVlh8LHqBDGydoMPuL6tvIZX8_zPYvvIf.cover.jpg",
     "type": "رواية",
-    "status": "مستمر",
-    "rating": ""
+    "status": "مكتملة",
+    "rating": "",
+    "total_chapters": 1469,
+    "genres": [
+      "أكشن",
+      "فانتازيا",
+      "مهارات القتال",
+      "مغامرة",
+      "رومانسي",
+      "حريم"
+    ]
   },
   {
     "id": "lord-of-the-mysteries-2",
     "title": "سيد الغوامض",
     "url": "https://rewayat.club/novel/lord-of-the-mysteries-2",
-    "cover_url": "",
+    "cover_url": "https://api.rewayat.club/media/novel/lord-of-the-mysteries-2/e9d9.cover.jpg",
     "type": "رواية",
-    "status": "مستمر",
-    "rating": ""
+    "status": "مكتملة",
+    "rating": "",
+    "total_chapters": 1441,
+    "genres": [
+      "فانتازيا"
+    ]
   },
   {
     "id": "my-disciples-are-all-villains",
     "title": "تلاميذي كلهم أشرار",
     "url": "https://rewayat.club/novel/my-disciples-are-all-villains",
-    "cover_url": "",
+    "cover_url": "https://api.rewayat.club/media/novel/My%20Disciples%20Are%20All%20Villains/poster/mydiscipleallvillain2.cover.jpg",
     "type": "رواية",
     "status": "مستمر",
-    "rating": ""
+    "rating": "",
+    "total_chapters": 1419,
+    "genres": [
+      "فانتازيا",
+      "مهارات القتال",
+      "مغامرة"
+    ]
   },
   {
     "id": "this-is-really-not-mechanical-ascension",
     "title": "هذا ليس ارتقاء ميكانيكيا حقا",
     "url": "https://rewayat.club/novel/this-is-really-not-mechanical-ascension",
-    "cover_url": "",
+    "cover_url": "https://api.rewayat.club/media/novel/this-is-really-not-mechanical-ascension/1706.cover.jpeg",
     "type": "رواية",
     "status": "مستمر",
-    "rating": ""
+    "rating": "",
+    "total_chapters": 1418,
+    "genres": [
+      "خيال علمي",
+      "أكشن",
+      "قوى خارقة",
+      "فانتازيا"
+    ]
   },
   {
     "id": "venerated-venomous-consort",
     "title": "القرين السام المبجل",
     "url": "https://rewayat.club/novel/venerated-venomous-consort",
-    "cover_url": "",
+    "cover_url": "https://api.rewayat.club/media/novel/VENERATED%20VENOMOUS%20CONSORT/poster/VENERATED_VENOMOUS_CONSORT.cover.jpg",
     "type": "رواية",
     "status": "مستمر",
-    "rating": ""
+    "rating": "",
+    "total_chapters": 1403,
+    "genres": [
+      "مغامرة",
+      "رومانسي"
+    ]
   },
   {
     "id": "re-evolution-online",
     "title": "إعادة تطور اون لاين",
     "url": "https://rewayat.club/novel/re-evolution-online",
-    "cover_url": "",
+    "cover_url": "https://api.rewayat.club/media/novel/re-evolution-online/6a83.cover.jpg",
     "type": "رواية",
     "status": "مستمر",
-    "rating": ""
+    "rating": "",
+    "total_chapters": 1393,
+    "genres": [
+      "مغامرة"
+    ]
   },
   {
     "id": "wu-dong-qian-kun",
     "title": "الكون القتالي",
     "url": "https://rewayat.club/novel/wu-dong-qian-kun",
-    "cover_url": "",
+    "cover_url": "https://api.rewayat.club/media/novel/wu-dong-qian-kun/a661.cover.jpg",
     "type": "رواية",
-    "status": "مستمر",
-    "rating": ""
+    "status": "مكتملة",
+    "rating": "",
+    "total_chapters": 1319,
+    "genres": [
+      "أكشن",
+      "فانتازيا",
+      "مهارات القتال",
+      "مغامرة",
+      "رومانسي"
+    ]
   },
   {
     "id": "my-house-of-horrors",
     "title": "منزل الرعب خاصتي",
     "url": "https://rewayat.club/novel/my-house-of-horrors",
-    "cover_url": "",
+    "cover_url": "https://api.rewayat.club/media/novel/My%20House%20of%20Horrors/poster/cover.cover.jpg",
     "type": "رواية",
-    "status": "مستمر",
-    "rating": ""
+    "status": "مكتملة",
+    "rating": "",
+    "total_chapters": 1214,
+    "genres": [
+      "كوميديا",
+      "رعب"
+    ]
   },
   {
     "id": "super-god-gene",
     "title": "جينات الإله الخارقة",
     "url": "https://rewayat.club/novel/super-god-gene",
-    "cover_url": "",
+    "cover_url": "https://api.rewayat.club/media/novel/SUPER%20GOD%20GENE/poster/Super-God-Gene.cover.jpg",
     "type": "رواية",
     "status": "مستمر",
-    "rating": ""
+    "rating": "",
+    "total_chapters": 1204,
+    "genres": [
+      "أكشن",
+      "فانتازيا",
+      "مهارات القتال",
+      "مغامرة",
+      "رومانسي",
+      "خيال علمي"
+    ]
   },
   {
     "id": "global-lord-100-drop-rate",
     "title": "الورد العالمي   نسبة السقوط مئة بالمئة",
     "url": "https://rewayat.club/novel/global-lord-100-drop-rate",
-    "cover_url": "",
+    "cover_url": "https://api.rewayat.club/media/novel/global-lord-100-drop-rate/49fc.cover.jpg",
     "type": "رواية",
     "status": "مستمر",
-    "rating": ""
+    "rating": "",
+    "total_chapters": 1142,
+    "genres": [
+      "سحر",
+      "فانتازيا",
+      "مهارات القتال",
+      "مغامرة"
+    ]
   },
   {
     "id": "omniscient-reader-viewpoint",
     "title": "وجهة نظر قارئ يعرف كل شيء",
     "url": "https://rewayat.club/novel/omniscient-reader-viewpoint",
-    "cover_url": "",
+    "cover_url": "https://api.rewayat.club/media/novel/Omniscient%20Reader%20Viewpoint/poster/85183943_518002575793000_4892411403085807616_n.cover.jpg",
     "type": "رواية",
-    "status": "مستمر",
-    "rating": ""
+    "status": "مكتملة",
+    "rating": "",
+    "total_chapters": 1027,
+    "genres": [
+      "أكشن",
+      "مغامرة"
+    ]
   },
   {
     "id": "royal-secret-i-m-a-princess-1",
     "title": "السر الملكي انا أميرة",
     "url": "https://rewayat.club/novel/royal-secret-i-m-a-princess-1",
-    "cover_url": "",
+    "cover_url": "https://api.rewayat.club/media/novel/royal-secret-i-m-a-princess-1/2dc0.cover.jpeg",
     "type": "رواية",
     "status": "مستمر",
-    "rating": ""
+    "rating": "",
+    "total_chapters": 1013,
+    "genres": [
+      "كوميديا",
+      "دراما",
+      "فانتازيا",
+      "رومانسي"
+    ]
   },
   {
     "id": "rebirth-of-the-thief",
     "title": "ولادة جديدة للص",
     "url": "https://rewayat.club/novel/rebirth-of-the-thief",
-    "cover_url": "",
+    "cover_url": "https://api.rewayat.club/media/novel/Rebirth%20of%20the%20Thief/poster/cover.cover.png",
     "type": "رواية",
-    "status": "مستمر",
-    "rating": ""
+    "status": "مكتملة",
+    "rating": "",
+    "total_chapters": 996,
+    "genres": [
+      "خيال علمي",
+      "أكشن",
+      "دراما",
+      "فانتازيا",
+      "مغامرة"
+    ]
   },
   {
     "id": "cursed-immortality",
     "title": "الخلود الملعون",
     "url": "https://rewayat.club/novel/cursed-immortality",
-    "cover_url": "",
+    "cover_url": "https://api.rewayat.club/media/novel/cursed-immortality/72de.cover.jpg",
     "type": "رواية",
     "status": "مستمر",
-    "rating": ""
+    "rating": "",
+    "total_chapters": 977,
+    "genres": [
+      "أكشن",
+      "فانتازيا",
+      "مغامرة",
+      "خيال علمي",
+      "قوى خارقة"
+    ]
   },
   {
     "id": "cleaver-of-sin",
     "title": "ساطور الخطيئة",
     "url": "https://rewayat.club/novel/cleaver-of-sin",
-    "cover_url": "",
+    "cover_url": "https://api.rewayat.club/media/novel/cleaver-of-sin/0214.cover.jpeg",
     "type": "رواية",
     "status": "مستمر",
-    "rating": ""
+    "rating": "",
+    "total_chapters": 975,
+    "genres": [
+      "أكشن",
+      "فانتازيا"
+    ]
   },
   {
     "id": "i-quietly-became-a-big-boss-in-the-novice-village",
     "title": "لقد أصبحت بهدوء رئيس كبير في قرية المبتدئين",
     "url": "https://rewayat.club/novel/i-quietly-became-a-big-boss-in-the-novice-village",
-    "cover_url": "",
+    "cover_url": "https://api.rewayat.club/media/novel/i-quietly-became-a-big-boss-in-the-novice-village/2ed8.cover.jpg",
     "type": "رواية",
     "status": "مستمر",
-    "rating": ""
+    "rating": "",
+    "total_chapters": 961,
+    "genres": [
+      "كوميديا",
+      "فانتازيا",
+      "مهارات القتال",
+      "مغامرة",
+      "قوى خارقة"
+    ]
   },
   {
     "id": "advent-of-the-three-calamities-1",
     "title": "ظهور كوارث ثلاث",
     "url": "https://rewayat.club/novel/advent-of-the-three-calamities-1",
-    "cover_url": "",
+    "cover_url": "https://api.rewayat.club/media/novel/advent-of-the-three-calamities-1/f960.cover.jpg",
     "type": "رواية",
     "status": "مستمر",
-    "rating": ""
+    "rating": "",
+    "total_chapters": 949,
+    "genres": [
+      "كوميديا",
+      "دراما",
+      "فانتازيا",
+      "مغامرة",
+      "رومانسي",
+      "الحياة المدرسية",
+      "سحر"
+    ]
   },
   {
     "id": "science-and-technology-library",
     "title": "مكتبة العلوم و التكنولوجيا",
     "url": "https://rewayat.club/novel/science-and-technology-library",
-    "cover_url": "",
+    "cover_url": "https://api.rewayat.club/media/novel/science-and-technology-library/ab8c.cover.png",
     "type": "رواية",
     "status": "مستمر",
-    "rating": ""
+    "rating": "",
+    "total_chapters": 945,
+    "genres": [
+      "خيال علمي",
+      "حريم",
+      "رومانسي"
+    ]
   },
   {
     "id": "immortal-space",
     "title": "الفضاء الخالد",
     "url": "https://rewayat.club/novel/immortal-space",
-    "cover_url": "",
+    "cover_url": "https://api.rewayat.club/media/novel/immortal-space/72fd.cover.jpg",
     "type": "رواية",
-    "status": "مستمر",
-    "rating": ""
+    "status": "مكتملة",
+    "rating": "",
+    "total_chapters": 926,
+    "genres": [
+      "فانتازيا"
+    ]
   },
   {
     "id": "against-the-gods",
     "title": "ضد الالهه",
     "url": "https://rewayat.club/novel/against-the-gods",
-    "cover_url": "",
+    "cover_url": "https://api.rewayat.club/media/novel/Against%20The%20Gods/poster/large______.cover.jpg",
     "type": "رواية",
     "status": "مستمر",
-    "rating": ""
+    "rating": "",
+    "total_chapters": 919,
+    "genres": [
+      "أكشن",
+      "دراما",
+      "فانتازيا",
+      "مهارات القتال",
+      "مغامرة",
+      "حريم"
+    ]
   },
   {
     "id": "dragon-marked-war-god",
     "title": "سيد القتال ذو علامة التنين",
     "url": "https://rewayat.club/novel/dragon-marked-war-god",
-    "cover_url": "",
+    "cover_url": "https://api.rewayat.club/media/novel/Dragon-Marked%20War%20God/poster/large_Dragon-MarkedWarGod.cover.jpg",
     "type": "رواية",
     "status": "مستمر",
-    "rating": ""
+    "rating": "",
+    "total_chapters": 907,
+    "genres": [
+      "كوميديا",
+      "أكشن",
+      "فانتازيا",
+      "مهارات القتال",
+      "مغامرة",
+      "رومانسي"
+    ]
   },
   {
     "id": "birth-of-the-demonic-sword",
     "title": "ولادة السيف الشيطاني",
     "url": "https://rewayat.club/novel/birth-of-the-demonic-sword",
-    "cover_url": "",
+    "cover_url": "https://api.rewayat.club/media/novel/Birth%20of%20the%20Demonic%20Sword/poster/Birth-of-the-Demonic-Sword.cover.jpg",
     "type": "رواية",
     "status": "مستمر",
-    "rating": ""
+    "rating": "",
+    "total_chapters": 895,
+    "genres": [
+      "أكشن",
+      "دراما",
+      "فانتازيا",
+      "مهارات القتال",
+      "مغامرة",
+      "سحر"
+    ]
   },
   {
     "id": "longevity-start-with-infinite-blue-bar",
     "title": "الخلود البداية بشريط الطاقة الأزرق اللانهائي",
     "url": "https://rewayat.club/novel/longevity-start-with-infinite-blue-bar",
-    "cover_url": "",
+    "cover_url": "https://api.rewayat.club/media/novel/longevity-start-with-infinite-blue-bar/ca92.cover.jpeg",
     "type": "رواية",
-    "status": "مستمر",
-    "rating": ""
+    "status": "مكتملة",
+    "rating": "",
+    "total_chapters": 894,
+    "genres": [
+      "أكشن",
+      "فانتازيا",
+      "مهارات القتال",
+      "مغامرة",
+      "قوى خارقة"
+    ]
   },
   {
     "id": "how-to-survive-as-the-second-son-of-a-mage-family",
     "title": "كيفية البقاء على قيد الحياة كابن ثاني في عائلة السحرة",
     "url": "https://rewayat.club/novel/how-to-survive-as-the-second-son-of-a-mage-family",
-    "cover_url": "",
+    "cover_url": "https://api.rewayat.club/media/novel/how-to-survive-as-the-second-son-of-a-mage-family/d3af.cover.jpeg",
     "type": "رواية",
     "status": "مستمر",
-    "rating": ""
+    "rating": "",
+    "total_chapters": 890,
+    "genres": [
+      "سحر",
+      "دراما",
+      "فانتازيا"
+    ]
   },
   {
     "id": "divine-throne-of-primordial-blood",
     "title": "العرش الإلهي للدم البدائي",
     "url": "https://rewayat.club/novel/divine-throne-of-primordial-blood",
-    "cover_url": "",
+    "cover_url": "https://api.rewayat.club/media/novel/Divine%20Throne%20of%20Primordial%20Blood/poster/c50d1f64fc83c1e5859ac01dd20f06fe.cover.jpeg",
     "type": "رواية",
     "status": "مستمر",
-    "rating": ""
+    "rating": "",
+    "total_chapters": 890,
+    "genres": [
+      "كوميديا",
+      "أكشن",
+      "فانتازيا"
+    ]
   },
   {
     "id": "the-legendary-mechanic",
     "title": "الميكانيكي الأسطوري",
     "url": "https://rewayat.club/novel/the-legendary-mechanic",
-    "cover_url": "",
+    "cover_url": "https://api.rewayat.club/media/novel/The%20Legendary%20Mechanic/poster/300.cover.jpg",
     "type": "رواية",
     "status": "مستمر",
-    "rating": ""
+    "rating": "",
+    "total_chapters": 880,
+    "genres": [
+      "خيال علمي",
+      "أكشن",
+      "فانتازيا"
+    ]
   },
   {
     "id": "the-strongest-gene",
     "title": "أقوى الجينات",
     "url": "https://rewayat.club/novel/the-strongest-gene",
-    "cover_url": "",
+    "cover_url": "https://api.rewayat.club/media/novel/The%20Strongest%20Gene/poster/Capture.cover.PNG",
     "type": "رواية",
-    "status": "مستمر",
-    "rating": ""
+    "status": "مكتملة",
+    "rating": "",
+    "total_chapters": 872,
+    "genres": [
+      "قوى خارقة",
+      "أكشن",
+      "دراما",
+      "فانتازيا",
+      "مهارات القتال"
+    ]
   },
   {
     "id": "the-author-s-pov",
     "title": "وجهة نظر المؤلف",
     "url": "https://rewayat.club/novel/the-author-s-pov",
-    "cover_url": "",
+    "cover_url": "https://api.rewayat.club/media/novel/the-author-s-pov/9ab9.cover.jpeg",
     "type": "رواية",
     "status": "مستمر",
-    "rating": ""
+    "rating": "",
+    "total_chapters": 861,
+    "genres": [
+      "كوميديا",
+      "أكشن",
+      "دراما",
+      "مغامرة",
+      "فانتازيا",
+      "رومانسي"
+    ]
   },
   {
     "id": "the-evolution-of-a-goblin-to-the-peak",
     "title": "تطور عفريت إلى الذروة",
     "url": "https://rewayat.club/novel/the-evolution-of-a-goblin-to-the-peak",
-    "cover_url": "",
+    "cover_url": "https://api.rewayat.club/media/novel/The%20Evolution%20of%20a%20Goblin%20to%20the%20Peak/poster/23F01167-038D-4995-BB51-07C9A42D1FF8.cover.jpeg",
     "type": "رواية",
     "status": "مستمر",
-    "rating": ""
+    "rating": "",
+    "total_chapters": 850,
+    "genres": [
+      "أكشن",
+      "دراما",
+      "فانتازيا",
+      "مهارات القتال",
+      "مغامرة",
+      "خيال علمي",
+      "قوى خارقة",
+      "سحر"
+    ]
   },
   {
     "id": "extra-s-death-i-am-the-son-of-hades",
     "title": "موت شخصية اضافية انا ابن هاديس",
     "url": "https://rewayat.club/novel/extra-s-death-i-am-the-son-of-hades",
-    "cover_url": "",
+    "cover_url": "https://api.rewayat.club/media/novel/extra-s-death-i-am-the-son-of-hades/b0b4.cover.jpg",
     "type": "رواية",
-    "status": "مستمر",
-    "rating": ""
+    "status": "مكتملة",
+    "rating": "",
+    "total_chapters": 847,
+    "genres": [
+      "كوميديا",
+      "أكشن",
+      "فانتازيا",
+      "مغامرة",
+      "رومانسي",
+      "الحياة المدرسية",
+      "سحر"
+    ]
   },
   {
     "id": "nine-star-body-art",
     "title": "فن النجوم التسعة المهيمنة للجسد",
     "url": "https://rewayat.club/novel/nine-star-body-art",
-    "cover_url": "",
+    "cover_url": "https://api.rewayat.club/media/novel/Nine%20Star%20Hegemon%20Body%20Art/poster/Nine-Star-Hegemon-Body-Arts.cover.jpg",
     "type": "رواية",
     "status": "مستمر",
-    "rating": ""
+    "rating": "",
+    "total_chapters": 845,
+    "genres": [
+      "كوميديا",
+      "أكشن",
+      "فانتازيا",
+      "مهارات القتال",
+      "مغامرة",
+      "قوى خارقة",
+      "حريم"
+    ]
   },
   {
     "id": "sss-talent-from-trash-to-tyrant-1",
     "title": "الموهبة أسطورية من حثالة إلى الطاغية",
     "url": "https://rewayat.club/novel/sss-talent-from-trash-to-tyrant-1",
-    "cover_url": "",
+    "cover_url": "https://api.rewayat.club/media/novel/sss-talent-from-trash-to-tyrant-1/66f3.cover.jpg",
     "type": "رواية",
     "status": "مستمر",
-    "rating": ""
+    "rating": "",
+    "total_chapters": 834,
+    "genres": [
+      "أكشن",
+      "فانتازيا",
+      "مهارات القتال",
+      "مغامرة",
+      "رومانسي",
+      "سحر",
+      "حريم"
+    ]
   },
   {
     "id": "start-with-the-invincible-immortal-emperor-and-create-the-first-sect-in-all-worlds",
     "title": "ابدأ بالإمبراطور الخالد الذي لا يقهر وأنشئ أول طائفة في جميع العوالم",
     "url": "https://rewayat.club/novel/start-with-the-invincible-immortal-emperor-and-create-the-first-sect-in-all-worlds",
-    "cover_url": "",
+    "cover_url": "https://api.rewayat.club/media/novel/start-with-the-invincible-immortal-emperor-and-create-the-first-sect-in-all-worlds/fdd2.cover.jpg",
     "type": "رواية",
     "status": "مستمر",
-    "rating": ""
+    "rating": "",
+    "total_chapters": 825,
+    "genres": [
+      "كوميديا",
+      "أكشن",
+      "دراما",
+      "فانتازيا",
+      "مهارات القتال"
+    ]
   },
   {
     "id": "a-regressor-s-tale-of-cultivation",
     "title": "حكاية زراعة العائد",
     "url": "https://rewayat.club/novel/a-regressor-s-tale-of-cultivation",
-    "cover_url": "",
+    "cover_url": "https://api.rewayat.club/media/novel/a-regressor-s-tale-of-cultivation/e988.cover.jpg",
     "type": "رواية",
-    "status": "مستمر",
-    "rating": ""
+    "status": "مكتملة",
+    "rating": "",
+    "total_chapters": 817,
+    "genres": [
+      "كوميديا",
+      "أكشن",
+      "دراما",
+      "مهارات القتال",
+      "مغامرة",
+      "رومانسي",
+      "قوى خارقة",
+      "رعب"
+    ]
   },
   {
     "id": "babylonian-empire",
     "title": "الامبراطورية البابلية",
     "url": "https://rewayat.club/novel/babylonian-empire",
-    "cover_url": "",
+    "cover_url": "https://api.rewayat.club/media/novel/babylonian-empire/44d1.cover.jpg",
     "type": "رواية",
     "status": "مستمر",
-    "rating": ""
+    "rating": "",
+    "total_chapters": 813,
+    "genres": [
+      "أكشن",
+      "دراما",
+      "رومانسي"
+    ]
   },
   {
     "id": "second-live-ranker",
     "title": "ضابط الصف الذي يعيش حياة ثانية",
     "url": "https://rewayat.club/novel/second-live-ranker",
-    "cover_url": "",
+    "cover_url": "https://api.rewayat.club/media/novel/Second%20Live%20Ranker/poster/37378.cover.jpg",
     "type": "رواية",
-    "status": "مستمر",
-    "rating": ""
+    "status": "مكتملة",
+    "rating": "",
+    "total_chapters": 812,
+    "genres": [
+      "أكشن",
+      "قوى خارقة",
+      "فانتازيا",
+      "مهارات القتال"
+    ]
   },
   {
     "id": "the-s-classes-that-i-raised-2",
     "title": "فصولْ S التي رفعتها",
     "url": "https://rewayat.club/novel/the-s-classes-that-i-raised-2",
-    "cover_url": "",
+    "cover_url": "https://api.rewayat.club/media/novel/The%20S-Classes%20That%20I%20Raised/poster/FDF2B6AF-0D33-4E73-9BBA-75A13E2C2073.cover.jpeg",
     "type": "رواية",
     "status": "مستمر",
-    "rating": ""
+    "rating": "",
+    "total_chapters": 795,
+    "genres": [
+      "كوميديا",
+      "أكشن",
+      "فانتازيا",
+      "مغامرة"
+    ]
   },
   {
     "id": "global-reincarnation-only-i-know-the-plot",
     "title": "التناسخ العالمي أنا فقط أعرف الحبكة",
     "url": "https://rewayat.club/novel/global-reincarnation-only-i-know-the-plot",
-    "cover_url": "",
+    "cover_url": "https://api.rewayat.club/media/novel/global-reincarnation-only-i-know-the-plot/e6d8.cover.jpg",
     "type": "رواية",
     "status": "مستمر",
-    "rating": ""
+    "rating": "",
+    "total_chapters": 792,
+    "genres": [
+      "أكشن",
+      "فانتازيا",
+      "مغامرة"
+    ]
   },
   {
     "id": "getting-a-technology-system-in-modern-day",
     "title": "الحصول على نظام التكنولوجيا في العصر الحديث",
     "url": "https://rewayat.club/novel/getting-a-technology-system-in-modern-day",
-    "cover_url": "",
+    "cover_url": "https://api.rewayat.club/media/novel/getting-a-technology-system-in-modern-day/b682.cover.jpg",
     "type": "رواية",
     "status": "مستمر",
-    "rating": ""
+    "rating": "",
+    "total_chapters": 784,
+    "genres": [
+      "خيال علمي",
+      "كوميديا",
+      "أكشن",
+      "رومانسي"
+    ]
   },
   {
     "id": "childhood-friends-of-the-zenith",
     "title": "صديق الطفولة في  الزينيث",
     "url": "https://rewayat.club/novel/childhood-friends-of-the-zenith",
-    "cover_url": "",
+    "cover_url": "https://api.rewayat.club/media/novel/childhood-friends-of-the-zenith/9b64.cover.png",
     "type": "رواية",
     "status": "مستمر",
-    "rating": ""
+    "rating": "",
+    "total_chapters": 763,
+    "genres": [
+      "كوميديا",
+      "أكشن",
+      "دراما",
+      "مهارات القتال",
+      "مغامرة",
+      "رومانسي",
+      "حريم"
+    ]
   },
   {
     "id": "tales-of-the-world-devouring-serpent",
     "title": "حكايات العالم تلتهم الثعبان",
     "url": "https://rewayat.club/novel/tales-of-the-world-devouring-serpent",
-    "cover_url": "",
+    "cover_url": "https://api.rewayat.club/media/novel/Tales%20Of%20The%20World%20Devouring%20Serpent/poster/56297D38-1ECA-45F5-86D6-F3218F2DDB8C.cover.jpeg",
     "type": "رواية",
-    "status": "مستمر",
-    "rating": ""
+    "status": "مكتملة",
+    "rating": "",
+    "total_chapters": 740,
+    "genres": [
+      "أكشن",
+      "فانتازيا",
+      "مغامرة",
+      "خيال علمي",
+      "قوى خارقة"
+    ]
   },
   {
     "id": "the-academy-weapon-replicator",
     "title": "مكرر الاسلحة في الاكاديمية",
     "url": "https://rewayat.club/novel/the-academy-weapon-replicator",
-    "cover_url": "",
+    "cover_url": "https://api.rewayat.club/media/novel/the-academy-weapon-replicator/f3aa.cover.jpg",
     "type": "رواية",
-    "status": "مستمر",
-    "rating": ""
+    "status": "مكتملة",
+    "rating": "",
+    "total_chapters": 727,
+    "genres": [
+      "أكشن",
+      "فانتازيا",
+      "مهارات القتال",
+      "مغامرة",
+      "الحياة المدرسية",
+      "قوى خارقة",
+      "سحر"
+    ]
   },
   {
     "id": "summon-the-skeletons-to-farm-i-make-money-lying-down",
     "title": "أستدعي الهياكل العظمية للزراعة  وأجني المال وأنا مستلق",
     "url": "https://rewayat.club/novel/summon-the-skeletons-to-farm-i-make-money-lying-down",
-    "cover_url": "",
+    "cover_url": "https://api.rewayat.club/media/novel/summon-the-skeletons-to-farm-i-make-money-lying-down/8e16.cover.jpg",
     "type": "رواية",
     "status": "مستمر",
-    "rating": ""
+    "rating": "",
+    "total_chapters": 725,
+    "genres": [
+      "خيال علمي",
+      "قوى خارقة",
+      "سحر",
+      "مهارات القتال"
+    ]
   },
   {
     "id": "ring-chaos",
     "title": "خاتم الفوضى",
     "url": "https://rewayat.club/novel/ring-chaos",
-    "cover_url": "",
+    "cover_url": "https://api.rewayat.club/media/novel/ring-chaos/2788.cover.png",
     "type": "رواية",
     "status": "مستمر",
-    "rating": ""
+    "rating": "",
+    "total_chapters": 722,
+    "genres": [
+      "أكشن",
+      "فانتازيا",
+      "رومانسي"
+    ]
   },
   {
     "id": "the-system-gave-me-immortality-and-i-outlasted-everyone",
     "title": "منحني النظام الخلود وعشت أطول من الجميع",
     "url": "https://rewayat.club/novel/the-system-gave-me-immortality-and-i-outlasted-everyone",
-    "cover_url": "",
+    "cover_url": "https://api.rewayat.club/media/novel/the-system-gave-me-immortality-and-i-outlasted-everyone/81b6.cover.png",
     "type": "رواية",
     "status": "مستمر",
-    "rating": ""
+    "rating": "",
+    "total_chapters": 716,
+    "genres": [
+      "دراما",
+      "فانتازيا",
+      "مغامرة"
+    ]
   },
   {
     "id": "a-sect-leader-s-ascension",
     "title": "صعود زعيم الطائفة",
     "url": "https://rewayat.club/novel/a-sect-leader-s-ascension",
-    "cover_url": "",
+    "cover_url": "https://api.rewayat.club/media/novel/a-sect-leader-s-ascension/b4ad.cover.png",
     "type": "رواية",
     "status": "مستمر",
-    "rating": ""
+    "rating": "",
+    "total_chapters": 704,
+    "genres": [
+      "أكشن",
+      "دراما",
+      "فانتازيا",
+      "مهارات القتال",
+      "مغامرة",
+      "سحر"
+    ]
   },
   {
     "id": "walker-of-the-worlds-2",
     "title": "مسير العوالم",
     "url": "https://rewayat.club/novel/walker-of-the-worlds-2",
-    "cover_url": "",
+    "cover_url": "https://api.rewayat.club/media/novel/walker-of-the-worlds-2/add0.cover.jpg",
     "type": "رواية",
     "status": "مستمر",
-    "rating": ""
+    "rating": "",
+    "total_chapters": 669,
+    "genres": [
+      "فانتازيا",
+      "مهارات القتال"
+    ]
   },
   {
     "id": "people-are-writing-diaries-in-douluo-something-is-wrong-with-them",
     "title": "الناس يكتبون مذكرات في دولو  هناك شيء خاطئ بهم",
     "url": "https://rewayat.club/novel/people-are-writing-diaries-in-douluo-something-is-wrong-with-them",
-    "cover_url": "",
+    "cover_url": "https://api.rewayat.club/media/novel/people-are-writing-diaries-in-douluo-something-is-wrong-with-them/fb84.cover.jpg",
     "type": "رواية",
     "status": "مستمر",
-    "rating": ""
+    "rating": "",
+    "total_chapters": 663,
+    "genres": [
+      "كوميديا"
+    ]
   },
   {
     "id": "diary-of-a-dead-wizard-1",
     "title": "يـومـيـات سـاحـر مـيـت",
     "url": "https://rewayat.club/novel/diary-of-a-dead-wizard-1",
-    "cover_url": "",
+    "cover_url": "https://api.rewayat.club/media/novel/diary-of-a-dead-wizard-1/5247.cover.jpg",
     "type": "رواية",
     "status": "مستمر",
-    "rating": ""
+    "rating": "",
+    "total_chapters": 655,
+    "genres": [
+      "أكشن",
+      "فانتازيا",
+      "مهارات القتال",
+      "مغامرة",
+      "قوى خارقة",
+      "سحر",
+      "رعب"
+    ]
   },
   {
     "id": "major-league-system",
     "title": "نظام الدوري الرئيسي",
     "url": "https://rewayat.club/novel/major-league-system",
-    "cover_url": "",
+    "cover_url": "https://api.rewayat.club/media/novel/major-league-system/18ab.cover.jpg",
     "type": "رواية",
     "status": "مستمر",
-    "rating": ""
+    "rating": "",
+    "total_chapters": 654,
+    "genres": [
+      "كوميديا",
+      "أكشن",
+      "الحياة المدرسية",
+      "رومانسي"
+    ]
   },
   {
     "id": "the-mighty-system",
     "title": "أصبحت أخ ساسكي مع نظام",
     "url": "https://rewayat.club/novel/the-mighty-system",
-    "cover_url": "",
+    "cover_url": "https://api.rewayat.club/media/novel/the-mighty-system/184f.cover.JPEG",
     "type": "رواية",
     "status": "مستمر",
-    "rating": ""
+    "rating": "",
+    "total_chapters": 653,
+    "genres": [
+      "أكشن",
+      "دراما",
+      "فانتازيا",
+      "مهارات القتال",
+      "قوى خارقة"
+    ]
   },
   {
     "id": "children-of-the-holy-emperor",
     "title": "أبناء الإمبراطور المقدس",
     "url": "https://rewayat.club/novel/children-of-the-holy-emperor",
-    "cover_url": "",
+    "cover_url": "https://api.rewayat.club/media/novel/children-of-the-holy-emperor/2096.cover.jpg",
     "type": "رواية",
     "status": "مستمر",
-    "rating": ""
+    "rating": "",
+    "total_chapters": 634,
+    "genres": [
+      "كوميديا",
+      "أكشن",
+      "فانتازيا",
+      "مغامرة"
+    ]
   },
   {
     "id": "i-logged-in-ten-thousand-years-early-but-i-m-the-mastermind-behind-it-all",
     "title": "لقد دخلت قبل عشرة الاف سنة لكنني العقل المدبر وراء كل ذلك",
     "url": "https://rewayat.club/novel/i-logged-in-ten-thousand-years-early-but-i-m-the-mastermind-behind-it-all",
-    "cover_url": "",
+    "cover_url": "https://api.rewayat.club/media/novel/i-logged-in-ten-thousand-years-early-but-i-m-the-mastermind-behind-it-all/b162.cover.jpeg",
     "type": "رواية",
     "status": "مستمر",
-    "rating": ""
+    "rating": "",
+    "total_chapters": 632,
+    "genres": [
+      "قوى خارقة",
+      "فانتازيا",
+      "مهارات القتال",
+      "مغامرة"
+    ]
   },
   {
     "id": "my-three-wives-are-beautiful-vampires-1",
     "title": "زوجاتي الثلاث مصاصات دماء جميلات",
     "url": "https://rewayat.club/novel/my-three-wives-are-beautiful-vampires-1",
-    "cover_url": "",
+    "cover_url": "https://api.rewayat.club/media/novel/my-three-wives-are-beautiful-vampires-1/ee05.cover.jpg",
     "type": "رواية",
     "status": "مستمر",
-    "rating": ""
+    "rating": "",
+    "total_chapters": 618,
+    "genres": [
+      "أكشن",
+      "مهارات القتال",
+      "رومانسي",
+      "قوى خارقة",
+      "حريم"
+    ]
   },
   {
     "id": "the-devil-s-cage-new",
     "title": "قفص الشيطان جديد",
     "url": "https://rewayat.club/novel/the-devil-s-cage-new",
-    "cover_url": "",
+    "cover_url": "https://api.rewayat.club/media/novel/the-devil-s-cage-new/5aec.cover.jpg",
     "type": "رواية",
     "status": "مستمر",
-    "rating": ""
+    "rating": "",
+    "total_chapters": 617,
+    "genres": [
+      "أكشن",
+      "فانتازيا",
+      "مغامرة"
+    ]
   },
   {
     "id": "the-lord-is-empire",
     "title": "امبراطورية الرب",
     "url": "https://rewayat.club/novel/the-lord-is-empire",
-    "cover_url": "",
+    "cover_url": "https://api.rewayat.club/media/novel/the%20lord%20is%20empire/poster/The-Lord-is-Empire.cover.jpg",
     "type": "رواية",
     "status": "مستمر",
-    "rating": ""
+    "rating": "",
+    "total_chapters": 617,
+    "genres": [
+      "أكشن",
+      "فانتازيا",
+      "مهارات القتال",
+      "مغامرة",
+      "خيال علمي",
+      "حريم"
+    ]
   },
   {
     "id": "dark-magus-returns",
     "title": "عودة ساحر الظلام",
     "url": "https://rewayat.club/novel/dark-magus-returns",
-    "cover_url": "",
+    "cover_url": "https://api.rewayat.club/media/novel/dark-magus-returns/c868.cover.jpg",
     "type": "رواية",
     "status": "مستمر",
-    "rating": ""
+    "rating": "",
+    "total_chapters": 611,
+    "genres": [
+      "أكشن",
+      "فانتازيا",
+      "مهارات القتال",
+      "قوى خارقة",
+      "سحر"
+    ]
   },
   {
     "id": "starting-with-an-sss-rank-swordsmanship-talent",
     "title": "ابدا بموهبة سيف من الدرجة س س س",
     "url": "https://rewayat.club/novel/starting-with-an-sss-rank-swordsmanship-talent",
-    "cover_url": "",
+    "cover_url": "https://api.rewayat.club/media/novel/starting-with-an-sss-rank-swordsmanship-talent/4c4c.cover.png",
     "type": "رواية",
     "status": "مستمر",
-    "rating": ""
+    "rating": "",
+    "total_chapters": 609,
+    "genres": [
+      "أكشن",
+      "دراما",
+      "فانتازيا",
+      "مهارات القتال",
+      "مغامرة",
+      "خيال علمي",
+      "قوى خارقة",
+      "سحر"
+    ]
   },
   {
     "id": "akagi-destruction",
     "title": "أكاغي الدمار",
     "url": "https://rewayat.club/novel/akagi-destruction",
-    "cover_url": "",
+    "cover_url": "https://api.rewayat.club/media/novel/Akagi%20%22Destruction%22/poster/e13efcaad70ffef7aaba6c18ab452052nnn.cover.jpg",
     "type": "رواية",
     "status": "مستمر",
-    "rating": ""
+    "rating": "",
+    "total_chapters": 607,
+    "genres": [
+      "أكشن",
+      "فانتازيا",
+      "مهارات القتال",
+      "مغامرة",
+      "قوى خارقة",
+      "سحر",
+      "رعب"
+    ]
   },
   {
     "id": "everybody-is-kung-fu-fighting-while-i-started-a-farm",
     "title": "الجميع يقاتلون كونغ فو بينما بدأت الزراعة",
     "url": "https://rewayat.club/novel/everybody-is-kung-fu-fighting-while-i-started-a-farm",
-    "cover_url": "",
+    "cover_url": "https://api.rewayat.club/media/novel/everybody-is-kung-fu-fighting-while-i-started-a-farm/19d8.cover.jpg",
     "type": "رواية",
     "status": "مستمر",
-    "rating": ""
+    "rating": "",
+    "total_chapters": 601,
+    "genres": [
+      "كوميديا",
+      "أكشن",
+      "مهارات القتال",
+      "مغامرة"
+    ]
   },
   {
     "id": "longevity-begins-with-chicken-raising",
     "title": "الخلود يبدأ بتربية الدجاج",
     "url": "https://rewayat.club/novel/longevity-begins-with-chicken-raising",
-    "cover_url": "",
+    "cover_url": "https://api.rewayat.club/media/novel/longevity-begins-with-chicken-raising/05bd.cover.jpg",
     "type": "رواية",
     "status": "مستمر",
-    "rating": ""
+    "rating": "",
+    "total_chapters": 598,
+    "genres": [
+      "دراما"
+    ]
   },
   {
     "id": "the-great-ming-in-the-box",
     "title": "سلالة مينغ العظيمة في الصندوق",
     "url": "https://rewayat.club/novel/the-great-ming-in-the-box",
-    "cover_url": "",
+    "cover_url": "https://api.rewayat.club/media/novel/the-great-ming-in-the-box/8b07.cover.jpeg",
     "type": "رواية",
     "status": "مستمر",
-    "rating": ""
+    "rating": "",
+    "total_chapters": 593,
+    "genres": [
+      "أكشن",
+      "فانتازيا",
+      "مهارات القتال",
+      "رومانسي"
+    ]
   },
   {
     "id": "assistant-manager-kim-hate-idol",
     "title": "مساعد ألمدير كيم يكره الآيدول",
     "url": "https://rewayat.club/novel/assistant-manager-kim-hate-idol",
-    "cover_url": "",
+    "cover_url": "https://api.rewayat.club/media/novel/assistant-manager-kim-hate-idol/af25.cover.jpg",
     "type": "رواية",
     "status": "مستمر",
-    "rating": ""
+    "rating": "",
+    "total_chapters": 578,
+    "genres": [
+      "كوميديا",
+      "دراما"
+    ]
   },
   {
     "id": "the-100th-regression-of-the-max-level-player",
@@ -1107,6 +1639,22 @@
     ]
   },
   {
+    "id": "desperate-people-accept-the-seed-of-my-soul",
+    "title": "أيها اليائسون اقبلوا بذرة روحي",
+    "url": "https://rewayat.club/novel/desperate-people-accept-the-seed-of-my-soul",
+    "cover_url": "https://api.rewayat.club/media/novel/desperate-people-accept-the-seed-of-my-soul/e34f.cover.jpg",
+    "type": "رواية",
+    "status": "مستمر",
+    "rating": "",
+    "total_chapters": 479,
+    "genres": [
+      "قوى خارقة",
+      "أكشن",
+      "دراما",
+      "رعب"
+    ]
+  },
+  {
     "id": "world-of-warcraft-foreign-realm-domination",
     "title": "عالم الحروب :الهيمنة على العالم الغريب",
     "url": "https://rewayat.club/novel/world-of-warcraft-foreign-realm-domination",
@@ -1155,22 +1703,6 @@
       "سحر",
       "فانتازيا",
       "مهارات القتال"
-    ]
-  },
-  {
-    "id": "desperate-people-accept-the-seed-of-my-soul",
-    "title": "أيها اليائسون اقبلوا بذرة روحي",
-    "url": "https://rewayat.club/novel/desperate-people-accept-the-seed-of-my-soul",
-    "cover_url": "https://api.rewayat.club/media/novel/desperate-people-accept-the-seed-of-my-soul/e34f.cover.jpg",
-    "type": "رواية",
-    "status": "مستمر",
-    "rating": "",
-    "total_chapters": 475,
-    "genres": [
-      "قوى خارقة",
-      "أكشن",
-      "دراما",
-      "رعب"
     ]
   },
   {
@@ -1918,7 +2450,7 @@
     "type": "رواية",
     "status": "مستمر",
     "rating": "",
-    "total_chapters": 393,
+    "total_chapters": 394,
     "genres": [
       "أكشن",
       "سحر",
@@ -2654,6 +3186,22 @@
     ]
   },
   {
+    "id": "my-martial-arts-protagonist-hates-me",
+    "title": "بطلي في رواية الفنون القتالية يكرهني",
+    "url": "https://rewayat.club/novel/my-martial-arts-protagonist-hates-me",
+    "cover_url": "https://api.rewayat.club/media/novel/my-martial-arts-protagonist-hates-me/ed3a.cover.jpeg",
+    "type": "رواية",
+    "status": "مستمر",
+    "rating": "",
+    "total_chapters": 323,
+    "genres": [
+      "كوميديا",
+      "أكشن",
+      "دراما",
+      "مغامرة"
+    ]
+  },
+  {
     "id": "bleach-the-strongest-shinigami",
     "title": "بليتش أقوى شينيجامي",
     "url": "https://rewayat.club/novel/bleach-the-strongest-shinigami",
@@ -2691,19 +3239,18 @@
     ]
   },
   {
-    "id": "my-martial-arts-protagonist-hates-me",
-    "title": "بطلي في رواية الفنون القتالية يكرهني",
-    "url": "https://rewayat.club/novel/my-martial-arts-protagonist-hates-me",
-    "cover_url": "https://api.rewayat.club/media/novel/my-martial-arts-protagonist-hates-me/ed3a.cover.jpeg",
+    "id": "i-became-a-dad-with-golden-hands",
+    "title": "أصبحت أبا ذا يدين ذهبيتين",
+    "url": "https://rewayat.club/novel/i-became-a-dad-with-golden-hands",
+    "cover_url": "https://api.rewayat.club/media/novel/i-became-a-dad-with-golden-hands/fd18.cover.jpeg",
     "type": "رواية",
     "status": "مستمر",
     "rating": "",
     "total_chapters": 322,
     "genres": [
       "كوميديا",
-      "أكشن",
       "دراما",
-      "مغامرة"
+      "فانتازيا"
     ]
   },
   {
@@ -2753,21 +3300,6 @@
     "genres": [
       "قوى خارقة",
       "سحر",
-      "فانتازيا"
-    ]
-  },
-  {
-    "id": "i-became-a-dad-with-golden-hands",
-    "title": "أصبحت أبا ذا يدين ذهبيتين",
-    "url": "https://rewayat.club/novel/i-became-a-dad-with-golden-hands",
-    "cover_url": "https://api.rewayat.club/media/novel/i-became-a-dad-with-golden-hands/fd18.cover.jpeg",
-    "type": "رواية",
-    "status": "مستمر",
-    "rating": "",
-    "total_chapters": 316,
-    "genres": [
-      "كوميديا",
-      "دراما",
       "فانتازيا"
     ]
   },
@@ -2837,6 +3369,19 @@
     ]
   },
   {
+    "id": "from-shining-star-to-failed-band-leader",
+    "title": "من نجم لامع إلى قائد فرقة ايدول فاشلة",
+    "url": "https://rewayat.club/novel/from-shining-star-to-failed-band-leader",
+    "cover_url": "https://api.rewayat.club/media/novel/from-shining-star-to-failed-band-leader/5e39.cover.jpg",
+    "type": "رواية",
+    "status": "مستمر",
+    "rating": "",
+    "total_chapters": 312,
+    "genres": [
+      "فانتازيا"
+    ]
+  },
+  {
     "id": "reborn-in-naruto-as-madara-grandson",
     "title": "ولدت من جديد في ناروتو باسم حفيد مادارا",
     "url": "https://rewayat.club/novel/reborn-in-naruto-as-madara-grandson",
@@ -2850,19 +3395,6 @@
       "مهارات القتال",
       "مغامرة",
       "رومانسي"
-    ]
-  },
-  {
-    "id": "from-shining-star-to-failed-band-leader",
-    "title": "من نجم لامع إلى قائد فرقة ايدول فاشلة",
-    "url": "https://rewayat.club/novel/from-shining-star-to-failed-band-leader",
-    "cover_url": "https://api.rewayat.club/media/novel/from-shining-star-to-failed-band-leader/5e39.cover.jpg",
-    "type": "رواية",
-    "status": "مستمر",
-    "rating": "",
-    "total_chapters": 311,
-    "genres": [
-      "فانتازيا"
     ]
   },
   {
@@ -3314,6 +3846,26 @@
     ]
   },
   {
+    "id": "the-aster-empire-the-cube",
+    "title": "إمبراطورية أستر {المكعب}",
+    "url": "https://rewayat.club/novel/the-aster-empire-the-cube",
+    "cover_url": "https://api.rewayat.club/media/novel/the-aster-empire-the-cube/d87f.cover.jpg",
+    "type": "رواية",
+    "status": "مستمر",
+    "rating": "",
+    "total_chapters": 280,
+    "genres": [
+      "خيال علمي",
+      "كوميديا",
+      "دراما",
+      "مغامرة",
+      "قوى خارقة",
+      "سحر",
+      "فانتازيا",
+      "أكشن"
+    ]
+  },
+  {
     "id": "heavenly-restriction-user-of-the-gojo-clan-i-refuse-to-be-cut-in-half",
     "title": "مستخدم القيود السماوية لعشيرة غوجو أرفض أن أقطع إلى نصفين",
     "url": "https://rewayat.club/novel/heavenly-restriction-user-of-the-gojo-clan-i-refuse-to-be-cut-in-half",
@@ -3355,26 +3907,6 @@
       "فانتازيا",
       "مهارات القتال",
       "مغامرة"
-    ]
-  },
-  {
-    "id": "the-aster-empire-the-cube",
-    "title": "إمبراطورية أستر {المكعب}",
-    "url": "https://rewayat.club/novel/the-aster-empire-the-cube",
-    "cover_url": "https://api.rewayat.club/media/novel/the-aster-empire-the-cube/d87f.cover.jpg",
-    "type": "رواية",
-    "status": "مستمر",
-    "rating": "",
-    "total_chapters": 277,
-    "genres": [
-      "خيال علمي",
-      "كوميديا",
-      "دراما",
-      "مغامرة",
-      "قوى خارقة",
-      "سحر",
-      "فانتازيا",
-      "أكشن"
     ]
   },
   {
