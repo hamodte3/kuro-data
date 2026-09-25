@@ -8,11 +8,13 @@ BASE_WEB = "https://rewayat.club"
 API_BASE = "https://api.rewayat.club/api"
 DATA_DIR = os.path.join("data", "rewayatclub")
 CATALOG_FILE = os.path.join(DATA_DIR, "catalog.json")
+GLOBAL_NEW_FILE = os.path.join("data", "new.json")
 
-# 🎯 حدد عدد الصفحات للجولات السريعة (مثلاً 3 أو 5 صفحات لتحديث الجديد فقط)
+# 🎯 حدد عدد الصفحات للجولات السريعة (تحديث الجديد فقط)
 MAX_PAGES = 10 
 
 os.makedirs(DATA_DIR, exist_ok=True)
+os.makedirs("data", exist_ok=True)
 
 HEADERS = {
     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36",
@@ -23,6 +25,32 @@ HEADERS = {
 
 def get_session():
     return requests.Session(impersonate="chrome124", headers=HEADERS)
+
+def update_global_new_releases(new_releases: list):
+    """دمج الإشعارات الجديدة في data/new.json دون مسح تحديثات المصادر الأخرى"""
+    if not new_releases:
+        return
+
+    existing_releases = []
+    if os.path.exists(GLOBAL_NEW_FILE):
+        try:
+            with open(GLOBAL_NEW_FILE, "r", encoding="utf-8") as f:
+                existing_releases = json.load(f)
+        except Exception:
+            existing_releases = []
+
+    combined = new_releases + existing_releases
+    seen = set()
+    deduped = []
+    for item in combined:
+        key = (item.get("id"), item.get("chapter"))
+        if key not in seen:
+            seen.add(key)
+            deduped.append(item)
+
+    with open(GLOBAL_NEW_FILE, "w", encoding="utf-8") as f:
+        json.dump(deduped[:10], f, ensure_ascii=False, indent=2)
+    print(f"🔔 تم تسجيل {len(new_releases)} تحديث جديد لنادي الروايات في {GLOBAL_NEW_FILE}")
 
 def safe_get(session, url: str, max_retries: int = 3, timeout: int = 25):
     for attempt in range(1, max_retries + 1):
@@ -47,31 +75,29 @@ def normalize_cover(raw_cover: str) -> str:
     if not c.startswith("http"): return f"{BASE_WEB}/{c}"
     return c
 
-def load_existing_catalog() -> dict:
-    """تحميل الكتالوج المحفوظ مسبقاً كـ Dictionary لتحديثه بدون فقدان القديم"""
-    if not os.path.exists(CATALOG_FILE):
-        return {}
-    try:
-        with open(CATALOG_FILE, "r", encoding="utf-8") as f:
-            items = json.load(f)
-            return {item["id"]: item for item in items if "id" in item}
-    except Exception as e:
-        print(f"⚠️ خطأ أثناء قراءة الكتالوج القديم: {e}")
-        return {}
-
 def sync_rewayatclub():
     session = get_session()
     print(f"🚀 بدء المزامنة التراكمية لنادي الروايات (فحص أول {MAX_PAGES} صفحات)...")
 
     # 1. استرجاع الأرشيف المخزن مسبقاً
-    catalog_map = load_existing_catalog()
-    print(f"📂 تم تحميل {len(catalog_map)} رواية محفوظة مسبقاً.")
+    old_catalog = []
+    if os.path.exists(CATALOG_FILE):
+        try:
+            with open(CATALOG_FILE, "r", encoding="utf-8") as f:
+                old_catalog = json.load(f)
+        except Exception as e:
+            print(f"⚠️ خطأ أثناء قراءة الكتالوج القديم: {e}")
+            old_catalog = []
 
-    active_slugs_this_run = []  # الروايات التي تم رصدها في هذه الجولة فقط
+    old_map = {item["id"]: item for item in old_catalog if "id" in item}
+    print(f"📂 تم تحميل {len(old_map)} رواية محفوظة مسبقاً في الأرشيف.")
+
+    freshly_scraped = []
+    seen_fresh_ids = set()
     page = 1
     consecutive_empty = 0
 
-    # 2. سحب الصفحات المحددة وتحديث بياناتها
+    # 2. سحب الصفحات المحددة
     while page <= MAX_PAGES:
         url = f"{API_BASE}/novels/?ordering=-num_chapters&page={page}"
         res = safe_get(session, url, timeout=20)
@@ -98,8 +124,10 @@ def sync_rewayatclub():
 
         for novel in results:
             slug = novel.get("slug")
-            if not slug: continue
+            if not slug or slug in seen_fresh_ids:
+                continue
 
+            seen_fresh_ids.add(slug)
             title = novel.get("arabic") or novel.get("english") or slug
             cover = normalize_cover(novel.get("poster_url") or novel.get("poster") or "")
             genres = [g.get("arabic") for g in novel.get("genre", []) if isinstance(g, dict) and g.get("arabic")]
@@ -116,39 +144,24 @@ def sync_rewayatclub():
                 "total_chapters": total_chapters,
                 "genres": genres if genres else ["فنون قتال", "زراعة"]
             }
-
-            # تحديث أو إضافة الرواية للكتالوج التراكمي
-            if slug in catalog_map:
-                catalog_map[slug].update(entry)
-            else:
-                catalog_map[slug] = entry
-
-            if slug not in active_slugs_this_run:
-                active_slugs_this_run.append(slug)
+            freshly_scraped.append(entry)
 
         print(f"نادي الروايات [صفحة {page}]: تم فحص البيانات بنجاح.")
         page += 1
         time.sleep(0.15)
 
-    # 3. حفظ الكتالوج العام المدمج (القديم + الجديد والمحدث)
-    full_catalog_list = list(catalog_map.values())
-    with open(CATALOG_FILE, "w", encoding="utf-8") as f:
-        json.dump(full_catalog_list, f, ensure_ascii=False, indent=2)
+    # 3. فحص وتحديث فصول الروايات المرصودة وكشف الإشعارات
+    print(f"\n⚡ فحص وتحديث فصول {len(freshly_scraped)} رواية من الجولة الحالية...")
+    new_releases = []
 
-    print(f"\n✨ تم حفظ الكتالوج المدمج بنجاح (المجموع الإجمالي: {len(full_catalog_list)} رواية).")
-
-    # 4. تحديث ملفات الفصول للروايات المرصودة في هذه الجولة فقط
-    print(f"\n⚡ فحص وتحديث فصول {len(active_slugs_this_run)} رواية من الجولة الحالية...")
-
-    for idx, slug in enumerate(active_slugs_this_run, 1):
+    for idx, item in enumerate(freshly_scraped, 1):
+        slug = item["id"]
         file_path = os.path.join(DATA_DIR, f"{slug}.json")
-        item_meta = catalog_map[slug]
-        target_total_ch = item_meta.get("total_chapters", 0)
+        target_total_ch = item.get("total_chapters", 0)
 
         existing_chapters_count = 0
         existing_data = {}
 
-        # فحص إذا كان الملف موجوداً مسبقاً
         if os.path.exists(file_path):
             try:
                 with open(file_path, "r", encoding="utf-8") as f:
@@ -157,12 +170,31 @@ def sync_rewayatclub():
             except Exception:
                 pass
 
-        # ⚡ كاش ذكي: تخطي فوري إذا كانت الفصول متطابقة محلياً
+        prev_chaps = old_map.get(slug, {}).get("total_chapters", 0)
+
+        # التقاط الإشعارات للروايات الجديدة والفصول المحدثة
+        if slug not in old_map:
+            new_releases.append({
+                "id": slug,
+                "title": item["title"],
+                "chapter": f"الفصل {target_total_ch}" if target_total_ch > 0 else "رواية جديدة",
+                "type": "رواية",
+                "cover_url": item["cover_url"]
+            })
+        elif target_total_ch > prev_chaps and target_total_ch > 0:
+            new_releases.append({
+                "id": slug,
+                "title": item["title"],
+                "chapter": f"الفصل {target_total_ch}",
+                "type": "رواية",
+                "cover_url": item["cover_url"]
+            })
+
+        # كاش ذكي: تخطي فوري إذا كانت الفصول متطابقة محلياً
         if existing_chapters_count >= target_total_ch and target_total_ch > 0:
-            print(f"⚡ [{idx}/{len(active_slugs_this_run)}] متطابق ومكتمل: {slug} ({target_total_ch} فصل)")
+            print(f"⚡ [{idx}/{len(freshly_scraped)}] متطابق ومكتمل: {slug} ({target_total_ch} فصل)")
             continue
 
-        # توليد أو استكمال روابط الفصول الناقصة فقط
         chapters_map = existing_data.get("chapters", {})
         if target_total_ch > 0:
             for c in range(1, target_total_ch + 1):
@@ -175,15 +207,15 @@ def sync_rewayatclub():
 
         payload = {
             "id": slug,
-            "title": item_meta["title"],
-            "cover_url": item_meta["cover_url"],
+            "title": item["title"],
+            "cover_url": item["cover_url"],
             "description": existing_data.get("description", "لا يوجد وصف"),
             "type": "رواية",
-            "status": item_meta["status"],
+            "status": item["status"],
             "last_update": "",
             "rating": "",
             "favorites": "",
-            "genres": item_meta.get("genres", []),
+            "genres": item.get("genres", []),
             "is_novel": True,
             "chapters": chapters_map
         }
@@ -191,15 +223,30 @@ def sync_rewayatclub():
         with open(file_path, "w", encoding="utf-8") as f:
             json.dump(payload, f, ensure_ascii=False, indent=2)
 
-        print(f"✓ [{idx}/{len(active_slugs_this_run)}] تم تحديث الفصول: {item_meta['title']} ({len(chapters_map)} فصل)")
+        print(f"✓ [{idx}/{len(freshly_scraped)}] تم تحديث الفصول: {item['title']} ({len(chapters_map)} فصل)")
 
-    print("\n🎉 اكتملت المزامنة التراكمية لنادي الروايات بنجاح!")
+    # ================== 4. الدمج الذكي للكاتلوج ==================
+    fresh_ids = {x["id"] for x in freshly_scraped}
+    remaining_old = [x for x in old_catalog if x.get("id") not in fresh_ids]
+    final_merged_catalog = freshly_scraped + remaining_old
+
+    with open(CATALOG_FILE, "w", encoding="utf-8") as f:
+        json.dump(final_merged_catalog, f, ensure_ascii=False, indent=2)
+
+    print(f"\n💾 تم حفظ الكتالوج المدمج: {len(final_merged_catalog)} رواية (الأحدث في الصدارة).")
+
+    # تحديث إشعارات new.json
+    if new_releases:
+        update_global_new_releases(new_releases)
+
+    print("🎉 اكتملت المزامنة التراكمية لنادي الروايات بنجاح!")
 
 def auto_push_to_github():
     print("\n📤 فحص ورفع البيانات إلى GitHub...")
     try:
+        # فحص مجلد data/ كاملاً لضمان رفع الكاتلوج وملف الإشعارات data/new.json
         status = subprocess.run(
-            ["git", "status", "--porcelain", "data/rewayatclub/"], 
+            ["git", "status", "--porcelain", "data/"], 
             capture_output=True, 
             text=True
         )
@@ -207,11 +254,10 @@ def auto_push_to_github():
             print("✨ لا توجد ملفات جديدة للرفع.")
             return
 
-        subprocess.run(["git", "add", "data/rewayatclub/"], check=True)
-        commit_msg = f"Incremental sync: RewayatClub ({time.strftime('%Y-%m-%d %H:%M')})"
+        subprocess.run(["git", "add", "data/"], check=True)
+        commit_msg = f"Incremental sync: RewayatClub & New Releases ({time.strftime('%Y-%m-%d %H:%M')})"
         subprocess.run(["git", "commit", "-m", commit_msg], check=True)
-        
-        # دفع آمن بدون force
+        subprocess.run(["git", "pull", "--rebase"], check=True)
         subprocess.run(["git", "push", "origin", "main"], check=True)
         print("⚡ تم الرفع بنجاح إلى المستودع!")
     except subprocess.CalledProcessError as e:
