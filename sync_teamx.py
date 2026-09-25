@@ -9,11 +9,13 @@ from curl_cffi import requests
 BASE_URL = "https://olympustaff.com"
 DATA_DIR = os.path.join("data", "teamx")
 CATALOG_FILE = os.path.join(DATA_DIR, "catalog.json")
+GLOBAL_NEW_FILE = os.path.join("data", "new.json")
 
-# 🎯 عدد الصفحات للجولات التراكمية السريعة (3 صفحات كافية لرصد أحدث التحديثات)
-MAX_PAGES = 1000 
+# 🎯 3 صفحات كافية وسريعة جداً لرصد أحدث التحديثات
+MAX_PAGES = 3 
 
 os.makedirs(DATA_DIR, exist_ok=True)
+os.makedirs("data", exist_ok=True)
 
 def get_session():
     session = requests.Session(impersonate="chrome124")
@@ -36,17 +38,31 @@ def normalize_url(raw_url: str) -> str:
         u = f"{BASE_URL}{u}" if u.startswith("/") else f"{BASE_URL}/{u}"
     return u.replace("http://", "https://")
 
-def load_existing_catalog() -> dict:
-    """تحميل الكتالوج القديم كـ Dictionary لتسهيل الدمج والتحديث التراكمي"""
-    if not os.path.exists(CATALOG_FILE):
-        return {}
-    try:
-        with open(CATALOG_FILE, "r", encoding="utf-8") as f:
-            items = json.load(f)
-            return {item["id"]: item for item in items if "id" in item}
-    except Exception as e:
-        print(f"⚠️ تعذر قراءة الكتالوج القديم: {e}")
-        return {}
+def update_global_new_releases(new_releases: list):
+    """دمج الإشعارات الجديدة في data/new.json دون مسح تحديثات المصادر الأخرى"""
+    if not new_releases:
+        return
+
+    existing_releases = []
+    if os.path.exists(GLOBAL_NEW_FILE):
+        try:
+            with open(GLOBAL_NEW_FILE, "r", encoding="utf-8") as f:
+                existing_releases = json.load(f)
+        except Exception:
+            existing_releases = []
+
+    combined = new_releases + existing_releases
+    seen = set()
+    deduped = []
+    for item in combined:
+        key = (item.get("id"), item.get("chapter"))
+        if key not in seen:
+            seen.add(key)
+            deduped.append(item)
+
+    with open(GLOBAL_NEW_FILE, "w", encoding="utf-8") as f:
+        json.dump(deduped[:10], f, ensure_ascii=False, indent=2)
+    print(f"🔔 تم تسجيل {len(new_releases)} تحديث جديد لـ Team X في {GLOBAL_NEW_FILE}")
 
 def scrape_teamx_details(session, slug: str, existing_chapters: dict = None) -> dict:
     url = f"{BASE_URL}/series/{slug}"
@@ -75,7 +91,6 @@ def scrape_teamx_details(session, slug: str, existing_chapters: dict = None) -> 
 
     genres = [a.get_text(strip=True) for a in soup.select("div.review-author-info a")]
 
-    # بدء خريطة الفصول بالفصول المخزنة سابقاً إن وجدت
     chapters_map = existing_chapters.copy() if existing_chapters else {}
     number_regex = re.compile(r"\d+(\.\d+)?")
     found_numbers = set()
@@ -88,7 +103,6 @@ def scrape_teamx_details(session, slug: str, existing_chapters: dict = None) -> 
             match = number_regex.search(raw_num)
             clean_num = match.group(0) if match else raw_num
             
-            # حقل images إلزامي لمنع كراش الـ Serialization
             chapters_map[href] = {
                 "name": clean_num,
                 "images": []
@@ -133,10 +147,20 @@ def sync_teamx():
     print(f"🚀 بدء المزامنة التراكمية لمصدر Team X (فحص أول {MAX_PAGES} صفحات)...")
 
     # 1. استرجاع الأرشيف المخزن مسبقاً
-    catalog_map = load_existing_catalog()
-    print(f"📂 تم تحميل {len(catalog_map)} عمل محفوظ مسبقاً في الأرشيف.")
+    old_catalog = []
+    if os.path.exists(CATALOG_FILE):
+        try:
+            with open(CATALOG_FILE, "r", encoding="utf-8") as f:
+                old_catalog = json.load(f)
+        except Exception as e:
+            print(f"⚠️ تعذر قراءة الكتالوج القديم: {e}")
+            old_catalog = []
 
-    active_slugs_this_run = []
+    old_map = {item["id"]: item for item in old_catalog if "id" in item}
+    print(f"📂 تم تحميل {len(old_map)} عمل محفوظ مسبقاً في الأرشيف.")
+
+    freshly_scraped = []
+    seen_fresh_ids = set()
 
     # 2. فحص الصفحات المحددة فقط
     for page in range(1, MAX_PAGES + 1):
@@ -156,6 +180,9 @@ def sync_teamx():
             if not a_tag: continue
             href = normalize_url(a_tag.get("href", "")).rstrip("/")
             slug = href.split("/")[-1]
+            if slug in seen_fresh_ids: continue
+
+            seen_fresh_ids.add(slug)
             title = a_tag.get("title", "").strip() or slug
             img = it.select_one("img")
             cover = normalize_url(img.get("src", "") or img.get("data-src", ""))
@@ -167,34 +194,21 @@ def sync_teamx():
                 "cover_url": cover,
                 "type": "مانهوا",
                 "status": "مستمر",
-                "rating": ""
+                "rating": "",
+                "total_chapters": old_map.get(slug, {}).get("total_chapters", 0)
             }
-
-            # دمج أو تحديث العمل بالكتالوج التراكمي
-            if slug in catalog_map:
-                catalog_map[slug].update(entry)
-            else:
-                catalog_map[slug] = entry
-
-            if slug not in active_slugs_this_run:
-                active_slugs_this_run.append(slug)
+            freshly_scraped.append(entry)
 
         print(f"Team X [صفحة {page}]: تم فحص الأعمال بنجاح.")
-        time.sleep(0.5)
+        time.sleep(0.4)
 
-    # 3. حفظ الكتالوج المدمج الشامل
-    full_catalog_list = list(catalog_map.values())
-    with open(CATALOG_FILE, "w", encoding="utf-8") as f:
-        json.dump(full_catalog_list, f, ensure_ascii=False, indent=2)
+    # 3. تحديث تفاصيل وفصول الأعمال النشطة وكشف الإشعارات
+    print(f"\n⚡ فحص وتحديث فصول {len(freshly_scraped)} عمل نشط من الجولة الحالية...")
+    new_releases = []
 
-    print(f"\n✨ تم تحديث الكتالوج العام بنجاح (المجموع الإجمالي: {len(full_catalog_list)} عمل).")
-
-    # 4. تحديث تفاصيل وفصول الأعمال التي ظهرت في هذا التشغيل فقط
-    print(f"\n⚡ فحص وتحديث فصول {len(active_slugs_this_run)} عمل نشط من الجولة الحالية...")
-
-    for idx, slug in enumerate(active_slugs_this_run, 1):
+    for idx, item in enumerate(freshly_scraped, 1):
+        slug = item["id"]
         file_path = os.path.join(DATA_DIR, f"{slug}.json")
-        item_meta = catalog_map[slug]
 
         existing_data = {}
         existing_chapters_count = 0
@@ -213,27 +227,64 @@ def sync_teamx():
                 existing_chapters=existing_data.get("chapters")
             )
             target_total = details.get("total_chapters", 0)
+            item["total_chapters"] = target_total
+            item["rating"] = details.get("rating", "")
 
-            # ⚡ كاش ذكي: إذا كانت الفصول مكتملة محلياً، لا داعي لإعادة الكتابة
+            prev_chaps = old_map.get(slug, {}).get("total_chapters", 0)
+
+            # التقاط إشعارات الأعمال الجديدة والفصول المحدثة
+            if slug not in old_map:
+                new_releases.append({
+                    "id": slug,
+                    "title": item["title"],
+                    "chapter": f"الفصل {target_total}" if target_total > 0 else "عمل جديد",
+                    "type": "مانهوا",
+                    "cover_url": item["cover_url"]
+                })
+            elif target_total > prev_chaps and target_total > 0:
+                new_releases.append({
+                    "id": slug,
+                    "title": item["title"],
+                    "chapter": f"الفصل {target_total}",
+                    "type": "مانهوا",
+                    "cover_url": item["cover_url"]
+                })
+
+            # ⚡ كاش ذكي
             if existing_chapters_count >= target_total and target_total > 0:
-                print(f"⚡ [{idx}/{len(active_slugs_this_run)}] متطابق ومكتمل: {details['title']} ({target_total} فصل)")
+                print(f"⚡ [{idx}/{len(freshly_scraped)}] متطابق ومكتمل: {details['title']} ({target_total} فصل)")
                 continue
 
             with open(file_path, "w", encoding="utf-8") as f:
                 json.dump(details, f, ensure_ascii=False, indent=2)
 
-            print(f"✓ [{idx}/{len(active_slugs_this_run)}] تم التحديث: {details['title']} ({len(details['chapters'])} فصل)")
-            time.sleep(0.5)
+            print(f"✓ [{idx}/{len(freshly_scraped)}] تم التحديث: {details['title']} ({len(details['chapters'])} فصل)")
+            time.sleep(0.3)
         except Exception as e:
             print(f"خطأ أثناء تجهيز {slug}: {e}")
 
-    print("\n🎉 اكتملت المزامنة التراكمية لمصدر Team X بنجاح تام!")
+    # ================== 4. الدمج الذكي للكتالوج ==================
+    fresh_ids = {x["id"] for x in freshly_scraped}
+    remaining_old = [x for x in old_catalog if x.get("id") not in fresh_ids]
+    final_merged_catalog = freshly_scraped + remaining_old
+
+    with open(CATALOG_FILE, "w", encoding="utf-8") as f:
+        json.dump(final_merged_catalog, f, ensure_ascii=False, indent=2)
+
+    print(f"\n💾 تم حفظ الكتالوج المدمج: {len(final_merged_catalog)} عمل (الأحدث في الصدارة).")
+
+    # تحديث ملف الإشعارات العام
+    if new_releases:
+        update_global_new_releases(new_releases)
+
+    print("🎉 اكتملت المزامنة التراكمية لمصدر Team X بنجاح تام!")
 
 def auto_push_to_github():
     print("\n📤 فحص ورفع تحديثات Team X إلى GitHub...")
     try:
+        # فحص مجلد data/ كاملاً لضمان رفع الكاتلوج وملف الإشعارات data/new.json
         status = subprocess.run(
-            ["git", "status", "--porcelain", "data/teamx/"], 
+            ["git", "status", "--porcelain", "data/"], 
             capture_output=True, 
             text=True
         )
@@ -241,11 +292,10 @@ def auto_push_to_github():
             print("✨ لا توجد ملفات جديدة للرفع.")
             return
 
-        subprocess.run(["git", "add", "data/teamx/"], check=True)
-        commit_msg = f"Incremental sync: TeamX data ({time.strftime('%Y-%m-%d %H:%M')})"
+        subprocess.run(["git", "add", "data/"], check=True)
+        commit_msg = f"Incremental sync: TeamX & New Releases ({time.strftime('%Y-%m-%d %H:%M')})"
         subprocess.run(["git", "commit", "-m", commit_msg], check=True)
-        
-        # دفع آمن بدون force لحماية التعديلات
+        subprocess.run(["git", "pull", "--rebase"], check=True)
         subprocess.run(["git", "push", "origin", "main"], check=True)
         print("⚡ تم الرفع بنجاح إلى المستودع!")
     except subprocess.CalledProcessError as e:
