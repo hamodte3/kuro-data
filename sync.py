@@ -8,6 +8,7 @@ from curl_cffi import requests
 BASE_URL = "https://azorafly.com"
 DATA_DIR = "data"
 CATALOG_FILE = os.path.join(DATA_DIR, "catalog.json")
+GLOBAL_NEW_FILE = os.path.join(DATA_DIR, "new.json")
 
 # عدد الأعمال التي سنجهز فصولها في ملفات منفصلة
 DETAILS_SYNC_LIMIT = 20
@@ -16,7 +17,7 @@ MAX_PAGES_SAFETY = 1000  # تغطية الفهرس العام
 os.makedirs(DATA_DIR, exist_ok=True)
 
 HEADERS = {
-    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
+    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36",
     "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8",
     "Accept-Language": "ar-SA,ar;q=0.9,en-US;q=0.8,en;q=0.7",
     "Referer": f"{BASE_URL}/",
@@ -79,6 +80,32 @@ def clean_description(raw_desc: str, title: str) -> str:
     ]
     return "\n\n".join(clean_lines).strip() if clean_lines else "لا يوجد وصف."
 
+def update_global_new_releases(new_releases: list):
+    """دمج الإشعارات الجديدة في data/new.json مع المحافظة على التحديثات السابقة"""
+    if not new_releases:
+        return
+
+    existing = []
+    if os.path.exists(GLOBAL_NEW_FILE):
+        try:
+            with open(GLOBAL_NEW_FILE, "r", encoding="utf-8") as f:
+                existing = json.load(f)
+        except Exception:
+            existing = []
+
+    combined = new_releases + existing
+    seen = set()
+    deduped = []
+    for item in combined:
+        key = (item.get("id"), item.get("chapter"))
+        if key not in seen:
+            seen.add(key)
+            deduped.append(item)
+
+    with open(GLOBAL_NEW_FILE, "w", encoding="utf-8") as f:
+        json.dump(deduped[:10], f, ensure_ascii=False, indent=2)
+    print(f"🔔 تم تسجيل {len(new_releases)} تحديث جديد لأزورا في {GLOBAL_NEW_FILE}")
+
 def scrape_manga_details(session, manga_url: str):
     clean_url = normalize_url(manga_url).rstrip("/")
     res = session.get(clean_url, timeout=20)
@@ -96,7 +123,8 @@ def scrape_manga_details(session, manga_url: str):
     if cover_url and not cover_url.startswith("http"): cover_url = f"{BASE_URL}{cover_url}"
     cover_url = cover_url.replace("http://", "https://")
 
-    status_el = soup.select_one(".post-content_item:contains(الحالة), .post-status")
+    # تحديث محدد CSS لحل تحذير BeautifulSoup السابق
+    status_el = soup.select_one('.post-content_item:-soup-contains("الحالة"), .post-status')
     status = format_status(status_el.text if status_el else "")
 
     time_el = soup.find(lambda tag: tag.name in ["span", "div", "p"] and "منذ" in tag.text)
@@ -104,7 +132,9 @@ def scrape_manga_details(session, manga_url: str):
 
     novel_badge = any("رواية" in s.text.strip() for s in soup.select("span.blue, span.bg-blue"))
     is_novel = novel_badge or ("رواية" in title) or ("/novel/" in clean_url)
-    type_el = soup.select_one("div:has(h1:contains(النوع)) div.inline span")
+    
+    # تحديث محدد CSS للنوع
+    type_el = soup.select_one('div:has(h1:-soup-contains("النوع")) div.inline span')
     manga_type = format_type("رواية" if is_novel else (type_el.text.strip() if type_el else "مانهوا"))
 
     genres = [a.text.strip() for a in soup.select(".genres-content a, .manga-tags a") if a.text.strip()]
@@ -114,7 +144,6 @@ def scrape_manga_details(session, manga_url: str):
     rate_el = soup.select_one(".score.font-bold, .post-total-rating .score")
     rating = format_rating(rate_el.text if rate_el else "")
 
-    # استخراج قائمة روابط وأسماء الفصول فقط (بدون الدخول إليها)
     series_slug = clean_url.split("/")[-1]
     chapters_map = {}
 
@@ -154,14 +183,14 @@ def scrape_manga_details(session, manga_url: str):
 def sync_fast():
     session = get_session()
     print("بدء المزامنة الخفيفة (Metadata Only)...")
-    catalog = []
+    freshly_scraped = []
     page = 1
 
     # 1. سحب الفهرس العام
     while page <= MAX_PAGES_SAFETY:
         url = f"{BASE_URL}/series" if page == 1 else f"{BASE_URL}/series?page={page}"
         try:
-            res = session.get(url, timeout=20)
+            res = session.get(url, timeout=25)
             soup = BeautifulSoup(res.text, "html.parser")
             cards = soup.select("div:has(a.text-foreground[href^='/series/'])")
             if not cards: break
@@ -176,12 +205,12 @@ def sync_fast():
                 manga_url = normalize_url(link.get("href", ""))
                 slug = manga_url.rstrip("/").split("/")[-1]
 
-                if not any(item["id"] == slug for item in catalog):
+                if not any(item["id"] == slug for item in freshly_scraped):
                     cover_el = container.select_one("img.object-cover")
                     cover = cover_el.get("src", "").strip() if cover_el else ""
                     if cover and not cover.startswith("http"): cover = f"{BASE_URL}{cover}"
 
-                    catalog.append({
+                    freshly_scraped.append({
                         "id": slug,
                         "title": title,
                         "url": manga_url,
@@ -196,10 +225,10 @@ def sync_fast():
             print(f"خطأ في صفحة {page}: {e}")
             break
 
-    print(f"تم فهرسة {len(catalog)} عمل بنجاح.")
+    print(f"تم فهرسة {len(freshly_scraped)} عمل بنجاح.")
 
-    # 2. جلب تفاصيل وفهرس فصول أول 20 عملاً فقط (طلب واحد لكل عمل)
-    for item in catalog[:DETAILS_SYNC_LIMIT]:
+    # 2. جلب تفاصيل وفهرس فصول أول 20 عملاً فقط
+    for item in freshly_scraped[:DETAILS_SYNC_LIMIT]:
         slug = item["id"]
         file_path = os.path.join(DATA_DIR, f"{slug}.json")
         try:
@@ -215,11 +244,56 @@ def sync_fast():
         except Exception as e:
             print(f"خطأ مع {slug}: {e}")
 
-    # 3. حفظ الفهرس العام
-    with open(CATALOG_FILE, "w", encoding="utf-8") as f:
-        json.dump(catalog, f, ensure_ascii=False, indent=2)
+    # ================== 3. الدمج الذكي وتوليد الإشعارات ==================
+    old_catalog = []
+    if os.path.exists(CATALOG_FILE):
+        try:
+            with open(CATALOG_FILE, "r", encoding="utf-8") as f:
+                old_catalog = json.load(f)
+        except Exception:
+            old_catalog = []
 
-    print(f"\n⚡ اكتملت المزامنة الخاطفة خلال ثوانٍ معدودة!")
+    old_map = {item["id"]: item for item in old_catalog}
+    new_releases = []
+
+    for item in freshly_scraped:
+        m_id = item["id"]
+        current_chaps = item.get("total_chapters", 0)
+        prev_chaps = old_map.get(m_id, {}).get("total_chapters", 0)
+
+        # عمل جديد كلياً
+        if m_id not in old_map:
+            new_releases.append({
+                "id": m_id,
+                "title": item["title"],
+                "chapter": f"الفصل {current_chaps}" if current_chaps > 0 else "عمل جديد",
+                "type": item.get("type", "مانهوا"),
+                "cover_url": item.get("cover_url", "")
+            })
+        # نزل فصل جديد لعمل سابق
+        elif current_chaps > prev_chaps and current_chaps > 0:
+            new_releases.append({
+                "id": m_id,
+                "title": item["title"],
+                "chapter": f"الفصل {current_chaps}",
+                "type": item.get("type", "مانهوا"),
+                "cover_url": item.get("cover_url", "")
+            })
+
+    # الدمج: الجديد في البداية + بقية الأرشيف القديم غير المكرر في الخلف
+    fresh_ids = {x["id"] for x in freshly_scraped}
+    remaining_old = [x for x in old_catalog if x["id"] not in fresh_ids]
+    final_merged_catalog = freshly_scraped + remaining_old
+
+    # حفظ الكاتلوج المدمج النهائي
+    with open(CATALOG_FILE, "w", encoding="utf-8") as f:
+        json.dump(final_merged_catalog, f, ensure_ascii=False, indent=2)
+
+    # تحديث إشعارات new.json
+    if new_releases:
+        update_global_new_releases(new_releases)
+
+    print(f"\n⚡ اكتملت المزامنة الذكية! الكاتلوج يحتوي {len(final_merged_catalog)} عملاً محفوظاً.")
 
 if __name__ == "__main__":
     sync_fast()
