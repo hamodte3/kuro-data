@@ -184,7 +184,7 @@
     "is_novel": true,
     "rating": "",
     "status": "مستمر",
-    "total_chapters": 3667
+    "total_chapters": 3670
   },
   {
     "id": "overgeared",
@@ -1003,6 +1003,15 @@
     "rating": "8.0"
   },
   {
+    "id": "%d8%a7%d9%84%d9%82%d8%a7%d8%aa%d9%84-%d8%a7%d9%84%d8%a3%d8%b2%d9%84%d9%8a",
+    "title": "القاتل الأزلي",
+    "url": "https://kolnovel.com/series/%d8%a7%d9%84%d9%82%d8%a7%d8%aa%d9%84-%d8%a7%d9%84%d8%a3%d8%b2%d9%84%d9%8a",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2025/03/113297.png",
+    "type": "رواية",
+    "is_novel": true,
+    "rating": "8.0"
+  },
+  {
     "id": "gamers-of-the-underworld",
     "title": "لاعبي العالم السفلي",
     "url": "https://kolnovel.com/series/gamers-of-the-underworld",
@@ -1019,15 +1028,6 @@
     "type": "رواية",
     "is_novel": true,
     "rating": "6.0"
-  },
-  {
-    "id": "%d8%a7%d9%84%d9%82%d8%a7%d8%aa%d9%84-%d8%a7%d9%84%d8%a3%d8%b2%d9%84%d9%8a",
-    "title": "القاتل الأزلي",
-    "url": "https://kolnovel.com/series/%d8%a7%d9%84%d9%82%d8%a7%d8%aa%d9%84-%d8%a7%d9%84%d8%a3%d8%b2%d9%84%d9%8a",
-    "cover_url": "https://kolnovel.com/wp-content/uploads/2025/03/113297.png",
-    "type": "رواية",
-    "is_novel": true,
-    "rating": "8.0"
   },
   {
     "id": "let-me-game-in-peace",
@@ -1048,15 +1048,6 @@
     "rating": "8.5"
   },
   {
-    "id": "chronicles-of-the-heavenly-demon",
-    "title": "سجلات الشيطان السماوي",
-    "url": "https://kolnovel.com/series/chronicles-of-the-heavenly-demon",
-    "cover_url": "https://kolnovel.com/wp-content/uploads/2021/10/Chronicles-of-the-Heavenly-Demon_2-e1649733068834.jpg",
-    "type": "رواية",
-    "is_novel": true,
-    "rating": "8.0"
-  },
-  {
     "id": "kingdoms-bloodline",
     "title": "سليل المملكة",
     "url": "https://kolnovel.com/series/kingdoms-bloodline",
@@ -1064,6 +1055,15 @@
     "type": "رواية",
     "is_novel": true,
     "rating": "9.0"
+  },
+  {
+    "id": "chronicles-of-the-heavenly-demon",
+    "title": "سجلات الشيطان السماوي",
+    "url": "https://kolnovel.com/series/chronicles-of-the-heavenly-demon",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2021/10/Chronicles-of-the-Heavenly-Demon_2-e1649733068834.jpg",
+    "type": "رواية",
+    "is_novel": true,
+    "rating": "8.0"
   },
   {
     "id": "%d8%a3%d9%86%d8%a7-%d9%85%d8%ac%d8%b1%d8%af-npc",
@@ -1354,15 +1354,6 @@
     "rating": "8.0"
   },
   {
-    "id": "emperor-has-returned",
-    "title": "عودة الإمبراطور",
-    "url": "https://kolnovel.com/series/emperor-has-returned",
-    "cover_url": "https://kolnovel.com/wp-content/uploads/2021/04/X_1078425-1.jpg",
-    "type": "رواية",
-    "is_novel": true,
-    "rating": "8.2"
-  },
-  {
     "id": "%d8%a7%d9%84%d8%ae%d9%8a%d9%85%d9%8a%d8%a7%d8%a6%d9%8a-%d8%a7%d9%84%d9%85%d9%8a%d9%83%d8%a7%d9%86%d9%8a%d9%83%d9%8a",
     "title": "الخيميائي الميكانيكي",
     "url": "https://kolnovel.com/series/%d8%a7%d9%84%d8%ae%d9%8a%d9%85%d9%8a%d8%a7%d8%a6%d9%8a-%d8%a7%d9%84%d9%85%d9%8a%d9%83%d8%a7%d9%86%d9%8a%d9%83%d9%8a",
@@ -1370,6 +1361,15 @@
     "type": "رواية",
     "is_novel": true,
     "rating": "8.5"
+  },
+  {
+    "id": "emperor-has-returned",
+    "title": "عودة الإمبراطور",
+    "url": "https://kolnovel.com/series/emperor-has-returned",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2021/04/X_1078425-1.jpg",
+    "type": "رواية",
+    "is_novel": true,
+    "rating": "8.2"
   },
   {
     "id": "%d8%a7%d9%84%d8%a7%d9%86%d8%ad%d8%af%d8%a7%d8%b1-%d8%a7%d9%84%d9%85%d8%b7%d9%84%d9%82",
@@ -1624,15 +1624,6 @@
     "rating": "8.0"
   },
   {
-    "id": "reform-the-nobody",
-    "title": "ReForm: The Nobody",
-    "url": "https://kolnovel.com/series/reform-the-nobody",
-    "cover_url": "https://kolnovel.com/wp-content/uploads/2021/12/5972441263a9514c39309138784a6c69-01_1.jpg",
-    "type": "رواية",
-    "is_novel": true,
-    "rating": "7.0"
-  },
-  {
     "id": "%d8%a7%d9%84%d8%b9%d9%88%d8%a7%d9%84%d9%85-%d9%81%d9%8a-%d8%a7%d9%84%d8%b3%d9%85%d8%a7%d8%a1",
     "title": "العوالم في السماء",
     "url": "https://kolnovel.com/series/%d8%a7%d9%84%d8%b9%d9%88%d8%a7%d9%84%d9%85-%d9%81%d9%8a-%d8%a7%d9%84%d8%b3%d9%85%d8%a7%d8%a1",
@@ -1640,6 +1631,15 @@
     "type": "رواية",
     "is_novel": true,
     "rating": "8.1"
+  },
+  {
+    "id": "reform-the-nobody",
+    "title": "ReForm: The Nobody",
+    "url": "https://kolnovel.com/series/reform-the-nobody",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2021/12/5972441263a9514c39309138784a6c69-01_1.jpg",
+    "type": "رواية",
+    "is_novel": true,
+    "rating": "7.0"
   },
   {
     "id": "a-deal-with-the-devil",
@@ -2074,19 +2074,19 @@
     "rating": "7.5"
   },
   {
-    "id": "%d8%b4%d9%8a%d8%b1%d9%8a%d8%aa%d9%88%d8%b1%d9%8a",
-    "title": "شيريتوري",
-    "url": "https://kolnovel.com/series/%d8%b4%d9%8a%d8%b1%d9%8a%d8%aa%d9%88%d8%b1%d9%8a",
-    "cover_url": "https://kolnovel.com/wp-content/uploads/2024/11/IMG_20250108_203348_762.png",
+    "id": "%d8%aa%d8%b3%d9%84%d9%82-%d8%a7%d9%84%d8%a8%d8%b1%d8%ac-%d8%a8%d8%a7%d8%b3%d8%aa%d8%ae%d8%af%d8%a7%d9%85-%d9%82%d8%af%d8%b1%d8%a9-%d8%a5%d9%8a%d9%82%d8%a7%d9%81-%d8%a7%d9%84%d8%b2%d9%85%d9%86",
+    "title": "تسلق البرج باستخدام قدرة إيقاف الزمن",
+    "url": "https://kolnovel.com/series/%d8%aa%d8%b3%d9%84%d9%82-%d8%a7%d9%84%d8%a8%d8%b1%d8%ac-%d8%a8%d8%a7%d8%b3%d8%aa%d8%ae%d8%af%d8%a7%d9%85-%d9%82%d8%af%d8%b1%d8%a9-%d8%a5%d9%8a%d9%82%d8%a7%d9%81-%d8%a7%d9%84%d8%b2%d9%85%d9%86",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2026/07/113225-2.png",
     "type": "رواية",
     "is_novel": true,
     "rating": "7.5"
   },
   {
-    "id": "%d8%aa%d8%b3%d9%84%d9%82-%d8%a7%d9%84%d8%a8%d8%b1%d8%ac-%d8%a8%d8%a7%d8%b3%d8%aa%d8%ae%d8%af%d8%a7%d9%85-%d9%82%d8%af%d8%b1%d8%a9-%d8%a5%d9%8a%d9%82%d8%a7%d9%81-%d8%a7%d9%84%d8%b2%d9%85%d9%86",
-    "title": "تسلق البرج باستخدام قدرة إيقاف الزمن",
-    "url": "https://kolnovel.com/series/%d8%aa%d8%b3%d9%84%d9%82-%d8%a7%d9%84%d8%a8%d8%b1%d8%ac-%d8%a8%d8%a7%d8%b3%d8%aa%d8%ae%d8%af%d8%a7%d9%85-%d9%82%d8%af%d8%b1%d8%a9-%d8%a5%d9%8a%d9%82%d8%a7%d9%81-%d8%a7%d9%84%d8%b2%d9%85%d9%86",
-    "cover_url": "https://kolnovel.com/wp-content/uploads/2026/07/113225-2.png",
+    "id": "%d8%b4%d9%8a%d8%b1%d9%8a%d8%aa%d9%88%d8%b1%d9%8a",
+    "title": "شيريتوري",
+    "url": "https://kolnovel.com/series/%d8%b4%d9%8a%d8%b1%d9%8a%d8%aa%d9%88%d8%b1%d9%8a",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2024/11/IMG_20250108_203348_762.png",
     "type": "رواية",
     "is_novel": true,
     "rating": "7.5"
@@ -2245,15 +2245,6 @@
     "rating": "8.0"
   },
   {
-    "id": "%d9%85%d8%ad%d9%86%d8%a9-%d8%a7%d9%84%d8%a3%d8%ac%d9%86%d8%a7%d8%b3-%d8%a7%d9%84%d9%85%d8%aa%d8%b9%d8%af%d8%af%d8%a9",
-    "title": "محنة الأجناس المتعددة",
-    "url": "https://kolnovel.com/series/%d9%85%d8%ad%d9%86%d8%a9-%d8%a7%d9%84%d8%a3%d8%ac%d9%86%d8%a7%d8%b3-%d8%a7%d9%84%d9%85%d8%aa%d8%b9%d8%af%d8%af%d8%a9",
-    "cover_url": "https://kolnovel.com/wp-content/uploads/2026/07/بدون-اسم97_20260716015333.png",
-    "type": "رواية",
-    "is_novel": true,
-    "rating": "7.5"
-  },
-  {
     "id": "%d8%b9%d9%88%d8%af%d8%a9-%d8%a7%d9%84%d8%a5%d9%85%d8%a8%d8%b1%d8%a7%d8%b7%d9%88%d8%b1-%d8%a7%d9%84%d8%b4%d9%8a%d8%b7%d8%a7%d9%86%d9%8a",
     "title": "عودة الإمبراطور الشيطاني",
     "url": "https://kolnovel.com/series/%d8%b9%d9%88%d8%af%d8%a9-%d8%a7%d9%84%d8%a5%d9%85%d8%a8%d8%b1%d8%a7%d8%b7%d9%88%d8%b1-%d8%a7%d9%84%d8%b4%d9%8a%d8%b7%d8%a7%d9%86%d9%8a",
@@ -2261,6 +2252,15 @@
     "type": "رواية",
     "is_novel": true,
     "rating": ""
+  },
+  {
+    "id": "%d9%85%d8%ad%d9%86%d8%a9-%d8%a7%d9%84%d8%a3%d8%ac%d9%86%d8%a7%d8%b3-%d8%a7%d9%84%d9%85%d8%aa%d8%b9%d8%af%d8%af%d8%a9",
+    "title": "محنة الأجناس المتعددة",
+    "url": "https://kolnovel.com/series/%d9%85%d8%ad%d9%86%d8%a9-%d8%a7%d9%84%d8%a3%d8%ac%d9%86%d8%a7%d8%b3-%d8%a7%d9%84%d9%85%d8%aa%d8%b9%d8%af%d8%af%d8%a9",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2026/07/بدون-اسم97_20260716015333.png",
+    "type": "رواية",
+    "is_novel": true,
+    "rating": "7.5"
   },
   {
     "id": "%d8%b7%d8%a8%d9%82%d8%a7%d8%aa-%d9%81%d9%8a-%d8%a7%d9%84%d8%a8%d8%ad%d8%b1-%d8%a7%d9%84%d9%85%d9%84%d9%83%d9%8a",
