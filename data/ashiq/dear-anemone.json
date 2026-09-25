@@ -1,0 +1,45 @@
+{
+  "id": "dear-anemone",
+  "title": "Dear Anemone",
+  "cover_url": "https://3asq.online/wp-content/uploads/2026/09/Picsart_26-07-09_05-21-14-729-scaled.jpg",
+  "description": "من أجل العثور على صديقه المفضل الذي اختفى قبل عام، ينضم “جاكو هاتشيو” إلى فرقة التحقيق الثانية ويصل إلى جزر غالاباغوس، التي كانت موقعًا لانفجار وقع قبل عقد من الزمن. وفجأة، يتعرض “ياشيكي” -أحد زملاء هاتشيو في الفريق- للهجوم من قبل وحش مخيف. بعد ذلك، يُقبض على “هاتشيو” بواسطة مخلوق يشبه النبات يُدعى “أنيموني”. وباستخدام دم “هاتشيو”، يندمج “أنيموني” معه، وسيصلان معًا إلى المختبر الذي كانا يبحثان عنه ويلتقيان بـ “لوبيليا”!",
+  "type": "مانغا",
+  "status": "مكتمل",
+  "rating": "3.7",
+  "favorites": "2",
+  "genres": [
+    "أكشن",
+    "دراما",
+    "رعب",
+    "شونين",
+    "عنف",
+    "غموض"
+  ],
+  "is_novel": false,
+  "chapters": {
+    "https://3asq.online/manga/dear-anemone/15": {
+      "name": "15"
+    },
+    "https://3asq.online/manga/dear-anemone/14": {
+      "name": "14"
+    },
+    "https://3asq.online/manga/dear-anemone/13": {
+      "name": "13"
+    },
+    "https://3asq.online/manga/dear-anemone/12": {
+      "name": "12"
+    },
+    "https://3asq.online/manga/dear-anemone/11": {
+      "name": "11"
+    },
+    "https://3asq.online/manga/dear-anemone/10": {
+      "name": "10"
+    },
+    "https://3asq.online/manga/dear-anemone/9": {
+      "name": "9"
+    },
+    "https://3asq.online/manga/dear-anemone/8": {
+      "name": "8"
+    }
+  }
+}

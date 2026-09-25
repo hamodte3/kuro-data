@@ -1,0 +1,82 @@
+{
+  "id": "blades-of-the-guardians",
+  "title": "Blades of the Guardians",
+  "cover_url": "https://3asq.online/wp-content/uploads/2026/03/02-scaled.jpg",
+  "description": "المرافق هم المحارب المأجور والمجرم الفار على حد سواء. في عشية الفوضى الأهلية خلال السنوات الأخيرة من عهد سلالة “سوي”، ومع تصاعد عهد من الرعب في أنحاء البلاد، بدأت تتنامى مشاعر الضغينة والعداء بين مختلف فئات الشعب.",
+  "type": "مانها",
+  "status": "مستمر",
+  "rating": "4.8",
+  "favorites": "28",
+  "genres": [
+    "أكشن",
+    "تاريخ",
+    "حرب",
+    "دراما",
+    "عنف",
+    "فنون قتالية",
+    "مأساة"
+  ],
+  "is_novel": false,
+  "chapters": {
+    "https://3asq.online/manga/blades-of-the-guardians/18": {
+      "name": "18"
+    },
+    "https://3asq.online/manga/blades-of-the-guardians/17": {
+      "name": "17"
+    },
+    "https://3asq.online/manga/blades-of-the-guardians/16-5": {
+      "name": "16.5"
+    },
+    "https://3asq.online/manga/blades-of-the-guardians/16": {
+      "name": "16"
+    },
+    "https://3asq.online/manga/blades-of-the-guardians/15": {
+      "name": "15"
+    },
+    "https://3asq.online/manga/blades-of-the-guardians/14": {
+      "name": "14"
+    },
+    "https://3asq.online/manga/blades-of-the-guardians/13": {
+      "name": "13"
+    },
+    "https://3asq.online/manga/blades-of-the-guardians/12": {
+      "name": "12"
+    },
+    "https://3asq.online/manga/blades-of-the-guardians/11": {
+      "name": "11"
+    },
+    "https://3asq.online/manga/blades-of-the-guardians/10": {
+      "name": "10"
+    },
+    "https://3asq.online/manga/blades-of-the-guardians/9": {
+      "name": "9"
+    },
+    "https://3asq.online/manga/blades-of-the-guardians/8": {
+      "name": "8"
+    },
+    "https://3asq.online/manga/blades-of-the-guardians/7-5": {
+      "name": "7.5"
+    },
+    "https://3asq.online/manga/blades-of-the-guardians/7": {
+      "name": "7"
+    },
+    "https://3asq.online/manga/blades-of-the-guardians/6": {
+      "name": "6"
+    },
+    "https://3asq.online/manga/blades-of-the-guardians/5": {
+      "name": "5"
+    },
+    "https://3asq.online/manga/blades-of-the-guardians/4": {
+      "name": "4"
+    },
+    "https://3asq.online/manga/blades-of-the-guardians/3": {
+      "name": "3"
+    },
+    "https://3asq.online/manga/blades-of-the-guardians/2": {
+      "name": "2"
+    },
+    "https://3asq.online/manga/blades-of-the-guardians/1": {
+      "name": "1"
+    }
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "id": "sangeki",
+  "title": "Sangeki",
+  "cover_url": "https://3asq.online/wp-content/uploads/2026/04/غلاف-مانجا-مسرحية-الجبل.png",
+  "description": "ميكو الطالب الثانوي، الذي كان يظن أنه سيرث جبل جده يومًا ما، يجد نفسه وقد خسر الفتاة التي أحبها لصالح صديقه، وانحدر إلى أدنى مراتب الهرم الاجتماعي في مدرسته. كان ذلك الجبل ملاذه الوحيد، غير أن رجلاً غامضًا مقنّعًا يظهر فجأة ويبدأ في بناء كوخ صغير هناك…",
+  "type": "مانغا",
+  "status": "مستمر",
+  "rating": "3.9",
+  "favorites": "15",
+  "genres": [
+    "دراما",
+    "سينين",
+    "غموض",
+    "مأساة"
+  ],
+  "is_novel": false,
+  "chapters": {
+    "https://3asq.online/manga/sangeki/21": {
+      "name": "21"
+    },
+    "https://3asq.online/manga/sangeki/20": {
+      "name": "20"
+    },
+    "https://3asq.online/manga/sangeki/19": {
+      "name": "19"
+    },
+    "https://3asq.online/manga/sangeki/18": {
+      "name": "18"
+    },
+    "https://3asq.online/manga/sangeki/17": {
+      "name": "17"
+    },
+    "https://3asq.online/manga/sangeki/16": {
+      "name": "16"
+    },
+    "https://3asq.online/manga/sangeki/15": {
+      "name": "15"
+    },
+    "https://3asq.online/manga/sangeki/14": {
+      "name": "14"
+    },
+    "https://3asq.online/manga/sangeki/13": {
+      "name": "13"
+    },
+    "https://3asq.online/manga/sangeki/12": {
+      "name": "12"
+    },
+    "https://3asq.online/manga/sangeki/11": {
+      "name": "11"
+    },
+    "https://3asq.online/manga/sangeki/10": {
+      "name": "10"
+    },
+    "https://3asq.online/manga/sangeki/9": {
+      "name": "9"
+    },
+    "https://3asq.online/manga/sangeki/8": {
+      "name": "8"
+    },
+    "https://3asq.online/manga/sangeki/7": {
+      "name": "7"
+    },
+    "https://3asq.online/manga/sangeki/6": {
+      "name": "6"
+    },
+    "https://3asq.online/manga/sangeki/5": {
+      "name": "5"
+    },
+    "https://3asq.online/manga/sangeki/4": {
+      "name": "4"
+    },
+    "https://3asq.online/manga/sangeki/3": {
+      "name": "3"
+    },
+    "https://3asq.online/manga/sangeki/2": {
+      "name": "2"
+    },
+    "https://3asq.online/manga/sangeki/1": {
+      "name": "1"
+    }
+  }
+}
