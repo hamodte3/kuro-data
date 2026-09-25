@@ -1,18 +1,309 @@
 [
   {
-    "id": "the-quest-for-immortality",
-    "title": "السعي إلى العمر الطويل",
-    "url": "https://seanovel.org/novels/the-quest-for-immortality",
-    "cover_url": "https://seanovel.org/api/novel/the-quest-for-immortality/cover",
+    "id": "terra-nova-online-rise-of-the-strongest-player",
+    "title": "تيرا نوفا اونلاين: صعود اللاعب الاقوى",
+    "url": "https://seanovel.org/novels/terra-nova-online-rise-of-the-strongest-player",
+    "cover_url": "https://seanovel.org/api/novel/terra-nova-online-rise-of-the-strongest-player/cover",
     "type": "رواية",
-    "status": "مستمر",
-    "rating": ""
+    "status": "مكتملة",
+    "rating": "",
+    "total_chapters": 831
   },
   {
     "id": "the-greatest-sinner",
     "title": "أعظم الخاطئين",
     "url": "https://seanovel.org/novels/the-greatest-sinner",
     "cover_url": "https://seanovel.org/api/novel/the-greatest-sinner/cover",
+    "type": "رواية",
+    "status": "مستمرة",
+    "rating": "",
+    "total_chapters": 326
+  },
+  {
+    "id": "novel-120",
+    "title": "نواة الدم اللانهائية",
+    "url": "https://seanovel.org/novels/novel-120",
+    "cover_url": "https://seanovel.org/api/novel/novel-120/cover",
+    "type": "رواية",
+    "status": "مستمرة",
+    "rating": "",
+    "total_chapters": 303
+  },
+  {
+    "id": "the-demonic-cultivator-in-zombie-world",
+    "title": "المزارع الشيطاني في عالم الزومبي",
+    "url": "https://seanovel.org/novels/the-demonic-cultivator-in-zombie-world",
+    "cover_url": "https://seanovel.org/api/novel/the-demonic-cultivator-in-zombie-world/cover",
+    "type": "رواية",
+    "status": "مستمرة",
+    "rating": "",
+    "total_chapters": 942
+  },
+  {
+    "id": "advent-of-the-three-calamities",
+    "title": "ظهور الكوارث الثلاث",
+    "url": "https://seanovel.org/novels/advent-of-the-three-calamities",
+    "cover_url": "https://seanovel.org/api/novel/advent-of-the-three-calamities/cover",
+    "type": "رواية",
+    "status": "مستمرة",
+    "rating": "",
+    "total_chapters": 581
+  },
+  {
+    "id": "global-game-afk-in-the-zombie-apocalypse-game",
+    "title": "لعبة عالمية: AFK في لعبة زومبي نهاية العالم",
+    "url": "https://seanovel.org/novels/global-game-afk-in-the-zombie-apocalypse-game",
+    "cover_url": "https://seanovel.org/api/novel/global-game-afk-in-the-zombie-apocalypse-game/cover",
+    "type": "رواية",
+    "status": "مستمرة",
+    "rating": "",
+    "total_chapters": 1914
+  },
+  {
+    "id": "novel-1649",
+    "title": "أنا شرير حقاً",
+    "url": "https://seanovel.org/novels/novel-1649",
+    "cover_url": "https://seanovel.org/api/novel/novel-1649/cover",
+    "type": "رواية",
+    "status": "مستمرة",
+    "rating": "",
+    "total_chapters": 682
+  },
+  {
+    "id": "shadow-slave",
+    "title": "عبد الظل",
+    "url": "https://seanovel.org/novels/shadow-slave",
+    "cover_url": "https://seanovel.org/api/novel/shadow-slave/cover",
+    "type": "رواية",
+    "status": "مستمرة",
+    "rating": "",
+    "total_chapters": 3190
+  },
+  {
+    "id": "691ad0f9598211bfce5688d5",
+    "title": "إمبراطور التنين الأبدي",
+    "url": "https://seanovel.org/novels/691ad0f9598211bfce5688d5",
+    "cover_url": "https://seanovel.org/api/novel/691ad0f9598211bfce5688d5/cover",
+    "type": "رواية",
+    "status": "مكتملة",
+    "rating": "",
+    "total_chapters": 6005
+  },
+  {
+    "id": "my-wife-is-the-demonic-cult-leader",
+    "title": "زوجتي هي زعيمة طائفة شيطانية",
+    "url": "https://seanovel.org/novels/my-wife-is-the-demonic-cult-leader",
+    "cover_url": "https://seanovel.org/api/novel/my-wife-is-the-demonic-cult-leader/cover",
+    "type": "رواية",
+    "status": "مستمرة",
+    "rating": "",
+    "total_chapters": 471
+  },
+  {
+    "id": "gateway-of-immortality",
+    "title": "بوابة الخلود",
+    "url": "https://seanovel.org/novels/gateway-of-immortality",
+    "cover_url": "https://seanovel.org/api/novel/gateway-of-immortality/cover",
+    "type": "رواية",
+    "status": "مستمرة",
+    "rating": "",
+    "total_chapters": 772
+  },
+  {
+    "id": "library-of-heavens-path",
+    "title": "مكتبة مسار السماء",
+    "url": "https://seanovel.org/novels/library-of-heavens-path",
+    "cover_url": "https://seanovel.org/api/novel/library-of-heavens-path/cover",
+    "type": "رواية",
+    "status": "مكتملة",
+    "rating": "",
+    "total_chapters": 1001
+  },
+  {
+    "id": "6985ac0d7d66c84567c8a74e",
+    "title": "الشاب النبيل يقتل الوحوش",
+    "url": "https://seanovel.org/novels/6985ac0d7d66c84567c8a74e",
+    "cover_url": "https://seanovel.org/api/novel/6985ac0d7d66c84567c8a74e/cover",
+    "type": "رواية",
+    "status": "مكتملة",
+    "rating": "",
+    "total_chapters": 1014
+  },
+  {
+    "id": "history-number-1-founder",
+    "title": "المؤسس رقم 1 في التاريخ",
+    "url": "https://seanovel.org/novels/history-number-1-founder",
+    "cover_url": "https://seanovel.org/api/novel/history-number-1-founder/cover",
+    "type": "رواية",
+    "status": "مكتملة",
+    "rating": "",
+    "total_chapters": 1486
+  },
+  {
+    "id": "the-lazy-king",
+    "title": "الملك الكسول",
+    "url": "https://seanovel.org/novels/the-lazy-king",
+    "cover_url": "https://seanovel.org/api/novel/the-lazy-king/cover",
+    "type": "رواية",
+    "status": "مكتملة",
+    "rating": "",
+    "total_chapters": 61
+  },
+  {
+    "id": "cultivation-i-have-studied-abroad-in-the-modern-world",
+    "title": "الزراعة: لقد درست في الخارج في العالم الحديث",
+    "url": "https://seanovel.org/novels/cultivation-i-have-studied-abroad-in-the-modern-world",
+    "cover_url": "https://seanovel.org/api/novel/cultivation-i-have-studied-abroad-in-the-modern-world/cover",
+    "type": "رواية",
+    "status": "مستمرة",
+    "rating": "",
+    "total_chapters": 1302
+  },
+  {
+    "id": "return-of-the-blossoming-blade",
+    "title": "عودة طائفة جبل هوا",
+    "url": "https://seanovel.org/novels/return-of-the-blossoming-blade",
+    "cover_url": "https://seanovel.org/api/novel/return-of-the-blossoming-blade/cover",
+    "type": "رواية",
+    "status": "مستمرة",
+    "rating": "",
+    "total_chapters": 1835
+  },
+  {
+    "id": "mysteries-of-immortal-puppet-master-advent-of-immortal-truth",
+    "title": "أسرار سيد الدمى الخالدة",
+    "url": "https://seanovel.org/novels/mysteries-of-immortal-puppet-master-advent-of-immortal-truth",
+    "cover_url": "https://seanovel.org/api/novel/mysteries-of-immortal-puppet-master-advent-of-immortal-truth/cover",
+    "type": "رواية",
+    "status": "مستمرة",
+    "rating": "",
+    "total_chapters": 439
+  },
+  {
+    "id": "radiant-blade-of-the-wilderness",
+    "title": "نصل البرية المشع",
+    "url": "https://seanovel.org/novels/radiant-blade-of-the-wilderness",
+    "cover_url": "https://seanovel.org/api/novel/radiant-blade-of-the-wilderness/cover",
+    "type": "رواية",
+    "status": "مستمرة",
+    "rating": "",
+    "total_chapters": 208
+  },
+  {
+    "id": "mushoku-tensei-isekai-ittara-honki-dasu",
+    "title": "تناسخ العاطل",
+    "url": "https://seanovel.org/novels/mushoku-tensei-isekai-ittara-honki-dasu",
+    "cover_url": "https://seanovel.org/api/novel/mushoku-tensei-isekai-ittara-honki-dasu/cover",
+    "type": "رواية",
+    "status": "مستمرة",
+    "rating": "",
+    "total_chapters": 284
+  },
+  {
+    "id": "perfect-world",
+    "title": "عالم مثالي",
+    "url": "https://seanovel.org/novels/perfect-world",
+    "cover_url": "https://seanovel.org/api/novel/perfect-world/cover",
+    "type": "رواية",
+    "status": "مستمرة",
+    "rating": "",
+    "total_chapters": 1920
+  },
+  {
+    "id": "myst-might-mayhem",
+    "title": "الغموض القوة الفوضى",
+    "url": "https://seanovel.org/novels/myst-might-mayhem",
+    "cover_url": "https://seanovel.org/api/novel/myst-might-mayhem/cover",
+    "type": "رواية",
+    "status": "مكتملة",
+    "rating": "",
+    "total_chapters": 497
+  },
+  {
+    "id": "run-away-this-civilization-is-cheating",
+    "title": "اهربوا، هذه الحضارة تغش!",
+    "url": "https://seanovel.org/novels/run-away-this-civilization-is-cheating",
+    "cover_url": "https://seanovel.org/api/novel/run-away-this-civilization-is-cheating/cover",
+    "type": "رواية",
+    "status": "مكتملة",
+    "rating": "",
+    "total_chapters": 883
+  },
+  {
+    "id": "690e07cc6f0a5426d225f06f",
+    "title": "قدرة الاستيعاب: إنشاء وتعليم الداو في عوالم مختلفة.",
+    "url": "https://seanovel.org/novels/690e07cc6f0a5426d225f06f",
+    "cover_url": "https://seanovel.org/api/novel/690e07cc6f0a5426d225f06f/cover",
+    "type": "رواية",
+    "status": "مكتملة",
+    "rating": "",
+    "total_chapters": 1480
+  },
+  {
+    "id": "69033a71cc7a2812b613a677",
+    "title": "الأرستقراطية المولودة من جديد: عودة الوريثة الشريرة",
+    "url": "https://seanovel.org/novels/69033a71cc7a2812b613a677",
+    "cover_url": "https://seanovel.org/api/novel/69033a71cc7a2812b613a677/cover",
+    "type": "رواية",
+    "status": "مكتملة",
+    "rating": "",
+    "total_chapters": 2108
+  },
+  {
+    "id": "the-163417413th-soulslike-hero",
+    "title": "البطل رقم 163,417,413الشبيه بالعاب السولز",
+    "url": "https://seanovel.org/novels/the-163417413th-soulslike-hero",
+    "cover_url": "https://seanovel.org/api/novel/the-163417413th-soulslike-hero/cover",
+    "type": "رواية",
+    "status": "مكتملة",
+    "rating": "",
+    "total_chapters": 304
+  },
+  {
+    "id": "69ca6172492ed3ae6a38a15e",
+    "title": "إله الفنون القتالية الذي تراجع إلى المستوى الثاني",
+    "url": "https://seanovel.org/novels/69ca6172492ed3ae6a38a15e",
+    "cover_url": "https://seanovel.org/api/novel/69ca6172492ed3ae6a38a15e/cover",
+    "type": "رواية",
+    "status": "مكتملة",
+    "rating": "",
+    "total_chapters": 721
+  },
+  {
+    "id": "68f753dc69ffe48a59bf719f",
+    "title": "النظام ضد اعادة الولادة",
+    "url": "https://seanovel.org/novels/68f753dc69ffe48a59bf719f",
+    "cover_url": "https://seanovel.org/api/novel/68f753dc69ffe48a59bf719f/cover",
+    "type": "رواية",
+    "status": "مستمرة",
+    "rating": "",
+    "total_chapters": 1656
+  },
+  {
+    "id": "the-worlds-greatest-martial-arts-instructor",
+    "title": "أعظم معلم فنون قتالية في العالم",
+    "url": "https://seanovel.org/novels/the-worlds-greatest-martial-arts-instructor",
+    "cover_url": "https://seanovel.org/api/novel/the-worlds-greatest-martial-arts-instructor/cover",
+    "type": "رواية",
+    "status": "مستمرة",
+    "rating": "",
+    "total_chapters": 357
+  },
+  {
+    "id": "cultivation-start-from-simplifying-martial-arts-techniques",
+    "title": "الزراعة: ابدأ بتبسيط تقنيات الفنون القتالية",
+    "url": "https://seanovel.org/novels/cultivation-start-from-simplifying-martial-arts-techniques",
+    "cover_url": "https://seanovel.org/api/novel/cultivation-start-from-simplifying-martial-arts-techniques/cover",
+    "type": "رواية",
+    "status": "مستمرة",
+    "rating": "",
+    "total_chapters": 1201
+  },
+  {
+    "id": "the-quest-for-immortality",
+    "title": "السعي إلى العمر الطويل",
+    "url": "https://seanovel.org/novels/the-quest-for-immortality",
+    "cover_url": "https://seanovel.org/api/novel/the-quest-for-immortality/cover",
     "type": "رواية",
     "status": "مستمر",
     "rating": ""
@@ -85,15 +376,6 @@
     "title": "عودة البطل",
     "url": "https://seanovel.org/novels/6901e9bfcc7a2812b61205c1",
     "cover_url": "https://seanovel.org/api/novel/6901e9bfcc7a2812b61205c1/cover",
-    "type": "رواية",
-    "status": "مستمر",
-    "rating": ""
-  },
-  {
-    "id": "global-game-afk-in-the-zombie-apocalypse-game",
-    "title": "لعبة عالمية: AFK في لعبة زومبي نهاية العالم",
-    "url": "https://seanovel.org/novels/global-game-afk-in-the-zombie-apocalypse-game",
-    "cover_url": "https://seanovel.org/api/novel/global-game-afk-in-the-zombie-apocalypse-game/cover",
     "type": "رواية",
     "status": "مستمر",
     "rating": ""
@@ -189,28 +471,10 @@
     "rating": ""
   },
   {
-    "id": "novel-120",
-    "title": "نواة الدم اللانهائية",
-    "url": "https://seanovel.org/novels/novel-120",
-    "cover_url": "https://seanovel.org/api/novel/novel-120/cover",
-    "type": "رواية",
-    "status": "مستمر",
-    "rating": ""
-  },
-  {
     "id": "the-reaper-of-the-drifting-moon",
     "title": "حاصد القمر المنجرف",
     "url": "https://seanovel.org/novels/the-reaper-of-the-drifting-moon",
     "cover_url": "https://seanovel.org/api/novel/the-reaper-of-the-drifting-moon/cover",
-    "type": "رواية",
-    "status": "مستمر",
-    "rating": ""
-  },
-  {
-    "id": "my-wife-is-the-demonic-cult-leader",
-    "title": "زوجتي هي زعيمة طائفة شيطانية",
-    "url": "https://seanovel.org/novels/my-wife-is-the-demonic-cult-leader",
-    "cover_url": "https://seanovel.org/api/novel/my-wife-is-the-demonic-cult-leader/cover",
     "type": "رواية",
     "status": "مستمر",
     "rating": ""
@@ -243,24 +507,6 @@
     "rating": ""
   },
   {
-    "id": "run-away-this-civilization-is-cheating",
-    "title": "اهربوا، هذه الحضارة تغش!",
-    "url": "https://seanovel.org/novels/run-away-this-civilization-is-cheating",
-    "cover_url": "https://seanovel.org/api/novel/run-away-this-civilization-is-cheating/cover",
-    "type": "رواية",
-    "status": "مستمر",
-    "rating": ""
-  },
-  {
-    "id": "691ad0f9598211bfce5688d5",
-    "title": "إمبراطور التنين الأبدي",
-    "url": "https://seanovel.org/novels/691ad0f9598211bfce5688d5",
-    "cover_url": "https://seanovel.org/api/novel/691ad0f9598211bfce5688d5/cover",
-    "type": "رواية",
-    "status": "مستمر",
-    "rating": ""
-  },
-  {
     "id": "85042",
     "title": "مكتبة الخيال",
     "url": "https://seanovel.org/novels/85042",
@@ -288,15 +534,6 @@
     "rating": ""
   },
   {
-    "id": "shadow-slave",
-    "title": "shadow slave",
-    "url": "https://seanovel.org/novels/shadow-slave",
-    "cover_url": "https://seanovel.org/api/novel/shadow-slave/cover",
-    "type": "رواية",
-    "status": "مستمر",
-    "rating": ""
-  },
-  {
     "id": "i-became-the-pope-now-what",
     "title": "i became the pope now what",
     "url": "https://seanovel.org/novels/i-became-the-pope-now-what",
@@ -310,15 +547,6 @@
     "title": "getting a technology system in modern day",
     "url": "https://seanovel.org/novels/getting-a-technology-system-in-modern-day",
     "cover_url": "https://seanovel.org/api/novel/getting-a-technology-system-in-modern-day/cover",
-    "type": "رواية",
-    "status": "مستمر",
-    "rating": ""
-  },
-  {
-    "id": "radiant-blade-of-the-wilderness",
-    "title": "radiant blade of the wilderness",
-    "url": "https://seanovel.org/novels/radiant-blade-of-the-wilderness",
-    "cover_url": "https://seanovel.org/api/novel/radiant-blade-of-the-wilderness/cover",
     "type": "رواية",
     "status": "مستمر",
     "rating": ""
@@ -396,15 +624,6 @@
     "rating": ""
   },
   {
-    "id": "690e07cc6f0a5426d225f06f",
-    "title": "690e07cc6f0a5426d225f06f",
-    "url": "https://seanovel.org/novels/690e07cc6f0a5426d225f06f",
-    "cover_url": "https://seanovel.org/api/novel/690e07cc6f0a5426d225f06f/cover",
-    "type": "رواية",
-    "status": "مستمر",
-    "rating": ""
-  },
-  {
     "id": "sevens",
     "title": "sevens",
     "url": "https://seanovel.org/novels/sevens",
@@ -463,15 +682,6 @@
     "title": "kingdom dynasty",
     "url": "https://seanovel.org/novels/kingdom-dynasty",
     "cover_url": "https://seanovel.org/api/novel/kingdom-dynasty/cover",
-    "type": "رواية",
-    "status": "مستمر",
-    "rating": ""
-  },
-  {
-    "id": "novel-1649",
-    "title": "novel 1649",
-    "url": "https://seanovel.org/novels/novel-1649",
-    "cover_url": "https://seanovel.org/api/novel/novel-1649/cover",
     "type": "رواية",
     "status": "مستمر",
     "rating": ""
@@ -630,15 +840,6 @@
     "rating": ""
   },
   {
-    "id": "myst-might-mayhem",
-    "title": "myst might mayhem",
-    "url": "https://seanovel.org/novels/myst-might-mayhem",
-    "cover_url": "https://seanovel.org/api/novel/myst-might-mayhem/cover",
-    "type": "رواية",
-    "status": "مستمر",
-    "rating": ""
-  },
-  {
     "id": "classroom-of-the-elite-year-1",
     "title": "classroom of the elite year 1",
     "url": "https://seanovel.org/novels/classroom-of-the-elite-year-1",
@@ -693,24 +894,6 @@
     "rating": ""
   },
   {
-    "id": "return-of-the-blossoming-blade",
-    "title": "return of the blossoming blade",
-    "url": "https://seanovel.org/novels/return-of-the-blossoming-blade",
-    "cover_url": "https://seanovel.org/api/novel/return-of-the-blossoming-blade/cover",
-    "type": "رواية",
-    "status": "مستمر",
-    "rating": ""
-  },
-  {
-    "id": "6985ac0d7d66c84567c8a74e",
-    "title": "6985ac0d7d66c84567c8a74e",
-    "url": "https://seanovel.org/novels/6985ac0d7d66c84567c8a74e",
-    "cover_url": "https://seanovel.org/api/novel/6985ac0d7d66c84567c8a74e/cover",
-    "type": "رواية",
-    "status": "مستمر",
-    "rating": ""
-  },
-  {
     "id": "the-mediocre-youth",
     "title": "the mediocre youth",
     "url": "https://seanovel.org/novels/the-mediocre-youth",
@@ -733,15 +916,6 @@
     "title": "ancient godly monarch",
     "url": "https://seanovel.org/novels/ancient-godly-monarch",
     "cover_url": "https://seanovel.org/api/novel/ancient-godly-monarch/cover",
-    "type": "رواية",
-    "status": "مستمر",
-    "rating": ""
-  },
-  {
-    "id": "the-worlds-greatest-martial-arts-instructor",
-    "title": "the worlds greatest martial arts instructor",
-    "url": "https://seanovel.org/novels/the-worlds-greatest-martial-arts-instructor",
-    "cover_url": "https://seanovel.org/api/novel/the-worlds-greatest-martial-arts-instructor/cover",
     "type": "رواية",
     "status": "مستمر",
     "rating": ""
@@ -796,15 +970,6 @@
     "title": "the descent of the devil",
     "url": "https://seanovel.org/novels/the-descent-of-the-devil",
     "cover_url": "https://seanovel.org/api/novel/the-descent-of-the-devil/cover",
-    "type": "رواية",
-    "status": "مستمر",
-    "rating": ""
-  },
-  {
-    "id": "cultivation-start-from-simplifying-martial-arts-techniques",
-    "title": "cultivation start from simplifying martial arts techniques",
-    "url": "https://seanovel.org/novels/cultivation-start-from-simplifying-martial-arts-techniques",
-    "cover_url": "https://seanovel.org/api/novel/cultivation-start-from-simplifying-martial-arts-techniques/cover",
     "type": "رواية",
     "status": "مستمر",
     "rating": ""
@@ -877,15 +1042,6 @@
     "title": "supreme magus",
     "url": "https://seanovel.org/novels/supreme-magus",
     "cover_url": "https://seanovel.org/api/novel/supreme-magus/cover",
-    "type": "رواية",
-    "status": "مستمر",
-    "rating": ""
-  },
-  {
-    "id": "69033a71cc7a2812b613a677",
-    "title": "69033a71cc7a2812b613a677",
-    "url": "https://seanovel.org/novels/69033a71cc7a2812b613a677",
-    "cover_url": "https://seanovel.org/api/novel/69033a71cc7a2812b613a677/cover",
     "type": "رواية",
     "status": "مستمر",
     "rating": ""
@@ -1098,15 +1254,6 @@
     "rating": ""
   },
   {
-    "id": "68f753dc69ffe48a59bf719f",
-    "title": "68f753dc69ffe48a59bf719f",
-    "url": "https://seanovel.org/novels/68f753dc69ffe48a59bf719f",
-    "cover_url": "https://seanovel.org/api/novel/68f753dc69ffe48a59bf719f/cover",
-    "type": "رواية",
-    "status": "مستمر",
-    "rating": ""
-  },
-  {
     "id": "return-of-the-calamity-class-death-knight",
     "title": "return of the calamity class death knight",
     "url": "https://seanovel.org/novels/return-of-the-calamity-class-death-knight",
@@ -1161,15 +1308,6 @@
     "rating": ""
   },
   {
-    "id": "gateway-of-immortality",
-    "title": "gateway of immortality",
-    "url": "https://seanovel.org/novels/gateway-of-immortality",
-    "cover_url": "https://seanovel.org/api/novel/gateway-of-immortality/cover",
-    "type": "رواية",
-    "status": "مستمر",
-    "rating": ""
-  },
-  {
     "id": "starting-with-an-sss-rank-swordsmanship-talent",
     "title": "starting with an sss rank swordsmanship talent",
     "url": "https://seanovel.org/novels/starting-with-an-sss-rank-swordsmanship-talent",
@@ -1201,15 +1339,6 @@
     "title": "all my disciples are kings",
     "url": "https://seanovel.org/novels/all-my-disciples-are-kings",
     "cover_url": "https://seanovel.org/api/novel/all-my-disciples-are-kings/cover",
-    "type": "رواية",
-    "status": "مستمر",
-    "rating": ""
-  },
-  {
-    "id": "the-demonic-cultivator-in-zombie-world",
-    "title": "the demonic cultivator in zombie world",
-    "url": "https://seanovel.org/novels/the-demonic-cultivator-in-zombie-world",
-    "cover_url": "https://seanovel.org/api/novel/the-demonic-cultivator-in-zombie-world/cover",
     "type": "رواية",
     "status": "مستمر",
     "rating": ""
@@ -1345,15 +1474,6 @@
     "title": "mystical journey",
     "url": "https://seanovel.org/novels/mystical-journey",
     "cover_url": "https://seanovel.org/api/novel/mystical-journey/cover",
-    "type": "رواية",
-    "status": "مستمر",
-    "rating": ""
-  },
-  {
-    "id": "69ca6172492ed3ae6a38a15e",
-    "title": "69ca6172492ed3ae6a38a15e",
-    "url": "https://seanovel.org/novels/69ca6172492ed3ae6a38a15e",
-    "cover_url": "https://seanovel.org/api/novel/69ca6172492ed3ae6a38a15e/cover",
     "type": "رواية",
     "status": "مستمر",
     "rating": ""
@@ -1539,15 +1659,6 @@
     "rating": ""
   },
   {
-    "id": "history-number-1-founder",
-    "title": "history number 1 founder",
-    "url": "https://seanovel.org/novels/history-number-1-founder",
-    "cover_url": "https://seanovel.org/api/novel/history-number-1-founder/cover",
-    "type": "رواية",
-    "status": "مستمر",
-    "rating": ""
-  },
-  {
     "id": "i-can-see-through-everything",
     "title": "i can see through everything",
     "url": "https://seanovel.org/novels/i-can-see-through-everything",
@@ -1692,15 +1803,6 @@
     "rating": ""
   },
   {
-    "id": "advent-of-the-three-calamities",
-    "title": "advent of the three calamities",
-    "url": "https://seanovel.org/novels/advent-of-the-three-calamities",
-    "cover_url": "https://seanovel.org/api/novel/advent-of-the-three-calamities/cover",
-    "type": "رواية",
-    "status": "مستمر",
-    "rating": ""
-  },
-  {
     "id": "evolution-of-a-demon-to-the-top",
     "title": "evolution of a demon to the top",
     "url": "https://seanovel.org/novels/evolution-of-a-demon-to-the-top",
@@ -1719,37 +1821,10 @@
     "rating": ""
   },
   {
-    "id": "mushoku-tensei-isekai-ittara-honki-dasu",
-    "title": "mushoku tensei isekai ittara honki dasu",
-    "url": "https://seanovel.org/novels/mushoku-tensei-isekai-ittara-honki-dasu",
-    "cover_url": "https://seanovel.org/api/novel/mushoku-tensei-isekai-ittara-honki-dasu/cover",
-    "type": "رواية",
-    "status": "مستمر",
-    "rating": ""
-  },
-  {
-    "id": "cultivation-i-have-studied-abroad-in-the-modern-world",
-    "title": "cultivation i have studied abroad in the modern world",
-    "url": "https://seanovel.org/novels/cultivation-i-have-studied-abroad-in-the-modern-world",
-    "cover_url": "https://seanovel.org/api/novel/cultivation-i-have-studied-abroad-in-the-modern-world/cover",
-    "type": "رواية",
-    "status": "مستمر",
-    "rating": ""
-  },
-  {
     "id": "sword-god-in-a-world-of-magic",
     "title": "sword god in a world of magic",
     "url": "https://seanovel.org/novels/sword-god-in-a-world-of-magic",
     "cover_url": "https://seanovel.org/api/novel/sword-god-in-a-world-of-magic/cover",
-    "type": "رواية",
-    "status": "مستمر",
-    "rating": ""
-  },
-  {
-    "id": "terra-nova-online-rise-of-the-strongest-player",
-    "title": "terra nova online rise of the strongest player",
-    "url": "https://seanovel.org/novels/terra-nova-online-rise-of-the-strongest-player",
-    "cover_url": "https://seanovel.org/api/novel/terra-nova-online-rise-of-the-strongest-player/cover",
     "type": "رواية",
     "status": "مستمر",
     "rating": ""
@@ -1773,28 +1848,10 @@
     "rating": ""
   },
   {
-    "id": "perfect-world",
-    "title": "perfect world",
-    "url": "https://seanovel.org/novels/perfect-world",
-    "cover_url": "https://seanovel.org/api/novel/perfect-world/cover",
-    "type": "رواية",
-    "status": "مستمر",
-    "rating": ""
-  },
-  {
     "id": "the-primordial-record",
     "title": "the primordial record",
     "url": "https://seanovel.org/novels/the-primordial-record",
     "cover_url": "https://seanovel.org/api/novel/the-primordial-record/cover",
-    "type": "رواية",
-    "status": "مستمر",
-    "rating": ""
-  },
-  {
-    "id": "the-lazy-king",
-    "title": "the lazy king",
-    "url": "https://seanovel.org/novels/the-lazy-king",
-    "cover_url": "https://seanovel.org/api/novel/the-lazy-king/cover",
     "type": "رواية",
     "status": "مستمر",
     "rating": ""
@@ -1831,15 +1888,6 @@
     "title": "absolute regression",
     "url": "https://seanovel.org/novels/absolute-regression",
     "cover_url": "https://seanovel.org/api/novel/absolute-regression/cover",
-    "type": "رواية",
-    "status": "مستمر",
-    "rating": ""
-  },
-  {
-    "id": "mysteries-of-immortal-puppet-master-advent-of-immortal-truth",
-    "title": "mysteries of immortal puppet master advent of immortal truth",
-    "url": "https://seanovel.org/novels/mysteries-of-immortal-puppet-master-advent-of-immortal-truth",
-    "cover_url": "https://seanovel.org/api/novel/mysteries-of-immortal-puppet-master-advent-of-immortal-truth/cover",
     "type": "رواية",
     "status": "مستمر",
     "rating": ""
@@ -1935,15 +1983,6 @@
     "rating": ""
   },
   {
-    "id": "library-of-heavens-path",
-    "title": "library of heavens path",
-    "url": "https://seanovel.org/novels/library-of-heavens-path",
-    "cover_url": "https://seanovel.org/api/novel/library-of-heavens-path/cover",
-    "type": "رواية",
-    "status": "مستمر",
-    "rating": ""
-  },
-  {
     "id": "69673c147d66c84567a7ccda",
     "title": "69673c147d66c84567a7ccda",
     "url": "https://seanovel.org/novels/69673c147d66c84567a7ccda",
@@ -1966,15 +2005,6 @@
     "title": "i must close the heavens",
     "url": "https://seanovel.org/novels/i-must-close-the-heavens",
     "cover_url": "https://seanovel.org/api/novel/i-must-close-the-heavens/cover",
-    "type": "رواية",
-    "status": "مستمر",
-    "rating": ""
-  },
-  {
-    "id": "the-163417413th-soulslike-hero",
-    "title": "the 163417413th soulslike hero",
-    "url": "https://seanovel.org/novels/the-163417413th-soulslike-hero",
-    "cover_url": "https://seanovel.org/api/novel/the-163417413th-soulslike-hero/cover",
     "type": "رواية",
     "status": "مستمر",
     "rating": ""
