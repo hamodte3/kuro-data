@@ -1,0 +1,39 @@
+{
+  "id": "yohan-loves-tite",
+  "title": "يوهان يحب تيتي",
+  "cover_url": "https://mangatime.org/uploads/series/6ab67f31e982778bd3727a9a.webp",
+  "description": "دراما تاريخية كورية تتبع يوهان وتيتي في مسار علاقة تتشابك مع أحداث عصرها. العمل مترجم إلى العربية على المصدر.",
+  "type": "مانهوا",
+  "status": "مستمر",
+  "last_update": "2026-09-25",
+  "rating": "",
+  "favorites": "",
+  "genres": [
+    "دراما",
+    "خيال",
+    "تاريخي"
+  ],
+  "is_novel": false,
+  "chapters": {
+    "https://mangatime.org/manhwa/yohan-loves-tite/chapter/5": {
+      "name": "5",
+      "images": []
+    },
+    "https://mangatime.org/manhwa/yohan-loves-tite/chapter/4": {
+      "name": "4",
+      "images": []
+    },
+    "https://mangatime.org/manhwa/yohan-loves-tite/chapter/3": {
+      "name": "3",
+      "images": []
+    },
+    "https://mangatime.org/manhwa/yohan-loves-tite/chapter/2": {
+      "name": "2",
+      "images": []
+    },
+    "https://mangatime.org/manhwa/yohan-loves-tite/chapter/1": {
+      "name": "1",
+      "images": []
+    }
+  }
+}

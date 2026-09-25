@@ -1,0 +1,34 @@
+{
+  "id": "ppppppp",
+  "title": "بي بي بي بي بي بي بي",
+  "cover_url": "https://mangatime.org/uploads/series/6ab68c13e982778bd3732171.webp",
+  "description": "مانجا شونين نفسية تدور حول الموسيقى والطموح. العمل متاح بالعربية على المصدر.",
+  "type": "مانغا",
+  "status": "مستمر",
+  "last_update": "2026-09-25",
+  "rating": "",
+  "favorites": "",
+  "genres": [
+    "شونين",
+    "دراما"
+  ],
+  "is_novel": false,
+  "chapters": {
+    "https://mangatime.org/manga/ppppppp/chapter/4": {
+      "name": "4",
+      "images": []
+    },
+    "https://mangatime.org/manga/ppppppp/chapter/3": {
+      "name": "3",
+      "images": []
+    },
+    "https://mangatime.org/manga/ppppppp/chapter/2": {
+      "name": "2",
+      "images": []
+    },
+    "https://mangatime.org/manga/ppppppp/chapter/1": {
+      "name": "1",
+      "images": []
+    }
+  }
+}

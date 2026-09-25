@@ -1,0 +1,40 @@
+{
+  "id": "blind-girl-isekai",
+  "title": "الفتاة العمياء إيسيكاي",
+  "cover_url": "https://mangatime.org/uploads/series/6ab67defe982778bd372483f.webp",
+  "description": "مانجا فانتازيا كوميدية عن فتاة عمياء تنتقل إلى عالم آخر. مترجمة إلى العربية على المصدر.",
+  "type": "مانغا",
+  "status": "مستمر",
+  "last_update": "2026-09-25",
+  "rating": "",
+  "favorites": "",
+  "genres": [
+    "فانتازيا",
+    "كوميديا",
+    "مغامرات",
+    "تاريخي"
+  ],
+  "is_novel": false,
+  "chapters": {
+    "https://mangatime.org/manga/blind-girl-isekai/chapter/5": {
+      "name": "5",
+      "images": []
+    },
+    "https://mangatime.org/manga/blind-girl-isekai/chapter/4": {
+      "name": "4",
+      "images": []
+    },
+    "https://mangatime.org/manga/blind-girl-isekai/chapter/3": {
+      "name": "3",
+      "images": []
+    },
+    "https://mangatime.org/manga/blind-girl-isekai/chapter/2": {
+      "name": "2",
+      "images": []
+    },
+    "https://mangatime.org/manga/blind-girl-isekai/chapter/1": {
+      "name": "1",
+      "images": []
+    }
+  }
+}

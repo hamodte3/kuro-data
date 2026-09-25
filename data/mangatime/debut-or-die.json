@@ -1,0 +1,39 @@
+{
+  "id": "debut-or-die",
+  "title": "الفوز أو الموت",
+  "cover_url": "https://mangatime.org/uploads/series/6ab67d1de982778bd37232c3.webp",
+  "description": "ويبتون أكشن ودراما عن عالم الترفيه حيث البقاء يعني الظهور. مترجم إلى العربية على المصدر.",
+  "type": "ويب تون",
+  "status": "مستمر",
+  "last_update": "2026-09-25",
+  "rating": "",
+  "favorites": "",
+  "genres": [
+    "دراما",
+    "أكشن",
+    "فانتازيا"
+  ],
+  "is_novel": false,
+  "chapters": {
+    "https://mangatime.org/manga/debut-or-die/chapter/5": {
+      "name": "5",
+      "images": []
+    },
+    "https://mangatime.org/manga/debut-or-die/chapter/4": {
+      "name": "4",
+      "images": []
+    },
+    "https://mangatime.org/manga/debut-or-die/chapter/3": {
+      "name": "3",
+      "images": []
+    },
+    "https://mangatime.org/manga/debut-or-die/chapter/2": {
+      "name": "2",
+      "images": []
+    },
+    "https://mangatime.org/manga/debut-or-die/chapter/1": {
+      "name": "1",
+      "images": []
+    }
+  }
+}
