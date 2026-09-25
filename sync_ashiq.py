@@ -5,15 +5,16 @@ import time
 from bs4 import BeautifulSoup
 from curl_cffi import requests
 
-# 1. الدومين الجديد المعتمد
 BASE_URL = "https://3asq.online"
 DATA_DIR = os.path.join("data", "ashiq")
 CATALOG_FILE = os.path.join(DATA_DIR, "catalog.json")
+GLOBAL_NEW_FILE = os.path.join("data", "new.json")
 
-DETAILS_SYNC_LIMIT = 20    # عدد الأعمال التي تُسحب تفاصيلها وفصولها
-MAX_PAGES_SAFETY = 1000     # أقصى حد لصفحات الفهرس
+DETAILS_SYNC_LIMIT = 20    # فحص تفاصيل وفصول أحدث 20 عملاً
+MAX_PAGES_SAFETY = 1000
 
 os.makedirs(DATA_DIR, exist_ok=True)
+os.makedirs("data", exist_ok=True)
 
 HEADERS = {
     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36",
@@ -30,7 +31,6 @@ def normalize_url(url: str) -> str:
     url = url.strip()
     if not url.startswith("http"):
         url = f"{BASE_URL}{url}" if url.startswith("/") else f"{BASE_URL}/{url}"
-    # استبدال أي روابط قديمة بالدومين الجديد
     url = url.replace("3asq.org", "3asq.online")
     return url.replace("http://", "https://").rstrip("/")
 
@@ -59,12 +59,37 @@ def format_rating(raw_rating: str) -> str:
     except ValueError:
         return ""
 
+def update_global_new_releases(new_releases: list):
+    """دمج الإشعارات الجديدة في data/new.json دون مسح تحديثات المصادر الأخرى"""
+    if not new_releases:
+        return
+
+    existing_releases = []
+    if os.path.exists(GLOBAL_NEW_FILE):
+        try:
+            with open(GLOBAL_NEW_FILE, "r", encoding="utf-8") as f:
+                existing_releases = json.load(f)
+        except Exception:
+            existing_releases = []
+
+    # دمج التحديثات وحذف المكرر لنفس العمل ورقم الفصل
+    combined = new_releases + existing_releases
+    seen = set()
+    deduped = []
+    for item in combined:
+        key = (item.get("id"), item.get("chapter"))
+        if key not in seen:
+            seen.add(key)
+            deduped.append(item)
+
+    with open(GLOBAL_NEW_FILE, "w", encoding="utf-8") as f:
+        json.dump(deduped[:10], f, ensure_ascii=False, indent=2)
+    print(f"🔔 تم تسجيل {len(new_releases)} تحديث جديد في {GLOBAL_NEW_FILE}")
+
 def extract_chapters_ashiq(session, manga_url: str, post_id: str = "") -> dict:
-    """استخراج الفصول بدعم مسارين: رابط AJAX السريع أو بوابة wp-admin"""
     clean_url = normalize_url(manga_url)
     elements = []
     
-    # المحاولة 1: مسار AJAX السريع لصفحة المانجا
     try:
         ajax_url = f"{clean_url}/ajax/chapters/"
         res = session.post(ajax_url, headers={"Referer": clean_url}, timeout=20)
@@ -74,7 +99,6 @@ def extract_chapters_ashiq(session, manga_url: str, post_id: str = "") -> dict:
     except Exception:
         elements = []
 
-    # المحاولة 2: مسار WordPress AJAX باستخدام data-id
     if not elements and post_id:
         try:
             admin_ajax = f"{BASE_URL}/wp-admin/admin-ajax.php"
@@ -113,11 +137,9 @@ def scrape_manga_details_ashiq(session, manga_url: str):
     res = session.get(clean_url, timeout=20)
     soup = BeautifulSoup(res.text, "html.parser")
 
-    # 1. العنوان
     title_el = soup.select_one("div.post-title h1, h1")
     title = title_el.text.strip() if title_el else "بدون عنوان"
 
-    # 2. صورة الغلاف
     img_el = soup.select_one("div.summary_image img")
     cover_url = ""
     if img_el:
@@ -127,7 +149,6 @@ def scrape_manga_details_ashiq(session, manga_url: str):
         cover_url = meta_img.get("content", "").strip() if meta_img else ""
     cover_url = normalize_url(cover_url) if cover_url else ""
 
-    # 3. الوصف
     desc_paragraphs = [
         p.text.strip()
         for p in soup.select("div.manga-excerpt p, div.summary__content p")
@@ -135,20 +156,16 @@ def scrape_manga_details_ashiq(session, manga_url: str):
     ]
     description = "\n\n".join(desc_paragraphs) if desc_paragraphs else "لا يوجد وصف"
 
-    # 4. التقييم
     rate_el = soup.select_one("#averagerate, span.total_votes, div.post-total-rating span.score")
     rating = format_rating(rate_el.text if rate_el else "")
 
-    # 5. المفضلة
     fav_el = soup.select_one("div.add-bookmark .action_detail span")
     favorites_text = fav_el.text if fav_el else ""
     fav_match = re.search(r"\d+", favorites_text)
     favorites = fav_match.group(0) if fav_match else ""
 
-    # 6. التصنيفات
     genres = [a.text.strip() for a in soup.select("div.genres-content a") if a.text.strip()]
 
-    # 7. استخراج النوع والحالة بدقة عبر بنية post-content_item الجديدة
     raw_type = ""
     status = "مستمر"
     for item in soup.select("div.post-content_item"):
@@ -166,14 +183,12 @@ def scrape_manga_details_ashiq(session, manga_url: str):
     is_novel = any("رواية" in x for x in [raw_type, title] + genres)
     manga_type = format_type("رواية" if is_novel else (raw_type or (genres[0] if genres else "مانغا")))
 
-    # 8. استخراج معرف المنشور (post_id) لدعم جلب الفصول
     holder = soup.select_one("#manga-chapters-holder")
     post_id = holder.get("data-id", "") if holder else ""
     if not post_id:
         id_input = soup.select_one("input.rating-post-id, input#comment_post_ID")
         post_id = id_input.get("value", "") if id_input else ""
 
-    # 9. سحب الفصول
     chapters_map = extract_chapters_ashiq(session, clean_url, post_id)
     slug = clean_url.rstrip("/").split("/")[-1]
 
@@ -197,10 +212,12 @@ def fetch_ashiq_catalog(session) -> list:
     page = 1
 
     while page <= MAX_PAGES_SAFETY:
-        # رابط الفهرس المباشر لصفحات المانجا
-        url = f"{BASE_URL}/manga/?m_orderby=views" if page == 1 else f"{BASE_URL}/manga/page/{page}/?m_orderby=views"
+        url = f"{BASE_URL}/manga/" if page == 1 else f"{BASE_URL}/manga/page/{page}/"
         try:
-            res = session.get(url, timeout=25)
+            res = session.get(url, timeout=20)
+            if res.status_code != 200:
+                break
+
             soup = BeautifulSoup(res.text, "html.parser")
             cards = soup.select("div.page-item-detail.manga")
 
@@ -209,7 +226,6 @@ def fetch_ashiq_catalog(session) -> list:
 
             new_in_page = 0
             for card in cards:
-                # عزل رابط المانجا عن روابط حسابات التواصل الخاصة بفرق الترجمة
                 link = card.select_one("div.post-title h3 a[href*='/manga/'], h3.h5 a[href*='/manga/']")
                 if not link:
                     continue
@@ -257,13 +273,13 @@ def fetch_ashiq_catalog(session) -> list:
 
 def sync_ashiq_fast():
     session = get_session()
-    catalog = fetch_ashiq_catalog(session)
+    freshly_scraped = fetch_ashiq_catalog(session)
 
-    if not catalog:
+    if not freshly_scraped:
         print("⚠️ لم يتم العثور على أي أعمال في الفهرس.")
         return
 
-    top_targets = catalog[:DETAILS_SYNC_LIMIT]
+    top_targets = freshly_scraped[:DETAILS_SYNC_LIMIT]
 
     for index, item in enumerate(top_targets, 1):
         slug = item["id"]
@@ -282,10 +298,55 @@ def sync_ashiq_fast():
         except Exception as e:
             print(f"خطأ أثناء معالجة {slug}: {e}")
 
-    with open(CATALOG_FILE, "w", encoding="utf-8") as f:
-        json.dump(catalog, f, ensure_ascii=False, indent=2)
+    # ================== الدمج الذكي وتوليد الإشعارات ==================
+    old_catalog = []
+    if os.path.exists(CATALOG_FILE):
+        try:
+            with open(CATALOG_FILE, "r", encoding="utf-8") as f:
+                old_catalog = json.load(f)
+        except Exception:
+            old_catalog = []
 
-    print(f"\n⚡ اكتملت مزامنة العاشق الخاطفة! تم الحفظ في {CATALOG_FILE}")
+    old_map = {item["id"]: item for item in old_catalog}
+    new_releases = []
+
+    # كشف الأعمال والفصول الجديدة
+    for item in freshly_scraped:
+        m_id = item["id"]
+        current_chaps = item.get("total_chapters", 0)
+        prev_chaps = old_map.get(m_id, {}).get("total_chapters", 0)
+
+        if m_id not in old_map:
+            new_releases.append({
+                "id": m_id,
+                "title": item["title"],
+                "chapter": f"الفصل {current_chaps}" if current_chaps > 0 else "عمل جديد",
+                "type": item.get("type", "مانغا"),
+                "cover_url": item.get("cover_url", "")
+            })
+        elif current_chaps > prev_chaps and current_chaps > 0:
+            new_releases.append({
+                "id": m_id,
+                "title": item["title"],
+                "chapter": f"الفصل {current_chaps}",
+                "type": item.get("type", "مانغا"),
+                "cover_url": item.get("cover_url", "")
+            })
+
+    # دمج: الجديد دائماً في الصدارة، والقديم غير المكرر يبقى في الأسفل
+    fresh_ids = {x["id"] for x in freshly_scraped}
+    remaining_old = [x for x in old_catalog if x["id"] not in fresh_ids]
+    final_merged_catalog = freshly_scraped + remaining_old
+
+    # حفظ الكاتلوج المدمج النهائي
+    with open(CATALOG_FILE, "w", encoding="utf-8") as f:
+        json.dump(final_merged_catalog, f, ensure_ascii=False, indent=2)
+
+    # تحديث إشعارات new.json
+    if new_releases:
+        update_global_new_releases(new_releases)
+
+    print(f"\n⚡ اكتملت مزامنة العاشق! الكاتلوج يحتوي {len(final_merged_catalog)} عملاً محفوظاً.")
 
 if __name__ == "__main__":
     sync_ashiq_fast()
