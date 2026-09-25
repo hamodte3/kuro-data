@@ -5,17 +5,18 @@ import time
 from bs4 import BeautifulSoup
 from curl_cffi import requests
 
-BASE_URL = "https://3asq.org"
+# 1. الدومين الجديد المعتمد
+BASE_URL = "https://3asq.online"
 DATA_DIR = os.path.join("data", "ashiq")
 CATALOG_FILE = os.path.join(DATA_DIR, "catalog.json")
 
-DETAILS_SYNC_LIMIT = 20   # تجهيز فصول وبيانات أفضل 20 عملاً في ملفات مستقلة
-MAX_PAGES_SAFETY = 1000     # عدد صفحات الفهرس لتغطية مكتبة العاشق
+DETAILS_SYNC_LIMIT = 20    # عدد الأعمال التي تُسحب تفاصيلها وفصولها
+MAX_PAGES_SAFETY = 1000     # أقصى حد لصفحات الفهرس
 
 os.makedirs(DATA_DIR, exist_ok=True)
 
 HEADERS = {
-    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
+    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36",
     "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8",
     "Accept-Language": "ar-SA,ar;q=0.9,en-US;q=0.8,en;q=0.7",
     "Referer": f"{BASE_URL}/",
@@ -29,6 +30,8 @@ def normalize_url(url: str) -> str:
     url = url.strip()
     if not url.startswith("http"):
         url = f"{BASE_URL}{url}" if url.startswith("/") else f"{BASE_URL}/{url}"
+    # استبدال أي روابط قديمة بالدومين الجديد
+    url = url.replace("3asq.org", "3asq.online")
     return url.replace("http://", "https://").rstrip("/")
 
 def format_type(raw_type: str) -> str:
@@ -56,33 +59,37 @@ def format_rating(raw_rating: str) -> str:
     except ValueError:
         return ""
 
-def extract_chapters_ashiq(session, manga_url: str) -> dict:
-    """استخراج خريطة الفصول (الاسم والرابط فقط) عبر AJAX الخاص بقالب Madara"""
+def extract_chapters_ashiq(session, manga_url: str, post_id: str = "") -> dict:
+    """استخراج الفصول بدعم مسارين: رابط AJAX السريع أو بوابة wp-admin"""
     clean_url = normalize_url(manga_url)
-    ajax_url = f"{clean_url}/ajax/chapters/"
     elements = []
     
-    # 1. طلب AJAX السريع
+    # المحاولة 1: مسار AJAX السريع لصفحة المانجا
     try:
+        ajax_url = f"{clean_url}/ajax/chapters/"
         res = session.post(ajax_url, headers={"Referer": clean_url}, timeout=20)
-        soup = BeautifulSoup(res.text, "html.parser")
-        elements = soup.select("li.wp-manga-chapter a, ul.main.version-chap li a")
+        if res.status_code == 200 and "wp-manga-chapter" in res.text:
+            soup = BeautifulSoup(res.text, "html.parser")
+            elements = soup.select("li.wp-manga-chapter a, ul.main.version-chap li a")
     except Exception:
         elements = []
 
-    # 2. بديل احتياطي إذا كان الـ AJAX مغلقاً
-    if not elements:
+    # المحاولة 2: مسار WordPress AJAX باستخدام data-id
+    if not elements and post_id:
         try:
-            res = session.get(clean_url, timeout=20)
-            soup = BeautifulSoup(res.text, "html.parser")
-            elements = soup.select("li.wp-manga-chapter a, ul.main.version-chap li a")
+            admin_ajax = f"{BASE_URL}/wp-admin/admin-ajax.php"
+            data = {"action": "manga_get_chapters", "manga": post_id}
+            res = session.post(admin_ajax, data=data, headers={"Referer": clean_url}, timeout=20)
+            if res.status_code == 200:
+                soup = BeautifulSoup(res.text, "html.parser")
+                elements = soup.select("li.wp-manga-chapter a, ul.main.version-chap li a")
         except Exception:
             elements = []
 
     chapters_map = {}
     for a in elements:
         href = a.get("href", "").strip()
-        if not href:
+        if not href or href.endswith("#"):
             continue
         
         full_url = normalize_url(href)
@@ -106,50 +113,68 @@ def scrape_manga_details_ashiq(session, manga_url: str):
     res = session.get(clean_url, timeout=20)
     soup = BeautifulSoup(res.text, "html.parser")
 
+    # 1. العنوان
     title_el = soup.select_one("div.post-title h1, h1")
     title = title_el.text.strip() if title_el else "بدون عنوان"
 
+    # 2. صورة الغلاف
     img_el = soup.select_one("div.summary_image img")
     cover_url = ""
     if img_el:
-        cover_url = img_el.get("src", "").strip()
-        if not cover_url or "data:image" in cover_url:
-            cover_url = img_el.get("data-src", "").strip() or img_el.get("data-lazy-src", "").strip()
+        cover_url = (img_el.get("src") or img_el.get("data-src") or "").strip()
     if not cover_url:
         meta_img = soup.select_one("meta[property='og:image']")
         cover_url = meta_img.get("content", "").strip() if meta_img else ""
-    if cover_url:
-        cover_url = normalize_url(cover_url)
+    cover_url = normalize_url(cover_url) if cover_url else ""
 
+    # 3. الوصف
     desc_paragraphs = [
-        p.text.replace("<!-- -->", "").strip()
+        p.text.strip()
         for p in soup.select("div.manga-excerpt p, div.summary__content p")
         if p.text.strip()
     ]
     description = "\n\n".join(desc_paragraphs) if desc_paragraphs else "لا يوجد وصف"
 
-    rate_el = soup.select_one("#averagerate, div.post-total-rating span.score")
+    # 4. التقييم
+    rate_el = soup.select_one("#averagerate, span.total_votes, div.post-total-rating span.score")
     rating = format_rating(rate_el.text if rate_el else "")
 
+    # 5. المفضلة
     fav_el = soup.select_one("div.add-bookmark .action_detail span")
     favorites_text = fav_el.text if fav_el else ""
     fav_match = re.search(r"\d+", favorites_text)
     favorites = fav_match.group(0) if fav_match else ""
 
-    genres = [a.text.strip() for a in soup.select("div.genres-content a, .wd-full .mgen a") if a.text.strip()]
-    badges = soup.select_one("span.manga-title-badges, div.genres-content")
-    badges_text = badges.text if badges else ""
+    # 6. التصنيفات
+    genres = [a.text.strip() for a in soup.select("div.genres-content a") if a.text.strip()]
 
-    raw_type_el = soup.find(lambda tag: tag.name in ["div", "span"] and "النوع" in tag.text)
-    raw_type = raw_type_el.text if raw_type_el else ""
-    is_novel = any("رواية" in x for x in [badges_text, raw_type, title])
-    manga_type = format_type("رواية" if is_novel else (raw_type or (genres[0] if genres else badges_text)))
+    # 7. استخراج النوع والحالة بدقة عبر بنية post-content_item الجديدة
+    raw_type = ""
+    status = "مستمر"
+    for item in soup.select("div.post-content_item"):
+        heading = item.select_one("div.summary-heading")
+        content = item.select_one("div.summary-content")
+        if not heading or not content:
+            continue
+        
+        h_text = heading.text.strip()
+        if "النوع" in h_text:
+            raw_type = content.text.strip()
+        elif "الحالة" in h_text:
+            status = format_status(content.text.strip())
 
-    status_el = soup.find(lambda tag: tag.name in ["div", "span"] and "الحالة" in tag.text)
-    status = format_status(status_el.text if status_el else "مستمر")
+    is_novel = any("رواية" in x for x in [raw_type, title] + genres)
+    manga_type = format_type("رواية" if is_novel else (raw_type or (genres[0] if genres else "مانغا")))
 
-    # استخراج الفصول السريع
-    chapters_map = extract_chapters_ashiq(session, clean_url)
+    # 8. استخراج معرف المنشور (post_id) لدعم جلب الفصول
+    holder = soup.select_one("#manga-chapters-holder")
+    post_id = holder.get("data-id", "") if holder else ""
+    if not post_id:
+        id_input = soup.select_one("input.rating-post-id, input#comment_post_ID")
+        post_id = id_input.get("value", "") if id_input else ""
+
+    # 9. سحب الفصول
+    chapters_map = extract_chapters_ashiq(session, clean_url, post_id)
     slug = clean_url.rstrip("/").split("/")[-1]
 
     return {
@@ -172,9 +197,10 @@ def fetch_ashiq_catalog(session) -> list:
     page = 1
 
     while page <= MAX_PAGES_SAFETY:
+        # رابط الفهرس المباشر لصفحات المانجا
         url = f"{BASE_URL}/manga/?m_orderby=views" if page == 1 else f"{BASE_URL}/manga/page/{page}/?m_orderby=views"
         try:
-            res = session.get(url, timeout=20)
+            res = session.get(url, timeout=25)
             soup = BeautifulSoup(res.text, "html.parser")
             cards = soup.select("div.page-item-detail.manga")
 
@@ -183,10 +209,11 @@ def fetch_ashiq_catalog(session) -> list:
 
             new_in_page = 0
             for card in cards:
-                title_links = card.select("h3.h5 a")
-                if not title_links:
+                # عزل رابط المانجا عن روابط حسابات التواصل الخاصة بفرق الترجمة
+                link = card.select_one("div.post-title h3 a[href*='/manga/'], h3.h5 a[href*='/manga/']")
+                if not link:
                     continue
-                link = title_links[-1]
+
                 title = link.text.strip()
                 manga_url = normalize_url(link.get("href", ""))
                 slug = manga_url.split("/")[-1]
@@ -195,13 +222,11 @@ def fetch_ashiq_catalog(session) -> list:
                     img = card.select_one("div.item-thumb img")
                     cover = ""
                     if img:
-                        cover = img.get("src", "").strip()
-                        if not cover or "data:image" in cover:
-                            cover = img.get("data-src", "").strip() or img.get("data-lazy-src", "").strip()
+                        cover = (img.get("src") or img.get("data-src") or "").strip()
                     if cover:
                         cover = normalize_url(cover)
 
-                    score_el = card.select_one("span.score")
+                    score_el = card.select_one("span.score, span.total_votes")
                     rating = format_rating(score_el.text if score_el else "")
 
                     badges = card.select_one("span.manga-title-badges")
@@ -222,7 +247,7 @@ def fetch_ashiq_catalog(session) -> list:
                 break
 
             page += 1
-            time.sleep(0.2)
+            time.sleep(0.3)
         except Exception as e:
             print(f"خطأ أثناء سحب صفحة {page}: {e}")
             break
@@ -234,7 +259,10 @@ def sync_ashiq_fast():
     session = get_session()
     catalog = fetch_ashiq_catalog(session)
 
-    # معالجة أول 20 عملاً فقط لتوليد تفاصيلها وفصولها
+    if not catalog:
+        print("⚠️ لم يتم العثور على أي أعمال في الفهرس.")
+        return
+
     top_targets = catalog[:DETAILS_SYNC_LIMIT]
 
     for index, item in enumerate(top_targets, 1):
@@ -250,11 +278,10 @@ def sync_ashiq_fast():
             item["status"] = details["status"]
             item["total_chapters"] = len(details["chapters"])
             print(f"✓ [{index}/{len(top_targets)}] تم تجهيز العاشق: {slug} ({len(details['chapters'])} فصل)")
-            time.sleep(0.3)
+            time.sleep(0.4)
         except Exception as e:
             print(f"خطأ أثناء معالجة {slug}: {e}")
 
-    # حفظ الفهرس العام
     with open(CATALOG_FILE, "w", encoding="utf-8") as f:
         json.dump(catalog, f, ensure_ascii=False, indent=2)
 
