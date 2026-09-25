@@ -9,11 +9,13 @@ from curl_cffi import requests
 BASE_URL = "https://seanovel.org"
 DATA_DIR = os.path.join("data", "seanovel")
 CATALOG_FILE = os.path.join(DATA_DIR, "catalog.json")
+GLOBAL_NEW_FILE = os.path.join("data", "new.json")
 
-# عدد الروايات المحدثة حديثاً التي يتم فحص تفاصيلها وفصولها في كل دورة سريعة
-DETAILS_SYNC_LIMIT = 1000 
+# عدد الروايات المحدثة حديثاً التي يتم فحص تفاصيلها وفصولها في كل دورة
+DETAILS_SYNC_LIMIT = 30  # فحص أحدث 30 رواية نشطة لسرعة التنفيذ ومنع التايم آوت
 
 os.makedirs(DATA_DIR, exist_ok=True)
+os.makedirs("data", exist_ok=True)
 
 def get_session():
     session = requests.Session(impersonate="chrome124")
@@ -32,17 +34,31 @@ def normalize_url(raw_url: str) -> str:
         u = f"{BASE_URL}{u}" if u.startswith("/") else f"{BASE_URL}/{u}"
     return u.replace("http://", "https://")
 
-def load_existing_catalog() -> dict:
-    """تحميل الكتالوج القديم كـ Dictionary لتسهيل الدمج والتحديث التراكمي"""
-    if not os.path.exists(CATALOG_FILE):
-        return {}
-    try:
-        with open(CATALOG_FILE, "r", encoding="utf-8") as f:
-            items = json.load(f)
-            return {item["id"]: item for item in items if "id" in item}
-    except Exception as e:
-        print(f"⚠️ تعذر قراءة الكتالوج القديم: {e}")
-        return {}
+def update_global_new_releases(new_releases: list):
+    """دمج الإشعارات الجديدة في data/new.json دون مسح تحديثات المصادر الأخرى"""
+    if not new_releases:
+        return
+
+    existing_releases = []
+    if os.path.exists(GLOBAL_NEW_FILE):
+        try:
+            with open(GLOBAL_NEW_FILE, "r", encoding="utf-8") as f:
+                existing_releases = json.load(f)
+        except Exception:
+            existing_releases = []
+
+    combined = new_releases + existing_releases
+    seen = set()
+    deduped = []
+    for item in combined:
+        key = (item.get("id"), item.get("chapter"))
+        if key not in seen:
+            seen.add(key)
+            deduped.append(item)
+
+    with open(GLOBAL_NEW_FILE, "w", encoding="utf-8") as f:
+        json.dump(deduped[:10], f, ensure_ascii=False, indent=2)
+    print(f"🔔 تم تسجيل {len(new_releases)} تحديث جديد لبحر الروايات في {GLOBAL_NEW_FILE}")
 
 def scrape_novel_details(session, slug: str, novel_url: str) -> dict:
     res = session.get(novel_url, timeout=25)
@@ -54,7 +70,6 @@ def scrape_novel_details(session, slug: str, novel_url: str) -> dict:
     book_schema = {}
     faq_schema = {}
 
-    # استخراج Schema.org للرواية
     for script in soup.find_all("script", attrs={"type": "application/ld+json"}):
         try:
             content = script.string or script.text or ""
@@ -68,31 +83,26 @@ def scrape_novel_details(session, slug: str, novel_url: str) -> dict:
         except Exception:
             continue
 
-    # استخراج العنوان
     title = book_schema.get("name")
     if not title:
         title_node = soup.select_one("h1.novel-title, h1")
         title = title_node.get_text(strip=True) if title_node else slug
 
-    # استخراج الغلاف
     cover_url = book_schema.get("image")
     if not cover_url:
         cover_node = soup.select_one("img.novel-cover, meta[property='og:image']")
         cover_url = cover_node.get("src") or cover_node.get("content") or f"{BASE_URL}/api/novel/{slug}/cover"
     cover_url = normalize_url(cover_url)
 
-    # استخراج الوصف
     description = book_schema.get("description")
     if not description:
         desc_node = soup.select_one("p.novel-description-para, .novel-about-card-ios")
         description = desc_node.get_text("\n", strip=True) if desc_node else "لا يوجد وصف"
 
-    # استخراج التصنيفات
     genres = book_schema.get("genre")
     if not genres or not isinstance(genres, list):
         genres = [a.get_text(strip=True) for a in soup.select(".tags-scroll-container-ios a, a.genre-pill-modern-ios")]
 
-    # استخراج الحالة
     status = "مستمر"
     for item in faq_schema.get("mainEntity", []):
         ans = item.get("acceptedAnswer", {}).get("text", "")
@@ -100,7 +110,6 @@ def scrape_novel_details(session, slug: str, novel_url: str) -> dict:
             status = "مكتملة" if "مكتملة" in ans else "مستمرة"
             break
 
-    # استخراج إجمالي الفصول
     total_chapters = int(book_schema.get("numberOfPages") or 0)
     if total_chapters <= 0:
         stat_nodes = soup.select(".stat-col-ios")
@@ -134,14 +143,23 @@ def sync_seanovel():
     session = get_session()
     print("🚀 بدء المزامنة التراكمية لبحر الروايات (SeaNovel)...")
 
-    # 1. استرجاع الأرشيف المخزن مسبقاً
-    catalog_map = load_existing_catalog()
-    print(f"📂 تم تحميل {len(catalog_map)} رواية محفوظة مسبقاً في الأرشيف.")
+    # 1. استرجاع الأرشيف القديم
+    old_catalog = []
+    if os.path.exists(CATALOG_FILE):
+        try:
+            with open(CATALOG_FILE, "r", encoding="utf-8") as f:
+                old_catalog = json.load(f)
+        except Exception as e:
+            print(f"⚠️ خطأ أثناء قراءة الكتالوج القديم: {e}")
+            old_catalog = []
 
-    active_slugs_this_run = []  # الروايات الأحدث المعروضة في الواجهة
+    old_map = {item["id"]: item for item in old_catalog if "id" in item}
+    print(f"📂 تم تحميل {len(old_map)} رواية محفوظة مسبقاً في الأرشيف.")
+
+    active_slugs_this_run = []
     discovered_slugs = set()
 
-    # 2. فحص الصفحة الرئيسية (أحدث الروايات المحدثة والنشطة)
+    # 2. فحص الصفحة الرئيسية (أحدث الروايات المحدثة)
     try:
         home_res = session.get(BASE_URL, timeout=20)
         if home_res.status_code == 200:
@@ -151,11 +169,11 @@ def sync_seanovel():
                     if s not in active_slugs_this_run:
                         active_slugs_this_run.append(s)
                     discovered_slugs.add(s)
-            print(f"الصفحة الرئيسية: تم رصد {len(active_slugs_this_run)} رواية نشطة.")
+            print(f"الصفحة الرئيسية: تم رصد {len(active_slugs_this_run)} رواية نشطة ومحدثة.")
     except Exception as e:
         print(f"تنبيه أثناء قراءة الصفحة الرئيسية: {e}")
 
-    # 3. سحب الفهرس الشامل من خريطة الموقع (Sitemap) لاكتشاف أي روايات جديدة كلياً
+    # 3. سحب الفهرس الشامل من خريطة الموقع (Sitemap)
     try:
         sitemap_url = f"{BASE_URL}/sitemap-novels.xml"
         sm_res = session.get(sitemap_url, timeout=20)
@@ -168,26 +186,16 @@ def sync_seanovel():
     except Exception as e:
         print(f"تنبيه أثناء قراءة Sitemap: {e}")
 
-    # 4. دمج الروايات المكتشفة في الكتالوج بدون مسح بيانات الأعمال القديمة
-    for s in discovered_slugs:
-        if s not in catalog_map:
-            catalog_map[s] = {
-                "id": s,
-                "title": s.replace("-", " "),
-                "url": f"{BASE_URL}/novels/{s}",
-                "cover_url": f"{BASE_URL}/api/novel/{s}/cover",
-                "type": "رواية",
-                "status": "مستمر",
-                "rating": ""
-            }
-
-    # 5. تجهيز وتحديث ملفات الفصول للروايات النشطة في هذا التشغيل فقط
+    # 4. معالجة الروايات النشطة في الواجهة وتحديث فصولها
     targets = active_slugs_this_run[:DETAILS_SYNC_LIMIT]
     print(f"\n⚡ فحص وتحديث فصول {len(targets)} رواية نشطة من التحديثات الأخيرة...")
+    
+    freshly_scraped = []
+    new_releases = []
 
     for idx, slug in enumerate(targets, 1):
         file_path = os.path.join(DATA_DIR, f"{slug}.json")
-        item_meta = catalog_map.get(slug, {})
+        item_meta = old_map.get(slug, {})
         novel_url = item_meta.get("url") or f"{BASE_URL}/novels/{slug}"
 
         existing_data = {}
@@ -203,20 +211,42 @@ def sync_seanovel():
         try:
             details = scrape_novel_details(session, slug, novel_url)
             target_total = details["total_chapters"]
+            prev_chaps = old_map.get(slug, {}).get("total_chapters", 0)
 
-            # تحديث بيانات الكتالوج بالبيانات العربية الحقيقية
-            catalog_map[slug].update({
+            # كشف التحديثات لملف new.json
+            if slug not in old_map:
+                new_releases.append({
+                    "id": slug,
+                    "title": details["title"],
+                    "chapter": f"الفصل {target_total}" if target_total > 0 else "رواية جديدة",
+                    "type": "رواية",
+                    "cover_url": details["cover_url"]
+                })
+            elif target_total > prev_chaps and target_total > 0:
+                new_releases.append({
+                    "id": slug,
+                    "title": details["title"],
+                    "chapter": f"الفصل {target_total}",
+                    "type": "رواية",
+                    "cover_url": details["cover_url"]
+                })
+
+            freshly_scraped.append({
+                "id": slug,
                 "title": details["title"],
+                "url": novel_url,
                 "cover_url": details["cover_url"],
-                "status": details["status"]
+                "type": "رواية",
+                "status": details["status"],
+                "rating": "",
+                "total_chapters": target_total
             })
 
-            # ⚡ كاش ذكي: إذا كانت الفصول مكتملة ومتطابقة محلياً نتخطى الحفظ
+            # ⚡ كاش ذكي
             if existing_chapters_count >= target_total and target_total > 0:
                 print(f"⚡ [{idx}/{len(targets)}] متطابق ومكتمل: {details['title']} ({target_total} فصل)")
                 continue
 
-            # توليد ودمج الفصول التراكمي
             chapters_map = existing_data.get("chapters", {})
             for i in range(1, target_total + 1):
                 ch_url = f"{BASE_URL}/novels/{slug}/chapters/{i}"
@@ -245,23 +275,48 @@ def sync_seanovel():
                 json.dump(novel_payload, f, ensure_ascii=False, indent=2)
 
             print(f"✓ [{idx}/{len(targets)}] تم التحديث: {details['title']} ({len(chapters_map)} فصل)")
-            time.sleep(0.3)
+            time.sleep(0.2)
         except Exception as e:
             print(f"خطأ أثناء تجهيز {slug}: {e}")
 
-    # 6. حفظ الكتالوج المدمج الشامل (القديم + المحدث والجديد)
-    full_catalog_list = list(catalog_map.values())
-    with open(CATALOG_FILE, "w", encoding="utf-8") as f:
-        json.dump(full_catalog_list, f, ensure_ascii=False, indent=2)
+    # ================== 5. الدمج الذكي للكتالوج ==================
+    # الروايات المحدثة تصعد للأول، وبقية الأرشيف المكتشف والقديم يبقى بالأسفل
+    fresh_ids = {x["id"] for x in freshly_scraped}
+    remaining_old = [x for x in old_catalog if x.get("id") not in fresh_ids]
 
-    print(f"\n✨ تم حفظ الفهرس العام بنجاح (المجموع الإجمالي: {len(full_catalog_list)} رواية).")
+    # إضافة أي روايات جديدة تم اكتشافها عبر Sitemap ولم تُفحص بعد
+    for s in discovered_slugs:
+        if s not in fresh_ids and s not in old_map:
+            remaining_old.append({
+                "id": s,
+                "title": s.replace("-", " "),
+                "url": f"{BASE_URL}/novels/{s}",
+                "cover_url": f"{BASE_URL}/api/novel/{s}/cover",
+                "type": "رواية",
+                "status": "مستمر",
+                "rating": "",
+                "total_chapters": 0
+            })
+
+    final_merged_catalog = freshly_scraped + remaining_old
+
+    with open(CATALOG_FILE, "w", encoding="utf-8") as f:
+        json.dump(final_merged_catalog, f, ensure_ascii=False, indent=2)
+
+    print(f"\n💾 تم حفظ الفهرس العام المدمج: {len(final_merged_catalog)} رواية (الأحدث في الصدارة).")
+
+    # تحديث ملف الإشعارات العام
+    if new_releases:
+        update_global_new_releases(new_releases)
+
     print("🎉 اكتملت المزامنة التراكمية لبحر الروايات بنجاح تام!")
 
 def auto_push_to_github():
     print("\n📤 فحص ورفع تحديثات بحر الروايات إلى GitHub...")
     try:
+        # فحص مجلد data/ كاملاً لضمان رفع الكاتلوج وملف الإشعارات data/new.json
         status = subprocess.run(
-            ["git", "status", "--porcelain", "data/seanovel/"], 
+            ["git", "status", "--porcelain", "data/"], 
             capture_output=True, 
             text=True
         )
@@ -269,11 +324,10 @@ def auto_push_to_github():
             print("✨ لا توجد ملفات جديدة للرفع.")
             return
 
-        subprocess.run(["git", "add", "data/seanovel/"], check=True)
-        commit_msg = f"Incremental sync: SeaNovel data ({time.strftime('%Y-%m-%d %H:%M')})"
+        subprocess.run(["git", "add", "data/"], check=True)
+        commit_msg = f"Incremental sync: SeaNovel & New Releases ({time.strftime('%Y-%m-%d %H:%M')})"
         subprocess.run(["git", "commit", "-m", commit_msg], check=True)
-        
-        # دفع آمن بدون force
+        subprocess.run(["git", "pull", "--rebase"], check=True)
         subprocess.run(["git", "push", "origin", "main"], check=True)
         print("⚡ تم الرفع بنجاح إلى المستودع!")
     except subprocess.CalledProcessError as e:
