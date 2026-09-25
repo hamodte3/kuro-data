@@ -9,11 +9,13 @@ from curl_cffi import requests
 BASE_URL = "https://cenele.com"
 DATA_DIR = os.path.join("data", "riwyat")
 CATALOG_FILE = os.path.join(DATA_DIR, "catalog.json")
+GLOBAL_NEW_FILE = os.path.join("data", "new.json")
 
-# 🎯 عدد الصفحات للجولات السريعة (مثلاً 3 صفحات تكفي لجلب أحدث الروايات المحدثة)
+# 🎯 عدد الصفحات للجولات السريعة (تحديث الجديد فقط)
 MAX_PAGES = 3 
 
 os.makedirs(DATA_DIR, exist_ok=True)
+os.makedirs("data", exist_ok=True)
 
 def get_session():
     session = requests.Session(impersonate="chrome124")
@@ -32,17 +34,31 @@ def normalize_url(raw_url: str) -> str:
         u = f"{BASE_URL}{u}" if u.startswith("/") else f"{BASE_URL}/{u}"
     return u.replace("http://", "https://")
 
-def load_existing_catalog() -> dict:
-    """تحميل الكتالوج القديم كـ Dictionary لتسهيل الدمج والتحديث التراكمي"""
-    if not os.path.exists(CATALOG_FILE):
-        return {}
-    try:
-        with open(CATALOG_FILE, "r", encoding="utf-8") as f:
-            items = json.load(f)
-            return {item["id"]: item for item in items if "id" in item}
-    except Exception as e:
-        print(f"⚠️ تعذر قراءة الكتالوج القديم: {e}")
-        return {}
+def update_global_new_releases(new_releases: list):
+    """دمج الإشعارات الجديدة في data/new.json دون مسح تحديثات المصادر الأخرى"""
+    if not new_releases:
+        return
+
+    existing_releases = []
+    if os.path.exists(GLOBAL_NEW_FILE):
+        try:
+            with open(GLOBAL_NEW_FILE, "r", encoding="utf-8") as f:
+                existing_releases = json.load(f)
+        except Exception:
+            existing_releases = []
+
+    combined = new_releases + existing_releases
+    seen = set()
+    deduped = []
+    for item in combined:
+        key = (item.get("id"), item.get("chapter"))
+        if key not in seen:
+            seen.add(key)
+            deduped.append(item)
+
+    with open(GLOBAL_NEW_FILE, "w", encoding="utf-8") as f:
+        json.dump(deduped[:10], f, ensure_ascii=False, indent=2)
+    print(f"🔔 تم تسجيل {len(new_releases)} تحديث جديد لفضاء الروايات في {GLOBAL_NEW_FILE}")
 
 def scrape_riwyat_details(session, slug: str, manga_url: str) -> dict:
     res = session.get(manga_url, timeout=25)
@@ -125,11 +141,21 @@ def sync_riwyat():
     session = get_session()
     print(f"🚀 بدء المزامنة التراكمية لفضاء الروايات (فحص أول {MAX_PAGES} صفحات)...")
 
-    # 1. تحميل الأرشيف المحفوظ
-    catalog_map = load_existing_catalog()
-    print(f"📂 تم تحميل {len(catalog_map)} رواية محفوظة مسبقاً.")
+    # 1. تحميل الأرشيف المحفوظ مسبقاً
+    old_catalog = []
+    if os.path.exists(CATALOG_FILE):
+        try:
+            with open(CATALOG_FILE, "r", encoding="utf-8") as f:
+                old_catalog = json.load(f)
+        except Exception as e:
+            print(f"⚠️ تعذر قراءة الكتالوج القديم: {e}")
+            old_catalog = []
 
-    active_novels_this_run = []  # الروايات المحدثة في هذه الجولة فقط
+    old_map = {item["id"]: item for item in old_catalog if "id" in item}
+    print(f"📂 تم تحميل {len(old_map)} رواية محفوظة مسبقاً في الأرشيف.")
+
+    freshly_scraped = []
+    seen_fresh_ids = set()
 
     # 2. سحب الصفحات المحددة فقط
     for page in range(1, MAX_PAGES + 1):
@@ -149,6 +175,9 @@ def sync_riwyat():
             if not a_tag: continue
             href = normalize_url(a_tag.get("href", "")).rstrip("/")
             slug = href.split("/")[-1]
+            if slug in seen_fresh_ids: continue
+
+            seen_fresh_ids.add(slug)
             title = a_tag.get_text(strip=True) or slug
             img = card.select_one(".nhv-library-card__cover img")
             cover = normalize_url(img.get("src", "") if img else "")
@@ -160,34 +189,21 @@ def sync_riwyat():
                 "cover_url": cover,
                 "type": "رواية",
                 "status": "مستمر",
-                "rating": ""
+                "rating": "",
+                "total_chapters": old_map.get(slug, {}).get("total_chapters", 0)
             }
-
-            # دمج الرواية في الكتالوج
-            if slug in catalog_map:
-                catalog_map[slug].update(entry)
-            else:
-                catalog_map[slug] = entry
-
-            if slug not in active_novels_this_run:
-                active_novels_this_run.append(slug)
+            freshly_scraped.append(entry)
 
         print(f"فضاء الروايات [صفحة {page}]: تم فحص الأعمال المحدثة.")
         time.sleep(0.3)
 
-    # 3. حفظ الكتالوج المدمج بالكامل
-    full_catalog_list = list(catalog_map.values())
-    with open(CATALOG_FILE, "w", encoding="utf-8") as f:
-        json.dump(full_catalog_list, f, ensure_ascii=False, indent=2)
+    # 3. تحديث تفاصيل وفصول الروايات النشطة وكشف الإشعارات
+    print(f"\n⚡ تحديث فصول {len(freshly_scraped)} رواية نشطة...")
+    new_releases = []
 
-    print(f"\n✨ تم حفظ الفهرس العام بنجاح (المجموع الإجمالي: {len(full_catalog_list)} رواية).")
-
-    # 4. تحديث تفاصيل وفصول الروايات النشطة في هذا التشغيل فقط
-    print(f"\n⚡ تحديث فصول {len(active_novels_this_run)} رواية نشطة...")
-
-    for idx, slug in enumerate(active_novels_this_run, 1):
+    for idx, item in enumerate(freshly_scraped, 1):
+        slug = item["id"]
         file_path = os.path.join(DATA_DIR, f"{slug}.json")
-        item_meta = catalog_map[slug]
 
         existing_data = {}
         if os.path.exists(file_path):
@@ -198,28 +214,66 @@ def sync_riwyat():
                 pass
 
         try:
-            new_details = scrape_riwyat_details(session, slug, item_meta["url"])
+            new_details = scrape_riwyat_details(session, slug, item["url"])
 
-            # 🛡️ دمج الفصول التراكمي: الحفاظ على الفصول السابقة وإضافة الجديد فوقها
+            # 🛡️ دمج الفصول التراكمي
             merged_chapters = existing_data.get("chapters", {})
             merged_chapters.update(new_details["chapters"])
             new_details["chapters"] = merged_chapters
+            
+            total_chapters = len(merged_chapters)
+            item["total_chapters"] = total_chapters
+            item["rating"] = new_details["rating"]
+            prev_chaps = old_map.get(slug, {}).get("total_chapters", 0)
+
+            # كشف التحديثات لإشعارات التطبيق
+            if slug not in old_map:
+                new_releases.append({
+                    "id": slug,
+                    "title": item["title"],
+                    "chapter": f"الفصل {total_chapters}" if total_chapters > 0 else "رواية جديدة",
+                    "type": "رواية",
+                    "cover_url": item["cover_url"]
+                })
+            elif total_chapters > prev_chaps and total_chapters > 0:
+                new_releases.append({
+                    "id": slug,
+                    "title": item["title"],
+                    "chapter": f"الفصل {total_chapters}",
+                    "type": "رواية",
+                    "cover_url": item["cover_url"]
+                })
 
             with open(file_path, "w", encoding="utf-8") as f:
                 json.dump(new_details, f, ensure_ascii=False, indent=2)
 
-            print(f"✓ [{idx}/{len(active_novels_this_run)}] تم التحديث: {slug} ({len(merged_chapters)} فصل)")
+            print(f"✓ [{idx}/{len(freshly_scraped)}] تم التحديث: {slug} ({total_chapters} فصل)")
             time.sleep(0.3)
         except Exception as e:
             print(f"خطأ أثناء تجهيز {slug}: {e}")
 
-    print("\n🎉 اكتملت المزامنة التراكمية لفضاء الروايات بنجاح تام!")
+    # ================== 4. الدمج الذكي للكاتلوج ==================
+    fresh_ids = {x["id"] for x in freshly_scraped}
+    remaining_old = [x for x in old_catalog if x.get("id") not in fresh_ids]
+    final_merged_catalog = freshly_scraped + remaining_old
+
+    with open(CATALOG_FILE, "w", encoding="utf-8") as f:
+        json.dump(final_merged_catalog, f, ensure_ascii=False, indent=2)
+
+    print(f"\n💾 تم حفظ الفهرس العام المدمج: {len(final_merged_catalog)} رواية (الجديد في الصدارة).")
+
+    # تحديث ملف الإشعارات العام
+    if new_releases:
+        update_global_new_releases(new_releases)
+
+    print("🎉 اكتملت المزامنة التراكمية لفضاء الروايات بنجاح تام!")
 
 def auto_push_to_github():
     print("\n📤 فحص ورفع تحديثات فضاء الروايات إلى GitHub...")
     try:
+        # فحص مجلد data/ بالكامل لضمان شمل الكاتلوج وملف الإشعارات data/new.json
         status = subprocess.run(
-            ["git", "status", "--porcelain", "data/riwyat/"], 
+            ["git", "status", "--porcelain", "data/"], 
             capture_output=True, 
             text=True
         )
@@ -227,11 +281,10 @@ def auto_push_to_github():
             print("✨ لا توجد ملفات جديدة للرفع.")
             return
 
-        subprocess.run(["git", "add", "data/riwyat/"], check=True)
-        commit_msg = f"Incremental sync: Riwyat ({time.strftime('%Y-%m-%d %H:%M')})"
+        subprocess.run(["git", "add", "data/"], check=True)
+        commit_msg = f"Incremental sync: Riwyat & New Releases ({time.strftime('%Y-%m-%d %H:%M')})"
         subprocess.run(["git", "commit", "-m", commit_msg], check=True)
-        
-        # دفع آمن بدون force
+        subprocess.run(["git", "pull", "--rebase"], check=True)
         subprocess.run(["git", "push", "origin", "main"], check=True)
         print("⚡ تم الرفع بنجاح إلى المستودع!")
     except subprocess.CalledProcessError as e:
