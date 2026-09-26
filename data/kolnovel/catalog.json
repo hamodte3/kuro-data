@@ -1039,15 +1039,6 @@
     "rating": "8.8"
   },
   {
-    "id": "shrouded-seascape",
-    "title": "بحر الأرض المغمور",
-    "url": "https://kolnovel.com/series/shrouded-seascape",
-    "cover_url": "https://kolnovel.com/wp-content/uploads/2023/09/75.png",
-    "type": "رواية",
-    "is_novel": true,
-    "rating": "8.5"
-  },
-  {
     "id": "kingdoms-bloodline",
     "title": "سليل المملكة",
     "url": "https://kolnovel.com/series/kingdoms-bloodline",
@@ -1055,6 +1046,15 @@
     "type": "رواية",
     "is_novel": true,
     "rating": "9.0"
+  },
+  {
+    "id": "shrouded-seascape",
+    "title": "بحر الأرض المغمور",
+    "url": "https://kolnovel.com/series/shrouded-seascape",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2023/09/75.png",
+    "type": "رواية",
+    "is_novel": true,
+    "rating": "8.5"
   },
   {
     "id": "chronicles-of-the-heavenly-demon",
