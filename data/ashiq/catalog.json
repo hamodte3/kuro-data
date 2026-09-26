@@ -1,5 +1,25 @@
 [
   {
+    "id": "dig-it",
+    "title": "Dig It",
+    "url": "https://3asq.online/manga/dig-it",
+    "cover_url": "https://3asq.online/wp-content/uploads/2026/09/9ef2ff00-f549-4a56-85f6-5ca3e3e3e63d-175x238.jpg",
+    "type": "ICE CREAM",
+    "rating": "",
+    "status": "مستمر",
+    "total_chapters": 15
+  },
+  {
+    "id": "baki-rahen",
+    "title": "Baki Rahen",
+    "url": "https://3asq.online/manga/baki-rahen",
+    "cover_url": "https://3asq.online/wp-content/uploads/2025/07/Baki-Rahen-175x238.jpg",
+    "type": "BAKI",
+    "rating": "4.4",
+    "status": "مستمر",
+    "total_chapters": 70
+  },
+  {
     "id": "one-piece",
     "title": "One Piece",
     "url": "https://3asq.online/manga/one-piece",
@@ -140,16 +160,6 @@
     "total_chapters": 11
   },
   {
-    "id": "baki-rahen",
-    "title": "Baki Rahen",
-    "url": "https://3asq.online/manga/baki-rahen",
-    "cover_url": "https://3asq.online/wp-content/uploads/2025/07/Baki-Rahen-175x238.jpg",
-    "type": "BAKI",
-    "rating": "4.4",
-    "status": "مستمر",
-    "total_chapters": 69
-  },
-  {
     "id": "sangeki",
     "title": "Sangeki",
     "url": "https://3asq.online/manga/sangeki",
@@ -195,9 +205,7 @@
     "url": "https://3asq.online/manga/100-ghost-stories-that-will-lead-to-my-own-death",
     "cover_url": "https://3asq.online/wp-content/uploads/2026/09/fcc9deaf-e68a-4986-99ea-53ea25ea2ce6.jpg.512-175x238.jpg",
     "type": "HOKAGE TEAM",
-    "rating": "",
-    "status": "مكتمل",
-    "total_chapters": 1
+    "rating": ""
   },
   {
     "id": "kingdom-2",
