@@ -1,13 +1,13 @@
 {
   "id": "kill-the-dragon",
   "title": "Reloaded into the Other World",
-  "cover_url": "https://mangatime.org/uploads/cover/6a952073a2fc48e05c05f189/2026/09/mau0sqdw.jpg",
+  "cover_url": "https://mangatime.org/uploads/cover/6a952073a2fc48e05c05f189/2026/09/m3ris02w.png",
   "description": "استدعاه الإمبراطور كمنقذ، فطرده لأنه مجرد فتى عادي. عاد سيهان سونغ بعد سنوات مع 6 محاربين وأسقط الإمبراطورية، لكنه خُدع في النهاية ونُفي إلى الأرض مجرداً من كل شيء.\n\nبعد 10 سنوات من الذل، عاد مرة أخرى إلى تيرانور. أبطال الأمس أصبحوا خونة اليوم، والعالم الذي أنقذه نسيه. هذه المرة، لن ينقذ أحداً... سيستعيد ما سُلب منه، بمساعدة أليتا ابنة عدوه السابق.",
   "type": "مانهوا",
   "status": "مستمر",
-  "last_update": "2026-09-23",
+  "last_update": "2026-09-26",
   "rating": "10.0",
-  "favorites": "",
+  "favorites": "2",
   "genres": [
     "اكشن",
     "نهاية العالم",
@@ -18,6 +18,22 @@
   ],
   "is_novel": false,
   "chapters": {
+    "https://mangatime.org/manhwa/kill-the-dragon/chapter/16": {
+      "name": "16",
+      "images": []
+    },
+    "https://mangatime.org/manhwa/kill-the-dragon/chapter/15": {
+      "name": "15",
+      "images": []
+    },
+    "https://mangatime.org/manhwa/kill-the-dragon/chapter/14": {
+      "name": "14",
+      "images": []
+    },
+    "https://mangatime.org/manhwa/kill-the-dragon/chapter/13": {
+      "name": "13",
+      "images": []
+    },
     "https://mangatime.org/manhwa/kill-the-dragon/chapter/12": {
       "name": "12",
       "images": []

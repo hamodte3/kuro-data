@@ -1,12 +1,11 @@
 import json
 import os
 import time
-import subprocess
 
 try:
-    import requests
-except ImportError:
     from curl_cffi import requests
+except ImportError:
+    import requests
 
 API_BASE = "http://62.171.141.197:5007"
 WEB_BASE = "https://realmnovel.com"
@@ -14,8 +13,8 @@ DATA_DIR = os.path.join("data", "realmnovel")
 CATALOG_FILE = os.path.join(DATA_DIR, "catalog.json")
 GLOBAL_NEW_FILE = os.path.join("data", "new.json")
 
-# فحص أول 10 صفحات لجلب أحدث التحديثات الدورية
-MAX_PAGES = 10 
+DETAILS_SYNC_LIMIT = 20   # تجهيز وتحديث ملفات فصول أحدث 20 رواية فقط
+MAX_DELTA_PAGES = 5       # فحص أول 5 صفحات فقط كل ساعة (100 رواية محدثة)
 
 os.makedirs(DATA_DIR, exist_ok=True)
 os.makedirs("data", exist_ok=True)
@@ -31,6 +30,18 @@ def get_session():
     s = requests.Session()
     s.headers.update(HEADERS)
     return s
+
+def load_existing_catalog() -> dict:
+    """تحميل الأرشيف القديم لمنع مسح أو تصفير أي رواية سابقة"""
+    if not os.path.exists(CATALOG_FILE):
+        return {}
+    try:
+        with open(CATALOG_FILE, "r", encoding="utf-8") as f:
+            data = json.load(f)
+            return {item["id"]: item for item in data if "id" in item}
+    except Exception as e:
+        print(f"⚠️ تعذر قراءة الكتالوج القديم: {e}")
+        return {}
 
 def update_global_new_releases(new_releases: list):
     """دمج الإشعارات الجديدة في data/new.json دون مسح تحديثات المصادر الأخرى"""
@@ -55,7 +66,7 @@ def update_global_new_releases(new_releases: list):
             deduped.append(item)
 
     with open(GLOBAL_NEW_FILE, "w", encoding="utf-8") as f:
-        json.dump(deduped[:10], f, ensure_ascii=False, indent=2)
+        json.dump(deduped[:15], f, ensure_ascii=False, indent=2)
     print(f"🔔 تم تسجيل {len(new_releases)} تحديث جديد لعالم الروايات في {GLOBAL_NEW_FILE}")
 
 def fetch_novel_api_details(session, novel_id: str) -> dict:
@@ -71,26 +82,13 @@ def fetch_novel_api_details(session, novel_id: str) -> dict:
 
 def sync_realmnovel():
     session = get_session()
-    print(f"🚀 بدء المزامنة التراكمية لعالم الروايات (فحص أول {MAX_PAGES} صفحات)...")
+    print(f"🚀 بدء المزامنة الخاطفة لعالم الروايات (فحص أول {MAX_DELTA_PAGES} صفحات)...")
 
-    # 1. تحميل الكتالوج القديم كأرشيف للمقارنة والدمج
-    old_catalog = []
-    if os.path.exists(CATALOG_FILE):
-        try:
-            with open(CATALOG_FILE, "r", encoding="utf-8") as f:
-                old_catalog = json.load(f)
-        except Exception as e:
-            print(f"⚠️ تعذر قراءة الكتالوج القديم: {e}")
-            old_catalog = []
+    catalog_dict = load_existing_catalog()
+    ordered_recent_slugs = []
 
-    old_map = {item["id"]: item for item in old_catalog if "id" in item}
-    print(f"📂 تم تحميل {len(old_map)} رواية محفوظة مسبقاً في الأرشيف.")
-
-    freshly_scraped = []
-    seen_fresh_ids = set()
-
-    # 2. سحب أحدث الروايات من الـ API
-    for page in range(1, MAX_PAGES + 1):
+    # 1. سحب أحدث 5 صفحات فقط من الـ API
+    for page in range(1, MAX_DELTA_PAGES + 1):
         url = f"{API_BASE}/novels/latest?page={page}&limit=20"
         try:
             res = session.get(url, timeout=15)
@@ -103,40 +101,59 @@ def sync_realmnovel():
             if not data:
                 break
 
+            new_in_page = 0
             for item in data:
                 nid = item.get("_id")
-                if not nid or nid in seen_fresh_ids:
+                if not nid:
                     continue
 
-                seen_fresh_ids.add(nid)
                 title = item.get("title") or item.get("titleEn") or nid
                 cover = f"{WEB_BASE}/img/novel/{nid}.jpg"
                 web_url = f"{WEB_BASE}/novel/{nid}"
 
-                entry = {
-                    "id": nid,
-                    "title": title,
-                    "url": web_url,
-                    "cover_url": cover,
-                    "type": "رواية",
-                    "status": item.get("status", "مستمرة"),
-                    "rating": str(item.get("rating", "")),
-                    "total_chapters": old_map.get(nid, {}).get("total_chapters", 0)
-                }
-                freshly_scraped.append(entry)
+                # استخراج عدد الفصول مباشرة من بيانات الفهرس إن توفرت
+                api_chaps = int(item.get("chaptersCount") or item.get("totalChapters") or item.get("chapters") or 0)
 
-            print(f"الـ API [صفحة {page}]: تم فحص البيانات بنجاح.")
-            time.sleep(0.2)
+                # التحديث الآمن مع الحفاظ على الأرشيف القديم
+                if nid in catalog_dict:
+                    catalog_dict[nid]["title"] = title
+                    catalog_dict[nid]["url"] = web_url
+                    catalog_dict[nid]["cover_url"] = cover
+                    catalog_dict[nid]["status"] = item.get("status", catalog_dict[nid].get("status", "مستمرة"))
+                    catalog_dict[nid]["rating"] = str(item.get("rating") or catalog_dict[nid].get("rating", ""))
+                    if api_chaps > 0:
+                        catalog_dict[nid]["total_chapters"] = api_chaps
+                else:
+                    catalog_dict[nid] = {
+                        "id": nid,
+                        "title": title,
+                        "url": web_url,
+                        "cover_url": cover,
+                        "type": "رواية",
+                        "status": item.get("status", "مستمرة"),
+                        "rating": str(item.get("rating", "")),
+                        "total_chapters": api_chaps
+                    }
+
+                if nid not in ordered_recent_slugs:
+                    ordered_recent_slugs.append(nid)
+
+                new_in_page += 1
+
+            print(f"الـ API [صفحة {page}]: رصد {new_in_page} رواية محدثة.")
+            time.sleep(0.15)
         except Exception as e:
             print(f"خطأ أثناء جلب الفهرس: {e}")
             break
 
-    # 3. تحديث ملفات الروايات الفردية وكشف الفصول الجديدة
-    print(f"\n⚡ فحص وتحديث فصول {len(freshly_scraped)} رواية من الجولة الحالية...")
+    # 2. فحص وتوليد الفصول لأحدث 20 رواية فقط
+    targets_slugs = ordered_recent_slugs[:DETAILS_SYNC_LIMIT]
     new_releases = []
 
-    for idx, item in enumerate(freshly_scraped, 1):
-        nid = item["id"]
+    print(f"\n⚡ تحديث ملفات الفصول لأحدث {len(targets_slugs)} رواية...")
+
+    for idx, nid in enumerate(targets_slugs, 1):
+        item = catalog_dict[nid]
         file_path = os.path.join(DATA_DIR, f"{nid}.json")
 
         existing_chapters_count = 0
@@ -156,107 +173,75 @@ def sync_realmnovel():
                 details.get("chaptersCount") or 
                 details.get("totalChapters") or 
                 details.get("chapters") or 
+                item.get("total_chapters") or 
                 existing_chapters_count
             )
 
+            prev_chaps = existing_chapters_count or item.get("total_chapters", 0)
             item["total_chapters"] = total_chapters
-            prev_chaps = old_map.get(nid, {}).get("total_chapters", 0)
 
-            # التقاط إشعارات الروايات الجديدة والفصول المحدثة
-            if nid not in old_map:
+            # كشف التحديث لتوليد التنبيه
+            if total_chapters > prev_chaps and total_chapters > 0:
                 new_releases.append({
                     "id": nid,
                     "title": item["title"],
-                    "chapter": f"الفصل {total_chapters}" if total_chapters > 0 else "رواية جديدة",
-                    "type": "رواية",
-                    "cover_url": item["cover_url"]
-                })
-            elif total_chapters > prev_chaps and total_chapters > 0:
-                new_releases.append({
-                    "id": nid,
-                    "title": item["title"],
-                    "chapter": f"الفصل {total_chapters}",
+                    "chapter": f"الفصل {total_chapters}" if prev_chaps > 0 else "رواية جديدة",
                     "type": "رواية",
                     "cover_url": item["cover_url"]
                 })
 
-            # كاش ذكي: إذا كانت الفصول مطابقة لا نعيد كتابة الملف
-            if existing_chapters_count == total_chapters and total_chapters > 0:
-                print(f"⚡ [{idx}/{len(freshly_scraped)}] متطابق ومكتمل: {nid} ({total_chapters} فصل)")
-                continue
+            # توليد خريطة الفصول إذا وُجدت فصول جديدة
+            if existing_chapters_count != total_chapters or not os.path.exists(file_path):
+                chapters_map = existing_data.get("chapters", {})
+                for ch in range(1, total_chapters + 1):
+                    ch_url = f"{WEB_BASE}/novel/{nid}/chapter/{ch}"
+                    if ch_url not in chapters_map:
+                        chapters_map[ch_url] = {
+                            "name": str(ch),
+                            "images": []
+                        }
 
-            # توليد خريطة الفصول
-            chapters_map = existing_data.get("chapters", {})
-            for ch in range(1, total_chapters + 1):
-                ch_url = f"{WEB_BASE}/novel/{nid}/chapter/{ch}"
-                if ch_url not in chapters_map:
-                    chapters_map[ch_url] = {
-                        "name": str(ch),
-                        "images": []
-                    }
+                novel_payload = {
+                    "id": nid,
+                    "title": details.get("title") or item["title"],
+                    "cover_url": item["cover_url"],
+                    "description": details.get("description") or existing_data.get("description", "لا يوجد وصف"),
+                    "type": "رواية",
+                    "status": details.get("status") or item["status"],
+                    "last_update": "",
+                    "rating": str(details.get("rating") or item["rating"]),
+                    "favorites": "",
+                    "genres": details.get("genres") or existing_data.get("genres", ["فنون قتال", "عالم آخر"]),
+                    "is_novel": True,
+                    "chapters": chapters_map
+                }
 
-            novel_payload = {
-                "id": nid,
-                "title": details.get("title") or item["title"],
-                "cover_url": item["cover_url"],
-                "description": details.get("description") or existing_data.get("description", "لا يوجد وصف"),
-                "type": "رواية",
-                "status": details.get("status") or item["status"],
-                "last_update": "",
-                "rating": str(details.get("rating") or item["rating"]),
-                "favorites": "",
-                "genres": details.get("genres") or existing_data.get("genres", ["فنون قتال", "عالم آخر"]),
-                "is_novel": True,
-                "chapters": chapters_map
-            }
+                with open(file_path, "w", encoding="utf-8") as f:
+                    json.dump(novel_payload, f, ensure_ascii=False, indent=2)
 
-            with open(file_path, "w", encoding="utf-8") as f:
-                json.dump(novel_payload, f, ensure_ascii=False, indent=2)
+                print(f"✓ [{idx}/{len(targets_slugs)}] تم التحديث: {nid} ({len(chapters_map)} فصل)")
+            else:
+                print(f"⚡ [{idx}/{len(targets_slugs)}] متطابق مسبقاً: {nid} ({total_chapters} فصل)")
 
-            print(f"✓ [{idx}/{len(freshly_scraped)}] تم التحديث: {nid} ({len(chapters_map)} فصل)")
             time.sleep(0.15)
         except Exception as e:
             print(f"خطأ أثناء تجهيز {nid}: {e}")
 
-    # ================== 4. الدمج الذكي للكاتلوج ==================
-    # أحدث الروايات المصحوبة بتحديثات تتصدر الكاتلوج (Index 0)، والأرشيف القديم يبقى كاملاً في الخلف
-    fresh_ids = {x["id"] for x in freshly_scraped}
-    remaining_old = [x for x in old_catalog if x.get("id") not in fresh_ids]
-    final_merged_catalog = freshly_scraped + remaining_old
+    # 3. حفظ الفهرس التراكمي الشامل (الأحدث أولاً + بقية الأرشيف)
+    seen_slugs = set(ordered_recent_slugs)
+    final_merged_catalog = [catalog_dict[s] for s in ordered_recent_slugs] + [
+        item for s, item in catalog_dict.items() if s not in seen_slugs
+    ]
 
     with open(CATALOG_FILE, "w", encoding="utf-8") as f:
         json.dump(final_merged_catalog, f, ensure_ascii=False, indent=2)
 
-    print(f"\n💾 تم حفظ الكتالوج المدمج بنجاح: {len(final_merged_catalog)} رواية (الجديد في الصدارة).")
-
-    # تحديث ملف الإشعارات العام
+    # 4. تحديث ملف الإشعارات العام
     if new_releases:
         update_global_new_releases(new_releases)
 
-    print("⚡ اكتملت المزامنة التراكمية لعالم الروايات بنجاح تام!")
-
-def auto_push_to_github():
-    print("\n📤 فحص ورفع التحديثات إلى GitHub...")
-    try:
-        # فحص مجلد data كاملاً ليشمل الكاتلوج وملف data/new.json
-        status = subprocess.run(
-            ["git", "status", "--porcelain", "data/"], 
-            capture_output=True, 
-            text=True
-        )
-        if not status.stdout.strip():
-            print("✨ لا توجد ملفات جديدة للرفع.")
-            return
-
-        subprocess.run(["git", "add", "data/"], check=True)
-        commit_msg = f"Incremental sync: RealmNovel & New Releases ({time.strftime('%Y-%m-%d %H:%M')})"
-        subprocess.run(["git", "commit", "-m", commit_msg], check=True)
-        subprocess.run(["git", "pull", "--rebase"], check=True)
-        subprocess.run(["git", "push", "origin", "main"], check=True)
-        print("⚡ تم الرفع بنجاح إلى المستودع!")
-    except subprocess.CalledProcessError as e:
-        print(f"❌ خطأ أثناء الرفع لـ Git: {e}")
+    print(f"\n💾 تم حفظ الكتالوج المدمج بنجاح: {len(final_merged_catalog)} رواية.")
+    print("⚡ اكتملت مزامنة عالم الروايات الذكية بنجاح تام!")
 
 if __name__ == "__main__":
     sync_realmnovel()
-    auto_push_to_github()

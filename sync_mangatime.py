@@ -6,18 +6,17 @@ import urllib.parse
 from curl_cffi import requests
 
 BASE_URL = "https://mangatime.org"
-# 🎯 المسار المباشر الصحيح بدون /api لتفادي أخطاء الـ 404
 API_URL = f"{BASE_URL}/trpc"
 DATA_DIR = os.path.join("data", "mangatime")
 CATALOG_FILE = os.path.join(DATA_DIR, "catalog.json")
 GLOBAL_NEW_FILE = os.path.join("data", "new.json")
 
-MAX_PAGES_SAFETY = 70      # تغطية كافة صفحات الفهرس
+DETAILS_SYNC_LIMIT = 20    # فحص وتجهيز فصول أحدث 20 عملاً تم تحديثها
+MAX_DELTA_PAGES = 3        # فحص أول 3 صفحات فقط كل ساعة (تغطي حتى 144 عملاً محدثاً)
 
 os.makedirs(DATA_DIR, exist_ok=True)
 os.makedirs("data", exist_ok=True)
 
-# 🎯 محاكاة ترويسات التطبيق الأصلية لتخطي حماية وكلاودفلير الويب
 HEADERS = {
     "User-Agent": "Mozilla/5.0 (Linux; Android 14; Mobile; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Mobile Safari/537.36",
     "Accept": "application/json",
@@ -32,8 +31,20 @@ HEADERS = {
 def get_session():
     return requests.Session(impersonate="chrome120", headers=HEADERS)
 
+def load_existing_catalog() -> dict:
+    """تحميل الأرشيف التراكمي لمنع مسح أي عمل سابق عند تقليل الصفحات"""
+    if not os.path.exists(CATALOG_FILE):
+        return {}
+    try:
+        with open(CATALOG_FILE, "r", encoding="utf-8") as f:
+            data = json.load(f)
+            return {item["id"]: item for item in data if "id" in item}
+    except Exception as e:
+        print(f"خطأ أثناء قراءة كاتلوج مانغاتايم القديم: {e}")
+        return {}
+
 def update_global_new_releases(new_releases: list):
-    """دمج الإشعارات الجديدة في data/new.json مع المحافظة على تحديثات المصادر الأخرى"""
+    """دمج الإشعارات الجديدة في data/new.json دون مسح تحديثات المصادر الأخرى"""
     if not new_releases:
         return
 
@@ -55,11 +66,11 @@ def update_global_new_releases(new_releases: list):
             deduped.append(item)
 
     with open(GLOBAL_NEW_FILE, "w", encoding="utf-8") as f:
-        json.dump(deduped[:10], f, ensure_ascii=False, indent=2)
+        json.dump(deduped[:15], f, ensure_ascii=False, indent=2)
     print(f"🔔 تم تسجيل {len(new_releases)} تحديث جديد لمانغاتايم في {GLOBAL_NEW_FILE}")
 
 def fetch_trpc(session, procedure: str, input_data: dict):
-    """إرسال طلب tRPC نظيف وفك العقدة المباشرة"""
+    """إرسال استعلام tRPC رسمي واستخراج البيانات النظيفة"""
     input_encoded = urllib.parse.quote(json.dumps(input_data))
     url = f"{API_URL}/{procedure}?batch=1&input={input_encoded}"
     try:
@@ -74,7 +85,6 @@ def fetch_trpc(session, procedure: str, input_data: dict):
         return None
 
 def extract_items_list(json_node) -> list:
-    """استخراج مصفوفة العناصر بمرونة من استجابات tRPC المختلفة"""
     if isinstance(json_node, list):
         return json_node
     if isinstance(json_node, dict):
@@ -84,7 +94,6 @@ def extract_items_list(json_node) -> list:
     return []
 
 def get_type_url_path(raw_type: str) -> str:
-    """تحديد المسار الفعلي للعمل (manga / manhwa / novel)"""
     t = (raw_type or "").strip().lower()
     if "manhwa" in t: return "manhwa"
     if "novel" in t or "رواية" in t: return "novel"
@@ -131,7 +140,7 @@ def scrape_manga_details_mangatime(session, target):
         slug = str(target)
         catalog_title = catalog_cover = catalog_type = catalog_status = catalog_rating = ""
 
-    # 1. طلب بيانات العمل الأساسية
+    # 1. طلب تفاصيل العمل
     info_input = {"0": {"json": {"slug": slug}}}
     series_data = fetch_trpc(session, "content.getSeriesBySlug", info_input) or {}
 
@@ -153,7 +162,7 @@ def scrape_manga_details_mangatime(session, target):
 
     genres = [g.get("name") for g in series_data.get("genres", []) if isinstance(g, dict) and g.get("name")]
 
-    # 2. جلب الفصول
+    # 2. جلب قائمة الفصول
     chapters_map = {}
     number_regex = re.compile(r"\d+(\.\d+)?")
 
@@ -202,7 +211,7 @@ def scrape_manga_details_mangatime(session, target):
                 "images": []
             }
 
-    # 3. خطة طوارئ بديلة: توليد الفصول تسلسلياً
+    # 3. خطة طوارئ: توليد تسلسلي إن لم تتوفر مصفوفة الفصول
     if not chapters_map:
         total = stats.get("chapterCount") or series_data.get("chapterCount") or 0
         try:
@@ -231,32 +240,42 @@ def scrape_manga_details_mangatime(session, target):
         "chapters": chapters_map
     }
 
-def fetch_mangatime_catalog(session) -> list:
-    print("🚀 جاري سحب الفهرس العام لموقع مانغاتايم (بمعدل 48 عملاً بالطلب)...")
-    catalog = []
-    page = 1
+def sync_mangatime_fast():
+    session = get_session()
+    print(f"🚀 بدء المزامنة الخاطفة لمانغاتايم (فحص أحدث التحديثات عبر tRPC)...")
 
-    while page <= MAX_PAGES_SAFETY:
+    catalog_dict = load_existing_catalog()
+    ordered_recent_slugs = []
+
+    # 1. فحص أحدث التحديثات باستخدام الإجراء الرسمي المكتشف
+    for page in range(1, MAX_DELTA_PAGES + 1):
+        # المحاولة أولاً بـ getLatestReleases الرسمي من الواجهة
         input_data = {
             "0": {
                 "json": {
-                    "filters": {
-                        "genres": [],
-                        "sortBy": "popularity-desc",
-                        "rating": {},
-                        "yearRange": {},
-                        "chapterCount": {}
-                    },
-                    "limit": 48,
                     "page": page,
-                    "sortBy": "popularity",
-                    "sortOrder": "desc"
+                    "limit": 48
                 }
             }
         }
-
-        json_node = fetch_trpc(session, "search.searchSeries", input_data)
+        json_node = fetch_trpc(session, "homepage.getLatestReleases", input_data)
         items = extract_items_list(json_node)
+
+        # احتياطي: إذا لم يستجب، نطلب البحث بفرز تاريخ التحديث
+        if not items:
+            input_data_backup = {
+                "0": {
+                    "json": {
+                        "filters": {"genres": [], "sortBy": "updatedAt-desc", "rating": {}, "yearRange": {}, "chapterCount": {}},
+                        "limit": 48,
+                        "page": page,
+                        "sortBy": "updatedAt",
+                        "sortOrder": "desc"
+                    }
+                }
+            }
+            json_node = fetch_trpc(session, "search.searchSeries", input_data_backup)
+            items = extract_items_list(json_node)
 
         if not items:
             break
@@ -264,135 +283,101 @@ def fetch_mangatime_catalog(session) -> list:
         new_in_page = 0
         for item in items:
             if not isinstance(item, dict): continue
-            slug = item.get("slug") or item.get("seriesSlug") or ""
-            title = item.get("title") or item.get("name") or ""
+            slug = item.get("seriesSlug") or item.get("slug") or ""
+            title = item.get("seriesTitle") or item.get("title") or item.get("name") or ""
             if not slug or not title: continue
 
-            if not any(entry["id"] == slug for entry in catalog):
-                cover = item.get("coverUrl") or item.get("cover") or item.get("bannerUrl") or ""
-                if cover.startswith("/"):
-                    cover = f"{BASE_URL}{cover}"
+            cover = item.get("coverUrl") or item.get("cover") or item.get("bannerUrl") or ""
+            if cover.startswith("/"):
+                cover = f"{BASE_URL}{cover}"
 
-                raw_type = item.get("type", "")
-                is_novel = "رواية" in raw_type or "novel" in raw_type.lower() or "رواية" in title
-                type_path = get_type_url_path(raw_type)
+            raw_type = item.get("type", "")
+            is_novel = "رواية" in raw_type or "novel" in raw_type.lower() or "رواية" in title
+            type_path = get_type_url_path(raw_type)
 
-                stats = item.get("stats") or {}
-                raw_rating = stats.get("rating") or item.get("rating") or ""
+            stats = item.get("stats") or {}
+            raw_rating = stats.get("rating") or item.get("rating") or ""
 
-                catalog.append({
+            # التحديث الآمن مع الحفاظ على الأرشيف القديم
+            if slug in catalog_dict:
+                catalog_dict[slug]["title"] = title
+                catalog_dict[slug]["url"] = f"{BASE_URL}/{type_path}/{slug}"
+                if cover:
+                    catalog_dict[slug]["cover_url"] = cover
+                if raw_rating:
+                    catalog_dict[slug]["rating"] = format_rating(raw_rating)
+            else:
+                catalog_dict[slug] = {
                     "id": slug,
                     "title": title,
                     "url": f"{BASE_URL}/{type_path}/{slug}",
                     "cover_url": cover,
                     "type": "رواية" if is_novel else format_type(raw_type),
                     "status": format_status(item.get("status", "")),
-                    "rating": format_rating(raw_rating)
-                })
-                new_in_page += 1
+                    "rating": format_rating(raw_rating),
+                    "total_chapters": 0
+                }
 
-        print(f"مانغاتايم [صفحة {page}]: +{new_in_page} عمل جديد | الإجمالي: {len(catalog)}")
+            if slug not in ordered_recent_slugs:
+                ordered_recent_slugs.append(slug)
+
+            new_in_page += 1
+
+        print(f"مانغاتايم [صفحة {page}]: رصد {new_in_page} عمل محدث")
         if new_in_page == 0:
             break
 
-        page += 1
-        time.sleep(0.1)
+        time.sleep(0.15)
 
-    print(f"✨ تم الانتهاء من فهرسة {len(catalog)} عملاً.")
-    return catalog
+    # 2. تحديث تفاصيل وفصول أحدث 20 عملاً
+    targets_slugs = ordered_recent_slugs[:DETAILS_SYNC_LIMIT]
+    new_releases = []
 
-def sync_mangatime_all():
-    session = get_session()
-    freshly_scraped = fetch_mangatime_catalog(session)
-    total_items = len(freshly_scraped)
-
-    if not freshly_scraped:
-        print("⚠️ لم يتم العثور على أي أعمال في الفهرس.")
-        return
-
-    print(f"\n⚡ بدء معالجة وتوليد الفصول لجميع الأعمال ({total_items} عمل)...")
-
-    for index, item in enumerate(freshly_scraped, 1):
-        slug = item["id"]
+    for index, slug in enumerate(targets_slugs, 1):
+        item = catalog_dict[slug]
         file_path = os.path.join(DATA_DIR, f"{slug}.json")
-
-        # ⚡ كاش ذكي: العمل الجاهز محلياً وفيه فصول لا نكرر طلبه من الشبكة
-        if os.path.exists(file_path):
-            try:
-                with open(file_path, "r", encoding="utf-8") as f:
-                    cached_data = json.load(f)
-                    if cached_data.get("chapters") and len(cached_data["chapters"]) > 0:
-                        item["status"] = cached_data["status"]
-                        item["rating"] = cached_data["rating"]
-                        item["total_chapters"] = len(cached_data["chapters"])
-                        print(f"⚡ [{index}/{total_items}] من الكاش: {slug} ({item['total_chapters']} فصل)")
-                        continue
-            except Exception:
-                pass
+        prev_chaps = item.get("total_chapters", 0)
 
         try:
             details = scrape_manga_details_mangatime(session, item)
             with open(file_path, "w", encoding="utf-8") as f:
                 json.dump(details, f, ensure_ascii=False, indent=2)
 
+            current_chaps = len(details["chapters"])
             item["status"] = details["status"]
             item["rating"] = details["rating"]
-            item["total_chapters"] = len(details["chapters"])
-            print(f"✓ [{index}/{total_items}] تم الجلب بنجاح: {slug} ({len(details['chapters'])} فصل)")
+            item["type"] = details["type"]
+            item["total_chapters"] = current_chaps
+            print(f"✓ [{index}/{len(targets_slugs)}] تم تحديث مانغاتايم: {details['title']} ({current_chaps} فصل)")
+
+            # إشعار دقيق لجديد الفصول
+            if current_chaps > prev_chaps and current_chaps > 0:
+                new_releases.append({
+                    "id": slug,
+                    "title": item["title"],
+                    "chapter": f"الفصل {current_chaps}" if prev_chaps > 0 else "عمل جديد",
+                    "type": item.get("type", "مانغا"),
+                    "cover_url": item.get("cover_url", "")
+                })
+
             time.sleep(0.15)
         except Exception as e:
             print(f"❌ خطأ أثناء معالجة {slug}: {e}")
 
-    # ================== الدمج الذكي وتوليد الإشعارات ==================
-    old_catalog = []
-    if os.path.exists(CATALOG_FILE):
-        try:
-            with open(CATALOG_FILE, "r", encoding="utf-8") as f:
-                old_catalog = json.load(f)
-        except Exception:
-            old_catalog = []
+    # 3. حفظ الفهرس الشامل (الأحدث في المقدمة ثم بقية الأرشيف)
+    seen_slugs = set(ordered_recent_slugs)
+    final_merged_catalog = [catalog_dict[s] for s in ordered_recent_slugs] + [
+        item for s, item in catalog_dict.items() if s not in seen_slugs
+    ]
 
-    old_map = {item["id"]: item for item in old_catalog}
-    new_releases = []
-
-    for item in freshly_scraped:
-        m_id = item["id"]
-        current_chaps = item.get("total_chapters", 0)
-        prev_chaps = old_map.get(m_id, {}).get("total_chapters", 0)
-
-        # 1. عمل جديد كلياً
-        if m_id not in old_map:
-            new_releases.append({
-                "id": m_id,
-                "title": item["title"],
-                "chapter": f"الفصل {current_chaps}" if current_chaps > 0 else "عمل جديد",
-                "type": item.get("type", "مانغا"),
-                "cover_url": item.get("cover_url", "")
-            })
-        # 2. نزل فصل جديد لعمل موجود
-        elif current_chaps > prev_chaps and current_chaps > 0:
-            new_releases.append({
-                "id": m_id,
-                "title": item["title"],
-                "chapter": f"الفصل {current_chaps}",
-                "type": item.get("type", "مانغا"),
-                "cover_url": item.get("cover_url", "")
-            })
-
-    # الدمج: الجديد في الصدارة + القديم غير المكرر في الخلف
-    fresh_ids = {x["id"] for x in freshly_scraped}
-    remaining_old = [x for x in old_catalog if x["id"] not in fresh_ids]
-    final_merged_catalog = freshly_scraped + remaining_old
-
-    # حفظ الكاتلوج المدمج النهائي
     with open(CATALOG_FILE, "w", encoding="utf-8") as f:
         json.dump(final_merged_catalog, f, ensure_ascii=False, indent=2)
 
-    # تحديث إشعارات new.json
+    # 4. تحديث الإشعارات العامة
     if new_releases:
         update_global_new_releases(new_releases)
 
-    print(f"\n🎉 اكتملت مزامنة مانغاتايم الذكية! الكاتلوج يحتوي {len(final_merged_catalog)} عملاً محفوظاً.")
+    print(f"\n⚡ اكتملت مزامنة مانغاتايم الذكية! إجمالي الأعمال المحفوظة: {len(final_merged_catalog)}")
 
 if __name__ == "__main__":
-    sync_mangatime_all()
+    sync_mangatime_fast()

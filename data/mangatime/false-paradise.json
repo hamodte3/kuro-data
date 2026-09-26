@@ -5,9 +5,9 @@
   "description": "يستيقظ سانهو في عالم موازي غريب حيث البشر ليسوا سوى حيوانات أليفة لدى وحوش مرعبة، ويحاول العثور على طريق للعودة. أكشن وفانتازيا مع لمسة بقاء في بيئة معادية تماماً للبشرية. تابعوا محاولات النجاة والهروب على MangaTime.",
   "type": "مانهوا",
   "status": "مستمر",
-  "last_update": "2026-09-23",
+  "last_update": "2026-09-26",
   "rating": "1.0",
-  "favorites": "1",
+  "favorites": "2",
   "genres": [
     "أكشن",
     "فانتازيا",
@@ -17,6 +17,14 @@
   ],
   "is_novel": false,
   "chapters": {
+    "https://mangatime.org/manhwa/false-paradise/chapter/88": {
+      "name": "88",
+      "images": []
+    },
+    "https://mangatime.org/manhwa/false-paradise/chapter/87": {
+      "name": "87",
+      "images": []
+    },
     "https://mangatime.org/manhwa/false-paradise/chapter/86": {
       "name": "86",
       "images": []

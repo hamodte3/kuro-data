@@ -2,7 +2,6 @@ import json
 import os
 import re
 import time
-import subprocess
 from bs4 import BeautifulSoup
 from curl_cffi import requests
 
@@ -11,8 +10,8 @@ DATA_DIR = os.path.join("data", "teamx")
 CATALOG_FILE = os.path.join(DATA_DIR, "catalog.json")
 GLOBAL_NEW_FILE = os.path.join("data", "new.json")
 
-# 🎯 3 صفحات كافية وسريعة جداً لرصد أحدث التحديثات
-MAX_PAGES = 3 
+DETAILS_SYNC_LIMIT = 20    # فحص وتجهيز فصول أحدث 20 عملاً تم تحديثها
+MAX_DELTA_PAGES = 3        # فحص أول 3 صفحات فقط كل ساعة لمراقبة الجديد
 
 os.makedirs(DATA_DIR, exist_ok=True)
 os.makedirs("data", exist_ok=True)
@@ -38,6 +37,18 @@ def normalize_url(raw_url: str) -> str:
         u = f"{BASE_URL}{u}" if u.startswith("/") else f"{BASE_URL}/{u}"
     return u.replace("http://", "https://")
 
+def load_existing_catalog() -> dict:
+    """تحميل الأرشيف القديم لمنع مسح أو تصفير أي عمل سابق"""
+    if not os.path.exists(CATALOG_FILE):
+        return {}
+    try:
+        with open(CATALOG_FILE, "r", encoding="utf-8") as f:
+            data = json.load(f)
+            return {item["id"]: item for item in data if "id" in item}
+    except Exception as e:
+        print(f"⚠️ تعذر قراءة الكتالوج القديم: {e}")
+        return {}
+
 def update_global_new_releases(new_releases: list):
     """دمج الإشعارات الجديدة في data/new.json دون مسح تحديثات المصادر الأخرى"""
     if not new_releases:
@@ -61,11 +72,11 @@ def update_global_new_releases(new_releases: list):
             deduped.append(item)
 
     with open(GLOBAL_NEW_FILE, "w", encoding="utf-8") as f:
-        json.dump(deduped[:10], f, ensure_ascii=False, indent=2)
+        json.dump(deduped[:15], f, ensure_ascii=False, indent=2)
     print(f"🔔 تم تسجيل {len(new_releases)} تحديث جديد لـ Team X في {GLOBAL_NEW_FILE}")
 
 def scrape_teamx_details(session, slug: str, existing_chapters: dict = None) -> dict:
-    url = f"{BASE_URL}/series/{slug}"
+    url = f"{BASE_URL}/series/{slug}?_t={int(time.time())}"
     res = session.get(url, timeout=25)
     if res.status_code != 200:
         raise Exception(f"HTTP {res.status_code}")
@@ -144,26 +155,13 @@ def scrape_teamx_details(session, slug: str, existing_chapters: dict = None) -> 
 
 def sync_teamx():
     session = get_session()
-    print(f"🚀 بدء المزامنة التراكمية لمصدر Team X (فحص أول {MAX_PAGES} صفحات)...")
+    print(f"🚀 بدء المزامنة الخاطفة لمصدر Team X (فحص أول {MAX_DELTA_PAGES} صفحات)...")
 
-    # 1. استرجاع الأرشيف المخزن مسبقاً
-    old_catalog = []
-    if os.path.exists(CATALOG_FILE):
-        try:
-            with open(CATALOG_FILE, "r", encoding="utf-8") as f:
-                old_catalog = json.load(f)
-        except Exception as e:
-            print(f"⚠️ تعذر قراءة الكتالوج القديم: {e}")
-            old_catalog = []
+    catalog_dict = load_existing_catalog()
+    ordered_recent_slugs = []
 
-    old_map = {item["id"]: item for item in old_catalog if "id" in item}
-    print(f"📂 تم تحميل {len(old_map)} عمل محفوظ مسبقاً في الأرشيف.")
-
-    freshly_scraped = []
-    seen_fresh_ids = set()
-
-    # 2. فحص الصفحات المحددة فقط
-    for page in range(1, MAX_PAGES + 1):
+    # 1. سحب أول 3 صفحات مع الترتيب بالأحدث
+    for page in range(1, MAX_DELTA_PAGES + 1):
         url = f"{BASE_URL}/series?page={page}" if page > 1 else f"{BASE_URL}/series"
         res = session.get(url, timeout=25)
         if res.status_code != 200:
@@ -175,39 +173,51 @@ def sync_teamx():
         if not items:
             break
 
+        new_in_page = 0
         for it in items:
             a_tag = it.select_one("a")
             if not a_tag: continue
             href = normalize_url(a_tag.get("href", "")).rstrip("/")
             slug = href.split("/")[-1]
-            if slug in seen_fresh_ids: continue
 
-            seen_fresh_ids.add(slug)
             title = a_tag.get("title", "").strip() or slug
             img = it.select_one("img")
-            cover = normalize_url(img.get("src", "") or img.get("data-src", ""))
+            cover = normalize_url(img.get("src", "") or img.get("data-src", "") if img else "")
 
-            entry = {
-                "id": slug,
-                "title": title,
-                "url": href,
-                "cover_url": cover,
-                "type": "مانهوا",
-                "status": "مستمر",
-                "rating": "",
-                "total_chapters": old_map.get(slug, {}).get("total_chapters", 0)
-            }
-            freshly_scraped.append(entry)
+            # التحديث الآمن مع الحفاظ على الأرشيف السابق
+            if slug in catalog_dict:
+                catalog_dict[slug]["title"] = title
+                catalog_dict[slug]["url"] = href
+                if cover:
+                    catalog_dict[slug]["cover_url"] = cover
+            else:
+                catalog_dict[slug] = {
+                    "id": slug,
+                    "title": title,
+                    "url": href,
+                    "cover_url": cover,
+                    "type": "مانهوا",
+                    "status": "مستمر",
+                    "rating": "",
+                    "total_chapters": 0
+                }
 
-        print(f"Team X [صفحة {page}]: تم فحص الأعمال بنجاح.")
-        time.sleep(0.4)
+            if slug not in ordered_recent_slugs:
+                ordered_recent_slugs.append(slug)
 
-    # 3. تحديث تفاصيل وفصول الأعمال النشطة وكشف الإشعارات
-    print(f"\n⚡ فحص وتحديث فصول {len(freshly_scraped)} عمل نشط من الجولة الحالية...")
+            new_in_page += 1
+
+        print(f"Team X [صفحة {page}]: رصد {new_in_page} عمل محدث.")
+        time.sleep(0.3)
+
+    # 2. تحديث فصول أحدث 20 عملاً فقط وتوليد الإشعارات
+    targets_slugs = ordered_recent_slugs[:DETAILS_SYNC_LIMIT]
     new_releases = []
 
-    for idx, item in enumerate(freshly_scraped, 1):
-        slug = item["id"]
+    print(f"\n⚡ تحديث فصول أحدث {len(targets_slugs)} عمل نشط...")
+
+    for idx, slug in enumerate(targets_slugs, 1):
+        item = catalog_dict[slug]
         file_path = os.path.join(DATA_DIR, f"{slug}.json")
 
         existing_data = {}
@@ -230,77 +240,46 @@ def sync_teamx():
             item["total_chapters"] = target_total
             item["rating"] = details.get("rating", "")
 
-            prev_chaps = old_map.get(slug, {}).get("total_chapters", 0)
+            prev_chaps = existing_chapters_count or item.get("total_chapters", 0)
 
-            # التقاط إشعارات الأعمال الجديدة والفصول المحدثة
-            if slug not in old_map:
+            # كشف التحديث لتوليد التنبيهات
+            if target_total > prev_chaps and target_total > 0:
                 new_releases.append({
                     "id": slug,
                     "title": item["title"],
-                    "chapter": f"الفصل {target_total}" if target_total > 0 else "عمل جديد",
-                    "type": "مانهوا",
-                    "cover_url": item["cover_url"]
-                })
-            elif target_total > prev_chaps and target_total > 0:
-                new_releases.append({
-                    "id": slug,
-                    "title": item["title"],
-                    "chapter": f"الفصل {target_total}",
+                    "chapter": f"الفصل {target_total}" if prev_chaps > 0 else "عمل جديد",
                     "type": "مانهوا",
                     "cover_url": item["cover_url"]
                 })
 
-            # ⚡ كاش ذكي
+            # كاش ذكي: تخطي إعادة الكتابة إذا كانت الفصول متطابقة
             if existing_chapters_count >= target_total and target_total > 0:
-                print(f"⚡ [{idx}/{len(freshly_scraped)}] متطابق ومكتمل: {details['title']} ({target_total} فصل)")
+                print(f"⚡ [{idx}/{len(targets_slugs)}] متطابق ومكتمل: {details['title']} ({target_total} فصل)")
                 continue
 
             with open(file_path, "w", encoding="utf-8") as f:
                 json.dump(details, f, ensure_ascii=False, indent=2)
 
-            print(f"✓ [{idx}/{len(freshly_scraped)}] تم التحديث: {details['title']} ({len(details['chapters'])} فصل)")
+            print(f"✓ [{idx}/{len(targets_slugs)}] تم التحديث: {details['title']} ({len(details['chapters'])} فصل)")
             time.sleep(0.3)
         except Exception as e:
             print(f"خطأ أثناء تجهيز {slug}: {e}")
 
-    # ================== 4. الدمج الذكي للكتالوج ==================
-    fresh_ids = {x["id"] for x in freshly_scraped}
-    remaining_old = [x for x in old_catalog if x.get("id") not in fresh_ids]
-    final_merged_catalog = freshly_scraped + remaining_old
+    # 3. حفظ الفهرس الشامل (الأحدث أولاً + بقية الأرشيف القديم)
+    seen_slugs = set(ordered_recent_slugs)
+    final_merged_catalog = [catalog_dict[s] for s in ordered_recent_slugs] + [
+        item for s, item in catalog_dict.items() if s not in seen_slugs
+    ]
 
     with open(CATALOG_FILE, "w", encoding="utf-8") as f:
         json.dump(final_merged_catalog, f, ensure_ascii=False, indent=2)
 
-    print(f"\n💾 تم حفظ الكتالوج المدمج: {len(final_merged_catalog)} عمل (الأحدث في الصدارة).")
-
-    # تحديث ملف الإشعارات العام
+    # 4. تحديث الإشعارات المشتركة
     if new_releases:
         update_global_new_releases(new_releases)
 
-    print("🎉 اكتملت المزامنة التراكمية لمصدر Team X بنجاح تام!")
-
-def auto_push_to_github():
-    print("\n📤 فحص ورفع تحديثات Team X إلى GitHub...")
-    try:
-        # فحص مجلد data/ كاملاً لضمان رفع الكاتلوج وملف الإشعارات data/new.json
-        status = subprocess.run(
-            ["git", "status", "--porcelain", "data/"], 
-            capture_output=True, 
-            text=True
-        )
-        if not status.stdout.strip():
-            print("✨ لا توجد ملفات جديدة للرفع.")
-            return
-
-        subprocess.run(["git", "add", "data/"], check=True)
-        commit_msg = f"Incremental sync: TeamX & New Releases ({time.strftime('%Y-%m-%d %H:%M')})"
-        subprocess.run(["git", "commit", "-m", commit_msg], check=True)
-        subprocess.run(["git", "pull", "--rebase"], check=True)
-        subprocess.run(["git", "push", "origin", "main"], check=True)
-        print("⚡ تم الرفع بنجاح إلى المستودع!")
-    except subprocess.CalledProcessError as e:
-        print(f"❌ خطأ أثناء الرفع لـ Git: {e}")
+    print(f"\n💾 تم حفظ الكتالوج المدمج: {len(final_merged_catalog)} عمل.")
+    print("🎉 اكتملت المزامنة التراكمية لـ Team X بنجاح تام!")
 
 if __name__ == "__main__":
     sync_teamx()
-    auto_push_to_github()
