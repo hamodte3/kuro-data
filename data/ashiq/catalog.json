@@ -1,5 +1,15 @@
 [
   {
+    "id": "shangri-la-frontier",
+    "title": "Shangri-La Frontier",
+    "url": "https://3asq.online/manga/shangri-la-frontier",
+    "cover_url": "https://3asq.online/wp-content/uploads/2025/07/1000132867.jpg",
+    "type": "مانغا",
+    "rating": "4.5",
+    "status": "مستمر",
+    "total_chapters": 153
+  },
+  {
     "id": "blades-of-the-guardians",
     "title": "Blades of the Guardians",
     "url": "https://3asq.online/manga/blades-of-the-guardians",
@@ -195,9 +205,7 @@
     "url": "https://3asq.online/manga/kingdom-2",
     "cover_url": "https://3asq.online/wp-content/uploads/2024/03/0cover-175x238.jpg",
     "type": "WANteam",
-    "rating": "4.7",
-    "status": "مستمر",
-    "total_chapters": 387
+    "rating": "4.7"
   },
   {
     "id": "bungou-stray-dogs-dazai-wo-hirotta-hi",
@@ -237,14 +245,6 @@
     "url": "https://3asq.online/manga/orb-on-the-movements-of-the-earth",
     "cover_url": "https://3asq.online/wp-content/uploads/2025/02/orb-cover-arabic-175x238.jpg",
     "type": "NayefTranslations",
-    "rating": "4.5"
-  },
-  {
-    "id": "shangri-la-frontier",
-    "title": "Shangri-La Frontier",
-    "url": "https://3asq.online/manga/shangri-la-frontier",
-    "cover_url": "https://3asq.online/wp-content/uploads/2025/07/1000132867.jpg",
-    "type": "مانغا",
     "rating": "4.5"
   },
   {
