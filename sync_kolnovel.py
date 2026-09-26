@@ -10,7 +10,7 @@ DATA_DIR = os.path.join("data", "kolnovel")
 CATALOG_FILE = os.path.join(DATA_DIR, "catalog.json")
 
 DETAILS_SYNC_LIMIT = 20   # تجهيز بيانات وفصول أفضل 20 رواية
-MAX_PAGES_SAFETY = 1000   # تغطية الفهرس العام
+MAX_PAGES_SAFETY = 5   # تغطية الفهرس العام
 
 os.makedirs(DATA_DIR, exist_ok=True)
 
