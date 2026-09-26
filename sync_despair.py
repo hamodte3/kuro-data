@@ -10,8 +10,8 @@ DATA_DIR = os.path.join("data", "despair")
 CATALOG_FILE = os.path.join(DATA_DIR, "catalog.json")
 GLOBAL_NEW_FILE = os.path.join("data", "new.json")
 
-DETAILS_SYNC_LIMIT = 20    # تجهيز بيانات وفصول أفضل 20 عملاً
-MAX_PAGES_SAFETY = 1000     # عدد صفحات الفهرس لتغطية مكتبة ديسبير
+DETAILS_SYNC_LIMIT = 20    # تجهيز بيانات وفصول أحدث 20 عملاً تم تحديثها
+MAX_DELTA_PAGES = 5        # فحص أول 5 صفحات فقط كل ساعة لمراقبة الجديد
 
 os.makedirs(DATA_DIR, exist_ok=True)
 os.makedirs("data", exist_ok=True)
@@ -77,8 +77,20 @@ def format_rating(raw_rating: str) -> str:
     except ValueError:
         return ""
 
+def load_existing_catalog() -> dict:
+    """تحميل الأرشيف القديم لمنع مسح أو تصفير أي مانهوا سابقة"""
+    if not os.path.exists(CATALOG_FILE):
+        return {}
+    try:
+        with open(CATALOG_FILE, "r", encoding="utf-8") as f:
+            data = json.load(f)
+            return {item["id"]: item for item in data if "id" in item}
+    except Exception as e:
+        print(f"خطأ أثناء قراءة كاتلوج ديسبير القديم: {e}")
+        return {}
+
 def update_global_new_releases(new_releases: list):
-    """دمج الإشعارات الجديدة في data/new.json مع المحافظة على تحديثات المصادر الأخرى"""
+    """دمج الإشعارات الجديدة في data/new.json دون مسح تحديثات المصادر الأخرى"""
     if not new_releases:
         return
 
@@ -100,7 +112,7 @@ def update_global_new_releases(new_releases: list):
             deduped.append(item)
 
     with open(GLOBAL_NEW_FILE, "w", encoding="utf-8") as f:
-        json.dump(deduped[:10], f, ensure_ascii=False, indent=2)
+        json.dump(deduped[:15], f, ensure_ascii=False, indent=2)
     print(f"🔔 تم تسجيل {len(new_releases)} تحديث جديد لديسبير في {GLOBAL_NEW_FILE}")
 
 def extract_chapters_despair(soup: BeautifulSoup) -> dict:
@@ -136,7 +148,14 @@ def extract_chapters_despair(soup: BeautifulSoup) -> dict:
 
 def scrape_manga_details_despair(session, manga_url: str):
     valid_url = normalize_page_url(manga_url)
-    res = session.get(valid_url, timeout=20)
+    cache_url = f"{valid_url}?_t={int(time.time())}"
+    custom_headers = {
+        **HEADERS,
+        "Cache-Control": "no-cache, no-store, must-revalidate",
+        "Pragma": "no-cache"
+    }
+
+    res = session.get(cache_url, headers=custom_headers, timeout=25)
     soup = BeautifulSoup(res.text, "html.parser")
 
     title_el = soup.select_one("h1.entry-title, h1")
@@ -199,13 +218,16 @@ def scrape_manga_details_despair(session, manga_url: str):
         "chapters": chapters_map
     }
 
-def fetch_despair_catalog(session) -> list:
-    print("جاري سحب الفهرس العام لموقع ديسبير...")
-    catalog = []
-    page = 1
+def sync_despair_fast():
+    session = get_session()
+    print(f"بدء المزامنة الخاطفة لديسبير (فحص أول {MAX_DELTA_PAGES} صفحات مرتبة بالأحدث)...")
 
-    while page <= MAX_PAGES_SAFETY:
-        url = f"{BASE_URL}/all-manga/" if page == 1 else f"{BASE_URL}/all-manga/page/{page}/"
+    catalog_dict = load_existing_catalog()
+    recent_targets = []
+
+    # 1. سحب أول 5 صفحات فقط مع إجبار الترتيب بالأحدث عبر order=update
+    for page in range(1, MAX_DELTA_PAGES + 1):
+        url = f"{BASE_URL}/all-manga/?order=update" if page == 1 else f"{BASE_URL}/all-manga/page/{page}/?order=update"
         try:
             res = session.get(url, timeout=20)
             soup = BeautifulSoup(res.text, "html.parser")
@@ -223,128 +245,109 @@ def fetch_despair_catalog(session) -> list:
                 manga_url = normalize_page_url(link.get("href", ""))
                 slug = manga_url.rstrip("/").split("/")[-1]
 
-                if not any(item["id"] == slug for item in catalog):
-                    title = link.get("title", "").strip() or (card.select_one(".tt").text.strip() if card.select_one(".tt") else "")
-                    if not title:
-                        continue
+                title = link.get("title", "").strip() or (card.select_one(".tt").text.strip() if card.select_one(".tt") else "")
+                if not title:
+                    continue
 
-                    img_node = card.select_one("img")
-                    raw_cover = ""
-                    if img_node:
-                        raw_cover = img_node.get("src", "").strip()
-                        if not raw_cover or "data:image" in raw_cover:
-                            raw_cover = img_node.get("data-src", "").strip() or img_node.get("data-lazy-src", "").strip()
-                    cover_url = clean_image_url(raw_cover)
+                img_node = card.select_one("img")
+                raw_cover = ""
+                if img_node:
+                    raw_cover = img_node.get("src", "").strip()
+                    if not raw_cover or "data:image" in raw_cover:
+                        raw_cover = img_node.get("data-src", "").strip() or img_node.get("data-lazy-src", "").strip()
+                cover_url = clean_image_url(raw_cover)
 
-                    type_el = card.select_one("span.type")
-                    raw_type = type_el.text.strip() if type_el else ""
+                type_el = card.select_one("span.type")
+                raw_type = type_el.text.strip() if type_el else ""
 
-                    status_el = card.select_one("span.status")
-                    raw_status = status_el.text.strip() if status_el else ""
+                status_el = card.select_one("span.status")
+                raw_status = status_el.text.strip() if status_el else ""
+                is_novel = "novel" in raw_type.lower() or "رواية" in title
 
-                    is_novel = "novel" in raw_type.lower() or "رواية" in title
+                # الدمج الآمن للحفاظ على الفصول والتقييم للأعمال السابقة
+                if slug in catalog_dict:
+                    catalog_dict[slug]["title"] = title
+                    catalog_dict[slug]["url"] = manga_url
+                    if cover_url:
+                        catalog_dict[slug]["cover_url"] = cover_url
+                    if raw_status:
+                        catalog_dict[slug]["status"] = format_status(raw_status)
+                    # إعادة رفع العمل إلى الصدارة لأنه تم تحديثه
+                    item_ref = catalog_dict.pop(slug)
+                    catalog_dict = {slug: item_ref, **catalog_dict}
+                else:
+                    catalog_dict = {
+                        slug: {
+                            "id": slug,
+                            "title": title,
+                            "url": manga_url,
+                            "cover_url": cover_url,
+                            "type": "رواية" if is_novel else format_type(raw_type),
+                            "status": format_status(raw_status),
+                            "total_chapters": 0
+                        },
+                        **catalog_dict
+                    }
 
-                    catalog.append({
-                        "id": slug,
-                        "title": title,
-                        "url": manga_url,
-                        "cover_url": cover_url,
-                        "type": "رواية" if is_novel else format_type(raw_type),
-                        "status": format_status(raw_status)
-                    })
-                    new_in_page += 1
+                if not any(t["id"] == slug for t in recent_targets):
+                    recent_targets.append(catalog_dict[slug])
 
-            print(f"ديسبير [صفحة {page}]: تم فهرسة {new_in_page} عمل (المجموع: {len(catalog)})")
+                new_in_page += 1
+
             if new_in_page == 0:
                 break
 
-            page += 1
             time.sleep(0.2)
         except Exception as e:
             print(f"خطأ أثناء سحب صفحة {page}: {e}")
             break
 
-    print(f"تم الانتهاء من فهرسة {len(catalog)} عمل في ديسبير.")
-    return catalog
+    # 2. تحديث تفاصيل وفصول أحدث 20 عملاً ورصد الإشعارات
+    targets_to_scrape = recent_targets[:DETAILS_SYNC_LIMIT]
+    new_releases = []
 
-def sync_despair_fast():
-    session = get_session()
-    freshly_scraped = fetch_despair_catalog(session)
-
-    if not freshly_scraped:
-        print("⚠️ لم يتم العثور على أي أعمال في الفهرس.")
-        return
-
-    top_targets = freshly_scraped[:DETAILS_SYNC_LIMIT]
-
-    for index, item in enumerate(top_targets, 1):
+    for index, item in enumerate(targets_to_scrape, 1):
         slug = item["id"]
         manga_url = item["url"]
         file_path = os.path.join(DATA_DIR, f"{slug}.json")
+        prev_chaps = item.get("total_chapters", 0)
 
         try:
             details = scrape_manga_details_despair(session, manga_url)
             with open(file_path, "w", encoding="utf-8") as f:
                 json.dump(details, f, ensure_ascii=False, indent=2)
 
+            current_chaps = len(details["chapters"])
             item["status"] = details["status"]
             item["rating"] = details["rating"]
-            item["total_chapters"] = len(details["chapters"])
-            print(f"✓ [{index}/{len(top_targets)}] تم تجهيز ديسبير: {slug} ({len(details['chapters'])} فصل)")
+            item["type"] = details["type"]
+            item["total_chapters"] = current_chaps
+            print(f"✓ [{index}/{len(targets_to_scrape)}] تم تحديث ديسبير: {slug} ({current_chaps} فصل)")
+
+            # كشف الفصول الجديدة لتوليد التنبيه
+            if current_chaps > prev_chaps and current_chaps > 0:
+                new_releases.append({
+                    "id": slug,
+                    "title": item["title"],
+                    "chapter": f"الفصل {current_chaps}",
+                    "type": item.get("type", "مانغا"),
+                    "cover_url": item.get("cover_url", "")
+                })
+
             time.sleep(0.3)
         except Exception as e:
             print(f"خطأ أثناء معالجة {slug}: {e}")
 
-    # ================== الدمج الذكي وتوليد الإشعارات ==================
-    old_catalog = []
-    if os.path.exists(CATALOG_FILE):
-        try:
-            with open(CATALOG_FILE, "r", encoding="utf-8") as f:
-                old_catalog = json.load(f)
-        except Exception:
-            old_catalog = []
-
-    old_map = {item["id"]: item for item in old_catalog}
-    new_releases = []
-
-    for item in freshly_scraped:
-        m_id = item["id"]
-        current_chaps = item.get("total_chapters", 0)
-        prev_chaps = old_map.get(m_id, {}).get("total_chapters", 0)
-
-        # 1. عمل جديد كلياً
-        if m_id not in old_map:
-            new_releases.append({
-                "id": m_id,
-                "title": item["title"],
-                "chapter": f"الفصل {current_chaps}" if current_chaps > 0 else "عمل جديد",
-                "type": item.get("type", "مانغا"),
-                "cover_url": item.get("cover_url", "")
-            })
-        # 2. نزل فصل جديد لعمل موجود
-        elif current_chaps > prev_chaps and current_chaps > 0:
-            new_releases.append({
-                "id": m_id,
-                "title": item["title"],
-                "chapter": f"الفصل {current_chaps}",
-                "type": item.get("type", "مانغا"),
-                "cover_url": item.get("cover_url", "")
-            })
-
-    # الدمج: الجديد في الصدارة + القديم غير المكرر في الخلف
-    fresh_ids = {x["id"] for x in freshly_scraped}
-    remaining_old = [x for x in old_catalog if x["id"] not in fresh_ids]
-    final_merged_catalog = freshly_scraped + remaining_old
-
-    # حفظ الكاتلوج المدمج النهائي
+    # 3. حفظ الفهرس التراكمي الشامل بدون حذف أي عمل قديم
+    full_catalog = list(catalog_dict.values())
     with open(CATALOG_FILE, "w", encoding="utf-8") as f:
-        json.dump(final_merged_catalog, f, ensure_ascii=False, indent=2)
+        json.dump(full_catalog, f, ensure_ascii=False, indent=2)
 
-    # تحديث إشعارات new.json
+    # 4. تحديث الإشعارات العامة
     if new_releases:
         update_global_new_releases(new_releases)
 
-    print(f"\n⚡ اكتملت مزامنة ديسبير! الكاتلوج يحتوي {len(final_merged_catalog)} عملاً محفوظاً.")
+    print(f"\n⚡ اكتملت مزامنة ديسبير الذكية! إجمالي الأعمال المحفوظة: {len(full_catalog)}")
 
 if __name__ == "__main__":
     sync_despair_fast()
