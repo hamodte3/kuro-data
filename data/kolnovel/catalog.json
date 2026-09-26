@@ -1,14 +1,961 @@
 [
   {
+    "id": "%d9%84%d9%85%d8%b3%d8%a9-%d8%a7%d9%84%d9%85%d9%8a%d9%83%d8%a7",
+    "title": "لمسة الميكا",
+    "url": "https://kolnovel.com/series/%d9%84%d9%85%d8%b3%d8%a9-%d8%a7%d9%84%d9%85%d9%8a%d9%83%d8%a7",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2025/11/131_20251104112404.png",
+    "type": "رواية",
+    "is_novel": true,
+    "rating": "8.0"
+  },
+  {
+    "id": "%d8%ad%d9%8f%d8%b1%d9%82%d8%a9",
+    "title": "حُرقة",
+    "url": "https://kolnovel.com/series/%d8%ad%d9%8f%d8%b1%d9%82%d8%a9",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2025/11/IMG_20251101_191840.webp",
+    "type": "رواية",
+    "is_novel": true,
+    "rating": "7.5"
+  },
+  {
+    "id": "the-villain-wants-to-live",
+    "title": "الشرير يرغب في العيش",
+    "url": "https://kolnovel.com/series/the-villain-wants-to-live",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2023/06/IMG_1684943582470-e1691256600676.png",
+    "type": "رواية",
+    "is_novel": true,
+    "rating": "8.0"
+  },
+  {
+    "id": "%d8%a7%d9%84%d8%aa%d9%82%d8%a7%d8%a1-%d8%a7%d9%84%d8%aa%d9%88%d8%a3%d9%85",
+    "title": "التقاء التوأم",
+    "url": "https://kolnovel.com/series/%d8%a7%d9%84%d8%aa%d9%82%d8%a7%d8%a1-%d8%a7%d9%84%d8%aa%d9%88%d8%a3%d9%85",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2025/11/cropped-بدون-اسم138_20251111092449-1.png",
+    "type": "رواية",
+    "is_novel": true,
+    "rating": ""
+  },
+  {
+    "id": "%d8%a7%d9%84%d8%b3%d9%83%d9%8a%d9%86%d8%a9-%d9%81%d9%8a-%d8%a7%d9%84%d9%86%d8%a7%d8%b1",
+    "title": "السكينة في النار",
+    "url": "https://kolnovel.com/series/%d8%a7%d9%84%d8%b3%d9%83%d9%8a%d9%86%d8%a9-%d9%81%d9%8a-%d8%a7%d9%84%d9%86%d8%a7%d8%b1",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2023/10/Untitled-3.jpeg",
+    "type": "رواية",
+    "is_novel": true,
+    "rating": "9.0"
+  },
+  {
+    "id": "the-strongest-hokage",
+    "title": "The Strongest Hokage",
+    "url": "https://kolnovel.com/series/the-strongest-hokage",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2021/03/591s.jpg",
+    "type": "رواية",
+    "is_novel": true,
+    "rating": "7.0"
+  },
+  {
+    "id": "%d9%85%d8%b5%d9%85%d9%85-%d8%a3%d9%84%d8%b9%d8%a7%d8%a8-%d8%a7%d9%84%d8%b1%d8%b9%d8%a8",
+    "title": "مصمم ألعاب الرعب",
+    "url": "https://kolnovel.com/series/%d9%85%d8%b5%d9%85%d9%85-%d8%a3%d9%84%d8%b9%d8%a7%d8%a8-%d8%a7%d9%84%d8%b1%d8%b9%d8%a8",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2025/08/1056da0271861767.png",
+    "type": "رواية",
+    "is_novel": true,
+    "rating": "8.5"
+  },
+  {
+    "id": "clessraam-af-tha-alita-kol",
+    "title": "فصل النخبة كول",
+    "url": "https://kolnovel.com/series/clessraam-af-tha-alita-kol",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2020/11/20240625_102848-scaled.jpeg",
+    "type": "رواية",
+    "is_novel": true,
+    "rating": "9.0",
+    "status": "متوقف مؤقتاً",
+    "total_chapters": 161
+  },
+  {
+    "id": "%d8%b3%d8%ac%d9%84%d8%a7%d8%aa-%d8%a7%d9%84%d8%ad%d8%b1%d9%88%d8%a8-%d8%a7%d9%84%d8%a8%d8%af%d8%a7%d8%a6%d9%8a%d8%a9",
+    "title": "سجلات الحروب البدائية",
+    "url": "https://kolnovel.com/series/%d8%b3%d8%ac%d9%84%d8%a7%d8%aa-%d8%a7%d9%84%d8%ad%d8%b1%d9%88%d8%a8-%d8%a7%d9%84%d8%a8%d8%af%d8%a7%d8%a6%d9%8a%d8%a9",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2025/11/1764141794456.png",
+    "type": "رواية",
+    "is_novel": true,
+    "rating": "8.1"
+  },
+  {
+    "id": "against-the-gods",
+    "title": "ضد الآلهة",
+    "url": "https://kolnovel.com/series/against-the-gods",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2021/04/IMG_20211031_231256-e1652077718410.png",
+    "type": "رواية",
+    "is_novel": true,
+    "rating": "8.8",
+    "status": "مستمر",
+    "total_chapters": 2172
+  },
+  {
+    "id": "%d9%88%d8%b1%d8%af%d8%a9-%d8%a8%d9%84%d8%a7%d8%b3%d8%aa%d9%8a%d9%83%d9%8a%d8%a9",
+    "title": "وردة بلاستيكية",
+    "url": "https://kolnovel.com/series/%d9%88%d8%b1%d8%af%d8%a9-%d8%a8%d9%84%d8%a7%d8%b3%d8%aa%d9%8a%d9%83%d9%8a%d8%a9",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2025/12/Design_20251213_210415_.png",
+    "type": "رواية",
+    "is_novel": true,
+    "rating": "8.5"
+  },
+  {
+    "id": "supreme-magus",
+    "title": "المشعوذ الأعلى",
+    "url": "https://kolnovel.com/series/supreme-magus",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2020/10/0a6cba0111b6786e.png",
+    "type": "رواية",
+    "is_novel": true,
+    "rating": "9.0"
+  },
+  {
+    "id": "%d8%b9%d9%8a%d8%af-%d9%86%d9%87%d8%a7%d9%8a%d8%a9-%d8%a7%d9%84%d8%b3%d9%86%d8%a9-%d9%84%d8%a7-%d9%8a%d8%a3%d8%aa%d9%8a-%d9%85%d9%86-%d8%a3%d8%ac%d9%84%d9%86%d8%a7",
+    "title": "عيد نهاية السنة لا يأتي من أجلنا",
+    "url": "https://kolnovel.com/series/%d8%b9%d9%8a%d8%af-%d9%86%d9%87%d8%a7%d9%8a%d8%a9-%d8%a7%d9%84%d8%b3%d9%86%d8%a9-%d9%84%d8%a7-%d9%8a%d8%a3%d8%aa%d9%8a-%d9%85%d9%86-%d8%a3%d8%ac%d9%84%d9%86%d8%a7",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2026/01/Screenshot_٢٠٢٦-٠١-٠٥-٢١-٠٠-٢٢-٨٢٢-edit_com.discord.jpg",
+    "type": "رواية",
+    "is_novel": true,
+    "rating": "7.5"
+  },
+  {
+    "id": "%d8%a7%d9%84%d8%a3%d8%b1%d8%a8%d8%b9%d8%a9-%d8%b9%d8%b4%d8%b1-%d8%b9%d8%a7%d9%85%d9%8b%d8%a7-%d8%a7%d9%84%d8%aa%d9%8a-%d9%82%d8%b6%d9%8a%d8%aa%d9%87%d8%a7-%d9%83%d9%82%d8%b7",
+    "title": "الأربعة عشر عامًا التي قضيتها كقط",
+    "url": "https://kolnovel.com/series/%d8%a7%d9%84%d8%a3%d8%b1%d8%a8%d8%b9%d8%a9-%d8%b9%d8%b4%d8%b1-%d8%b9%d8%a7%d9%85%d9%8b%d8%a7-%d8%a7%d9%84%d8%aa%d9%8a-%d9%82%d8%b6%d9%8a%d8%aa%d9%87%d8%a7-%d9%83%d9%82%d8%b7",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2025/04/619PaVc0O7L._AC_UF10001000_QL80_.jpg",
+    "type": "رواية",
+    "is_novel": true,
+    "rating": "9.0"
+  },
+  {
+    "id": "joy-of-life",
+    "title": "متعة الحياة",
+    "url": "https://kolnovel.com/series/joy-of-life",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2021/05/00759-joy-of-life.jpg",
+    "type": "رواية",
+    "is_novel": true,
+    "rating": "7.0"
+  },
+  {
+    "id": "%d8%a7%d9%84%d8%a7%d9%86%d8%ad%d8%af%d8%a7%d8%b1-%d8%a7%d9%84%d9%85%d8%b7%d9%84%d9%82",
+    "title": "الانحدار المطلق",
+    "url": "https://kolnovel.com/series/%d8%a7%d9%84%d8%a7%d9%86%d8%ad%d8%af%d8%a7%d8%b1-%d8%a7%d9%84%d9%85%d8%b7%d9%84%d9%82",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2025/08/Absolute-Regression.jpg",
+    "type": "رواية",
+    "is_novel": true,
+    "rating": "9.0"
+  },
+  {
+    "id": "%d8%b3%d8%ac%d9%84-%d8%b1%d8%ad%d9%84%d8%a9-%d9%81%d8%a7%d9%86%d9%8a-%d8%a5%d9%84%d9%89-%d8%a7%d9%84%d8%ae%d9%84%d9%88%d8%af",
+    "title": "سجل رحلة فاني نحو الخلود",
+    "url": "https://kolnovel.com/series/%d8%b3%d8%ac%d9%84-%d8%b1%d8%ad%d9%84%d8%a9-%d9%81%d8%a7%d9%86%d9%8a-%d8%a5%d9%84%d9%89-%d8%a7%d9%84%d8%ae%d9%84%d9%88%d8%af",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2025/12/Screenshot_٢٠٢٥-١٢-٠٨-١٥-٣٢-٥٧-٦٣١-edit_com.android.chrome.jpg",
+    "type": "رواية",
+    "is_novel": true,
+    "rating": "8.5"
+  },
+  {
+    "id": "%d9%84%d8%b9%d9%86%d8%a9-%d8%a7%d9%84%d8%ae%d9%8a%d8%a7%d8%b1%d8%a7%d8%aa",
+    "title": "لعنة الخيارات",
+    "url": "https://kolnovel.com/series/%d9%84%d8%b9%d9%86%d8%a9-%d8%a7%d9%84%d8%ae%d9%8a%d8%a7%d8%b1%d8%a7%d8%aa",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2025/06/ad1322ae469d7b43.jpg",
+    "type": "رواية",
+    "is_novel": true,
+    "rating": "8.0"
+  },
+  {
+    "id": "emperor-has-returned",
+    "title": "عودة الإمبراطور",
+    "url": "https://kolnovel.com/series/emperor-has-returned",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2021/04/X_1078425-1.jpg",
+    "type": "رواية",
+    "is_novel": true,
+    "rating": "8.2"
+  },
+  {
+    "id": "%d8%ad%d9%8a%d8%a7%d8%aa%d9%8a-%d9%83%d9%85%d8%b1%d8%b4%d8%af-%d8%b1%d9%88%d8%ad%d9%8a-%d9%81%d9%8a-%d8%a7%d9%84%d9%82%d8%b5%d8%b5-%d8%a7%d9%84%d9%85%d8%b5%d9%88%d8%b1%d8%a9-%d8%a7%d9%84%d8%a3%d9%85",
+    "title": "حياتي كمرشد روحي في القصص المصورة الأمريكية",
+    "url": "https://kolnovel.com/series/%d8%ad%d9%8a%d8%a7%d8%aa%d9%8a-%d9%83%d9%85%d8%b1%d8%b4%d8%af-%d8%b1%d9%88%d8%ad%d9%8a-%d9%81%d9%8a-%d8%a7%d9%84%d9%82%d8%b5%d8%b5-%d8%a7%d9%84%d9%85%d8%b5%d9%88%d8%b1%d8%a9-%d8%a7%d9%84%d8%a3%d9%85",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2025/02/28472564208054505.jpeg",
+    "type": "رواية",
+    "is_novel": true,
+    "rating": "7.5"
+  },
+  {
+    "id": "%d8%b9%d9%88%d8%af%d8%a9-%d9%85%d8%a8%d8%a7%d9%84%d8%ba-%d9%81%d9%8a%d9%87%d8%a7",
+    "title": "عودة مبالغ فيها",
+    "url": "https://kolnovel.com/series/%d8%b9%d9%88%d8%af%d8%a9-%d9%85%d8%a8%d8%a7%d9%84%d8%ba-%d9%81%d9%8a%d9%87%d8%a7",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2025/09/090355.png",
+    "type": "رواية",
+    "is_novel": true,
+    "rating": "8.5"
+  },
+  {
+    "id": "the-heavenly-demon-cant-live-a-normal-life",
+    "title": "The Heavenly Demon Cant Live a Normal Life",
+    "url": "https://kolnovel.com/series/the-heavenly-demon-cant-live-a-normal-life",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2022/05/unknown-6-1-193x278-1.png",
+    "type": "رواية",
+    "is_novel": true,
+    "rating": ""
+  },
+  {
+    "id": "mages-are-too-op",
+    "title": "Mages Are Too OP",
+    "url": "https://kolnovel.com/series/mages-are-too-op",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2020/12/Michael_Fang.jpg",
+    "type": "رواية",
+    "is_novel": true,
+    "rating": "8.5"
+  },
+  {
+    "id": "legend-of-the-great-sage",
+    "title": "أسطورة الحكيم العظيم",
+    "url": "https://kolnovel.com/series/legend-of-the-great-sage",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2021/03/zixar.jpg",
+    "type": "رواية",
+    "is_novel": true,
+    "rating": "8.8",
+    "status": "مستمر",
+    "total_chapters": 1631
+  },
+  {
+    "id": "%d8%a7%d9%84%d8%ba%d9%85%d9%88%d8%b6%d8%8c-%d8%a7%d9%84%d9%82%d9%88%d9%89%d8%8c-%d8%a7%d9%84%d9%81%d9%88%d8%b6%d9%89",
+    "title": "الغموض، القوى، الفوضى",
+    "url": "https://kolnovel.com/series/%d8%a7%d9%84%d8%ba%d9%85%d9%88%d8%b6%d8%8c-%d8%a7%d9%84%d9%82%d9%88%d9%89%d8%8c-%d8%a7%d9%84%d9%81%d9%88%d8%b6%d9%89",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2025/11/AddText_11-29-03.57.56.png",
+    "type": "رواية",
+    "is_novel": true,
+    "rating": "8.5"
+  },
+  {
+    "id": "%d8%a7%d9%84%d8%b3%d8%a7%d8%ad%d8%b1-%d8%a7%d9%84%d9%85%d8%aa%d9%85%d8%b1%d8%af",
+    "title": "الساحر المتمرد",
+    "url": "https://kolnovel.com/series/%d8%a7%d9%84%d8%b3%d8%a7%d8%ad%d8%b1-%d8%a7%d9%84%d9%85%d8%aa%d9%85%d8%b1%d8%af",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2026/02/IMG_20260202_160013.png",
+    "type": "رواية",
+    "is_novel": true,
+    "rating": "8.0"
+  },
+  {
+    "id": "%d9%85%d9%86-%d8%b7%d8%a7%d8%a6%d9%81%d8%a9-%d9%81%d9%86%d9%88%d9%86-%d8%a7%d9%84%d9%82%d8%aa%d8%a7%d9%84-%d8%a5%d9%84%d9%89-%d8%b7%d8%a7%d8%a6%d9%81%d8%a9-%d8%b5%d9%82%d9%84-%d8%a7%d9%84%d8%ae%d9%84",
+    "title": "من طائفة فنون القتال إلى طائفة صقل الخلود",
+    "url": "https://kolnovel.com/series/%d9%85%d9%86-%d8%b7%d8%a7%d8%a6%d9%81%d8%a9-%d9%81%d9%86%d9%88%d9%86-%d8%a7%d9%84%d9%82%d8%aa%d8%a7%d9%84-%d8%a5%d9%84%d9%89-%d8%b7%d8%a7%d8%a6%d9%81%d8%a9-%d8%b5%d9%82%d9%84-%d8%a7%d9%84%d8%ae%d9%84",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2025/11/From-a-Martial-Arts-Sect-to-an-Immortal-Cultivation-Sect.png",
+    "type": "رواية",
+    "is_novel": true,
+    "rating": "8.0"
+  },
+  {
+    "id": "%d8%a7%d9%86%d8%aa%d9%81%d8%a7%d8%b6%d8%a9-%d8%a7%d9%84%d8%ad%d9%8f%d9%85%d8%b1",
+    "title": "انتفاضة الحُمر",
+    "url": "https://kolnovel.com/series/%d8%a7%d9%86%d8%aa%d9%81%d8%a7%d8%b6%d8%a9-%d8%a7%d9%84%d8%ad%d9%8f%d9%85%d8%b1",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2025/12/unnamed.jpg",
+    "type": "رواية",
+    "is_novel": true,
+    "rating": ""
+  },
+  {
+    "id": "rezero-starting-life-in-another-world",
+    "title": "ري زيرو: بدء الحياة في عالم أخر من الصفر",
+    "url": "https://kolnovel.com/series/rezero-starting-life-in-another-world",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2021/07/IMG_20230128_222953_363.jpg",
+    "type": "رواية",
+    "is_novel": true,
+    "rating": "8.0"
+  },
+  {
+    "id": "%d9%88%d8%b1%d8%ab%d8%aa%d9%8f-%d9%82%d8%b5%d8%b1-%d8%b9%d8%a7%d8%a6%d9%84%d8%a9-%d9%88%d8%a7%d9%8a%d9%86",
+    "title": "ورثتُ قصر عائلة واين",
+    "url": "https://kolnovel.com/series/%d9%88%d8%b1%d8%ab%d8%aa%d9%8f-%d9%82%d8%b5%d8%b1-%d8%b9%d8%a7%d8%a6%d9%84%d8%a9-%d9%88%d8%a7%d9%8a%d9%86",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2026/03/1772853660601.png",
+    "type": "رواية",
+    "is_novel": true,
+    "rating": "8.5"
+  },
+  {
+    "id": "i-ai-r-b-i-g-s-t-t",
+    "title": "حكايات عائد لانهائي",
+    "url": "https://kolnovel.com/series/i-ai-r-b-i-g-s-t-t",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2024/06/135_20240522055349.png",
+    "type": "رواية",
+    "is_novel": true,
+    "rating": "9.2"
+  },
+  {
+    "id": "%d8%a5%d9%85%d8%a8%d8%b1%d9%8a%d8%a7%d9%84%d9%8a-%d8%b4%d8%a8%d9%87-%d9%82%d8%b3%d8%b1%d9%8a",
+    "title": "إمبريالي شبه قسري",
+    "url": "https://kolnovel.com/series/%d8%a5%d9%85%d8%a8%d8%b1%d9%8a%d8%a7%d9%84%d9%8a-%d8%b4%d8%a8%d9%87-%d9%82%d8%b3%d8%b1%d9%8a",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2026/03/SemiCoercive-Imperialist_1.jpg",
+    "type": "رواية",
+    "is_novel": true,
+    "rating": "8.5"
+  },
+  {
+    "id": "infinite-competitive-dungeon-society",
+    "title": "مجتمع الأبراج التنافسي اللامتناهي",
+    "url": "https://kolnovel.com/series/infinite-competitive-dungeon-society",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2023/01/Infinite-Competitive-Dungeon-Society.jpg",
+    "type": "رواية",
+    "is_novel": true,
+    "rating": "8.0"
+  },
+  {
+    "id": "i-want-to-eat-your-pancreas",
+    "title": "أريد أن آكل بنكرياسك",
+    "url": "https://kolnovel.com/series/i-want-to-eat-your-pancreas",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2022/07/IMG_0423.jpeg",
+    "type": "رواية",
+    "is_novel": true,
+    "rating": "8.0"
+  },
+  {
+    "id": "k1ng-of-goeds-kol",
+    "title": "ملك&الآلهة-kol",
+    "url": "https://kolnovel.com/series/k1ng-of-goeds-kol",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2021/03/kog2_b.jpg",
+    "type": "رواية",
+    "is_novel": true,
+    "rating": "8.0",
+    "status": "مكتمل",
+    "total_chapters": 1606
+  },
+  {
+    "id": "%d8%b3%d9%82%d9%88%d8%b7-%d8%a7%d9%84%d8%ae%d9%8a%d8%b7-%d9%85%d8%a7-%d8%a8%d8%b9%d8%af-%d8%a7%d9%84%d9%85%d9%88%d8%aa%d8%8c-%d9%86%d8%ad%d9%88-%d8%a7%d9%84%d9%81%d9%88%d8%b6%d9%89",
+    "title": "سقوط الخيط: ما بعد الموت، نحو الفوضى",
+    "url": "https://kolnovel.com/series/%d8%b3%d9%82%d9%88%d8%b7-%d8%a7%d9%84%d8%ae%d9%8a%d8%b7-%d9%85%d8%a7-%d8%a8%d8%b9%d8%af-%d8%a7%d9%84%d9%85%d9%88%d8%aa%d8%8c-%d9%86%d8%ad%d9%88-%d8%a7%d9%84%d9%81%d9%88%d8%b6%d9%89",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2026/04/2busy4you_20260417_085804_0000.png",
+    "type": "رواية",
+    "is_novel": true,
+    "rating": "8.0"
+  },
+  {
+    "id": "%d9%84%d9%88%d8%b1%d8%af-%d8%a7%d9%84%d8%ba%d9%88%d8%a7%d9%85%d8%b6",
+    "title": "لورد الغوامض",
+    "url": "https://kolnovel.com/series/%d9%84%d9%88%d8%b1%d8%af-%d8%a7%d9%84%d8%ba%d9%88%d8%a7%d9%85%d8%b6",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2020/10/بدون-اسم64_20260622023855.png",
+    "type": "رواية",
+    "is_novel": true,
+    "rating": "9.6",
+    "status": "مكتمل",
+    "total_chapters": 1437
+  },
+  {
+    "id": "tnorotsp",
+    "title": "تيرا نوفا اونلاين: صعود اللاعب الاقوى",
+    "url": "https://kolnovel.com/series/tnorotsp",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2024/07/بدون-اسم68_20260622072809.png",
+    "type": "رواية",
+    "is_novel": true,
+    "rating": "8.5"
+  },
+  {
+    "id": "journey-of-the-fate-destroying-emperor",
+    "title": "رحلة الامبراطور مدمر الاقدار",
+    "url": "https://kolnovel.com/series/journey-of-the-fate-destroying-emperor",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2022/11/رحلة-الامبراطور-مدمر-الاقدار.jpg2_.jpg",
+    "type": "رواية",
+    "is_novel": true,
+    "rating": "7.5"
+  },
+  {
+    "id": "record-of-a-thousand-lives",
+    "title": "سجل الالف حياة",
+    "url": "https://kolnovel.com/series/record-of-a-thousand-lives",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2023/03/بدون-اسم78_20260715191309.png",
+    "type": "رواية",
+    "is_novel": true,
+    "rating": "8.0"
+  },
+  {
+    "id": "dragon-marked-war-god",
+    "title": "اله القتال ذو علامة التنين",
+    "url": "https://kolnovel.com/series/dragon-marked-war-god",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2020/10/بدون-اسم76_20260716013908.png",
+    "type": "رواية",
+    "is_novel": true,
+    "rating": "8.4",
+    "status": "مستمر",
+    "total_chapters": 2958
+  },
+  {
+    "id": "megik-ambarar-kol",
+    "title": "الإمبراطور الشيطاني كول",
+    "url": "https://kolnovel.com/series/megik-ambarar-kol",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2020/11/t3.jpg",
+    "type": "رواية",
+    "is_novel": true,
+    "rating": "9.0",
+    "status": "مكتمل",
+    "total_chapters": 1318
+  },
+  {
+    "id": "reincarnation-of-the-strongest-sword-god",
+    "title": "تجسيد أقوى إله سيف",
+    "url": "https://kolnovel.com/series/reincarnation-of-the-strongest-sword-god",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2020/10/IMG_20211104_024015-e1647036669834.png",
+    "type": "رواية",
+    "is_novel": true,
+    "rating": "8.0"
+  },
+  {
+    "id": "%d8%a7%d9%84%d8%aa%d9%82%d8%b7%d9%86%d9%8a",
+    "title": "التقطني",
+    "url": "https://kolnovel.com/series/%d8%a7%d9%84%d8%aa%d9%82%d8%b7%d9%86%d9%8a",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2026/06/AddText_-.png",
+    "type": "رواية",
+    "is_novel": true,
+    "rating": ""
+  },
+  {
+    "id": "%d8%ad%d9%83%d8%a7%d9%8a%d8%a9-%d8%aa%d8%af%d8%b1%d9%8a%d8%a8-%d8%a7%d9%84%d8%b9%d8%a7%d8%a6%d8%af",
+    "title": "حكاية تدريب العائد",
+    "url": "https://kolnovel.com/series/%d8%ad%d9%83%d8%a7%d9%8a%d8%a9-%d8%aa%d8%af%d8%b1%d9%8a%d8%a8-%d8%a7%d9%84%d8%b9%d8%a7%d8%a6%d8%af",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2025/08/file_00000000f50071fdb90aa171bb987b25.png",
+    "type": "رواية",
+    "is_novel": true,
+    "rating": "8.8"
+  },
+  {
+    "id": "%d9%85%d9%8f%d8%b5%d8%a7%d8%ba-%d8%a7%d9%84%d8%b1%d9%88%d8%ad",
+    "title": "مُصاغ الروح",
+    "url": "https://kolnovel.com/series/%d9%85%d9%8f%d8%b5%d8%a7%d8%ba-%d8%a7%d9%84%d8%b1%d9%88%d8%ad",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2025/08/بدون-اسم62_20260618190021.png",
+    "type": "رواية",
+    "is_novel": true,
+    "rating": "9.0"
+  },
+  {
+    "id": "damn-reincarnation",
+    "title": "التناسخ اللعين",
+    "url": "https://kolnovel.com/series/damn-reincarnation",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2022/07/p_2440k872b1-1.png",
+    "type": "رواية",
+    "is_novel": true,
+    "rating": "9.0"
+  },
+  {
+    "id": "true-martial-world",
+    "title": "العالم القتالي الحقيقي",
+    "url": "https://kolnovel.com/series/true-martial-world",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2021/04/بدون-اسم77_20260715191512.png",
+    "type": "رواية",
+    "is_novel": true,
+    "rating": "8.6"
+  },
+  {
+    "id": "48hours-a-day",
+    "title": "48 ساعة باليوم",
+    "url": "https://kolnovel.com/series/48hours-a-day",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2021/11/IMG_20211123_002409-1.png",
+    "type": "رواية",
+    "is_novel": true,
+    "rating": "8.0"
+  },
+  {
+    "id": "%d9%85%d8%b7%d9%88%d8%b1-%d8%a3%d9%84%d8%b9%d8%a7%d8%a8-%d8%a7%d9%84%d8%b1%d8%b9%d8%a8-%d8%a3%d9%84%d8%b9%d8%a7%d8%a8%d9%8a-%d9%84%d9%8a%d8%b3%d8%aa-%d9%85%d8%b1%d8%b9%d8%a8%d8%a9-%d9%84%d9%87%d8%b0",
+    "title": "مطور ألعاب الرعب: ألعابي ليست مرعبة لهذا الحد!",
+    "url": "https://kolnovel.com/series/%d9%85%d8%b7%d9%88%d8%b1-%d8%a3%d9%84%d8%b9%d8%a7%d8%a8-%d8%a7%d9%84%d8%b1%d8%b9%d8%a8-%d8%a3%d9%84%d8%b9%d8%a7%d8%a8%d9%8a-%d9%84%d9%8a%d8%b3%d8%aa-%d9%85%d8%b1%d8%b9%d8%a8%d8%a9-%d9%84%d9%87%d8%b0",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2025/04/بدون-اسم105_20260728022936.png",
+    "type": "رواية",
+    "is_novel": true,
+    "rating": "8.0"
+  },
+  {
+    "id": "%d8%b7%d8%a8%d9%82%d8%a7%d8%aa-%d9%81%d9%8a-%d8%a7%d9%84%d8%a8%d8%ad%d8%b1-%d8%a7%d9%84%d9%85%d9%84%d9%83%d9%8a",
+    "title": "طبقات في البحر الملكي",
+    "url": "https://kolnovel.com/series/%d8%b7%d8%a8%d9%82%d8%a7%d8%aa-%d9%81%d9%8a-%d8%a7%d9%84%d8%a8%d8%ad%d8%b1-%d8%a7%d9%84%d9%85%d9%84%d9%83%d9%8a",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2026/06/AIRetouch___1.png",
+    "type": "رواية",
+    "is_novel": true,
+    "rating": "7.5"
+  },
+  {
+    "id": "%d8%b9%d9%88%d8%af%d8%a9-%d8%a7%d9%84%d8%a5%d9%85%d8%a8%d8%b1%d8%a7%d8%b7%d9%88%d8%b1-%d8%a7%d9%84%d8%b4%d9%8a%d8%b7%d8%a7%d9%86%d9%8a",
+    "title": "عودة الإمبراطور الشيطاني",
+    "url": "https://kolnovel.com/series/%d8%b9%d9%88%d8%af%d8%a9-%d8%a7%d9%84%d8%a5%d9%85%d8%a8%d8%b1%d8%a7%d8%b7%d9%88%d8%b1-%d8%a7%d9%84%d8%b4%d9%8a%d8%b7%d8%a7%d9%86%d9%8a",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2026/07/file_0000000011d071f4a5bcba4ed38e14f8.png",
+    "type": "رواية",
+    "is_novel": true,
+    "rating": ""
+  },
+  {
+    "id": "a-returners-magic-should-be-special",
+    "title": "على سحر العائد أن يكون مميزًا",
+    "url": "https://kolnovel.com/series/a-returners-magic-should-be-special",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2021/05/89_20231108135552.png",
+    "type": "رواية",
+    "is_novel": true,
+    "rating": "8.2"
+  },
+  {
+    "id": "%d8%ba%d8%b1%d9%8a%d9%85%d8%ba%d8%a7%d8%b1-%d8%a7%d9%84%d8%b1%d9%85%d8%a7%d8%af-%d9%88%d8%a7%d9%84%d8%a3%d9%88%d9%87%d8%a7%d9%85",
+    "title": "غريمغار: الرماد والأوهام",
+    "url": "https://kolnovel.com/series/%d8%ba%d8%b1%d9%8a%d9%85%d8%ba%d8%a7%d8%b1-%d8%a7%d9%84%d8%b1%d9%85%d8%a7%d8%af-%d9%88%d8%a7%d9%84%d8%a3%d9%88%d9%87%d8%a7%d9%85",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2026/07/IMG__.jpg",
+    "type": "رواية",
+    "is_novel": true,
+    "rating": ""
+  },
+  {
+    "id": "%d9%85%d9%84%d9%83-%d8%a7%d9%84%d8%b3%d8%ad%d8%b1-%d8%a7%d9%84%d9%85%d9%8f%d8%b9%d8%a7%d8%af-%d9%88%d9%84%d8%a7%d8%af%d8%aa%d9%87",
+    "title": "ملك السحر المُعاد ولادته",
+    "url": "https://kolnovel.com/series/%d9%85%d9%84%d9%83-%d8%a7%d9%84%d8%b3%d8%ad%d8%b1-%d8%a7%d9%84%d9%85%d9%8f%d8%b9%d8%a7%d8%af-%d9%88%d9%84%d8%a7%d8%af%d8%aa%d9%87",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2026/08/file_000000001758820a9d59696ddfc3acd1.png",
+    "type": "رواية",
+    "is_novel": true,
+    "rating": ""
+  },
+  {
+    "id": "birthof-tha-demon1c-sword-kol",
+    "title": "ولادة&السيف&الشيطاني-kol",
+    "url": "https://kolnovel.com/series/birthof-tha-demon1c-sword-kol",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2021/01/499253146c81557d6-scaled.jpg",
+    "type": "رواية",
+    "is_novel": true,
+    "rating": "9.0"
+  },
+  {
+    "id": "%d8%b3%d8%b9%d9%8a-%d8%a8%d8%b1%d8%a8%d8%b1%d9%8a",
+    "title": "سعي بربري",
+    "url": "https://kolnovel.com/series/%d8%b3%d8%b9%d9%8a-%d8%a8%d8%b1%d8%a8%d8%b1%d9%8a",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2025/04/s.jpg",
+    "type": "رواية",
+    "is_novel": true,
+    "rating": "9.0"
+  },
+  {
+    "id": "%d8%a7%d9%84%d8%b1%d8%b3%d8%a7%d9%85-%d8%a7%d9%84%d8%b0%d9%8a-%d9%8a%d8%b1%d8%b3%d9%85-%d8%a7%d9%84%d8%b2%d9%86%d8%b2%d8%a7%d9%86%d8%a7%d8%aa",
+    "title": "الرسام الذي يرسم الزنزانات",
+    "url": "https://kolnovel.com/series/%d8%a7%d9%84%d8%b1%d8%b3%d8%a7%d9%85-%d8%a7%d9%84%d8%b0%d9%8a-%d9%8a%d8%b1%d8%b3%d9%85-%d8%a7%d9%84%d8%b2%d9%86%d8%b2%d8%a7%d9%86%d8%a7%d8%aa",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2026/07/بدون-اسم84_20260715191127.png",
+    "type": "رواية",
+    "is_novel": true,
+    "rating": "7.5"
+  },
+  {
+    "id": "%d8%a7%d9%84%d9%82%d8%a7%d8%aa%d9%84-%d8%a7%d9%84%d8%a3%d8%b2%d9%84%d9%8a",
+    "title": "القاتل الأزلي",
+    "url": "https://kolnovel.com/series/%d8%a7%d9%84%d9%82%d8%a7%d8%aa%d9%84-%d8%a7%d9%84%d8%a3%d8%b2%d9%84%d9%8a",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2025/03/113297.png",
+    "type": "رواية",
+    "is_novel": true,
+    "rating": "8.0"
+  },
+  {
+    "id": "%d8%a7%d9%84%d8%a8%d8%af%d8%a7%d9%8a%d8%a9-%d8%a8%d8%b9%d8%af-%d8%a7%d9%84%d9%86%d9%87%d8%a7%d9%8a%d8%a9",
+    "title": "البداية بعد النهاية",
+    "url": "https://kolnovel.com/series/%d8%a7%d9%84%d8%a8%d8%af%d8%a7%d9%8a%d8%a9-%d8%a8%d8%b9%d8%af-%d8%a7%d9%84%d9%86%d9%87%d8%a7%d9%8a%d8%a9",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2020/10/بدون-اسم65_20260622025614.png",
+    "type": "رواية",
+    "is_novel": true,
+    "rating": "9.5",
+    "status": "مكتمل",
+    "total_chapters": 558
+  },
+  {
+    "id": "%d8%a7%d9%84%d8%a3%d8%b1%d8%b6-%d8%a7%d9%84%d8%a3%d9%88%d9%84%d9%89",
+    "title": "الأرض الأولى",
+    "url": "https://kolnovel.com/series/%d8%a7%d9%84%d8%a3%d8%b1%d8%b6-%d8%a7%d9%84%d8%a3%d9%88%d9%84%d9%89",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2021/01/C358AFCB-7EAD-4838-8250-400DCAA13A47.png",
+    "type": "رواية",
+    "is_novel": true,
+    "rating": "7.5"
+  },
+  {
+    "id": "%d8%ad%d8%aa%d9%89-%d9%84%d9%88-%d9%88%d9%82%d8%b9%d8%aa-%d9%81%d9%8a-%d9%82%d8%b5%d8%a9-%d8%b1%d8%b9%d8%a8-%d9%8a%d8%ac%d8%a8-%d8%a3%d9%86-%d8%a3%d8%b0%d9%87%d8%a8-%d9%84%d9%84%d8%b9%d9%85%d9%84",
+    "title": "حتى لو وقعت في قصة رعب يجب أن أذهب للعمل",
+    "url": "https://kolnovel.com/series/%d8%ad%d8%aa%d9%89-%d9%84%d9%88-%d9%88%d9%82%d8%b9%d8%aa-%d9%81%d9%8a-%d9%82%d8%b5%d8%a9-%d8%b1%d8%b9%d8%a8-%d9%8a%d8%ac%d8%a8-%d8%a3%d9%86-%d8%a3%d8%b0%d9%87%d8%a8-%d9%84%d9%84%d8%b9%d9%85%d9%84",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2025/07/بدون-اسم66_20260622032832.png",
+    "type": "رواية",
+    "is_novel": true,
+    "rating": "9.0"
+  },
+  {
+    "id": "%d9%83%d8%a7%d8%b1%d9%87-%d8%a7%d9%84%d8%b4%d9%88%d8%ac%d9%88",
+    "title": "كاره الشوجو",
+    "url": "https://kolnovel.com/series/%d9%83%d8%a7%d8%b1%d9%87-%d8%a7%d9%84%d8%b4%d9%88%d8%ac%d9%88",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2025/10/IMG__-20-1.png",
+    "type": "رواية",
+    "is_novel": true,
+    "rating": "7.5"
+  },
+  {
+    "id": "%d8%b9%d8%a8%d8%af-%d8%a7%d9%84%d8%b8%d9%84",
+    "title": "عبد الظل",
+    "url": "https://kolnovel.com/series/%d8%b9%d8%a8%d8%af-%d8%a7%d9%84%d8%b8%d9%84",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2025/01/ساني-1.jpg",
+    "type": "رواية",
+    "is_novel": true,
+    "rating": "8.0"
+  },
+  {
+    "id": "%d8%a7%d9%84%d9%84%d9%8a%d8%aa%d8%b4-%d8%a7%d9%84%d9%85%d8%ac%d9%86%d9%88%d9%86",
+    "title": "الليتش المجنون",
+    "url": "https://kolnovel.com/series/%d8%a7%d9%84%d9%84%d9%8a%d8%aa%d8%b4-%d8%a7%d9%84%d9%85%d8%ac%d9%86%d9%88%d9%86",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2021/03/113272.png",
+    "type": "رواية",
+    "is_novel": true,
+    "rating": "8.0"
+  },
+  {
+    "id": "kingdoms-bloodline",
+    "title": "سليل المملكة",
+    "url": "https://kolnovel.com/series/kingdoms-bloodline",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2022/10/سليل-المملكة_20250918_161202_٠٠٠٠.png",
+    "type": "رواية",
+    "is_novel": true,
+    "rating": "9.0"
+  },
+  {
+    "id": "%d8%a7%d9%84%d9%85%d8%a6%d8%a9-%d8%b9%d9%87%d8%af",
+    "title": "المئة عهد",
+    "url": "https://kolnovel.com/series/%d8%a7%d9%84%d9%85%d8%a6%d8%a9-%d8%b9%d9%87%d8%af",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2026/07/بدون-اسم105_20260722102113.png",
+    "type": "رواية",
+    "is_novel": true,
+    "rating": ""
+  },
+  {
+    "id": "%d8%a7%d9%84%d8%a7%d8%a8%d9%86-%d8%a7%d9%84%d8%a3%d8%b5%d8%ba%d8%b1-%d9%84%d8%b3%d9%8a%d8%af-%d8%a7%d9%84%d8%b3%d9%8a%d9%81",
+    "title": "الابن الأصغر لسيد السيف",
+    "url": "https://kolnovel.com/series/%d8%a7%d9%84%d8%a7%d8%a8%d9%86-%d8%a7%d9%84%d8%a3%d8%b5%d8%ba%d8%b1-%d9%84%d8%b3%d9%8a%d8%af-%d8%a7%d9%84%d8%b3%d9%8a%d9%81",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2021/03/بدون-اسم112_20260802125700.png",
+    "type": "رواية",
+    "is_novel": true,
+    "rating": "8.8"
+  },
+  {
+    "id": "reform-the-nobody",
+    "title": "ReForm: The Nobody",
+    "url": "https://kolnovel.com/series/reform-the-nobody",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2021/12/5972441263a9514c39309138784a6c69-01_1.jpg",
+    "type": "رواية",
+    "is_novel": true,
+    "rating": "7.0"
+  },
+  {
+    "id": "%d9%83%d8%aa%d8%a7%d8%a8-%d8%a7%d9%84%d9%85%d8%a6%d8%a9-%d8%ad%d9%8a%d8%a7%d8%a9",
+    "title": "كتاب المئة حياة",
+    "url": "https://kolnovel.com/series/%d9%83%d8%aa%d8%a7%d8%a8-%d8%a7%d9%84%d9%85%d8%a6%d8%a9-%d8%ad%d9%8a%d8%a7%d8%a9",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2026/08/بدون-اسم124_20260822084136.png",
+    "type": "رواية",
+    "is_novel": true,
+    "rating": ""
+  },
+  {
+    "id": "%d8%af%d8%a7%d9%88-%d8%a7%d9%84%d8%ae%d8%a7%d9%84%d8%af-%d8%a7%d9%84%d8%b9%d8%ac%d9%8a%d8%a8",
+    "title": "داو الخالد العجيب",
+    "url": "https://kolnovel.com/series/%d8%af%d8%a7%d9%88-%d8%a7%d9%84%d8%ae%d8%a7%d9%84%d8%af-%d8%a7%d9%84%d8%b9%d8%ac%d9%8a%d8%a8",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2025/11/Picsart_25-11-27_16-28-47-925.jpg",
+    "type": "رواية",
+    "is_novel": true,
+    "rating": "8.0"
+  },
+  {
     "id": "%d8%a7%d9%84%d9%82%d8%b3-%d8%a7%d9%84%d9%85%d8%ac%d9%86%d9%88%d9%86",
     "title": "القس المجنون",
     "url": "https://kolnovel.com/series/%d8%a7%d9%84%d9%82%d8%b3-%d8%a7%d9%84%d9%85%d8%ac%d9%86%d9%88%d9%86",
     "cover_url": "https://kolnovel.com/wp-content/uploads/2020/10/بدون-اسم114_20260804041241.png",
     "type": "رواية",
     "is_novel": true,
-    "rating": "5.0",
+    "rating": "9.0",
     "status": "مكتمل",
     "total_chapters": 2372
+  },
+  {
+    "id": "%d8%a7%d9%84%d8%ad%d8%b8-%d9%8a%d9%81%d8%b6%d9%84-%d8%a7%d9%84%d8%b3%d9%82%d9%88%d8%b7",
+    "title": "الحظ يفضل السقوط",
+    "url": "https://kolnovel.com/series/%d8%a7%d9%84%d8%ad%d8%b8-%d9%8a%d9%81%d8%b6%d9%84-%d8%a7%d9%84%d8%b3%d9%82%d9%88%d8%b7",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2026/05/135975-fortune-favors-the-fall.jpg.png",
+    "type": "رواية",
+    "is_novel": true,
+    "rating": ""
+  },
+  {
+    "id": "%d8%aa%d8%b3%d9%84%d9%82-%d8%a7%d9%84%d8%a8%d8%b1%d8%ac-%d8%a8%d8%a7%d8%b3%d8%aa%d8%ae%d8%af%d8%a7%d9%85-%d9%82%d8%af%d8%b1%d8%a9-%d8%a5%d9%8a%d9%82%d8%a7%d9%81-%d8%a7%d9%84%d8%b2%d9%85%d9%86",
+    "title": "تسلق البرج باستخدام قدرة إيقاف الزمن",
+    "url": "https://kolnovel.com/series/%d8%aa%d8%b3%d9%84%d9%82-%d8%a7%d9%84%d8%a8%d8%b1%d8%ac-%d8%a8%d8%a7%d8%b3%d8%aa%d8%ae%d8%af%d8%a7%d9%85-%d9%82%d8%af%d8%b1%d8%a9-%d8%a5%d9%8a%d9%82%d8%a7%d9%81-%d8%a7%d9%84%d8%b2%d9%85%d9%86",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2026/07/113225-2.png",
+    "type": "رواية",
+    "is_novel": true,
+    "rating": "7.5"
+  },
+  {
+    "id": "%d8%a3%d8%b3%d8%aa%d8%a7%d8%b0-%d9%85%d8%b2%d9%8a%d9%81%d8%8c-%d9%8a%d9%8f%d8%b3%d8%a7%d8%a1-%d9%81%d9%87%d9%85%d9%87-%d8%b9%d9%84%d9%89-%d8%a3%d9%86%d9%87-%d9%82%d9%88%d9%8a",
+    "title": "أستاذ مزيف، يُساء فهمه على أنه قوي",
+    "url": "https://kolnovel.com/series/%d8%a3%d8%b3%d8%aa%d8%a7%d8%b0-%d9%85%d8%b2%d9%8a%d9%81%d8%8c-%d9%8a%d9%8f%d8%b3%d8%a7%d8%a1-%d9%81%d9%87%d9%85%d9%87-%d8%b9%d9%84%d9%89-%d8%a3%d9%86%d9%87-%d9%82%d9%88%d9%8a",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2026/06/بدون-اسم69_20260715195741.png",
+    "type": "رواية",
+    "is_novel": true,
+    "rating": "8.0"
+  },
+  {
+    "id": "%d8%a7%d9%84%d8%ae%d9%8a%d9%85%d9%8a%d8%a7%d8%a6%d9%8a-%d8%a7%d9%84%d9%85%d9%8a%d9%83%d8%a7%d9%86%d9%8a%d9%83%d9%8a",
+    "title": "الخيميائي الميكانيكي",
+    "url": "https://kolnovel.com/series/%d8%a7%d9%84%d8%ae%d9%8a%d9%85%d9%8a%d8%a7%d8%a6%d9%8a-%d8%a7%d9%84%d9%85%d9%8a%d9%83%d8%a7%d9%86%d9%8a%d9%83%d9%8a",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2021/01/بدون-اسم52_20260530141421.png",
+    "type": "رواية",
+    "is_novel": true,
+    "rating": "8.5"
+  },
+  {
+    "id": "%d8%a7%d9%84%d8%ae%d9%84%d9%88%d8%af-%d8%a7%d9%84%d9%85%d9%84%d8%b9%d9%88%d9%86",
+    "title": "الخلود الملعون",
+    "url": "https://kolnovel.com/series/%d8%a7%d9%84%d8%ae%d9%84%d9%88%d8%af-%d8%a7%d9%84%d9%85%d9%84%d8%b9%d9%88%d9%86",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2024/04/4_20240928135218.png",
+    "type": "رواية",
+    "is_novel": true,
+    "rating": "8.0"
+  },
+  {
+    "id": "the-bloodl1ne-systam-kol",
+    "title": "نظام&سلالة&الدم-kol",
+    "url": "https://kolnovel.com/series/the-bloodl1ne-systam-kol",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2021/12/بدون-اسم46_20250203201559.png",
+    "type": "رواية",
+    "is_novel": true,
+    "rating": "8.5"
+  },
+  {
+    "id": "%d8%b3%d9%8a%d8%af-%d8%a7%d9%84%d8%b8%d9%84%d8%a7%d9%84-%d8%a7%d9%84%d8%b5%d8%a7%d9%85%d8%aa%d8%a9",
+    "title": "سيد الظلال الصامتة",
+    "url": "https://kolnovel.com/series/%d8%b3%d9%8a%d8%af-%d8%a7%d9%84%d8%b8%d9%84%d8%a7%d9%84-%d8%a7%d9%84%d8%b5%d8%a7%d9%85%d8%aa%d8%a9",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2026/07/7901f39a81210a9d7abb67d80cbccc69.png",
+    "type": "رواية",
+    "is_novel": true,
+    "rating": "7.5"
+  },
+  {
+    "id": "%d8%a8%d8%ab-%d8%a7%d9%84%d8%b1%d8%a7%d9%85%d9%8a-%d8%a7%d9%84%d8%b9%d8%a8%d9%82%d8%b1%d9%8a",
+    "title": "بث الرامي العبقري",
+    "url": "https://kolnovel.com/series/%d8%a8%d8%ab-%d8%a7%d9%84%d8%b1%d8%a7%d9%85%d9%8a-%d8%a7%d9%84%d8%b9%d8%a8%d9%82%d8%b1%d9%8a",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2026/08/morph_9_seconds.gif",
+    "type": "رواية",
+    "is_novel": true,
+    "rating": ""
+  },
+  {
+    "id": "the-martial-unity",
+    "title": "الوحدة القتالية",
+    "url": "https://kolnovel.com/series/the-martial-unity",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2023/03/95_20231124170026.png",
+    "type": "رواية",
+    "is_novel": true,
+    "rating": "",
+    "status": "مستمر",
+    "total_chapters": 926
+  },
+  {
+    "id": "%d8%a7%d9%84%d9%85%d8%ad%d8%b1%d8%b1-%d8%b4%d8%ae%d8%b5%d9%8a%d8%a9-%d8%a5%d8%b6%d8%a7%d9%81%d9%8a%d8%a9-%d9%81%d9%8a-%d8%a7%d9%84%d8%b1%d9%88%d8%a7%d9%8a%d8%a9",
+    "title": "المحرر شخصية إضافية في الرواية",
+    "url": "https://kolnovel.com/series/%d8%a7%d9%84%d9%85%d8%ad%d8%b1%d8%b1-%d8%b4%d8%ae%d8%b5%d9%8a%d8%a9-%d8%a5%d8%b6%d8%a7%d9%81%d9%8a%d8%a9-%d9%81%d9%8a-%d8%a7%d9%84%d8%b1%d9%88%d8%a7%d9%8a%d8%a9",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2026/02/resource_1.jpg",
+    "type": "رواية",
+    "is_novel": true,
+    "rating": "",
+    "status": "مستمر",
+    "total_chapters": 102
+  },
+  {
+    "id": "%d8%a7%d8%ad%d9%85%d9%84-%d8%ae%d8%a7%d8%aa%d9%85-%d8%a5%d9%84%d8%af%d9%86",
+    "title": "احمل خاتم إلدن",
+    "url": "https://kolnovel.com/series/%d8%a7%d8%ad%d9%85%d9%84-%d8%ae%d8%a7%d8%aa%d9%85-%d8%a5%d9%84%d8%af%d9%86",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2026/07/5_1.jpg",
+    "type": "رواية",
+    "is_novel": true,
+    "rating": "",
+    "status": "مستمر",
+    "total_chapters": 112
+  },
+  {
+    "id": "%d8%a8%d9%88%d8%a7%d8%a8%d8%a9-%d8%a7%d9%84%d8%ae%d9%84%d9%88%d8%af",
+    "title": "بوابة الخلود",
+    "url": "https://kolnovel.com/series/%d8%a8%d9%88%d8%a7%d8%a8%d8%a9-%d8%a7%d9%84%d8%ae%d9%84%d9%88%d8%af",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2025/01/بدون-اسم72.png",
+    "type": "رواية",
+    "is_novel": true,
+    "rating": "4.0",
+    "status": "مستمر",
+    "total_chapters": 1244
+  },
+  {
+    "id": "mushoku-tensei",
+    "title": "موشوكو تينساي",
+    "url": "https://kolnovel.com/series/mushoku-tensei",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2022/07/1.jpeg",
+    "type": "رواية",
+    "is_novel": true,
+    "rating": "4.8",
+    "status": "مستمر",
+    "total_chapters": 328
+  },
+  {
+    "id": "%d9%85%d9%87%d9%84%d8%a9-%d8%a7%d9%84%d8%b9%d8%b4%d8%b1-%d8%a3%d9%8a%d8%a7%d9%85",
+    "title": "مهلة العشر أيام",
+    "url": "https://kolnovel.com/series/%d9%85%d9%87%d9%84%d8%a9-%d8%a7%d9%84%d8%b9%d8%b4%d8%b1-%d8%a3%d9%8a%d8%a7%d9%85",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2026/03/بدون-اسم16_20260331021720.png",
+    "type": "رواية",
+    "is_novel": true,
+    "rating": "5.0",
+    "status": "مستمر",
+    "total_chapters": 36
+  },
+  {
+    "id": "%d9%85%d9%84%d8%ad%d9%85%d8%a9-%d8%b3%d9%84%d9%8a%d9%84-%d8%a7%d9%84%d8%ae%d9%88%d9%81",
+    "title": "ملحمة سليل الخوف",
+    "url": "https://kolnovel.com/series/%d9%85%d9%84%d8%ad%d9%85%d8%a9-%d8%b3%d9%84%d9%8a%d9%84-%d8%a7%d9%84%d8%ae%d9%88%d9%81",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2025/12/89394.png",
+    "type": "رواية",
+    "is_novel": true,
+    "rating": "",
+    "status": "مستمر",
+    "total_chapters": 26
+  },
+  {
+    "id": "%d8%a7%d9%84%d9%85%d9%8f%d8%aa%d9%8e%d8%ad%d9%8e%d8%b1%d9%90%d9%91%d8%b1",
+    "title": "المُتَحَرِّر",
+    "url": "https://kolnovel.com/series/%d8%a7%d9%84%d9%85%d9%8f%d8%aa%d9%8e%d8%ad%d9%8e%d8%b1%d9%90%d9%91%d8%b1",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2026/09/cover.png",
+    "type": "رواية",
+    "is_novel": true,
+    "rating": "",
+    "status": "مستمر",
+    "total_chapters": 32
+  },
+  {
+    "id": "%d9%85%d9%84%d9%83-%d9%82%d8%af-%d9%84%d8%a7-%d9%8a%d8%b9%d9%88%d8%af",
+    "title": "ملك قد لا يعود",
+    "url": "https://kolnovel.com/series/%d9%85%d9%84%d9%83-%d9%82%d8%af-%d9%84%d8%a7-%d9%8a%d8%b9%d9%88%d8%af",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2026/06/AKMNR_2MG-1.png",
+    "type": "رواية",
+    "is_novel": true,
+    "rating": "",
+    "status": "مستمر",
+    "total_chapters": 36
+  },
+  {
+    "id": "%d8%a7%d9%84%d8%b9%d9%88%d8%a7%d9%84%d9%85-%d9%81%d9%8a-%d8%a7%d9%84%d8%b3%d9%85%d8%a7%d8%a1",
+    "title": "العوالم في السماء",
+    "url": "https://kolnovel.com/series/%d8%a7%d9%84%d8%b9%d9%88%d8%a7%d9%84%d9%85-%d9%81%d9%8a-%d8%a7%d9%84%d8%b3%d9%85%d8%a7%d8%a1",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2026/06/file_000000000e487243b1f720c3018a491e.png",
+    "type": "رواية",
+    "is_novel": true,
+    "rating": "",
+    "status": "مستمر",
+    "total_chapters": 204
+  },
+  {
+    "id": "the-authors-pov",
+    "title": "من منظور المؤلف",
+    "url": "https://kolnovel.com/series/the-authors-pov",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2022/11/بدون-اسم88_20260715191031.png",
+    "type": "رواية",
+    "is_novel": true,
+    "rating": "4.5",
+    "status": "مستمر",
+    "total_chapters": 419
+  },
+  {
+    "id": "elchamy-ambarar-af-tha-divina-dea",
+    "title": "امبراطور الخيمياء في العالم السماوي",
+    "url": "https://kolnovel.com/series/elchamy-ambarar-af-tha-divina-dea",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2020/10/GIF-260509_034955.gif",
+    "type": "رواية",
+    "is_novel": true,
+    "rating": "",
+    "status": "مستمر",
+    "total_chapters": 3673
+  },
+  {
+    "id": "%d9%85%d9%84%d9%83-%d8%b3%d9%85%d8%a7%d8%aa-%d8%a7%d9%84%d9%81%d9%86%d9%88%d9%86-%d8%a7%d9%84%d9%82%d8%aa%d8%a7%d9%84%d9%8a%d8%a9",
+    "title": "ملك سمات الفنون القتالية",
+    "url": "https://kolnovel.com/series/%d9%85%d9%84%d9%83-%d8%b3%d9%85%d8%a7%d8%aa-%d8%a7%d9%84%d9%81%d9%86%d9%88%d9%86-%d8%a7%d9%84%d9%82%d8%aa%d8%a7%d9%84%d9%8a%d8%a9",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2026/01/GIF-260910_004008.gif",
+    "type": "رواية",
+    "is_novel": true,
+    "rating": "5.0",
+    "status": "مستمر",
+    "total_chapters": 1460
+  },
+  {
+    "id": "%d8%a7%d8%aa%d8%b6%d8%ad-%d8%a3%d9%86%d9%86%d9%8a-%d9%85%d9%86-%d8%b9%d8%b4%d9%8a%d8%b1%d8%a9-%d8%a7%d9%84%d8%a3%d8%b4%d8%b1%d8%a7%d8%b1",
+    "title": "اتضح أنني من عشيرة الأشرار!",
+    "url": "https://kolnovel.com/series/%d8%a7%d8%aa%d8%b6%d8%ad-%d8%a3%d9%86%d9%86%d9%8a-%d9%85%d9%86-%d8%b9%d8%b4%d9%8a%d8%b1%d8%a9-%d8%a7%d9%84%d8%a3%d8%b4%d8%b1%d8%a7%d8%b1",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2026/05/GIF-260606_171205.gif",
+    "type": "رواية",
+    "is_novel": true,
+    "rating": "4.5",
+    "status": "مستمر",
+    "total_chapters": 308
+  },
+  {
+    "id": "%d9%85%d8%ad%d9%86%d8%a9-%d8%a7%d9%84%d8%a3%d8%ac%d9%86%d8%a7%d8%b3-%d8%a7%d9%84%d9%85%d8%aa%d8%b9%d8%af%d8%af%d8%a9",
+    "title": "محنة الأجناس المتعددة",
+    "url": "https://kolnovel.com/series/%d9%85%d8%ad%d9%86%d8%a9-%d8%a7%d9%84%d8%a3%d8%ac%d9%86%d8%a7%d8%b3-%d8%a7%d9%84%d9%85%d8%aa%d8%b9%d8%af%d8%af%d8%a9",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2026/07/بدون-اسم97_20260716015333.png",
+    "type": "رواية",
+    "is_novel": true,
+    "rating": "",
+    "status": "مستمر",
+    "total_chapters": 25
+  },
+  {
+    "id": "%d8%a3%d8%b3%d8%b1%d8%a7%d8%b1-%d8%b3%d9%8a%d8%af-%d8%a7%d9%84%d8%af%d9%85%d9%89-%d8%a7%d9%84%d8%ae%d8%a7%d9%84%d8%af",
+    "title": "أسرار سيد الدمى الخالد",
+    "url": "https://kolnovel.com/series/%d8%a3%d8%b3%d8%b1%d8%a7%d8%b1-%d8%b3%d9%8a%d8%af-%d8%a7%d9%84%d8%af%d9%85%d9%89-%d8%a7%d9%84%d8%ae%d8%a7%d9%84%d8%af",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2025/07/بدون-اسم67_20260622033133.png",
+    "type": "رواية",
+    "is_novel": true,
+    "rating": "5.0",
+    "status": "مستمر",
+    "total_chapters": 166
+  },
+  {
+    "id": "%d8%ae%d8%a7%d9%84%d8%af-%d8%a7%d9%84%d8%b9%d9%88%d8%a7%d9%84%d9%85-%d8%a7%d9%84%d8%aa%d8%b3%d8%b9%d8%a9",
+    "title": "خالد العوالم التسعة",
+    "url": "https://kolnovel.com/series/%d8%ae%d8%a7%d9%84%d8%af-%d8%a7%d9%84%d8%b9%d9%88%d8%a7%d9%84%d9%85-%d8%a7%d9%84%d8%aa%d8%b3%d8%b9%d8%a9",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2026/05/113296.png",
+    "type": "رواية",
+    "is_novel": true,
+    "rating": "4.0",
+    "status": "مستمر",
+    "total_chapters": 71
+  },
+  {
+    "id": "%d9%83%d9%8a%d9%81-%d8%a3%d8%b9%d8%a7%d8%af-%d8%a8%d8%b7%d9%84-%d9%88%d8%a7%d9%82%d8%b9%d9%8a-%d8%a8%d9%86%d8%a7%d8%a1-%d8%a7%d9%84%d9%85%d9%85%d9%84%d9%83%d8%a9",
+    "title": "كيف أعاد بطل واقعي بناء المملكة",
+    "url": "https://kolnovel.com/series/%d9%83%d9%8a%d9%81-%d8%a3%d8%b9%d8%a7%d8%af-%d8%a8%d8%b7%d9%84-%d9%88%d8%a7%d9%82%d8%b9%d9%8a-%d8%a8%d9%86%d8%a7%d8%a1-%d8%a7%d9%84%d9%85%d9%85%d9%84%d9%83%d8%a9",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2026/08/RealistHero-LN-v02-Cover.jpg",
+    "type": "رواية",
+    "is_novel": true,
+    "rating": "5.0",
+    "status": "مستمر",
+    "total_chapters": 45
+  },
+  {
+    "id": "%d8%b3%d9%8a%d8%af-%d8%a7%d9%84%d8%aa%d9%85%d9%86%d9%91%d9%8a",
+    "title": "سيد التمنّي",
+    "url": "https://kolnovel.com/series/%d8%b3%d9%8a%d8%af-%d8%a7%d9%84%d8%aa%d9%85%d9%86%d9%91%d9%8a",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2026/05/IMG__.jpg",
+    "type": "رواية",
+    "is_novel": true,
+    "rating": "4.0",
+    "status": "مستمر",
+    "total_chapters": 35
+  },
+  {
+    "id": "%d8%b3%d9%84%d8%b3%d9%84%d8%a9-%d9%85%d9%88%d9%86%d9%88%d8%ba%d8%a7%d8%aa%d8%a7%d8%b1%d9%8a",
+    "title": "سلسلة مونوغاتاري",
+    "url": "https://kolnovel.com/series/%d8%b3%d9%84%d8%b3%d9%84%d8%a9-%d9%85%d9%88%d9%86%d9%88%d8%ba%d8%a7%d8%aa%d8%a7%d8%b1%d9%8a",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2026/09/p000_01.jpg",
+    "type": "رواية",
+    "is_novel": true,
+    "rating": "",
+    "status": "مستمر",
+    "total_chapters": 42
   },
   {
     "id": "emperors-domination",
@@ -20,28 +967,6 @@
     "rating": "5.0",
     "status": "مستمر",
     "total_chapters": 6703
-  },
-  {
-    "id": "%d9%84%d9%88%d8%b1%d8%af-%d8%a7%d9%84%d8%ba%d9%88%d8%a7%d9%85%d8%b6",
-    "title": "لورد الغوامض",
-    "url": "https://kolnovel.com/series/%d9%84%d9%88%d8%b1%d8%af-%d8%a7%d9%84%d8%ba%d9%88%d8%a7%d9%85%d8%b6",
-    "cover_url": "https://kolnovel.com/wp-content/uploads/2020/10/بدون-اسم64_20260622023855.png",
-    "type": "رواية",
-    "is_novel": true,
-    "rating": "5.0",
-    "status": "مكتمل",
-    "total_chapters": 1437
-  },
-  {
-    "id": "%d8%a7%d9%84%d8%a8%d8%af%d8%a7%d9%8a%d8%a9-%d8%a8%d8%b9%d8%af-%d8%a7%d9%84%d9%86%d9%87%d8%a7%d9%8a%d8%a9",
-    "title": "البداية بعد النهاية",
-    "url": "https://kolnovel.com/series/%d8%a7%d9%84%d8%a8%d8%af%d8%a7%d9%8a%d8%a9-%d8%a8%d8%b9%d8%af-%d8%a7%d9%84%d9%86%d9%87%d8%a7%d9%8a%d8%a9",
-    "cover_url": "https://kolnovel.com/wp-content/uploads/2020/10/بدون-اسم65_20260622025614.png",
-    "type": "رواية",
-    "is_novel": true,
-    "rating": "4.6",
-    "status": "مكتمل",
-    "total_chapters": 558
   },
   {
     "id": "martial-world",
@@ -64,28 +989,6 @@
     "rating": "",
     "status": "مكتمل",
     "total_chapters": 3464
-  },
-  {
-    "id": "against-the-gods",
-    "title": "ضد الآلهة",
-    "url": "https://kolnovel.com/series/against-the-gods",
-    "cover_url": "https://kolnovel.com/wp-content/uploads/2021/04/IMG_20211031_231256-e1652077718410.png",
-    "type": "رواية",
-    "is_novel": true,
-    "rating": "",
-    "status": "مستمر",
-    "total_chapters": 2172
-  },
-  {
-    "id": "megik-ambarar-kol",
-    "title": "الإمبراطور الشيطاني كول",
-    "url": "https://kolnovel.com/series/megik-ambarar-kol",
-    "cover_url": "https://kolnovel.com/wp-content/uploads/2020/11/t3.jpg",
-    "type": "رواية",
-    "is_novel": true,
-    "rating": "3.0",
-    "status": "مكتمل",
-    "total_chapters": 1318
   },
   {
     "id": "martial-god-asura",
@@ -132,61 +1035,6 @@
     "total_chapters": 1452
   },
   {
-    "id": "k1ng-of-goeds-kol",
-    "title": "ملك&الآلهة-kol",
-    "url": "https://kolnovel.com/series/k1ng-of-goeds-kol",
-    "cover_url": "https://kolnovel.com/wp-content/uploads/2021/03/kog2_b.jpg",
-    "type": "رواية",
-    "is_novel": true,
-    "rating": "",
-    "status": "مكتمل",
-    "total_chapters": 1606
-  },
-  {
-    "id": "legend-of-the-great-sage",
-    "title": "أسطورة الحكيم العظيم",
-    "url": "https://kolnovel.com/series/legend-of-the-great-sage",
-    "cover_url": "https://kolnovel.com/wp-content/uploads/2021/03/zixar.jpg",
-    "type": "رواية",
-    "is_novel": true,
-    "rating": "",
-    "status": "مستمر",
-    "total_chapters": 1631
-  },
-  {
-    "id": "clessraam-af-tha-alita-kol",
-    "title": "فصل النخبة كول",
-    "url": "https://kolnovel.com/series/clessraam-af-tha-alita-kol",
-    "cover_url": "https://kolnovel.com/wp-content/uploads/2020/11/20240625_102848-scaled.jpeg",
-    "type": "رواية",
-    "is_novel": true,
-    "rating": "",
-    "status": "متوقف مؤقتاً",
-    "total_chapters": 161
-  },
-  {
-    "id": "dragon-marked-war-god",
-    "title": "اله القتال ذو علامة التنين",
-    "url": "https://kolnovel.com/series/dragon-marked-war-god",
-    "cover_url": "https://kolnovel.com/wp-content/uploads/2020/10/بدون-اسم76_20260716013908.png",
-    "type": "رواية",
-    "is_novel": true,
-    "rating": "",
-    "status": "مستمر",
-    "total_chapters": 2958
-  },
-  {
-    "id": "elchamy-ambarar-af-tha-divina-dea",
-    "title": "امبراطور الخيمياء في العالم السماوي",
-    "url": "https://kolnovel.com/series/elchamy-ambarar-af-tha-divina-dea",
-    "cover_url": "https://kolnovel.com/wp-content/uploads/2020/10/GIF-260509_034955.gif",
-    "type": "رواية",
-    "is_novel": true,
-    "rating": "",
-    "status": "مستمر",
-    "total_chapters": 3670
-  },
-  {
     "id": "overgeared",
     "title": "مدجج بالعتاد",
     "url": "https://kolnovel.com/series/overgeared",
@@ -229,15 +1077,6 @@
     "rating": "8.9"
   },
   {
-    "id": "reincarnation-of-the-strongest-sword-god",
-    "title": "تجسيد أقوى إله سيف",
-    "url": "https://kolnovel.com/series/reincarnation-of-the-strongest-sword-god",
-    "cover_url": "https://kolnovel.com/wp-content/uploads/2020/10/IMG_20211104_024015-e1647036669834.png",
-    "type": "رواية",
-    "is_novel": true,
-    "rating": "8.0"
-  },
-  {
     "id": "worlds-apocalypse-online",
     "title": "نهاية العوالم أونلاين",
     "url": "https://kolnovel.com/series/worlds-apocalypse-online",
@@ -274,15 +1113,6 @@
     "rating": "7.5"
   },
   {
-    "id": "the-authors-pov",
-    "title": "من منظور المؤلف",
-    "url": "https://kolnovel.com/series/the-authors-pov",
-    "cover_url": "https://kolnovel.com/wp-content/uploads/2022/11/بدون-اسم88_20260715191031.png",
-    "type": "رواية",
-    "is_novel": true,
-    "rating": "8.9"
-  },
-  {
     "id": "kol-myhous-o-f-horrors",
     "title": "منزل أهوالي kol",
     "url": "https://kolnovel.com/series/kol-myhous-o-f-horrors",
@@ -299,15 +1129,6 @@
     "type": "رواية",
     "is_novel": true,
     "rating": "9.0"
-  },
-  {
-    "id": "true-martial-world",
-    "title": "العالم القتالي الحقيقي",
-    "url": "https://kolnovel.com/series/true-martial-world",
-    "cover_url": "https://kolnovel.com/wp-content/uploads/2021/04/بدون-اسم77_20260715191512.png",
-    "type": "رواية",
-    "is_novel": true,
-    "rating": "8.6"
   },
   {
     "id": "the-novel-extra",
@@ -337,15 +1158,6 @@
     "rating": "7.5"
   },
   {
-    "id": "the-bloodl1ne-systam-kol",
-    "title": "نظام&سلالة&الدم-kol",
-    "url": "https://kolnovel.com/series/the-bloodl1ne-systam-kol",
-    "cover_url": "https://kolnovel.com/wp-content/uploads/2021/12/بدون-اسم46_20250203201559.png",
-    "type": "رواية",
-    "is_novel": true,
-    "rating": "8.5"
-  },
-  {
     "id": "%d8%ac%d9%88%d9%87%d8%b1%d8%a9%d8%a7%d9%84%d8%aa%d8%ba%d9%8a%d8%b1%d8%a7%d9%84%d8%b3%d9%85%d8%a7%d9%88%d9%8a%d8%a9-kolnovel",
     "title": "جوهرة&التغير&السماويةkol",
     "url": "https://kolnovel.com/series/%d8%ac%d9%88%d9%87%d8%b1%d8%a9%d8%a7%d9%84%d8%aa%d8%ba%d9%8a%d8%b1%d8%a7%d9%84%d8%b3%d9%85%d8%a7%d9%88%d9%8a%d8%a9-kolnovel",
@@ -353,15 +1165,6 @@
     "type": "رواية",
     "is_novel": true,
     "rating": "8.6"
-  },
-  {
-    "id": "supreme-magus",
-    "title": "المشعوذ الأعلى",
-    "url": "https://kolnovel.com/series/supreme-magus",
-    "cover_url": "https://kolnovel.com/wp-content/uploads/2020/10/0a6cba0111b6786e.png",
-    "type": "رواية",
-    "is_novel": true,
-    "rating": "9.0"
   },
   {
     "id": "e-wlii-ataruei",
@@ -391,15 +1194,6 @@
     "rating": "8.8"
   },
   {
-    "id": "birthof-tha-demon1c-sword-kol",
-    "title": "ولادة&السيف&الشيطاني-kol",
-    "url": "https://kolnovel.com/series/birthof-tha-demon1c-sword-kol",
-    "cover_url": "https://kolnovel.com/wp-content/uploads/2021/01/499253146c81557d6-scaled.jpg",
-    "type": "رواية",
-    "is_novel": true,
-    "rating": "9.0"
-  },
-  {
     "id": "the-dark-king",
     "title": "الملك المظلم",
     "url": "https://kolnovel.com/series/the-dark-king",
@@ -407,15 +1201,6 @@
     "type": "رواية",
     "is_novel": true,
     "rating": "8.2"
-  },
-  {
-    "id": "damn-reincarnation",
-    "title": "التناسخ اللعين",
-    "url": "https://kolnovel.com/series/damn-reincarnation",
-    "cover_url": "https://kolnovel.com/wp-content/uploads/2022/07/p_2440k872b1-1.png",
-    "type": "رواية",
-    "is_novel": true,
-    "rating": "9.0"
   },
   {
     "id": "the-book-eating-magician",
@@ -443,24 +1228,6 @@
     "type": "رواية",
     "is_novel": true,
     "rating": "9.0"
-  },
-  {
-    "id": "mushoku-tensei",
-    "title": "موشوكو تينساي",
-    "url": "https://kolnovel.com/series/mushoku-tensei",
-    "cover_url": "https://kolnovel.com/wp-content/uploads/2022/07/1.jpeg",
-    "type": "رواية",
-    "is_novel": true,
-    "rating": "9.2"
-  },
-  {
-    "id": "%d8%a7%d9%84%d8%ae%d9%84%d9%88%d8%af-%d8%a7%d9%84%d9%85%d9%84%d8%b9%d9%88%d9%86",
-    "title": "الخلود الملعون",
-    "url": "https://kolnovel.com/series/%d8%a7%d9%84%d8%ae%d9%84%d9%88%d8%af-%d8%a7%d9%84%d9%85%d9%84%d8%b9%d9%88%d9%86",
-    "cover_url": "https://kolnovel.com/wp-content/uploads/2024/04/4_20240928135218.png",
-    "type": "رواية",
-    "is_novel": true,
-    "rating": "8.0"
   },
   {
     "id": "overlord",
@@ -517,15 +1284,6 @@
     "rating": "7.5"
   },
   {
-    "id": "rezero-starting-life-in-another-world",
-    "title": "ري زيرو: بدء الحياة في عالم أخر من الصفر",
-    "url": "https://kolnovel.com/series/rezero-starting-life-in-another-world",
-    "cover_url": "https://kolnovel.com/wp-content/uploads/2021/07/IMG_20230128_222953_363.jpg",
-    "type": "رواية",
-    "is_novel": true,
-    "rating": "8.0"
-  },
-  {
     "id": "dungeon-defense-wn",
     "title": "دفاع الخنادق",
     "url": "https://kolnovel.com/series/dungeon-defense-wn",
@@ -569,24 +1327,6 @@
     "type": "رواية",
     "is_novel": true,
     "rating": "9.0"
-  },
-  {
-    "id": "the-martial-unity",
-    "title": "الوحدة القتالية",
-    "url": "https://kolnovel.com/series/the-martial-unity",
-    "cover_url": "https://kolnovel.com/wp-content/uploads/2023/03/95_20231124170026.png",
-    "type": "رواية",
-    "is_novel": true,
-    "rating": "8.8"
-  },
-  {
-    "id": "%d8%b9%d8%a8%d8%af-%d8%a7%d9%84%d8%b8%d9%84",
-    "title": "عبد الظل",
-    "url": "https://kolnovel.com/series/%d8%b9%d8%a8%d8%af-%d8%a7%d9%84%d8%b8%d9%84",
-    "cover_url": "https://kolnovel.com/wp-content/uploads/2025/01/ساني-1.jpg",
-    "type": "رواية",
-    "is_novel": true,
-    "rating": "8.0"
   },
   {
     "id": "no-way-people-find-cultivation-difficult-right",
@@ -661,15 +1401,6 @@
     "rating": "7.0"
   },
   {
-    "id": "tnorotsp",
-    "title": "تيرا نوفا اونلاين: صعود اللاعب الاقوى",
-    "url": "https://kolnovel.com/series/tnorotsp",
-    "cover_url": "https://kolnovel.com/wp-content/uploads/2024/07/بدون-اسم68_20260622072809.png",
-    "type": "رواية",
-    "is_novel": true,
-    "rating": "8.5"
-  },
-  {
     "id": "rise-of-the-worm-sovereign",
     "title": "صعود الدودة الى السيادة",
     "url": "https://kolnovel.com/series/rise-of-the-worm-sovereign",
@@ -695,15 +1426,6 @@
     "type": "رواية",
     "is_novel": true,
     "rating": "9.0"
-  },
-  {
-    "id": "the-strongest-hokage",
-    "title": "The Strongest Hokage",
-    "url": "https://kolnovel.com/series/the-strongest-hokage",
-    "cover_url": "https://kolnovel.com/wp-content/uploads/2021/03/591s.jpg",
-    "type": "رواية",
-    "is_novel": true,
-    "rating": "7.0"
   },
   {
     "id": "stop-friendly-fire",
@@ -769,15 +1491,6 @@
     "rating": "8.0"
   },
   {
-    "id": "journey-of-the-fate-destroying-emperor",
-    "title": "رحلة الامبراطور مدمر الاقدار",
-    "url": "https://kolnovel.com/series/journey-of-the-fate-destroying-emperor",
-    "cover_url": "https://kolnovel.com/wp-content/uploads/2022/11/رحلة-الامبراطور-مدمر-الاقدار.jpg2_.jpg",
-    "type": "رواية",
-    "is_novel": true,
-    "rating": "7.5"
-  },
-  {
     "id": "i-reincarnated-for-nothing",
     "title": "أعيد بعثى من أجل لا شئ",
     "url": "https://kolnovel.com/series/i-reincarnated-for-nothing",
@@ -785,24 +1498,6 @@
     "type": "رواية",
     "is_novel": true,
     "rating": "7.0"
-  },
-  {
-    "id": "%d9%85%d9%84%d9%83-%d8%b3%d9%85%d8%a7%d8%aa-%d8%a7%d9%84%d9%81%d9%86%d9%88%d9%86-%d8%a7%d9%84%d9%82%d8%aa%d8%a7%d9%84%d9%8a%d8%a9",
-    "title": "ملك سمات الفنون القتالية",
-    "url": "https://kolnovel.com/series/%d9%85%d9%84%d9%83-%d8%b3%d9%85%d8%a7%d8%aa-%d8%a7%d9%84%d9%81%d9%86%d9%88%d9%86-%d8%a7%d9%84%d9%82%d8%aa%d8%a7%d9%84%d9%8a%d8%a9",
-    "cover_url": "https://kolnovel.com/wp-content/uploads/2026/01/GIF-260910_004008.gif",
-    "type": "رواية",
-    "is_novel": true,
-    "rating": "9.1"
-  },
-  {
-    "id": "%d8%ad%d9%83%d8%a7%d9%8a%d8%a9-%d8%aa%d8%af%d8%b1%d9%8a%d8%a8-%d8%a7%d9%84%d8%b9%d8%a7%d8%a6%d8%af",
-    "title": "حكاية تدريب العائد",
-    "url": "https://kolnovel.com/series/%d8%ad%d9%83%d8%a7%d9%8a%d8%a9-%d8%aa%d8%af%d8%b1%d9%8a%d8%a8-%d8%a7%d9%84%d8%b9%d8%a7%d8%a6%d8%af",
-    "cover_url": "https://kolnovel.com/wp-content/uploads/2025/08/file_00000000f50071fdb90aa171bb987b25.png",
-    "type": "رواية",
-    "is_novel": true,
-    "rating": "8.8"
   },
   {
     "id": "vearsetile-megeaa-kolnovel",
@@ -841,15 +1536,6 @@
     "rating": "8.0"
   },
   {
-    "id": "the-villain-wants-to-live",
-    "title": "الشرير يرغب في العيش",
-    "url": "https://kolnovel.com/series/the-villain-wants-to-live",
-    "cover_url": "https://kolnovel.com/wp-content/uploads/2023/06/IMG_1684943582470-e1691256600676.png",
-    "type": "رواية",
-    "is_novel": true,
-    "rating": "8.0"
-  },
-  {
     "id": "%d8%b9%d8%a7%d9%84%d9%85-%d8%a7%d9%84%d8%b3%d8%ad%d8%b1%d8%a9",
     "title": "عالم السحرة",
     "url": "https://kolnovel.com/series/%d8%b9%d8%a7%d9%84%d9%85-%d8%a7%d9%84%d8%b3%d8%ad%d8%b1%d8%a9",
@@ -857,15 +1543,6 @@
     "type": "رواية",
     "is_novel": true,
     "rating": "8.4"
-  },
-  {
-    "id": "48hours-a-day",
-    "title": "48 ساعة باليوم",
-    "url": "https://kolnovel.com/series/48hours-a-day",
-    "cover_url": "https://kolnovel.com/wp-content/uploads/2021/11/IMG_20211123_002409-1.png",
-    "type": "رواية",
-    "is_novel": true,
-    "rating": "8.0"
   },
   {
     "id": "aembersead-1nf11n1tum-kol",
@@ -902,15 +1579,6 @@
     "type": "رواية",
     "is_novel": true,
     "rating": "7.4"
-  },
-  {
-    "id": "joy-of-life",
-    "title": "متعة الحياة",
-    "url": "https://kolnovel.com/series/joy-of-life",
-    "cover_url": "https://kolnovel.com/wp-content/uploads/2021/05/00759-joy-of-life.jpg",
-    "type": "رواية",
-    "is_novel": true,
-    "rating": "7.0"
   },
   {
     "id": "%d8%a8%d8%b9%d8%af-%d8%b9%d8%b4%d8%b1%d8%a9-%d8%a2%d9%84%d9%81-%d8%b3%d9%86%d8%a9-%d9%81%d9%8a-%d8%a7%d9%84%d8%ac%d8%ad%d9%8a%d9%85",
@@ -967,15 +1635,6 @@
     "rating": "8.5"
   },
   {
-    "id": "i-ai-r-b-i-g-s-t-t",
-    "title": "حكايات عائد لانهائي",
-    "url": "https://kolnovel.com/series/i-ai-r-b-i-g-s-t-t",
-    "cover_url": "https://kolnovel.com/wp-content/uploads/2024/06/135_20240522055349.png",
-    "type": "رواية",
-    "is_novel": true,
-    "rating": "9.2"
-  },
-  {
     "id": "imrelly-ae-supearstazr-kol",
     "title": "أنا حقًا نجم kol",
     "url": "https://kolnovel.com/series/imrelly-ae-supearstazr-kol",
@@ -998,15 +1657,6 @@
     "title": "القطة والتنين",
     "url": "https://kolnovel.com/series/%d8%a7%d9%84%d9%82%d8%b7%d8%a9-%d9%88%d8%a7%d9%84%d8%aa%d9%86%d9%8a%d9%86",
     "cover_url": "https://kolnovel.com/wp-content/uploads/2023/08/IMG_0195-1-scaled.jpg",
-    "type": "رواية",
-    "is_novel": true,
-    "rating": "8.0"
-  },
-  {
-    "id": "%d8%a7%d9%84%d9%82%d8%a7%d8%aa%d9%84-%d8%a7%d9%84%d8%a3%d8%b2%d9%84%d9%8a",
-    "title": "القاتل الأزلي",
-    "url": "https://kolnovel.com/series/%d8%a7%d9%84%d9%82%d8%a7%d8%aa%d9%84-%d8%a7%d9%84%d8%a3%d8%b2%d9%84%d9%8a",
-    "cover_url": "https://kolnovel.com/wp-content/uploads/2025/03/113297.png",
     "type": "رواية",
     "is_novel": true,
     "rating": "8.0"
@@ -1046,15 +1696,6 @@
     "type": "رواية",
     "is_novel": true,
     "rating": "8.5"
-  },
-  {
-    "id": "kingdoms-bloodline",
-    "title": "سليل المملكة",
-    "url": "https://kolnovel.com/series/kingdoms-bloodline",
-    "cover_url": "https://kolnovel.com/wp-content/uploads/2022/10/سليل-المملكة_20250918_161202_٠٠٠٠.png",
-    "type": "رواية",
-    "is_novel": true,
-    "rating": "9.0"
   },
   {
     "id": "chronicles-of-the-heavenly-demon",
@@ -1147,15 +1788,6 @@
     "rating": "7.0"
   },
   {
-    "id": "record-of-a-thousand-lives",
-    "title": "سجل الالف حياة",
-    "url": "https://kolnovel.com/series/record-of-a-thousand-lives",
-    "cover_url": "https://kolnovel.com/wp-content/uploads/2023/03/بدون-اسم78_20260715191309.png",
-    "type": "رواية",
-    "is_novel": true,
-    "rating": "8.0"
-  },
-  {
     "id": "kono-subarashii-sekai-ni-shukufuku-o",
     "title": "كونوسوبا راشيي سيكاي ني شوكوفوكو وو!",
     "url": "https://kolnovel.com/series/kono-subarashii-sekai-ni-shukufuku-o",
@@ -1183,24 +1815,6 @@
     "rating": "8.0"
   },
   {
-    "id": "%d8%a8%d9%88%d8%a7%d8%a8%d8%a9-%d8%a7%d9%84%d8%ae%d9%84%d9%88%d8%af",
-    "title": "بوابة الخلود",
-    "url": "https://kolnovel.com/series/%d8%a8%d9%88%d8%a7%d8%a8%d8%a9-%d8%a7%d9%84%d8%ae%d9%84%d9%88%d8%af",
-    "cover_url": "https://kolnovel.com/wp-content/uploads/2025/01/بدون-اسم72.png",
-    "type": "رواية",
-    "is_novel": true,
-    "rating": "8.0"
-  },
-  {
-    "id": "%d8%a7%d9%84%d8%a7%d8%a8%d9%86-%d8%a7%d9%84%d8%a3%d8%b5%d8%ba%d8%b1-%d9%84%d8%b3%d9%8a%d8%af-%d8%a7%d9%84%d8%b3%d9%8a%d9%81",
-    "title": "الابن الأصغر لسيد السيف",
-    "url": "https://kolnovel.com/series/%d8%a7%d9%84%d8%a7%d8%a8%d9%86-%d8%a7%d9%84%d8%a3%d8%b5%d8%ba%d8%b1-%d9%84%d8%b3%d9%8a%d8%af-%d8%a7%d9%84%d8%b3%d9%8a%d9%81",
-    "cover_url": "https://kolnovel.com/wp-content/uploads/2021/03/بدون-اسم112_20260802125700.png",
-    "type": "رواية",
-    "is_novel": true,
-    "rating": "8.8"
-  },
-  {
     "id": "netheworld-investigator",
     "title": "محقق العالم السفلي",
     "url": "https://kolnovel.com/series/netheworld-investigator",
@@ -1208,15 +1822,6 @@
     "type": "رواية",
     "is_novel": true,
     "rating": ""
-  },
-  {
-    "id": "mages-are-too-op",
-    "title": "Mages Are Too OP",
-    "url": "https://kolnovel.com/series/mages-are-too-op",
-    "cover_url": "https://kolnovel.com/wp-content/uploads/2020/12/Michael_Fang.jpg",
-    "type": "رواية",
-    "is_novel": true,
-    "rating": "8.5"
   },
   {
     "id": "%d8%b3%d9%8a%d9%81-%d9%83%d8%a7%d9%8a%d8%ac%d9%8a%d9%86",
@@ -1273,24 +1878,6 @@
     "rating": "8.0"
   },
   {
-    "id": "a-returners-magic-should-be-special",
-    "title": "على سحر العائد أن يكون مميزًا",
-    "url": "https://kolnovel.com/series/a-returners-magic-should-be-special",
-    "cover_url": "https://kolnovel.com/wp-content/uploads/2021/05/89_20231108135552.png",
-    "type": "رواية",
-    "is_novel": true,
-    "rating": "8.2"
-  },
-  {
-    "id": "%d8%a7%d9%84%d9%84%d9%8a%d8%aa%d8%b4-%d8%a7%d9%84%d9%85%d8%ac%d9%86%d9%88%d9%86",
-    "title": "الليتش المجنون",
-    "url": "https://kolnovel.com/series/%d8%a7%d9%84%d9%84%d9%8a%d8%aa%d8%b4-%d8%a7%d9%84%d9%85%d8%ac%d9%86%d9%88%d9%86",
-    "cover_url": "https://kolnovel.com/wp-content/uploads/2021/03/113272.png",
-    "type": "رواية",
-    "is_novel": true,
-    "rating": "8.0"
-  },
-  {
     "id": "i-became-the-first-prince",
     "title": "لقد أصبحت الأمير الأول",
     "url": "https://kolnovel.com/series/i-became-the-first-prince",
@@ -1334,51 +1921,6 @@
     "type": "رواية",
     "is_novel": true,
     "rating": "6.8"
-  },
-  {
-    "id": "%d8%a7%d8%aa%d8%b6%d8%ad-%d8%a3%d9%86%d9%86%d9%8a-%d9%85%d9%86-%d8%b9%d8%b4%d9%8a%d8%b1%d8%a9-%d8%a7%d9%84%d8%a3%d8%b4%d8%b1%d8%a7%d8%b1",
-    "title": "اتضح أنني من عشيرة الأشرار!",
-    "url": "https://kolnovel.com/series/%d8%a7%d8%aa%d8%b6%d8%ad-%d8%a3%d9%86%d9%86%d9%8a-%d9%85%d9%86-%d8%b9%d8%b4%d9%8a%d8%b1%d8%a9-%d8%a7%d9%84%d8%a3%d8%b4%d8%b1%d8%a7%d8%b1",
-    "cover_url": "https://kolnovel.com/wp-content/uploads/2026/05/GIF-260606_171205.gif",
-    "type": "رواية",
-    "is_novel": true,
-    "rating": "8.6"
-  },
-  {
-    "id": "infinite-competitive-dungeon-society",
-    "title": "مجتمع الأبراج التنافسي اللامتناهي",
-    "url": "https://kolnovel.com/series/infinite-competitive-dungeon-society",
-    "cover_url": "https://kolnovel.com/wp-content/uploads/2023/01/Infinite-Competitive-Dungeon-Society.jpg",
-    "type": "رواية",
-    "is_novel": true,
-    "rating": "8.0"
-  },
-  {
-    "id": "%d8%a7%d9%84%d8%ae%d9%8a%d9%85%d9%8a%d8%a7%d8%a6%d9%8a-%d8%a7%d9%84%d9%85%d9%8a%d9%83%d8%a7%d9%86%d9%8a%d9%83%d9%8a",
-    "title": "الخيميائي الميكانيكي",
-    "url": "https://kolnovel.com/series/%d8%a7%d9%84%d8%ae%d9%8a%d9%85%d9%8a%d8%a7%d8%a6%d9%8a-%d8%a7%d9%84%d9%85%d9%8a%d9%83%d8%a7%d9%86%d9%8a%d9%83%d9%8a",
-    "cover_url": "https://kolnovel.com/wp-content/uploads/2021/01/بدون-اسم52_20260530141421.png",
-    "type": "رواية",
-    "is_novel": true,
-    "rating": "8.5"
-  },
-  {
-    "id": "emperor-has-returned",
-    "title": "عودة الإمبراطور",
-    "url": "https://kolnovel.com/series/emperor-has-returned",
-    "cover_url": "https://kolnovel.com/wp-content/uploads/2021/04/X_1078425-1.jpg",
-    "type": "رواية",
-    "is_novel": true,
-    "rating": "8.2"
-  },
-  {
-    "id": "%d8%a7%d9%84%d8%a7%d9%86%d8%ad%d8%af%d8%a7%d8%b1-%d8%a7%d9%84%d9%85%d8%b7%d9%84%d9%82",
-    "title": "الانحدار المطلق",
-    "url": "https://kolnovel.com/series/%d8%a7%d9%84%d8%a7%d9%86%d8%ad%d8%af%d8%a7%d8%b1-%d8%a7%d9%84%d9%85%d8%b7%d9%84%d9%82",
-    "cover_url": "https://kolnovel.com/wp-content/uploads/2025/08/Absolute-Regression.jpg",
-    "type": "رواية",
-    "is_novel": true,
-    "rating": "9.0"
   },
   {
     "id": "im-sorry-for-being-born-in-this-world",
@@ -1426,24 +1968,6 @@
     "rating": "8.8"
   },
   {
-    "id": "the-heavenly-demon-cant-live-a-normal-life",
-    "title": "The Heavenly Demon Cant Live a Normal Life",
-    "url": "https://kolnovel.com/series/the-heavenly-demon-cant-live-a-normal-life",
-    "cover_url": "https://kolnovel.com/wp-content/uploads/2022/05/unknown-6-1-193x278-1.png",
-    "type": "رواية",
-    "is_novel": true,
-    "rating": ""
-  },
-  {
-    "id": "%d8%a7%d9%86%d8%aa%d9%81%d8%a7%d8%b6%d8%a9-%d8%a7%d9%84%d8%ad%d9%8f%d9%85%d8%b1",
-    "title": "انتفاضة الحُمر",
-    "url": "https://kolnovel.com/series/%d8%a7%d9%86%d8%aa%d9%81%d8%a7%d8%b6%d8%a9-%d8%a7%d9%84%d8%ad%d9%8f%d9%85%d8%b1",
-    "cover_url": "https://kolnovel.com/wp-content/uploads/2025/12/unnamed.jpg",
-    "type": "رواية",
-    "is_novel": true,
-    "rating": ""
-  },
-  {
     "id": "fugitive-poison-user",
     "title": "مستخدم السم الهارب",
     "url": "https://kolnovel.com/series/fugitive-poison-user",
@@ -1462,15 +1986,6 @@
     "rating": "9.0"
   },
   {
-    "id": "%d9%85%d8%b7%d9%88%d8%b1-%d8%a3%d9%84%d8%b9%d8%a7%d8%a8-%d8%a7%d9%84%d8%b1%d8%b9%d8%a8-%d8%a3%d9%84%d8%b9%d8%a7%d8%a8%d9%8a-%d9%84%d9%8a%d8%b3%d8%aa-%d9%85%d8%b1%d8%b9%d8%a8%d8%a9-%d9%84%d9%87%d8%b0",
-    "title": "مطور ألعاب الرعب: ألعابي ليست مرعبة لهذا الحد!",
-    "url": "https://kolnovel.com/series/%d9%85%d8%b7%d9%88%d8%b1-%d8%a3%d9%84%d8%b9%d8%a7%d8%a8-%d8%a7%d9%84%d8%b1%d8%b9%d8%a8-%d8%a3%d9%84%d8%b9%d8%a7%d8%a8%d9%8a-%d9%84%d9%8a%d8%b3%d8%aa-%d9%85%d8%b1%d8%b9%d8%a8%d8%a9-%d9%84%d9%87%d8%b0",
-    "cover_url": "https://kolnovel.com/wp-content/uploads/2025/04/بدون-اسم105_20260728022936.png",
-    "type": "رواية",
-    "is_novel": true,
-    "rating": "8.0"
-  },
-  {
     "id": "dominions-end",
     "title": "نهاية السيادة",
     "url": "https://kolnovel.com/series/dominions-end",
@@ -1478,15 +1993,6 @@
     "type": "رواية",
     "is_novel": true,
     "rating": "8.4"
-  },
-  {
-    "id": "%d8%a3%d8%b3%d8%aa%d8%a7%d8%b0-%d9%85%d8%b2%d9%8a%d9%81%d8%8c-%d9%8a%d9%8f%d8%b3%d8%a7%d8%a1-%d9%81%d9%87%d9%85%d9%87-%d8%b9%d9%84%d9%89-%d8%a3%d9%86%d9%87-%d9%82%d9%88%d9%8a",
-    "title": "أستاذ مزيف، يُساء فهمه على أنه قوي",
-    "url": "https://kolnovel.com/series/%d8%a3%d8%b3%d8%aa%d8%a7%d8%b0-%d9%85%d8%b2%d9%8a%d9%81%d8%8c-%d9%8a%d9%8f%d8%b3%d8%a7%d8%a1-%d9%81%d9%87%d9%85%d9%87-%d8%b9%d9%84%d9%89-%d8%a3%d9%86%d9%87-%d9%82%d9%88%d9%8a",
-    "cover_url": "https://kolnovel.com/wp-content/uploads/2026/06/بدون-اسم69_20260715195741.png",
-    "type": "رواية",
-    "is_novel": true,
-    "rating": "8.0"
   },
   {
     "id": "i-hold-your-voice-alone-under-the-starry-sky",
@@ -1525,24 +2031,6 @@
     "rating": "8.0"
   },
   {
-    "id": "%d8%a3%d8%b3%d8%b1%d8%a7%d8%b1-%d8%b3%d9%8a%d8%af-%d8%a7%d9%84%d8%af%d9%85%d9%89-%d8%a7%d9%84%d8%ae%d8%a7%d9%84%d8%af",
-    "title": "أسرار سيد الدمى الخالد",
-    "url": "https://kolnovel.com/series/%d8%a3%d8%b3%d8%b1%d8%a7%d8%b1-%d8%b3%d9%8a%d8%af-%d8%a7%d9%84%d8%af%d9%85%d9%89-%d8%a7%d9%84%d8%ae%d8%a7%d9%84%d8%af",
-    "cover_url": "https://kolnovel.com/wp-content/uploads/2025/07/بدون-اسم67_20260622033133.png",
-    "type": "رواية",
-    "is_novel": true,
-    "rating": "8.5"
-  },
-  {
-    "id": "%d8%a7%d9%84%d8%b3%d9%83%d9%8a%d9%86%d8%a9-%d9%81%d9%8a-%d8%a7%d9%84%d9%86%d8%a7%d8%b1",
-    "title": "السكينة في النار",
-    "url": "https://kolnovel.com/series/%d8%a7%d9%84%d8%b3%d9%83%d9%8a%d9%86%d8%a9-%d9%81%d9%8a-%d8%a7%d9%84%d9%86%d8%a7%d8%b1",
-    "cover_url": "https://kolnovel.com/wp-content/uploads/2023/10/Untitled-3.jpeg",
-    "type": "رواية",
-    "is_novel": true,
-    "rating": "9.0"
-  },
-  {
     "id": "rezero-anthology",
     "title": "Re:Zero Anthology",
     "url": "https://kolnovel.com/series/rezero-anthology",
@@ -1550,33 +2038,6 @@
     "type": "رواية",
     "is_novel": true,
     "rating": "7.0"
-  },
-  {
-    "id": "%d8%b3%d8%ac%d9%84-%d8%b1%d8%ad%d9%84%d8%a9-%d9%81%d8%a7%d9%86%d9%8a-%d8%a5%d9%84%d9%89-%d8%a7%d9%84%d8%ae%d9%84%d9%88%d8%af",
-    "title": "سجل رحلة فاني نحو الخلود",
-    "url": "https://kolnovel.com/series/%d8%b3%d8%ac%d9%84-%d8%b1%d8%ad%d9%84%d8%a9-%d9%81%d8%a7%d9%86%d9%8a-%d8%a5%d9%84%d9%89-%d8%a7%d9%84%d8%ae%d9%84%d9%88%d8%af",
-    "cover_url": "https://kolnovel.com/wp-content/uploads/2025/12/Screenshot_٢٠٢٥-١٢-٠٨-١٥-٣٢-٥٧-٦٣١-edit_com.android.chrome.jpg",
-    "type": "رواية",
-    "is_novel": true,
-    "rating": "8.5"
-  },
-  {
-    "id": "%d8%a8%d8%ab-%d8%a7%d9%84%d8%b1%d8%a7%d9%85%d9%8a-%d8%a7%d9%84%d8%b9%d8%a8%d9%82%d8%b1%d9%8a",
-    "title": "بث الرامي العبقري",
-    "url": "https://kolnovel.com/series/%d8%a8%d8%ab-%d8%a7%d9%84%d8%b1%d8%a7%d9%85%d9%8a-%d8%a7%d9%84%d8%b9%d8%a8%d9%82%d8%b1%d9%8a",
-    "cover_url": "https://kolnovel.com/wp-content/uploads/2026/08/morph_9_seconds.gif",
-    "type": "رواية",
-    "is_novel": true,
-    "rating": ""
-  },
-  {
-    "id": "%d8%ad%d8%aa%d9%89-%d9%84%d9%88-%d9%88%d9%82%d8%b9%d8%aa-%d9%81%d9%8a-%d9%82%d8%b5%d8%a9-%d8%b1%d8%b9%d8%a8-%d9%8a%d8%ac%d8%a8-%d8%a3%d9%86-%d8%a3%d8%b0%d9%87%d8%a8-%d9%84%d9%84%d8%b9%d9%85%d9%84",
-    "title": "حتى لو وقعت في قصة رعب يجب أن أذهب للعمل",
-    "url": "https://kolnovel.com/series/%d8%ad%d8%aa%d9%89-%d9%84%d9%88-%d9%88%d9%82%d8%b9%d8%aa-%d9%81%d9%8a-%d9%82%d8%b5%d8%a9-%d8%b1%d8%b9%d8%a8-%d9%8a%d8%ac%d8%a8-%d8%a3%d9%86-%d8%a3%d8%b0%d9%87%d8%a8-%d9%84%d9%84%d8%b9%d9%85%d9%84",
-    "cover_url": "https://kolnovel.com/wp-content/uploads/2025/07/بدون-اسم66_20260622032832.png",
-    "type": "رواية",
-    "is_novel": true,
-    "rating": "9.0"
   },
   {
     "id": "the-exiled-daughter-of-marquis-is-dead",
@@ -1597,15 +2058,6 @@
     "rating": "7.0"
   },
   {
-    "id": "%d8%ae%d9%84%d8%a7%d9%84-%d8%a7%d9%84%d9%84%d9%8a%d9%84-%d8%a3%d8%b5%d8%a8%d8%ad-%d9%88%d8%ad%d8%b4%d9%8b%d8%a7",
-    "title": "خلال الليل أصبح وحشًا",
-    "url": "https://kolnovel.com/series/%d8%ae%d9%84%d8%a7%d9%84-%d8%a7%d9%84%d9%84%d9%8a%d9%84-%d8%a3%d8%b5%d8%a8%d8%ad-%d9%88%d8%ad%d8%b4%d9%8b%d8%a7",
-    "cover_url": "https://kolnovel.com/wp-content/uploads/2022/07/At-Night_-I-Become-a-Monster.ar-cover-1.jpg",
-    "type": "رواية",
-    "is_novel": true,
-    "rating": "8.5"
-  },
-  {
     "id": "%d8%a7%d9%84%d9%84%d8%b9%d8%a8%d8%a9-%d9%81%d9%8a-%d9%83%d8%a7%d8%b1%d9%88%d8%b3%d9%8a%d9%84-%d9%81%d9%8a%d9%84%d9%85-%d8%b1%d8%b9%d8%a8",
     "title": "اللعبة في كاروسيل: فيلم رعب",
     "url": "https://kolnovel.com/series/%d8%a7%d9%84%d9%84%d8%b9%d8%a8%d8%a9-%d9%81%d9%8a-%d9%83%d8%a7%d8%b1%d9%88%d8%b3%d9%8a%d9%84-%d9%81%d9%8a%d9%84%d9%85-%d8%b1%d8%b9%d8%a8",
@@ -1615,31 +2067,13 @@
     "rating": "7.5"
   },
   {
-    "id": "%d8%af%d8%a7%d9%88-%d8%a7%d9%84%d8%ae%d8%a7%d9%84%d8%af-%d8%a7%d9%84%d8%b9%d8%ac%d9%8a%d8%a8",
-    "title": "داو الخالد العجيب",
-    "url": "https://kolnovel.com/series/%d8%af%d8%a7%d9%88-%d8%a7%d9%84%d8%ae%d8%a7%d9%84%d8%af-%d8%a7%d9%84%d8%b9%d8%ac%d9%8a%d8%a8",
-    "cover_url": "https://kolnovel.com/wp-content/uploads/2025/11/Picsart_25-11-27_16-28-47-925.jpg",
+    "id": "%d8%ae%d9%84%d8%a7%d9%84-%d8%a7%d9%84%d9%84%d9%8a%d9%84-%d8%a3%d8%b5%d8%a8%d8%ad-%d9%88%d8%ad%d8%b4%d9%8b%d8%a7",
+    "title": "خلال الليل أصبح وحشًا",
+    "url": "https://kolnovel.com/series/%d8%ae%d9%84%d8%a7%d9%84-%d8%a7%d9%84%d9%84%d9%8a%d9%84-%d8%a3%d8%b5%d8%a8%d8%ad-%d9%88%d8%ad%d8%b4%d9%8b%d8%a7",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2022/07/At-Night_-I-Become-a-Monster.ar-cover-1.jpg",
     "type": "رواية",
     "is_novel": true,
-    "rating": "8.0"
-  },
-  {
-    "id": "%d8%a7%d9%84%d8%b9%d9%88%d8%a7%d9%84%d9%85-%d9%81%d9%8a-%d8%a7%d9%84%d8%b3%d9%85%d8%a7%d8%a1",
-    "title": "العوالم في السماء",
-    "url": "https://kolnovel.com/series/%d8%a7%d9%84%d8%b9%d9%88%d8%a7%d9%84%d9%85-%d9%81%d9%8a-%d8%a7%d9%84%d8%b3%d9%85%d8%a7%d8%a1",
-    "cover_url": "https://kolnovel.com/wp-content/uploads/2026/06/file_000000000e487243b1f720c3018a491e.png",
-    "type": "رواية",
-    "is_novel": true,
-    "rating": "8.1"
-  },
-  {
-    "id": "reform-the-nobody",
-    "title": "ReForm: The Nobody",
-    "url": "https://kolnovel.com/series/reform-the-nobody",
-    "cover_url": "https://kolnovel.com/wp-content/uploads/2021/12/5972441263a9514c39309138784a6c69-01_1.jpg",
-    "type": "رواية",
-    "is_novel": true,
-    "rating": "7.0"
+    "rating": "8.5"
   },
   {
     "id": "a-deal-with-the-devil",
@@ -1696,15 +2130,6 @@
     "rating": "7.0"
   },
   {
-    "id": "daybreak",
-    "title": "الفجر",
-    "url": "https://kolnovel.com/series/daybreak",
-    "cover_url": "https://kolnovel.com/wp-content/uploads/2021/01/dp.jpg",
-    "type": "رواية",
-    "is_novel": true,
-    "rating": "8.0"
-  },
-  {
     "id": "the-perfect-run",
     "title": "المسار المثالي",
     "url": "https://kolnovel.com/series/the-perfect-run",
@@ -1712,6 +2137,15 @@
     "type": "رواية",
     "is_novel": true,
     "rating": "7.5"
+  },
+  {
+    "id": "daybreak",
+    "title": "الفجر",
+    "url": "https://kolnovel.com/series/daybreak",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2021/01/dp.jpg",
+    "type": "رواية",
+    "is_novel": true,
+    "rating": "8.0"
   },
   {
     "id": "one-night-one-day-one-year-one-lifetime",
@@ -1723,28 +2157,10 @@
     "rating": "8.0"
   },
   {
-    "id": "%d8%b3%d8%b9%d9%8a-%d8%a8%d8%b1%d8%a8%d8%b1%d9%8a",
-    "title": "سعي بربري",
-    "url": "https://kolnovel.com/series/%d8%b3%d8%b9%d9%8a-%d8%a8%d8%b1%d8%a8%d8%b1%d9%8a",
-    "cover_url": "https://kolnovel.com/wp-content/uploads/2025/04/s.jpg",
-    "type": "رواية",
-    "is_novel": true,
-    "rating": "9.0"
-  },
-  {
     "id": "ballad-of-ten-thousand-gu",
     "title": "قصيدة العشرة آلاف ‘جو’",
     "url": "https://kolnovel.com/series/ballad-of-ten-thousand-gu",
     "cover_url": "https://kolnovel.com/wp-content/uploads/2021/03/5d62261aa1b2879a.png",
-    "type": "رواية",
-    "is_novel": true,
-    "rating": "8.0"
-  },
-  {
-    "id": "%d9%85%d9%86-%d8%b7%d8%a7%d8%a6%d9%81%d8%a9-%d9%81%d9%86%d9%88%d9%86-%d8%a7%d9%84%d9%82%d8%aa%d8%a7%d9%84-%d8%a5%d9%84%d9%89-%d8%b7%d8%a7%d8%a6%d9%81%d8%a9-%d8%b5%d9%82%d9%84-%d8%a7%d9%84%d8%ae%d9%84",
-    "title": "من طائفة فنون القتال إلى طائفة صقل الخلود",
-    "url": "https://kolnovel.com/series/%d9%85%d9%86-%d8%b7%d8%a7%d8%a6%d9%81%d8%a9-%d9%81%d9%86%d9%88%d9%86-%d8%a7%d9%84%d9%82%d8%aa%d8%a7%d9%84-%d8%a5%d9%84%d9%89-%d8%b7%d8%a7%d8%a6%d9%81%d8%a9-%d8%b5%d9%82%d9%84-%d8%a7%d9%84%d8%ae%d9%84",
-    "cover_url": "https://kolnovel.com/wp-content/uploads/2025/11/From-a-Martial-Arts-Sect-to-an-Immortal-Cultivation-Sect.png",
     "type": "رواية",
     "is_novel": true,
     "rating": "8.0"
@@ -1757,15 +2173,6 @@
     "type": "رواية",
     "is_novel": true,
     "rating": "7.5"
-  },
-  {
-    "id": "%d9%85%d9%8f%d8%b5%d8%a7%d8%ba-%d8%a7%d9%84%d8%b1%d9%88%d8%ad",
-    "title": "مُصاغ الروح",
-    "url": "https://kolnovel.com/series/%d9%85%d9%8f%d8%b5%d8%a7%d8%ba-%d8%a7%d9%84%d8%b1%d9%88%d8%ad",
-    "cover_url": "https://kolnovel.com/wp-content/uploads/2025/08/بدون-اسم62_20260618190021.png",
-    "type": "رواية",
-    "is_novel": true,
-    "rating": "9.0"
   },
   {
     "id": "maria-from-hell",
@@ -1784,33 +2191,6 @@
     "type": "رواية",
     "is_novel": true,
     "rating": "8.8"
-  },
-  {
-    "id": "%d8%a7%d9%84%d9%85%d8%ad%d8%b1%d8%b1-%d8%b4%d8%ae%d8%b5%d9%8a%d8%a9-%d8%a5%d8%b6%d8%a7%d9%81%d9%8a%d8%a9-%d9%81%d9%8a-%d8%a7%d9%84%d8%b1%d9%88%d8%a7%d9%8a%d8%a9",
-    "title": "المحرر شخصية إضافية في الرواية",
-    "url": "https://kolnovel.com/series/%d8%a7%d9%84%d9%85%d8%ad%d8%b1%d8%b1-%d8%b4%d8%ae%d8%b5%d9%8a%d8%a9-%d8%a5%d8%b6%d8%a7%d9%81%d9%8a%d8%a9-%d9%81%d9%8a-%d8%a7%d9%84%d8%b1%d9%88%d8%a7%d9%8a%d8%a9",
-    "cover_url": "https://kolnovel.com/wp-content/uploads/2026/02/resource_1.jpg",
-    "type": "رواية",
-    "is_novel": true,
-    "rating": "8.5"
-  },
-  {
-    "id": "%d9%83%d8%aa%d8%a7%d8%a8-%d8%a7%d9%84%d9%85%d8%a6%d8%a9-%d8%ad%d9%8a%d8%a7%d8%a9",
-    "title": "كتاب المئة حياة",
-    "url": "https://kolnovel.com/series/%d9%83%d8%aa%d8%a7%d8%a8-%d8%a7%d9%84%d9%85%d8%a6%d8%a9-%d8%ad%d9%8a%d8%a7%d8%a9",
-    "cover_url": "https://kolnovel.com/wp-content/uploads/2026/08/بدون-اسم124_20260822084136.png",
-    "type": "رواية",
-    "is_novel": true,
-    "rating": ""
-  },
-  {
-    "id": "i-want-to-eat-your-pancreas",
-    "title": "أريد أن آكل بنكرياسك",
-    "url": "https://kolnovel.com/series/i-want-to-eat-your-pancreas",
-    "cover_url": "https://kolnovel.com/wp-content/uploads/2022/07/IMG_0423.jpeg",
-    "type": "رواية",
-    "is_novel": true,
-    "rating": "8.0"
   },
   {
     "id": "about-the-reckless-girl-who-kept-challenging-a-reborn-man-like-me",
@@ -1858,15 +2238,6 @@
     "rating": "8.0"
   },
   {
-    "id": "%d9%85%d8%b5%d9%85%d9%85-%d8%a3%d9%84%d8%b9%d8%a7%d8%a8-%d8%a7%d9%84%d8%b1%d8%b9%d8%a8",
-    "title": "مصمم ألعاب الرعب",
-    "url": "https://kolnovel.com/series/%d9%85%d8%b5%d9%85%d9%85-%d8%a3%d9%84%d8%b9%d8%a7%d8%a8-%d8%a7%d9%84%d8%b1%d8%b9%d8%a8",
-    "cover_url": "https://kolnovel.com/wp-content/uploads/2025/08/1056da0271861767.png",
-    "type": "رواية",
-    "is_novel": true,
-    "rating": "8.5"
-  },
-  {
     "id": "%d9%85%d8%aa%d8%ac%d8%b1-%d9%86%d8%a8%d9%8a%d8%b0-%d8%a7%d9%84%d8%ae%d8%a7%d9%84%d8%af",
     "title": "متجر نبيذ الخالد",
     "url": "https://kolnovel.com/series/%d9%85%d8%aa%d8%ac%d8%b1-%d9%86%d8%a8%d9%8a%d8%b0-%d8%a7%d9%84%d8%ae%d8%a7%d9%84%d8%af",
@@ -1876,46 +2247,10 @@
     "rating": "7.5"
   },
   {
-    "id": "%d8%b3%d9%8a%d8%af-%d8%a7%d9%84%d8%aa%d9%85%d9%86%d9%91%d9%8a",
-    "title": "سيد التمنّي",
-    "url": "https://kolnovel.com/series/%d8%b3%d9%8a%d8%af-%d8%a7%d9%84%d8%aa%d9%85%d9%86%d9%91%d9%8a",
-    "cover_url": "https://kolnovel.com/wp-content/uploads/2026/05/IMG__.jpg",
-    "type": "رواية",
-    "is_novel": true,
-    "rating": "8.0"
-  },
-  {
-    "id": "%d8%b9%d9%88%d8%af%d8%a9-%d9%85%d8%a8%d8%a7%d9%84%d8%ba-%d9%81%d9%8a%d9%87%d8%a7",
-    "title": "عودة مبالغ فيها",
-    "url": "https://kolnovel.com/series/%d8%b9%d9%88%d8%af%d8%a9-%d9%85%d8%a8%d8%a7%d9%84%d8%ba-%d9%81%d9%8a%d9%87%d8%a7",
-    "cover_url": "https://kolnovel.com/wp-content/uploads/2025/09/090355.png",
-    "type": "رواية",
-    "is_novel": true,
-    "rating": "8.5"
-  },
-  {
-    "id": "%d9%83%d8%a7%d8%b1%d9%87-%d8%a7%d9%84%d8%b4%d9%88%d8%ac%d9%88",
-    "title": "كاره الشوجو",
-    "url": "https://kolnovel.com/series/%d9%83%d8%a7%d8%b1%d9%87-%d8%a7%d9%84%d8%b4%d9%88%d8%ac%d9%88",
-    "cover_url": "https://kolnovel.com/wp-content/uploads/2025/10/IMG__-20-1.png",
-    "type": "رواية",
-    "is_novel": true,
-    "rating": "7.5"
-  },
-  {
     "id": "%d9%85%d8%af%d9%8a%d9%86%d8%a9-%d8%a7%d9%84%d9%84%d8%a7%d8%b9%d9%88%d8%af%d8%a9",
     "title": "مدينة اللاعودة",
     "url": "https://kolnovel.com/series/%d9%85%d8%af%d9%8a%d9%86%d8%a9-%d8%a7%d9%84%d9%84%d8%a7%d8%b9%d9%88%d8%af%d8%a9",
     "cover_url": "https://kolnovel.com/wp-content/uploads/2022/08/png_20220809_011427_-e1660257789570.jpg",
-    "type": "رواية",
-    "is_novel": true,
-    "rating": "7.5"
-  },
-  {
-    "id": "%d8%a7%d8%ad%d9%85%d9%84-%d8%ae%d8%a7%d8%aa%d9%85-%d8%a5%d9%84%d8%af%d9%86",
-    "title": "احمل خاتم إلدن",
-    "url": "https://kolnovel.com/series/%d8%a7%d8%ad%d9%85%d9%84-%d8%ae%d8%a7%d8%aa%d9%85-%d8%a5%d9%84%d8%af%d9%86",
-    "cover_url": "https://kolnovel.com/wp-content/uploads/2026/07/5_1.jpg",
     "type": "رواية",
     "is_novel": true,
     "rating": "7.5"
@@ -1937,15 +2272,6 @@
     "type": "رواية",
     "is_novel": true,
     "rating": "7.5"
-  },
-  {
-    "id": "%d8%ae%d8%a7%d9%84%d8%af-%d8%a7%d9%84%d8%b9%d9%88%d8%a7%d9%84%d9%85-%d8%a7%d9%84%d8%aa%d8%b3%d8%b9%d8%a9",
-    "title": "خالد العوالم التسعة",
-    "url": "https://kolnovel.com/series/%d8%ae%d8%a7%d9%84%d8%af-%d8%a7%d9%84%d8%b9%d9%88%d8%a7%d9%84%d9%85-%d8%a7%d9%84%d8%aa%d8%b3%d8%b9%d8%a9",
-    "cover_url": "https://kolnovel.com/wp-content/uploads/2026/05/113296.png",
-    "type": "رواية",
-    "is_novel": true,
-    "rating": "8.5"
   },
   {
     "id": "%d8%aa%d9%86%d8%a7%d8%b3%d8%ae%d8%aa-%d9%83%d8%b4%d8%b1%d9%8a%d8%b1%d8%a9%d8%8c-%d9%84%d9%83%d9%86%d9%8a-%d8%a3%d8%b5%d8%a8%d8%ad%d8%aa-%d8%ba%d9%88%d8%b1%d9%8a%d9%84%d8%a7-%d9%88%d8%aa%d8%ac%d9%86",
@@ -1984,69 +2310,6 @@
     "rating": "8.9"
   },
   {
-    "id": "%d9%84%d8%b9%d9%86%d8%a9-%d8%a7%d9%84%d8%ae%d9%8a%d8%a7%d8%b1%d8%a7%d8%aa",
-    "title": "لعنة الخيارات",
-    "url": "https://kolnovel.com/series/%d9%84%d8%b9%d9%86%d8%a9-%d8%a7%d9%84%d8%ae%d9%8a%d8%a7%d8%b1%d8%a7%d8%aa",
-    "cover_url": "https://kolnovel.com/wp-content/uploads/2025/06/ad1322ae469d7b43.jpg",
-    "type": "رواية",
-    "is_novel": true,
-    "rating": "8.0"
-  },
-  {
-    "id": "%d9%85%d9%84%d8%ad%d9%85%d8%a9-%d8%b3%d9%84%d9%8a%d9%84-%d8%a7%d9%84%d8%ae%d9%88%d9%81",
-    "title": "ملحمة سليل الخوف",
-    "url": "https://kolnovel.com/series/%d9%85%d9%84%d8%ad%d9%85%d8%a9-%d8%b3%d9%84%d9%8a%d9%84-%d8%a7%d9%84%d8%ae%d9%88%d9%81",
-    "cover_url": "https://kolnovel.com/wp-content/uploads/2025/12/89394.png",
-    "type": "رواية",
-    "is_novel": true,
-    "rating": "8.0"
-  },
-  {
-    "id": "%d8%a7%d9%84%d8%ba%d9%85%d9%88%d8%b6%d8%8c-%d8%a7%d9%84%d9%82%d9%88%d9%89%d8%8c-%d8%a7%d9%84%d9%81%d9%88%d8%b6%d9%89",
-    "title": "الغموض، القوى، الفوضى",
-    "url": "https://kolnovel.com/series/%d8%a7%d9%84%d8%ba%d9%85%d9%88%d8%b6%d8%8c-%d8%a7%d9%84%d9%82%d9%88%d9%89%d8%8c-%d8%a7%d9%84%d9%81%d9%88%d8%b6%d9%89",
-    "cover_url": "https://kolnovel.com/wp-content/uploads/2025/11/AddText_11-29-03.57.56.png",
-    "type": "رواية",
-    "is_novel": true,
-    "rating": "8.5"
-  },
-  {
-    "id": "%d8%a7%d9%84%d9%85%d8%a6%d8%a9-%d8%b9%d9%87%d8%af",
-    "title": "المئة عهد",
-    "url": "https://kolnovel.com/series/%d8%a7%d9%84%d9%85%d8%a6%d8%a9-%d8%b9%d9%87%d8%af",
-    "cover_url": "https://kolnovel.com/wp-content/uploads/2026/07/بدون-اسم105_20260722102113.png",
-    "type": "رواية",
-    "is_novel": true,
-    "rating": ""
-  },
-  {
-    "id": "%d8%ad%d9%8a%d8%a7%d8%aa%d9%8a-%d9%83%d9%85%d8%b1%d8%b4%d8%af-%d8%b1%d9%88%d8%ad%d9%8a-%d9%81%d9%8a-%d8%a7%d9%84%d9%82%d8%b5%d8%b5-%d8%a7%d9%84%d9%85%d8%b5%d9%88%d8%b1%d8%a9-%d8%a7%d9%84%d8%a3%d9%85",
-    "title": "حياتي كمرشد روحي في القصص المصورة الأمريكية",
-    "url": "https://kolnovel.com/series/%d8%ad%d9%8a%d8%a7%d8%aa%d9%8a-%d9%83%d9%85%d8%b1%d8%b4%d8%af-%d8%b1%d9%88%d8%ad%d9%8a-%d9%81%d9%8a-%d8%a7%d9%84%d9%82%d8%b5%d8%b5-%d8%a7%d9%84%d9%85%d8%b5%d9%88%d8%b1%d8%a9-%d8%a7%d9%84%d8%a3%d9%85",
-    "cover_url": "https://kolnovel.com/wp-content/uploads/2025/02/28472564208054505.jpeg",
-    "type": "رواية",
-    "is_novel": true,
-    "rating": "7.5"
-  },
-  {
-    "id": "%d8%b3%d8%ac%d9%84%d8%a7%d8%aa-%d8%a7%d9%84%d8%ad%d8%b1%d9%88%d8%a8-%d8%a7%d9%84%d8%a8%d8%af%d8%a7%d8%a6%d9%8a%d8%a9",
-    "title": "سجلات الحروب البدائية",
-    "url": "https://kolnovel.com/series/%d8%b3%d8%ac%d9%84%d8%a7%d8%aa-%d8%a7%d9%84%d8%ad%d8%b1%d9%88%d8%a8-%d8%a7%d9%84%d8%a8%d8%af%d8%a7%d8%a6%d9%8a%d8%a9",
-    "cover_url": "https://kolnovel.com/wp-content/uploads/2025/11/1764141794456.png",
-    "type": "رواية",
-    "is_novel": true,
-    "rating": "8.1"
-  },
-  {
-    "id": "%d8%b3%d9%84%d8%b3%d9%84%d8%a9-%d9%85%d9%88%d9%86%d9%88%d8%ba%d8%a7%d8%aa%d8%a7%d8%b1%d9%8a",
-    "title": "سلسلة مونوغاتاري",
-    "url": "https://kolnovel.com/series/%d8%b3%d9%84%d8%b3%d9%84%d8%a9-%d9%85%d9%88%d9%86%d9%88%d8%ba%d8%a7%d8%aa%d8%a7%d8%b1%d9%8a",
-    "cover_url": "https://kolnovel.com/wp-content/uploads/2026/09/p000_01.jpg",
-    "type": "رواية",
-    "is_novel": true,
-    "rating": "7.6"
-  },
-  {
     "id": "%d8%a7%d9%84%d8%ad%d9%8a%d8%a7%d8%a9-%d9%83%d8%b4%d8%a8%d8%ad",
     "title": "الحياة كشبح",
     "url": "https://kolnovel.com/series/%d8%a7%d9%84%d8%ad%d9%8a%d8%a7%d8%a9-%d9%83%d8%b4%d8%a8%d8%ad",
@@ -2054,33 +2317,6 @@
     "type": "رواية",
     "is_novel": true,
     "rating": "8.0"
-  },
-  {
-    "id": "%d8%a5%d9%85%d8%a8%d8%b1%d9%8a%d8%a7%d9%84%d9%8a-%d8%b4%d8%a8%d9%87-%d9%82%d8%b3%d8%b1%d9%8a",
-    "title": "إمبريالي شبه قسري",
-    "url": "https://kolnovel.com/series/%d8%a5%d9%85%d8%a8%d8%b1%d9%8a%d8%a7%d9%84%d9%8a-%d8%b4%d8%a8%d9%87-%d9%82%d8%b3%d8%b1%d9%8a",
-    "cover_url": "https://kolnovel.com/wp-content/uploads/2026/03/SemiCoercive-Imperialist_1.jpg",
-    "type": "رواية",
-    "is_novel": true,
-    "rating": "8.5"
-  },
-  {
-    "id": "%d8%a7%d9%84%d8%b1%d8%b3%d8%a7%d9%85-%d8%a7%d9%84%d8%b0%d9%8a-%d9%8a%d8%b1%d8%b3%d9%85-%d8%a7%d9%84%d8%b2%d9%86%d8%b2%d8%a7%d9%86%d8%a7%d8%aa",
-    "title": "الرسام الذي يرسم الزنزانات",
-    "url": "https://kolnovel.com/series/%d8%a7%d9%84%d8%b1%d8%b3%d8%a7%d9%85-%d8%a7%d9%84%d8%b0%d9%8a-%d9%8a%d8%b1%d8%b3%d9%85-%d8%a7%d9%84%d8%b2%d9%86%d8%b2%d8%a7%d9%86%d8%a7%d8%aa",
-    "cover_url": "https://kolnovel.com/wp-content/uploads/2026/07/بدون-اسم84_20260715191127.png",
-    "type": "رواية",
-    "is_novel": true,
-    "rating": "7.5"
-  },
-  {
-    "id": "%d8%aa%d8%b3%d9%84%d9%82-%d8%a7%d9%84%d8%a8%d8%b1%d8%ac-%d8%a8%d8%a7%d8%b3%d8%aa%d8%ae%d8%af%d8%a7%d9%85-%d9%82%d8%af%d8%b1%d8%a9-%d8%a5%d9%8a%d9%82%d8%a7%d9%81-%d8%a7%d9%84%d8%b2%d9%85%d9%86",
-    "title": "تسلق البرج باستخدام قدرة إيقاف الزمن",
-    "url": "https://kolnovel.com/series/%d8%aa%d8%b3%d9%84%d9%82-%d8%a7%d9%84%d8%a8%d8%b1%d8%ac-%d8%a8%d8%a7%d8%b3%d8%aa%d8%ae%d8%af%d8%a7%d9%85-%d9%82%d8%af%d8%b1%d8%a9-%d8%a5%d9%8a%d9%82%d8%a7%d9%81-%d8%a7%d9%84%d8%b2%d9%85%d9%86",
-    "cover_url": "https://kolnovel.com/wp-content/uploads/2026/07/113225-2.png",
-    "type": "رواية",
-    "is_novel": true,
-    "rating": "7.5"
   },
   {
     "id": "%d8%b4%d9%8a%d8%b1%d9%8a%d8%aa%d9%88%d8%b1%d9%8a",
@@ -2101,51 +2337,6 @@
     "rating": "9.5"
   },
   {
-    "id": "%d9%85%d9%87%d9%84%d8%a9-%d8%a7%d9%84%d8%b9%d8%b4%d8%b1-%d8%a3%d9%8a%d8%a7%d9%85",
-    "title": "مهلة العشر أيام",
-    "url": "https://kolnovel.com/series/%d9%85%d9%87%d9%84%d8%a9-%d8%a7%d9%84%d8%b9%d8%b4%d8%b1-%d8%a3%d9%8a%d8%a7%d9%85",
-    "cover_url": "https://kolnovel.com/wp-content/uploads/2026/03/بدون-اسم16_20260331021720.png",
-    "type": "رواية",
-    "is_novel": true,
-    "rating": "8.5"
-  },
-  {
-    "id": "%d8%b3%d9%8a%d8%af-%d8%a7%d9%84%d8%b8%d9%84%d8%a7%d9%84-%d8%a7%d9%84%d8%b5%d8%a7%d9%85%d8%aa%d8%a9",
-    "title": "سيد الظلال الصامتة",
-    "url": "https://kolnovel.com/series/%d8%b3%d9%8a%d8%af-%d8%a7%d9%84%d8%b8%d9%84%d8%a7%d9%84-%d8%a7%d9%84%d8%b5%d8%a7%d9%85%d8%aa%d8%a9",
-    "cover_url": "https://kolnovel.com/wp-content/uploads/2026/07/7901f39a81210a9d7abb67d80cbccc69.png",
-    "type": "رواية",
-    "is_novel": true,
-    "rating": "7.5"
-  },
-  {
-    "id": "%d9%83%d9%8a%d9%81-%d8%a3%d8%b9%d8%a7%d8%af-%d8%a8%d8%b7%d9%84-%d9%88%d8%a7%d9%82%d8%b9%d9%8a-%d8%a8%d9%86%d8%a7%d8%a1-%d8%a7%d9%84%d9%85%d9%85%d9%84%d9%83%d8%a9",
-    "title": "كيف أعاد بطل واقعي بناء المملكة",
-    "url": "https://kolnovel.com/series/%d9%83%d9%8a%d9%81-%d8%a3%d8%b9%d8%a7%d8%af-%d8%a8%d8%b7%d9%84-%d9%88%d8%a7%d9%82%d8%b9%d9%8a-%d8%a8%d9%86%d8%a7%d8%a1-%d8%a7%d9%84%d9%85%d9%85%d9%84%d9%83%d8%a9",
-    "cover_url": "https://kolnovel.com/wp-content/uploads/2026/08/RealistHero-LN-v02-Cover.jpg",
-    "type": "رواية",
-    "is_novel": true,
-    "rating": ""
-  },
-  {
-    "id": "%d8%a7%d9%84%d8%b3%d8%a7%d8%ad%d8%b1-%d8%a7%d9%84%d9%85%d8%aa%d9%85%d8%b1%d8%af",
-    "title": "الساحر المتمرد",
-    "url": "https://kolnovel.com/series/%d8%a7%d9%84%d8%b3%d8%a7%d8%ad%d8%b1-%d8%a7%d9%84%d9%85%d8%aa%d9%85%d8%b1%d8%af",
-    "cover_url": "https://kolnovel.com/wp-content/uploads/2026/02/IMG_20260202_160013.png",
-    "type": "رواية",
-    "is_novel": true,
-    "rating": "8.0"
-  },
-  {
-    "id": "%d9%85%d9%84%d9%83-%d9%82%d8%af-%d9%84%d8%a7-%d9%8a%d8%b9%d9%88%d8%af",
-    "title": "ملك قد لا يعود",
-    "url": "https://kolnovel.com/series/%d9%85%d9%84%d9%83-%d9%82%d8%af-%d9%84%d8%a7-%d9%8a%d8%b9%d9%88%d8%af",
-    "cover_url": "https://kolnovel.com/wp-content/uploads/2026/06/AKMNR_2MG-1.png",
-    "type": "رواية",
-    "is_novel": true,
-    "rating": "8.0"
-  },
-  {
     "id": "under-the-spell-of-evil",
     "title": "تحت إيقاع الشر",
     "url": "https://kolnovel.com/series/under-the-spell-of-evil",
@@ -2153,15 +2344,6 @@
     "type": "رواية",
     "is_novel": true,
     "rating": "7.0"
-  },
-  {
-    "id": "%d8%a7%d9%84%d9%85%d9%8f%d8%aa%d9%8e%d8%ad%d9%8e%d8%b1%d9%90%d9%91%d8%b1",
-    "title": "المُتَحَرِّر",
-    "url": "https://kolnovel.com/series/%d8%a7%d9%84%d9%85%d9%8f%d8%aa%d9%8e%d8%ad%d9%8e%d8%b1%d9%90%d9%91%d8%b1",
-    "cover_url": "https://kolnovel.com/wp-content/uploads/2026/09/cover.png",
-    "type": "رواية",
-    "is_novel": true,
-    "rating": "7.5"
   },
   {
     "id": "m-f-kol",
@@ -2191,24 +2373,6 @@
     "rating": "7.5"
   },
   {
-    "id": "%d8%a7%d9%84%d8%aa%d9%82%d8%b7%d9%86%d9%8a",
-    "title": "التقطني",
-    "url": "https://kolnovel.com/series/%d8%a7%d9%84%d8%aa%d9%82%d8%b7%d9%86%d9%8a",
-    "cover_url": "https://kolnovel.com/wp-content/uploads/2026/06/AddText_-.png",
-    "type": "رواية",
-    "is_novel": true,
-    "rating": ""
-  },
-  {
-    "id": "%d8%b3%d9%82%d9%88%d8%b7-%d8%a7%d9%84%d8%ae%d9%8a%d8%b7-%d9%85%d8%a7-%d8%a8%d8%b9%d8%af-%d8%a7%d9%84%d9%85%d9%88%d8%aa%d8%8c-%d9%86%d8%ad%d9%88-%d8%a7%d9%84%d9%81%d9%88%d8%b6%d9%89",
-    "title": "سقوط الخيط: ما بعد الموت، نحو الفوضى",
-    "url": "https://kolnovel.com/series/%d8%b3%d9%82%d9%88%d8%b7-%d8%a7%d9%84%d8%ae%d9%8a%d8%b7-%d9%85%d8%a7-%d8%a8%d8%b9%d8%af-%d8%a7%d9%84%d9%85%d9%88%d8%aa%d8%8c-%d9%86%d8%ad%d9%88-%d8%a7%d9%84%d9%81%d9%88%d8%b6%d9%89",
-    "cover_url": "https://kolnovel.com/wp-content/uploads/2026/04/2busy4you_20260417_085804_0000.png",
-    "type": "رواية",
-    "is_novel": true,
-    "rating": "8.0"
-  },
-  {
     "id": "%d9%85%d8%ad%d8%a7%d8%af%d8%ab%d8%a9-%d8%b5%d8%a7%d9%85%d8%aa%d8%a9",
     "title": "محادثة صامتة",
     "url": "https://kolnovel.com/series/%d9%85%d8%ad%d8%a7%d8%af%d8%ab%d8%a9-%d8%b5%d8%a7%d9%85%d8%aa%d8%a9",
@@ -2227,15 +2391,6 @@
     "rating": "7.7"
   },
   {
-    "id": "%d8%a7%d9%84%d8%ad%d8%b8-%d9%8a%d9%81%d8%b6%d9%84-%d8%a7%d9%84%d8%b3%d9%82%d9%88%d8%b7",
-    "title": "الحظ يفضل السقوط",
-    "url": "https://kolnovel.com/series/%d8%a7%d9%84%d8%ad%d8%b8-%d9%8a%d9%81%d8%b6%d9%84-%d8%a7%d9%84%d8%b3%d9%82%d9%88%d8%b7",
-    "cover_url": "https://kolnovel.com/wp-content/uploads/2026/05/135975-fortune-favors-the-fall.jpg.png",
-    "type": "رواية",
-    "is_novel": true,
-    "rating": ""
-  },
-  {
     "id": "%d8%b3%d9%88%d8%b1%d8%af-%d8%a2%d8%b1%d8%aa-%d8%a3%d9%88%d9%86%d9%84%d8%a7%d9%8a%d9%86",
     "title": "سورد آرت أونلاين",
     "url": "https://kolnovel.com/series/%d8%b3%d9%88%d8%b1%d8%af-%d8%a2%d8%b1%d8%aa-%d8%a3%d9%88%d9%86%d9%84%d8%a7%d9%8a%d9%86",
@@ -2243,51 +2398,6 @@
     "type": "رواية",
     "is_novel": true,
     "rating": "8.0"
-  },
-  {
-    "id": "%d8%b9%d9%88%d8%af%d8%a9-%d8%a7%d9%84%d8%a5%d9%85%d8%a8%d8%b1%d8%a7%d8%b7%d9%88%d8%b1-%d8%a7%d9%84%d8%b4%d9%8a%d8%b7%d8%a7%d9%86%d9%8a",
-    "title": "عودة الإمبراطور الشيطاني",
-    "url": "https://kolnovel.com/series/%d8%b9%d9%88%d8%af%d8%a9-%d8%a7%d9%84%d8%a5%d9%85%d8%a8%d8%b1%d8%a7%d8%b7%d9%88%d8%b1-%d8%a7%d9%84%d8%b4%d9%8a%d8%b7%d8%a7%d9%86%d9%8a",
-    "cover_url": "https://kolnovel.com/wp-content/uploads/2026/07/file_0000000011d071f4a5bcba4ed38e14f8.png",
-    "type": "رواية",
-    "is_novel": true,
-    "rating": ""
-  },
-  {
-    "id": "%d9%85%d8%ad%d9%86%d8%a9-%d8%a7%d9%84%d8%a3%d8%ac%d9%86%d8%a7%d8%b3-%d8%a7%d9%84%d9%85%d8%aa%d8%b9%d8%af%d8%af%d8%a9",
-    "title": "محنة الأجناس المتعددة",
-    "url": "https://kolnovel.com/series/%d9%85%d8%ad%d9%86%d8%a9-%d8%a7%d9%84%d8%a3%d8%ac%d9%86%d8%a7%d8%b3-%d8%a7%d9%84%d9%85%d8%aa%d8%b9%d8%af%d8%af%d8%a9",
-    "cover_url": "https://kolnovel.com/wp-content/uploads/2026/07/بدون-اسم97_20260716015333.png",
-    "type": "رواية",
-    "is_novel": true,
-    "rating": "7.5"
-  },
-  {
-    "id": "%d8%b7%d8%a8%d9%82%d8%a7%d8%aa-%d9%81%d9%8a-%d8%a7%d9%84%d8%a8%d8%ad%d8%b1-%d8%a7%d9%84%d9%85%d9%84%d9%83%d9%8a",
-    "title": "طبقات في البحر الملكي",
-    "url": "https://kolnovel.com/series/%d8%b7%d8%a8%d9%82%d8%a7%d8%aa-%d9%81%d9%8a-%d8%a7%d9%84%d8%a8%d8%ad%d8%b1-%d8%a7%d9%84%d9%85%d9%84%d9%83%d9%8a",
-    "cover_url": "https://kolnovel.com/wp-content/uploads/2026/06/AIRetouch___1.png",
-    "type": "رواية",
-    "is_novel": true,
-    "rating": "7.5"
-  },
-  {
-    "id": "%d9%88%d8%b1%d8%ab%d8%aa%d9%8f-%d9%82%d8%b5%d8%b1-%d8%b9%d8%a7%d8%a6%d9%84%d8%a9-%d9%88%d8%a7%d9%8a%d9%86",
-    "title": "ورثتُ قصر عائلة واين",
-    "url": "https://kolnovel.com/series/%d9%88%d8%b1%d8%ab%d8%aa%d9%8f-%d9%82%d8%b5%d8%b1-%d8%b9%d8%a7%d8%a6%d9%84%d8%a9-%d9%88%d8%a7%d9%8a%d9%86",
-    "cover_url": "https://kolnovel.com/wp-content/uploads/2026/03/1772853660601.png",
-    "type": "رواية",
-    "is_novel": true,
-    "rating": "8.5"
-  },
-  {
-    "id": "%d8%a7%d9%84%d8%a3%d8%b1%d8%a8%d8%b9%d8%a9-%d8%b9%d8%b4%d8%b1-%d8%b9%d8%a7%d9%85%d9%8b%d8%a7-%d8%a7%d9%84%d8%aa%d9%8a-%d9%82%d8%b6%d9%8a%d8%aa%d9%87%d8%a7-%d9%83%d9%82%d8%b7",
-    "title": "الأربعة عشر عامًا التي قضيتها كقط",
-    "url": "https://kolnovel.com/series/%d8%a7%d9%84%d8%a3%d8%b1%d8%a8%d8%b9%d8%a9-%d8%b9%d8%b4%d8%b1-%d8%b9%d8%a7%d9%85%d9%8b%d8%a7-%d8%a7%d9%84%d8%aa%d9%8a-%d9%82%d8%b6%d9%8a%d8%aa%d9%87%d8%a7-%d9%83%d9%82%d8%b7",
-    "cover_url": "https://kolnovel.com/wp-content/uploads/2025/04/619PaVc0O7L._AC_UF10001000_QL80_.jpg",
-    "type": "رواية",
-    "is_novel": true,
-    "rating": "9.0"
   },
   {
     "id": "%d8%a7%d9%84%d8%ac%d8%ad%d9%8a%d9%85-%d8%a7%d9%84%d9%85%d8%b9%d9%83%d9%88%d8%b3",
@@ -2299,15 +2409,6 @@
     "rating": "7.1"
   },
   {
-    "id": "%d8%a7%d9%84%d8%a3%d8%b1%d8%b6-%d8%a7%d9%84%d8%a3%d9%88%d9%84%d9%89",
-    "title": "الأرض الأولى",
-    "url": "https://kolnovel.com/series/%d8%a7%d9%84%d8%a3%d8%b1%d8%b6-%d8%a7%d9%84%d8%a3%d9%88%d9%84%d9%89",
-    "cover_url": "https://kolnovel.com/wp-content/uploads/2021/01/C358AFCB-7EAD-4838-8250-400DCAA13A47.png",
-    "type": "رواية",
-    "is_novel": true,
-    "rating": "7.5"
-  },
-  {
     "id": "%d8%a7%d9%84%d8%ba%d8%b2%d9%88-%d8%a7%d9%84%d9%81%d8%b6%d8%a7%d8%a6%d9%8a",
     "title": "الغزو الفضائي",
     "url": "https://kolnovel.com/series/%d8%a7%d9%84%d8%ba%d8%b2%d9%88-%d8%a7%d9%84%d9%81%d8%b6%d8%a7%d8%a6%d9%8a",
@@ -2317,46 +2418,10 @@
     "rating": ""
   },
   {
-    "id": "%d9%85%d9%84%d9%83-%d8%a7%d9%84%d8%b3%d8%ad%d8%b1-%d8%a7%d9%84%d9%85%d9%8f%d8%b9%d8%a7%d8%af-%d9%88%d9%84%d8%a7%d8%af%d8%aa%d9%87",
-    "title": "ملك السحر المُعاد ولادته",
-    "url": "https://kolnovel.com/series/%d9%85%d9%84%d9%83-%d8%a7%d9%84%d8%b3%d8%ad%d8%b1-%d8%a7%d9%84%d9%85%d9%8f%d8%b9%d8%a7%d8%af-%d9%88%d9%84%d8%a7%d8%af%d8%aa%d9%87",
-    "cover_url": "https://kolnovel.com/wp-content/uploads/2026/08/file_000000001758820a9d59696ddfc3acd1.png",
-    "type": "رواية",
-    "is_novel": true,
-    "rating": ""
-  },
-  {
-    "id": "%d8%ba%d8%b1%d9%8a%d9%85%d8%ba%d8%a7%d8%b1-%d8%a7%d9%84%d8%b1%d9%85%d8%a7%d8%af-%d9%88%d8%a7%d9%84%d8%a3%d9%88%d9%87%d8%a7%d9%85",
-    "title": "غريمغار: الرماد والأوهام",
-    "url": "https://kolnovel.com/series/%d8%ba%d8%b1%d9%8a%d9%85%d8%ba%d8%a7%d8%b1-%d8%a7%d9%84%d8%b1%d9%85%d8%a7%d8%af-%d9%88%d8%a7%d9%84%d8%a3%d9%88%d9%87%d8%a7%d9%85",
-    "cover_url": "https://kolnovel.com/wp-content/uploads/2026/07/IMG__.jpg",
-    "type": "رواية",
-    "is_novel": true,
-    "rating": ""
-  },
-  {
-    "id": "%d8%ad%d9%8f%d8%b1%d9%82%d8%a9",
-    "title": "حُرقة",
-    "url": "https://kolnovel.com/series/%d8%ad%d9%8f%d8%b1%d9%82%d8%a9",
-    "cover_url": "https://kolnovel.com/wp-content/uploads/2025/11/IMG_20251101_191840.webp",
-    "type": "رواية",
-    "is_novel": true,
-    "rating": "7.5"
-  },
-  {
     "id": "%d9%85%d8%b0%d9%83%d8%b1%d8%a7%d8%aa-%d9%85%d8%b3%d8%a7%d9%81%d8%b1",
     "title": "مذكرات مسافر",
     "url": "https://kolnovel.com/series/%d9%85%d8%b0%d9%83%d8%b1%d8%a7%d8%aa-%d9%85%d8%b3%d8%a7%d9%81%d8%b1",
     "cover_url": "https://kolnovel.com/wp-content/uploads/2025/05/Gemini_Generated_Image_s3c05zs3c05zs3c0.jpg",
-    "type": "رواية",
-    "is_novel": true,
-    "rating": "8.0"
-  },
-  {
-    "id": "%d9%84%d9%85%d8%b3%d8%a9-%d8%a7%d9%84%d9%85%d9%8a%d9%83%d8%a7",
-    "title": "لمسة الميكا",
-    "url": "https://kolnovel.com/series/%d9%84%d9%85%d8%b3%d8%a9-%d8%a7%d9%84%d9%85%d9%8a%d9%83%d8%a7",
-    "cover_url": "https://kolnovel.com/wp-content/uploads/2025/11/131_20251104112404.png",
     "type": "رواية",
     "is_novel": true,
     "rating": "8.0"
@@ -2369,15 +2434,6 @@
     "type": "رواية",
     "is_novel": true,
     "rating": "8.0"
-  },
-  {
-    "id": "%d8%b9%d9%8a%d8%af-%d9%86%d9%87%d8%a7%d9%8a%d8%a9-%d8%a7%d9%84%d8%b3%d9%86%d8%a9-%d9%84%d8%a7-%d9%8a%d8%a3%d8%aa%d9%8a-%d9%85%d9%86-%d8%a3%d8%ac%d9%84%d9%86%d8%a7",
-    "title": "عيد نهاية السنة لا يأتي من أجلنا",
-    "url": "https://kolnovel.com/series/%d8%b9%d9%8a%d8%af-%d9%86%d9%87%d8%a7%d9%8a%d8%a9-%d8%a7%d9%84%d8%b3%d9%86%d8%a9-%d9%84%d8%a7-%d9%8a%d8%a3%d8%aa%d9%8a-%d9%85%d9%86-%d8%a3%d8%ac%d9%84%d9%86%d8%a7",
-    "cover_url": "https://kolnovel.com/wp-content/uploads/2026/01/Screenshot_٢٠٢٦-٠١-٠٥-٢١-٠٠-٢٢-٨٢٢-edit_com.discord.jpg",
-    "type": "رواية",
-    "is_novel": true,
-    "rating": "7.5"
   },
   {
     "id": "%d8%b0%d8%a7%d9%83%d8%b1%d8%a9-%d9%84%d9%84%d8%a8%d9%8a%d8%b9",
@@ -2396,23 +2452,5 @@
     "type": "رواية",
     "is_novel": true,
     "rating": "7.0"
-  },
-  {
-    "id": "%d8%a7%d9%84%d8%aa%d9%82%d8%a7%d8%a1-%d8%a7%d9%84%d8%aa%d9%88%d8%a3%d9%85",
-    "title": "التقاء التوأم",
-    "url": "https://kolnovel.com/series/%d8%a7%d9%84%d8%aa%d9%82%d8%a7%d8%a1-%d8%a7%d9%84%d8%aa%d9%88%d8%a3%d9%85",
-    "cover_url": "https://kolnovel.com/wp-content/uploads/2025/11/cropped-بدون-اسم138_20251111092449-1.png",
-    "type": "رواية",
-    "is_novel": true,
-    "rating": ""
-  },
-  {
-    "id": "%d9%88%d8%b1%d8%af%d8%a9-%d8%a8%d9%84%d8%a7%d8%b3%d8%aa%d9%8a%d9%83%d9%8a%d8%a9",
-    "title": "وردة بلاستيكية",
-    "url": "https://kolnovel.com/series/%d9%88%d8%b1%d8%af%d8%a9-%d8%a8%d9%84%d8%a7%d8%b3%d8%aa%d9%8a%d9%83%d9%8a%d8%a9",
-    "cover_url": "https://kolnovel.com/wp-content/uploads/2025/12/Design_20251213_210415_.png",
-    "type": "رواية",
-    "is_novel": true,
-    "rating": "8.5"
   }
 ]

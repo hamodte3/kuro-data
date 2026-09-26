@@ -2,10 +2,10 @@ name: Auto Sync Manga
 
 on:
   schedule:
-    # ⏰ يعمل تلقائياً كل 3 ساعات بالضبط بالدقيقة 0
-    - cron: '0 */3 * * *'
+    # ⏰ يعمل تلقائياً كل ساعة بالدقيقة 0
+    - cron: '0 * * * *'
   
-  # 🎯 تشغيل يدوي ذكي: يتيح لك اختيار تشغيل كل السكربتات أو سكربت محدد فقط
+  # 🎯 تشغيل يدوي: يتيح اختيار تشغيل كافة السكربتات أو سكربت محدد
   workflow_dispatch:
     inputs:
       target_source:
@@ -39,28 +39,28 @@ jobs:
       - name: Install Libraries
         run: pip install -r requirements.txt
 
-      # 🎯 عزل السكربتات: continue-on-error يضمن استمرار التحديث حتى لو تعطل أحد المواقع
+      # 🎯 عزل السكربتات: continue-on-error يضمن استمرار السيرفر حتى لو تعطل أحد المواقع
       - name: Sync Azora
-        if: ${{ github.event.inputs.target_source == 'all' || github.event.inputs.target_source == 'azora' || github.event_name == 'schedule' }}
+        if: ${{ github.event_name == 'schedule' || inputs.target_source == 'all' || inputs.target_source == 'azora' }}
         continue-on-error: true
         run: python sync.py
 
       - name: Sync Ashiq
-        if: ${{ github.event.inputs.target_source == 'all' || github.event.inputs.target_source == 'ashiq' || github.event_name == 'schedule' }}
+        if: ${{ github.event_name == 'schedule' || inputs.target_source == 'all' || inputs.target_source == 'ashiq' }}
         continue-on-error: true
         run: python sync_ashiq.py
 
       - name: Sync Despair
-        if: ${{ github.event.inputs.target_source == 'all' || github.event.inputs.target_source == 'despair' || github.event_name == 'schedule' }}
+        if: ${{ github.event_name == 'schedule' || inputs.target_source == 'all' || inputs.target_source == 'despair' }}
         continue-on-error: true
         run: python sync_despair.py
 
       - name: Sync KolNovel
-        if: ${{ github.event.inputs.target_source == 'all' || github.event.inputs.target_source == 'kolnovel' || github.event_name == 'schedule' }}
+        if: ${{ github.event_name == 'schedule' || inputs.target_source == 'all' || inputs.target_source == 'kolnovel' }}
         continue-on-error: true
         run: python sync_kolnovel.py
 
-      # 🎯 حفظ التعديلات ودفعها بأمان (تشمل الكاتلوج المدمج وملف data/new.json)
+      # 🎯 حفظ التعديلات ودفعها بأمان مع منع تشغيل Actions متداخلة عبر [skip ci]
       - name: Commit and Push Changes
         run: |
           git config --global user.name "github-actions[bot]"

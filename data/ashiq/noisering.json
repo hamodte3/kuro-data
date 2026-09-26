@@ -1,0 +1,29 @@
+{
+  "id": "noisering",
+  "title": "Noisering",
+  "cover_url": "https://3asq.online/wp-content/uploads/2026/09/noisering-scaled.jpg",
+  "description": "لا يوجد وصف",
+  "type": "مانغا",
+  "status": "مستمر",
+  "rating": "5.0",
+  "favorites": "1",
+  "genres": [
+    "أكشن",
+    "جريمة",
+    "خارق للطبيعة",
+    "خيال علمي",
+    "دراما",
+    "رعب",
+    "عسكرية",
+    "علم نفس",
+    "عنف",
+    "غموض",
+    "فلسفة"
+  ],
+  "is_novel": false,
+  "chapters": {
+    "https://3asq.online/manga/noisering/1": {
+      "name": "1"
+    }
+  }
+}

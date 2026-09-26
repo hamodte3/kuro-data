@@ -1,0 +1,46 @@
+{
+  "id": "pokemon-adventures",
+  "title": "Pokémon Adventures",
+  "cover_url": "https://3asq.online/wp-content/uploads/2026/08/Pokemon-Manga-Arabic-Cover-صفحة-العمل-no-arrows.jpg",
+  "description": "ريد مجرد فتى عادي يقيم في قرية باليت الريفية يقرر الانطلاق في مغامرته الخاصة مع غريمه بلو. في عالم البوكيمون هذا، يتعرف ريد إلى الكثير من الأصدقاء البشريين والبوكيمونيين على حد سواء. لكن عصابة الرداء الأبيض تحاول القبض على البوكيمون النادر ميو وتسوّل لها نفسها إجراء التجارب على بوكيمونات أخرى طمعًا في زيادة قوتها. ينبغي على ريد وأصدقائه أن يكافحوا العصابة لإنهاء تجاربها القاسية، كما لا بد لهم أن يكشفوا عن أسرار البوكيمون الدفينة.\n\nريد هو أول بطل بوكيمون في السلسلة ويتلوه آخرون بأسماء ومناطق وبوكيمونات مختلفة مقتبسة من أول ألعاب جهاز الغيم بوي وحتى ألعاب جهاز السويتش الحالية.",
+  "type": "مانغا",
+  "status": "مستمر",
+  "rating": "4.9",
+  "favorites": "5",
+  "genres": [
+    "أكشن",
+    "استراتيجي",
+    "العاب",
+    "خارق للطبيعة",
+    "خيال",
+    "كوميديا",
+    "مغامرة"
+  ],
+  "is_novel": false,
+  "chapters": {
+    "https://3asq.online/manga/pokemon-adventures/8": {
+      "name": "8"
+    },
+    "https://3asq.online/manga/pokemon-adventures/7": {
+      "name": "7"
+    },
+    "https://3asq.online/manga/pokemon-adventures/6": {
+      "name": "6"
+    },
+    "https://3asq.online/manga/pokemon-adventures/5": {
+      "name": "5"
+    },
+    "https://3asq.online/manga/pokemon-adventures/4": {
+      "name": "4"
+    },
+    "https://3asq.online/manga/pokemon-adventures/3": {
+      "name": "3"
+    },
+    "https://3asq.online/manga/pokemon-adventures/2": {
+      "name": "2"
+    },
+    "https://3asq.online/manga/pokemon-adventures/1": {
+      "name": "1"
+    }
+  }
+}

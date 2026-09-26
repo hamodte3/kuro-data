@@ -1,0 +1,88 @@
+{
+  "id": "dr-hound",
+  "title": "Dr. Hound",
+  "cover_url": "https://3asq.online/wp-content/uploads/2026/07/0020-scaled.jpeg",
+  "description": "“سوريوم”… هل هو مجرد طبيب بيطري عادي؟ أم أن الحقيقة أبعد بكثير مما تبدو؟ ما الأسرار التي يخفيها؟ وما حقيقة قدراته الغامضة؟ من هو “هاوند”؟ وهل هو مجرد لقب… أم وجه آخر لشخص نعرفه؟ والأهم… من هو “أرجوس”؟ هناك اسم واحد يتردد في الظلال، واسم واحد فقط قادر على إيقافه… دكتور هاوند.",
+  "type": "مانهوا",
+  "status": "مكتمل",
+  "rating": "4.5",
+  "favorites": "10",
+  "genres": [
+    "أكشن",
+    "جريمة",
+    "دراما",
+    "رعب",
+    "سينين",
+    "غموض",
+    "مأساة"
+  ],
+  "is_novel": false,
+  "chapters": {
+    "https://3asq.online/manga/dr-hound/22": {
+      "name": "22"
+    },
+    "https://3asq.online/manga/dr-hound/21": {
+      "name": "21"
+    },
+    "https://3asq.online/manga/dr-hound/20": {
+      "name": "20"
+    },
+    "https://3asq.online/manga/dr-hound/19": {
+      "name": "19"
+    },
+    "https://3asq.online/manga/dr-hound/18": {
+      "name": "18"
+    },
+    "https://3asq.online/manga/dr-hound/17": {
+      "name": "17"
+    },
+    "https://3asq.online/manga/dr-hound/16": {
+      "name": "16"
+    },
+    "https://3asq.online/manga/dr-hound/15": {
+      "name": "15"
+    },
+    "https://3asq.online/manga/dr-hound/14": {
+      "name": "14"
+    },
+    "https://3asq.online/manga/dr-hound/13": {
+      "name": "13"
+    },
+    "https://3asq.online/manga/dr-hound/12": {
+      "name": "12"
+    },
+    "https://3asq.online/manga/dr-hound/11": {
+      "name": "11"
+    },
+    "https://3asq.online/manga/dr-hound/10": {
+      "name": "10"
+    },
+    "https://3asq.online/manga/dr-hound/9": {
+      "name": "9"
+    },
+    "https://3asq.online/manga/dr-hound/8": {
+      "name": "8"
+    },
+    "https://3asq.online/manga/dr-hound/7": {
+      "name": "7"
+    },
+    "https://3asq.online/manga/dr-hound/6": {
+      "name": "6"
+    },
+    "https://3asq.online/manga/dr-hound/5": {
+      "name": "5"
+    },
+    "https://3asq.online/manga/dr-hound/4": {
+      "name": "4"
+    },
+    "https://3asq.online/manga/dr-hound/3_1": {
+      "name": "3"
+    },
+    "https://3asq.online/manga/dr-hound/2": {
+      "name": "2"
+    },
+    "https://3asq.online/manga/dr-hound/1": {
+      "name": "1"
+    }
+  }
+}
