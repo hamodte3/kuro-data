@@ -778,15 +778,6 @@
     "rating": "7.5"
   },
   {
-    "id": "%d9%85%d9%84%d9%83-%d8%b3%d9%85%d8%a7%d8%aa-%d8%a7%d9%84%d9%81%d9%86%d9%88%d9%86-%d8%a7%d9%84%d9%82%d8%aa%d8%a7%d9%84%d9%8a%d8%a9",
-    "title": "ملك سمات الفنون القتالية",
-    "url": "https://kolnovel.com/series/%d9%85%d9%84%d9%83-%d8%b3%d9%85%d8%a7%d8%aa-%d8%a7%d9%84%d9%81%d9%86%d9%88%d9%86-%d8%a7%d9%84%d9%82%d8%aa%d8%a7%d9%84%d9%8a%d8%a9",
-    "cover_url": "https://kolnovel.com/wp-content/uploads/2026/01/GIF-260910_004008.gif",
-    "type": "رواية",
-    "is_novel": true,
-    "rating": "9.1"
-  },
-  {
     "id": "%d8%ad%d9%83%d8%a7%d9%8a%d8%a9-%d8%aa%d8%af%d8%b1%d9%8a%d8%a8-%d8%a7%d9%84%d8%b9%d8%a7%d8%a6%d8%af",
     "title": "حكاية تدريب العائد",
     "url": "https://kolnovel.com/series/%d8%ad%d9%83%d8%a7%d9%8a%d8%a9-%d8%aa%d8%af%d8%b1%d9%8a%d8%a8-%d8%a7%d9%84%d8%b9%d8%a7%d8%a6%d8%af",
@@ -794,6 +785,15 @@
     "type": "رواية",
     "is_novel": true,
     "rating": "8.8"
+  },
+  {
+    "id": "%d9%85%d9%84%d9%83-%d8%b3%d9%85%d8%a7%d8%aa-%d8%a7%d9%84%d9%81%d9%86%d9%88%d9%86-%d8%a7%d9%84%d9%82%d8%aa%d8%a7%d9%84%d9%8a%d8%a9",
+    "title": "ملك سمات الفنون القتالية",
+    "url": "https://kolnovel.com/series/%d9%85%d9%84%d9%83-%d8%b3%d9%85%d8%a7%d8%aa-%d8%a7%d9%84%d9%81%d9%86%d9%88%d9%86-%d8%a7%d9%84%d9%82%d8%aa%d8%a7%d9%84%d9%8a%d8%a9",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2026/01/GIF-260910_004008.gif",
+    "type": "رواية",
+    "is_novel": true,
+    "rating": "9.1"
   },
   {
     "id": "i-reincarnated-for-nothing",
@@ -994,19 +994,19 @@
     "rating": "8.7"
   },
   {
-    "id": "%d8%a7%d9%84%d9%82%d8%b7%d8%a9-%d9%88%d8%a7%d9%84%d8%aa%d9%86%d9%8a%d9%86",
-    "title": "القطة والتنين",
-    "url": "https://kolnovel.com/series/%d8%a7%d9%84%d9%82%d8%b7%d8%a9-%d9%88%d8%a7%d9%84%d8%aa%d9%86%d9%8a%d9%86",
-    "cover_url": "https://kolnovel.com/wp-content/uploads/2023/08/IMG_0195-1-scaled.jpg",
+    "id": "%d8%a7%d9%84%d9%82%d8%a7%d8%aa%d9%84-%d8%a7%d9%84%d8%a3%d8%b2%d9%84%d9%8a",
+    "title": "القاتل الأزلي",
+    "url": "https://kolnovel.com/series/%d8%a7%d9%84%d9%82%d8%a7%d8%aa%d9%84-%d8%a7%d9%84%d8%a3%d8%b2%d9%84%d9%8a",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2025/03/113297.png",
     "type": "رواية",
     "is_novel": true,
     "rating": "8.0"
   },
   {
-    "id": "%d8%a7%d9%84%d9%82%d8%a7%d8%aa%d9%84-%d8%a7%d9%84%d8%a3%d8%b2%d9%84%d9%8a",
-    "title": "القاتل الأزلي",
-    "url": "https://kolnovel.com/series/%d8%a7%d9%84%d9%82%d8%a7%d8%aa%d9%84-%d8%a7%d9%84%d8%a3%d8%b2%d9%84%d9%8a",
-    "cover_url": "https://kolnovel.com/wp-content/uploads/2025/03/113297.png",
+    "id": "%d8%a7%d9%84%d9%82%d8%b7%d8%a9-%d9%88%d8%a7%d9%84%d8%aa%d9%86%d9%8a%d9%86",
+    "title": "القطة والتنين",
+    "url": "https://kolnovel.com/series/%d8%a7%d9%84%d9%82%d8%b7%d8%a9-%d9%88%d8%a7%d9%84%d8%aa%d9%86%d9%8a%d9%86",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2023/08/IMG_0195-1-scaled.jpg",
     "type": "رواية",
     "is_novel": true,
     "rating": "8.0"
@@ -1696,15 +1696,6 @@
     "rating": "7.0"
   },
   {
-    "id": "daybreak",
-    "title": "الفجر",
-    "url": "https://kolnovel.com/series/daybreak",
-    "cover_url": "https://kolnovel.com/wp-content/uploads/2021/01/dp.jpg",
-    "type": "رواية",
-    "is_novel": true,
-    "rating": "8.0"
-  },
-  {
     "id": "the-perfect-run",
     "title": "المسار المثالي",
     "url": "https://kolnovel.com/series/the-perfect-run",
@@ -1712,6 +1703,15 @@
     "type": "رواية",
     "is_novel": true,
     "rating": "7.5"
+  },
+  {
+    "id": "daybreak",
+    "title": "الفجر",
+    "url": "https://kolnovel.com/series/daybreak",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2021/01/dp.jpg",
+    "type": "رواية",
+    "is_novel": true,
+    "rating": "8.0"
   },
   {
     "id": "one-night-one-day-one-year-one-lifetime",
@@ -2146,15 +2146,6 @@
     "rating": "8.0"
   },
   {
-    "id": "under-the-spell-of-evil",
-    "title": "تحت إيقاع الشر",
-    "url": "https://kolnovel.com/series/under-the-spell-of-evil",
-    "cover_url": "https://kolnovel.com/wp-content/themes/lightnovel/assets/images/noimg165px.png",
-    "type": "رواية",
-    "is_novel": true,
-    "rating": "7.0"
-  },
-  {
     "id": "%d8%a7%d9%84%d9%85%d9%8f%d8%aa%d9%8e%d8%ad%d9%8e%d8%b1%d9%90%d9%91%d8%b1",
     "title": "المُتَحَرِّر",
     "url": "https://kolnovel.com/series/%d8%a7%d9%84%d9%85%d9%8f%d8%aa%d9%8e%d8%ad%d9%8e%d8%b1%d9%90%d9%91%d8%b1",
@@ -2162,6 +2153,15 @@
     "type": "رواية",
     "is_novel": true,
     "rating": "7.5"
+  },
+  {
+    "id": "under-the-spell-of-evil",
+    "title": "تحت إيقاع الشر",
+    "url": "https://kolnovel.com/series/under-the-spell-of-evil",
+    "cover_url": "https://kolnovel.com/wp-content/themes/lightnovel/assets/images/noimg165px.png",
+    "type": "رواية",
+    "is_novel": true,
+    "rating": "7.0"
   },
   {
     "id": "m-f-kol",
