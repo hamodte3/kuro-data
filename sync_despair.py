@@ -78,7 +78,6 @@ def format_rating(raw_rating: str) -> str:
         return ""
 
 def load_existing_catalog() -> dict:
-    """تحميل الأرشيف القديم لمنع مسح أو تصفير أي مانهوا سابقة"""
     if not os.path.exists(CATALOG_FILE):
         return {}
     try:
@@ -90,7 +89,6 @@ def load_existing_catalog() -> dict:
         return {}
 
 def update_global_new_releases(new_releases: list):
-    """دمج الإشعارات الجديدة في data/new.json دون مسح تحديثات المصادر الأخرى"""
     if not new_releases:
         return
 
@@ -181,11 +179,12 @@ def scrape_manga_details_despair(session, manga_url: str):
     rate_el = soup.select_one("div.num[itemprop=ratingValue], .numscore")
     rating = format_rating(rate_el.text if rate_el else "")
 
-    status_el = soup.find(lambda t: t.name in ["div", "span"] and "Status" in t.text)
+    # دعم الكلمات بالإنجليزية والعربية
+    status_el = soup.find(lambda t: t.name in ["div", "span"] and any(w in t.text for w in ["Status", "الحالة"]))
     raw_status = status_el.find("i").text.strip() if (status_el and status_el.find("i")) else "مستمر"
     status = format_status(raw_status)
 
-    type_el = soup.find(lambda t: t.name in ["div", "span"] and "Type" in t.text)
+    type_el = soup.find(lambda t: t.name in ["div", "span"] and any(w in t.text for w in ["Type", "النوع"]))
     raw_type = type_el.find("a").text.strip() if (type_el and type_el.find("a")) else ""
 
     fav_el = soup.select_one("div.bmc")
@@ -223,9 +222,9 @@ def sync_despair_fast():
     print(f"بدء المزامنة الخاطفة لديسبير (فحص أول {MAX_DELTA_PAGES} صفحات مرتبة بالأحدث)...")
 
     catalog_dict = load_existing_catalog()
-    recent_targets = []
+    ordered_recent_slugs = []
 
-    # 1. سحب أول 5 صفحات فقط مع إجبار الترتيب بالأحدث عبر order=update
+    # 1. سحب أول 5 صفحات بالترتيب الصحيح (من الأحدث للأقدم)
     for page in range(1, MAX_DELTA_PAGES + 1):
         url = f"{BASE_URL}/all-manga/?order=update" if page == 1 else f"{BASE_URL}/all-manga/page/{page}/?order=update"
         try:
@@ -257,14 +256,14 @@ def sync_despair_fast():
                         raw_cover = img_node.get("data-src", "").strip() or img_node.get("data-lazy-src", "").strip()
                 cover_url = clean_image_url(raw_cover)
 
-                type_el = card.select_one("span.type")
+                type_el = card.select_one("span.type, .typez")
                 raw_type = type_el.text.strip() if type_el else ""
 
                 status_el = card.select_one("span.status")
                 raw_status = status_el.text.strip() if status_el else ""
                 is_novel = "novel" in raw_type.lower() or "رواية" in title
 
-                # الدمج الآمن للحفاظ على الفصول والتقييم للأعمال السابقة
+                # تحديث بيانات العمل أو إنشائه مع الحفاظ على الفصول السابقة
                 if slug in catalog_dict:
                     catalog_dict[slug]["title"] = title
                     catalog_dict[slug]["url"] = manga_url
@@ -272,25 +271,20 @@ def sync_despair_fast():
                         catalog_dict[slug]["cover_url"] = cover_url
                     if raw_status:
                         catalog_dict[slug]["status"] = format_status(raw_status)
-                    # إعادة رفع العمل إلى الصدارة لأنه تم تحديثه
-                    item_ref = catalog_dict.pop(slug)
-                    catalog_dict = {slug: item_ref, **catalog_dict}
                 else:
-                    catalog_dict = {
-                        slug: {
-                            "id": slug,
-                            "title": title,
-                            "url": manga_url,
-                            "cover_url": cover_url,
-                            "type": "رواية" if is_novel else format_type(raw_type),
-                            "status": format_status(raw_status),
-                            "total_chapters": 0
-                        },
-                        **catalog_dict
+                    catalog_dict[slug] = {
+                        "id": slug,
+                        "title": title,
+                        "url": manga_url,
+                        "cover_url": cover_url,
+                        "type": "رواية" if is_novel else format_type(raw_type),
+                        "status": format_status(raw_status),
+                        "total_chapters": 0
                     }
 
-                if not any(t["id"] == slug for t in recent_targets):
-                    recent_targets.append(catalog_dict[slug])
+                # تسجيل الترتيب السليم من الأحدث للأقدم
+                if slug not in ordered_recent_slugs:
+                    ordered_recent_slugs.append(slug)
 
                 new_in_page += 1
 
@@ -302,12 +296,12 @@ def sync_despair_fast():
             print(f"خطأ أثناء سحب صفحة {page}: {e}")
             break
 
-    # 2. تحديث تفاصيل وفصول أحدث 20 عملاً ورصد الإشعارات
-    targets_to_scrape = recent_targets[:DETAILS_SYNC_LIMIT]
+    # 2. تحديث تفاصيل وفصول أحدث 20 عملاً
+    targets_slugs = ordered_recent_slugs[:DETAILS_SYNC_LIMIT]
     new_releases = []
 
-    for index, item in enumerate(targets_to_scrape, 1):
-        slug = item["id"]
+    for index, slug in enumerate(targets_slugs, 1):
+        item = catalog_dict[slug]
         manga_url = item["url"]
         file_path = os.path.join(DATA_DIR, f"{slug}.json")
         prev_chaps = item.get("total_chapters", 0)
@@ -322,14 +316,14 @@ def sync_despair_fast():
             item["rating"] = details["rating"]
             item["type"] = details["type"]
             item["total_chapters"] = current_chaps
-            print(f"✓ [{index}/{len(targets_to_scrape)}] تم تحديث ديسبير: {slug} ({current_chaps} فصل)")
+            print(f"✓ [{index}/{len(targets_slugs)}] تم تحديث ديسبير: {slug} ({current_chaps} فصل)")
 
-            # كشف الفصول الجديدة لتوليد التنبيه
+            # إشعار دقيق: فصل جديد أم عمل جديد بالكامل
             if current_chaps > prev_chaps and current_chaps > 0:
                 new_releases.append({
                     "id": slug,
                     "title": item["title"],
-                    "chapter": f"الفصل {current_chaps}",
+                    "chapter": f"الفصل {current_chaps}" if prev_chaps > 0 else "عمل جديد",
                     "type": item.get("type", "مانغا"),
                     "cover_url": item.get("cover_url", "")
                 })
@@ -338,16 +332,20 @@ def sync_despair_fast():
         except Exception as e:
             print(f"خطأ أثناء معالجة {slug}: {e}")
 
-    # 3. حفظ الفهرس التراكمي الشامل بدون حذف أي عمل قديم
-    full_catalog = list(catalog_dict.values())
+    # 3. بناء الفهرس النهائي: الأعمال المحدثة أولاً بترتيبها الحقيقي + باقي الأرشيف في الأسفل
+    seen_slugs = set(ordered_recent_slugs)
+    final_merged_catalog = [catalog_dict[s] for s in ordered_recent_slugs] + [
+        item for s, item in catalog_dict.items() if s not in seen_slugs
+    ]
+
     with open(CATALOG_FILE, "w", encoding="utf-8") as f:
-        json.dump(full_catalog, f, ensure_ascii=False, indent=2)
+        json.dump(final_merged_catalog, f, ensure_ascii=False, indent=2)
 
     # 4. تحديث الإشعارات العامة
     if new_releases:
         update_global_new_releases(new_releases)
 
-    print(f"\n⚡ اكتملت مزامنة ديسبير الذكية! إجمالي الأعمال المحفوظة: {len(full_catalog)}")
+    print(f"\n⚡ اكتملت مزامنة ديسبير السليمة! إجمالي الأعمال المحفوظة: {len(final_merged_catalog)}")
 
 if __name__ == "__main__":
     sync_despair_fast()
