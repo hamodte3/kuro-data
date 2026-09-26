@@ -184,7 +184,7 @@
     "is_novel": true,
     "rating": "",
     "status": "مستمر",
-    "total_chapters": 3670
+    "total_chapters": 3673
   },
   {
     "id": "overgeared",
@@ -787,15 +787,6 @@
     "rating": "9.1"
   },
   {
-    "id": "i-reincarnated-for-nothing",
-    "title": "أعيد بعثى من أجل لا شئ",
-    "url": "https://kolnovel.com/series/i-reincarnated-for-nothing",
-    "cover_url": "https://kolnovel.com/wp-content/uploads/2021/05/ec297ffb5f87460a-e1647038605990.png",
-    "type": "رواية",
-    "is_novel": true,
-    "rating": "7.0"
-  },
-  {
     "id": "%d8%ad%d9%83%d8%a7%d9%8a%d8%a9-%d8%aa%d8%af%d8%b1%d9%8a%d8%a8-%d8%a7%d9%84%d8%b9%d8%a7%d8%a6%d8%af",
     "title": "حكاية تدريب العائد",
     "url": "https://kolnovel.com/series/%d8%ad%d9%83%d8%a7%d9%8a%d8%a9-%d8%aa%d8%af%d8%b1%d9%8a%d8%a8-%d8%a7%d9%84%d8%b9%d8%a7%d8%a6%d8%af",
@@ -803,6 +794,15 @@
     "type": "رواية",
     "is_novel": true,
     "rating": "8.8"
+  },
+  {
+    "id": "i-reincarnated-for-nothing",
+    "title": "أعيد بعثى من أجل لا شئ",
+    "url": "https://kolnovel.com/series/i-reincarnated-for-nothing",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2021/05/ec297ffb5f87460a-e1647038605990.png",
+    "type": "رواية",
+    "is_novel": true,
+    "rating": "7.0"
   },
   {
     "id": "vearsetile-megeaa-kolnovel",
