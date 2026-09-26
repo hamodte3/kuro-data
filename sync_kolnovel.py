@@ -10,7 +10,7 @@ DATA_DIR = os.path.join("data", "kolnovel")
 CATALOG_FILE = os.path.join(DATA_DIR, "catalog.json")
 
 DETAILS_SYNC_LIMIT = 20   # تجهيز بيانات وفصول أفضل 20 رواية
-MAX_PAGES_SAFETY = 1000     # تغطية الفهرس العام لملوك الروايات
+MAX_PAGES_SAFETY = 1000   # تغطية الفهرس العام
 
 os.makedirs(DATA_DIR, exist_ok=True)
 
@@ -61,7 +61,8 @@ def format_status(raw_status: str) -> str:
 
 def extract_chapters_kolnovel(soup: BeautifulSoup) -> dict:
     chapters_map = {}
-    number_regex = re.compile(r"\d+(\.\d+)?")
+    chapter_num_pattern = re.compile(r"الفصل\s*(\d+(?:\.\d+)?)")
+    any_number_pattern = re.compile(r"\d+(?:\.\d+)?")
 
     for li in soup.select(".eplister ul li"):
         a_node = li.select_one("a:not(.dlpdf):not([href*='/pdf/'])")
@@ -81,18 +82,30 @@ def extract_chapters_kolnovel(soup: BeautifulSoup) -> dict:
         raw_title = a_node.select_one(".epl-title")
         raw_title_text = raw_title.text.strip() if raw_title else ""
 
-        num_match = number_regex.search(raw_num_text)
-        if num_match:
-            val = float(num_match.group(0))
-            clean_num = str(int(val)) if val.is_integer() else str(val)
+        # استخراج رقم الفصل وتجاوز رقم المجلد
+        ch_match = chapter_num_pattern.search(raw_num_text)
+        if ch_match:
+            clean_num = ch_match.group(1)
         else:
-            clean_num = raw_num_text
+            all_nums = any_number_pattern.findall(raw_num_text)
+            clean_num = all_nums[-1] if all_nums else ""
 
-        if clean_num and raw_title_text and clean_num.lower() != raw_title_text.lower() and raw_num_text.lower() != raw_title_text.lower():
-            sub_title = re.sub(r"^الفصل\s*\d+[:\s-]*", "", raw_title_text).strip()
-            display_name = f"الفصل {clean_num}: {sub_title}" if sub_title else f"الفصل {clean_num}"
-        elif clean_num:
-            display_name = f"الفصل {clean_num}"
+        # تنسيق الرقم (تحويل 15.0 إلى 15 مع إبقاء 56.5)
+        if clean_num:
+            try:
+                v = float(clean_num)
+                formatted_num = str(int(v)) if v.is_integer() else str(v)
+            except ValueError:
+                formatted_num = clean_num
+        else:
+            formatted_num = ""
+
+        sub_title = re.sub(r"^الفصل\s*\d+[:\s-]*", "", raw_title_text).strip()
+
+        if formatted_num and sub_title:
+            display_name = f"الفصل {formatted_num}: {sub_title}"
+        elif formatted_num:
+            display_name = f"الفصل {formatted_num}"
         elif raw_title_text:
             display_name = raw_title_text
         else:
@@ -105,7 +118,15 @@ def extract_chapters_kolnovel(soup: BeautifulSoup) -> dict:
 
 def scrape_novel_details_kolnovel(session, novel_url: str):
     clean_url = normalize_url(novel_url)
-    res = session.get(clean_url, timeout=20)
+    # كسر كاش الخادم للحصول على أحدث فصول دائماً
+    cache_url = f"{clean_url}?_t={int(time.time())}"
+    custom_headers = {
+        **HEADERS,
+        "Cache-Control": "no-cache, no-store, must-revalidate",
+        "Pragma": "no-cache"
+    }
+
+    res = session.get(cache_url, headers=custom_headers, timeout=25)
     soup = BeautifulSoup(res.text, "html.parser")
 
     title_el = soup.select_one("h1.entry-title, h1[itemprop=name]")
