@@ -160,16 +160,6 @@
     "total_chapters": 588
   },
   {
-    "id": "mster-mysteiousdd",
-    "title": "أسرار سيد الدمى الخالدة",
-    "url": "https://cenele.com/cont/mster-mysteiousdd",
-    "cover_url": "https://cenele.com/wp-content/uploads/2024/08/441f4229-d843-436f-83b1-6cc60d6d22e2-175x238.webp",
-    "type": "رواية",
-    "status": "مستمر",
-    "rating": "8.4",
-    "total_chapters": 342
-  },
-  {
     "id": "my-longe-simulati",
     "title": "محاكاة إطالة العمر",
     "url": "https://cenele.com/cont/my-longe-simulati",
@@ -178,6 +168,16 @@
     "status": "مستمر",
     "rating": "8.2",
     "total_chapters": 1136
+  },
+  {
+    "id": "mster-mysteiousdd",
+    "title": "أسرار سيد الدمى الخالدة",
+    "url": "https://cenele.com/cont/mster-mysteiousdd",
+    "cover_url": "https://cenele.com/wp-content/uploads/2024/08/441f4229-d843-436f-83b1-6cc60d6d22e2-175x238.webp",
+    "type": "رواية",
+    "status": "مستمر",
+    "rating": "8.4",
+    "total_chapters": 342
   },
   {
     "id": "the-creatures-that-we-are-riwya",
@@ -309,6 +309,15 @@
     "total_chapters": 670
   },
   {
+    "id": "create-heaven-riwya",
+    "title": "انشاء القوانين السماوية",
+    "url": "https://cenele.com/cont/create-heaven-riwya",
+    "cover_url": "https://cenele.com/wp-content/uploads/2026/08/139e19c5-bfa6-468f-8694-ee4b00437657-175x238.webp",
+    "type": "رواية",
+    "status": "مستمر",
+    "rating": ""
+  },
+  {
     "id": "awill-beyond-oblivion",
     "title": "إرادة تتجاوز النسيان",
     "url": "https://cenele.com/cont/awill-beyond-oblivion",
@@ -317,6 +326,43 @@
     "status": "مستمر",
     "rating": "8.0",
     "total_chapters": 292
+  },
+  {
+    "id": "ouroboros-record",
+    "title": "سجلات أوروبوروس",
+    "url": "https://cenele.com/cont/ouroboros-record",
+    "cover_url": "https://cenele.com/wp-content/uploads/2021/05/سجل-أوروبوروس-سيرك-اوبينيال--175x238.png",
+    "type": "رواية",
+    "status": "مستمر",
+    "rating": "",
+    "total_chapters": 0
+  },
+  {
+    "id": "iron-dynasty-riwya",
+    "title": "سلالة الحديد",
+    "url": "https://cenele.com/cont/iron-dynasty-riwya",
+    "cover_url": "https://cenele.com/wp-content/uploads/2026/08/photo_2026-08-23_00-15-46-175x238.jpg",
+    "type": "رواية",
+    "status": "مستمر",
+    "rating": ""
+  },
+  {
+    "id": "nine-hemon-body",
+    "title": "فن الجسد المهمين النجوم التسعة",
+    "url": "https://cenele.com/cont/nine-hemon-body",
+    "cover_url": "https://cenele.com/wp-content/uploads/2020/12/image_2022-12-17_120603829-175x238.png",
+    "type": "رواية",
+    "status": "مستمر",
+    "rating": ""
+  },
+  {
+    "id": "the-vill-pov",
+    "title": "رواية منظور الشرير",
+    "url": "https://cenele.com/cont/the-vill-pov",
+    "cover_url": "https://cenele.com/wp-content/uploads/2024/06/4111fd56-1fa3-4849-9d48-744db3ac789f-175x238.webp",
+    "type": "رواية",
+    "status": "مستمر",
+    "rating": ""
   },
   {
     "id": "the-last-melody",
@@ -359,40 +405,14 @@
     "total_chapters": 1838
   },
   {
-    "id": "create-heaven-riwya",
-    "title": "انشاء القوانين السماوية",
-    "url": "https://cenele.com/cont/create-heaven-riwya",
-    "cover_url": "https://cenele.com/wp-content/uploads/2026/08/139e19c5-bfa6-468f-8694-ee4b00437657-175x238.webp",
+    "id": "a-practical-guide-to-evil",
+    "title": "دليل عملي للشر",
+    "url": "https://cenele.com/cont/a-practical-guide-to-evil",
+    "cover_url": "https://cenele.com/wp-content/uploads/2026/09/30359-175x238.png",
     "type": "رواية",
     "status": "مستمر",
-    "rating": ""
-  },
-  {
-    "id": "sword-youngest-son",
-    "title": "رواية الإبن الأصغر لسيد السيف",
-    "url": "https://cenele.com/cont/sword-youngest-son",
-    "cover_url": "https://cenele.com/wp-content/uploads/2022/06/Picsart_23-01-09_21-50-29-958-1-175x238.jpg",
-    "type": "رواية",
-    "status": "مستمر",
-    "rating": ""
-  },
-  {
-    "id": "legend-managem-bureau",
-    "title": "مكتب إدارة الأساطير",
-    "url": "https://cenele.com/cont/legend-managem-bureau",
-    "cover_url": "https://cenele.com/wp-content/uploads/2026/04/04d04a42-6e4b-4203-b93b-02ee1c5cfa8b-175x238.webp",
-    "type": "رواية",
-    "status": "مستمر",
-    "rating": ""
-  },
-  {
-    "id": "murim-psycho",
-    "title": "رواية مجنون في عالم الموريم",
-    "url": "https://cenele.com/cont/murim-psycho",
-    "cover_url": "https://cenele.com/wp-content/uploads/2026/02/d425bc4a-58e1-456e-a068-7bad4cd54655-175x238.webp",
-    "type": "رواية",
-    "status": "مستمر",
-    "rating": ""
+    "rating": "",
+    "total_chapters": 0
   },
   {
     "id": "the-primordial-record",
@@ -404,10 +424,20 @@
     "rating": ""
   },
   {
-    "id": "rear-moon",
-    "title": "رواية حاصد القمر المنجرف",
-    "url": "https://cenele.com/cont/rear-moon",
-    "cover_url": "https://cenele.com/wp-content/uploads/2022/09/Picsart_22-11-05_08-49-41-297-175x238.webp",
+    "id": "shadow-sl-manhwa",
+    "title": "مانهوا عبد الظل",
+    "url": "https://cenele.com/cont/shadow-sl-manhwa",
+    "cover_url": "https://cenele.com/wp-content/uploads/2026/07/fe6309e6-f23d-4e93-907c-fada2e282045-175x238.webp",
+    "type": "رواية",
+    "status": "مستمر",
+    "rating": "",
+    "total_chapters": 0
+  },
+  {
+    "id": "legend-managem-bureau",
+    "title": "مكتب إدارة الأساطير",
+    "url": "https://cenele.com/cont/legend-managem-bureau",
+    "cover_url": "https://cenele.com/wp-content/uploads/2026/04/04d04a42-6e4b-4203-b93b-02ee1c5cfa8b-175x238.webp",
     "type": "رواية",
     "status": "مستمر",
     "rating": ""
@@ -422,28 +452,37 @@
     "rating": ""
   },
   {
+    "id": "sword-youngest-son",
+    "title": "رواية الإبن الأصغر لسيد السيف",
+    "url": "https://cenele.com/cont/sword-youngest-son",
+    "cover_url": "https://cenele.com/wp-content/uploads/2022/06/Picsart_23-01-09_21-50-29-958-1-175x238.jpg",
+    "type": "رواية",
+    "status": "مستمر",
+    "rating": ""
+  },
+  {
+    "id": "murim-psycho",
+    "title": "رواية مجنون في عالم الموريم",
+    "url": "https://cenele.com/cont/murim-psycho",
+    "cover_url": "https://cenele.com/wp-content/uploads/2026/02/d425bc4a-58e1-456e-a068-7bad4cd54655-175x238.webp",
+    "type": "رواية",
+    "status": "مستمر",
+    "rating": ""
+  },
+  {
+    "id": "rear-moon",
+    "title": "رواية حاصد القمر المنجرف",
+    "url": "https://cenele.com/cont/rear-moon",
+    "cover_url": "https://cenele.com/wp-content/uploads/2022/09/Picsart_22-11-05_08-49-41-297-175x238.webp",
+    "type": "رواية",
+    "status": "مستمر",
+    "rating": ""
+  },
+  {
     "id": "bastard-of-clan",
     "title": "العودة إلى التجسد كاللقيط المتجسد من عشيرة السيف",
     "url": "https://cenele.com/cont/bastard-of-clan",
     "cover_url": "https://cenele.com/wp-content/uploads/2026/08/f13d0d5f-d2c1-4f0e-8757-22064ad44cf7-175x238.jpg",
-    "type": "رواية",
-    "status": "مستمر",
-    "rating": ""
-  },
-  {
-    "id": "iron-dynasty-riwya",
-    "title": "سلالة الحديد",
-    "url": "https://cenele.com/cont/iron-dynasty-riwya",
-    "cover_url": "https://cenele.com/wp-content/uploads/2026/08/photo_2026-08-23_00-15-46-175x238.jpg",
-    "type": "رواية",
-    "status": "مستمر",
-    "rating": ""
-  },
-  {
-    "id": "the-vill-pov",
-    "title": "رواية منظور الشرير",
-    "url": "https://cenele.com/cont/the-vill-pov",
-    "cover_url": "https://cenele.com/wp-content/uploads/2024/06/4111fd56-1fa3-4849-9d48-744db3ac789f-175x238.webp",
     "type": "رواية",
     "status": "مستمر",
     "rating": ""
@@ -521,15 +560,6 @@
     "rating": ""
   },
   {
-    "id": "nine-hemon-body",
-    "title": "فن الجسد المهمين النجوم التسعة",
-    "url": "https://cenele.com/cont/nine-hemon-body",
-    "cover_url": "https://cenele.com/wp-content/uploads/2020/12/image_2022-12-17_120603829-175x238.png",
-    "type": "رواية",
-    "status": "مستمر",
-    "rating": ""
-  },
-  {
     "id": "star-gate-lord-of-time",
     "title": "بوابة النجوم: لورد الزمن",
     "url": "https://cenele.com/cont/star-gate-lord-of-time",
@@ -537,5 +567,1315 @@
     "type": "رواية",
     "status": "مستمر",
     "rating": ""
+  },
+  {
+    "id": "the-forgo-field",
+    "title": "رواية الحقل المنسي",
+    "url": "https://cenele.com/cont/the-forgo-field",
+    "cover_url": "https://cenele.com/wp-content/uploads/2026/05/001-175x238.webp",
+    "type": "رواية",
+    "status": "مستمر",
+    "rating": "",
+    "total_chapters": 0
+  },
+  {
+    "id": "weird-house",
+    "title": "البيت الغريب",
+    "url": "https://cenele.com/cont/weird-house",
+    "cover_url": "https://cenele.com/wp-content/uploads/2026/09/file_0000000003bc82109d7710268570f2a6-175x238.png",
+    "type": "رواية",
+    "status": "مستمر",
+    "rating": "",
+    "total_chapters": 0
+  },
+  {
+    "id": "nile-builder",
+    "title": "مهندس الحضارة المصرية",
+    "url": "https://cenele.com/cont/nile-builder",
+    "cover_url": "https://cenele.com/wp-content/uploads/2026/09/a8368d85-d7d8-417a-ab2a-eb0ab82acde8-175x238.webp",
+    "type": "رواية",
+    "status": "مستمر",
+    "rating": "",
+    "total_chapters": 0
+  },
+  {
+    "id": "3-days-of-hapins",
+    "title": "ثلاثة أيام من السعادة",
+    "url": "https://cenele.com/cont/3-days-of-hapins",
+    "cover_url": "https://cenele.com/wp-content/uploads/2026/09/2e1f4558-6f47-4d3a-95ad-3309ab20be79-175x238.webp",
+    "type": "رواية",
+    "status": "مستمر",
+    "rating": "",
+    "total_chapters": 0
+  },
+  {
+    "id": "and-the-king-of-night",
+    "title": "ميميزوكو وملك الليل",
+    "url": "https://cenele.com/cont/and-the-king-of-night",
+    "cover_url": "https://cenele.com/wp-content/uploads/2026/09/file_00000000e8bc81f4b84617c42426637f-175x238.png",
+    "type": "رواية",
+    "status": "مستمر",
+    "rating": "",
+    "total_chapters": 0
+  },
+  {
+    "id": "your-pancreas",
+    "title": "أريد أن اكل بنكرياسك",
+    "url": "https://cenele.com/cont/your-pancreas",
+    "cover_url": "https://cenele.com/wp-content/uploads/2026/09/2ee579a9-d93b-4a8f-82b8-356c77059963-175x238.webp",
+    "type": "رواية",
+    "status": "مستمر",
+    "rating": "",
+    "total_chapters": 0
+  },
+  {
+    "id": "the-eighteen-levels-of-hel",
+    "title": "مستويات الجحيم الثمانية عشر : الكذب ممنوع هنا",
+    "url": "https://cenele.com/cont/the-eighteen-levels-of-hel",
+    "cover_url": "https://cenele.com/wp-content/uploads/2026/08/ccdfe1b0-e75d-4c27-aa0d-8f7b646b9262-175x238.webp",
+    "type": "رواية",
+    "status": "مستمر",
+    "rating": "",
+    "total_chapters": 0
+  },
+  {
+    "id": "became-a-monster",
+    "title": "خلال اليل اصبح وحشاً",
+    "url": "https://cenele.com/cont/became-a-monster",
+    "cover_url": "https://cenele.com/wp-content/uploads/2026/09/01c5eb57-bd40-4773-829a-98dfccbfebb8-175x238.webp",
+    "type": "رواية",
+    "status": "مستمر",
+    "rating": "",
+    "total_chapters": 0
+  },
+  {
+    "id": "infin-mage",
+    "title": "الساحر اللانهائي",
+    "url": "https://cenele.com/cont/infin-mage",
+    "cover_url": "https://cenele.com/wp-content/uploads/2023/07/2a41b0f0-5e8c-4fdd-8ad2-a8256a4b3706-175x238.webp",
+    "type": "رواية",
+    "status": "مستمر",
+    "rating": "",
+    "total_chapters": 0
+  },
+  {
+    "id": "inf-core",
+    "title": "نواة الدم اللانهائية",
+    "url": "https://cenele.com/cont/inf-core",
+    "cover_url": "https://cenele.com/wp-content/uploads/2021/01/b-175x238.jpg",
+    "type": "رواية",
+    "status": "مستمر",
+    "rating": "",
+    "total_chapters": 0
+  },
+  {
+    "id": "the-hundred-re",
+    "title": "رواية المئة عهد",
+    "url": "https://cenele.com/cont/the-hundred-re",
+    "cover_url": "https://cenele.com/wp-content/uploads/2026/07/607d0046-e9b5-49e5-96a4-663b26f6f72b-175x238.webp",
+    "type": "رواية",
+    "status": "مستمر",
+    "rating": "",
+    "total_chapters": 0
+  },
+  {
+    "id": "the-ladys-sickly-husband",
+    "title": "زوج السيدة المريض",
+    "url": "https://cenele.com/cont/the-ladys-sickly-husband",
+    "cover_url": "https://cenele.com/wp-content/uploads/2021/02/زوج-السيدة-المريض-1-175x238.webp",
+    "type": "رواية",
+    "status": "مستمر",
+    "rating": "",
+    "total_chapters": 0
+  },
+  {
+    "id": "infinite-peculi-games",
+    "title": "اللعبة الغريبة اللامتناهية",
+    "url": "https://cenele.com/cont/infinite-peculi-games",
+    "cover_url": "https://cenele.com/wp-content/uploads/2026/05/3b52bb34-1d78-45a8-bc04-0c10a8bccb7c-175x238.webp",
+    "type": "رواية",
+    "status": "مستمر",
+    "rating": "",
+    "total_chapters": 0
+  },
+  {
+    "id": "regrers-ltivation",
+    "title": "حكايات زراعة العائد",
+    "url": "https://cenele.com/cont/regrers-ltivation",
+    "cover_url": "https://cenele.com/wp-content/uploads/2024/02/6dbf3c31-bd62-4b68-85cc-110041df09e3-175x238.webp",
+    "type": "رواية",
+    "status": "مستمر",
+    "rating": "",
+    "total_chapters": 0
+  },
+  {
+    "id": "%d9%85%d8%b0%d9%83%d8%b1%d8%a7%d8%aa-%d9%85%d8%b3%d8%a7%d9%81%d8%b1",
+    "title": "مذكرات مسافر",
+    "url": "https://cenele.com/cont/%d9%85%d8%b0%d9%83%d8%b1%d8%a7%d8%aa-%d9%85%d8%b3%d8%a7%d9%81%d8%b1",
+    "cover_url": "https://cenele.com/wp-content/uploads/2026/09/15688-1-175x238.png",
+    "type": "رواية",
+    "status": "مستمر",
+    "rating": "",
+    "total_chapters": 0
+  },
+  {
+    "id": "dao-bizarre-immortal",
+    "title": "داو الخالد العجيب",
+    "url": "https://cenele.com/cont/dao-bizarre-immortal",
+    "cover_url": "https://cenele.com/wp-content/uploads/2026/06/4d4788dc-da94-4033-a442-1bb85146a4dd-175x238.webp",
+    "type": "رواية",
+    "status": "مستمر",
+    "rating": "",
+    "total_chapters": 0
+  },
+  {
+    "id": "the-pral-hunter",
+    "title": "الصياد البدائي",
+    "url": "https://cenele.com/cont/the-pral-hunter",
+    "cover_url": "https://cenele.com/wp-content/uploads/2024/08/img_1724688035594-175x238.jpg",
+    "type": "رواية",
+    "status": "مستمر",
+    "rating": "",
+    "total_chapters": 0
+  },
+  {
+    "id": "orvnovel",
+    "title": "وجهة نظر قارئ يعرف كل شيء",
+    "url": "https://cenele.com/cont/orvnovel",
+    "cover_url": "https://cenele.com/wp-content/uploads/2026/05/19ed07ff-ed48-4b9a-8994-2e201de1185e-175x238.webp",
+    "type": "رواية",
+    "status": "مستمر",
+    "rating": "",
+    "total_chapters": 0
+  },
+  {
+    "id": "horror-game-develop",
+    "title": "مطور ألعاب رعب: ألعابي ليست مخيفةً لتلك الدرجة",
+    "url": "https://cenele.com/cont/horror-game-develop",
+    "cover_url": "https://cenele.com/wp-content/uploads/2026/08/F2C0420D-0458-4AFC-B72B-164A2933527F-175x238.png",
+    "type": "رواية",
+    "status": "مستمر",
+    "rating": "",
+    "total_chapters": 0
+  },
+  {
+    "id": "revere-insanity",
+    "title": "رواية القس المجنون",
+    "url": "https://cenele.com/cont/revere-insanity",
+    "cover_url": "https://cenele.com/wp-content/uploads/2020/12/7a5f91f7-1030-45e3-a10a-1b54b311cfe1-1-175x238.webp",
+    "type": "رواية",
+    "status": "مستمر",
+    "rating": "",
+    "total_chapters": 0
+  },
+  {
+    "id": "pick-me-riwyat",
+    "title": "رواية التقطني",
+    "url": "https://cenele.com/cont/pick-me-riwyat",
+    "cover_url": "https://cenele.com/wp-content/uploads/2026/06/AddText_-1-1-175x238.jpg",
+    "type": "رواية",
+    "status": "مستمر",
+    "rating": "",
+    "total_chapters": 0
+  },
+  {
+    "id": "a-sick-noble",
+    "title": "لقد اصبحت النبيل المريض",
+    "url": "https://cenele.com/cont/a-sick-noble",
+    "cover_url": "https://cenele.com/wp-content/uploads/2026/07/56ac8efb-f708-45d2-add0-3d4a9ff5dbdf-175x238.webp",
+    "type": "رواية",
+    "status": "مستمر",
+    "rating": "",
+    "total_chapters": 0
+  },
+  {
+    "id": "got-dropped-into-a-ghost-story-still-gott",
+    "title": "رواية حتى لو وقعت في قصة رعب يجب أن أذهب للعمل",
+    "url": "https://cenele.com/cont/got-dropped-into-a-ghost-story-still-gott",
+    "cover_url": "https://cenele.com/wp-content/uploads/2026/06/5920163125762133873-175x238.jpg",
+    "type": "رواية",
+    "status": "مستمر",
+    "rating": "",
+    "total_chapters": 0
+  },
+  {
+    "id": "red-rising",
+    "title": "رواية انتفاضة الحمر",
+    "url": "https://cenele.com/cont/red-rising",
+    "cover_url": "https://cenele.com/wp-content/uploads/2025/12/82cf7723-8ab5-4d13-8070-0a66580b106e-175x238.webp",
+    "type": "رواية",
+    "status": "مستمر",
+    "rating": "",
+    "total_chapters": 0
+  },
+  {
+    "id": "mir-legacy",
+    "title": "إرث المرآة",
+    "url": "https://cenele.com/cont/mir-legacy",
+    "cover_url": "https://cenele.com/wp-content/uploads/2026/02/file_00000000aef071f4891d52f40dc5a156-175x238.png",
+    "type": "رواية",
+    "status": "مستمر",
+    "rating": "",
+    "total_chapters": 0
+  },
+  {
+    "id": "knight-eternally-regresses",
+    "title": "الفارس الذي يتراجع إلى الأبد",
+    "url": "https://cenele.com/cont/knight-eternally-regresses",
+    "cover_url": "https://cenele.com/wp-content/uploads/2025/08/2b7f052a-574d-47f4-959d-e2667df83ee2-175x238.webp",
+    "type": "رواية",
+    "status": "مستمر",
+    "rating": "",
+    "total_chapters": 0
+  },
+  {
+    "id": "the-sinners-game",
+    "title": "لعبة المذنبين",
+    "url": "https://cenele.com/cont/the-sinners-game",
+    "cover_url": "https://cenele.com/wp-content/uploads/2026/06/feb0f9d9-73df-487c-b482-5a7bb7ada4b5-175x238.webp",
+    "type": "رواية",
+    "status": "مستمر",
+    "rating": "",
+    "total_chapters": 0
+  },
+  {
+    "id": "apartments-for-rent",
+    "title": "شقة للإيجار",
+    "url": "https://cenele.com/cont/apartments-for-rent",
+    "cover_url": "https://cenele.com/wp-content/uploads/2021/06/image_2022-01-08_074240-175x238.png",
+    "type": "رواية",
+    "status": "مستمر",
+    "rating": "",
+    "total_chapters": 0
+  },
+  {
+    "id": "shrouding-the-heave",
+    "title": "رواية تغطية السماوات",
+    "url": "https://cenele.com/cont/shrouding-the-heave",
+    "cover_url": "https://cenele.com/wp-content/uploads/2026/06/3b7850d0-d1ae-4287-948c-1d9f6076a45b-175x238.webp",
+    "type": "رواية",
+    "status": "مستمر",
+    "rating": "",
+    "total_chapters": 0
+  },
+  {
+    "id": "replay-of-the-eupporting-char",
+    "title": "إعادة تجسّد الشخصية الثانوية ذات الرتبة EX في الثانوية المرموقة",
+    "url": "https://cenele.com/cont/replay-of-the-eupporting-char",
+    "cover_url": "https://cenele.com/wp-content/uploads/2026/07/83c4f979-1ddf-4216-80c8-1ab9fb7459ec-175x238.webp",
+    "type": "رواية",
+    "status": "مستمر",
+    "rating": "",
+    "total_chapters": 0
+  },
+  {
+    "id": "i-am-not-the-of-drama",
+    "title": "انا لست حاكم دراما",
+    "url": "https://cenele.com/cont/i-am-not-the-of-drama",
+    "cover_url": "https://cenele.com/wp-content/uploads/2025/06/7702da74-2d85-474c-a693-c360810084da-175x238.webp",
+    "type": "رواية",
+    "status": "مستمر",
+    "rating": "",
+    "total_chapters": 0
+  },
+  {
+    "id": "lord-of-puluo-riwya",
+    "title": "رواية أفلورد بولو",
+    "url": "https://cenele.com/cont/lord-of-puluo-riwya",
+    "cover_url": "https://cenele.com/wp-content/uploads/2026/07/082f8eb1-096f-49c9-9522-3720fa51d319-175x238.webp",
+    "type": "رواية",
+    "status": "مستمر",
+    "rating": "",
+    "total_chapters": 0
+  },
+  {
+    "id": "novel-simulation",
+    "title": "رواية محاكاة زراعة الشيطان السماوي",
+    "url": "https://cenele.com/cont/novel-simulation",
+    "cover_url": "https://cenele.com/wp-content/uploads/2022/06/168595ad-a6e9-469c-8673-69052f18d116-175x238.webp",
+    "type": "رواية",
+    "status": "مستمر",
+    "rating": "",
+    "total_chapters": 0
+  },
+  {
+    "id": "the-collected-records-of-the-mysteries",
+    "title": "كتاب السجلات المجمعة للألغاز",
+    "url": "https://cenele.com/cont/the-collected-records-of-the-mysteries",
+    "cover_url": "https://cenele.com/wp-content/uploads/2021/10/5f30a75c-9063-4d0c-82f7-707fa551dd1e-175x238.webp",
+    "type": "رواية",
+    "status": "مستمر",
+    "rating": "",
+    "total_chapters": 0
+  },
+  {
+    "id": "tribulation-novel",
+    "title": "محنة الأجناس اللانهائية",
+    "url": "https://cenele.com/cont/tribulation-novel",
+    "cover_url": "https://cenele.com/wp-content/uploads/2023/09/2_20230921_233955_0001-175x238.png",
+    "type": "رواية",
+    "status": "مستمر",
+    "rating": "",
+    "total_chapters": 0
+  },
+  {
+    "id": "i-shall-novel",
+    "title": "لابد ان أختم السماوات",
+    "url": "https://cenele.com/cont/i-shall-novel",
+    "cover_url": "https://cenele.com/wp-content/uploads/2021/05/image_2022-12-19_164018219-175x238.png",
+    "type": "رواية",
+    "status": "مستمر",
+    "rating": "",
+    "total_chapters": 0
+  },
+  {
+    "id": "rene-immortal",
+    "title": "رواية الخالد المرتد",
+    "url": "https://cenele.com/cont/rene-immortal",
+    "cover_url": "https://cenele.com/wp-content/uploads/2021/04/8eb8ff46-2db7-4ded-9bca-c71dab02d165-175x238.webp",
+    "type": "رواية",
+    "status": "مستمر",
+    "rating": "",
+    "total_chapters": 0
+  },
+  {
+    "id": "i-can-take-people-ninja-world",
+    "title": "ناروتو : أسيطر على عوالم النينجا",
+    "url": "https://cenele.com/cont/i-can-take-people-ninja-world",
+    "cover_url": "https://cenele.com/wp-content/uploads/2026/04/76983970-904a-43b5-a4b4-73e41cc628dc-1-175x238.webp",
+    "type": "رواية",
+    "status": "مستمر",
+    "rating": "",
+    "total_chapters": 0
+  },
+  {
+    "id": "a-sorce-s-jour",
+    "title": "رحلة ساحر",
+    "url": "https://cenele.com/cont/a-sorce-s-jour",
+    "cover_url": "https://cenele.com/wp-content/uploads/2023/12/Picsart_24-06-21_09-56-27-964-175x238.png",
+    "type": "رواية",
+    "status": "مستمر",
+    "rating": "",
+    "total_chapters": 0
+  },
+  {
+    "id": "tending-the",
+    "title": "رواية تجاوز السماوات التسع",
+    "url": "https://cenele.com/cont/tending-the",
+    "cover_url": "https://cenele.com/wp-content/uploads/2021/02/image_2021-11-14_201503-175x238.png",
+    "type": "رواية",
+    "status": "مستمر",
+    "rating": "",
+    "total_chapters": 0
+  },
+  {
+    "id": "fantasy-assassin-in-a-modeorld",
+    "title": "رواية سفاح خيالي في عالم حديث",
+    "url": "https://cenele.com/cont/fantasy-assassin-in-a-modeorld",
+    "cover_url": "https://cenele.com/wp-content/uploads/2022/07/027552b9-f679-4cad-8f2f-7d3796537b72-175x238.webp",
+    "type": "رواية",
+    "status": "مستمر",
+    "rating": "",
+    "total_chapters": 0
+  },
+  {
+    "id": "infinite-malypse",
+    "title": "المانا اللانهائية في نهاية العالم",
+    "url": "https://cenele.com/cont/infinite-malypse",
+    "cover_url": "https://cenele.com/wp-content/uploads/2022/06/Picsart_22-12-19_20-11-14-646-768x1024-1-175x238.jpg",
+    "type": "رواية",
+    "status": "مستمر",
+    "rating": "",
+    "total_chapters": 0
+  },
+  {
+    "id": "ace-of-the-dragon-division",
+    "title": "العضو الغير عادي من شعبة التنين",
+    "url": "https://cenele.com/cont/ace-of-the-dragon-division",
+    "cover_url": "https://cenele.com/wp-content/uploads/2020/12/bbbe3a50-51d1-4298-b645-2b31299f7518-175x238.webp",
+    "type": "رواية",
+    "status": "مستمر",
+    "rating": "",
+    "total_chapters": 0
+  },
+  {
+    "id": "threadfall-beyond-death-into-chaos",
+    "title": "سقوط الخيط: ما بعد الموت، نحو الفوضى",
+    "url": "https://cenele.com/cont/threadfall-beyond-death-into-chaos",
+    "cover_url": "https://cenele.com/wp-content/uploads/2026/04/Arabic-Cover-175x238.jpeg",
+    "type": "رواية",
+    "status": "مستمر",
+    "rating": "",
+    "total_chapters": 0
+  },
+  {
+    "id": "cote",
+    "title": "رواية فصل النخبة",
+    "url": "https://cenele.com/cont/cote",
+    "cover_url": "https://cenele.com/wp-content/uploads/2026/05/image-104-175x238.jpg",
+    "type": "رواية",
+    "status": "مستمر",
+    "rating": "",
+    "total_chapters": 0
+  },
+  {
+    "id": "arch-novel-night",
+    "title": "عاهل الليل الأبدي",
+    "url": "https://cenele.com/cont/arch-novel-night",
+    "cover_url": "https://cenele.com/wp-content/uploads/2021/02/image_2021-11-14_201543-175x238.png",
+    "type": "رواية",
+    "status": "مستمر",
+    "rating": "",
+    "total_chapters": 0
+  },
+  {
+    "id": "book-dead",
+    "title": "كتاب الموتى",
+    "url": "https://cenele.com/cont/book-dead",
+    "cover_url": "https://cenele.com/wp-content/uploads/2024/06/7e7e55a7-22de-4d9f-9cee-ecfcdb5ffb98-175x238.webp",
+    "type": "رواية",
+    "status": "مستمر",
+    "rating": "",
+    "total_chapters": 0
+  },
+  {
+    "id": "monic-emror",
+    "title": "امبراطور الشيطاني",
+    "url": "https://cenele.com/cont/monic-emror",
+    "cover_url": "https://cenele.com/wp-content/uploads/2020/12/5b1014f0-1cd8-4ac2-8bd9-7e654dd9000b-175x238.webp",
+    "type": "رواية",
+    "status": "مستمر",
+    "rating": "",
+    "total_chapters": 0
+  },
+  {
+    "id": "free-fall",
+    "title": "رواية السقوط الحر",
+    "url": "https://cenele.com/cont/free-fall",
+    "cover_url": "https://cenele.com/wp-content/uploads/2026/04/Gemini_Generated_Image_dq3coadq3coadq3c_11zon-175x238.webp",
+    "type": "رواية",
+    "status": "مستمر",
+    "rating": "",
+    "total_chapters": 0
+  },
+  {
+    "id": "our-hotel-is-operatinrmally",
+    "title": "فندقُنا يباشرُ عملَهُ بصورةٍ طبيعيةٍ",
+    "url": "https://cenele.com/cont/our-hotel-is-operatinrmally",
+    "cover_url": "https://cenele.com/wp-content/uploads/2026/05/Untitled11_20260501185139-175x238.png",
+    "type": "رواية",
+    "status": "مستمر",
+    "rating": "",
+    "total_chapters": 0
+  },
+  {
+    "id": "the-demon-life",
+    "title": "لا يستطيع الشيطان السماوي أن يعيش حياة طبيعية",
+    "url": "https://cenele.com/cont/the-demon-life",
+    "cover_url": "https://cenele.com/wp-content/uploads/2022/05/image_2022-12-19_193208353-175x238.png",
+    "type": "رواية",
+    "status": "مستمر",
+    "rating": "",
+    "total_chapters": 0
+  },
+  {
+    "id": "ernal-sred-king",
+    "title": "الملك المقدس الابدي",
+    "url": "https://cenele.com/cont/ernal-sred-king",
+    "cover_url": "https://cenele.com/wp-content/uploads/2021/01/image_2022-12-22_082841722-175x238.png",
+    "type": "رواية",
+    "status": "مستمر",
+    "rating": "",
+    "total_chapters": 0
+  },
+  {
+    "id": "the-villainess-is-a-marionette",
+    "title": "الشريرة هي دمية متحركة",
+    "url": "https://cenele.com/cont/the-villainess-is-a-marionette",
+    "cover_url": "https://cenele.com/wp-content/uploads/2020/12/الشريرة-هي-دمية-متحركة-175x238.png",
+    "type": "رواية",
+    "status": "مستمر",
+    "rating": "",
+    "total_chapters": 0
+  },
+  {
+    "id": "comeback-villain",
+    "title": "عودة الشرير المخدوع",
+    "url": "https://cenele.com/cont/comeback-villain",
+    "cover_url": "https://cenele.com/wp-content/uploads/2025/04/الفصل-04-175x238.png",
+    "type": "رواية",
+    "status": "مستمر",
+    "rating": "",
+    "total_chapters": 0
+  },
+  {
+    "id": "beyond-the-time",
+    "title": "رواية ما وراء الزمن",
+    "url": "https://cenele.com/cont/beyond-the-time",
+    "cover_url": "https://cenele.com/wp-content/uploads/2025/03/png_20220913_234418_-1-copy-1-175x238.webp",
+    "type": "رواية",
+    "status": "مستمر",
+    "rating": "",
+    "total_chapters": 0
+  },
+  {
+    "id": "sword-of-coming",
+    "title": "مجيء السيف",
+    "url": "https://cenele.com/cont/sword-of-coming",
+    "cover_url": "https://cenele.com/wp-content/uploads/2025/07/unnamed-175x238.webp",
+    "type": "رواية",
+    "status": "مستمر",
+    "rating": "",
+    "total_chapters": 0
+  },
+  {
+    "id": "mommy-villai",
+    "title": "الأم الشريرة",
+    "url": "https://cenele.com/cont/mommy-villai",
+    "cover_url": "https://cenele.com/wp-content/uploads/2021/01/الام-الشريرة-175x238.png",
+    "type": "رواية",
+    "status": "مستمر",
+    "rating": "",
+    "total_chapters": 0
+  },
+  {
+    "id": "s-for-revenge",
+    "title": "أقوى شجاع يتوق إلى الانتقام بقوة الظلام",
+    "url": "https://cenele.com/cont/s-for-revenge",
+    "cover_url": "https://cenele.com/wp-content/uploads/2021/01/def-175x238.png",
+    "type": "رواية",
+    "status": "مستمر",
+    "rating": "",
+    "total_chapters": 0
+  },
+  {
+    "id": "perfect-secret-love-the-bad-new-wife-is-a-little-sweet",
+    "title": "الحب السري المثالي: الزوجة الجديدة السيئة الطيفة قليلاً",
+    "url": "https://cenele.com/cont/perfect-secret-love-the-bad-new-wife-is-a-little-sweet",
+    "cover_url": "https://cenele.com/wp-content/uploads/2020/12/Perfect-Secret-Love-The-Bad-New-Wife-175x238.png",
+    "type": "رواية",
+    "status": "مستمر",
+    "rating": "",
+    "total_chapters": 0
+  },
+  {
+    "id": "vampir-novel",
+    "title": "كيف يعيش لورد مصاص دماء",
+    "url": "https://cenele.com/cont/vampir-novel",
+    "cover_url": "https://cenele.com/wp-content/uploads/2021/08/image_2022-12-17_105652030-1-175x238.webp",
+    "type": "رواية",
+    "status": "مستمر",
+    "rating": "",
+    "total_chapters": 0
+  },
+  {
+    "id": "the-wizard-world",
+    "title": "عالم السحرة",
+    "url": "https://cenele.com/cont/the-wizard-world",
+    "cover_url": "https://cenele.com/wp-content/uploads/2022/06/Remini20220606002505135-175x238.jpg",
+    "type": "رواية",
+    "status": "مستمر",
+    "rating": "",
+    "total_chapters": 0
+  },
+  {
+    "id": "of-sun-kght",
+    "title": "أسطورة فارس الشمس",
+    "url": "https://cenele.com/cont/of-sun-kght",
+    "cover_url": "https://cenele.com/wp-content/uploads/2022/06/image_2022-06-04_145802440-175x238.png",
+    "type": "رواية",
+    "status": "مستمر",
+    "rating": "",
+    "total_chapters": 0
+  },
+  {
+    "id": "record-jrney-to",
+    "title": "سجل رحلة بشري إلى الخلود",
+    "url": "https://cenele.com/cont/record-jrney-to",
+    "cover_url": "https://cenele.com/wp-content/uploads/2021/01/سجل-رحلة-بشري-175x238.png",
+    "type": "رواية",
+    "status": "مستمر",
+    "rating": "",
+    "total_chapters": 0
+  },
+  {
+    "id": "gene-ascens",
+    "title": "الصعود الجيني",
+    "url": "https://cenele.com/cont/gene-ascens",
+    "cover_url": "https://cenele.com/wp-content/uploads/2025/05/الصعود-1-1-175x238.webp",
+    "type": "رواية",
+    "status": "مستمر",
+    "rating": "",
+    "total_chapters": 0
+  },
+  {
+    "id": "rebirth-on-the-doors-bureau",
+    "title": "ولادة جديدة على ابواب مكتب الشؤون المدنية",
+    "url": "https://cenele.com/cont/rebirth-on-the-doors-bureau",
+    "cover_url": "https://cenele.com/wp-content/uploads/2025/07/9392395e8d029aff8f6823dee6806fac-175x238.png",
+    "type": "رواية",
+    "status": "مستمر",
+    "rating": "",
+    "total_chapters": 0
+  },
+  {
+    "id": "the-rich-second-generation-villains-father",
+    "title": "الأب الغني الشرير من الجيل الثاني",
+    "url": "https://cenele.com/cont/the-rich-second-generation-villains-father",
+    "cover_url": "https://cenele.com/wp-content/uploads/2021/12/الأب-الغني-من-الجيل-الثاني-الشرير-2_optimized_optimized-175x238.jpg",
+    "type": "رواية",
+    "status": "مستمر",
+    "rating": "",
+    "total_chapters": 0
+  },
+  {
+    "id": "my-wife-spoils-me-too-much",
+    "title": "رواية زوجتي تدللني كثيرا",
+    "url": "https://cenele.com/cont/my-wife-spoils-me-too-much",
+    "cover_url": "https://cenele.com/wp-content/uploads/2020/12/227831187-256-k148678-1-175x238.png",
+    "type": "رواية",
+    "status": "مستمر",
+    "rating": "",
+    "total_chapters": 0
+  },
+  {
+    "id": "our-wedding",
+    "title": "الزواج خاصتنا",
+    "url": "https://cenele.com/cont/our-wedding",
+    "cover_url": "https://cenele.com/wp-content/uploads/2021/02/dfdfdfdf-175x238.png",
+    "type": "رواية",
+    "status": "مستمر",
+    "rating": "",
+    "total_chapters": 0
+  },
+  {
+    "id": "please-confess-to-me",
+    "title": "من فضلك اعترف لي بحبك",
+    "url": "https://cenele.com/cont/please-confess-to-me",
+    "cover_url": "https://cenele.com/wp-content/uploads/2021/03/sdsdsd-175x238.png",
+    "type": "رواية",
+    "status": "مستمر",
+    "rating": "",
+    "total_chapters": 0
+  },
+  {
+    "id": "king-of-beas",
+    "title": "مَلِكُ الوحوشْ",
+    "url": "https://cenele.com/cont/king-of-beas",
+    "cover_url": "https://cenele.com/wp-content/uploads/2024/10/king-of-beasts-175x238.webp",
+    "type": "رواية",
+    "status": "مستمر",
+    "rating": "",
+    "total_chapters": 0
+  },
+  {
+    "id": "kiill-sun",
+    "title": "رواية قتل الشمس",
+    "url": "https://cenele.com/cont/kiill-sun",
+    "cover_url": "https://cenele.com/wp-content/uploads/2024/11/٢٠٢٥٠١٠١_١١١٤٣٥-175x238.jpg",
+    "type": "رواية",
+    "status": "مستمر",
+    "rating": "",
+    "total_chapters": 0
+  },
+  {
+    "id": "dimensional-stor",
+    "title": "أمينُ متجر الأبعاد",
+    "url": "https://cenele.com/cont/dimensional-stor",
+    "cover_url": "https://cenele.com/wp-content/uploads/2025/05/الأمين_MoreDetail-v3_x2_1080x1440_2pass_MoreDetail-v3-175x238.png",
+    "type": "رواية",
+    "status": "مستمر",
+    "rating": "",
+    "total_chapters": 0
+  },
+  {
+    "id": "global-awakening-apocalypse-enders-chronicle",
+    "title": "الصحوة العالمية : سجلات إنهاء نهاية العالم",
+    "url": "https://cenele.com/cont/global-awakening-apocalypse-enders-chronicle",
+    "cover_url": "https://cenele.com/wp-content/uploads/2025/05/سجلات-175x238.png",
+    "type": "رواية",
+    "status": "مستمر",
+    "rating": "",
+    "total_chapters": 0
+  },
+  {
+    "id": "heirs-of-the-heavens",
+    "title": "ورثة السماوات",
+    "url": "https://cenele.com/cont/heirs-of-the-heavens",
+    "cover_url": "https://cenele.com/wp-content/uploads/2021/05/193164095_317085990006296_1879950619087892540_n-175x238.png",
+    "type": "رواية",
+    "status": "مستمر",
+    "rating": "",
+    "total_chapters": 0
+  },
+  {
+    "id": "genius-martial-arts-trainer",
+    "title": "المدرب العبقري للفنون القتالية",
+    "url": "https://cenele.com/cont/genius-martial-arts-trainer",
+    "cover_url": "https://cenele.com/wp-content/uploads/2024/11/1723201436_genius-martial-arts-trainer-175x238.webp",
+    "type": "رواية",
+    "status": "مستمر",
+    "rating": "",
+    "total_chapters": 0
+  },
+  {
+    "id": "invincib",
+    "title": "لا يقهر",
+    "url": "https://cenele.com/cont/invincib",
+    "cover_url": "https://cenele.com/wp-content/uploads/2023/11/7cd7cfdd-637a-4021-8322-723e61a3ba38-175x238.webp",
+    "type": "رواية",
+    "status": "مستمر",
+    "rating": "",
+    "total_chapters": 0
+  },
+  {
+    "id": "the-strong-sys",
+    "title": "التناسخ مع النظام الأقوى",
+    "url": "https://cenele.com/cont/the-strong-sys",
+    "cover_url": "https://cenele.com/wp-content/uploads/2022/07/التناسخ-مع-النظام-الأقوى-175x238.png",
+    "type": "رواية",
+    "status": "مستمر",
+    "rating": "",
+    "total_chapters": 0
+  },
+  {
+    "id": "ke-im-mortal",
+    "title": "خالد الكيبورد",
+    "url": "https://cenele.com/cont/ke-im-mortal",
+    "cover_url": "https://cenele.com/wp-content/uploads/2021/02/image_2022-12-22_082919027-175x238.png",
+    "type": "رواية",
+    "status": "مستمر",
+    "rating": "",
+    "total_chapters": 0
+  },
+  {
+    "id": "lwtgn",
+    "title": "رواية الارتقاء رفقة الحكام",
+    "url": "https://cenele.com/cont/lwtgn",
+    "cover_url": "https://cenele.com/wp-content/uploads/2021/08/Picsart_23-01-18_14-54-25-754-175x238.jpg",
+    "type": "رواية",
+    "status": "مستمر",
+    "rating": "",
+    "total_chapters": 0
+  },
+  {
+    "id": "return-legendary-master",
+    "title": "عودة السيد الشامل الأسطوري",
+    "url": "https://cenele.com/cont/return-legendary-master",
+    "cover_url": "https://cenele.com/wp-content/uploads/2024/07/Picsart_24-07-04_23-25-59-750-175x238.jpg",
+    "type": "رواية",
+    "status": "مستمر",
+    "rating": "",
+    "total_chapters": 0
+  },
+  {
+    "id": "sand-mag-the-burnesert",
+    "title": "ساحر الرمال في الصحراء المحترقة",
+    "url": "https://cenele.com/cont/sand-mag-the-burnesert",
+    "cover_url": "https://cenele.com/wp-content/uploads/2023/12/Picsart_24-06-25_22-22-02-630-175x238.jpg",
+    "type": "رواية",
+    "status": "مستمر",
+    "rating": "",
+    "total_chapters": 0
+  },
+  {
+    "id": "return-back-into-the-novel",
+    "title": "رواية تناسخ الشرير",
+    "url": "https://cenele.com/cont/return-back-into-the-novel",
+    "cover_url": "https://cenele.com/wp-content/uploads/2021/08/رواية-Return-back-into-the-Novel-as-the-Antagonistic-Playboy-175x238.png",
+    "type": "رواية",
+    "status": "مستمر",
+    "rating": "",
+    "total_chapters": 0
+  },
+  {
+    "id": "to-the-immortal-path",
+    "title": "الطموح للمسار الخالد",
+    "url": "https://cenele.com/cont/to-the-immortal-path",
+    "cover_url": "https://cenele.com/wp-content/uploads/2024/08/6db7a4c1-a12c-445b-92f4-36dd52193839-175x238.webp",
+    "type": "رواية",
+    "status": "مستمر",
+    "rating": "",
+    "total_chapters": 0
+  },
+  {
+    "id": "dent-of-the-dmon",
+    "title": "رواية نزول الشيطان",
+    "url": "https://cenele.com/cont/dent-of-the-dmon",
+    "cover_url": "https://cenele.com/wp-content/uploads/2021/08/Picsart_22-12-07_12-32-14-613-1-1-optimized-175x238.webp",
+    "type": "رواية",
+    "status": "مستمر",
+    "rating": "",
+    "total_chapters": 0
+  },
+  {
+    "id": "thundless-necro-mancer",
+    "title": "رواية مستحضر الأرواح لا متناهٍ",
+    "url": "https://cenele.com/cont/thundless-necro-mancer",
+    "cover_url": "https://cenele.com/wp-content/uploads/2023/01/PhotoStudio_1673387011712-175x238.jpeg",
+    "type": "رواية",
+    "status": "مستمر",
+    "rating": "",
+    "total_chapters": 0
+  },
+  {
+    "id": "your-taln",
+    "title": "موهبتك ملكي",
+    "url": "https://cenele.com/cont/your-taln",
+    "cover_url": "https://cenele.com/wp-content/uploads/2024/05/موهبتك-ملكي-175x238.png",
+    "type": "رواية",
+    "status": "مستمر",
+    "rating": "",
+    "total_chapters": 0
+  },
+  {
+    "id": "inhuma-rlock",
+    "title": "رواية المشعوذ الا انساني",
+    "url": "https://cenele.com/cont/inhuma-rlock",
+    "cover_url": "https://cenele.com/wp-content/uploads/2021/04/المشعوذ-الا-انساني-175x238.png",
+    "type": "رواية",
+    "status": "مستمر",
+    "rating": "",
+    "total_chapters": 0
+  },
+  {
+    "id": "sued-slaterer",
+    "title": "الذابِحُ المُسْتَدْعى",
+    "url": "https://cenele.com/cont/sued-slaterer",
+    "cover_url": "https://cenele.com/wp-content/uploads/2024/03/رواية-الذابح-المستدعي-175x238.png",
+    "type": "رواية",
+    "status": "مستمر",
+    "rating": "",
+    "total_chapters": 0
+  },
+  {
+    "id": "back-then-i-adored-you",
+    "title": "في ذلك الوقت ، كنت أعشقك",
+    "url": "https://cenele.com/cont/back-then-i-adored-you",
+    "cover_url": "https://cenele.com/wp-content/uploads/2021/01/في-ذلك-الوقت-،-كنت-أعشقك-175x238.png",
+    "type": "رواية",
+    "status": "مستمر",
+    "rating": "",
+    "total_chapters": 0
+  },
+  {
+    "id": "the-master",
+    "title": "أكرم سيد على الإطلاق",
+    "url": "https://cenele.com/cont/the-master",
+    "cover_url": "https://cenele.com/wp-content/uploads/2023/06/أكرم-سيد-على-الإطلاق-175x238.png",
+    "type": "رواية",
+    "status": "مستمر",
+    "rating": "",
+    "total_chapters": 0
+  },
+  {
+    "id": "soundnd-of-tdrag-kig",
+    "title": "أرض الروح : أسطورة التنين",
+    "url": "https://cenele.com/cont/soundnd-of-tdrag-kig",
+    "cover_url": "https://cenele.com/wp-content/uploads/2022/05/image_2022-06-25_100026147-175x238.png",
+    "type": "رواية",
+    "status": "مستمر",
+    "rating": "",
+    "total_chapters": 0
+  },
+  {
+    "id": "hea-star",
+    "title": "رواية النجم السماوي",
+    "url": "https://cenele.com/cont/hea-star",
+    "cover_url": "https://cenele.com/wp-content/uploads/2021/05/1610137311_heavenly-star-175x238.png",
+    "type": "رواية",
+    "status": "مستمر",
+    "rating": "",
+    "total_chapters": 0
+  },
+  {
+    "id": "since-the-d-moonppeared",
+    "title": "منذ ظهور القمر الأحمر",
+    "url": "https://cenele.com/cont/since-the-d-moonppeared",
+    "cover_url": "https://cenele.com/wp-content/uploads/2023/09/منذ-ظهور-175x238.png",
+    "type": "رواية",
+    "status": "مستمر",
+    "rating": "",
+    "total_chapters": 0
+  },
+  {
+    "id": "the-novels-villa",
+    "title": "شرير الرواية",
+    "url": "https://cenele.com/cont/the-novels-villa",
+    "cover_url": "https://cenele.com/wp-content/uploads/2021/09/شرير-الرواية-175x238.png",
+    "type": "رواية",
+    "status": "مستمر",
+    "rating": "",
+    "total_chapters": 0
+  },
+  {
+    "id": "the-protagonistsered",
+    "title": "أبطال الرواية المذبوحون من طرفي",
+    "url": "https://cenele.com/cont/the-protagonistsered",
+    "cover_url": "https://cenele.com/wp-content/uploads/2022/04/Picsart_23-11-15_23-38-18-758-175x238.jpg",
+    "type": "رواية",
+    "status": "مستمر",
+    "rating": "",
+    "total_chapters": 0
+  },
+  {
+    "id": "drk-phoex-price",
+    "title": "أمِيرُ عَنْقاءِ الظَلامِ",
+    "url": "https://cenele.com/cont/drk-phoex-price",
+    "cover_url": "https://cenele.com/wp-content/uploads/2023/11/Picsart_23-11-18_15-58-51-422-175x238.jpg",
+    "type": "رواية",
+    "status": "مستمر",
+    "rating": "",
+    "total_chapters": 0
+  },
+  {
+    "id": "a-dungeon-cultivation",
+    "title": "لقد أنشأت زنزانة في عالم الزراعة",
+    "url": "https://cenele.com/cont/a-dungeon-cultivation",
+    "cover_url": "https://cenele.com/wp-content/uploads/2023/09/28416742700895805-175x238.png",
+    "type": "رواية",
+    "status": "مستمر",
+    "rating": "",
+    "total_chapters": 0
+  },
+  {
+    "id": "devil-law",
+    "title": "رواية صهر الشيطان",
+    "url": "https://cenele.com/cont/devil-law",
+    "cover_url": "https://cenele.com/wp-content/uploads/2022/01/image_2022-12-20_091054736-175x238.png",
+    "type": "رواية",
+    "status": "مستمر",
+    "rating": "",
+    "total_chapters": 0
+  },
+  {
+    "id": "the-stttas-war",
+    "title": "حرب المعجزات",
+    "url": "https://cenele.com/cont/the-stttas-war",
+    "cover_url": "https://cenele.com/wp-content/uploads/2022/04/image_2022-04-25_014728781-175x238.png",
+    "type": "رواية",
+    "status": "مستمر",
+    "rating": "",
+    "total_chapters": 0
+  },
+  {
+    "id": "past-life-returner",
+    "title": "عائد إلى الحياة الماضية",
+    "url": "https://cenele.com/cont/past-life-returner",
+    "cover_url": "https://cenele.com/wp-content/uploads/2022/05/image_2022-09-09_221513071-175x238.webp",
+    "type": "رواية",
+    "status": "مستمر",
+    "rating": "",
+    "total_chapters": 0
+  },
+  {
+    "id": "mtial-cator",
+    "title": "رواية المزراع القتالي",
+    "url": "https://cenele.com/cont/mtial-cator",
+    "cover_url": "https://cenele.com/wp-content/uploads/2023/06/1607f59a-4579-45d7-b503-2b568ecf11c5-175x238.webp",
+    "type": "رواية",
+    "status": "مستمر",
+    "rating": "",
+    "total_chapters": 0
+  },
+  {
+    "id": "wants-to-live",
+    "title": "الشرير يريد العيش",
+    "url": "https://cenele.com/cont/wants-to-live",
+    "cover_url": "https://cenele.com/wp-content/uploads/2021/09/The-Villain-Wants-to-2-175x238.png",
+    "type": "رواية",
+    "status": "مستمر",
+    "rating": "",
+    "total_chapters": 0
+  },
+  {
+    "id": "the-return",
+    "title": "رواية عودة الشفق السامي",
+    "url": "https://cenele.com/cont/the-return",
+    "cover_url": "https://cenele.com/wp-content/uploads/2023/02/Picsart_23-01-28_20-04-12-859-175x238.jpg",
+    "type": "رواية",
+    "status": "مستمر",
+    "rating": "",
+    "total_chapters": 0
+  },
+  {
+    "id": "city-sin",
+    "title": "مدينة الخطيئة",
+    "url": "https://cenele.com/cont/city-sin",
+    "cover_url": "https://cenele.com/wp-content/uploads/2020/12/sdf-175x238.png",
+    "type": "رواية",
+    "status": "مستمر",
+    "rating": "",
+    "total_chapters": 0
+  },
+  {
+    "id": "livestream-the-adjudicator-of-death",
+    "title": "رواية البث المباشر: حاكم الموت",
+    "url": "https://cenele.com/cont/livestream-the-adjudicator-of-death",
+    "cover_url": "https://cenele.com/wp-content/uploads/2021/05/البث-المباشر-حاكم-الموت-175x238.png",
+    "type": "رواية",
+    "status": "مستمر",
+    "rating": "",
+    "total_chapters": 0
+  },
+  {
+    "id": "the-return-of-the-crazy-demon",
+    "title": "عودة الشيطان المجنون",
+    "url": "https://cenele.com/cont/the-return-of-the-crazy-demon",
+    "cover_url": "https://cenele.com/wp-content/uploads/2022/06/Picsart_22-11-18_00-38-49-282-175x238.jpg",
+    "type": "رواية",
+    "status": "مستمر",
+    "rating": "",
+    "total_chapters": 0
+  },
+  {
+    "id": "libbbrary-novel",
+    "title": "مكتبة مسار السماء",
+    "url": "https://cenele.com/cont/libbbrary-novel",
+    "cover_url": "https://cenele.com/wp-content/uploads/2022/10/Picsart_22-12-25_19-30-53-753-175x238.jpg",
+    "type": "رواية",
+    "status": "مستمر",
+    "rating": "",
+    "total_chapters": 0
+  },
+  {
+    "id": "rise-of-humanity",
+    "title": "صعود الإنسانية",
+    "url": "https://cenele.com/cont/rise-of-humanity",
+    "cover_url": "https://cenele.com/wp-content/uploads/2022/10/image_2022-10-11_173255879-175x238.png",
+    "type": "رواية",
+    "status": "مستمر",
+    "rating": "",
+    "total_chapters": 0
+  },
+  {
+    "id": "surviving",
+    "title": "البقاء على قيد الحياة في عالم شونين مانجا",
+    "url": "https://cenele.com/cont/surviving",
+    "cover_url": "https://cenele.com/wp-content/uploads/2022/07/البقاء-على-قيد-الحياة-في-عالم-شونين-مانجا-175x238.png",
+    "type": "رواية",
+    "status": "مستمر",
+    "rating": "",
+    "total_chapters": 0
+  },
+  {
+    "id": "against-the-gods",
+    "title": "رواية ضد",
+    "url": "https://cenele.com/cont/against-the-gods",
+    "cover_url": "https://cenele.com/wp-content/uploads/2020/12/ضد-الالهة-175x238.jpg",
+    "type": "رواية",
+    "status": "مستمر",
+    "rating": "",
+    "total_chapters": 0
+  },
+  {
+    "id": "fist-demof-nt-hua",
+    "title": "رواية قبضة جبل شيطان هوا",
+    "url": "https://cenele.com/cont/fist-demof-nt-hua",
+    "cover_url": "https://cenele.com/wp-content/uploads/2022/09/قبضة-جبل-شيطان-هوا-175x238.png",
+    "type": "رواية",
+    "status": "مستمر",
+    "rating": "",
+    "total_chapters": 0
+  },
+  {
+    "id": "the-hum-empr",
+    "title": "الإمبراطور البشري",
+    "url": "https://cenele.com/cont/the-hum-empr",
+    "cover_url": "https://cenele.com/wp-content/uploads/2022/08/189a9481c8f37d64a9b36d287d3041b6258743e4-175x238.png",
+    "type": "رواية",
+    "status": "مستمر",
+    "rating": "",
+    "total_chapters": 0
+  },
+  {
+    "id": "absolute-resonance",
+    "title": "الرنين المطلق",
+    "url": "https://cenele.com/cont/absolute-resonance",
+    "cover_url": "https://cenele.com/wp-content/uploads/2021/08/resonance-175x238.jpg",
+    "type": "رواية",
+    "status": "مستمر",
+    "rating": "",
+    "total_chapters": 0
+  },
+  {
+    "id": "he-way",
+    "title": "الرغبة في المسار",
+    "url": "https://cenele.com/cont/he-way",
+    "cover_url": "https://cenele.com/wp-content/uploads/2022/06/Questioning-Heaven-Desiring-the-Way-1-175x238.jpg",
+    "type": "رواية",
+    "status": "مستمر",
+    "rating": "",
+    "total_chapters": 0
+  },
+  {
+    "id": "hero-of-darkness",
+    "title": "بطل الظلام",
+    "url": "https://cenele.com/cont/hero-of-darkness",
+    "cover_url": "https://cenele.com/wp-content/uploads/2022/06/بطل-الظلام-175x238.png",
+    "type": "رواية",
+    "status": "مستمر",
+    "rating": "",
+    "total_chapters": 0
+  },
+  {
+    "id": "the-villan-sword",
+    "title": "سيف الشرير حاد",
+    "url": "https://cenele.com/cont/the-villan-sword",
+    "cover_url": "https://cenele.com/wp-content/uploads/2021/11/image_2022-01-10_133117-175x238.png",
+    "type": "رواية",
+    "status": "مستمر",
+    "rating": "",
+    "total_chapters": 0
+  },
+  {
+    "id": "worm",
+    "title": "رواية Worm",
+    "url": "https://cenele.com/cont/worm",
+    "cover_url": "https://cenele.com/wp-content/uploads/2022/05/image_2022-05-12_211022935-175x238.png",
+    "type": "رواية",
+    "status": "مستمر",
+    "rating": "",
+    "total_chapters": 0
+  },
+  {
+    "id": "reformation-of-the-deadbeat-noble",
+    "title": "إصلاح النبيل الكسول",
+    "url": "https://cenele.com/cont/reformation-of-the-deadbeat-noble",
+    "cover_url": "https://cenele.com/wp-content/uploads/2022/05/ufCiDfBWoV353q0CLkcI5Clan8xK0ZQI54yfg2FN-175x238.png",
+    "type": "رواية",
+    "status": "مستمر",
+    "rating": "",
+    "total_chapters": 0
+  },
+  {
+    "id": "my-jsfurney-to-gdod-a",
+    "title": "رواية رحلتي كيرقة الى الخلود",
+    "url": "https://cenele.com/cont/my-jsfurney-to-gdod-a",
+    "cover_url": "https://cenele.com/wp-content/uploads/2022/04/0120-1-1-175x238.webp",
+    "type": "رواية",
+    "status": "مستمر",
+    "rating": "",
+    "total_chapters": 0
+  },
+  {
+    "id": "tribe-i-became-invincible-w",
+    "title": "القبيلة: أصبحت لا أقهر بمكافأتي التي تبلغ 10.000 ضعف منذ البداية",
+    "url": "https://cenele.com/cont/tribe-i-became-invincible-w",
+    "cover_url": "https://cenele.com/wp-content/uploads/2022/04/Tribe-175x238.png",
+    "type": "رواية",
+    "status": "مستمر",
+    "rating": "",
+    "total_chapters": 0
+  },
+  {
+    "id": "rankers-return",
+    "title": "عودة صاحب المرتبة",
+    "url": "https://cenele.com/cont/rankers-return",
+    "cover_url": "https://cenele.com/wp-content/uploads/2022/04/عودة-صاحب-المرتبة-175x238.png",
+    "type": "رواية",
+    "status": "مستمر",
+    "rating": "",
+    "total_chapters": 0
+  },
+  {
+    "id": "ancient-fiend-dragon-emperor",
+    "title": "الامبراطور الشيطاني القديم",
+    "url": "https://cenele.com/cont/ancient-fiend-dragon-emperor",
+    "cover_url": "https://cenele.com/wp-content/uploads/2021/08/الامبراطور-الشيطاني-175x238.png",
+    "type": "رواية",
+    "status": "مستمر",
+    "rating": "",
+    "total_chapters": 0
+  },
+  {
+    "id": "lord-of-the-oasis",
+    "title": "سيد الواحة",
+    "url": "https://cenele.com/cont/lord-of-the-oasis",
+    "cover_url": "https://cenele.com/wp-content/uploads/2022/03/لورد-الواحة-175x238.png",
+    "type": "رواية",
+    "status": "مستمر",
+    "rating": "",
+    "total_chapters": 0
+  },
+  {
+    "id": "traffords-tradingub",
+    "title": "نادي ترافورد التجاري",
+    "url": "https://cenele.com/cont/traffords-tradingub",
+    "cover_url": "https://cenele.com/wp-content/uploads/2021/07/نادي-ترافورد-للتداول-175x238.png",
+    "type": "رواية",
+    "status": "مستمر",
+    "rating": "",
+    "total_chapters": 0
+  },
+  {
+    "id": "dung-defense-ln",
+    "title": "دفاع الخنادق",
+    "url": "https://cenele.com/cont/dung-defense-ln",
+    "cover_url": "https://cenele.com/wp-content/uploads/2022/01/رواية-دفاع-الخنادق-1-1-1-1-175x238.png",
+    "type": "رواية",
+    "status": "مستمر",
+    "rating": "",
+    "total_chapters": 0
+  },
+  {
+    "id": "unparalleled-after-ten-consecutive-draws",
+    "title": "لا مثيل له بعد عشر سحبات متتالية",
+    "url": "https://cenele.com/cont/unparalleled-after-ten-consecutive-draws",
+    "cover_url": "https://cenele.com/wp-content/uploads/2021/10/لا-مثيل-له-بعد-عشر-سحبات-متتالية-175x238.png",
+    "type": "رواية",
+    "status": "مستمر",
+    "rating": "",
+    "total_chapters": 0
+  },
+  {
+    "id": "the-academys-deceased-ate-it-all",
+    "title": "الأكاديمي الميت يأكل كل شيء",
+    "url": "https://cenele.com/cont/the-academys-deceased-ate-it-all",
+    "cover_url": "https://cenele.com/wp-content/uploads/2022/01/dac19d0d16268a57-175x238.jpg",
+    "type": "رواية",
+    "status": "مستمر",
+    "rating": "",
+    "total_chapters": 0
+  },
+  {
+    "id": "fostering-the-male-lead",
+    "title": "رواية Fostering the Male Lead",
+    "url": "https://cenele.com/cont/fostering-the-male-lead",
+    "cover_url": "https://cenele.com/wp-content/uploads/2021/12/image_2021-12-09_174020_optimized-175x238.jpg",
+    "type": "رواية",
+    "status": "مستمر",
+    "rating": "",
+    "total_chapters": 0
+  },
+  {
+    "id": "master-of-untold-dao",
+    "title": "سيد الداو العظيم",
+    "url": "https://cenele.com/cont/master-of-untold-dao",
+    "cover_url": "https://cenele.com/wp-content/uploads/2020/12/unknown-175x238.jpg",
+    "type": "رواية",
+    "status": "مستمر",
+    "rating": "",
+    "total_chapters": 0
+  },
+  {
+    "id": "deat-sutra",
+    "title": "سوترا الموت",
+    "url": "https://cenele.com/cont/deat-sutra",
+    "cover_url": "https://cenele.com/wp-content/uploads/2021/03/39a58b54-8900-418c-8273-58fb8bedd70e-175x238.webp",
+    "type": "رواية",
+    "status": "مستمر",
+    "rating": "",
+    "total_chapters": 0
+  },
+  {
+    "id": "ep-of-the-sage",
+    "title": "ملحمة الحكيم الشيطاني",
+    "url": "https://cenele.com/cont/ep-of-the-sage",
+    "cover_url": "https://cenele.com/wp-content/uploads/2021/09/photo_2026-08-13_14-16-07-175x238.jpg",
+    "type": "رواية",
+    "status": "مستمر",
+    "rating": "",
+    "total_chapters": 0
   }
 ]
