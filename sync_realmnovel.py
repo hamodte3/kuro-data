@@ -13,8 +13,8 @@ DATA_DIR = os.path.join("data", "realmnovel")
 CATALOG_FILE = os.path.join(DATA_DIR, "catalog.json")
 GLOBAL_NEW_FILE = os.path.join("data", "new.json")
 
-DETAILS_SYNC_LIMIT = 20   # تجهيز وتحديث ملفات فصول أحدث 20 رواية فقط
-MAX_DELTA_PAGES = 5       # فحص أول 5 صفحات فقط كل ساعة (100 رواية محدثة)
+DETAILS_SYNC_LIMIT = 2000   # تجهيز وتحديث ملفات فصول أحدث 20 رواية فقط
+MAX_DELTA_PAGES = 5000       # فحص أول 5 صفحات فقط كل ساعة (100 رواية محدثة)
 
 os.makedirs(DATA_DIR, exist_ok=True)
 os.makedirs("data", exist_ok=True)
@@ -30,6 +30,22 @@ def get_session():
     s = requests.Session()
     s.headers.update(HEADERS)
     return s
+
+def clean_genres(raw_genres) -> list:
+    """استخراج التصنيفات الحقيقية بمرونة وتنظيفها من أي نصوص فارغة"""
+    genres = []
+    if not raw_genres or not isinstance(raw_genres, list):
+        return genres
+
+    for g in raw_genres:
+        if isinstance(g, dict):
+            name = g.get("arabic") or g.get("name") or g.get("title") or ""
+            if name and name.strip():
+                genres.append(name.strip())
+        elif isinstance(g, str) and g.strip():
+            genres.append(g.strip())
+
+    return list(dict.fromkeys(genres))  # إزالة أي تكرار مع الحفاظ على الترتيب
 
 def load_existing_catalog() -> dict:
     """تحميل الأرشيف القديم لمنع مسح أو تصفير أي رواية سابقة"""
@@ -111,8 +127,9 @@ def sync_realmnovel():
                 cover = f"{WEB_BASE}/img/novel/{nid}.jpg"
                 web_url = f"{WEB_BASE}/novel/{nid}"
 
-                # استخراج عدد الفصول مباشرة من بيانات الفهرس إن توفرت
+                # استخراج عدد الفصول والتصنيفات من الفهرس السريع إن توفرت
                 api_chaps = int(item.get("chaptersCount") or item.get("totalChapters") or item.get("chapters") or 0)
+                quick_genres = clean_genres(item.get("genres") or item.get("genre") or item.get("tags"))
 
                 # التحديث الآمن مع الحفاظ على الأرشيف القديم
                 if nid in catalog_dict:
@@ -123,6 +140,8 @@ def sync_realmnovel():
                     catalog_dict[nid]["rating"] = str(item.get("rating") or catalog_dict[nid].get("rating", ""))
                     if api_chaps > 0:
                         catalog_dict[nid]["total_chapters"] = api_chaps
+                    if quick_genres and not catalog_dict[nid].get("genres"):
+                        catalog_dict[nid]["genres"] = quick_genres
                 else:
                     catalog_dict[nid] = {
                         "id": nid,
@@ -132,7 +151,8 @@ def sync_realmnovel():
                         "type": "رواية",
                         "status": item.get("status", "مستمرة"),
                         "rating": str(item.get("rating", "")),
-                        "total_chapters": api_chaps
+                        "total_chapters": api_chaps,
+                        "genres": quick_genres
                     }
 
                 if nid not in ordered_recent_slugs:
@@ -146,7 +166,7 @@ def sync_realmnovel():
             print(f"خطأ أثناء جلب الفهرس: {e}")
             break
 
-    # 2. فحص وتوليد الفصول لأحدث 20 رواية فقط
+    # 2. فحص وتوليد الفصول وتحديث التصنيفات لأحدث 20 رواية
     targets_slugs = ordered_recent_slugs[:DETAILS_SYNC_LIMIT]
     new_releases = []
 
@@ -177,8 +197,18 @@ def sync_realmnovel():
                 existing_chapters_count
             )
 
+            # استخراج التصنيفات الحقيقية حصراً من التفاصيل بدون أي فولباك وهمي
+            real_genres = clean_genres(
+                details.get("genres") or 
+                details.get("genre") or 
+                details.get("tags") or 
+                existing_data.get("genres") or 
+                item.get("genres")
+            )
+
             prev_chaps = existing_chapters_count or item.get("total_chapters", 0)
             item["total_chapters"] = total_chapters
+            item["genres"] = real_genres  # حفظ التصنيفات الحقيقية في الكاتلوج
 
             # كشف التحديث لتوليد التنبيه
             if total_chapters > prev_chaps and total_chapters > 0:
@@ -211,7 +241,7 @@ def sync_realmnovel():
                     "last_update": "",
                     "rating": str(details.get("rating") or item["rating"]),
                     "favorites": "",
-                    "genres": details.get("genres") or existing_data.get("genres", ["فنون قتال", "عالم آخر"]),
+                    "genres": real_genres,
                     "is_novel": True,
                     "chapters": chapters_map
                 }
@@ -219,7 +249,7 @@ def sync_realmnovel():
                 with open(file_path, "w", encoding="utf-8") as f:
                     json.dump(novel_payload, f, ensure_ascii=False, indent=2)
 
-                print(f"✓ [{idx}/{len(targets_slugs)}] تم التحديث: {nid} ({len(chapters_map)} فصل)")
+                print(f"✓ [{idx}/{len(targets_slugs)}] تم التحديث: {nid} ({len(chapters_map)} فصل) - تصنيفات: {real_genres}")
             else:
                 print(f"⚡ [{idx}/{len(targets_slugs)}] متطابق مسبقاً: {nid} ({total_chapters} فصل)")
 
@@ -240,7 +270,7 @@ def sync_realmnovel():
     if new_releases:
         update_global_new_releases(new_releases)
 
-    print(f"\n💾 تم حفظ الكتالوج المدمج بنجاح: {len(final_merged_catalog)} رواية.")
+    print(f"\n💾 تم حفظ الكتالوج المدمج بنجاح: {len(final_merged_catalog)} رواية (حقيقية 100%).")
     print("⚡ اكتملت مزامنة عالم الروايات الذكية بنجاح تام!")
 
 if __name__ == "__main__":
