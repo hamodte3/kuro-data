@@ -1055,46 +1055,6 @@
     ]
   },
   {
-    "id": "%d8%a7%d9%84%d8%b9%d9%88%d8%a7%d9%84%d9%85-%d9%81%d9%8a-%d8%a7%d9%84%d8%b3%d9%85%d8%a7%d8%a1",
-    "title": "العوالم في السماء",
-    "url": "https://kolnovel.com/series/%d8%a7%d9%84%d8%b9%d9%88%d8%a7%d9%84%d9%85-%d9%81%d9%8a-%d8%a7%d9%84%d8%b3%d9%85%d8%a7%d8%a1",
-    "cover_url": "https://kolnovel.com/wp-content/uploads/2026/06/file_000000000e487243b1f720c3018a491e.png",
-    "type": "رواية",
-    "is_novel": true,
-    "rating": "",
-    "status": "مستمر",
-    "total_chapters": 204,
-    "genres": [
-      "أكشن",
-      "حريم",
-      "خيال",
-      "رومانسية",
-      "شوانهوان",
-      "فنون قتال",
-      "كوميديا",
-      "مغامرة",
-      "ناضج"
-    ]
-  },
-  {
-    "id": "the-authors-pov",
-    "title": "من منظور المؤلف",
-    "url": "https://kolnovel.com/series/the-authors-pov",
-    "cover_url": "https://kolnovel.com/wp-content/uploads/2022/11/بدون-اسم88_20260715191031.png",
-    "type": "رواية",
-    "is_novel": true,
-    "rating": "4.5",
-    "status": "مستمر",
-    "total_chapters": 419,
-    "genres": [
-      "أكشن",
-      "دراما",
-      "رومانسية",
-      "كوميديا",
-      "مغامرة"
-    ]
-  },
-  {
     "id": "elchamy-ambarar-af-tha-divina-dea",
     "title": "امبراطور الخيمياء في العالم السماوي",
     "url": "https://kolnovel.com/series/elchamy-ambarar-af-tha-divina-dea",
@@ -1270,6 +1230,46 @@
       "كوميديا",
       "ناضج",
       "نفسي"
+    ]
+  },
+  {
+    "id": "%d8%a7%d9%84%d8%b9%d9%88%d8%a7%d9%84%d9%85-%d9%81%d9%8a-%d8%a7%d9%84%d8%b3%d9%85%d8%a7%d8%a1",
+    "title": "العوالم في السماء",
+    "url": "https://kolnovel.com/series/%d8%a7%d9%84%d8%b9%d9%88%d8%a7%d9%84%d9%85-%d9%81%d9%8a-%d8%a7%d9%84%d8%b3%d9%85%d8%a7%d8%a1",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2026/06/file_000000000e487243b1f720c3018a491e.png",
+    "type": "رواية",
+    "is_novel": true,
+    "rating": "",
+    "status": "مستمر",
+    "total_chapters": 207,
+    "genres": [
+      "أكشن",
+      "حريم",
+      "خيال",
+      "رومانسية",
+      "شوانهوان",
+      "فنون قتال",
+      "كوميديا",
+      "مغامرة",
+      "ناضج"
+    ]
+  },
+  {
+    "id": "the-authors-pov",
+    "title": "من منظور المؤلف",
+    "url": "https://kolnovel.com/series/the-authors-pov",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2022/11/بدون-اسم88_20260715191031.png",
+    "type": "رواية",
+    "is_novel": true,
+    "rating": "4.5",
+    "status": "مستمر",
+    "total_chapters": 433,
+    "genres": [
+      "أكشن",
+      "دراما",
+      "رومانسية",
+      "كوميديا",
+      "مغامرة"
     ]
   },
   {
