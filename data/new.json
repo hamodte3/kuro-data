@@ -1,5 +1,40 @@
 [
   {
+    "id": "%d8%b3%d9%84%d8%b3%d9%84%d8%a9-%d9%85%d9%88%d9%86%d9%88%d8%ba%d8%a7%d8%aa%d8%a7%d8%b1%d9%8a",
+    "title": "سلسلة مونوغاتاري",
+    "chapter": "الفصل 43",
+    "type": "رواية",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2026/09/p000_01.jpg"
+  },
+  {
+    "id": "%d8%a8%d9%88%d8%a7%d8%a8%d8%a9-%d8%a7%d9%84%d8%ae%d9%84%d9%88%d8%af",
+    "title": "بوابة الخلود",
+    "chapter": "الفصل 1244",
+    "type": "رواية",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2025/01/بدون-اسم72.png"
+  },
+  {
+    "id": "%d8%a7%d8%ad%d9%85%d9%84-%d8%ae%d8%a7%d8%aa%d9%85-%d8%a5%d9%84%d8%af%d9%86",
+    "title": "احمل خاتم إلدن",
+    "chapter": "الفصل 112",
+    "type": "رواية",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2026/07/5_1.jpg"
+  },
+  {
+    "id": "%d8%a7%d9%84%d9%85%d8%ad%d8%b1%d8%b1-%d8%b4%d8%ae%d8%b5%d9%8a%d8%a9-%d8%a5%d8%b6%d8%a7%d9%81%d9%8a%d8%a9-%d9%81%d9%8a-%d8%a7%d9%84%d8%b1%d9%88%d8%a7%d9%8a%d8%a9",
+    "title": "المحرر شخصية إضافية في الرواية",
+    "chapter": "الفصل 102",
+    "type": "رواية",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2026/02/resource_1.jpg"
+  },
+  {
+    "id": "kaoru-hana-wa-rin-to-saku",
+    "title": "kaoru hana wa rin to saku",
+    "chapter": "عمل جديد",
+    "type": "مانغا",
+    "cover_url": "https://i2.wp.com/despair-world.com/wp-content/uploads/2025/01/Untitled1133_20260827124643.png"
+  },
+  {
     "id": "i-will-try-to-raise-the-villain-properly",
     "title": "I Will Try to Raise the Villain Properly",
     "chapter": "الفصل 42",
@@ -68,40 +103,5 @@
     "chapter": "الفصل 95",
     "type": "رواية",
     "cover_url": "https://storage.azorafly.com/upload/series/featured/a5vVlSc5huft2AzUyK1VxgKh1ckCWLbZ/faa5a46e-9879-42a9-9656-d423c7142649.jpg"
-  },
-  {
-    "id": "chronicles-of-the-demon-faction",
-    "title": "Chronicles of the Demon Faction",
-    "chapter": "الفصل 190",
-    "type": "مانهوا",
-    "cover_url": "https://storage.azorafly.com/2023/03/unnamed-file.jpg"
-  },
-  {
-    "id": "while-others-became-female-leads-in-romantic-fantasy-novels-i-became-a-closet-monster",
-    "title": "While Others Became Female Leads In Romantic Fantasy Novels, I Became A Closet Monster",
-    "chapter": "الفصل 18",
-    "type": "مانهوا",
-    "cover_url": "https://storage.azorafly.com/upload/series/featured/oGmL0DQZ16QInTPaeDKwFEK9ryegoy88/1e9dea49-6d60-484c-a6ed-3e2b5aa778a3.jpg"
-  },
-  {
-    "id": "swordmasters-youngest-son",
-    "title": "Swordmaster’s Youngest Son",
-    "chapter": "الفصل 214",
-    "type": "مانهوا",
-    "cover_url": "https://storage.azorafly.com/2022/04/resource-2.jpg"
-  },
-  {
-    "id": "the-hero's-ballad",
-    "title": "The Hero’s Ballad",
-    "chapter": "الفصل 10",
-    "type": "مانهوا",
-    "cover_url": "https://storage.azorafly.com/upload/series/featured/6cac1de1-87ae-4a81-9cd1-2abe99fd84d7/ee39c5b3-9eee-4b33-a68e-5a656517d1f4.png"
-  },
-  {
-    "id": "the-martial-genius-who-remembers-everything",
-    "title": "The Martial Genius Who Remembers Everything",
-    "chapter": "الفصل 28",
-    "type": "مانهوا",
-    "cover_url": "https://storage.azorafly.com/upload/series/featured/6cac1de1-87ae-4a81-9cd1-2abe99fd84d7/03c313a7-b286-4bf4-81ac-3f0300b24117.jpg"
   }
 ]
