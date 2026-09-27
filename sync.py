@@ -37,6 +37,14 @@ def normalize_url(url: str) -> str:
         .strip()
     )
 
+def format_chapter_number(raw_num) -> str:
+    """تنسيق رقم الفصل مع الحفاظ التام على الأرقام العشرية (مثل 89.5 و 3.5)"""
+    try:
+        val = float(raw_num)
+        return str(int(val)) if val.is_integer() else str(val)
+    except (ValueError, TypeError):
+        return str(raw_num).strip()
+
 def format_type(raw_type: str) -> str:
     t = raw_type.strip().lower()
     if any(k in t for k in ["novel", "رواية"]): return "رواية"
@@ -141,7 +149,10 @@ def scrape_manga_details(session, manga_url: str):
     cover_url = cover_url.replace("http://", "https://")
 
     status_el = soup.select_one('.post-content_item:-soup-contains("الحالة"), .post-status')
-    status = format_status(status_el.text if status_el else "")
+    raw_status = status_el.text if status_el else ""
+    if not raw_status and "COMPLETED" in html:
+        raw_status = "completed"
+    status = format_status(raw_status)
 
     time_el = soup.find(lambda tag: tag.name in ["span", "div", "p"] and "منذ" in tag.text)
     last_update = time_el.text.strip() if time_el else ""
@@ -152,35 +163,70 @@ def scrape_manga_details(session, manga_url: str):
     type_el = soup.select_one('div:has(h1:-soup-contains("النوع")) div.inline span')
     manga_type = format_type("رواية" if is_novel else (type_el.text.strip() if type_el else "مانهوا"))
 
-    # استخراج التصنيفات الحقيقية
-    genres = [a.text.strip() for a in soup.select(".genres-content a, .manga-tags a") if a.text.strip()]
-    desc_el = soup.select_one(".review-content p, div.summary__content p, div[itemprop=description] p")
+    # استخراج التصنيفات الحقيقية (دعم كلاسات القالب الجديد والقديم)
+    genre_nodes = soup.select("a[itemprop='genre'], a[href*='genres='], .genres-content a, .manga-tags a")
+    genres = list(dict.fromkeys([a.text.strip() for a in genre_nodes if a.text.strip()]))
+
+    desc_el = soup.select_one("div[itemprop=description], .review-content p, div.summary__content p")
     final_desc = clean_description(str(desc_el) if desc_el else "", title)
 
+    rate_meta = soup.select_one("meta[itemprop='ratingValue']")
     rate_el = soup.select_one(".score.font-bold, .post-total-rating .score")
-    rating = format_rating(rate_el.text if rate_el else "")
+    raw_rate = rate_meta.get("content", "") if rate_meta else (rate_el.text if rate_el else "")
+    rating = format_rating(raw_rate)
 
     series_slug = clean_url.split("/")[-1]
     chapters_map = {}
 
-    for a in soup.select("a[href*='/chapter-'], a[href*='/chapter_']"):
-        href = a.get("href", "").strip()
-        if href:
-            full_url = normalize_url(href if href.startswith("http") else f"{BASE_URL}{href}")
-            slug = full_url.rstrip("/").split("/")[-1].split("?")[0]
-            raw_num = slug.lower().replace("chapter-", "").replace("chapter_", "").replace("_", ".").replace("-", ".")
-            num_match = re.search(r"\d+(\.\d+)?", raw_num)
-            clean_name = num_match.group(0) if num_match else raw_num
-            chapters_map[full_url] = {"name": clean_name}
+    # 1. استخراج postId لطلب كل الفصول عبر الـ API بدون توقف عند حد الـ Pagination
+    post_id = None
+    post_id_match = (
+        re.search(r'(?:&quot;|")postId(?:&quot;|")\s*:\s*\[\s*\d+\s*,\s*(\d+)\s*\]', html) or
+        re.search(r'(?:&quot;|")id(?:&quot;|")\s*:\s*\[\s*\d+\s*,\s*(\d+)\s*\]', html) or
+        re.search(r'postId["\']?\s*:\s*(\d+)', html)
+    )
+    if post_id_match:
+        post_id = post_id_match.group(1)
 
-    for match in re.finditer(r"chapter-[0-9]+(?:[-._][0-9a-zA-Z]+)*", html, re.IGNORECASE):
-        slug = match.group(0)
-        full_url = f"{BASE_URL}/series/{series_slug}/{slug}"
-        if full_url not in chapters_map:
-            raw_num = slug.lower().replace("chapter-", "").replace("_", ".").replace("-", ".")
-            num_match = re.search(r"\d+(\.\d+)?", raw_num)
-            clean_name = num_match.group(0) if num_match else raw_num
-            chapters_map[full_url] = {"name": clean_name}
+    # 2. سحب جميع الفصول من الـ API الرسمي للموقع
+    if post_id:
+        try:
+            api_url = f"https://api.azorafly.com/api/posts/{post_id}/chapters?limit=1000"
+            api_res = session.get(api_url, headers={"Referer": clean_url, "Origin": BASE_URL}, timeout=20)
+            if api_res.status_code == 200:
+                data = api_res.json()
+                ch_list = data if isinstance(data, list) else data.get("chapters", data.get("data", []))
+                for ch in ch_list:
+                    if not isinstance(ch, dict): continue
+                    num_val = ch.get("number")
+                    if num_val is not None:
+                        clean_name = format_chapter_number(num_val)
+                        ch_slug = ch.get("slug") or f"chapter-{clean_name}"
+                        full_url = f"{BASE_URL}/series/{series_slug}/{ch_slug}"
+                        chapters_map[full_url] = {"name": clean_name}
+        except Exception as e:
+            print(f"تنبيه: تعذر جلب الفصول من الـ API لـ {series_slug}، سيتم استخدام الـ HTML: {e}")
+
+    # 3. خطة احتياطية عبر مسح روابط الصفحة والـ Regex إذا لم يستجب الـ API
+    if not chapters_map:
+        for a in soup.select("a[href*='/chapter-'], a[href*='/chapter_']"):
+            href = a.get("href", "").strip()
+            if href:
+                full_url = normalize_url(href if href.startswith("http") else f"{BASE_URL}{href}")
+                slug = full_url.rstrip("/").split("/")[-1].split("?")[0]
+                raw_num = slug.lower().replace("chapter-", "").replace("chapter_", "").replace("_", ".").replace("-", ".")
+                num_match = re.search(r"\d+(\.\d+)?", raw_num)
+                clean_name = format_chapter_number(num_match.group(0)) if num_match else raw_num
+                chapters_map[full_url] = {"name": clean_name}
+
+        for match in re.finditer(r"chapter-[0-9]+(?:[-._][0-9a-zA-Z]+)*", html, re.IGNORECASE):
+            slug = match.group(0)
+            full_url = f"{BASE_URL}/series/{series_slug}/{slug}"
+            if full_url not in chapters_map:
+                raw_num = slug.lower().replace("chapter-", "").replace("_", ".").replace("-", ".")
+                num_match = re.search(r"\d+(\.\d+)?", raw_num)
+                clean_name = format_chapter_number(num_match.group(0)) if num_match else raw_num
+                chapters_map[full_url] = {"name": clean_name}
 
     return {
         "id": series_slug,
@@ -233,7 +279,6 @@ def sync_fast():
                     catalog_dict[slug]["url"] = manga_url
                     if cover_url:
                         catalog_dict[slug]["cover_url"] = cover_url
-                    # إعادة رفع العمل لرأس القائمة
                     item_ref = catalog_dict.pop(slug)
                     catalog_dict = {slug: item_ref, **catalog_dict}
                 else:
@@ -245,7 +290,7 @@ def sync_fast():
                             "cover_url": cover_url,
                             "type": "مانهوا",
                             "total_chapters": 0,
-                            "genres": []  # تهيئة الحقل
+                            "genres": []  # تهيئة حقل التصنيفات دائماً
                         },
                         **catalog_dict
                     }
@@ -286,7 +331,7 @@ def sync_fast():
             
             print(f"✓ تم تجهيز: {slug} ({current_chaps} فصل) - تصنيفات: {item['genres']}")
 
-            # التحقق من وجود فصل جديد لتوليد الإشعار
+            # كشف التحديث لتوليد التنبيه
             if current_chaps > prev_chaps and current_chaps > 0:
                 new_releases.append({
                     "id": slug,
