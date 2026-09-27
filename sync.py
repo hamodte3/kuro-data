@@ -1,3 +1,4 @@
+import html as html_lib
 import json
 import os
 import re
@@ -11,7 +12,7 @@ CATALOG_FILE = os.path.join(DATA_DIR, "catalog.json")
 GLOBAL_NEW_FILE = os.path.join(DATA_DIR, "new.json")
 
 DETAILS_SYNC_LIMIT = 20  # سحب تفاصيل وفصول أحدث 20 عملاً تم تحديثها
-MAX_DELTA_PAGES = 3     # فحص أول 5 صفحات فقط كل ساعة
+MAX_DELTA_PAGES = 5      # فحص أول 5 صفحات فقط كل ساعة
 
 os.makedirs(DATA_DIR, exist_ok=True)
 
@@ -123,6 +124,60 @@ def update_global_new_releases(new_releases: list):
         json.dump(deduped[:15], f, ensure_ascii=False, indent=2)
     print(f"🔔 تم تسجيل {len(new_releases)} تحديث جديد لأزورا في {GLOBAL_NEW_FILE}")
 
+def extract_all_chapters_astro(html_text: str, series_slug: str) -> dict:
+    """استخراج جميع الفصول من مصفوفة initialChap المشفرة داخل Astro Island"""
+    chapters_map = {}
+
+    # 1. البحث عن الـ props داخل وسوم astro-island
+    island_props = re.findall(r'<astro-island[^>]*props="([^"]+)"', html_text)
+    for raw_props in island_props:
+        unescaped = html_lib.unescape(raw_props)
+        if "initialChap" not in unescaped:
+            continue
+
+        try:
+            props_data = json.loads(unescaped)
+            initial_chap_wrapper = props_data.get("initialChap")
+            
+            # بنية Astro للبيانات: [1, [ [0, ch_obj1], [0, ch_obj2], ... ]]
+            if isinstance(initial_chap_wrapper, list) and len(initial_chap_wrapper) > 1:
+                ch_array = initial_chap_wrapper[1]
+                if isinstance(ch_array, list):
+                    for item in ch_array:
+                        ch_obj = item[1] if (isinstance(item, list) and len(item) > 1) else item
+                        if not isinstance(ch_obj, dict):
+                            continue
+
+                        # استخراج رقم الفصل (يدعم الكسور 89.5)
+                        num_wrapper = ch_obj.get("number")
+                        num_val = num_wrapper[1] if (isinstance(num_wrapper, list) and len(num_wrapper) > 1) else num_wrapper
+
+                        # استخراج slug الفصل
+                        slug_wrapper = ch_obj.get("slug")
+                        slug_val = slug_wrapper[1] if (isinstance(slug_wrapper, list) and len(slug_wrapper) > 1) else slug_wrapper
+
+                        if num_val is not None:
+                            clean_name = format_chapter_number(num_val)
+                            ch_slug = slug_val or f"chapter-{clean_name}"
+                            full_url = f"{BASE_URL}/series/{series_slug}/{ch_slug}"
+                            chapters_map[full_url] = {"name": clean_name}
+        except Exception:
+            pass
+
+    # 2. خطة احتياطية بـ Regex ذكي على النص المفكوك إذا تعذر الـ JSON
+    if not chapters_map:
+        clean_html = html_lib.unescape(html_text)
+        pattern = re.compile(r'["\']slug["\']\s*:\s*\[\s*\d+\s*,\s*["\'](chapter-[^"\']+)["\']\]')
+        for match in pattern.finditer(clean_html):
+            ch_slug = match.group(1)
+            raw_num = ch_slug.lower().replace("chapter-", "").replace("_", ".").replace("-", ".")
+            num_match = re.search(r"\d+(\.\d+)?", raw_num)
+            clean_name = format_chapter_number(num_match.group(0)) if num_match else raw_num
+            full_url = f"{BASE_URL}/series/{series_slug}/{ch_slug}"
+            chapters_map[full_url] = {"name": clean_name}
+
+    return chapters_map
+
 def scrape_manga_details(session, manga_url: str):
     clean_url = normalize_url(manga_url).rstrip("/")
     cache_url = f"{clean_url}?_t={int(time.time())}"
@@ -163,7 +218,7 @@ def scrape_manga_details(session, manga_url: str):
     type_el = soup.select_one('div:has(h1:-soup-contains("النوع")) div.inline span')
     manga_type = format_type("رواية" if is_novel else (type_el.text.strip() if type_el else "مانهوا"))
 
-    # استخراج التصنيفات الحقيقية (دعم كلاسات القالب الجديد والقديم)
+    # استخراج التصنيفات الحقيقية
     genre_nodes = soup.select("a[itemprop='genre'], a[href*='genres='], .genres-content a, .manga-tags a")
     genres = list(dict.fromkeys([a.text.strip() for a in genre_nodes if a.text.strip()]))
 
@@ -176,38 +231,11 @@ def scrape_manga_details(session, manga_url: str):
     rating = format_rating(raw_rate)
 
     series_slug = clean_url.split("/")[-1]
-    chapters_map = {}
 
-    # 1. استخراج postId لطلب كل الفصول عبر الـ API بدون توقف عند حد الـ Pagination
-    post_id = None
-    post_id_match = (
-        re.search(r'(?:&quot;|")postId(?:&quot;|")\s*:\s*\[\s*\d+\s*,\s*(\d+)\s*\]', html) or
-        re.search(r'(?:&quot;|")id(?:&quot;|")\s*:\s*\[\s*\d+\s*,\s*(\d+)\s*\]', html) or
-        re.search(r'postId["\']?\s*:\s*(\d+)', html)
-    )
-    if post_id_match:
-        post_id = post_id_match.group(1)
+    # 🔥 استخراج كافة الفصول الـ 92 كاملة من بيانات Astro props
+    chapters_map = extract_all_chapters_astro(html, series_slug)
 
-    # 2. سحب جميع الفصول من الـ API الرسمي للموقع
-    if post_id:
-        try:
-            api_url = f"https://api.azorafly.com/api/posts/{post_id}/chapters?limit=1000"
-            api_res = session.get(api_url, headers={"Referer": clean_url, "Origin": BASE_URL}, timeout=20)
-            if api_res.status_code == 200:
-                data = api_res.json()
-                ch_list = data if isinstance(data, list) else data.get("chapters", data.get("data", []))
-                for ch in ch_list:
-                    if not isinstance(ch, dict): continue
-                    num_val = ch.get("number")
-                    if num_val is not None:
-                        clean_name = format_chapter_number(num_val)
-                        ch_slug = ch.get("slug") or f"chapter-{clean_name}"
-                        full_url = f"{BASE_URL}/series/{series_slug}/{ch_slug}"
-                        chapters_map[full_url] = {"name": clean_name}
-        except Exception as e:
-            print(f"تنبيه: تعذر جلب الفصول من الـ API لـ {series_slug}، سيتم استخدام الـ HTML: {e}")
-
-    # 3. خطة احتياطية عبر مسح روابط الصفحة والـ Regex إذا لم يستجب الـ API
+    # احتياطي أخير بالـ DOM إذا كانت صفحة قديمة غير مبنية بـ Astro
     if not chapters_map:
         for a in soup.select("a[href*='/chapter-'], a[href*='/chapter_']"):
             href = a.get("href", "").strip()
@@ -215,15 +243,6 @@ def scrape_manga_details(session, manga_url: str):
                 full_url = normalize_url(href if href.startswith("http") else f"{BASE_URL}{href}")
                 slug = full_url.rstrip("/").split("/")[-1].split("?")[0]
                 raw_num = slug.lower().replace("chapter-", "").replace("chapter_", "").replace("_", ".").replace("-", ".")
-                num_match = re.search(r"\d+(\.\d+)?", raw_num)
-                clean_name = format_chapter_number(num_match.group(0)) if num_match else raw_num
-                chapters_map[full_url] = {"name": clean_name}
-
-        for match in re.finditer(r"chapter-[0-9]+(?:[-._][0-9a-zA-Z]+)*", html, re.IGNORECASE):
-            slug = match.group(0)
-            full_url = f"{BASE_URL}/series/{series_slug}/{slug}"
-            if full_url not in chapters_map:
-                raw_num = slug.lower().replace("chapter-", "").replace("_", ".").replace("-", ".")
                 num_match = re.search(r"\d+(\.\d+)?", raw_num)
                 clean_name = format_chapter_number(num_match.group(0)) if num_match else raw_num
                 chapters_map[full_url] = {"name": clean_name}
