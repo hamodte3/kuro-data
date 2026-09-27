@@ -14,5 +14,36 @@
     "غموض"
   ],
   "is_novel": false,
-  "chapters": {}
+  "chapters": {
+    "https://azorafly.com/series/night-at-the-crossroads/chapter-9": {
+      "name": "9"
+    },
+    "https://azorafly.com/series/night-at-the-crossroads/chapter-8": {
+      "name": "8"
+    },
+    "https://azorafly.com/series/night-at-the-crossroads/chapter-7": {
+      "name": "7"
+    },
+    "https://azorafly.com/series/night-at-the-crossroads/chapter-6": {
+      "name": "6"
+    },
+    "https://azorafly.com/series/night-at-the-crossroads/chapter-5": {
+      "name": "5"
+    },
+    "https://azorafly.com/series/night-at-the-crossroads/chapter-4": {
+      "name": "4"
+    },
+    "https://azorafly.com/series/night-at-the-crossroads/chapter-3": {
+      "name": "3"
+    },
+    "https://azorafly.com/series/night-at-the-crossroads/chapter-2": {
+      "name": "2"
+    },
+    "https://azorafly.com/series/night-at-the-crossroads/chapter-1": {
+      "name": "1"
+    },
+    "https://azorafly.com/series/night-at-the-crossroads/chapter-0": {
+      "name": "0"
+    }
+  }
 }

@@ -13,5 +13,39 @@
     "فانتازيا"
   ],
   "is_novel": false,
-  "chapters": {}
+  "chapters": {
+    "https://azorafly.com/series/ageless-boyfriend/chapter-11": {
+      "name": "11"
+    },
+    "https://azorafly.com/series/ageless-boyfriend/chapter-10": {
+      "name": "10"
+    },
+    "https://azorafly.com/series/ageless-boyfriend/chapter-9": {
+      "name": "9"
+    },
+    "https://azorafly.com/series/ageless-boyfriend/chapter-8": {
+      "name": "8"
+    },
+    "https://azorafly.com/series/ageless-boyfriend/chapter-7": {
+      "name": "7"
+    },
+    "https://azorafly.com/series/ageless-boyfriend/chapter-6": {
+      "name": "6"
+    },
+    "https://azorafly.com/series/ageless-boyfriend/chapter-5": {
+      "name": "5"
+    },
+    "https://azorafly.com/series/ageless-boyfriend/chapter-4": {
+      "name": "4"
+    },
+    "https://azorafly.com/series/ageless-boyfriend/chapter-3": {
+      "name": "3"
+    },
+    "https://azorafly.com/series/ageless-boyfriend/chapter-2": {
+      "name": "2"
+    },
+    "https://azorafly.com/series/ageless-boyfriend/chapter-1": {
+      "name": "1"
+    }
+  }
 }

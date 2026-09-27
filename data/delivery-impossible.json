@@ -15,5 +15,30 @@
     "عائلة"
   ],
   "is_novel": false,
-  "chapters": {}
+  "chapters": {
+    "https://azorafly.com/series/delivery-impossible/chapter-8": {
+      "name": "8"
+    },
+    "https://azorafly.com/series/delivery-impossible/chapter-7": {
+      "name": "7"
+    },
+    "https://azorafly.com/series/delivery-impossible/chapter-6": {
+      "name": "6"
+    },
+    "https://azorafly.com/series/delivery-impossible/chapter-5": {
+      "name": "5"
+    },
+    "https://azorafly.com/series/delivery-impossible/chapter-4": {
+      "name": "4"
+    },
+    "https://azorafly.com/series/delivery-impossible/chapter-3": {
+      "name": "3"
+    },
+    "https://azorafly.com/series/delivery-impossible/chapter-2": {
+      "name": "2"
+    },
+    "https://azorafly.com/series/delivery-impossible/chapter-1": {
+      "name": "1"
+    }
+  }
 }
