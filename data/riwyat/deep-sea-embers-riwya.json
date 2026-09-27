@@ -6,7 +6,7 @@
   "type": "رواية",
   "status": "مستمر",
   "last_update": "",
-  "rating": "7.5",
+  "rating": "7.4",
   "favorites": "",
   "genres": [
     "أكشن",
@@ -181,6 +181,18 @@
     },
     "https://cenele.com/cont/deep-sea-embers-riwya/%d8%a7%d9%84%d9%81%d8%b5%d9%84-1": {
       "name": "1",
+      "images": []
+    },
+    "https://cenele.com/cont/deep-sea-embers-riwya/%d8%a7%d9%84%d9%81%d8%b5%d9%84-43": {
+      "name": "43",
+      "images": []
+    },
+    "https://cenele.com/cont/deep-sea-embers-riwya/%d8%a7%d9%84%d9%81%d8%b5%d9%84-42": {
+      "name": "42",
+      "images": []
+    },
+    "https://cenele.com/cont/deep-sea-embers-riwya/%d8%a7%d9%84%d9%81%d8%b5%d9%84-41": {
+      "name": "41",
       "images": []
     }
   }

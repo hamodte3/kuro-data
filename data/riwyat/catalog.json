@@ -1,33 +1,113 @@
 [
   {
-    "id": "i-really-villain",
-    "title": "أنا شرير حقا",
-    "url": "https://cenele.com/cont/i-really-villain",
-    "cover_url": "https://cenele.com/wp-content/uploads/2026/03/final_evil_black_only-175x238.gif",
+    "id": "shadow-novel",
+    "title": "عبد الظل",
+    "url": "https://cenele.com/cont/shadow-novel",
+    "cover_url": "https://cenele.com/wp-content/uploads/2022/06/Picsart_24-03-15_13-42-05-820-scaled-1-175x238.webp",
     "type": "رواية",
     "status": "مستمر",
-    "rating": "7.4",
-    "total_chapters": 739
+    "rating": "8.6",
+    "total_chapters": 3200
   },
   {
-    "id": "absolute-regre",
-    "title": "رواية الإنحدار المطلق",
-    "url": "https://cenele.com/cont/absolute-regre",
-    "cover_url": "https://cenele.com/wp-content/uploads/2025/12/رواية-الإنحدار-المطلق-1-175x238.webp",
+    "id": "lord-mysteri",
+    "title": "رواية لورد الغوامض",
+    "url": "https://cenele.com/cont/lord-mysteri",
+    "cover_url": "https://cenele.com/wp-content/uploads/2026/04/Gemini_Generated_Image_temfrvtemfrvtemf_11zon-1-175x238.webp",
     "type": "رواية",
     "status": "مستمر",
-    "rating": "8.3",
-    "total_chapters": 121
+    "rating": "8.9",
+    "total_chapters": 251
+  },
+  {
+    "id": "tales-of-herding-riwyat",
+    "title": "سجل الراعي السماوي",
+    "url": "https://cenele.com/cont/tales-of-herding-riwyat",
+    "cover_url": "https://cenele.com/wp-content/uploads/2026/07/ca636412be9f3d1a-175x238.webp",
+    "type": "رواية",
+    "status": "مستمر",
+    "rating": "8.8",
+    "total_chapters": 207
   },
   {
     "id": "rezero-novel",
     "title": "ري زيرو : بدء الحياة في عالم آخر من الصفر",
     "url": "https://cenele.com/cont/rezero-novel",
-    "cover_url": "https://cenele.com/wp-content/uploads/2024/01/file_00000000662082118b32d25a83287b4b-175x238.png",
+    "cover_url": "https://cenele.com/wp-content/uploads/2024/01/file_000000008a20821194d9b598cd24ed91-175x238.png",
     "type": "رواية",
     "status": "مستمر",
     "rating": "8.3",
-    "total_chapters": 77
+    "total_chapters": 81
+  },
+  {
+    "id": "the-eldest-daughter-of-the-tang",
+    "title": "الابنة الكبرى لعشيرة تانغ في سيتشون تحمي العائلة",
+    "url": "https://cenele.com/cont/the-eldest-daughter-of-the-tang",
+    "cover_url": "https://cenele.com/wp-content/uploads/2026/09/63ab3a44-272c-4f72-b497-ffd3961a9132-175x238.webp",
+    "type": "رواية",
+    "status": "مستمر",
+    "rating": "6.8",
+    "total_chapters": 27
+  },
+  {
+    "id": "pursuit",
+    "title": "السعي وراء الحقيقة",
+    "url": "https://cenele.com/cont/pursuit",
+    "cover_url": "https://cenele.com/wp-content/uploads/2021/12/file_00000000dbb8820aa8af67ef12a0df05-1-175x238.webp",
+    "type": "رواية",
+    "status": "مستمر",
+    "rating": "9.4",
+    "total_chapters": 390
+  },
+  {
+    "id": "i-can-see-through-e",
+    "title": "أستطيع رؤية معلومات كل شيئ",
+    "url": "https://cenele.com/cont/i-can-see-through-e",
+    "cover_url": "https://cenele.com/wp-content/uploads/2026/09/ee4c5e07-f0d2-404d-a51a-bd6c38ff7123-1-175x238.webp",
+    "type": "رواية",
+    "status": "مستمر",
+    "rating": "7.8",
+    "total_chapters": 100
+  },
+  {
+    "id": "novel-the-strategist",
+    "title": "الإستراتجي الأعظم",
+    "url": "https://cenele.com/cont/novel-the-strategist",
+    "cover_url": "https://cenele.com/wp-content/uploads/2021/03/46ceb2b4-7b02-4a5c-a2f3-72e9929ef3ea_11zon-175x238.webp",
+    "type": "رواية",
+    "status": "مستمر",
+    "rating": "9.4",
+    "total_chapters": 81
+  },
+  {
+    "id": "deep-sea-embers-riwya",
+    "title": "رواية جمر أعماق البحار",
+    "url": "https://cenele.com/cont/deep-sea-embers-riwya",
+    "cover_url": "https://cenele.com/wp-content/uploads/2026/07/7cdbe624-e3ff-47b3-91ad-c33769ef59ed-175x238.png",
+    "type": "رواية",
+    "status": "مستمر",
+    "rating": "7.4",
+    "total_chapters": 43
+  },
+  {
+    "id": "circle-of-inevi",
+    "title": "حلقة الحتمية",
+    "url": "https://cenele.com/cont/circle-of-inevi",
+    "cover_url": "https://cenele.com/wp-content/uploads/2026/09/f6f20b89-c326-4db6-a940-90ae0a6f6480-175x238.webp",
+    "type": "رواية",
+    "status": "مستمر",
+    "rating": "8.0",
+    "total_chapters": 93
+  },
+  {
+    "id": "lord-of-wishes",
+    "title": "سيد التمني",
+    "url": "https://cenele.com/cont/lord-of-wishes",
+    "cover_url": "https://cenele.com/wp-content/uploads/2026/06/IMG_٢٠٢٦٠٣١٧_٠٩١٢٣٤-175x238.jpg",
+    "type": "رواية",
+    "status": "مستمر",
+    "rating": "7.2",
+    "total_chapters": 35
   },
   {
     "id": "monarch-time",
@@ -36,8 +116,38 @@
     "cover_url": "https://cenele.com/wp-content/uploads/2026/09/05bb7192-82e9-4a2d-9d1a-c7c4e2ea8853-175x238.webp",
     "type": "رواية",
     "status": "مستمر",
-    "rating": "8.1",
-    "total_chapters": 451
+    "rating": "8.0",
+    "total_chapters": 470
+  },
+  {
+    "id": "my-mh-mam",
+    "title": "الغموض القوة الفوضى",
+    "url": "https://cenele.com/cont/my-mh-mam",
+    "cover_url": "https://cenele.com/wp-content/uploads/2024/03/8920cc4d-e524-40f5-afc8-7ca35df92aa2-175x238.webp",
+    "type": "رواية",
+    "status": "مستمر",
+    "rating": "8.3",
+    "total_chapters": 373
+  },
+  {
+    "id": "i-really-villain",
+    "title": "أنا شرير حقا",
+    "url": "https://cenele.com/cont/i-really-villain",
+    "cover_url": "https://cenele.com/wp-content/uploads/2026/03/final_evil_black_only-175x238.gif",
+    "type": "رواية",
+    "status": "مستمر",
+    "rating": "7.4",
+    "total_chapters": 746
+  },
+  {
+    "id": "book-eatin",
+    "title": "الساحر ملتهم الكتب",
+    "url": "https://cenele.com/cont/book-eatin",
+    "cover_url": "https://cenele.com/wp-content/uploads/2026/09/73128c6b-084d-4a9e-8735-1ec0a7276c9d-175x238.webp",
+    "type": "رواية",
+    "status": "مستمر",
+    "rating": "8.4",
+    "total_chapters": 417
   },
   {
     "id": "the-demon-prince-g",
@@ -47,17 +157,7 @@
     "type": "رواية",
     "status": "مستمر",
     "rating": "7.0",
-    "total_chapters": 582
-  },
-  {
-    "id": "my-longe-simulati",
-    "title": "محاكاة إطالة العمر",
-    "url": "https://cenele.com/cont/my-longe-simulati",
-    "cover_url": "https://cenele.com/wp-content/uploads/2023/09/peak-2-e1780384609552-175x238.webp",
-    "type": "رواية",
-    "status": "مستمر",
-    "rating": "8.2",
-    "total_chapters": 1135
+    "total_chapters": 588
   },
   {
     "id": "mster-mysteiousdd",
@@ -67,27 +167,37 @@
     "type": "رواية",
     "status": "مستمر",
     "rating": "8.4",
-    "total_chapters": 341
+    "total_chapters": 342
   },
   {
-    "id": "cultivation-start-from-simplifying",
-    "title": "الزراعة تبدأ بتبسيط تقنيات الفنون القتالية",
-    "url": "https://cenele.com/cont/cultivation-start-from-simplifying",
-    "cover_url": "https://cenele.com/wp-content/uploads/2026/09/الزراعة-تبدأ-بتبسيط-تقنيات-الفنون-القتالية-175x238.webp",
+    "id": "my-longe-simulati",
+    "title": "محاكاة إطالة العمر",
+    "url": "https://cenele.com/cont/my-longe-simulati",
+    "cover_url": "https://cenele.com/wp-content/uploads/2023/09/peak-2-e1780384609552-175x238.webp",
     "type": "رواية",
     "status": "مستمر",
-    "rating": "10.0",
-    "total_chapters": 40
+    "rating": "8.2",
+    "total_chapters": 1136
   },
   {
-    "id": "the-forbidden-path-immort",
-    "title": "المسار المحرم للخلود",
-    "url": "https://cenele.com/cont/the-forbidden-path-immort",
-    "cover_url": "https://cenele.com/wp-content/uploads/2026/08/76765541-2b7a-4175-92f6-905f572262e0-175x238.webp",
+    "id": "the-creatures-that-we-are-riwya",
+    "title": "رواية متاهة الوحوش",
+    "url": "https://cenele.com/cont/the-creatures-that-we-are-riwya",
+    "cover_url": "https://cenele.com/wp-content/uploads/2026/06/رواية-متاهة-الوحوش-فضاء-الروايات-175x238.webp",
     "type": "رواية",
     "status": "مستمر",
-    "rating": "8.0",
-    "total_chapters": 92
+    "rating": "8.5",
+    "total_chapters": 1112
+  },
+  {
+    "id": "absolute-regre",
+    "title": "رواية الإنحدار المطلق",
+    "url": "https://cenele.com/cont/absolute-regre",
+    "cover_url": "https://cenele.com/wp-content/uploads/2025/12/رواية-الإنحدار-المطلق-1-175x238.webp",
+    "type": "رواية",
+    "status": "مستمر",
+    "rating": "8.4",
+    "total_chapters": 126
   },
   {
     "id": "cultivation-online",
@@ -100,34 +210,23 @@
     "total_chapters": 1290
   },
   {
-    "id": "pursuit",
-    "title": "السعي وراء الحقيقة",
-    "url": "https://cenele.com/cont/pursuit",
-    "cover_url": "https://cenele.com/wp-content/uploads/2021/12/file_00000000dbb8820aa8af67ef12a0df05-1-175x238.webp",
+    "id": "building-my-own-empire",
+    "title": "تاجر الكوارث",
+    "url": "https://cenele.com/cont/building-my-own-empire",
+    "cover_url": "https://cenele.com/wp-content/uploads/2026/08/1000092274-1-175x238.png",
     "type": "رواية",
     "status": "مستمر",
-    "rating": "9.3",
-    "total_chapters": 377
+    "rating": "6.9",
+    "total_chapters": 92
   },
   {
-    "id": "book-eatin",
-    "title": "الساحر ملتهم الكتب",
-    "url": "https://cenele.com/cont/book-eatin",
-    "cover_url": "https://cenele.com/wp-content/uploads/2026/09/73128c6b-084d-4a9e-8735-1ec0a7276c9d-175x238.webp",
+    "id": "the-perfect-run",
+    "title": "رواية المسار المثالي",
+    "url": "https://cenele.com/cont/the-perfect-run",
+    "cover_url": "https://cenele.com/wp-content/uploads/2025/05/22_202501161294108-175x238.png",
     "type": "رواية",
     "status": "مستمر",
-    "rating": "8.4",
-    "total_chapters": 411
-  },
-  {
-    "id": "shadow-novel",
-    "title": "عبد الظل",
-    "url": "https://cenele.com/cont/shadow-novel",
-    "cover_url": "https://cenele.com/wp-content/uploads/2022/06/Picsart_24-03-15_13-42-05-820-scaled-1-175x238.webp",
-    "type": "رواية",
-    "status": "مستمر",
-    "rating": "8.6",
-    "total_chapters": 3198
+    "rating": ""
   },
   {
     "id": "from-a-martial-to-an-immortal",
@@ -138,6 +237,26 @@
     "status": "مستمر",
     "rating": "7.7",
     "total_chapters": 244
+  },
+  {
+    "id": "curse-of-minamoto",
+    "title": "سيّد هييان: لعنة آل ميناموتو",
+    "url": "https://cenele.com/cont/curse-of-minamoto",
+    "cover_url": "https://cenele.com/wp-content/uploads/2026/09/b8a59598-620f-4d55-90d6-68e666876658-175x238.webp",
+    "type": "رواية",
+    "status": "مستمر",
+    "rating": "7.4",
+    "total_chapters": 84
+  },
+  {
+    "id": "cultivation-start-from-simplifying",
+    "title": "الزراعة تبدأ بتبسيط تقنيات الفنون القتالية",
+    "url": "https://cenele.com/cont/cultivation-start-from-simplifying",
+    "cover_url": "https://cenele.com/wp-content/uploads/2026/09/الزراعة-تبدأ-بتبسيط-تقنيات-الفنون-القتالية-175x238.webp",
+    "type": "رواية",
+    "status": "مستمر",
+    "rating": "10.0",
+    "total_chapters": 40
   },
   {
     "id": "i-am-villain",
@@ -160,6 +279,16 @@
     "total_chapters": 572
   },
   {
+    "id": "the-forbidden-path-immort",
+    "title": "المسار المحرم للخلود",
+    "url": "https://cenele.com/cont/the-forbidden-path-immort",
+    "cover_url": "https://cenele.com/wp-content/uploads/2026/08/76765541-2b7a-4175-92f6-905f572262e0-175x238.webp",
+    "type": "رواية",
+    "status": "مستمر",
+    "rating": "8.0",
+    "total_chapters": 92
+  },
+  {
     "id": "trash-count",
     "title": "رواية قمامة عائلة الكونت",
     "url": "https://cenele.com/cont/trash-count",
@@ -180,16 +309,6 @@
     "total_chapters": 670
   },
   {
-    "id": "the-creatures-that-we-are-riwya",
-    "title": "رواية متاهة الوحوش",
-    "url": "https://cenele.com/cont/the-creatures-that-we-are-riwya",
-    "cover_url": "https://cenele.com/wp-content/uploads/2026/06/رواية-متاهة-الوحوش-فضاء-الروايات-175x238.webp",
-    "type": "رواية",
-    "status": "مستمر",
-    "rating": "8.6",
-    "total_chapters": 1103
-  },
-  {
     "id": "awill-beyond-oblivion",
     "title": "إرادة تتجاوز النسيان",
     "url": "https://cenele.com/cont/awill-beyond-oblivion",
@@ -198,26 +317,6 @@
     "status": "مستمر",
     "rating": "8.0",
     "total_chapters": 292
-  },
-  {
-    "id": "curse-of-minamoto",
-    "title": "سيّد هييان: لعنة آل ميناموتو",
-    "url": "https://cenele.com/cont/curse-of-minamoto",
-    "cover_url": "https://cenele.com/wp-content/uploads/2026/09/b8a59598-620f-4d55-90d6-68e666876658-175x238.webp",
-    "type": "رواية",
-    "status": "مستمر",
-    "rating": "7.4",
-    "total_chapters": 84
-  },
-  {
-    "id": "novel-the-strategist",
-    "title": "الإستراتجي الأعظم",
-    "url": "https://cenele.com/cont/novel-the-strategist",
-    "cover_url": "https://cenele.com/wp-content/uploads/2021/03/46ceb2b4-7b02-4a5c-a2f3-72e9929ef3ea_11zon-175x238.webp",
-    "type": "رواية",
-    "status": "مستمر",
-    "rating": "9.4",
-    "total_chapters": 79
   },
   {
     "id": "the-last-melody",
@@ -230,16 +329,6 @@
     "total_chapters": 5
   },
   {
-    "id": "my-mh-mam",
-    "title": "الغموض القوة الفوضى",
-    "url": "https://cenele.com/cont/my-mh-mam",
-    "cover_url": "https://cenele.com/wp-content/uploads/2024/03/8920cc4d-e524-40f5-afc8-7ca35df92aa2-175x238.webp",
-    "type": "رواية",
-    "status": "مستمر",
-    "rating": "8.3",
-    "total_chapters": 370
-  },
-  {
     "id": "the-mother-of-learni",
     "title": "رواية أم التعلم",
     "url": "https://cenele.com/cont/the-mother-of-learni",
@@ -248,26 +337,6 @@
     "status": "مستمر",
     "rating": "8.3",
     "total_chapters": 103
-  },
-  {
-    "id": "deep-sea-embers-riwya",
-    "title": "رواية جمر أعماق البحار",
-    "url": "https://cenele.com/cont/deep-sea-embers-riwya",
-    "cover_url": "https://cenele.com/wp-content/uploads/2026/07/7cdbe624-e3ff-47b3-91ad-c33769ef59ed-175x238.png",
-    "type": "رواية",
-    "status": "مستمر",
-    "rating": "7.5",
-    "total_chapters": 40
-  },
-  {
-    "id": "building-my-own-empire",
-    "title": "تاجر الكوارث",
-    "url": "https://cenele.com/cont/building-my-own-empire",
-    "cover_url": "https://cenele.com/wp-content/uploads/2026/08/1000092274-1-175x238.png",
-    "type": "رواية",
-    "status": "مستمر",
-    "rating": "6.9",
-    "total_chapters": 92
   },
   {
     "id": "kingm-bline",
@@ -290,25 +359,6 @@
     "total_chapters": 1838
   },
   {
-    "id": "circle-of-inevi",
-    "title": "حلقة الحتمية",
-    "url": "https://cenele.com/cont/circle-of-inevi",
-    "cover_url": "https://cenele.com/wp-content/uploads/2026/09/f6f20b89-c326-4db6-a940-90ae0a6f6480-175x238.webp",
-    "type": "رواية",
-    "status": "مستمر",
-    "rating": "8.2",
-    "total_chapters": 81
-  },
-  {
-    "id": "tales-of-herding-riwyat",
-    "title": "سجل الراعي السماوي",
-    "url": "https://cenele.com/cont/tales-of-herding-riwyat",
-    "cover_url": "https://cenele.com/wp-content/uploads/2026/07/ca636412be9f3d1a-175x238.webp",
-    "type": "رواية",
-    "status": "مستمر",
-    "rating": ""
-  },
-  {
     "id": "create-heaven-riwya",
     "title": "انشاء القوانين السماوية",
     "url": "https://cenele.com/cont/create-heaven-riwya",
@@ -322,15 +372,6 @@
     "title": "رواية الإبن الأصغر لسيد السيف",
     "url": "https://cenele.com/cont/sword-youngest-son",
     "cover_url": "https://cenele.com/wp-content/uploads/2022/06/Picsart_23-01-09_21-50-29-958-1-175x238.jpg",
-    "type": "رواية",
-    "status": "مستمر",
-    "rating": ""
-  },
-  {
-    "id": "lord-of-wishes",
-    "title": "سيد التمني",
-    "url": "https://cenele.com/cont/lord-of-wishes",
-    "cover_url": "https://cenele.com/wp-content/uploads/2026/06/IMG_٢٠٢٦٠٣١٧_٠٩١٢٣٤-175x238.jpg",
     "type": "رواية",
     "status": "مستمر",
     "rating": ""
@@ -372,28 +413,10 @@
     "rating": ""
   },
   {
-    "id": "the-eldest-daughter-of-the-tang",
-    "title": "الابنة الكبرى لعشيرة تانغ في سيتشون تحمي العائلة",
-    "url": "https://cenele.com/cont/the-eldest-daughter-of-the-tang",
-    "cover_url": "https://cenele.com/wp-content/uploads/2026/09/63ab3a44-272c-4f72-b497-ffd3961a9132-175x238.webp",
-    "type": "رواية",
-    "status": "مستمر",
-    "rating": ""
-  },
-  {
     "id": "absol-sword",
     "title": "نية السيف المطلقة",
     "url": "https://cenele.com/cont/absol-sword",
     "cover_url": "https://cenele.com/wp-content/uploads/2022/06/a9e6c60c-fa16-4092-b312-7d9e7e536154-175x238.webp",
-    "type": "رواية",
-    "status": "مستمر",
-    "rating": ""
-  },
-  {
-    "id": "the-perfect-run",
-    "title": "رواية المسار المثالي",
-    "url": "https://cenele.com/cont/the-perfect-run",
-    "cover_url": "https://cenele.com/wp-content/uploads/2025/05/22_202501161294108-175x238.png",
     "type": "رواية",
     "status": "مستمر",
     "rating": ""
@@ -457,15 +480,6 @@
     "title": "مملكة التآكل",
     "url": "https://cenele.com/cont/mmlakt-corrosion",
     "cover_url": "https://cenele.com/wp-content/uploads/2026/08/c9b06fc9-d067-4021-9400-51e58bd8c178-175x238.webp",
-    "type": "رواية",
-    "status": "مستمر",
-    "rating": ""
-  },
-  {
-    "id": "lord-mysteri",
-    "title": "رواية لورد الغوامض",
-    "url": "https://cenele.com/cont/lord-mysteri",
-    "cover_url": "https://cenele.com/wp-content/uploads/2026/04/Gemini_Generated_Image_temfrvtemfrvtemf_11zon-1-175x238.webp",
     "type": "رواية",
     "status": "مستمر",
     "rating": ""

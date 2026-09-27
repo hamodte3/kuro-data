@@ -9,8 +9,8 @@ BASE_URL = "https://kolnovel.com"
 DATA_DIR = os.path.join("data", "kolnovel")
 CATALOG_FILE = os.path.join(DATA_DIR, "catalog.json")
 
-DETAILS_SYNC_LIMIT = 20   # تجهيز بيانات وفصول أفضل 20 رواية
-MAX_PAGES_SAFETY = 1000   # تغطية الفهرس العام
+DETAILS_SYNC_LIMIT = 20   # تجهيز أحدث 20 رواية طرأ عليها تحديث
+MAX_DELTA_PAGES = 5       # فحص أول 5 صفحات فقط كل ساعة بدلاً من 1000
 
 os.makedirs(DATA_DIR, exist_ok=True)
 
@@ -82,7 +82,6 @@ def extract_chapters_kolnovel(soup: BeautifulSoup) -> dict:
         raw_title = a_node.select_one(".epl-title")
         raw_title_text = raw_title.text.strip() if raw_title else ""
 
-        # استخراج رقم الفصل وتجاوز رقم المجلد
         ch_match = chapter_num_pattern.search(raw_num_text)
         if ch_match:
             clean_num = ch_match.group(1)
@@ -90,7 +89,6 @@ def extract_chapters_kolnovel(soup: BeautifulSoup) -> dict:
             all_nums = any_number_pattern.findall(raw_num_text)
             clean_num = all_nums[-1] if all_nums else ""
 
-        # تنسيق الرقم (تحويل 15.0 إلى 15 مع إبقاء 56.5)
         if clean_num:
             try:
                 v = float(clean_num)
@@ -117,7 +115,6 @@ def extract_chapters_kolnovel(soup: BeautifulSoup) -> dict:
 
 def scrape_novel_details_kolnovel(session, novel_url: str):
     clean_url = normalize_url(novel_url)
-    # كسر كاش الخادم للحصول على أحدث فصول دائماً
     cache_url = f"{clean_url}?_t={int(time.time())}"
     custom_headers = {
         **HEADERS,
