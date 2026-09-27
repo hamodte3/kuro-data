@@ -10,7 +10,7 @@ DATA_DIR = os.path.join("data", "ashiq")
 CATALOG_FILE = os.path.join(DATA_DIR, "catalog.json")
 GLOBAL_NEW_FILE = os.path.join("data", "new.json")
 
-DETAILS_SYNC_LIMIT = 20    # فحص تفاصيل وفصول أحدث 20 عملاً تم تحديثها
+DETAILS_SYNC_LIMIT = 2000    # فحص تفاصيل وفصول أحدث 20 عملاً تم تحديثها
 MAX_DELTA_PAGES = 2000        # فحص أول 5 صفحات فقط كل ساعة بدلاً من 1000
 
 os.makedirs(DATA_DIR, exist_ok=True)
