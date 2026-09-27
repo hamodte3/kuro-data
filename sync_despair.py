@@ -10,8 +10,8 @@ DATA_DIR = os.path.join("data", "despair")
 CATALOG_FILE = os.path.join(DATA_DIR, "catalog.json")
 GLOBAL_NEW_FILE = os.path.join("data", "new.json")
 
-DETAILS_SYNC_LIMIT = 20    # تجهيز بيانات وفصول أحدث 20 عملاً تم تحديثها
-MAX_DELTA_PAGES = 5        # فحص أول 5 صفحات فقط كل ساعة لمراقبة الجديد
+DETAILS_SYNC_LIMIT = 2000    # تجهيز بيانات وفصول أحدث 20 عملاً تم تحديثها
+MAX_DELTA_PAGES = 1000        # فحص أول 5 صفحات فقط كل ساعة لمراقبة الجديد
 
 os.makedirs(DATA_DIR, exist_ok=True)
 os.makedirs("data", exist_ok=True)
@@ -179,7 +179,6 @@ def scrape_manga_details_despair(session, manga_url: str):
     rate_el = soup.select_one("div.num[itemprop=ratingValue], .numscore")
     rating = format_rating(rate_el.text if rate_el else "")
 
-    # دعم الكلمات بالإنجليزية والعربية
     status_el = soup.find(lambda t: t.name in ["div", "span"] and any(w in t.text for w in ["Status", "الحالة"]))
     raw_status = status_el.find("i").text.strip() if (status_el and status_el.find("i")) else "مستمر"
     status = format_status(raw_status)
@@ -279,7 +278,8 @@ def sync_despair_fast():
                         "cover_url": cover_url,
                         "type": "رواية" if is_novel else format_type(raw_type),
                         "status": format_status(raw_status),
-                        "total_chapters": 0
+                        "total_chapters": 0,
+                        "genres": []  # تهيئة حقل التصنيفات دائماً
                     }
 
                 # تسجيل الترتيب السليم من الأحدث للأقدم
@@ -296,7 +296,7 @@ def sync_despair_fast():
             print(f"خطأ أثناء سحب صفحة {page}: {e}")
             break
 
-    # 2. تحديث تفاصيل وفصول أحدث 20 عملاً
+    # 2. تحديث تفاصيل وفصول وتصنيفات أحدث 20 عملاً
     targets_slugs = ordered_recent_slugs[:DETAILS_SYNC_LIMIT]
     new_releases = []
 
@@ -316,9 +316,13 @@ def sync_despair_fast():
             item["rating"] = details["rating"]
             item["type"] = details["type"]
             item["total_chapters"] = current_chaps
-            print(f"✓ [{index}/{len(targets_slugs)}] تم تحديث ديسبير: {slug} ({current_chaps} فصل)")
+            
+            # حفظ التصنيفات الحقيقية في الكاتلوج
+            item["genres"] = details.get("genres", [])
 
-            # إشعار دقيق: فصل جديد أم عمل جديد بالكامل
+            print(f"✓ [{index}/{len(targets_slugs)}] تم تحديث ديسبير: {slug} ({current_chaps} فصل) - تصنيفات: {item['genres']}")
+
+            # كشف التحديث لتوليد التنبيه
             if current_chaps > prev_chaps and current_chaps > 0:
                 new_releases.append({
                     "id": slug,
@@ -332,7 +336,7 @@ def sync_despair_fast():
         except Exception as e:
             print(f"خطأ أثناء معالجة {slug}: {e}")
 
-    # 3. بناء الفهرس النهائي: الأعمال المحدثة أولاً بترتيبها الحقيقي + باقي الأرشيف في الأسفل
+    # 3. بناء الفهرس النهائي بالتصنيفات
     seen_slugs = set(ordered_recent_slugs)
     final_merged_catalog = [catalog_dict[s] for s in ordered_recent_slugs] + [
         item for s, item in catalog_dict.items() if s not in seen_slugs
