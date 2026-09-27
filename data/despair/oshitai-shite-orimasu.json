@@ -1,0 +1,25 @@
+{
+  "id": "oshitai-shite-orimasu",
+  "title": "Oshitai shite Orimasu.",
+  "cover_url": "https://i2.wp.com/despair-world.com/wp-content/uploads/2025/04/large_359a4693-bd3c-43f8-897c-6f88aec17b25.jpg.512.webp",
+  "description": "شخصان يحاولان إنهاء زواجهما المرتب لأسباب خاصة بهما. يحاولان جعل بعضهما يكره الآخر ، ولكن ماذا يحدث؟ يلتقي أوتاكو من مختلف الأنواع ويتفجر شغفهم",
+  "type": "مانغا",
+  "status": "مستمر",
+  "last_update": "2025-04-18",
+  "rating": "7.5",
+  "favorites": "1",
+  "genres": [
+    "رومانسي",
+    "شوجو",
+    "كوميديا"
+  ],
+  "is_novel": false,
+  "chapters": {
+    "https://despair-manga.net/oshitai-shite-orimasu-%d8%a7%d9%84%d9%81%d8%b5%d9%84-2/": {
+      "name": "2"
+    },
+    "https://despair-manga.net/oshitai-shite-orimasu-%d8%a7%d9%84%d9%81%d8%b5%d9%84-1/": {
+      "name": "1"
+    }
+  }
+}

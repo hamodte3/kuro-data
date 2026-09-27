@@ -1,0 +1,35 @@
+{
+  "id": "wistoria-wand-and-sword",
+  "title": "WISTORIA: WAND AND SWORD",
+  "cover_url": "https://i2.wp.com/despair-world.com/wp-content/uploads/2025/02/page-00.jpg",
+  "description": "سلسلة الخيال الجديدة المليئة بالمغامرات والمغامرات السحرية من تأليف مؤلف كتاب “هل من الخطأ محاولة التقاط الفتيات في الزنزانة؟”. في محاولة للوفاء بوعد قطعه لصديق طفولته، يلتحق ويل سيرفورت بأكاديمية ريجاردن السحرية بهدف الوصول إلى قمة العالم السحري. ولكن هناك مشكلة واحدة فقط: فهو لا يستطيع استخدام السحر! فهل ستكون مهاراته في استخدام السيف هي المفتاح لإطلاق العنان لإمكاناته الحقيقية؟",
+  "type": "مانغا",
+  "status": "مستمر",
+  "last_update": "2025-02-21",
+  "rating": "7.5",
+  "favorites": "58",
+  "genres": [
+    "أكشن",
+    "خارق للطبيعة",
+    "رومانسي",
+    "شونين",
+    "قوة خارقة",
+    "مدرسي",
+    "مغامرة"
+  ],
+  "is_novel": false,
+  "chapters": {
+    "https://despair-manga.net/wistoria-wand-and-sword-%d8%a7%d9%84%d9%81%d8%b5%d9%84-4/": {
+      "name": "4"
+    },
+    "https://despair-manga.net/wistoria-wand-and-sword-%d8%a7%d9%84%d9%81%d8%b5%d9%84-3/": {
+      "name": "3"
+    },
+    "https://despair-manga.net/wistoria-wand-and-sword-%d8%a7%d9%84%d9%81%d8%b5%d9%84-2/": {
+      "name": "2"
+    },
+    "https://despair-manga.net/wistoria-wand-and-sword-%d8%a7%d9%84%d9%81%d8%b5%d9%84-1/": {
+      "name": "1"
+    }
+  }
+}

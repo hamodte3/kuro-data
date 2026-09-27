@@ -1,0 +1,53 @@
+{
+  "id": "kagurabachi",
+  "title": "Kagurabachi",
+  "cover_url": "https://i2.wp.com/despair-world.com/wp-content/uploads/2025/02/20250224_081527.jpg",
+  "description": "لا يوجد وصف",
+  "type": "مانغا",
+  "status": "مستمر",
+  "last_update": "2025-04-28",
+  "rating": "7.5",
+  "favorites": "9",
+  "genres": [
+    "أكشن",
+    "ساموراي",
+    "شونين",
+    "فنون قتالية"
+  ],
+  "is_novel": false,
+  "chapters": {
+    "https://despair-manga.net/kagurabachi-%d8%a7%d9%84%d9%81%d8%b5%d9%84-77/": {
+      "name": "77"
+    },
+    "https://despair-manga.net/kagurabachi-%d8%a7%d9%84%d9%81%d8%b5%d9%84-76/": {
+      "name": "76"
+    },
+    "https://despair-manga.net/kagurabachi-%d8%a7%d9%84%d9%81%d8%b5%d9%84-75/": {
+      "name": "75"
+    },
+    "https://despair-manga.net/kagurabachi-%d8%a7%d9%84%d9%81%d8%b5%d9%84-74/": {
+      "name": "74"
+    },
+    "https://despair-manga.net/kagurabachi-%d8%a7%d9%84%d9%81%d8%b5%d9%84-73/": {
+      "name": "73"
+    },
+    "https://despair-manga.net/kagurabachi-%d8%a7%d9%84%d9%81%d8%b5%d9%84-72/": {
+      "name": "72"
+    },
+    "https://despair-manga.net/kagurabachi-%d8%a7%d9%84%d9%81%d8%b5%d9%84-71/": {
+      "name": "71"
+    },
+    "https://despair-manga.net/kagurabachi-%d8%a7%d9%84%d9%81%d8%b5%d9%84-70/": {
+      "name": "70"
+    },
+    "https://despair-manga.net/kagurabachi-%d8%a7%d9%84%d9%81%d8%b5%d9%84-69/": {
+      "name": "69"
+    },
+    "https://despair-manga.net/kagurabachi-%d8%a7%d9%84%d9%81%d8%b5%d9%84-68/": {
+      "name": "68"
+    },
+    "https://despair-manga.net/kagurabachi-%d8%a7%d9%84%d9%81%d8%b5%d9%84-67/": {
+      "name": "67"
+    }
+  }
+}
