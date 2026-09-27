@@ -1,4 +1,3 @@
-import html as html_lib
 import json
 import os
 import re
@@ -39,7 +38,7 @@ def normalize_url(url: str) -> str:
     )
 
 def format_chapter_number(raw_num) -> str:
-    """تنسيق رقم الفصل مع الحفاظ التام على الأرقام العشرية (مثل 89.5 و 3.5)"""
+    """تنسيق رقم الفصل مع الحفاظ التام على الأرقام العشرية (مثل 89.5)"""
     try:
         val = float(raw_num)
         return str(int(val)) if val.is_integer() else str(val)
@@ -124,60 +123,6 @@ def update_global_new_releases(new_releases: list):
         json.dump(deduped[:15], f, ensure_ascii=False, indent=2)
     print(f"🔔 تم تسجيل {len(new_releases)} تحديث جديد لأزورا في {GLOBAL_NEW_FILE}")
 
-def extract_all_chapters_astro(html_text: str, series_slug: str) -> dict:
-    """استخراج جميع الفصول من مصفوفة initialChap المشفرة داخل Astro Island"""
-    chapters_map = {}
-
-    # 1. البحث عن الـ props داخل وسوم astro-island
-    island_props = re.findall(r'<astro-island[^>]*props="([^"]+)"', html_text)
-    for raw_props in island_props:
-        unescaped = html_lib.unescape(raw_props)
-        if "initialChap" not in unescaped:
-            continue
-
-        try:
-            props_data = json.loads(unescaped)
-            initial_chap_wrapper = props_data.get("initialChap")
-            
-            # بنية Astro للبيانات: [1, [ [0, ch_obj1], [0, ch_obj2], ... ]]
-            if isinstance(initial_chap_wrapper, list) and len(initial_chap_wrapper) > 1:
-                ch_array = initial_chap_wrapper[1]
-                if isinstance(ch_array, list):
-                    for item in ch_array:
-                        ch_obj = item[1] if (isinstance(item, list) and len(item) > 1) else item
-                        if not isinstance(ch_obj, dict):
-                            continue
-
-                        # استخراج رقم الفصل (يدعم الكسور 89.5)
-                        num_wrapper = ch_obj.get("number")
-                        num_val = num_wrapper[1] if (isinstance(num_wrapper, list) and len(num_wrapper) > 1) else num_wrapper
-
-                        # استخراج slug الفصل
-                        slug_wrapper = ch_obj.get("slug")
-                        slug_val = slug_wrapper[1] if (isinstance(slug_wrapper, list) and len(slug_wrapper) > 1) else slug_wrapper
-
-                        if num_val is not None:
-                            clean_name = format_chapter_number(num_val)
-                            ch_slug = slug_val or f"chapter-{clean_name}"
-                            full_url = f"{BASE_URL}/series/{series_slug}/{ch_slug}"
-                            chapters_map[full_url] = {"name": clean_name}
-        except Exception:
-            pass
-
-    # 2. خطة احتياطية بـ Regex ذكي على النص المفكوك إذا تعذر الـ JSON
-    if not chapters_map:
-        clean_html = html_lib.unescape(html_text)
-        pattern = re.compile(r'["\']slug["\']\s*:\s*\[\s*\d+\s*,\s*["\'](chapter-[^"\']+)["\']\]')
-        for match in pattern.finditer(clean_html):
-            ch_slug = match.group(1)
-            raw_num = ch_slug.lower().replace("chapter-", "").replace("_", ".").replace("-", ".")
-            num_match = re.search(r"\d+(\.\d+)?", raw_num)
-            clean_name = format_chapter_number(num_match.group(0)) if num_match else raw_num
-            full_url = f"{BASE_URL}/series/{series_slug}/{ch_slug}"
-            chapters_map[full_url] = {"name": clean_name}
-
-    return chapters_map
-
 def scrape_manga_details(session, manga_url: str):
     clean_url = normalize_url(manga_url).rstrip("/")
     cache_url = f"{clean_url}?_t={int(time.time())}"
@@ -231,11 +176,38 @@ def scrape_manga_details(session, manga_url: str):
     rating = format_rating(raw_rate)
 
     series_slug = clean_url.split("/")[-1]
+    chapters_map = {}
 
-    # 🔥 استخراج كافة الفصول الـ 92 كاملة من بيانات Astro props
-    chapters_map = extract_all_chapters_astro(html, series_slug)
+    # 🎯 1. استخراج postId لاستدعاء الـ API الرسمي المكتشف
+    post_id = None
+    post_id_match = re.search(r'postId(?:&quot;|"):\s*\[\s*\d+\s*,\s*(\d+)\]', html) or re.search(r'"postId":\s*(\d+)', html)
+    if post_id_match:
+        post_id = post_id_match.group(1)
 
-    # احتياطي أخير بالـ DOM إذا كانت صفحة قديمة غير مبنية بـ Astro
+    # 🎯 2. جلب كل الفصول دفعة واحدة عبر Endpoint أزورا الحقيقي
+    if post_id:
+        try:
+            api_url = f"https://api.azorafly.com/api/chapters?postId={post_id}&take=1000"
+            api_res = session.get(api_url, headers={
+                "Origin": BASE_URL,
+                "Referer": clean_url,
+                "Accept": "application/json"
+            }, timeout=20)
+
+            if api_res.status_code == 200:
+                data = api_res.json()
+                chapters_list = data.get("post", {}).get("chapters", [])
+                for ch in chapters_list:
+                    slug = ch.get("slug")
+                    num_val = ch.get("number")
+                    if slug and num_val is not None:
+                        clean_name = format_chapter_number(num_val)
+                        full_url = f"{BASE_URL}/series/{series_slug}/{slug}"
+                        chapters_map[full_url] = {"name": clean_name}
+        except Exception as e:
+            print(f"تنبيه: تعذر سحب الفصول عبر API أزورا: {e}")
+
+    # خطة احتياطية عبر مسح روابط الصفحة إن تعطل الـ API
     if not chapters_map:
         for a in soup.select("a[href*='/chapter-'], a[href*='/chapter_']"):
             href = a.get("href", "").strip()
@@ -292,7 +264,6 @@ def sync_fast():
                 if cover and not cover.startswith("http"): cover = f"{BASE_URL}{cover}"
                 cover_url = cover.replace("http://", "https://")
 
-                # الدمج الآمن مع الحفاظ على التصنيفات المسجلة مسبقاً
                 if slug in catalog_dict:
                     catalog_dict[slug]["title"] = title
                     catalog_dict[slug]["url"] = manga_url
@@ -309,7 +280,7 @@ def sync_fast():
                             "cover_url": cover_url,
                             "type": "مانهوا",
                             "total_chapters": 0,
-                            "genres": []  # تهيئة حقل التصنيفات دائماً
+                            "genres": []
                         },
                         **catalog_dict
                     }
@@ -325,7 +296,7 @@ def sync_fast():
             print(f"خطأ في صفحة {page}: {e}")
             break
 
-    # 2. جلب تفاصيل وفهرس فصول أحدث 20 عملاً
+    # 2. جلب تفاصيل وفصول أحدث 20 عملاً
     targets_to_scrape = recent_targets[:DETAILS_SYNC_LIMIT]
     new_releases = []
 
@@ -344,13 +315,10 @@ def sync_fast():
             item["status"] = details["status"]
             item["rating"] = details["rating"]
             item["total_chapters"] = current_chaps
-            
-            # حفظ التصنيفات الحقيقية في الكاتلوج
             item["genres"] = details.get("genres", [])
             
             print(f"✓ تم تجهيز: {slug} ({current_chaps} فصل) - تصنيفات: {item['genres']}")
 
-            # كشف التحديث لتوليد التنبيه
             if current_chaps > prev_chaps and current_chaps > 0:
                 new_releases.append({
                     "id": slug,
