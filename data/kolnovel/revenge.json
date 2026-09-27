@@ -1,0 +1,37 @@
+{
+  "id": "revenge",
+  "title": "الإنتقام",
+  "cover_url": "https://kolnovel.com/wp-content/uploads/2021/04/novelimage3.png",
+  "description": "إنتقام أخ.\n(قصة قصيرة بنهاية مأساوية.)",
+  "type": "رواية",
+  "status": "مكتمل",
+  "last_update": "أبريل 24, 2021",
+  "rating": "",
+  "favorites": "",
+  "genres": [
+    "دراما",
+    "مأساوي",
+    "نفسي"
+  ],
+  "is_novel": true,
+  "chapters": {
+    "https://kolnovel.com/shaag24revengez435ggye-129729": {
+      "name": "الفصل 5: الفصل الأخير"
+    },
+    "https://kolnovel.com/shaag24revengez435ggye-129728": {
+      "name": "الفصل 5: الفصل الأخير"
+    },
+    "https://kolnovel.com/shaag24revengez435ggye-129726": {
+      "name": "الفصل 4: الفصل الرابع"
+    },
+    "https://kolnovel.com/shaag24revengez435ggye-129724": {
+      "name": "الفصل 3: الفصل الثالث"
+    },
+    "https://kolnovel.com/shaag24revengez435ggye-129722": {
+      "name": "الفصل 2: الفصل الثاني"
+    },
+    "https://kolnovel.com/shaag24revengez435ggye-129720": {
+      "name": "الفصل 1: الفصل الأول"
+    }
+  }
+}
