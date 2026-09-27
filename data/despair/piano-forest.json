@@ -1,0 +1,39 @@
+{
+  "id": "piano-forest",
+  "title": "Piano Forest",
+  "cover_url": "https://i0.wp.com/despair-world.com/wp-content/uploads/2025/04/401e610a47d2c878404da9b2fac70877-1.jpg",
+  "description": "قصة هادئة عن ولدين من نشأة مختلفة تمامًا. من جهة، كاي، ابن عاهرة، يعزف على بيانو مهجور في الغابة القريبة من منزله منذ صغره. ومن جهة أخرى، سيوهي، ابن عائلة مرموقة من عازفي البيانو، يكاد يرضع من عزف البيانو، ومع ذلك فإن رابطهما المشترك بالبيانو هو ما يربط بينهما في نهاية المطاف",
+  "type": "مانغا",
+  "status": "مستمر",
+  "last_update": "2025-05-03",
+  "rating": "7.5",
+  "favorites": "",
+  "genres": [
+    "دراما",
+    "سينين",
+    "شريحة من الحياة",
+    "كوميديا",
+    "مدرسي"
+  ],
+  "is_novel": false,
+  "chapters": {
+    "https://despair-manga.net/piano-forest-%d8%a7%d9%84%d9%81%d8%b5%d9%84-6/": {
+      "name": "6"
+    },
+    "https://despair-manga.net/piano-forest-%d8%a7%d9%84%d9%81%d8%b5%d9%84-5/": {
+      "name": "5"
+    },
+    "https://despair-manga.net/piano-forest-%d8%a7%d9%84%d9%81%d8%b5%d9%84-4/": {
+      "name": "4"
+    },
+    "https://despair-manga.net/piano-forest-%d8%a7%d9%84%d9%81%d8%b5%d9%84-3/": {
+      "name": "3"
+    },
+    "https://despair-manga.net/piano-forest-%d8%a7%d9%84%d9%81%d8%b5%d9%84-2/": {
+      "name": "2"
+    },
+    "https://despair-manga.net/piano-forest-%d8%a7%d9%84%d9%81%d8%b5%d9%84-1/": {
+      "name": "1"
+    }
+  }
+}

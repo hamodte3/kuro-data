@@ -1,0 +1,954 @@
+{
+  "id": "valhalla-saga",
+  "title": "ملحمة فالهالا",
+  "cover_url": "https://kolnovel.com/wp-content/uploads/2021/11/IMG_20211112_200055.png",
+  "description": "يموت لاعب ألعاب كومبيوتر محترف بشكل غير متوقع خلال إحدى دورات الرياضة الإلكترونية ويرسل الى فالهالا، وهي جنة مخصصة لأعظم المحاربين فقط.\nمحاربي فالهالا حرضوا على الكفاح من أجل البقاء في مواجهة عدو مشترك. لحسن الحظ ، داخل كل محارب تكمن جذور الملحمة الخاصة بهم ، قصة أسطورية لصعودهم إلى الشهرة والفاخر بالإنجاز العظيم على حد سواء.\nشاهد ولادة ملحمة ملحمية حيث يتحدى هذا اللاعب الأساطير ويمنح الطريق نحو المجد الأعظم.\nتدور القصة نفسها حول الأساطير النوردية ‘الإسكندنافية’ وتتضمن نظامًا للألعاب إلى جانب السحرة والمحاربين الأقوياء.",
+  "type": "رواية",
+  "status": "مكتمل",
+  "last_update": "مارس 7, 2021",
+  "rating": "",
+  "favorites": "",
+  "genres": [
+    "أكشن",
+    "حريم",
+    "شونين",
+    "كوميدي",
+    "مغامرة"
+  ],
+  "is_novel": true,
+  "chapters": {
+    "https://kolnovel.com/shaag24valhalla-sagaz435ggye-93246": {
+      "name": "الفصل 309: قصة جانبية #4 مذكرات هيدا وإيدون"
+    },
+    "https://kolnovel.com/shaag24valhalla-sagaz435ggye-93244": {
+      "name": "الفصل 308: قصة جانبية #3 مذكرات نيدهوغ"
+    },
+    "https://kolnovel.com/shaag24valhalla-sagaz435ggye-93242": {
+      "name": "الفصل 307: قصة جانبية #2 إذا"
+    },
+    "https://kolnovel.com/shaag24valhalla-sagaz435ggye-93240": {
+      "name": "الفصل 306: قصة جانبية #1 مذكرات أدينماها"
+    },
+    "https://kolnovel.com/shaag24valhalla-sagaz435ggye-93238": {
+      "name": "الفصل 305: الخاتمة #3"
+    },
+    "https://kolnovel.com/shaag24valhalla-sagaz435ggye-93236": {
+      "name": "الفصل 304: الخاتمة #2"
+    },
+    "https://kolnovel.com/shaag24valhalla-sagaz435ggye-93234": {
+      "name": "الفصل 303: الخاتمة #1"
+    },
+    "https://kolnovel.com/shaag24valhalla-sagaz435ggye-93232": {
+      "name": "الفصل 302: الحلقة الأخيرة"
+    },
+    "https://kolnovel.com/shaag24valhalla-sagaz435ggye-93230": {
+      "name": "الفصل 301: الحلقة 72: الفصل 5: راجناروك #5"
+    },
+    "https://kolnovel.com/shaag24valhalla-sagaz435ggye-93228": {
+      "name": "الفصل 300: الحلقة 72: الفصل 4: راجناروك #4"
+    },
+    "https://kolnovel.com/shaag24valhalla-sagaz435ggye-93226": {
+      "name": "الفصل 299: الحلقة 72: الفصل 3: راجناروك #3"
+    },
+    "https://kolnovel.com/shaag24valhalla-sagaz435ggye-93224": {
+      "name": "الفصل 298: الحلقة 72: الفصل 2: راجناروك #2"
+    },
+    "https://kolnovel.com/shaag24valhalla-sagaz435ggye-93222": {
+      "name": "الفصل 297: الحلقة 72: الفصل 1: راجناروك #1"
+    },
+    "https://kolnovel.com/shaag24valhalla-sagaz435ggye-93220": {
+      "name": "الفصل 296: الحلقة 71: الفصل 4: أزغارد #4"
+    },
+    "https://kolnovel.com/shaag24valhalla-sagaz435ggye-93218": {
+      "name": "الفصل 295: الحلقة 71: الفصل 3: أزغارد #3"
+    },
+    "https://kolnovel.com/shaag24valhalla-sagaz435ggye-93216": {
+      "name": "الفصل 294: الحلقة 71: الفصل 2: أزغارد #2"
+    },
+    "https://kolnovel.com/shaag24valhalla-sagaz435ggye-93214": {
+      "name": "الفصل 293: الحلقة 71: الفصل 1: أزغارد #1"
+    },
+    "https://kolnovel.com/shaag24valhalla-sagaz435ggye-93212": {
+      "name": "الفصل 292: الحلقة 70: الفصل 7: سيف تنين العالم #7"
+    },
+    "https://kolnovel.com/shaag24valhalla-sagaz435ggye-93210": {
+      "name": "الفصل 291: الحلقة 70: الفصل 6: سيف تنين العالم #6"
+    },
+    "https://kolnovel.com/shaag24valhalla-sagaz435ggye-93208": {
+      "name": "الفصل 290: الحلقة 70: الفصل 5: سيف تنين العالم #5"
+    },
+    "https://kolnovel.com/shaag24valhalla-sagaz435ggye-93206": {
+      "name": "الفصل 289: الحلقة 70: الفصل 4: سيف تنين العالم #4"
+    },
+    "https://kolnovel.com/shaag24valhalla-sagaz435ggye-93204": {
+      "name": "الفصل 288: الحلقة 70: الفصل 3: سيف تنين العالم #3"
+    },
+    "https://kolnovel.com/shaag24valhalla-sagaz435ggye-93202": {
+      "name": "الفصل 287: الحلقة 70: الفصل 2: سيف تنين العالم #2"
+    },
+    "https://kolnovel.com/shaag24valhalla-sagaz435ggye-93200": {
+      "name": "الفصل 286: الحلقة 70: الفصل 1: سيف تنين العالم #1"
+    },
+    "https://kolnovel.com/shaag24valhalla-sagaz435ggye-93198": {
+      "name": "الفصل 285: الحلقة 69: الفصل 5: لا يقهر على الإطلاق #5"
+    },
+    "https://kolnovel.com/shaag24valhalla-sagaz435ggye-93196": {
+      "name": "الفصل 284: الحلقة 69: الفصل 4: لا يقهر على الإطلاق #4"
+    },
+    "https://kolnovel.com/shaag24valhalla-sagaz435ggye-93194": {
+      "name": "الفصل 283: الحلقة 69: الفصل 3: لا يقهر على الإطلاق #3"
+    },
+    "https://kolnovel.com/shaag24valhalla-sagaz435ggye-93192": {
+      "name": "الفصل 282: الحلقة 69: الفصل 2: لا يقهر على الإطلاق #2"
+    },
+    "https://kolnovel.com/shaag24valhalla-sagaz435ggye-93190": {
+      "name": "الفصل 281: الحلقة 69: الفصل 1: لا يقهر على الإطلاق #1"
+    },
+    "https://kolnovel.com/shaag24valhalla-sagaz435ggye-93188": {
+      "name": "الفصل 280: الحلقة 68: الفصل 5: نزول الإله الخالد #5"
+    },
+    "https://kolnovel.com/shaag24valhalla-sagaz435ggye-93186": {
+      "name": "الفصل 279: الحلقة 68: الفصل 4: نزول الإله الخالد #4"
+    },
+    "https://kolnovel.com/shaag24valhalla-sagaz435ggye-93184": {
+      "name": "الفصل 278: الحلقة 68: الفصل 3: نزول الإله الخالد #3"
+    },
+    "https://kolnovel.com/shaag24valhalla-sagaz435ggye-93182": {
+      "name": "الفصل 277: الحلقة 68: الفصل 2: نزول الإله الخالد #2"
+    },
+    "https://kolnovel.com/shaag24valhalla-sagaz435ggye-93180": {
+      "name": "الفصل 276: الحلقة 68: الفصل 1: نزول الإله الخالد #1"
+    },
+    "https://kolnovel.com/shaag24valhalla-sagaz435ggye-93178": {
+      "name": "الفصل 275: الحلقة 67: الفصل 2: التنين القديم #2"
+    },
+    "https://kolnovel.com/shaag24valhalla-sagaz435ggye-93176": {
+      "name": "الفصل 274: الحلقة 67: الفصل 1: التنين القديم #1"
+    },
+    "https://kolnovel.com/shaag24valhalla-sagaz435ggye-93174": {
+      "name": "الفصل 273: الحلقة 66: الفصل 2: مملكة النار #2"
+    },
+    "https://kolnovel.com/shaag24valhalla-sagaz435ggye-93172": {
+      "name": "الفصل 272: الحلقة 66: الفصل 1: مملكة النار #1"
+    },
+    "https://kolnovel.com/shaag24valhalla-sagaz435ggye-93170": {
+      "name": "الفصل 271: الحلقة 65: الفصل 4: الكواكب العشرة #4"
+    },
+    "https://kolnovel.com/shaag24valhalla-sagaz435ggye-93168": {
+      "name": "الفصل 270: الحلقة 65: الفصل 3: الكواكب العشرة #3"
+    },
+    "https://kolnovel.com/shaag24valhalla-sagaz435ggye-93166": {
+      "name": "الفصل 269: الحلقة 65: الفصل 2: الكواكب العشرة #2"
+    },
+    "https://kolnovel.com/shaag24valhalla-sagaz435ggye-93164": {
+      "name": "الفصل 268: الحلقة 65: الفصل 1: الكواكب العشرة #1"
+    },
+    "https://kolnovel.com/shaag24valhalla-sagaz435ggye-93162": {
+      "name": "الفصل 267: الحلقة 64: الفصل 2: إله الاجتماعات #2"
+    },
+    "https://kolnovel.com/shaag24valhalla-sagaz435ggye-93160": {
+      "name": "الفصل 266: الحلقة 64: الفصل 1: إله الاجتماعات #1"
+    },
+    "https://kolnovel.com/shaag24valhalla-sagaz435ggye-93158": {
+      "name": "الفصل 265: الحلقة 63: الفصل 3: أسطورة البطل #3"
+    },
+    "https://kolnovel.com/shaag24valhalla-sagaz435ggye-93156": {
+      "name": "الفصل 264: الحلقة 63: الفصل 2: أسطورة البطل #2"
+    },
+    "https://kolnovel.com/shaag24valhalla-sagaz435ggye-93154": {
+      "name": "الفصل 263: الحلقة 63: الفصل 1: أسطورة البطل #1"
+    },
+    "https://kolnovel.com/shaag24valhalla-sagaz435ggye-93152": {
+      "name": "الفصل 262: الحلقة 62: الفصل 4: زئير البطل #4"
+    },
+    "https://kolnovel.com/shaag24valhalla-sagaz435ggye-93150": {
+      "name": "الفصل 261: الحلقة 62: الفصل 3: زئير البطل #3"
+    },
+    "https://kolnovel.com/shaag24valhalla-sagaz435ggye-93148": {
+      "name": "الفصل 260: الحلقة 62: الفصل 2: زئير البطل #2"
+    },
+    "https://kolnovel.com/shaag24valhalla-sagaz435ggye-93146": {
+      "name": "الفصل 259: الحلقة 62: الفصل 1: زئير البطل #1"
+    },
+    "https://kolnovel.com/shaag24valhalla-sagaz435ggye-93144": {
+      "name": "الفصل 258: الحلقة 61: الفصل 7: بطل عظيم #7"
+    },
+    "https://kolnovel.com/shaag24valhalla-sagaz435ggye-93142": {
+      "name": "الفصل 257: الحلقة 61: الفصل 6: بطل عظيم #6"
+    },
+    "https://kolnovel.com/shaag24valhalla-sagaz435ggye-93140": {
+      "name": "الفصل 256: الحلقة 61: الفصل 5: بطل عظيم #5"
+    },
+    "https://kolnovel.com/shaag24valhalla-sagaz435ggye-93138": {
+      "name": "الفصل 255: الحلقة 61: الفصل 4: بطل عظيم #4"
+    },
+    "https://kolnovel.com/shaag24valhalla-sagaz435ggye-93136": {
+      "name": "الفصل 254: الحلقة 61: الفصل 3: بطل عظيم #3"
+    },
+    "https://kolnovel.com/shaag24valhalla-sagaz435ggye-93134": {
+      "name": "الفصل 253: الحلقة 61: الفصل 2: بطل عظيم #2"
+    },
+    "https://kolnovel.com/shaag24valhalla-sagaz435ggye-93131": {
+      "name": "الفصل 252: الحلقة 61: الفصل 1: بطل عظيم #1"
+    },
+    "https://kolnovel.com/shaag24valhalla-sagaz435ggye-93125": {
+      "name": "الفصل 251: الحلقة 60: الفصل 3: سيف المائدة المستديرة #3"
+    },
+    "https://kolnovel.com/shaag24valhalla-sagaz435ggye-93121": {
+      "name": "الفصل 250: الحلقة 60: الفصل 2: سيف المائدة المستديرة #2"
+    },
+    "https://kolnovel.com/shaag24valhalla-sagaz435ggye-93119": {
+      "name": "الفصل 249: الحلقة 60: الفصل 1: سيف المائدة المستديرة #1"
+    },
+    "https://kolnovel.com/shaag24valhalla-sagaz435ggye-93117": {
+      "name": "الفصل 248: الحلقة 59: الفصل 9: إله الغزو #9"
+    },
+    "https://kolnovel.com/shaag24valhalla-sagaz435ggye-93115": {
+      "name": "الفصل 247: الحلقة 59: الفصل 8: إله الغزو #8"
+    },
+    "https://kolnovel.com/shaag24valhalla-sagaz435ggye-93113": {
+      "name": "الفصل 246: الحلقة 59: الفصل 7: إله الغزو #7"
+    },
+    "https://kolnovel.com/shaag24valhalla-sagaz435ggye-93111": {
+      "name": "الفصل 245: الحلقة 59: الفصل 6: إله الغزو #6"
+    },
+    "https://kolnovel.com/shaag24valhalla-sagaz435ggye-93109": {
+      "name": "الفصل 244: الحلقة 59: الفصل 5: إله الغزو #5"
+    },
+    "https://kolnovel.com/shaag24valhalla-sagaz435ggye-93107": {
+      "name": "الفصل 243: الحلقة 59: الفصل 4: إله الغزو #4"
+    },
+    "https://kolnovel.com/shaag24valhalla-sagaz435ggye-93105": {
+      "name": "الفصل 242: الحلقة 59: الفصل 3: إله الغزو #3"
+    },
+    "https://kolnovel.com/shaag24valhalla-sagaz435ggye-93103": {
+      "name": "الفصل 241: الحلقة 59: الفصل 2: إله الغزو #2"
+    },
+    "https://kolnovel.com/shaag24valhalla-sagaz435ggye-93101": {
+      "name": "الفصل 240: الحلقة 59: الفصل 1: إله الغزو #1"
+    },
+    "https://kolnovel.com/shaag24valhalla-sagaz435ggye-93099": {
+      "name": "الفصل 239: الحلقة 58: الفصل 5: إلهة القمر #5"
+    },
+    "https://kolnovel.com/shaag24valhalla-sagaz435ggye-93097": {
+      "name": "الفصل 238: الحلقة 58: الفصل 4: إلهة القمر #4"
+    },
+    "https://kolnovel.com/shaag24valhalla-sagaz435ggye-93095": {
+      "name": "الفصل 237: الحلقة 58: الفصل 3: إلهة القمر #3"
+    },
+    "https://kolnovel.com/shaag24valhalla-sagaz435ggye-93093": {
+      "name": "الفصل 236: الحلقة 58: الفصل 2: إلهة القمر #2"
+    },
+    "https://kolnovel.com/shaag24valhalla-sagaz435ggye-93091": {
+      "name": "الفصل 235: الحلقة 58: الفصل 1: إلهة القمر #1"
+    },
+    "https://kolnovel.com/shaag24valhalla-sagaz435ggye-93089": {
+      "name": "الفصل 234: الحلقة 57: الفصل 4: أم كل الوحوش #4"
+    },
+    "https://kolnovel.com/shaag24valhalla-sagaz435ggye-93087": {
+      "name": "الفصل 233: الحلقة 57: الفصل 3: أم كل الوحوش #3"
+    },
+    "https://kolnovel.com/shaag24valhalla-sagaz435ggye-93085": {
+      "name": "الفصل 232: الحلقة 57: الفصل 2: أم كل الوحوش #2"
+    },
+    "https://kolnovel.com/shaag24valhalla-sagaz435ggye-93083": {
+      "name": "الفصل 231: الحلقة 57: الفصل 1: أم كل الوحوش #1"
+    },
+    "https://kolnovel.com/shaag24valhalla-sagaz435ggye-93081": {
+      "name": "الفصل 230: الحلقة 56: الفصل 2: نقطة البداية #2"
+    },
+    "https://kolnovel.com/shaag24valhalla-sagaz435ggye-93079": {
+      "name": "الفصل 229: الحلقة 56: الفصل 1: نقطة البداية #1"
+    },
+    "https://kolnovel.com/shaag24valhalla-sagaz435ggye-93077": {
+      "name": "الفصل 228: الحلقة 55: الفصل 4: فيلق الإله الرئيسي #4"
+    },
+    "https://kolnovel.com/shaag24valhalla-sagaz435ggye-93075": {
+      "name": "الفصل 227: الحلقة 55: الفصل 3: فيلق الإله الرئيسي #3"
+    },
+    "https://kolnovel.com/shaag24valhalla-sagaz435ggye-93073": {
+      "name": "الفصل 226: الحلقة 55: الفصل 2: فيلق الإله الرئيسي #2"
+    },
+    "https://kolnovel.com/shaag24valhalla-sagaz435ggye-93071": {
+      "name": "الفصل 225: الحلقة 55: الفصل 1: فيلق الإله الرئيسي #1"
+    },
+    "https://kolnovel.com/shaag24valhalla-sagaz435ggye-93069": {
+      "name": "الفصل 224: الحلقة 54: الفصل 2: قاعة فالهالا #2"
+    },
+    "https://kolnovel.com/shaag24valhalla-sagaz435ggye-93067": {
+      "name": "الفصل 223: الحلقة 54: الفصل 1: قاعة فالهالا #1"
+    },
+    "https://kolnovel.com/shaag24valhalla-sagaz435ggye-93065": {
+      "name": "الفصل 222: الحلقة 53: الفصل 4: أسطورة البطل #4"
+    },
+    "https://kolnovel.com/shaag24valhalla-sagaz435ggye-93063": {
+      "name": "الفصل 221: الحلقة 53: الفصل 3: أسطورة البطل #3"
+    },
+    "https://kolnovel.com/shaag24valhalla-sagaz435ggye-93061": {
+      "name": "الفصل 220: الحلقة 53: الفصل 2: أسطورة البطل #2"
+    },
+    "https://kolnovel.com/shaag24valhalla-sagaz435ggye-93059": {
+      "name": "الفصل 219: الحلقة 53: الفصل 1: أسطورة البطل #1"
+    },
+    "https://kolnovel.com/shaag24valhalla-sagaz435ggye-93057": {
+      "name": "الفصل 218: الحلقة 52: الفصل 8: الملاحقون #8"
+    },
+    "https://kolnovel.com/shaag24valhalla-sagaz435ggye-93055": {
+      "name": "الفصل 217: الحلقة 52: الفصل 7: الملاحقون #7"
+    },
+    "https://kolnovel.com/shaag24valhalla-sagaz435ggye-93053": {
+      "name": "الفصل 216: الحلقة 52: الفصل 6: الملاحقون #6"
+    },
+    "https://kolnovel.com/shaag24valhalla-sagaz435ggye-93051": {
+      "name": "الفصل 215: الحلقة 52: الفصل 5: الملاحقون #5"
+    },
+    "https://kolnovel.com/shaag24valhalla-sagaz435ggye-93049": {
+      "name": "الفصل 214: الحلقة 52: الفصل 4: الملاحقون #4"
+    },
+    "https://kolnovel.com/shaag24valhalla-sagaz435ggye-93047": {
+      "name": "الفصل 213: الحلقة 52: الفصل 3: الملاحقون #3"
+    },
+    "https://kolnovel.com/shaag24valhalla-sagaz435ggye-93045": {
+      "name": "الفصل 212: الحلقة 52: الفصل 2: الملاحقون #2"
+    },
+    "https://kolnovel.com/shaag24valhalla-sagaz435ggye-93043": {
+      "name": "الفصل 211: الحلقة 52: الفصل 1: الملاحقون #1"
+    },
+    "https://kolnovel.com/shaag24valhalla-sagaz435ggye-93041": {
+      "name": "الفصل 210: الحلقة 51: الفصل 5: اشتباك #5"
+    },
+    "https://kolnovel.com/shaag24valhalla-sagaz435ggye-93039": {
+      "name": "الفصل 209: الحلقة 51: الفصل 4: اشتباك #4"
+    },
+    "https://kolnovel.com/shaag24valhalla-sagaz435ggye-93037": {
+      "name": "الفصل 208: الحلقة 51: الفصل 3: اشتباك #3"
+    },
+    "https://kolnovel.com/shaag24valhalla-sagaz435ggye-93033": {
+      "name": "الفصل 207: الحلقة 51: الفصل 2: اشتباك #2"
+    },
+    "https://kolnovel.com/shaag24valhalla-sagaz435ggye-93031": {
+      "name": "الفصل 206: الحلقة 51: الفصل 1: اشتباك #1"
+    },
+    "https://kolnovel.com/shaag24valhalla-sagaz435ggye-93029": {
+      "name": "الفصل 205: الحلقة 50: الفصل 5: إله الشمس #5"
+    },
+    "https://kolnovel.com/shaag24valhalla-sagaz435ggye-93027": {
+      "name": "الفصل 204: الحلقة 50: الفصل 4: إله الشمس #4"
+    },
+    "https://kolnovel.com/shaag24valhalla-sagaz435ggye-93025": {
+      "name": "الفصل 203: الحلقة 50: الفصل 3: إله الشمس #3"
+    },
+    "https://kolnovel.com/shaag24valhalla-sagaz435ggye-93023": {
+      "name": "الفصل 202: الحلقة 50: الفصل 2: إله الشمس #2"
+    },
+    "https://kolnovel.com/shaag24valhalla-sagaz435ggye-93021": {
+      "name": "الفصل 201: الحلقة 50: الفصل 1: إله الشمس #1"
+    },
+    "https://kolnovel.com/shaag24valhalla-sagaz435ggye-93019": {
+      "name": "الفصل 200: الحلقة 49: الفصل 5: إلهة الحرب أثينا #5"
+    },
+    "https://kolnovel.com/shaag24valhalla-sagaz435ggye-93017": {
+      "name": "الفصل 199: الحلقة 49: الفصل 4: إلهة الحرب أثينا #4"
+    },
+    "https://kolnovel.com/shaag24valhalla-sagaz435ggye-93015": {
+      "name": "الفصل 198: الحلقة 49: الفصل 3: إلهة الحرب أثينا #3"
+    },
+    "https://kolnovel.com/shaag24valhalla-sagaz435ggye-93013": {
+      "name": "الفصل 197: الحلقة 49: الفصل 2: إلهة الحرب أثينا #2"
+    },
+    "https://kolnovel.com/shaag24valhalla-sagaz435ggye-93011": {
+      "name": "الفصل 196: الحلقة 49: الفصل 1: إلهة الحرب أثينا #1"
+    },
+    "https://kolnovel.com/shaag24valhalla-sagaz435ggye-92997": {
+      "name": "الفصل 195: الحلقة 48: الفصل 2: الأسرع (2) #2"
+    },
+    "https://kolnovel.com/shaag24valhalla-sagaz435ggye-92993": {
+      "name": "الفصل 194: الحلقة 48: الفصل 1: الأسرع (2) #1"
+    },
+    "https://kolnovel.com/shaag24valhalla-sagaz435ggye-92991": {
+      "name": "الفصل 193: الحلقة 47: الفصل 2: الأسرع #2"
+    },
+    "https://kolnovel.com/shaag24valhalla-sagaz435ggye-92989": {
+      "name": "الفصل 192: الحلقة 47: الفصل 1: الأسرع #1"
+    },
+    "https://kolnovel.com/shaag24valhalla-sagaz435ggye-92987": {
+      "name": "الفصل 191: الحلقة 46: الفصل 5: الخاص بإيدون #5"
+    },
+    "https://kolnovel.com/shaag24valhalla-sagaz435ggye-92985": {
+      "name": "الفصل 190: الحلقة 46: الفصل 4: الخاص بإيدون #4"
+    },
+    "https://kolnovel.com/shaag24valhalla-sagaz435ggye-92981": {
+      "name": "الفصل 189: الحلقة 46: الفصل 3: الخاص بإيدون #3"
+    },
+    "https://kolnovel.com/shaag24valhalla-sagaz435ggye-92979": {
+      "name": "الفصل 188: الحلقة 46: الفصل 2: الخاص بإيدون #2"
+    },
+    "https://kolnovel.com/shaag24valhalla-sagaz435ggye-92977": {
+      "name": "الفصل 187: الحلقة 46: الفصل 1: الخاص بإيدون #1"
+    },
+    "https://kolnovel.com/shaag24valhalla-sagaz435ggye-92975": {
+      "name": "الفصل 186: الحلقة 45: الفصل 2: ملك إيرين #2"
+    },
+    "https://kolnovel.com/shaag24valhalla-sagaz435ggye-92969": {
+      "name": "الفصل 185: الحلقة 45: الفصل 1: ملك إيرين #1"
+    },
+    "https://kolnovel.com/shaag24valhalla-sagaz435ggye-92967": {
+      "name": "الفصل 184: الحلقة 44: الفصل 5: الحرب العظيمة #5"
+    },
+    "https://kolnovel.com/shaag24valhalla-sagaz435ggye-92965": {
+      "name": "الفصل 183: الحلقة 44: الفصل 4: الحرب العظيمة #4"
+    },
+    "https://kolnovel.com/shaag24valhalla-sagaz435ggye-92963": {
+      "name": "الفصل 182: الحلقة 44: الفصل 3: الحرب العظيمة #3"
+    },
+    "https://kolnovel.com/shaag24valhalla-sagaz435ggye-92961": {
+      "name": "الفصل 181: الحلقة 44: الفصل 2: الحرب العظيمة #2"
+    },
+    "https://kolnovel.com/shaag24valhalla-sagaz435ggye-92958": {
+      "name": "الفصل 180: الحلقة 44: الفصل 1: الحرب العظيمة #1"
+    },
+    "https://kolnovel.com/shaag24valhalla-sagaz435ggye-92956": {
+      "name": "الفصل 179: الحلقة 43: الفصل 4: لم الشمل #4"
+    },
+    "https://kolnovel.com/shaag24valhalla-sagaz435ggye-92954": {
+      "name": "الفصل 178: الحلقة 43: الفصل 3: لم الشمل #3"
+    },
+    "https://kolnovel.com/shaag24valhalla-sagaz435ggye-92952": {
+      "name": "الفصل 177: الحلقة 43: الفصل 2: لم الشمل #2"
+    },
+    "https://kolnovel.com/shaag24valhalla-sagaz435ggye-92950": {
+      "name": "الفصل 176: الحلقة 43: الفصل 1: لم الشمل #1"
+    },
+    "https://kolnovel.com/shaag24valhalla-sagaz435ggye-92948": {
+      "name": "الفصل 175: الحلقة 42: الفصل 5: هجوم مضاد عظيم #5"
+    },
+    "https://kolnovel.com/shaag24valhalla-sagaz435ggye-92946": {
+      "name": "الفصل 174: الحلقة 42: الفصل 4: هجوم مضاد عظيم #4"
+    },
+    "https://kolnovel.com/shaag24valhalla-sagaz435ggye-92944": {
+      "name": "الفصل 173: الحلقة 42: الفصل 3: هجوم مضاد عظيم #3"
+    },
+    "https://kolnovel.com/shaag24valhalla-sagaz435ggye-92942": {
+      "name": "الفصل 172: الحلقة 42: الفصل 2: هجوم مضاد عظيم #2"
+    },
+    "https://kolnovel.com/shaag24valhalla-sagaz435ggye-92940": {
+      "name": "الفصل 171: الحلقة 42: الفصل 1: هجوم مضاد عظيم #1"
+    },
+    "https://kolnovel.com/shaag24valhalla-sagaz435ggye-92938": {
+      "name": "الفصل 170: الحلقة 41: الفصل 7: الفرع الأعلى #7"
+    },
+    "https://kolnovel.com/shaag24valhalla-sagaz435ggye-92936": {
+      "name": "الفصل 169: الحلقة 41: الفصل 6: الفرع الأعلى #6"
+    },
+    "https://kolnovel.com/shaag24valhalla-sagaz435ggye-92934": {
+      "name": "الفصل 168: الحلقة 41: الفصل 5: الفرع الأعلى #5"
+    },
+    "https://kolnovel.com/shaag24valhalla-sagaz435ggye-92932": {
+      "name": "الفصل 167: الحلقة 41: الفصل 4: الفرع الأعلى #4"
+    },
+    "https://kolnovel.com/shaag24valhalla-sagaz435ggye-92930": {
+      "name": "الفصل 166: الحلقة 41: الفصل 3: الفرع الأعلى #3"
+    },
+    "https://kolnovel.com/shaag24valhalla-sagaz435ggye-92928": {
+      "name": "الفصل 165: الحلقة 41: الفصل 2: الفرع الأعلى #2"
+    },
+    "https://kolnovel.com/shaag24valhalla-sagaz435ggye-92926": {
+      "name": "الفصل 164: الحلقة 41: الفصل 1: الفرع الأعلى #1"
+    },
+    "https://kolnovel.com/shaag24valhalla-sagaz435ggye-92924": {
+      "name": "الفصل 163: الحلقة 40: الفصل 3: فالكيري إيدون #3"
+    },
+    "https://kolnovel.com/shaag24valhalla-sagaz435ggye-92922": {
+      "name": "الفصل 162: الحلقة 40: الفصل 2: فالكيري إيدون #2"
+    },
+    "https://kolnovel.com/shaag24valhalla-sagaz435ggye-92920": {
+      "name": "الفصل 161: الحلقة 40: الفصل 1: فالكيري إيدون #1"
+    },
+    "https://kolnovel.com/shaag24valhalla-sagaz435ggye-92918": {
+      "name": "الفصل 160: الحلقة 39: الفصل 7: هيلا #7"
+    },
+    "https://kolnovel.com/shaag24valhalla-sagaz435ggye-92916": {
+      "name": "الفصل 159: الحلقة 39: الفصل 6: هيلا #6"
+    },
+    "https://kolnovel.com/shaag24valhalla-sagaz435ggye-92914": {
+      "name": "الفصل 158: الحلقة 39: الفصل 5: هيلا #5"
+    },
+    "https://kolnovel.com/shaag24valhalla-sagaz435ggye-92912": {
+      "name": "الفصل 157: الحلقة 39: الفصل 4: هيلا #4"
+    },
+    "https://kolnovel.com/shaag24valhalla-sagaz435ggye-92910": {
+      "name": "الفصل 156: الحلقة 39: الفصل 3: هيلا #3"
+    },
+    "https://kolnovel.com/shaag24valhalla-sagaz435ggye-92908": {
+      "name": "الفصل 155: الحلقة 39: الفصل 2: هيلا #2"
+    },
+    "https://kolnovel.com/shaag24valhalla-sagaz435ggye-92906": {
+      "name": "الفصل 154: الحلقة 39: الفصل 1: هيلا #1"
+    },
+    "https://kolnovel.com/shaag24valhalla-sagaz435ggye-92904": {
+      "name": "الفصل 153: الحلقة 38: الفصل 5: راتاتوسكر #5"
+    },
+    "https://kolnovel.com/shaag24valhalla-sagaz435ggye-92902": {
+      "name": "الفصل 152: الحلقة 38: الفصل 4: راتاتوسكر #4"
+    },
+    "https://kolnovel.com/shaag24valhalla-sagaz435ggye-92900": {
+      "name": "الفصل 151: الحلقة 38: الفصل 3: راتاتوسكر #3"
+    },
+    "https://kolnovel.com/shaag24valhalla-sagaz435ggye-92889": {
+      "name": "الفصل 150: الحلقة 38: الفصل 2: راتاتوسكر #2"
+    },
+    "https://kolnovel.com/shaag24valhalla-sagaz435ggye-92887": {
+      "name": "الفصل 149: الحلقة 38: الفصل 1: راتاتوسكر #1"
+    },
+    "https://kolnovel.com/shaag24valhalla-sagaz435ggye-92885": {
+      "name": "الفصل 148: الحلقة 37: الفصل 5: الذي ينتصر #5"
+    },
+    "https://kolnovel.com/shaag24valhalla-sagaz435ggye-92883": {
+      "name": "الفصل 147: الحلقة 37: الفصل 4: الذي ينتصر #4"
+    },
+    "https://kolnovel.com/shaag24valhalla-sagaz435ggye-92881": {
+      "name": "الفصل 146: الحلقة 37: الفصل 3: الذي ينتصر #3"
+    },
+    "https://kolnovel.com/shaag24valhalla-sagaz435ggye-92879": {
+      "name": "الفصل 145: الحلقة 37: الفصل 2: الذي ينتصر #2"
+    },
+    "https://kolnovel.com/shaag24valhalla-sagaz435ggye-92877": {
+      "name": "الفصل 144: الحلقة 37: الفصل 1: الذي ينتصر #1"
+    },
+    "https://kolnovel.com/shaag24valhalla-sagaz435ggye-92875": {
+      "name": "الفصل 143: الحلقة 36: الفصل 2: أودين #2"
+    },
+    "https://kolnovel.com/shaag24valhalla-sagaz435ggye-92873": {
+      "name": "الفصل 142: الحلقة 36: الفصل 1: أودين #1"
+    },
+    "https://kolnovel.com/shaag24valhalla-sagaz435ggye-92871": {
+      "name": "الفصل 141: الحلقة 35: الفصل 7: حرب عظمى #7"
+    },
+    "https://kolnovel.com/shaag24valhalla-sagaz435ggye-92869": {
+      "name": "الفصل 140: الحلقة 35: الفصل 6: حرب عظمى #6"
+    },
+    "https://kolnovel.com/shaag24valhalla-sagaz435ggye-92867": {
+      "name": "الفصل 139: الحلقة 35: الفصل 5: حرب عظمى #5"
+    },
+    "https://kolnovel.com/shaag24valhalla-sagaz435ggye-92865": {
+      "name": "الفصل 138: الحلقة 35: الفصل 4: حرب عظمى #4"
+    },
+    "https://kolnovel.com/shaag24valhalla-sagaz435ggye-92863": {
+      "name": "الفصل 137: الحلقة 35: الفصل 3: حرب عظمى #3"
+    },
+    "https://kolnovel.com/shaag24valhalla-sagaz435ggye-92861": {
+      "name": "الفصل 136: الحلقة 35: الفصل 2: حرب عظمى #2"
+    },
+    "https://kolnovel.com/shaag24valhalla-sagaz435ggye-92859": {
+      "name": "الفصل 135: الحلقة 35: الفصل 1: حرب عظمى #1"
+    },
+    "https://kolnovel.com/shaag24valhalla-sagaz435ggye-92857": {
+      "name": "الفصل 134: الحلقة 34: الفصل 5: فانهايم #5"
+    },
+    "https://kolnovel.com/shaag24valhalla-sagaz435ggye-92855": {
+      "name": "الفصل 133: الحلقة 34: الفصل 4: فانهايم #4"
+    },
+    "https://kolnovel.com/shaag24valhalla-sagaz435ggye-92853": {
+      "name": "الفصل 132: الحلقة 34: الفصل 3: فانهايم #3"
+    },
+    "https://kolnovel.com/shaag24valhalla-sagaz435ggye-92851": {
+      "name": "الفصل 131: الحلقة 34: الفصل 2: فانهايم #2"
+    },
+    "https://kolnovel.com/shaag24valhalla-sagaz435ggye-92849": {
+      "name": "الفصل 130: الحلقة 34: الفصل 1: فانهايم #1"
+    },
+    "https://kolnovel.com/shaag24valhalla-sagaz435ggye-92847": {
+      "name": "الفصل 129: الحلقة 33: الفصل 3: محارب إيدون #3"
+    },
+    "https://kolnovel.com/shaag24valhalla-sagaz435ggye-92845": {
+      "name": "الفصل 128: الحلقة 33: الفصل 2: محارب إيدون #2"
+    },
+    "https://kolnovel.com/shaag24valhalla-sagaz435ggye-92843": {
+      "name": "الفصل 127: الحلقة 33: الفصل 1: محارب إيدون #1"
+    },
+    "https://kolnovel.com/shaag24valhalla-sagaz435ggye-92841": {
+      "name": "الفصل 126: الحلقة 32: الفصل 7: أرض الظلام #7"
+    },
+    "https://kolnovel.com/shaag24valhalla-sagaz435ggye-92839": {
+      "name": "الفصل 125: الحلقة 32: الفصل 6: أرض الظلام #6"
+    },
+    "https://kolnovel.com/shaag24valhalla-sagaz435ggye-92837": {
+      "name": "الفصل 124: الحلقة 32: الفصل 5: أرض الظلام #5"
+    },
+    "https://kolnovel.com/shaag24valhalla-sagaz435ggye-92835": {
+      "name": "الفصل 123: الحلقة 32: الفصل 4: أرض الظلام #4"
+    },
+    "https://kolnovel.com/shaag24valhalla-sagaz435ggye-92833": {
+      "name": "الفصل 122: الحلقة 32: الفصل 3: أرض الظلام #3"
+    },
+    "https://kolnovel.com/shaag24valhalla-sagaz435ggye-92831": {
+      "name": "الفصل 121: الحلقة 32: الفصل 2: أرض الظلام #2"
+    },
+    "https://kolnovel.com/shaag24valhalla-sagaz435ggye-92829": {
+      "name": "الفصل 120: الحلقة 32: الفصل 1: أرض الظلام #1"
+    },
+    "https://kolnovel.com/shaag24valhalla-sagaz435ggye-92827": {
+      "name": "الفصل 119: الحلقة 31: الفصل 6: فيلق إيدون #6"
+    },
+    "https://kolnovel.com/shaag24valhalla-sagaz435ggye-92825": {
+      "name": "الفصل 118: الحلقة 31: الفصل 5: فيلق إيدون #5"
+    },
+    "https://kolnovel.com/shaag24valhalla-sagaz435ggye-92823": {
+      "name": "الفصل 117: الحلقة 31: الفصل 4: فيلق إيدون #4"
+    },
+    "https://kolnovel.com/shaag24valhalla-sagaz435ggye-92821": {
+      "name": "الفصل 116: الحلقة 31: الفصل 3: فيلق إيدون #3"
+    },
+    "https://kolnovel.com/shaag24valhalla-sagaz435ggye-92819": {
+      "name": "الفصل 115: الحلقة 31: الفصل 2: فيلق إيدون #2"
+    },
+    "https://kolnovel.com/shaag24valhalla-sagaz435ggye-92817": {
+      "name": "الفصل 114: الحلقة 31: الفصل 1: فيلق إيدون #1"
+    },
+    "https://kolnovel.com/shaag24valhalla-sagaz435ggye-92815": {
+      "name": "الفصل 113: الحلقة 30: الفصل 6: فرسان المائدة المستديرة #6"
+    },
+    "https://kolnovel.com/shaag24valhalla-sagaz435ggye-92813": {
+      "name": "الفصل 112: الحلقة 30: الفصل 5: فرسان المائدة المستديرة #5"
+    },
+    "https://kolnovel.com/shaag24valhalla-sagaz435ggye-92811": {
+      "name": "الفصل 111: الحلقة 30: الفصل 4: فرسان المائدة المستديرة #4"
+    },
+    "https://kolnovel.com/shaag24valhalla-sagaz435ggye-92809": {
+      "name": "الفصل 110: الحلقة 30: الفصل 3: فرسان المائدة المستديرة #3"
+    },
+    "https://kolnovel.com/shaag24valhalla-sagaz435ggye-92807": {
+      "name": "الفصل 109: الحلقة 30: الفصل 2: فرسان المائدة المستديرة #2"
+    },
+    "https://kolnovel.com/shaag24valhalla-sagaz435ggye-92805": {
+      "name": "الفصل 108: الحلقة 30: الفصل 1: فرسان المائدة المستديرة #1"
+    },
+    "https://kolnovel.com/shaag24valhalla-sagaz435ggye-92803": {
+      "name": "الفصل 107: الحلقة 29: الفصل 3: قائد إيدون #3"
+    },
+    "https://kolnovel.com/shaag24valhalla-sagaz435ggye-92801": {
+      "name": "الفصل 106: الحلقة 29: الفصل 2: قائد إيدون #2"
+    },
+    "https://kolnovel.com/shaag24valhalla-sagaz435ggye-92799": {
+      "name": "الفصل 105: الحلقة 29: الفصل 1: قائد إيدون #1"
+    },
+    "https://kolnovel.com/shaag24valhalla-sagaz435ggye-92797": {
+      "name": "الفصل 104: الحلقة 28: الفصل 6: هجوم عظيم #6"
+    },
+    "https://kolnovel.com/shaag24valhalla-sagaz435ggye-92793": {
+      "name": "الفصل 103: الحلقة 28: الفصل 5: هجوم عظيم #5"
+    },
+    "https://kolnovel.com/shaag24valhalla-sagaz435ggye-92795": {
+      "name": "الفصل 103: الحلقة 28: الفصل 5: هجوم عظيم #5"
+    },
+    "https://kolnovel.com/shaag24valhalla-sagaz435ggye-92791": {
+      "name": "الفصل 102: الحلقة 28: الفصل 4: هجوم عظيم #4"
+    },
+    "https://kolnovel.com/shaag24valhalla-sagaz435ggye-92789": {
+      "name": "الفصل 101: الحلقة 28: الفصل 3: هجوم عظيم #3"
+    },
+    "https://kolnovel.com/shaag24valhalla-sagaz435ggye-92787": {
+      "name": "الفصل 100: الحلقة 28: الفصل 2: هجوم عظيم #2"
+    },
+    "https://kolnovel.com/shaag24valhalla-sagaz435ggye-92785": {
+      "name": "الفصل 99: الحلقة 28: الفصل 1: هجوم عظيم #1"
+    },
+    "https://kolnovel.com/shaag24valhalla-sagaz435ggye-92783": {
+      "name": "الفصل 98: الحلقة 27: الفصل 4: سيف الاختيار #4"
+    },
+    "https://kolnovel.com/shaag24valhalla-sagaz435ggye-92781": {
+      "name": "الفصل 97: الحلقة 27: الفصل 3: سيف الاختيار #3"
+    },
+    "https://kolnovel.com/shaag24valhalla-sagaz435ggye-92779": {
+      "name": "الفصل 96: الحلقة 27: الفصل 2: سيف الاختيار #2"
+    },
+    "https://kolnovel.com/shaag24valhalla-sagaz435ggye-92777": {
+      "name": "الفصل 95: الحلقة 27: الفصل 1: سيف الاختيار #1"
+    },
+    "https://kolnovel.com/shaag24valhalla-sagaz435ggye-92775": {
+      "name": "الفصل 94: الحلقة 26: الفصل 4: أرض المعارك الضارية #4"
+    },
+    "https://kolnovel.com/shaag24valhalla-sagaz435ggye-92773": {
+      "name": "الفصل 93: الحلقة 26: الفصل 3: أرض المعارك الضارية #3"
+    },
+    "https://kolnovel.com/shaag24valhalla-sagaz435ggye-92771": {
+      "name": "الفصل 92: الحلقة 26: الفصل 2: أرض المعارك الضارية #2"
+    },
+    "https://kolnovel.com/shaag24valhalla-sagaz435ggye-92769": {
+      "name": "الفصل 91: الحلقه الخامسة والعشرون: الفصل الثالث: سيف باول \"3\""
+    },
+    "https://kolnovel.com/shaag24valhalla-sagaz435ggye-92767": {
+      "name": "الفصل 90: الحلقه الخامسة والعشرون: الفصل الثالث: سيف باول \"3\""
+    },
+    "https://kolnovel.com/shaag24valhalla-sagaz435ggye-92765": {
+      "name": "الفصل 89: الحلقه الخامسة والعشرون: الفصل الثالث: سيف باول \"3\""
+    },
+    "https://kolnovel.com/shaag24valhalla-sagaz435ggye-92763": {
+      "name": "الفصل 88: الحلقه الخامسة والعشرون: الفصل الثالث: سيف باول \"3\""
+    },
+    "https://kolnovel.com/shaag24valhalla-sagaz435ggye-92761": {
+      "name": "الفصل 87: الحلقه الخامسة والعشرون: الفصل الثالث: سيف باول \"3\""
+    },
+    "https://kolnovel.com/shaag24valhalla-sagaz435ggye-92759": {
+      "name": "الفصل 86: الحلقة الخامسة والعشرون: الفصل الثاني: سيف باول \"2\""
+    },
+    "https://kolnovel.com/shaag24valhalla-sagaz435ggye-92757": {
+      "name": "الفصل 85: الحلقة الخامسة والعشرون: الفصل الأول: سيف باول \"1\""
+    },
+    "https://kolnovel.com/shaag24valhalla-sagaz435ggye-92755": {
+      "name": "الفصل 84: الحلقة الرابعة والعشرون: الفصل السابع: شينسوا الأرض\"7\""
+    },
+    "https://kolnovel.com/shaag24valhalla-sagaz435ggye-92753": {
+      "name": "الفصل 83: الحلقة الرابعة والعشرون: الفصل السادس: شينسوا الأرض \"6\""
+    },
+    "https://kolnovel.com/shaag24valhalla-sagaz435ggye-92751": {
+      "name": "الفصل 82: الحلقة الرابعة والعشرون: الفصل الخامسة: شينسوا الأرض \"5\""
+    },
+    "https://kolnovel.com/shaag24valhalla-sagaz435ggye-92749": {
+      "name": "الفصل 81: الحلقة الرابعة والعشرون: الفصل الرابع: شينسوا الأرض \"4\""
+    },
+    "https://kolnovel.com/shaag24valhalla-sagaz435ggye-92747": {
+      "name": "الفصل 80: الحلقة الرابعة والعشرون: الفصل الثالث: شينسوا الأرض \"3\""
+    },
+    "https://kolnovel.com/shaag24valhalla-sagaz435ggye-92745": {
+      "name": "الفصل 79: الحلقة الرابعة والعشرون: الفصل الثاني: شينسوا الأرض \"2\""
+    },
+    "https://kolnovel.com/shaag24valhalla-sagaz435ggye-92743": {
+      "name": "الفصل 78: الحلقة الرابعة والعشرون: الفصل الأول: شينسوا الأرض \"1\""
+    },
+    "https://kolnovel.com/shaag24valhalla-sagaz435ggye-92741": {
+      "name": "الفصل 77: الحلقة الثالثة والعشرون: الفصل الثالثة: ملحمة \"3\""
+    },
+    "https://kolnovel.com/shaag24valhalla-sagaz435ggye-92739": {
+      "name": "الفصل 76: الحلقة الثالثة والعشرون: الفصل الثاني: ملحمة \"2\""
+    },
+    "https://kolnovel.com/shaag24valhalla-sagaz435ggye-92737": {
+      "name": "الفصل 75: الحلقة الثالثة والعشرون: الفصل الأول: ملحمة \"1\""
+    },
+    "https://kolnovel.com/shaag24valhalla-sagaz435ggye-92735": {
+      "name": "الفصل 74: الحلقة الثانية والعشرون: الفصل الثامن: ملحمة (7)"
+    },
+    "https://kolnovel.com/shaag24valhalla-sagaz435ggye-92733": {
+      "name": "الفصل 73: الحلقة الثانية والعشرون، الفصل السابع: ملحمة (7)"
+    },
+    "https://kolnovel.com/shaag24valhalla-sagaz435ggye-92731": {
+      "name": "الفصل 72: الحلقة الثانية والعشرون، الفصل السادس: ملحمة (6)"
+    },
+    "https://kolnovel.com/shaag24valhalla-sagaz435ggye-92729": {
+      "name": "الفصل 71: الحلقة الثانية والعشرون, الفصل الخامس: ملحمة (5)"
+    },
+    "https://kolnovel.com/shaag24valhalla-sagaz435ggye-92727": {
+      "name": "الفصل 70: الحلقة الثانية والعشرون، الفصل الرابع: ملحمة (4)"
+    },
+    "https://kolnovel.com/shaag24valhalla-sagaz435ggye-92725": {
+      "name": "الفصل 69: الحلقة الثانية والعشرون، الفصل الثالث: ملحمة (3)"
+    },
+    "https://kolnovel.com/shaag24valhalla-sagaz435ggye-92723": {
+      "name": "الفصل 68: الحلقة الثانية والعشرون، الفصل الثاني: ملحمة (2)"
+    },
+    "https://kolnovel.com/shaag24valhalla-sagaz435ggye-92721": {
+      "name": "الفصل 67: الحلقة الثانية والعشرون، الفصل الأول: ملحمة (1)"
+    },
+    "https://kolnovel.com/shaag24valhalla-sagaz435ggye-92719": {
+      "name": "الفصل 66: الحلقة الحادية والعشرون، الفصل الرابع: ميدغارد (4)"
+    },
+    "https://kolnovel.com/shaag24valhalla-sagaz435ggye-92717": {
+      "name": "الفصل 65: الحلقة الواحدة والعشرون، الفصل الثالث: ميدغارد (3)"
+    },
+    "https://kolnovel.com/shaag24valhalla-sagaz435ggye-92715": {
+      "name": "الفصل 64: الحلقة الواحد والعشرون: الفصل الثاني: ميدغارد (2)"
+    },
+    "https://kolnovel.com/shaag24valhalla-sagaz435ggye-92713": {
+      "name": "الفصل 63: الحلقة الواحد والعشرون، الفصل الأول: ميدغارد (1)"
+    },
+    "https://kolnovel.com/shaag24valhalla-sagaz435ggye-92711": {
+      "name": "الفصل 62: الحلقة العشرين، الفصل الثاني: سكاثاش (2)"
+    },
+    "https://kolnovel.com/shaag24valhalla-sagaz435ggye-92709": {
+      "name": "الفصل 61: الحلقة العشرين، الفصل الأول: سكاثاش (1)"
+    },
+    "https://kolnovel.com/shaag24valhalla-sagaz435ggye-92707": {
+      "name": "الفصل 60: الحلقة التاسعة عشر، الفصل الرابع: محارب الرتبة المتوسطة (4)"
+    },
+    "https://kolnovel.com/shaag24valhalla-sagaz435ggye-92705": {
+      "name": "الفصل 59: الحلقة التاسعة عشر، الفصل الثالث: محارب الرتبة المتوسطة (3)"
+    },
+    "https://kolnovel.com/shaag24valhalla-sagaz435ggye-92703": {
+      "name": "الفصل 58: الحلقة التاسعة عشر، الفصل الثاني: محارب الرتبة المتوسطة (2)"
+    },
+    "https://kolnovel.com/shaag24valhalla-sagaz435ggye-92701": {
+      "name": "الفصل 57: الحلقة التاسعة عشر، الفصل الأول: محارب الرتبة المتوسطة (1)"
+    },
+    "https://kolnovel.com/shaag24valhalla-sagaz435ggye-92699": {
+      "name": "الفصل 56: الحلقة الثامنة عشر, الفصل الثاني: أناهايم (2)"
+    },
+    "https://kolnovel.com/shaag24valhalla-sagaz435ggye-92697": {
+      "name": "الفصل 55: الحلقة الثامنة عشر، الفصل الأول: أناهايم (1)"
+    },
+    "https://kolnovel.com/shaag24valhalla-sagaz435ggye-92695": {
+      "name": "الفصل 54: الحلقة السابعة عشر، الفصل الثاني: إله الرعد (2)"
+    },
+    "https://kolnovel.com/shaag24valhalla-sagaz435ggye-92693": {
+      "name": "الفصل 53: الحلقة السابعة عشر، الفصل الأول: إله الرعد (1)"
+    },
+    "https://kolnovel.com/shaag24valhalla-sagaz435ggye-92691": {
+      "name": "الفصل 52: الحلقة السابعة عشر، الفصل الرابع: أسطورة (4)"
+    },
+    "https://kolnovel.com/shaag24valhalla-sagaz435ggye-92689": {
+      "name": "الفصل 51: الحلقة السادسة عشر، الفصل الثالث: أسطورة (3)"
+    },
+    "https://kolnovel.com/shaag24valhalla-sagaz435ggye-92687": {
+      "name": "الفصل 50: الحلقة السادسة عشر، الفصل الثاني: أسطورة (2)"
+    },
+    "https://kolnovel.com/shaag24valhalla-sagaz435ggye-92685": {
+      "name": "الفصل 49: الحلقة السادسة عشر، الفصل الأول: أسطورة (1)"
+    },
+    "https://kolnovel.com/shaag24valhalla-sagaz435ggye-92683": {
+      "name": "الفصل 48: الحلقة الخامسة عشر، الفصل الثاني: الذكر القائد (2)"
+    },
+    "https://kolnovel.com/shaag24valhalla-sagaz435ggye-92681": {
+      "name": "الفصل 47: الحلقة الخامسة عشر، الفصل الأول: الذكر القائد (1)"
+    },
+    "https://kolnovel.com/shaag24valhalla-sagaz435ggye-92679": {
+      "name": "الفصل 46: الحلقة الرابعة عشر، الفصل الثالث: شظية روح غارمر (3)"
+    },
+    "https://kolnovel.com/shaag24valhalla-sagaz435ggye-92677": {
+      "name": "الفصل 45: الحلقة الرابعة عشر، الفصل الثاني: شظية روح غارمر (2)"
+    },
+    "https://kolnovel.com/shaag24valhalla-sagaz435ggye-92675": {
+      "name": "الفصل 44: الحلقة الرابعة عشر، الفصل الأول: شظية روح غارمر (1)"
+    },
+    "https://kolnovel.com/shaag24valhalla-sagaz435ggye-92673": {
+      "name": "الفصل 43: الحلقة الثالثة عشر، الفصل الثالث: أثار الحرب العظيمة (3)"
+    },
+    "https://kolnovel.com/shaag24valhalla-sagaz435ggye-92671": {
+      "name": "الفصل 42: الحلقة الثالثة عشر، الفصل الثاني: أثار الحرب العظيمة (2)"
+    },
+    "https://kolnovel.com/shaag24valhalla-sagaz435ggye-92669": {
+      "name": "الفصل 41: الحلقة الثالثة عشر، الفصل الأول: أثار الحرب العظيمة (1)"
+    },
+    "https://kolnovel.com/shaag24valhalla-sagaz435ggye-92667": {
+      "name": "الفصل 40: الحلقة الثانية عشر، الفصل الثاني: هدير التنين (2)"
+    },
+    "https://kolnovel.com/shaag24valhalla-sagaz435ggye-92665": {
+      "name": "الفصل 39: الحلقة الثانية عشر، الفصل الأول: هدير تنين (1)"
+    },
+    "https://kolnovel.com/shaag24valhalla-sagaz435ggye-92663": {
+      "name": "الفصل 38: الحلقة الحادية عشر، الفصل الثالث: قطعة السيف المجهول (3)"
+    },
+    "https://kolnovel.com/shaag24valhalla-sagaz435ggye-92661": {
+      "name": "الفصل 37: الحلقة الحادية عشر، الفصل الثاني: قطعة السيف غير المعروف (2)"
+    },
+    "https://kolnovel.com/shaag24valhalla-sagaz435ggye-92659": {
+      "name": "الفصل 36: الحلقة الحادية عشر، الفصل الأول: قطعة السيف المجهول. (1)"
+    },
+    "https://kolnovel.com/shaag24valhalla-sagaz435ggye-92657": {
+      "name": "الفصل 35: الحلقة العاشرة، الفصل الثاني: راغنار لوثبروك (2)"
+    },
+    "https://kolnovel.com/shaag24valhalla-sagaz435ggye-92655": {
+      "name": "الفصل 34: الحلقة العاشرة، الفصل الأولى: راغنار لوثبروك (1)"
+    },
+    "https://kolnovel.com/shaag24valhalla-sagaz435ggye-92653": {
+      "name": "الفصل 33: الحلقة التاسعة، الفصل الرابع: سفارتالفهايم (4)"
+    },
+    "https://kolnovel.com/shaag24valhalla-sagaz435ggye-92651": {
+      "name": "الفصل 32: الحلقة التاسعة، الفصل الثالث: سفارتالفهايم (3)"
+    },
+    "https://kolnovel.com/shaag24valhalla-sagaz435ggye-92649": {
+      "name": "الفصل 31: الحلقة الثامنة, الفصل الثاني: سفارتالهايم (2)"
+    },
+    "https://kolnovel.com/shaag24valhalla-sagaz435ggye-92644": {
+      "name": "الفصل 30: الحلقة التاسعة، الفصل الأول: سفارتالفهايم (1)"
+    },
+    "https://kolnovel.com/shaag24valhalla-sagaz435ggye-92642": {
+      "name": "الفصل 29: الحلقة الثامنة، الفصل الثاني: محارب مرتبة متدنية (2)"
+    },
+    "https://kolnovel.com/shaag24valhalla-sagaz435ggye-92640": {
+      "name": "الفصل 28: الحلقة الثامنة، الفصل الأول: محارب رتبة متدنية (1)"
+    },
+    "https://kolnovel.com/shaag24valhalla-sagaz435ggye-92638": {
+      "name": "الفصل 27: الحلقة السابعة، الفصل الخامس: فالكيري (5)"
+    },
+    "https://kolnovel.com/shaag24valhalla-sagaz435ggye-92636": {
+      "name": "الفصل 26: الحلقة السابعة، الفصل الرابع: فالكيري (4)"
+    },
+    "https://kolnovel.com/shaag24valhalla-sagaz435ggye-92634": {
+      "name": "الفصل 25: الحلقة السابعة، الفصل الثالث: فالكيري (3)"
+    },
+    "https://kolnovel.com/shaag24valhalla-sagaz435ggye-92632": {
+      "name": "الفصل 24: الحلقة السابعة، الفصل الثاني: فالكيري (2)"
+    },
+    "https://kolnovel.com/shaag24valhalla-sagaz435ggye-92630": {
+      "name": "الفصل 23: الحلقة السابعة الفصل الأول: فالكيري (1)"
+    },
+    "https://kolnovel.com/shaag24valhalla-sagaz435ggye-92628": {
+      "name": "الفصل 22: لحلقة السادسة، الفصل الرابع: معدن الإله الثمين (4)"
+    },
+    "https://kolnovel.com/shaag24valhalla-sagaz435ggye-92626": {
+      "name": "الفصل 21: الحلقة السادسة، الفصل الثالث: معدن الإله الثمين (3)"
+    },
+    "https://kolnovel.com/shaag24valhalla-sagaz435ggye-92624": {
+      "name": "الفصل 20: الحلقة السادسة، الفصل الثاني: معدن الإله الثمين (2)"
+    },
+    "https://kolnovel.com/shaag24valhalla-sagaz435ggye-92622": {
+      "name": "الفصل 19: الحلقة السادسة، الفصل الأول: معدن الإله الثمين (1)"
+    },
+    "https://kolnovel.com/shaag24valhalla-sagaz435ggye-92620": {
+      "name": "الفصل 18: لحلقة الخامسة، الفصل الثالث: المأدبة الليلية (3)"
+    },
+    "https://kolnovel.com/shaag24valhalla-sagaz435ggye-92618": {
+      "name": "الفصل 17: الحلقة الخامسة، الفصل الثاني: المأدبة الليلية (2)"
+    },
+    "https://kolnovel.com/shaag24valhalla-sagaz435ggye-92616": {
+      "name": "الفصل 16: الحلقة الخامسة، الفصل الأول: الولائم الليلية (1)"
+    },
+    "https://kolnovel.com/shaag24valhalla-sagaz435ggye-92614": {
+      "name": "الفصل 15: الحلقة الرابعة، الفصل الرابع: المطر الفولاذي (4)"
+    },
+    "https://kolnovel.com/shaag24valhalla-sagaz435ggye-92612": {
+      "name": "الفصل 14: الحلقة الرابعة، الفصل الثالث: المطر الفولاذي (3)"
+    },
+    "https://kolnovel.com/shaag24valhalla-sagaz435ggye-92610": {
+      "name": "الفصل 13: الحلقة الرابعة، الفصل الثاني: المطر الفولاذي (2)"
+    },
+    "https://kolnovel.com/shaag24valhalla-sagaz435ggye-92608": {
+      "name": "الفصل 12: الحلقة الرابعة، الفصل الأول: المطر الفولاذي (1)"
+    },
+    "https://kolnovel.com/shaag24valhalla-sagaz435ggye-92606": {
+      "name": "الفصل 11: الحلقة الثالثة، الفصل الخامس: الفارس التنين(5)"
+    },
+    "https://kolnovel.com/shaag24valhalla-sagaz435ggye-92604": {
+      "name": "الفصل 10: الحلقة الثالثة، الفصل الرابع: الفارس التنين (4)"
+    },
+    "https://kolnovel.com/shaag24valhalla-sagaz435ggye-92602": {
+      "name": "الفصل 9: الحلقة الثالثة، الفصل الثاني: فارس التنين (3)"
+    },
+    "https://kolnovel.com/shaag24valhalla-sagaz435ggye-92600": {
+      "name": "الفصل 8: الحلقة الثالثة،الفصل الثاني: الفارس التنين."
+    },
+    "https://kolnovel.com/shaag24valhalla-sagaz435ggye-92598": {
+      "name": "الفصل 7: الحلقة الثالثة، الفصل الأول: الفارس التنين"
+    },
+    "https://kolnovel.com/shaag24valhalla-sagaz435ggye-92596": {
+      "name": "الفصل 6: الحلقة الثانية الفصل الرابع: فيلق (4)"
+    },
+    "https://kolnovel.com/shaag24valhalla-sagaz435ggye-92594": {
+      "name": "الفصل 5: الحلقة الثانية، الفصل الثالث: الفيلق (3)"
+    },
+    "https://kolnovel.com/shaag24valhalla-sagaz435ggye-92592": {
+      "name": "الفصل 4: الحلقة الثانية، الفصل الثاني: الفيلق (2)"
+    },
+    "https://kolnovel.com/shaag24valhalla-sagaz435ggye-92590": {
+      "name": "الفصل 3: الحلقة الثانية، الفصل الثاني: الفيلق (1)"
+    },
+    "https://kolnovel.com/shaag24valhalla-sagaz435ggye-92587": {
+      "name": "الفصل 2: الحلقة الأولى، الفصل الثاني: المحارب الخالد (2)"
+    },
+    "https://kolnovel.com/shaag24valhalla-sagaz435ggye-92585": {
+      "name": "الفصل 1: الحلقة الأولى، الفصل الأول: المحارب الخالد (1)"
+    },
+    "https://kolnovel.com/shaag24valhalla-sagaz435ggye-28198": {
+      "name": "الفصل 0: مدخل"
+    }
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "vanitas-no-carte",
+  "title": "Vanitas no Carte",
+  "cover_url": "https://3asq.online/wp-content/uploads/2020/07/2.jpg",
+  "description": "لا يوجد وصف",
+  "type": "مانغا",
+  "status": "مستمر",
+  "rating": "4.5",
+  "favorites": "123",
+  "genres": [
+    "خارق للطبيعة",
+    "خيال",
+    "غموض",
+    "مأساة"
+  ],
+  "is_novel": false,
+  "chapters": {
+    "https://3asq.online/manga/vanitas-no-carte/%d8%a7%d9%84%d9%85%d8%b0%d9%83%d8%b1%d8%a9-68": {
+      "name": "68"
+    },
+    "https://3asq.online/manga/vanitas-no-carte/-67": {
+      "name": "67"
+    },
+    "https://3asq.online/manga/vanitas-no-carte/%d8%a7%d9%84%d9%85%d8%b0%d9%83%d8%b1%d8%a9-66": {
+      "name": "66"
+    },
+    "https://3asq.online/manga/vanitas-no-carte/%d8%a7%d9%84%d9%85%d8%b0%d9%83%d8%b1%d8%a9-65": {
+      "name": "65"
+    },
+    "https://3asq.online/manga/vanitas-no-carte/%d8%a7%d9%84%d9%85%d8%b0%d9%83%d8%b1%d8%a9-64": {
+      "name": "64"
+    },
+    "https://3asq.online/manga/vanitas-no-carte/%d8%a7%d9%84%d9%85%d8%b0%d9%83%d8%b1%d8%a9-63": {
+      "name": "63"
+    }
+  }
+}

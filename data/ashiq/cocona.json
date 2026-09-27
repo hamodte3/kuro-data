@@ -1,0 +1,24 @@
+{
+  "id": "cocona",
+  "title": "Cocona",
+  "cover_url": "https://3asq.online/wp-content/uploads/2019/08/1020x765.jpg",
+  "description": "لا يوجد وصف",
+  "type": "ونشوت",
+  "status": "مكتمل",
+  "rating": "4.3",
+  "favorites": "1",
+  "genres": [
+    "100%",
+    "أكشن",
+    "خيال",
+    "شونين",
+    "كوميديا",
+    "مغامرة"
+  ],
+  "is_novel": false,
+  "chapters": {
+    "https://3asq.online/manga/cocona/1": {
+      "name": "1"
+    }
+  }
+}

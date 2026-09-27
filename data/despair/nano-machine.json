@@ -1,0 +1,985 @@
+{
+  "id": "nano-machine",
+  "title": "Nano machine",
+  "cover_url": "https://i0.wp.com/despair-world.com/wp-content/uploads/2026/07/t247t1oiinefybahthf51o8w.jpg",
+  "description": "لا يوجد وصف",
+  "type": "مانغا",
+  "status": "مستمر",
+  "last_update": "2026-07-19",
+  "rating": "7.5",
+  "favorites": "3",
+  "genres": [
+    "غموض",
+    "مانهوا",
+    "مغامرة"
+  ],
+  "is_novel": false,
+  "chapters": {
+    "https://despair-manga.net/nano-machine-chapter-320/": {
+      "name": "320"
+    },
+    "https://despair-manga.net/nano-machine-chapter-319/": {
+      "name": "319"
+    },
+    "https://despair-manga.net/nano-machine-chapter-318/": {
+      "name": "318"
+    },
+    "https://despair-manga.net/nano-machine-chapter-317/": {
+      "name": "317"
+    },
+    "https://despair-manga.net/nano-machine-chapter-316/": {
+      "name": "316"
+    },
+    "https://despair-manga.net/nano-machine-chapter-315/": {
+      "name": "315"
+    },
+    "https://despair-manga.net/nano-machine-chapter-314/": {
+      "name": "314"
+    },
+    "https://despair-manga.net/nano-machine-chapter-313/": {
+      "name": "313"
+    },
+    "https://despair-manga.net/nano-machine-chapter-312/": {
+      "name": "312"
+    },
+    "https://despair-manga.net/nano-machine-chapter-311/": {
+      "name": "311"
+    },
+    "https://despair-manga.net/nano-machine-chapter-310/": {
+      "name": "310"
+    },
+    "https://despair-manga.net/nano-machine-chapter-309/": {
+      "name": "309"
+    },
+    "https://despair-manga.net/nano-machine-chapter-308/": {
+      "name": "308"
+    },
+    "https://despair-manga.net/nano-machine-chapter-307/": {
+      "name": "307"
+    },
+    "https://despair-manga.net/nano-machine-chapter-306/": {
+      "name": "306"
+    },
+    "https://despair-manga.net/nano-machine-chapter-305/": {
+      "name": "305"
+    },
+    "https://despair-manga.net/nano-machine-chapter-304/": {
+      "name": "304"
+    },
+    "https://despair-manga.net/nano-machine-chapter-303/": {
+      "name": "303"
+    },
+    "https://despair-manga.net/nano-machine-chapter-302/": {
+      "name": "302"
+    },
+    "https://despair-manga.net/nano-machine-chapter-301/": {
+      "name": "301"
+    },
+    "https://despair-manga.net/nano-machine-chapter-300/": {
+      "name": "300"
+    },
+    "https://despair-manga.net/nano-machine-chapter-299/": {
+      "name": "299"
+    },
+    "https://despair-manga.net/nano-machine-chapter-298/": {
+      "name": "298"
+    },
+    "https://despair-manga.net/nano-machine-chapter-297/": {
+      "name": "297"
+    },
+    "https://despair-manga.net/nano-machine-chapter-296/": {
+      "name": "296"
+    },
+    "https://despair-manga.net/nano-machine-chapter-295/": {
+      "name": "295"
+    },
+    "https://despair-manga.net/nano-machine-chapter-294/": {
+      "name": "294"
+    },
+    "https://despair-manga.net/nano-machine-chapter-293/": {
+      "name": "293"
+    },
+    "https://despair-manga.net/nano-machine-chapter-292/": {
+      "name": "292"
+    },
+    "https://despair-manga.net/nano-machine-chapter-291/": {
+      "name": "291"
+    },
+    "https://despair-manga.net/nano-machine-chapter-290/": {
+      "name": "290"
+    },
+    "https://despair-manga.net/nano-machine-chapter-289/": {
+      "name": "289"
+    },
+    "https://despair-manga.net/nano-machine-chapter-288/": {
+      "name": "288"
+    },
+    "https://despair-manga.net/nano-machine-chapter-287/": {
+      "name": "287"
+    },
+    "https://despair-manga.net/nano-machine-chapter-286/": {
+      "name": "286"
+    },
+    "https://despair-manga.net/nano-machine-chapter-285/": {
+      "name": "285"
+    },
+    "https://despair-manga.net/nano-machine-chapter-284/": {
+      "name": "284"
+    },
+    "https://despair-manga.net/nano-machine-chapter-283/": {
+      "name": "283"
+    },
+    "https://despair-manga.net/nano-machine-chapter-282/": {
+      "name": "282"
+    },
+    "https://despair-manga.net/nano-machine-chapter-281/": {
+      "name": "281"
+    },
+    "https://despair-manga.net/nano-machine-chapter-280/": {
+      "name": "280"
+    },
+    "https://despair-manga.net/nano-machine-chapter-279/": {
+      "name": "279"
+    },
+    "https://despair-manga.net/nano-machine-chapter-278/": {
+      "name": "278"
+    },
+    "https://despair-manga.net/nano-machine-chapter-277/": {
+      "name": "277"
+    },
+    "https://despair-manga.net/nano-machine-chapter-276/": {
+      "name": "276"
+    },
+    "https://despair-manga.net/nano-machine-chapter-275/": {
+      "name": "275"
+    },
+    "https://despair-manga.net/nano-machine-chapter-274/": {
+      "name": "274"
+    },
+    "https://despair-manga.net/nano-machine-chapter-273/": {
+      "name": "273"
+    },
+    "https://despair-manga.net/nano-machine-chapter-272/": {
+      "name": "272"
+    },
+    "https://despair-manga.net/nano-machine-chapter-271/": {
+      "name": "271"
+    },
+    "https://despair-manga.net/nano-machine-chapter-270/": {
+      "name": "270"
+    },
+    "https://despair-manga.net/nano-machine-chapter-269/": {
+      "name": "269"
+    },
+    "https://despair-manga.net/nano-machine-chapter-268/": {
+      "name": "268"
+    },
+    "https://despair-manga.net/nano-machine-chapter-267/": {
+      "name": "267"
+    },
+    "https://despair-manga.net/nano-machine-chapter-266/": {
+      "name": "266"
+    },
+    "https://despair-manga.net/nano-machine-chapter-265/": {
+      "name": "265"
+    },
+    "https://despair-manga.net/nano-machine-chapter-264/": {
+      "name": "264"
+    },
+    "https://despair-manga.net/nano-machine-chapter-263/": {
+      "name": "263"
+    },
+    "https://despair-manga.net/nano-machine-chapter-262/": {
+      "name": "262"
+    },
+    "https://despair-manga.net/nano-machine-chapter-261/": {
+      "name": "261"
+    },
+    "https://despair-manga.net/nano-machine-chapter-260/": {
+      "name": "260"
+    },
+    "https://despair-manga.net/nano-machine-chapter-259/": {
+      "name": "259"
+    },
+    "https://despair-manga.net/nano-machine-chapter-258/": {
+      "name": "258"
+    },
+    "https://despair-manga.net/nano-machine-chapter-257/": {
+      "name": "257"
+    },
+    "https://despair-manga.net/nano-machine-chapter-256/": {
+      "name": "256"
+    },
+    "https://despair-manga.net/nano-machine-chapter-255/": {
+      "name": "255"
+    },
+    "https://despair-manga.net/nano-machine-chapter-254/": {
+      "name": "254"
+    },
+    "https://despair-manga.net/nano-machine-chapter-253/": {
+      "name": "253"
+    },
+    "https://despair-manga.net/nano-machine-chapter-252/": {
+      "name": "252"
+    },
+    "https://despair-manga.net/nano-machine-chapter-251/": {
+      "name": "251"
+    },
+    "https://despair-manga.net/nano-machine-chapter-250/": {
+      "name": "250"
+    },
+    "https://despair-manga.net/nano-machine-chapter-249/": {
+      "name": "249"
+    },
+    "https://despair-manga.net/nano-machine-chapter-248/": {
+      "name": "248"
+    },
+    "https://despair-manga.net/nano-machine-chapter-247/": {
+      "name": "247"
+    },
+    "https://despair-manga.net/nano-machine-chapter-246/": {
+      "name": "246"
+    },
+    "https://despair-manga.net/nano-machine-chapter-245/": {
+      "name": "245"
+    },
+    "https://despair-manga.net/nano-machine-chapter-244/": {
+      "name": "244"
+    },
+    "https://despair-manga.net/nano-machine-chapter-243/": {
+      "name": "243"
+    },
+    "https://despair-manga.net/nano-machine-chapter-242/": {
+      "name": "242"
+    },
+    "https://despair-manga.net/nano-machine-chapter-241/": {
+      "name": "241"
+    },
+    "https://despair-manga.net/nano-machine-chapter-240/": {
+      "name": "240"
+    },
+    "https://despair-manga.net/nano-machine-chapter-239/": {
+      "name": "239"
+    },
+    "https://despair-manga.net/nano-machine-chapter-238/": {
+      "name": "238"
+    },
+    "https://despair-manga.net/nano-machine-chapter-237/": {
+      "name": "237"
+    },
+    "https://despair-manga.net/nano-machine-chapter-236/": {
+      "name": "236"
+    },
+    "https://despair-manga.net/nano-machine-chapter-235/": {
+      "name": "235"
+    },
+    "https://despair-manga.net/nano-machine-chapter-234/": {
+      "name": "234"
+    },
+    "https://despair-manga.net/nano-machine-chapter-233/": {
+      "name": "233"
+    },
+    "https://despair-manga.net/nano-machine-chapter-232/": {
+      "name": "232"
+    },
+    "https://despair-manga.net/nano-machine-chapter-231/": {
+      "name": "231"
+    },
+    "https://despair-manga.net/nano-machine-chapter-230/": {
+      "name": "230"
+    },
+    "https://despair-manga.net/nano-machine-chapter-229/": {
+      "name": "229"
+    },
+    "https://despair-manga.net/nano-machine-chapter-228/": {
+      "name": "228"
+    },
+    "https://despair-manga.net/nano-machine-chapter-227/": {
+      "name": "227"
+    },
+    "https://despair-manga.net/nano-machine-chapter-226/": {
+      "name": "226"
+    },
+    "https://despair-manga.net/nano-machine-chapter-225/": {
+      "name": "225"
+    },
+    "https://despair-manga.net/nano-machine-chapter-224/": {
+      "name": "224"
+    },
+    "https://despair-manga.net/nano-machine-chapter-223/": {
+      "name": "223"
+    },
+    "https://despair-manga.net/nano-machine-chapter-222/": {
+      "name": "222"
+    },
+    "https://despair-manga.net/nano-machine-chapter-221/": {
+      "name": "221"
+    },
+    "https://despair-manga.net/nano-machine-chapter-220/": {
+      "name": "220"
+    },
+    "https://despair-manga.net/nano-machine-chapter-219/": {
+      "name": "219"
+    },
+    "https://despair-manga.net/nano-machine-chapter-218/": {
+      "name": "218"
+    },
+    "https://despair-manga.net/nano-machine-chapter-217/": {
+      "name": "217"
+    },
+    "https://despair-manga.net/nano-machine-chapter-216/": {
+      "name": "216"
+    },
+    "https://despair-manga.net/nano-machine-chapter-215/": {
+      "name": "215"
+    },
+    "https://despair-manga.net/nano-machine-chapter-214/": {
+      "name": "214"
+    },
+    "https://despair-manga.net/nano-machine-chapter-213/": {
+      "name": "213"
+    },
+    "https://despair-manga.net/nano-machine-chapter-212/": {
+      "name": "212"
+    },
+    "https://despair-manga.net/nano-machine-chapter-211/": {
+      "name": "211"
+    },
+    "https://despair-manga.net/nano-machine-chapter-210/": {
+      "name": "210"
+    },
+    "https://despair-manga.net/nano-machine-chapter-209/": {
+      "name": "209"
+    },
+    "https://despair-manga.net/nano-machine-chapter-208/": {
+      "name": "208"
+    },
+    "https://despair-manga.net/nano-machine-chapter-207/": {
+      "name": "207"
+    },
+    "https://despair-manga.net/nano-machine-chapter-206/": {
+      "name": "206"
+    },
+    "https://despair-manga.net/nano-machine-chapter-205/": {
+      "name": "205"
+    },
+    "https://despair-manga.net/nano-machine-chapter-204/": {
+      "name": "204"
+    },
+    "https://despair-manga.net/nano-machine-chapter-203/": {
+      "name": "203"
+    },
+    "https://despair-manga.net/nano-machine-chapter-202/": {
+      "name": "202"
+    },
+    "https://despair-manga.net/nano-machine-chapter-201/": {
+      "name": "201"
+    },
+    "https://despair-manga.net/nano-machine-chapter-200/": {
+      "name": "200"
+    },
+    "https://despair-manga.net/nano-machine-chapter-199/": {
+      "name": "199"
+    },
+    "https://despair-manga.net/nano-machine-chapter-198/": {
+      "name": "198"
+    },
+    "https://despair-manga.net/nano-machine-chapter-197/": {
+      "name": "197"
+    },
+    "https://despair-manga.net/nano-machine-chapter-196/": {
+      "name": "196"
+    },
+    "https://despair-manga.net/nano-machine-chapter-195/": {
+      "name": "195"
+    },
+    "https://despair-manga.net/nano-machine-chapter-194/": {
+      "name": "194"
+    },
+    "https://despair-manga.net/nano-machine-chapter-193/": {
+      "name": "193"
+    },
+    "https://despair-manga.net/nano-machine-chapter-192/": {
+      "name": "192"
+    },
+    "https://despair-manga.net/nano-machine-chapter-191/": {
+      "name": "191"
+    },
+    "https://despair-manga.net/nano-machine-chapter-190/": {
+      "name": "190"
+    },
+    "https://despair-manga.net/nano-machine-chapter-189/": {
+      "name": "189"
+    },
+    "https://despair-manga.net/nano-machine-chapter-188/": {
+      "name": "188"
+    },
+    "https://despair-manga.net/nano-machine-chapter-187/": {
+      "name": "187"
+    },
+    "https://despair-manga.net/nano-machine-chapter-186/": {
+      "name": "186"
+    },
+    "https://despair-manga.net/nano-machine-chapter-185/": {
+      "name": "185"
+    },
+    "https://despair-manga.net/nano-machine-chapter-184/": {
+      "name": "184"
+    },
+    "https://despair-manga.net/nano-machine-chapter-183/": {
+      "name": "183"
+    },
+    "https://despair-manga.net/nano-machine-chapter-182/": {
+      "name": "182"
+    },
+    "https://despair-manga.net/nano-machine-chapter-181/": {
+      "name": "181"
+    },
+    "https://despair-manga.net/nano-machine-chapter-180/": {
+      "name": "180"
+    },
+    "https://despair-manga.net/nano-machine-chapter-179/": {
+      "name": "179"
+    },
+    "https://despair-manga.net/nano-machine-chapter-178/": {
+      "name": "178"
+    },
+    "https://despair-manga.net/nano-machine-chapter-177/": {
+      "name": "177"
+    },
+    "https://despair-manga.net/nano-machine-chapter-176/": {
+      "name": "176"
+    },
+    "https://despair-manga.net/nano-machine-chapter-175/": {
+      "name": "175"
+    },
+    "https://despair-manga.net/nano-machine-chapter-174/": {
+      "name": "174"
+    },
+    "https://despair-manga.net/nano-machine-chapter-173/": {
+      "name": "173"
+    },
+    "https://despair-manga.net/nano-machine-chapter-172/": {
+      "name": "172"
+    },
+    "https://despair-manga.net/nano-machine-chapter-171/": {
+      "name": "171"
+    },
+    "https://despair-manga.net/nano-machine-chapter-170/": {
+      "name": "170"
+    },
+    "https://despair-manga.net/nano-machine-chapter-169/": {
+      "name": "169"
+    },
+    "https://despair-manga.net/nano-machine-chapter-168/": {
+      "name": "168"
+    },
+    "https://despair-manga.net/nano-machine-chapter-167/": {
+      "name": "167"
+    },
+    "https://despair-manga.net/nano-machine-chapter-166/": {
+      "name": "166"
+    },
+    "https://despair-manga.net/nano-machine-chapter-165/": {
+      "name": "165"
+    },
+    "https://despair-manga.net/nano-machine-chapter-164/": {
+      "name": "164"
+    },
+    "https://despair-manga.net/nano-machine-chapter-163/": {
+      "name": "163"
+    },
+    "https://despair-manga.net/nano-machine-chapter-162/": {
+      "name": "162"
+    },
+    "https://despair-manga.net/nano-machine-chapter-161/": {
+      "name": "161"
+    },
+    "https://despair-manga.net/nano-machine-chapter-160/": {
+      "name": "160"
+    },
+    "https://despair-manga.net/nano-machine-chapter-159/": {
+      "name": "159"
+    },
+    "https://despair-manga.net/nano-machine-chapter-158/": {
+      "name": "158"
+    },
+    "https://despair-manga.net/nano-machine-chapter-157/": {
+      "name": "157"
+    },
+    "https://despair-manga.net/nano-machine-chapter-156/": {
+      "name": "156"
+    },
+    "https://despair-manga.net/nano-machine-chapter-155/": {
+      "name": "155"
+    },
+    "https://despair-manga.net/nano-machine-chapter-154/": {
+      "name": "154"
+    },
+    "https://despair-manga.net/nano-machine-chapter-153/": {
+      "name": "153"
+    },
+    "https://despair-manga.net/nano-machine-chapter-152/": {
+      "name": "152"
+    },
+    "https://despair-manga.net/nano-machine-chapter-151/": {
+      "name": "151"
+    },
+    "https://despair-manga.net/nano-machine-chapter-150/": {
+      "name": "150"
+    },
+    "https://despair-manga.net/nano-machine-chapter-149/": {
+      "name": "149"
+    },
+    "https://despair-manga.net/nano-machine-chapter-148/": {
+      "name": "148"
+    },
+    "https://despair-manga.net/nano-machine-chapter-147/": {
+      "name": "147"
+    },
+    "https://despair-manga.net/nano-machine-chapter-146/": {
+      "name": "146"
+    },
+    "https://despair-manga.net/nano-machine-chapter-145/": {
+      "name": "145"
+    },
+    "https://despair-manga.net/nano-machine-chapter-144/": {
+      "name": "144"
+    },
+    "https://despair-manga.net/nano-machine-chapter-143/": {
+      "name": "143"
+    },
+    "https://despair-manga.net/nano-machine-chapter-142-6/": {
+      "name": "142.6"
+    },
+    "https://despair-manga.net/nano-machine-chapter-142-5/": {
+      "name": "142.5"
+    },
+    "https://despair-manga.net/nano-machine-chapter-142/": {
+      "name": "142"
+    },
+    "https://despair-manga.net/nano-machine-chapter-141/": {
+      "name": "141"
+    },
+    "https://despair-manga.net/nano-machine-chapter-140/": {
+      "name": "140"
+    },
+    "https://despair-manga.net/nano-machine-chapter-139/": {
+      "name": "139"
+    },
+    "https://despair-manga.net/nano-machine-chapter-138/": {
+      "name": "138"
+    },
+    "https://despair-manga.net/nano-machine-chapter-137/": {
+      "name": "137"
+    },
+    "https://despair-manga.net/nano-machine-chapter-136/": {
+      "name": "136"
+    },
+    "https://despair-manga.net/nano-machine-chapter-135/": {
+      "name": "135"
+    },
+    "https://despair-manga.net/nano-machine-chapter-134/": {
+      "name": "134"
+    },
+    "https://despair-manga.net/nano-machine-chapter-133/": {
+      "name": "133"
+    },
+    "https://despair-manga.net/nano-machine-chapter-132/": {
+      "name": "132"
+    },
+    "https://despair-manga.net/nano-machine-chapter-131/": {
+      "name": "131"
+    },
+    "https://despair-manga.net/nano-machine-chapter-130/": {
+      "name": "130"
+    },
+    "https://despair-manga.net/nano-machine-chapter-129/": {
+      "name": "129"
+    },
+    "https://despair-manga.net/nano-machine-chapter-128/": {
+      "name": "128"
+    },
+    "https://despair-manga.net/nano-machine-chapter-127/": {
+      "name": "127"
+    },
+    "https://despair-manga.net/nano-machine-chapter-126/": {
+      "name": "126"
+    },
+    "https://despair-manga.net/nano-machine-chapter-125/": {
+      "name": "125"
+    },
+    "https://despair-manga.net/nano-machine-chapter-124/": {
+      "name": "124"
+    },
+    "https://despair-manga.net/nano-machine-chapter-123/": {
+      "name": "123"
+    },
+    "https://despair-manga.net/nano-machine-chapter-122/": {
+      "name": "122"
+    },
+    "https://despair-manga.net/nano-machine-chapter-121/": {
+      "name": "121"
+    },
+    "https://despair-manga.net/nano-machine-chapter-120/": {
+      "name": "120"
+    },
+    "https://despair-manga.net/nano-machine-chapter-119/": {
+      "name": "119"
+    },
+    "https://despair-manga.net/nano-machine-chapter-118/": {
+      "name": "118"
+    },
+    "https://despair-manga.net/nano-machine-chapter-117/": {
+      "name": "117"
+    },
+    "https://despair-manga.net/nano-machine-chapter-116/": {
+      "name": "116"
+    },
+    "https://despair-manga.net/nano-machine-chapter-115/": {
+      "name": "115"
+    },
+    "https://despair-manga.net/nano-machine-chapter-114/": {
+      "name": "114"
+    },
+    "https://despair-manga.net/nano-machine-chapter-113/": {
+      "name": "113"
+    },
+    "https://despair-manga.net/nano-machine-chapter-112/": {
+      "name": "112"
+    },
+    "https://despair-manga.net/nano-machine-chapter-111/": {
+      "name": "111"
+    },
+    "https://despair-manga.net/nano-machine-chapter-110/": {
+      "name": "110"
+    },
+    "https://despair-manga.net/nano-machine-chapter-109/": {
+      "name": "109"
+    },
+    "https://despair-manga.net/nano-machine-chapter-108/": {
+      "name": "108"
+    },
+    "https://despair-manga.net/nano-machine-chapter-107/": {
+      "name": "107"
+    },
+    "https://despair-manga.net/nano-machine-chapter-106/": {
+      "name": "106"
+    },
+    "https://despair-manga.net/nano-machine-chapter-105/": {
+      "name": "105"
+    },
+    "https://despair-manga.net/nano-machine-chapter-104/": {
+      "name": "104"
+    },
+    "https://despair-manga.net/nano-machine-chapter-103/": {
+      "name": "103"
+    },
+    "https://despair-manga.net/nano-machine-chapter-102/": {
+      "name": "102"
+    },
+    "https://despair-manga.net/nano-machine-chapter-101/": {
+      "name": "101"
+    },
+    "https://despair-manga.net/nano-machine-chapter-100/": {
+      "name": "100"
+    },
+    "https://despair-manga.net/nano-machine-chapter-99/": {
+      "name": "99"
+    },
+    "https://despair-manga.net/nano-machine-chapter-98/": {
+      "name": "98"
+    },
+    "https://despair-manga.net/nano-machine-chapter-97/": {
+      "name": "97"
+    },
+    "https://despair-manga.net/nano-machine-chapter-96/": {
+      "name": "96"
+    },
+    "https://despair-manga.net/nano-machine-chapter-95/": {
+      "name": "95"
+    },
+    "https://despair-manga.net/nano-machine-chapter-94/": {
+      "name": "94"
+    },
+    "https://despair-manga.net/nano-machine-chapter-93/": {
+      "name": "93"
+    },
+    "https://despair-manga.net/nano-machine-chapter-92/": {
+      "name": "92"
+    },
+    "https://despair-manga.net/nano-machine-chapter-91/": {
+      "name": "91"
+    },
+    "https://despair-manga.net/nano-machine-chapter-90/": {
+      "name": "90"
+    },
+    "https://despair-manga.net/nano-machine-chapter-89/": {
+      "name": "89"
+    },
+    "https://despair-manga.net/nano-machine-chapter-88/": {
+      "name": "88"
+    },
+    "https://despair-manga.net/nano-machine-chapter-87/": {
+      "name": "87"
+    },
+    "https://despair-manga.net/nano-machine-chapter-86/": {
+      "name": "86"
+    },
+    "https://despair-manga.net/nano-machine-chapter-85/": {
+      "name": "85"
+    },
+    "https://despair-manga.net/nano-machine-chapter-84/": {
+      "name": "84"
+    },
+    "https://despair-manga.net/nano-machine-chapter-83/": {
+      "name": "83"
+    },
+    "https://despair-manga.net/nano-machine-chapter-82/": {
+      "name": "82"
+    },
+    "https://despair-manga.net/nano-machine-chapter-81/": {
+      "name": "81"
+    },
+    "https://despair-manga.net/nano-machine-chapter-80/": {
+      "name": "80"
+    },
+    "https://despair-manga.net/nano-machine-chapter-79/": {
+      "name": "79"
+    },
+    "https://despair-manga.net/nano-machine-chapter-78/": {
+      "name": "78"
+    },
+    "https://despair-manga.net/nano-machine-chapter-77/": {
+      "name": "77"
+    },
+    "https://despair-manga.net/nano-machine-chapter-76/": {
+      "name": "76"
+    },
+    "https://despair-manga.net/nano-machine-chapter-75/": {
+      "name": "75"
+    },
+    "https://despair-manga.net/nano-machine-chapter-74/": {
+      "name": "74"
+    },
+    "https://despair-manga.net/nano-machine-chapter-73/": {
+      "name": "73"
+    },
+    "https://despair-manga.net/nano-machine-chapter-72/": {
+      "name": "72"
+    },
+    "https://despair-manga.net/nano-machine-chapter-71/": {
+      "name": "71"
+    },
+    "https://despair-manga.net/nano-machine-chapter-70/": {
+      "name": "70"
+    },
+    "https://despair-manga.net/nano-machine-chapter-69/": {
+      "name": "69"
+    },
+    "https://despair-manga.net/nano-machine-chapter-68/": {
+      "name": "68"
+    },
+    "https://despair-manga.net/nano-machine-chapter-67/": {
+      "name": "67"
+    },
+    "https://despair-manga.net/nano-machine-chapter-66/": {
+      "name": "66"
+    },
+    "https://despair-manga.net/nano-machine-chapter-65/": {
+      "name": "65"
+    },
+    "https://despair-manga.net/nano-machine-chapter-64/": {
+      "name": "64"
+    },
+    "https://despair-manga.net/nano-machine-chapter-63/": {
+      "name": "63"
+    },
+    "https://despair-manga.net/nano-machine-chapter-62/": {
+      "name": "62"
+    },
+    "https://despair-manga.net/nano-machine-chapter-61/": {
+      "name": "61"
+    },
+    "https://despair-manga.net/nano-machine-chapter-60/": {
+      "name": "60"
+    },
+    "https://despair-manga.net/nano-machine-chapter-59/": {
+      "name": "59"
+    },
+    "https://despair-manga.net/nano-machine-chapter-58/": {
+      "name": "58"
+    },
+    "https://despair-manga.net/nano-machine-chapter-57/": {
+      "name": "57"
+    },
+    "https://despair-manga.net/nano-machine-chapter-56/": {
+      "name": "56"
+    },
+    "https://despair-manga.net/nano-machine-chapter-55/": {
+      "name": "55"
+    },
+    "https://despair-manga.net/nano-machine-chapter-54/": {
+      "name": "54"
+    },
+    "https://despair-manga.net/nano-machine-chapter-53/": {
+      "name": "53"
+    },
+    "https://despair-manga.net/nano-machine-chapter-52/": {
+      "name": "52"
+    },
+    "https://despair-manga.net/nano-machine-chapter-51/": {
+      "name": "51"
+    },
+    "https://despair-manga.net/nano-machine-chapter-50/": {
+      "name": "50"
+    },
+    "https://despair-manga.net/nano-machine-chapter-49/": {
+      "name": "49"
+    },
+    "https://despair-manga.net/nano-machine-chapter-48/": {
+      "name": "48"
+    },
+    "https://despair-manga.net/nano-machine-chapter-47/": {
+      "name": "47"
+    },
+    "https://despair-manga.net/nano-machine-chapter-46/": {
+      "name": "46"
+    },
+    "https://despair-manga.net/nano-machine-chapter-45/": {
+      "name": "45"
+    },
+    "https://despair-manga.net/nano-machine-chapter-44/": {
+      "name": "44"
+    },
+    "https://despair-manga.net/nano-machine-chapter-43/": {
+      "name": "43"
+    },
+    "https://despair-manga.net/nano-machine-chapter-42/": {
+      "name": "42"
+    },
+    "https://despair-manga.net/nano-machine-chapter-41/": {
+      "name": "41"
+    },
+    "https://despair-manga.net/nano-machine-chapter-40/": {
+      "name": "40"
+    },
+    "https://despair-manga.net/nano-machine-chapter-39/": {
+      "name": "39"
+    },
+    "https://despair-manga.net/nano-machine-chapter-38/": {
+      "name": "38"
+    },
+    "https://despair-manga.net/nano-machine-chapter-37/": {
+      "name": "37"
+    },
+    "https://despair-manga.net/nano-machine-chapter-36/": {
+      "name": "36"
+    },
+    "https://despair-manga.net/nano-machine-chapter-35/": {
+      "name": "35"
+    },
+    "https://despair-manga.net/nano-machine-chapter-34/": {
+      "name": "34"
+    },
+    "https://despair-manga.net/nano-machine-chapter-33/": {
+      "name": "33"
+    },
+    "https://despair-manga.net/nano-machine-chapter-32/": {
+      "name": "32"
+    },
+    "https://despair-manga.net/nano-machine-chapter-31/": {
+      "name": "31"
+    },
+    "https://despair-manga.net/nano-machine-chapter-30/": {
+      "name": "30"
+    },
+    "https://despair-manga.net/nano-machine-chapter-29/": {
+      "name": "29"
+    },
+    "https://despair-manga.net/nano-machine-chapter-28/": {
+      "name": "28"
+    },
+    "https://despair-manga.net/nano-machine-chapter-27/": {
+      "name": "27"
+    },
+    "https://despair-manga.net/nano-machine-chapter-26/": {
+      "name": "26"
+    },
+    "https://despair-manga.net/nano-machine-chapter-25/": {
+      "name": "25"
+    },
+    "https://despair-manga.net/nano-machine-chapter-24/": {
+      "name": "24"
+    },
+    "https://despair-manga.net/nano-machine-chapter-23/": {
+      "name": "23"
+    },
+    "https://despair-manga.net/nano-machine-chapter-22/": {
+      "name": "22"
+    },
+    "https://despair-manga.net/nano-machine-chapter-21/": {
+      "name": "21"
+    },
+    "https://despair-manga.net/nano-machine-chapter-20/": {
+      "name": "20"
+    },
+    "https://despair-manga.net/nano-machine-chapter-19/": {
+      "name": "19"
+    },
+    "https://despair-manga.net/nano-machine-chapter-18/": {
+      "name": "18"
+    },
+    "https://despair-manga.net/nano-machine-chapter-17/": {
+      "name": "17"
+    },
+    "https://despair-manga.net/nano-machine-chapter-16/": {
+      "name": "16"
+    },
+    "https://despair-manga.net/nano-machine-chapter-15/": {
+      "name": "15"
+    },
+    "https://despair-manga.net/nano-machine-chapter-14/": {
+      "name": "14"
+    },
+    "https://despair-manga.net/nano-machine-chapter-13/": {
+      "name": "13"
+    },
+    "https://despair-manga.net/nano-machine-chapter-12/": {
+      "name": "12"
+    },
+    "https://despair-manga.net/nano-machine-chapter-11/": {
+      "name": "11"
+    },
+    "https://despair-manga.net/nano-machine-chapter-10/": {
+      "name": "10"
+    },
+    "https://despair-manga.net/nano-machine-chapter-9/": {
+      "name": "9"
+    },
+    "https://despair-manga.net/nano-machine-chapter-8/": {
+      "name": "8"
+    },
+    "https://despair-manga.net/nano-machine-chapter-7/": {
+      "name": "7"
+    },
+    "https://despair-manga.net/nano-machine-chapter-6/": {
+      "name": "6"
+    },
+    "https://despair-manga.net/nano-machine-chapter-5/": {
+      "name": "5"
+    },
+    "https://despair-manga.net/nano-machine-chapter-4/": {
+      "name": "4"
+    },
+    "https://despair-manga.net/nano-machine-chapter-3/": {
+      "name": "3"
+    },
+    "https://despair-manga.net/nano-machine-chapter-2/": {
+      "name": "2"
+    },
+    "https://despair-manga.net/nano-machine-chapter-1/": {
+      "name": "1"
+    }
+  }
+}

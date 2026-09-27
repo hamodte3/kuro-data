@@ -1,0 +1,42 @@
+{
+  "id": "tengoku-daimakyou",
+  "title": "Tengoku Daimakyou",
+  "cover_url": "https://3asq.online/wp-content/uploads/2019/09/6846133-02.jpg",
+  "description": "فتى يُدعى توكيو يعيش مع أصدقائه الأطفال خلف الجدار.. ذات يوم تلقى توكيو رساله كُتِبَ فيها: هل تريد أن تخرج إلى ما وراء الجدار..؟ إلى الجنه “السماء” التي مزقت نفسها..؟ . ومن هنا تبدأ مغامرة توكيو ومعه مجموعه من الفتيه…",
+  "type": "مانغا",
+  "status": "مستمر",
+  "rating": "4.3",
+  "favorites": "8",
+  "genres": [
+    "100%",
+    "خيال علمي",
+    "دراما",
+    "سينين",
+    "غموض",
+    "مغامرة"
+  ],
+  "is_novel": false,
+  "chapters": {
+    "https://3asq.online/manga/tengoku-daimakyou/7": {
+      "name": "7"
+    },
+    "https://3asq.online/manga/tengoku-daimakyou/6": {
+      "name": "6"
+    },
+    "https://3asq.online/manga/tengoku-daimakyou/5": {
+      "name": "5"
+    },
+    "https://3asq.online/manga/tengoku-daimakyou/4": {
+      "name": "4"
+    },
+    "https://3asq.online/manga/tengoku-daimakyou/3": {
+      "name": "3"
+    },
+    "https://3asq.online/manga/tengoku-daimakyou/2": {
+      "name": "2"
+    },
+    "https://3asq.online/manga/tengoku-daimakyou/1": {
+      "name": "1"
+    }
+  }
+}

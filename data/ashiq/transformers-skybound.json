@@ -1,0 +1,43 @@
+{
+  "id": "transformers-skybound",
+  "title": "Transformers skybound",
+  "cover_url": "https://3asq.online/wp-content/uploads/2025/09/IMG_20250901_020016_486-scaled.png",
+  "description": "تتحطم سفينة الأوتوبوتس والديسيبتيكونز على الأرض بعد حرب مدمرة في كوكبهم سايبرترون، لتنتقل المعركة بينهم إلى كوكبنا.\n\nيقود أوبتيموس برايم الأوتوبوتس لحماية البشر ومنع المزيد من الدمار، بينما يقود ستار سكرريم الديسيبتيكونز في محاولة للسيطرة على الأرض، فتبدأ مواجهة جديدة تحدد مصير الكوكب.",
+  "type": "كوميك",
+  "status": "مستمر",
+  "rating": "4.0",
+  "favorites": "6",
+  "genres": [
+    "أكشن",
+    "حرب",
+    "خيال علمي",
+    "دراما"
+  ],
+  "is_novel": false,
+  "chapters": {
+    "https://3asq.online/manga/transformers-skybound/6": {
+      "name": "6"
+    },
+    "https://3asq.online/manga/transformers-skybound/5": {
+      "name": "5"
+    },
+    "https://3asq.online/manga/transformers-skybound/4": {
+      "name": "4"
+    },
+    "https://3asq.online/manga/transformers-skybound/3": {
+      "name": "3"
+    },
+    "https://3asq.online/manga/transformers-skybound/2": {
+      "name": "2"
+    },
+    "https://3asq.online/manga/transformers-skybound/1": {
+      "name": "1"
+    },
+    "https://3asq.online/javascript:void(0)": {
+      "name": "2"
+    },
+    "https://3asq.online/manga/transformers-skybound/2/7": {
+      "name": "7"
+    }
+  }
+}

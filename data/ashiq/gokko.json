@@ -1,0 +1,30 @@
+{
+  "id": "gokko",
+  "title": "Gokko",
+  "cover_url": "https://3asq.online/wp-content/uploads/2020/02/143061l.jpeg",
+  "description": "مجموعة قصص قصيرة من الكاتبة ناوكو ساكوراكوجي",
+  "type": "مجموعة ونشوتات",
+  "status": "مكتمل",
+  "rating": "4.3",
+  "favorites": "8",
+  "genres": [
+    "100%",
+    "رومانسية",
+    "شوجو"
+  ],
+  "is_novel": false,
+  "chapters": {
+    "https://3asq.online/manga/gokko/4": {
+      "name": "4"
+    },
+    "https://3asq.online/manga/gokko/3": {
+      "name": "3"
+    },
+    "https://3asq.online/manga/gokko/2": {
+      "name": "2"
+    },
+    "https://3asq.online/manga/gokko/1": {
+      "name": "1"
+    }
+  }
+}

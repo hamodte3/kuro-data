@@ -1,0 +1,22 @@
+{
+  "id": "rezero-anthology",
+  "title": "Re:Zero Anthology",
+  "cover_url": "https://kolnovel.com/wp-content/uploads/2021/07/7543be7675b85364.jpg",
+  "description": "قصص جانبية لوجهات شخصيات من القصة على أحداث القصة الأصلية أو احداث توضيحية لبعض الأحداث في القصة الرئيس",
+  "type": "رواية",
+  "status": "مكتمل",
+  "last_update": "يوليو 30, 2021",
+  "rating": "",
+  "favorites": "",
+  "genres": [
+    "رومانسي",
+    "سينن",
+    "كوميدي"
+  ],
+  "is_novel": true,
+  "chapters": {
+    "https://kolnovel.com/shaag24rezero-anthologyz435ggye-157416": {
+      "name": "قصة قصيرة: المؤامرة"
+    }
+  }
+}

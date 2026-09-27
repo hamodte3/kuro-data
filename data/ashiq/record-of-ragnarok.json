@@ -1,0 +1,60 @@
+{
+  "id": "record-of-ragnarok",
+  "title": "Record of Ragnarok",
+  "cover_url": "https://3asq.online/wp-content/uploads/2025/12/1000078981.jpg",
+  "description": "تبدأ القصة عندما تدعو الآلهة مؤتمرًا لتقرير ما إذا كانت ستدع البشرية تعيش أو تموت وتتفق الآلهة على تدمير الإنسانية، لكن فالكيري وحيدة تطرح اقتراحًا للسماح للآلهة والإنسانية خوض معركة واحدة أخيرة، كأمل أخير لأستمرار بقاء البشرية، سوف يقاتل ثلاثُ عشر إلهًا ضد ثلاثُ عشر بطلًا بشريًا في معارك فردية لتقرير ما إذا كانت البشرية ستعيش أم تُفنى.",
+  "type": "مانغا",
+  "status": "مستمر",
+  "rating": "3.3",
+  "favorites": "11",
+  "genres": [
+    "أكشن",
+    "تاريخ",
+    "حكايات شعبية",
+    "خارق للطبيعة",
+    "خيال",
+    "دراما",
+    "ساموراي",
+    "سينين",
+    "شونين",
+    "شياطين",
+    "غموض",
+    "فلسفة",
+    "قوى خارقة",
+    "مأساة",
+    "مغامرة"
+  ],
+  "is_novel": false,
+  "chapters": {
+    "https://3asq.online/manga/record-of-ragnarok/%d8%a7%d9%84%d9%81%d8%b5%d9%84-7-2": {
+      "name": "7.2"
+    },
+    "https://3asq.online/manga/record-of-ragnarok/%d8%a7%d9%84%d9%81%d8%b5%d9%84-7-1": {
+      "name": "7.1"
+    },
+    "https://3asq.online/manga/record-of-ragnarok/%d8%a7%d9%84%d9%81%d8%b5%d9%84-6-2": {
+      "name": "6.2"
+    },
+    "https://3asq.online/manga/record-of-ragnarok/%d8%a7%d9%84%d9%81%d8%b5%d9%84-6-1": {
+      "name": "6.1"
+    },
+    "https://3asq.online/manga/record-of-ragnarok/%d8%a7%d9%84%d9%81%d8%b5%d9%84-5": {
+      "name": "5"
+    },
+    "https://3asq.online/manga/record-of-ragnarok/%d8%a7%d9%84%d9%81%d8%b5%d9%84-4": {
+      "name": "4"
+    },
+    "https://3asq.online/manga/record-of-ragnarok/%d8%a7%d9%84%d9%81%d8%b5%d9%84-3_1": {
+      "name": "3"
+    },
+    "https://3asq.online/manga/record-of-ragnarok/%d8%a7%d9%84%d9%81%d8%b5%d9%84-2_1": {
+      "name": "2"
+    },
+    "https://3asq.online/manga/record-of-ragnarok/%d8%a7%d9%84%d9%81%d8%b5%d9%84-1-1": {
+      "name": "1.1"
+    },
+    "https://3asq.online/manga/record-of-ragnarok/%d8%a7%d9%84%d9%81%d8%b5%d9%84-1": {
+      "name": "1"
+    }
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "id": "higurashi-no-naku-koro-ni-onikakushi-hen",
+  "title": "Higurashi no Naku Koro ni Onikakushi-hen",
+  "cover_url": "https://3asq.online/wp-content/uploads/2021/07/1-2.png",
+  "description": "بعد ما انتقل إلى قرية هيناميزاوا الهادئة، مايبارا كيشي قضى أيامه بسعادة في المدرسة باللعب مع أصدقائه. وفي إحدى الليالي المشوؤمة، يطلّع كييشي عن أنباء جريمة قتل وقعت في هيناميزاوا. ومن بعدها أصبحت الأحداث المروعة تنكشف شيئًا فشيئًا أمام كييشي وكما أن أصدقائه المقربين لم يعودوا كما كانوا عليه…",
+  "type": "مانغا",
+  "status": "مكتمل",
+  "rating": "4.4",
+  "favorites": "5",
+  "genres": [
+    "100%",
+    "دراما",
+    "رعب",
+    "غموض"
+  ],
+  "is_novel": false,
+  "chapters": {
+    "https://3asq.online/manga/higurashi-no-naku-koro-ni-onikakushi-hen/07": {
+      "name": "7"
+    },
+    "https://3asq.online/manga/higurashi-no-naku-koro-ni-onikakushi-hen/06": {
+      "name": "6"
+    },
+    "https://3asq.online/manga/higurashi-no-naku-koro-ni-onikakushi-hen/05": {
+      "name": "5"
+    },
+    "https://3asq.online/manga/higurashi-no-naku-koro-ni-onikakushi-hen/04": {
+      "name": "4"
+    },
+    "https://3asq.online/manga/higurashi-no-naku-koro-ni-onikakushi-hen/03": {
+      "name": "3"
+    },
+    "https://3asq.online/manga/higurashi-no-naku-koro-ni-onikakushi-hen/02": {
+      "name": "2"
+    },
+    "https://3asq.online/manga/higurashi-no-naku-koro-ni-onikakushi-hen/01": {
+      "name": "1"
+    }
+  }
+}

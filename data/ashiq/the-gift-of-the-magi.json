@@ -1,0 +1,36 @@
+{
+  "id": "the-gift-of-the-magi",
+  "title": "Magi no Okurimono",
+  "cover_url": "https://3asq.online/wp-content/uploads/2019/10/3449E4B3-5EE5-4FFE-9BCF-36CED817E74E.jpeg",
+  "description": "تدور أحدث القصة حول الشاب دايتشي، بعد وفاة خليلته آكاري قرر الاحتفاظ بكل ذكرياتهم الثمينة، لكن منذ وفاتها الأحداث الغريبة تتوالى عليه فما السبب يا ترى؟",
+  "type": "مانغا",
+  "status": "مكتمل",
+  "rating": "4.3",
+  "favorites": "2",
+  "genres": [
+    "خارق للطبيعة",
+    "رومانسية",
+    "سينين"
+  ],
+  "is_novel": false,
+  "chapters": {
+    "https://3asq.online/manga/the-gift-of-the-magi/6": {
+      "name": "6"
+    },
+    "https://3asq.online/manga/the-gift-of-the-magi/5": {
+      "name": "5"
+    },
+    "https://3asq.online/manga/the-gift-of-the-magi/4": {
+      "name": "4"
+    },
+    "https://3asq.online/manga/the-gift-of-the-magi/3": {
+      "name": "3"
+    },
+    "https://3asq.online/manga/the-gift-of-the-magi/2": {
+      "name": "2"
+    },
+    "https://3asq.online/manga/the-gift-of-the-magi/1": {
+      "name": "1"
+    }
+  }
+}

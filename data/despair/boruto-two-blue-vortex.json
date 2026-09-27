@@ -1,0 +1,35 @@
+{
+  "id": "boruto-two-blue-vortex",
+  "title": "Boruto: Two Blue Vortex",
+  "cover_url": "https://i3.wp.com/despair-world.com/wp-content/uploads/2025/02/IMG_0746-1.png",
+  "description": "تكملة لاحداث الجزء الاول",
+  "type": "مانغا",
+  "status": "مستمر",
+  "last_update": "2025-04-20",
+  "rating": "7.5",
+  "favorites": "38",
+  "genres": [
+    "دراما",
+    "رومانسي",
+    "شونين",
+    "قوة خارقة"
+  ],
+  "is_novel": false,
+  "chapters": {
+    "https://despair-manga.net/boruto-two-blue-vortex-%d8%a7%d9%84%d9%81%d8%b5%d9%84-21-1/": {
+      "name": "21.1"
+    },
+    "https://despair-manga.net/boruto-two-blue-vortex-%d8%a7%d9%84%d9%81%d8%b5%d9%84-21/": {
+      "name": "21"
+    },
+    "https://despair-manga.net/boruto-two-blue-vortex-%d8%a7%d9%84%d9%81%d8%b5%d9%84-20/": {
+      "name": "20"
+    },
+    "https://despair-manga.net/boruto-two-blue-vortex-%d8%a7%d9%84%d9%81%d8%b5%d9%84-19/": {
+      "name": "19"
+    },
+    "https://despair-manga.net/boruto-two-blue-vortex-%d8%a7%d9%84%d9%81%d8%b5%d9%84-18/": {
+      "name": "18"
+    }
+  }
+}

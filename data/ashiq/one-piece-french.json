@@ -1,0 +1,56 @@
+{
+  "id": "one-piece-french",
+  "title": "One Piece (French)",
+  "cover_url": "https://3asq.online/wp-content/uploads/2019/04/v1-1.jpg",
+  "description": "لا يوجد وصف",
+  "type": "مانغا",
+  "status": "مستمر",
+  "rating": "4.3",
+  "favorites": "14",
+  "genres": [],
+  "is_novel": false,
+  "chapters": {
+    "https://3asq.online/manga/one-piece-french/1109": {
+      "name": "1109"
+    },
+    "https://3asq.online/manga/one-piece-french/1107": {
+      "name": "1107"
+    },
+    "https://3asq.online/manga/one-piece-french/1100": {
+      "name": "1100"
+    },
+    "https://3asq.online/manga/one-piece-french/1097": {
+      "name": "1097"
+    },
+    "https://3asq.online/manga/one-piece-french/1096": {
+      "name": "1096"
+    },
+    "https://3asq.online/manga/one-piece-french/1093": {
+      "name": "1093"
+    },
+    "https://3asq.online/manga/one-piece-french/1091": {
+      "name": "1091"
+    },
+    "https://3asq.online/manga/one-piece-french/1089": {
+      "name": "1089"
+    },
+    "https://3asq.online/manga/one-piece-french/1088": {
+      "name": "1088"
+    },
+    "https://3asq.online/manga/one-piece-french/1083": {
+      "name": "1083"
+    },
+    "https://3asq.online/manga/one-piece-french/1081": {
+      "name": "1081"
+    },
+    "https://3asq.online/manga/one-piece-french/1080": {
+      "name": "1080"
+    },
+    "https://3asq.online/manga/one-piece-french/1073": {
+      "name": "1073"
+    },
+    "https://3asq.online/manga/one-piece-french/1070": {
+      "name": "1070"
+    }
+  }
+}

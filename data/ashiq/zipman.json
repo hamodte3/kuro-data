@@ -1,0 +1,25 @@
+{
+  "id": "zipman",
+  "title": "ZIPMAN!!",
+  "cover_url": "https://3asq.online/wp-content/uploads/2019/12/1111111111111111.jpg",
+  "description": "القصة : اسحب السحاب والبس روبوتك !نوع جديد من سلسلة روبتات الاكشن ! المهندس المشهرو  والوسيم  كوشيرو تاتارا   و   ذو الوجه المخيف  وذو العضلات كانامي, هذان التوأمان المختلفان  يقعان في حب نفس الفتاة  ولكن في يوم ما  حادث مؤسف يصيب كوشيرو",
+  "type": "مانغا",
+  "status": "مستمر",
+  "rating": "4.2",
+  "favorites": "5",
+  "genres": [
+    "أكشن",
+    "خيال علمي",
+    "شونين",
+    "ميكا"
+  ],
+  "is_novel": false,
+  "chapters": {
+    "https://3asq.online/manga/zipman/2": {
+      "name": "2"
+    },
+    "https://3asq.online/manga/zipman/1": {
+      "name": "1"
+    }
+  }
+}

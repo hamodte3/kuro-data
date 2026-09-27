@@ -1,0 +1,106 @@
+{
+  "id": "this-man",
+  "title": "This Man",
+  "cover_url": "https://3asq.online/wp-content/uploads/2019/06/vol-3.jpg",
+  "description": "كل من يرى هذا الرجل يلقى حتفه…",
+  "type": "مانغا",
+  "status": "مستمر",
+  "rating": "4.2",
+  "favorites": "23",
+  "genres": [
+    "أكشن",
+    "رعب",
+    "شونين",
+    "غموض"
+  ],
+  "is_novel": false,
+  "chapters": {
+    "https://3asq.online/manga/this-man/29": {
+      "name": "29"
+    },
+    "https://3asq.online/manga/this-man/28": {
+      "name": "28"
+    },
+    "https://3asq.online/manga/this-man/27": {
+      "name": "27"
+    },
+    "https://3asq.online/manga/this-man/26": {
+      "name": "26"
+    },
+    "https://3asq.online/manga/this-man/25": {
+      "name": "25"
+    },
+    "https://3asq.online/manga/this-man/24": {
+      "name": "24"
+    },
+    "https://3asq.online/manga/this-man/23": {
+      "name": "23"
+    },
+    "https://3asq.online/manga/this-man/22": {
+      "name": "22"
+    },
+    "https://3asq.online/manga/this-man/21": {
+      "name": "21"
+    },
+    "https://3asq.online/manga/this-man/20": {
+      "name": "20"
+    },
+    "https://3asq.online/manga/this-man/19": {
+      "name": "19"
+    },
+    "https://3asq.online/manga/this-man/18": {
+      "name": "18"
+    },
+    "https://3asq.online/manga/this-man/17": {
+      "name": "17"
+    },
+    "https://3asq.online/manga/this-man/16": {
+      "name": "16"
+    },
+    "https://3asq.online/manga/this-man/15": {
+      "name": "15"
+    },
+    "https://3asq.online/manga/this-man/14": {
+      "name": "14"
+    },
+    "https://3asq.online/manga/this-man/13": {
+      "name": "13"
+    },
+    "https://3asq.online/manga/this-man/12": {
+      "name": "12"
+    },
+    "https://3asq.online/manga/this-man/11": {
+      "name": "11"
+    },
+    "https://3asq.online/manga/this-man/10": {
+      "name": "10"
+    },
+    "https://3asq.online/manga/this-man/9": {
+      "name": "9"
+    },
+    "https://3asq.online/manga/this-man/8": {
+      "name": "8"
+    },
+    "https://3asq.online/manga/this-man/7": {
+      "name": "7"
+    },
+    "https://3asq.online/manga/this-man/6": {
+      "name": "6"
+    },
+    "https://3asq.online/manga/this-man/5": {
+      "name": "5"
+    },
+    "https://3asq.online/manga/this-man/4": {
+      "name": "4"
+    },
+    "https://3asq.online/manga/this-man/3": {
+      "name": "3"
+    },
+    "https://3asq.online/manga/this-man/2": {
+      "name": "2"
+    },
+    "https://3asq.online/manga/this-man/1": {
+      "name": "1"
+    }
+  }
+}

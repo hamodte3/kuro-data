@@ -1,0 +1,41 @@
+{
+  "id": "kuroko-no-basket-extra-game",
+  "title": "Kuroko no Basket: Extra Game",
+  "cover_url": "https://3asq.online/wp-content/uploads/2020/02/163711l.jpeg",
+  "description": "جزء جديد إضافي لمانجا كروكو نو باسكت",
+  "type": "مانغا",
+  "status": "مكتمل",
+  "rating": "4.4",
+  "favorites": "7",
+  "genres": [
+    "رياضة",
+    "شونين"
+  ],
+  "is_novel": false,
+  "chapters": {
+    "https://3asq.online/manga/kuroko-no-basket-extra-game/8": {
+      "name": "8"
+    },
+    "https://3asq.online/manga/kuroko-no-basket-extra-game/7": {
+      "name": "7"
+    },
+    "https://3asq.online/manga/kuroko-no-basket-extra-game/6": {
+      "name": "6"
+    },
+    "https://3asq.online/manga/kuroko-no-basket-extra-game/5": {
+      "name": "5"
+    },
+    "https://3asq.online/manga/kuroko-no-basket-extra-game/4": {
+      "name": "4"
+    },
+    "https://3asq.online/manga/kuroko-no-basket-extra-game/3": {
+      "name": "3"
+    },
+    "https://3asq.online/manga/kuroko-no-basket-extra-game/2": {
+      "name": "2"
+    },
+    "https://3asq.online/manga/kuroko-no-basket-extra-game/1": {
+      "name": "1"
+    }
+  }
+}

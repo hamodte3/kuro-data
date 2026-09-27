@@ -1,0 +1,74 @@
+{
+  "id": "noru",
+  "title": "Noru",
+  "cover_url": "https://3asq.online/wp-content/uploads/2020/04/noru-title.jpg",
+  "description": "تدور أحداث قصتنا بعد تلاشي الحضارات في الأرض بسبب شح الموارد، نورو وهو صبي يتجول في بقاع الأرض ويشارك البشر طعامه وشرابه، ولكنه لا يفعل ذلك بغرض إنقاذهم، ما هدفه يا ترى؟",
+  "type": "مانهوا",
+  "status": "مكتمل",
+  "rating": "4.2",
+  "favorites": "12",
+  "genres": [
+    "خيال علمي",
+    "دراما",
+    "سينين",
+    "شريحة من الحياة",
+    "مغامرة"
+  ],
+  "is_novel": false,
+  "chapters": {
+    "https://3asq.online/manga/noru/18": {
+      "name": "18"
+    },
+    "https://3asq.online/manga/noru/17": {
+      "name": "17"
+    },
+    "https://3asq.online/manga/noru/16": {
+      "name": "16"
+    },
+    "https://3asq.online/manga/noru/15": {
+      "name": "15"
+    },
+    "https://3asq.online/manga/noru/14": {
+      "name": "14"
+    },
+    "https://3asq.online/manga/noru/13": {
+      "name": "13"
+    },
+    "https://3asq.online/manga/noru/12": {
+      "name": "12"
+    },
+    "https://3asq.online/manga/noru/11": {
+      "name": "11"
+    },
+    "https://3asq.online/manga/noru/10": {
+      "name": "10"
+    },
+    "https://3asq.online/manga/noru/9": {
+      "name": "9"
+    },
+    "https://3asq.online/manga/noru/8": {
+      "name": "8"
+    },
+    "https://3asq.online/manga/noru/7": {
+      "name": "7"
+    },
+    "https://3asq.online/manga/noru/6": {
+      "name": "6"
+    },
+    "https://3asq.online/manga/noru/5": {
+      "name": "5"
+    },
+    "https://3asq.online/manga/noru/4": {
+      "name": "4"
+    },
+    "https://3asq.online/manga/noru/3": {
+      "name": "3"
+    },
+    "https://3asq.online/manga/noru/2": {
+      "name": "2"
+    },
+    "https://3asq.online/manga/noru/1": {
+      "name": "1"
+    }
+  }
+}

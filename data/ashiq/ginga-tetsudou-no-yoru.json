@@ -1,0 +1,34 @@
+{
+  "id": "ginga-tetsudou-no-yoru",
+  "title": "Ginga Tetsudou no Yoru",
+  "cover_url": "https://3asq.online/wp-content/uploads/2022/05/01.jpg",
+  "description": "جيوفاني فتى يعيش في ضواحي قرية ريفية صغيرة، أمه طريحة الفراش أما والده فسافر للصيد وانقطع ذكره، منبوذ في المدرسة والعمل ولا صديق له سوى كامبانيلا، بيد أن علاقتهما فترت في الآونة الأخيرة… وخلال مهرجان النجوم يعيش جيوفاني حلمًا بقطار يسافر بين النجوم رفقة صاحبه كامبانيلا، فما قصة هذا القطار؟ ولمَ ظهر وجاء؟ وكيف ستكون رحلتهما في الفضاء ومن سيلتقيان فيها؟",
+  "type": "مانغا",
+  "status": "مكتمل",
+  "rating": "3.0",
+  "favorites": "6",
+  "genres": [
+    "خارق للطبيعة",
+    "خيال",
+    "دراما",
+    "مأساة"
+  ],
+  "is_novel": false,
+  "chapters": {
+    "https://3asq.online/manga/ginga-tetsudou-no-yoru/5": {
+      "name": "5"
+    },
+    "https://3asq.online/manga/ginga-tetsudou-no-yoru/4": {
+      "name": "4"
+    },
+    "https://3asq.online/manga/ginga-tetsudou-no-yoru/3": {
+      "name": "3"
+    },
+    "https://3asq.online/manga/ginga-tetsudou-no-yoru/2": {
+      "name": "2"
+    },
+    "https://3asq.online/manga/ginga-tetsudou-no-yoru/1": {
+      "name": "1"
+    }
+  }
+}

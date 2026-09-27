@@ -1,0 +1,47 @@
+{
+  "id": "hideout",
+  "title": "HIDEOUT",
+  "cover_url": "https://3asq.online/wp-content/uploads/2024/10/07147045-9b01-4096-866b-39d43892a8f7.jpg",
+  "description": "في جزيرة عطلة شاعرية في البحار الجنوبية ، يحاول زوجان شابان التغلب على وفاة ابنهما الوحيد. لكن بالنسبة للزوج كيريشما سييتشي ، فإن الرحلة لها غرض مختلف تماما. يخطط لقتل زوجته والتخلص من جثتها في عمق الغابة. ومع ذلك ، عندما تنحرف خطته وتتمكن زوجته من الفرار ، يتبعها سييتشي إلى كهف مظلم ، فقط ليجد نفسه محاصرا في الداخل وسرعان ما يصطاده مخلوق وحشي مع جوع لا يشبع للحوم البشرية…..",
+  "type": "مانغا",
+  "status": "مكتمل",
+  "rating": "4.5",
+  "favorites": "21",
+  "genres": [
+    "99%",
+    "دراما",
+    "رعب",
+    "عنف",
+    "فلسفة"
+  ],
+  "is_novel": false,
+  "chapters": {
+    "https://3asq.online/manga/hideout/9": {
+      "name": "9"
+    },
+    "https://3asq.online/manga/hideout/8": {
+      "name": "8"
+    },
+    "https://3asq.online/manga/hideout/7": {
+      "name": "7"
+    },
+    "https://3asq.online/manga/hideout/6": {
+      "name": "6"
+    },
+    "https://3asq.online/manga/hideout/5": {
+      "name": "5"
+    },
+    "https://3asq.online/manga/hideout/4": {
+      "name": "4"
+    },
+    "https://3asq.online/manga/hideout/3": {
+      "name": "3"
+    },
+    "https://3asq.online/manga/hideout/2": {
+      "name": "2"
+    },
+    "https://3asq.online/manga/hideout/1": {
+      "name": "1"
+    }
+  }
+}

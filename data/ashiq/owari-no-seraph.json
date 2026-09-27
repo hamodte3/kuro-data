@@ -1,0 +1,45 @@
+{
+  "id": "owari-no-seraph",
+  "title": "Owari No Seraph",
+  "cover_url": "https://3asq.online/wp-content/uploads/2019/06/Volume_18.png",
+  "description": "تدور احداث القصة حول فايروسات غامضة تقوم بقتل جميع البشر بإستثناء الأطفال أو من هم تحت سن الثالثة عشر في حين ظهر مصاصي الدماء من ظلام هذا العالم، وقاموا بإختطاف وإستعباد أولئك الأطفال حيث تتم معاملتهم كالماشية ومن ضمنهم بطل القصة هياكويا يوشيرو، حيث سيقوم بالهرب مع بقية الأيتام إلى العالم الخارجي وينضم إلى إحدى المنظمات ويقوم بمحاربه مصاصي الدماء.",
+  "type": "مانغا",
+  "status": "مستمر",
+  "rating": "4.5",
+  "favorites": "54",
+  "genres": [
+    "3asq",
+    "أكشن",
+    "دراما",
+    "شونين",
+    "غموض",
+    "قوى خارقة"
+  ],
+  "is_novel": false,
+  "chapters": {
+    "https://3asq.online/manga/owari-no-seraph/86": {
+      "name": "86"
+    },
+    "https://3asq.online/manga/owari-no-seraph/85": {
+      "name": "85"
+    },
+    "https://3asq.online/manga/owari-no-seraph/84": {
+      "name": "84"
+    },
+    "https://3asq.online/manga/owari-no-seraph/83": {
+      "name": "83"
+    },
+    "https://3asq.online/manga/owari-no-seraph/82": {
+      "name": "82"
+    },
+    "https://3asq.online/manga/owari-no-seraph/81": {
+      "name": "81"
+    },
+    "https://3asq.online/manga/owari-no-seraph/80": {
+      "name": "80"
+    },
+    "https://3asq.online/manga/owari-no-seraph/79": {
+      "name": "79"
+    }
+  }
+}

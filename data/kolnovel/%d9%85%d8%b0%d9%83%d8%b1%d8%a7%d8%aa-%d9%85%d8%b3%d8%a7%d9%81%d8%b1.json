@@ -1,0 +1,35 @@
+{
+  "id": "%d9%85%d8%b0%d9%83%d8%b1%d8%a7%d8%aa-%d9%85%d8%b3%d8%a7%d9%81%d8%b1",
+  "title": "مذكرات مسافر",
+  "cover_url": "https://kolnovel.com/wp-content/uploads/2025/05/Gemini_Generated_Image_s3c05zs3c05zs3c0.jpg",
+  "description": "أعتقد أنني سأذهب في رحلة بسيارتي الصغيرة. أين سأصل، ومن سألتقي؟ ما الذي سأختبره؟ قررتُ أن أدوّن الأحداث التي لا تُنسى التي تحدث لي في كل مكان أزوره.",
+  "type": "رواية",
+  "status": "مكتمل",
+  "last_update": "مايو 19, 2025",
+  "rating": "",
+  "favorites": "",
+  "genres": [
+    "دراما",
+    "شريحة من الحياة",
+    "غموض",
+    "مغامرة"
+  ],
+  "is_novel": true,
+  "chapters": {
+    "https://kolnovel.com/shaag24%d9%85%d8%b0%d9%83%d8%b1%d8%a7%d8%aa-%d9%85%d8%b3%d8%a7%d9%81%d8%b1z435ggye-242323": {
+      "name": "الفصل 4: فتاة المهرجان"
+    },
+    "https://kolnovel.com/shaag24%d9%85%d8%b0%d9%83%d8%b1%d8%a7%d8%aa-%d9%85%d8%b3%d8%a7%d9%81%d8%b1z435ggye-242321": {
+      "name": "الفصل 3: مدينة القطط"
+    },
+    "https://kolnovel.com/shaag24%d9%85%d8%b0%d9%83%d8%b1%d8%a7%d8%aa-%d9%85%d8%b3%d8%a7%d9%81%d8%b1z435ggye-242319": {
+      "name": "الفصل 2: محادثة السيارة"
+    },
+    "https://kolnovel.com/shaag24%d9%85%d8%b0%d9%83%d8%b1%d8%a7%d8%aa-%d9%85%d8%b3%d8%a7%d9%81%d8%b1z435ggye-242317": {
+      "name": "الفصل 1: القهوة والكاميرا"
+    },
+    "https://kolnovel.com/shaag24%d9%85%d8%b0%d9%83%d8%b1%d8%a7%d8%aa-%d9%85%d8%b3%d8%a7%d9%81%d8%b1z435ggye-242315": {
+      "name": "الفصل 0: مقدمة"
+    }
+  }
+}

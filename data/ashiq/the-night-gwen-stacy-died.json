@@ -1,0 +1,21 @@
+{
+  "id": "the-night-gwen-stacy-died",
+  "title": "Spider-Man: Death of the Stacys",
+  "cover_url": "https://3asq.online/wp-content/uploads/2023/02/Amazing-Spider-Man-121-000-scaled.jpg",
+  "description": "الليلة التي ماتت فيها غوين ستايسي.",
+  "type": "كوميك",
+  "status": "مكتمل",
+  "rating": "3.9",
+  "favorites": "8",
+  "genres": [
+    "أكشن",
+    "قوى خارقة",
+    "مأساة"
+  ],
+  "is_novel": false,
+  "chapters": {
+    "https://3asq.online/manga/the-night-gwen-stacy-died/1": {
+      "name": "1"
+    }
+  }
+}

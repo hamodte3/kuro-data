@@ -1,0 +1,81 @@
+{
+  "id": "sunny",
+  "title": "Sunny",
+  "cover_url": "https://3asq.online/wp-content/uploads/2020/03/Sunny-cover-1.jpg",
+  "description": "قصة عن يوميات أطفال في دار أيتام يصارعون من أجل الغد، ملاذهم الوحيد من حياتهم التعيسة هي الصني، التي يرسمون فِيها أحلامهم بعيداً عن مشاكل الحياة.",
+  "type": "مانغا",
+  "status": "مكتمل",
+  "rating": "4.3",
+  "favorites": "21",
+  "genres": [
+    "دراما",
+    "سينين",
+    "شريحة من الحياة"
+  ],
+  "is_novel": false,
+  "chapters": {
+    "https://3asq.online/manga/sunny/21": {
+      "name": "21"
+    },
+    "https://3asq.online/manga/sunny/20": {
+      "name": "20"
+    },
+    "https://3asq.online/manga/sunny/19": {
+      "name": "19"
+    },
+    "https://3asq.online/manga/sunny/18": {
+      "name": "18"
+    },
+    "https://3asq.online/manga/sunny/17": {
+      "name": "17"
+    },
+    "https://3asq.online/manga/sunny/16": {
+      "name": "16"
+    },
+    "https://3asq.online/manga/sunny/15": {
+      "name": "15"
+    },
+    "https://3asq.online/manga/sunny/14": {
+      "name": "14"
+    },
+    "https://3asq.online/manga/sunny/13": {
+      "name": "13"
+    },
+    "https://3asq.online/manga/sunny/12": {
+      "name": "12"
+    },
+    "https://3asq.online/manga/sunny/11": {
+      "name": "11"
+    },
+    "https://3asq.online/manga/sunny/10": {
+      "name": "10"
+    },
+    "https://3asq.online/manga/sunny/09": {
+      "name": "9"
+    },
+    "https://3asq.online/manga/sunny/08": {
+      "name": "8"
+    },
+    "https://3asq.online/manga/sunny/07": {
+      "name": "7"
+    },
+    "https://3asq.online/manga/sunny/06": {
+      "name": "6"
+    },
+    "https://3asq.online/manga/sunny/05": {
+      "name": "5"
+    },
+    "https://3asq.online/manga/sunny/04": {
+      "name": "4"
+    },
+    "https://3asq.online/manga/sunny/03": {
+      "name": "3"
+    },
+    "https://3asq.online/manga/sunny/02": {
+      "name": "2"
+    },
+    "https://3asq.online/manga/sunny/01": {
+      "name": "1"
+    }
+  }
+}

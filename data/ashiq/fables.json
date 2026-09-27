@@ -1,0 +1,34 @@
+{
+  "id": "fables",
+  "title": "Fables",
+  "cover_url": "https://3asq.online/wp-content/uploads/2023/03/Fables-Legends-in-Exile-v1-000.png",
+  "description": "في مدينة نيويورك يعيش مجتمع سري يعرف بإسم الخرافات\nيتكون من مجموعة من حكايات الثراث الشعبي الحية التي تختبئ بين رعاع البشر….",
+  "type": "كوميك",
+  "status": "مكتمل",
+  "rating": "3.9",
+  "favorites": "18",
+  "genres": [
+    "جريمة",
+    "حكايات شعبية",
+    "خارق للطبيعة",
+    "شياطين"
+  ],
+  "is_novel": false,
+  "chapters": {
+    "https://3asq.online/manga/fables/5": {
+      "name": "5"
+    },
+    "https://3asq.online/manga/fables/4": {
+      "name": "4"
+    },
+    "https://3asq.online/manga/fables/3": {
+      "name": "3"
+    },
+    "https://3asq.online/manga/fables/2": {
+      "name": "2"
+    },
+    "https://3asq.online/manga/fables/1": {
+      "name": "1"
+    }
+  }
+}

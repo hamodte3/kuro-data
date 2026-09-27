@@ -1,0 +1,30 @@
+{
+  "id": "hokuto-no-ken",
+  "title": "Hokuto no Ken",
+  "cover_url": "https://3asq.online/wp-content/uploads/2024/09/000-2-1.png",
+  "description": "في أرضٍ أكلها البلى، ظهر جوّاب أراضٍ مبشرًا بإنزال الحق بساحة المجرمين ونور أملٍ للأنام ـــ محاربٌ يدعى كين، موسوم الصدر بسبع ندبات حاملةً سرّ فن قتال الهوكوتو شينكين؛ قبضة نجم الشمال الإلهيّة!",
+  "type": "مانغا",
+  "status": "مكتمل",
+  "rating": "4.5",
+  "favorites": "30",
+  "genres": [
+    "أكشن",
+    "حرب",
+    "دراما",
+    "شونين",
+    "عنف",
+    "فنون قتالية"
+  ],
+  "is_novel": false,
+  "chapters": {
+    "https://3asq.online/manga/hokuto-no-ken/3": {
+      "name": "3"
+    },
+    "https://3asq.online/manga/hokuto-no-ken/2": {
+      "name": "2"
+    },
+    "https://3asq.online/manga/hokuto-no-ken/1": {
+      "name": "1"
+    }
+  }
+}

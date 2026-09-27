@@ -1,0 +1,53 @@
+{
+  "id": "confession",
+  "title": "Confession",
+  "cover_url": "https://3asq.online/wp-content/uploads/2025/04/IMG_1646.jpeg",
+  "description": "قصة رجلان يجرفهما الاعتراف إلى حافة الموت، فتسقطُ الأقنعة وتتجلى مشاعر البشر في أقبح صورها!",
+  "type": "مانغا",
+  "status": "مكتمل",
+  "rating": "4.1",
+  "favorites": "14",
+  "genres": [
+    "100%",
+    "جريمة",
+    "دراما",
+    "علم نفس",
+    "مأساة"
+  ],
+  "is_novel": false,
+  "chapters": {
+    "https://3asq.online/manga/confession/11": {
+      "name": "11"
+    },
+    "https://3asq.online/manga/confession/10": {
+      "name": "10"
+    },
+    "https://3asq.online/manga/confession/9": {
+      "name": "9"
+    },
+    "https://3asq.online/manga/confession/8": {
+      "name": "8"
+    },
+    "https://3asq.online/manga/confession/7": {
+      "name": "7"
+    },
+    "https://3asq.online/manga/confession/6": {
+      "name": "6"
+    },
+    "https://3asq.online/manga/confession/5": {
+      "name": "5"
+    },
+    "https://3asq.online/manga/confession/4": {
+      "name": "4"
+    },
+    "https://3asq.online/manga/confession/3": {
+      "name": "3"
+    },
+    "https://3asq.online/manga/confession/2": {
+      "name": "2"
+    },
+    "https://3asq.online/manga/confession/1": {
+      "name": "1"
+    }
+  }
+}

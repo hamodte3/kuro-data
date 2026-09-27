@@ -1,0 +1,102 @@
+{
+  "id": "asadora",
+  "title": "Asadora",
+  "cover_url": "https://3asq.online/wp-content/uploads/2019/04/asa.3.png",
+  "description": "أسادورا! قصة حياة فتاة صغيرة في فترة ما بعد الحرب باليابان. والتي تمتد أحداثها لعدة عقود بوقتنا المعاصر",
+  "type": "مانغا",
+  "status": "مستمر",
+  "rating": "4.5",
+  "favorites": "45",
+  "genres": [
+    "3asq",
+    "دراما",
+    "سينين"
+  ],
+  "is_novel": false,
+  "chapters": {
+    "https://3asq.online/manga/asadora/28": {
+      "name": "28"
+    },
+    "https://3asq.online/manga/asadora/27": {
+      "name": "27"
+    },
+    "https://3asq.online/manga/asadora/26": {
+      "name": "26"
+    },
+    "https://3asq.online/manga/asadora/25": {
+      "name": "25"
+    },
+    "https://3asq.online/manga/asadora/24": {
+      "name": "24"
+    },
+    "https://3asq.online/manga/asadora/23": {
+      "name": "23"
+    },
+    "https://3asq.online/manga/asadora/22": {
+      "name": "22"
+    },
+    "https://3asq.online/manga/asadora/21": {
+      "name": "21"
+    },
+    "https://3asq.online/manga/asadora/20": {
+      "name": "20"
+    },
+    "https://3asq.online/manga/asadora/19": {
+      "name": "19"
+    },
+    "https://3asq.online/manga/asadora/18": {
+      "name": "18"
+    },
+    "https://3asq.online/manga/asadora/17": {
+      "name": "17"
+    },
+    "https://3asq.online/manga/asadora/16": {
+      "name": "16"
+    },
+    "https://3asq.online/manga/asadora/15": {
+      "name": "15"
+    },
+    "https://3asq.online/manga/asadora/14": {
+      "name": "14"
+    },
+    "https://3asq.online/manga/asadora/13": {
+      "name": "13"
+    },
+    "https://3asq.online/manga/asadora/12": {
+      "name": "12"
+    },
+    "https://3asq.online/manga/asadora/11": {
+      "name": "11"
+    },
+    "https://3asq.online/manga/asadora/10": {
+      "name": "10"
+    },
+    "https://3asq.online/manga/asadora/9": {
+      "name": "9"
+    },
+    "https://3asq.online/manga/asadora/8": {
+      "name": "8"
+    },
+    "https://3asq.online/manga/asadora/7": {
+      "name": "7"
+    },
+    "https://3asq.online/manga/asadora/6": {
+      "name": "6"
+    },
+    "https://3asq.online/manga/asadora/5": {
+      "name": "5"
+    },
+    "https://3asq.online/manga/asadora/4": {
+      "name": "4"
+    },
+    "https://3asq.online/manga/asadora/3": {
+      "name": "3"
+    },
+    "https://3asq.online/manga/asadora/2": {
+      "name": "2"
+    },
+    "https://3asq.online/manga/asadora/1": {
+      "name": "1"
+    }
+  }
+}

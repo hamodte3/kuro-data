@@ -1,0 +1,22 @@
+{
+  "id": "cross-epoch",
+  "title": "Cross Epoch",
+  "cover_url": "https://3asq.online/wp-content/uploads/2020/02/148053l.jpeg",
+  "description": "ونشوت مشتركة بين ون بيس ودراغون بول",
+  "type": "ونشوت",
+  "status": "مكتمل",
+  "rating": "4.1",
+  "favorites": "2",
+  "genres": [
+    "شونين",
+    "قوى خارقة",
+    "كوميديا",
+    "مغامرة"
+  ],
+  "is_novel": false,
+  "chapters": {
+    "https://3asq.online/manga/cross-epoch/n-a": {
+      "name": "0"
+    }
+  }
+}

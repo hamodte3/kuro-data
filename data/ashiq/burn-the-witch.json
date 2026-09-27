@@ -1,0 +1,30 @@
+{
+  "id": "burn-the-witch",
+  "title": "Burn the Witch",
+  "cover_url": "https://3asq.online/wp-content/uploads/2020/08/001.jpg",
+  "description": "لا يوجد وصف",
+  "type": "مانغا",
+  "status": "مكتمل",
+  "rating": "4.4",
+  "favorites": "17",
+  "genres": [
+    "أكشن",
+    "خيال",
+    "شونين"
+  ],
+  "is_novel": false,
+  "chapters": {
+    "https://3asq.online/manga/burn-the-witch/4": {
+      "name": "4"
+    },
+    "https://3asq.online/manga/burn-the-witch/3": {
+      "name": "3"
+    },
+    "https://3asq.online/manga/burn-the-witch/2": {
+      "name": "2"
+    },
+    "https://3asq.online/manga/burn-the-witch/1": {
+      "name": "1"
+    }
+  }
+}

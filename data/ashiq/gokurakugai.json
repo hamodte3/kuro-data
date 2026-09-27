@@ -1,0 +1,60 @@
+{
+  "id": "gokurakugai",
+  "title": "Gokurakugai",
+  "cover_url": "https://3asq.online/wp-content/uploads/2023/04/Gokurakugai-غلاف.jpg",
+  "description": "تاو وألما، ثنائي من حلالي المشاكل يعملان في حي بغاء صاخب، ويتوليان أي وظيفة تتطلب حلاً. لكن في السر، هما مغتالان يطاردان ما يسمى بالكوارث…",
+  "type": "مانغا",
+  "status": "مستمر",
+  "rating": "4.4",
+  "favorites": "67",
+  "genres": [
+    "أكشن",
+    "جريمة",
+    "خارق للطبيعة",
+    "دراما",
+    "شونين",
+    "كوميديا"
+  ],
+  "is_novel": false,
+  "chapters": {
+    "https://3asq.online/manga/gokurakugai/10": {
+      "name": "10"
+    },
+    "https://3asq.online/manga/gokurakugai/9": {
+      "name": "9"
+    },
+    "https://3asq.online/manga/gokurakugai/8": {
+      "name": "8"
+    },
+    "https://3asq.online/manga/gokurakugai/7": {
+      "name": "7"
+    },
+    "https://3asq.online/manga/gokurakugai/6-5": {
+      "name": "6.5"
+    },
+    "https://3asq.online/manga/gokurakugai/6": {
+      "name": "6"
+    },
+    "https://3asq.online/manga/gokurakugai/5-5": {
+      "name": "5.5"
+    },
+    "https://3asq.online/manga/gokurakugai/5": {
+      "name": "5"
+    },
+    "https://3asq.online/manga/gokurakugai/4": {
+      "name": "4"
+    },
+    "https://3asq.online/manga/gokurakugai/3-5": {
+      "name": "3.5"
+    },
+    "https://3asq.online/manga/gokurakugai/3": {
+      "name": "3"
+    },
+    "https://3asq.online/manga/gokurakugai/2": {
+      "name": "2"
+    },
+    "https://3asq.online/manga/gokurakugai/1": {
+      "name": "1"
+    }
+  }
+}

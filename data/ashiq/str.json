@@ -1,0 +1,29 @@
+{
+  "id": "str",
+  "title": "Summer Time Render",
+  "cover_url": "https://3asq.online/wp-content/uploads/2019/08/summer-time-render.jpg",
+  "description": "بعد موت والديه ،تم تبني شينبي من قبل عائلة كوفوني. وفي أحد الأيام  عندما عاد الى مسقط رأسه في الجزيرة ليحضر جنازة اخته بالتبني ، اوشيو. كان من المفروض ان ينتهي الامر عند هذا الحد ،لكن بالرغم من ذلك يتم أخبار شينبي أن موت أخته ليس حادثاً ،بل كان جريمة قتل.",
+  "type": "مانغا",
+  "status": "مستمر",
+  "rating": "4.4",
+  "favorites": "8",
+  "genres": [
+    "100%",
+    "أكشن",
+    "خارق للطبيعة",
+    "شونين",
+    "غموض"
+  ],
+  "is_novel": false,
+  "chapters": {
+    "https://3asq.online/manga/str/3": {
+      "name": "3"
+    },
+    "https://3asq.online/manga/str/2": {
+      "name": "2"
+    },
+    "https://3asq.online/manga/str/1": {
+      "name": "1"
+    }
+  }
+}
