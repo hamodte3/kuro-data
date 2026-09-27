@@ -111,7 +111,7 @@ def update_global_new_releases(new_releases: list):
         json.dump(deduped[:15], f, ensure_ascii=False, indent=2)
     print(f"🔔 تم تسجيل {len(new_releases)} تحديث جديد في {GLOBAL_NEW_FILE}")
 
-# 🎯 جلب التفاصيل والفصول بالـ Pure API
+# 🎯 جلب التفاصيل والفصول بالـ Pure API مع دعم الترقيم لما فوق الـ 200 فصل
 def scrape_manga_details(session, manga_url: str):
     clean_url = normalize_url(manga_url).rstrip("/")
     series_slug = clean_url.split("/")[-1]
@@ -142,21 +142,35 @@ def scrape_manga_details(session, manga_url: str):
     rating = f"{float(avg_rate):.1f}" if avg_rate and float(avg_rate) > 0 else ""
     last_update = post.get("updatedAt", "").split("T")[0]
 
-    # 2. طلب مصفوفة الفصول كاملة عبر الـ API الرسمي
+    # 2. طلب مصفوفة الفصول كاملة بنظام الدفعات (skip) حتى لو تجاوزت 1000 فصل
     chapters_map = {}
     if post_id:
-        ch_api_url = f"https://api.azorafly.com/api/chapters?postId={post_id}&take=200"
-        ch_res = session.get(ch_api_url, timeout=20)
-        
-        if ch_res.status_code == 200:
-            chapters_list = ch_res.json().get("post", {}).get("chapters", [])
-            for ch in chapters_list:
-                slug = ch.get("slug")
-                num_val = ch.get("number")
-                if slug and num_val is not None:
-                    clean_name = format_chapter_number(num_val)
-                    full_url = f"{BASE_URL}/series/{series_slug}/{slug}"
-                    chapters_map[full_url] = {"name": clean_name}
+        skip = 0
+        batch_size = 200
+        while True:
+            ch_api_url = f"https://api.azorafly.com/api/chapters?postId={post_id}&take={batch_size}&skip={skip}"
+            ch_res = session.get(ch_api_url, timeout=20)
+            
+            if ch_res.status_code == 200:
+                chapters_list = ch_res.json().get("post", {}).get("chapters", [])
+                if not chapters_list:
+                    break
+                
+                for ch in chapters_list:
+                    slug = ch.get("slug")
+                    num_val = ch.get("number")
+                    if slug and num_val is not None:
+                        clean_name = format_chapter_number(num_val)
+                        full_url = f"{BASE_URL}/series/{series_slug}/{slug}"
+                        chapters_map[full_url] = {"name": clean_name}
+
+                # إذا كانت الدفعة المسترجعة أقل من الحد الأقصى فهذا يعني وصولنا للنهاية
+                if len(chapters_list) < batch_size:
+                    break
+                skip += batch_size
+                time.sleep(0.05)  # فاصل زمني خفيف جداً بين الدفعات
+            else:
+                break
 
     return {
         "id": series_slug,
