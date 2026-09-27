@@ -8,11 +8,13 @@ from curl_cffi import requests
 BASE_URL = "https://kolnovel.com"
 DATA_DIR = os.path.join("data", "kolnovel")
 CATALOG_FILE = os.path.join(DATA_DIR, "catalog.json")
+GLOBAL_NEW_FILE = os.path.join("data", "new.json")
 
-DETAILS_SYNC_LIMIT = 20   # تجهيز أحدث 20 رواية طرأ عليها تحديث
-MAX_DELTA_PAGES = 5       # فحص أول 5 صفحات فقط كل ساعة بدلاً من 1000
+DETAILS_SYNC_LIMIT = 20000   # تجهيز أحدث 20 رواية طرأ عليها تحديث
+MAX_DELTA_PAGES = 1000       # فحص أول 5 صفحات فقط كل ساعة بدلاً من 1000
 
 os.makedirs(DATA_DIR, exist_ok=True)
+os.makedirs("data", exist_ok=True)
 
 HEADERS = {
     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
@@ -58,6 +60,32 @@ def format_status(raw_status: str) -> str:
     if any(k in s for k in ["completed", "مكتمل", "مكتملة"]): return "مكتمل"
     if any(k in s for k in ["hiatus", "متوقف"]): return "متوقف مؤقتاً"
     return "مستمر"
+
+def update_global_new_releases(new_releases: list):
+    """دمج الإشعارات الجديدة في data/new.json دون مسح تحديثات المصادر الأخرى"""
+    if not new_releases:
+        return
+
+    existing_releases = []
+    if os.path.exists(GLOBAL_NEW_FILE):
+        try:
+            with open(GLOBAL_NEW_FILE, "r", encoding="utf-8") as f:
+                existing_releases = json.load(f)
+        except Exception:
+            existing_releases = []
+
+    combined = new_releases + existing_releases
+    seen = set()
+    deduped = []
+    for item in combined:
+        key = (item.get("id"), item.get("chapter"))
+        if key not in seen:
+            seen.add(key)
+            deduped.append(item)
+
+    with open(GLOBAL_NEW_FILE, "w", encoding="utf-8") as f:
+        json.dump(deduped[:15], f, ensure_ascii=False, indent=2)
+    print(f"🔔 تم تسجيل {len(new_releases)} تحديث جديد لملوك الروايات في {GLOBAL_NEW_FILE}")
 
 def extract_chapters_kolnovel(soup: BeautifulSoup) -> dict:
     chapters_map = {}
@@ -139,6 +167,7 @@ def scrape_novel_details_kolnovel(session, novel_url: str):
     desc_el = soup.select_one(".sersys.entry-content, .sersysn .sersys")
     description = desc_el.text.strip() if desc_el else "لا يوجد وصف."
 
+    # استخراج التصنيفات الحقيقية
     genres = [a.text.strip().lstrip("#").strip() for a in soup.select(".sertogenre a") if a.text.strip()]
 
     rate_el = soup.select_one("#kol-series-rating .custom-rating-value, .numscore")
@@ -224,23 +253,31 @@ def sync_kolnovel_fast():
                 raw_score = re.sub(r"[^0-9.]", "", score_el.text).strip() if score_el else ""
                 rating = format_rating(raw_score)
 
-                novel_entry = {
-                    "id": slug,
-                    "title": title,
-                    "url": novel_url,
-                    "cover_url": cover_url,
-                    "type": "رواية",
-                    "is_novel": True,
-                    "rating": rating
-                }
-
-                # تحديث ورفع الرواية إلى رأس القائمة
+                # تحديث ورفع الرواية إلى رأس القائمة مع الحفاظ على الفصول والتصنيفات
                 if slug in catalog_dict:
-                    catalog_dict[slug].update(novel_entry)
+                    catalog_dict[slug]["title"] = title
+                    catalog_dict[slug]["url"] = novel_url
+                    if cover_url:
+                        catalog_dict[slug]["cover_url"] = cover_url
+                    if rating:
+                        catalog_dict[slug]["rating"] = rating
                     item_ref = catalog_dict.pop(slug)
                     catalog_dict = {slug: item_ref, **catalog_dict}
                 else:
-                    catalog_dict = {slug: novel_entry, **catalog_dict}
+                    catalog_dict = {
+                        slug: {
+                            "id": slug,
+                            "title": title,
+                            "url": novel_url,
+                            "cover_url": cover_url,
+                            "type": "رواية",
+                            "is_novel": True,
+                            "rating": rating,
+                            "total_chapters": 0,
+                            "genres": []  # تهيئة حقل التصنيفات دائماً
+                        },
+                        **catalog_dict
+                    }
 
                 if not any(t["id"] == slug for t in recent_targets):
                     recent_targets.append(catalog_dict[slug])
@@ -250,30 +287,53 @@ def sync_kolnovel_fast():
             print(f"خطأ أثناء فحص صفحة {page}: {e}")
             break
 
-    # تحديث تفاصيل الفصول للروايات الحديثة فقط
+    # تحديث تفاصيل الفصول والتصنيفات للروايات الحديثة فقط
     sync_targets = recent_targets[:DETAILS_SYNC_LIMIT]
+    new_releases = []
+
     for index, item in enumerate(sync_targets, 1):
         slug = item["id"]
         novel_url = item["url"]
         file_path = os.path.join(DATA_DIR, f"{slug}.json")
+        prev_chaps = item.get("total_chapters", 0)
 
         try:
             details = scrape_novel_details_kolnovel(session, novel_url)
             with open(file_path, "w", encoding="utf-8") as f:
                 json.dump(details, f, ensure_ascii=False, indent=2)
 
+            current_chaps = len(details["chapters"])
             item["status"] = details["status"]
             item["rating"] = details["rating"]
-            item["total_chapters"] = len(details["chapters"])
-            print(f"✓ [{index}/{len(sync_targets)}] تم تحديث الرواية: {slug} ({len(details['chapters'])} فصل)")
+            item["total_chapters"] = current_chaps
+            
+            # حفظ التصنيفات الحقيقية في الكاتلوج
+            item["genres"] = details.get("genres", [])
+
+            print(f"✓ [{index}/{len(sync_targets)}] تم تحديث الرواية: {slug} ({current_chaps} فصل) - تصنيفات: {item['genres']}")
+
+            # رصد التحديثات الجديدة لملف new.json
+            if current_chaps > prev_chaps and current_chaps > 0:
+                new_releases.append({
+                    "id": slug,
+                    "title": item["title"],
+                    "chapter": f"الفصل {current_chaps}",
+                    "type": "رواية",
+                    "cover_url": item.get("cover_url", "")
+                })
+
             time.sleep(0.3)
         except Exception as e:
             print(f"خطأ أثناء معالجة تفاصيل {slug}: {e}")
 
-    # حفظ الفهرس التراكمي الشامل بدون فقدان أي عمل سابق
+    # حفظ الفهرس التراكمي الشامل بالتصنيفات
     full_catalog = list(catalog_dict.values())
     with open(CATALOG_FILE, "w", encoding="utf-8") as f:
         json.dump(full_catalog, f, ensure_ascii=False, indent=2)
+
+    # تحديث الإشعارات المشتركة
+    if new_releases:
+        update_global_new_releases(new_releases)
 
     print(f"\n⚡ اكتملت مزامنة ملوك الروايات التراكمية! إجمالي الأعمال في الفهرس: {len(full_catalog)}")
 
