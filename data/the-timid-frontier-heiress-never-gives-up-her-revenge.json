@@ -15,9 +15,6 @@
   ],
   "is_novel": false,
   "chapters": {
-    "https://azorafly.com/series/the-timid-frontier-heiress-never-gives-up-her-revenge/chapter-1": {
-      "name": "1"
-    },
     "https://azorafly.com/series/the-timid-frontier-heiress-never-gives-up-her-revenge/chapter-24": {
       "name": "24"
     },
@@ -86,6 +83,9 @@
     },
     "https://azorafly.com/series/the-timid-frontier-heiress-never-gives-up-her-revenge/chapter-2": {
       "name": "2"
+    },
+    "https://azorafly.com/series/the-timid-frontier-heiress-never-gives-up-her-revenge/chapter-1": {
+      "name": "1"
     }
   }
 }

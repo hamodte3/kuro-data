@@ -16,9 +16,6 @@
   ],
   "is_novel": false,
   "chapters": {
-    "https://azorafly.com/series/the-villainess-directs-a-rofan/chapter-0": {
-      "name": "0"
-    },
     "https://azorafly.com/series/the-villainess-directs-a-rofan/chapter-44": {
       "name": "44"
     },
@@ -78,9 +75,6 @@
     },
     "https://azorafly.com/series/the-villainess-directs-a-rofan/chapter-25": {
       "name": "25"
-    },
-    "https://azorafly.com/series/the-villainess-directs-a-rofan/chapter-1": {
-      "name": "1"
     },
     "https://azorafly.com/series/the-villainess-directs-a-rofan/chapter-24": {
       "name": "24"
@@ -150,6 +144,12 @@
     },
     "https://azorafly.com/series/the-villainess-directs-a-rofan/chapter-2": {
       "name": "2"
+    },
+    "https://azorafly.com/series/the-villainess-directs-a-rofan/chapter-1": {
+      "name": "1"
+    },
+    "https://azorafly.com/series/the-villainess-directs-a-rofan/chapter-0": {
+      "name": "0"
     }
   }
 }
