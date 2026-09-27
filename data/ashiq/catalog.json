@@ -1023,24 +1023,6 @@
     ]
   },
   {
-    "id": "dear-anemone",
-    "title": "Dear Anemone",
-    "url": "https://3asq.online/manga/dear-anemone",
-    "cover_url": "https://3asq.online/wp-content/uploads/2026/09/Picsart_26-07-09_05-21-14-729-175x238.jpg",
-    "type": "مانغا",
-    "rating": "3.7",
-    "status": "مكتمل",
-    "total_chapters": 8,
-    "genres": [
-      "أكشن",
-      "دراما",
-      "رعب",
-      "شونين",
-      "عنف",
-      "غموض"
-    ]
-  },
-  {
     "id": "dr-hound",
     "title": "Dr. Hound",
     "url": "https://3asq.online/manga/dr-hound",
@@ -1199,6 +1181,24 @@
       "رياضة",
       "سينين",
       "شريحة من الحياة"
+    ]
+  },
+  {
+    "id": "dear-anemone",
+    "title": "Dear Anemone",
+    "url": "https://3asq.online/manga/dear-anemone",
+    "cover_url": "https://3asq.online/wp-content/uploads/2026/09/Picsart_26-07-09_05-21-14-729-175x238.jpg",
+    "type": "مانغا",
+    "rating": "3.7",
+    "status": "مكتمل",
+    "total_chapters": 10,
+    "genres": [
+      "أكشن",
+      "دراما",
+      "رعب",
+      "شونين",
+      "عنف",
+      "غموض"
     ]
   },
   {

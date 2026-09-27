@@ -1019,23 +1019,6 @@
     ]
   },
   {
-    "id": "%d8%a7%d9%84%d9%85%d9%8f%d8%aa%d9%8e%d8%ad%d9%8e%d8%b1%d9%90%d9%91%d8%b1",
-    "title": "المُتَحَرِّر",
-    "url": "https://kolnovel.com/series/%d8%a7%d9%84%d9%85%d9%8f%d8%aa%d9%8e%d8%ad%d9%8e%d8%b1%d9%90%d9%91%d8%b1",
-    "cover_url": "https://kolnovel.com/wp-content/uploads/2026/09/cover.png",
-    "type": "رواية",
-    "is_novel": true,
-    "rating": "",
-    "status": "مستمر",
-    "total_chapters": 32,
-    "genres": [
-      "أكشن",
-      "خيال مظلم",
-      "غموض",
-      "فانتازيا"
-    ]
-  },
-  {
     "id": "%d9%85%d9%84%d9%83-%d9%82%d8%af-%d9%84%d8%a7-%d9%8a%d8%b9%d9%88%d8%af",
     "title": "ملك قد لا يعود",
     "url": "https://kolnovel.com/series/%d9%85%d9%84%d9%83-%d9%82%d8%af-%d9%84%d8%a7-%d9%8a%d8%b9%d9%88%d8%af",
@@ -1051,26 +1034,6 @@
       "خيال مظلم",
       "دراما",
       "سحر",
-      "مغامرة"
-    ]
-  },
-  {
-    "id": "%d8%a3%d8%b3%d8%b1%d8%a7%d8%b1-%d8%b3%d9%8a%d8%af-%d8%a7%d9%84%d8%af%d9%85%d9%89-%d8%a7%d9%84%d8%ae%d8%a7%d9%84%d8%af",
-    "title": "أسرار سيد الدمى الخالد",
-    "url": "https://kolnovel.com/series/%d8%a3%d8%b3%d8%b1%d8%a7%d8%b1-%d8%b3%d9%8a%d8%af-%d8%a7%d9%84%d8%af%d9%85%d9%89-%d8%a7%d9%84%d8%ae%d8%a7%d9%84%d8%af",
-    "cover_url": "https://kolnovel.com/wp-content/uploads/2025/07/بدون-اسم67_20260622033133.png",
-    "type": "رواية",
-    "is_novel": true,
-    "rating": "5.0",
-    "status": "مستمر",
-    "total_chapters": 166,
-    "genres": [
-      "أكشن",
-      "خيال",
-      "سينن",
-      "شيانشيا",
-      "غموض",
-      "فنون قتال",
       "مغامرة"
     ]
   },
@@ -1133,28 +1096,6 @@
       "غموض",
       "قوى خارقة",
       "مغامرة"
-    ]
-  },
-  {
-    "id": "%d8%b3%d9%84%d8%b3%d9%84%d8%a9-%d9%85%d9%88%d9%86%d9%88%d8%ba%d8%a7%d8%aa%d8%a7%d8%b1%d9%8a",
-    "title": "سلسلة مونوغاتاري",
-    "url": "https://kolnovel.com/series/%d8%b3%d9%84%d8%b3%d9%84%d8%a9-%d9%85%d9%88%d9%86%d9%88%d8%ba%d8%a7%d8%aa%d8%a7%d8%b1%d9%8a",
-    "cover_url": "https://kolnovel.com/wp-content/uploads/2026/09/p000_01.jpg",
-    "type": "رواية",
-    "is_novel": true,
-    "rating": "",
-    "status": "مستمر",
-    "total_chapters": 43,
-    "genres": [
-      "خارق للطبيعة",
-      "خوارق",
-      "خيال",
-      "دراما",
-      "رومانسية",
-      "غموض",
-      "كوميديا",
-      "ناضج",
-      "نفسي"
     ]
   },
   {
@@ -1270,6 +1211,65 @@
       "رومانسية",
       "كوميديا",
       "مغامرة"
+    ]
+  },
+  {
+    "id": "%d8%a3%d8%b3%d8%b1%d8%a7%d8%b1-%d8%b3%d9%8a%d8%af-%d8%a7%d9%84%d8%af%d9%85%d9%89-%d8%a7%d9%84%d8%ae%d8%a7%d9%84%d8%af",
+    "title": "أسرار سيد الدمى الخالد",
+    "url": "https://kolnovel.com/series/%d8%a3%d8%b3%d8%b1%d8%a7%d8%b1-%d8%b3%d9%8a%d8%af-%d8%a7%d9%84%d8%af%d9%85%d9%89-%d8%a7%d9%84%d8%ae%d8%a7%d9%84%d8%af",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2025/07/بدون-اسم67_20260622033133.png",
+    "type": "رواية",
+    "is_novel": true,
+    "rating": "5.0",
+    "status": "مستمر",
+    "total_chapters": 168,
+    "genres": [
+      "أكشن",
+      "خيال",
+      "سينن",
+      "شيانشيا",
+      "غموض",
+      "فنون قتال",
+      "مغامرة"
+    ]
+  },
+  {
+    "id": "%d8%a7%d9%84%d9%85%d9%8f%d8%aa%d9%8e%d8%ad%d9%8e%d8%b1%d9%90%d9%91%d8%b1",
+    "title": "المُتَحَرِّر",
+    "url": "https://kolnovel.com/series/%d8%a7%d9%84%d9%85%d9%8f%d8%aa%d9%8e%d8%ad%d9%8e%d8%b1%d9%90%d9%91%d8%b1",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2026/09/cover.png",
+    "type": "رواية",
+    "is_novel": true,
+    "rating": "",
+    "status": "مستمر",
+    "total_chapters": 33,
+    "genres": [
+      "أكشن",
+      "خيال مظلم",
+      "غموض",
+      "فانتازيا"
+    ]
+  },
+  {
+    "id": "%d8%b3%d9%84%d8%b3%d9%84%d8%a9-%d9%85%d9%88%d9%86%d9%88%d8%ba%d8%a7%d8%aa%d8%a7%d8%b1%d9%8a",
+    "title": "سلسلة مونوغاتاري",
+    "url": "https://kolnovel.com/series/%d8%b3%d9%84%d8%b3%d9%84%d8%a9-%d9%85%d9%88%d9%86%d9%88%d8%ba%d8%a7%d8%aa%d8%a7%d8%b1%d9%8a",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2026/09/mono.jpg",
+    "type": "رواية",
+    "is_novel": true,
+    "rating": "",
+    "status": "مستمر",
+    "total_chapters": 44,
+    "genres": [
+      "خارق للطبيعة",
+      "خوارق",
+      "خيال",
+      "دراما",
+      "رومانسية",
+      "غموض",
+      "كوميديا",
+      "ناضج",
+      "نفسي"
     ]
   },
   {
