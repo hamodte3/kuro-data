@@ -124,112 +124,73 @@ def update_global_new_releases(new_releases: list):
     print(f"🔔 تم تسجيل {len(new_releases)} تحديث جديد لأزورا في {GLOBAL_NEW_FILE}")
 
 def scrape_manga_details(session, manga_url: str):
-    clean_url = normalize_url(manga_url).rstrip("/")
-    cache_url = f"{clean_url}?_t={int(time.time())}"
-    custom_headers = {
-        **HEADERS,
-        "Cache-Control": "no-cache, no-store, must-revalidate",
-        "Pragma": "no-cache"
+    series_slug = normalize_url(manga_url).rstrip("/").split("/")[-1]
+    
+    headers = {
+        "Origin": BASE_URL,
+        "Referer": f"{BASE_URL}/series/{series_slug}",
+        "Accept": "application/json"
     }
 
-    res = session.get(cache_url, headers=custom_headers, timeout=25)
-    html = res.text
-    soup = BeautifulSoup(html, "html.parser")
-
-    title_el = soup.select_one("h1[itemprop=name]") or soup.select_one("h1")
-    title = title_el.text.strip() if title_el else "بدون عنوان"
-
-    cover_el = soup.select_one("img[itemprop=image]")
-    cover_url = cover_el.get("src", "").strip() if cover_el else ""
-    if not cover_url:
-        meta_img = soup.select_one("meta[property='og:image']")
-        cover_url = meta_img.get("content", "").strip() if meta_img else ""
-    if cover_url and not cover_url.startswith("http"): 
-        cover_url = f"{BASE_URL}{cover_url}"
-    cover_url = cover_url.replace("http://", "https://")
-
-    status_el = soup.select_one('.post-content_item:-soup-contains("الحالة"), .post-status')
-    raw_status = status_el.text if status_el else ""
-    if not raw_status and "COMPLETED" in html:
-        raw_status = "completed"
-    status = format_status(raw_status)
-
-    time_el = soup.find(lambda tag: tag.name in ["span", "div", "p"] and "منذ" in tag.text)
-    last_update = time_el.text.strip() if time_el else ""
-
-    novel_badge = any("رواية" in s.text.strip() for s in soup.select("span.blue, span.bg-blue"))
-    is_novel = novel_badge or ("رواية" in title) or ("/novel/" in clean_url)
+    # 1. طلب بيانات العمل الأساسية عبر postSlug
+    post_api_url = f"https://api.azorafly.com/api/post?postSlug={series_slug}"
+    res = session.get(post_api_url, headers=headers, timeout=20)
     
-    type_el = soup.select_one('div:has(h1:-soup-contains("النوع")) div.inline span')
-    manga_type = format_type("رواية" if is_novel else (type_el.text.strip() if type_el else "مانهوا"))
+    if res.status_code != 200:
+        raise Exception(f"فشل جلب تفاصيل {series_slug} من الـ API: كود {res.status_code}")
 
-    # استخراج التصنيفات الحقيقية
-    genre_nodes = soup.select("a[itemprop='genre'], a[href*='genres='], .genres-content a, .manga-tags a")
-    genres = list(dict.fromkeys([a.text.strip() for a in genre_nodes if a.text.strip()]))
+    data = res.json()
+    post = data.get("post", {})
+    post_id = post.get("id")
 
-    desc_el = soup.select_one("div[itemprop=description], .review-content p, div.summary__content p")
-    final_desc = clean_description(str(desc_el) if desc_el else "", title)
+    title = post.get("postTitle") or series_slug
+    cover_url = post.get("featuredImage") or ""
+    if cover_url and not cover_url.startswith("http"):
+        cover_url = f"{BASE_URL}{cover_url}"
 
-    rate_meta = soup.select_one("meta[itemprop='ratingValue']")
-    rate_el = soup.select_one(".score.font-bold, .post-total-rating .score")
-    raw_rate = rate_meta.get("content", "") if rate_meta else (rate_el.text if rate_el else "")
-    rating = format_rating(raw_rate)
+    # تنظيف الوصف من أي وسوم HTML داخلية
+    raw_desc = post.get("postContent") or ""
+    description = clean_description(raw_desc, title)
 
-    series_slug = clean_url.split("/")[-1]
+    # التصنيفات، النوع، والحالة
+    genres = [g.get("name").strip() for g in post.get("genres", []) if g.get("name")]
+    manga_type = format_type(post.get("seriesType") or "مانهوا")
+    status = format_status(post.get("seriesStatus") or "مستمر")
+
+    # التقييم
+    avg_rating = post.get("averageRating") or data.get("averageRating") or ""
+    rating = format_rating(str(avg_rating))
+
+    last_update = post.get("updatedAt", "").split("T")[0]
+
+    # 2. طلب مصفوفة الفصول كاملة باستخدام postId
     chapters_map = {}
-
-    # 🎯 1. استخراج postId لاستدعاء الـ API الرسمي المكتشف
-    post_id = None
-    post_id_match = re.search(r'postId(?:&quot;|"):\s*\[\s*\d+\s*,\s*(\d+)\]', html) or re.search(r'"postId":\s*(\d+)', html)
-    if post_id_match:
-        post_id = post_id_match.group(1)
-
-    # 🎯 2. جلب كل الفصول دفعة واحدة عبر Endpoint أزورا الحقيقي
     if post_id:
-        try:
-            api_url = f"https://api.azorafly.com/api/chapters?postId={post_id}&take=1000"
-            api_res = session.get(api_url, headers={
-                "Origin": BASE_URL,
-                "Referer": clean_url,
-                "Accept": "application/json"
-            }, timeout=20)
-
-            if api_res.status_code == 200:
-                data = api_res.json()
-                chapters_list = data.get("post", {}).get("chapters", [])
-                for ch in chapters_list:
-                    slug = ch.get("slug")
-                    num_val = ch.get("number")
-                    if slug and num_val is not None:
-                        clean_name = format_chapter_number(num_val)
-                        full_url = f"{BASE_URL}/series/{series_slug}/{slug}"
-                        chapters_map[full_url] = {"name": clean_name}
-        except Exception as e:
-            print(f"تنبيه: تعذر سحب الفصول عبر API أزورا: {e}")
-
-    # خطة احتياطية عبر مسح روابط الصفحة إن تعطل الـ API
-    if not chapters_map:
-        for a in soup.select("a[href*='/chapter-'], a[href*='/chapter_']"):
-            href = a.get("href", "").strip()
-            if href:
-                full_url = normalize_url(href if href.startswith("http") else f"{BASE_URL}{href}")
-                slug = full_url.rstrip("/").split("/")[-1].split("?")[0]
-                raw_num = slug.lower().replace("chapter-", "").replace("chapter_", "").replace("_", ".").replace("-", ".")
-                num_match = re.search(r"\d+(\.\d+)?", raw_num)
-                clean_name = format_chapter_number(num_match.group(0)) if num_match else raw_num
-                chapters_map[full_url] = {"name": clean_name}
+        ch_api_url = f"https://api.azorafly.com/api/chapters?postId={post_id}&take=1000"
+        ch_res = session.get(ch_api_url, headers=headers, timeout=20)
+        
+        if ch_res.status_code == 200:
+            ch_data = ch_res.json()
+            chapters_list = ch_data.get("post", {}).get("chapters", [])
+            for ch in chapters_list:
+                slug = ch.get("slug")
+                num_val = ch.get("number")
+                if slug and num_val is not None:
+                    clean_name = format_chapter_number(num_val)
+                    full_url = f"{BASE_URL}/series/{series_slug}/{slug}"
+                    chapters_map[full_url] = {"name": clean_name}
 
     return {
         "id": series_slug,
         "title": title,
         "cover_url": cover_url,
-        "description": final_desc,
+        "description": description,
         "type": manga_type,
         "status": status,
         "last_update": last_update,
         "rating": rating,
         "genres": genres,
-        "is_novel": is_novel,
+        "is_novel": False,
         "chapters": chapters_map
     }
 
