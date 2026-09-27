@@ -11,7 +11,7 @@ CATALOG_FILE = os.path.join(DATA_DIR, "catalog.json")
 GLOBAL_NEW_FILE = os.path.join("data", "new.json")
 
 DETAILS_SYNC_LIMIT = 20    # فحص تفاصيل وفصول أحدث 20 عملاً تم تحديثها
-MAX_DELTA_PAGES = 5        # فحص أول 5 صفحات فقط كل ساعة بدلاً من 1000
+MAX_DELTA_PAGES = 2000        # فحص أول 5 صفحات فقط كل ساعة بدلاً من 1000
 
 os.makedirs(DATA_DIR, exist_ok=True)
 os.makedirs("data", exist_ok=True)
@@ -189,6 +189,7 @@ def scrape_manga_details_ashiq(session, manga_url: str):
     fav_match = re.search(r"\d+", favorites_text)
     favorites = fav_match.group(0) if fav_match else ""
 
+    # استخراج التصنيفات الحقيقية
     genres = [a.text.strip() for a in soup.select("div.genres-content a") if a.text.strip()]
 
     raw_type = ""
@@ -276,7 +277,7 @@ def sync_ashiq_fast():
                 badges_text = badges.text if badges else ""
                 is_novel = "رواية" in badges_text or "رواية" in title
 
-                # الدمج الآمن: الاحتفاظ بالفصول والحالة القديمة إذا كان العمل مسجلاً مسبقاً
+                # الدمج الآمن: الاحتفاظ بالفصول والتصنيفات السابقة
                 if slug in catalog_dict:
                     catalog_dict[slug]["title"] = title
                     catalog_dict[slug]["url"] = manga_url
@@ -284,7 +285,7 @@ def sync_ashiq_fast():
                         catalog_dict[slug]["cover_url"] = cover
                     if rating:
                         catalog_dict[slug]["rating"] = rating
-                    # رفع العمل لرأس القائمة لأنه حدث مؤخراً
+                    # رفع العمل لرأس القائمة
                     item_ref = catalog_dict.pop(slug)
                     catalog_dict = {slug: item_ref, **catalog_dict}
                 else:
@@ -296,7 +297,8 @@ def sync_ashiq_fast():
                             "cover_url": cover,
                             "type": "رواية" if is_novel else format_type(badges_text),
                             "rating": rating,
-                            "total_chapters": 0
+                            "total_chapters": 0,
+                            "genres": []  # تهيئة حقل التصنيفات دائماً
                         },
                         **catalog_dict
                     }
@@ -314,7 +316,7 @@ def sync_ashiq_fast():
             print(f"خطأ أثناء سحب صفحة {page}: {e}")
             break
 
-    # 2. تحديث تفاصيل وفصول أحدث 20 عملاً ورصد الإشعارات
+    # 2. تحديث تفاصيل وفصول وتصنيفات أحدث 20 عملاً
     targets_to_scrape = recent_targets[:DETAILS_SYNC_LIMIT]
     new_releases = []
 
@@ -334,7 +336,11 @@ def sync_ashiq_fast():
             item["rating"] = details["rating"]
             item["type"] = details["type"]
             item["total_chapters"] = current_chaps
-            print(f"✓ [{index}/{len(targets_to_scrape)}] تم تحديث العاشق: {slug} ({current_chaps} فصل)")
+            
+            # حفظ التصنيفات الحقيقية في الكاتلوج
+            item["genres"] = details.get("genres", [])
+
+            print(f"✓ [{index}/{len(targets_to_scrape)}] تم تحديث العاشق: {slug} ({current_chaps} فصل) - تصنيفات: {item['genres']}")
 
             # كشف الفصول الجديدة لتوليد التنبيه
             if current_chaps > prev_chaps and current_chaps > 0:
@@ -350,7 +356,7 @@ def sync_ashiq_fast():
         except Exception as e:
             print(f"خطأ أثناء معالجة {slug}: {e}")
 
-    # 3. حفظ الفهرس التراكمي الشامل
+    # 3. حفظ الفهرس التراكمي الشامل بالتصنيفات
     full_catalog = list(catalog_dict.values())
     with open(CATALOG_FILE, "w", encoding="utf-8") as f:
         json.dump(full_catalog, f, ensure_ascii=False, indent=2)
