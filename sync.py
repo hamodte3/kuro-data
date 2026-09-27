@@ -145,7 +145,7 @@ def scrape_manga_details(session, manga_url: str):
     # 2. طلب مصفوفة الفصول كاملة عبر الـ API الرسمي
     chapters_map = {}
     if post_id:
-        ch_api_url = f"https://api.azorafly.com/api/chapters?postId={post_id}&take=1000"
+        ch_api_url = f"https://api.azorafly.com/api/chapters?postId={post_id}&take=200"
         ch_res = session.get(ch_api_url, timeout=20)
         
         if ch_res.status_code == 200:
