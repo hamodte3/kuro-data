@@ -1,55 +1,5 @@
 [
   {
-    "id": "i-will-buy-divine-power-with-money",
-    "title": "I Will Buy Divine Power With Money!",
-    "url": "https://azorafly.com/series/i-will-buy-divine-power-with-money",
-    "cover_url": "https://storage.azorafly.com/upload/series/featured/36b5afed-dad7-4e85-86ee-7629e1388021/8c1a8253-7d04-4d69-9f3a-99c86c8b876a.png",
-    "type": "مانهوا",
-    "status": "مستمر",
-    "rating": "9.5",
-    "total_chapters": 47,
-    "genres": [
-      "أكشن",
-      "خيالي",
-      "دراما",
-      "رومانسي"
-    ]
-  },
-  {
-    "id": "the-seventh-prince-wants-to-bail",
-    "title": "The Seventh Prince Wants to Bail",
-    "url": "https://azorafly.com/series/the-seventh-prince-wants-to-bail",
-    "cover_url": "https://storage.azorafly.com/upload/series/featured/6cac1de1-87ae-4a81-9cd1-2abe99fd84d7/320675bd-1988-459d-ac60-ce44c8a7f055.jpg",
-    "type": "مانهوا",
-    "status": "مستمر",
-    "rating": "9.5",
-    "total_chapters": 23,
-    "genres": [
-      "أكشن",
-      "اكشن",
-      "فنتازيا",
-      "مغامرات",
-      "غموض"
-    ]
-  },
-  {
-    "id": "became-the-owner-of-a-poor-estate",
-    "title": "Became the Owner of a Poor Estate",
-    "url": "https://azorafly.com/series/became-the-owner-of-a-poor-estate",
-    "cover_url": "https://storage.azorafly.com/upload/series/featured/6cac1de1-87ae-4a81-9cd1-2abe99fd84d7/0f56f524-10ee-4333-a287-108c8fa880c3.png",
-    "type": "مانهوا",
-    "status": "مستمر",
-    "rating": "9.5",
-    "total_chapters": 14,
-    "genres": [
-      "أكشن",
-      "جوسي",
-      "رومانسى",
-      "فنتازيا",
-      "دراما"
-    ]
-  },
-  {
     "id": "sleepless-death",
     "title": "Sleepless Death",
     "url": "https://azorafly.com/series/sleepless-death",
@@ -244,19 +194,6 @@
       "فانتازيا",
       "شونين",
       "غموض"
-    ]
-  },
-  {
-    "id": "saved-by-the-powerless-little-lady",
-    "title": "saved by the powerless little lady",
-    "url": "https://azorafly.com/series/saved-by-the-powerless-little-lady",
-    "cover_url": "https://storage.azorafly.com/public/upload/2026/02/16/18d7280a-b3cd-4c27-b94d-ba2fa4534882.webp",
-    "type": "مانهوا",
-    "status": "مستمر",
-    "rating": "9.5",
-    "total_chapters": 36,
-    "genres": [
-      "أكشن"
     ]
   },
   {
@@ -3042,22 +2979,6 @@
     ]
   },
   {
-    "id": "the-timid-frontier-heiress-never-gives-up-her-revenge",
-    "title": "The Timid Frontier Heiress Never Gives Up Her Revenge",
-    "url": "https://azorafly.com/series/the-timid-frontier-heiress-never-gives-up-her-revenge",
-    "cover_url": "https://storage.azorafly.com/upload/series/featured/6cac1de1-87ae-4a81-9cd1-2abe99fd84d7/0adfa2e1-517b-47c9-8c87-ca1a65fcd0c9.png",
-    "type": "مانهوا",
-    "status": "مستمر",
-    "rating": "9.5",
-    "total_chapters": 21,
-    "genres": [
-      "أكشن",
-      "رومانسى",
-      "فنتازيا",
-      "دراما"
-    ]
-  },
-  {
     "id": "how-to-save-a-time-limited-young-master",
     "title": "How to Save a Time-Limited Young Master",
     "url": "https://azorafly.com/series/how-to-save-a-time-limited-young-master",
@@ -3095,10 +3016,9 @@
     "cover_url": "https://storage.azorafly.com/upload/series/featured/02408b52-85d5-445d-9e5c-f7dbcd583bf8/f2d85348-9e25-4829-80ab-79d8234a4fda.png",
     "type": "مانهوا",
     "status": "مستمر",
-    "rating": "9.5",
-    "total_chapters": 21,
+    "rating": "10.0",
+    "total_chapters": 0,
     "genres": [
-      "أكشن",
       "رومانسى",
       "الحياة المدرسية",
       "كوميدي",
@@ -3112,10 +3032,9 @@
     "cover_url": "https://storage.azorafly.com/upload/series/featured/02408b52-85d5-445d-9e5c-f7dbcd583bf8/8b73ac33-c84f-4fb9-abc6-f63fd568bd22.jpeg",
     "type": "مانهوا",
     "status": "مستمر",
-    "rating": "9.5",
-    "total_chapters": 21,
+    "rating": "8.5",
+    "total_chapters": 0,
     "genres": [
-      "أكشن",
       "رومانسى",
       "كوميدي",
       "دراما"
@@ -3128,10 +3047,9 @@
     "cover_url": "https://storage.azorafly.com/public/upload/2026/01/29/c5c141e2-6c33-42b5-ba20-892295fc1f30.webp",
     "type": "مانهوا",
     "status": "مستمر",
-    "rating": "9.5",
-    "total_chapters": 21,
+    "rating": "8.2",
+    "total_chapters": 0,
     "genres": [
-      "أكشن",
       "فانتازيا",
       "رومانسي"
     ]
@@ -3143,10 +3061,9 @@
     "cover_url": "https://storage.azorafly.com/2025/07/67_20250722145906.webp",
     "type": "مانهوا",
     "status": "مستمر",
-    "rating": "9.5",
-    "total_chapters": 21,
+    "rating": "7.4",
+    "total_chapters": 0,
     "genres": [
-      "أكشن",
       "دراما",
       "رومانسي"
     ]
@@ -3158,14 +3075,13 @@
     "cover_url": "https://storage.azorafly.com/2025/10/158_20250906185819.webp",
     "type": "مانهوا",
     "status": "مستمر",
-    "rating": "9.5",
-    "total_chapters": 21,
+    "rating": "9.8",
+    "total_chapters": 0,
     "genres": [
-      "أكشن",
       "الحياة المدرسية",
+      "دراما",
       "غموض",
-      "رعب",
-      "دراما"
+      "رعب"
     ]
   },
   {
@@ -3175,10 +3091,9 @@
     "cover_url": "https://storage.azorafly.com/public/upload/series/featured/02408b52-85d5-445d-9e5c-f7dbcd583bf8/df25d8a8-daf8-47d3-816a-5289c1032823.jpg",
     "type": "مانهوا",
     "status": "مستمر",
-    "rating": "9.5",
-    "total_chapters": 21,
+    "rating": "7.3",
+    "total_chapters": 0,
     "genres": [
-      "أكشن",
       "نفسي",
       "دراما",
       "رومانسي"
@@ -3191,10 +3106,9 @@
     "cover_url": "https://storage.azorafly.com/2025/10/IMG_20251004_121242_686.webp",
     "type": "مانهوا",
     "status": "مستمر",
-    "rating": "9.5",
-    "total_chapters": 21,
+    "rating": "9.4",
+    "total_chapters": 0,
     "genres": [
-      "أكشن",
       "غموض",
       "رومانسي"
     ]
@@ -3206,14 +3120,13 @@
     "cover_url": "https://storage.azorafly.com/upload/series/featured/a5vVlSc5huft2AzUyK1VxgKh1ckCWLbZ/b530bbaf-68b8-48fa-9ad9-cec58aaedc21.jpg",
     "type": "مانهوا",
     "status": "مستمر",
-    "rating": "9.5",
-    "total_chapters": 21,
+    "rating": "9.8",
+    "total_chapters": 0,
     "genres": [
-      "أكشن",
-      "فانتازيا",
       "رومانسي",
       "دراما",
-      "كوميدي"
+      "كوميدي",
+      "فانتازيا"
     ]
   },
   {
@@ -3223,15 +3136,14 @@
     "cover_url": "https://storage.azorafly.com/2025/03/٢٠٢٥١٠١٩_١٨٥٢٥٤-scaled.jpg",
     "type": "مانهوا",
     "status": "مستمر",
-    "rating": "9.5",
-    "total_chapters": 21,
+    "rating": "8.9",
+    "total_chapters": 0,
     "genres": [
-      "أكشن",
       "السفر عبر الزمن",
-      "تاريخي",
       "إعادة إحياء",
       "دراما",
       "خيال",
+      "تاريخي",
       "رومانسي"
     ]
   },
@@ -3242,10 +3154,9 @@
     "cover_url": "https://storage.azorafly.com/upload/series/featured/02408b52-85d5-445d-9e5c-f7dbcd583bf8/d4d39619-dc49-495d-96f3-59f453e82602.jpg",
     "type": "مانهوا",
     "status": "مستمر",
-    "rating": "9.5",
-    "total_chapters": 21,
+    "rating": "9.9",
+    "total_chapters": 0,
     "genres": [
-      "أكشن",
       "فانتازيا",
       "انتقام",
       "رومانسي",
@@ -3260,10 +3171,9 @@
     "cover_url": "https://storage.azorafly.com/upload/series/featured/02408b52-85d5-445d-9e5c-f7dbcd583bf8/5d57cc57-4798-442f-9ffb-01a049c5359e.jpg",
     "type": "مانهوا",
     "status": "مستمر",
-    "rating": "9.5",
-    "total_chapters": 21,
+    "rating": "6.0",
+    "total_chapters": 0,
     "genres": [
-      "أكشن",
       "دراما",
       "رومانسي"
     ]
@@ -3275,13 +3185,12 @@
     "cover_url": "https://storage.azorafly.com/upload/series/featured/02408b52-85d5-445d-9e5c-f7dbcd583bf8/b0007200-b171-4b38-83f3-a092b9941cdf.jpg",
     "type": "مانهوا",
     "status": "مستمر",
-    "rating": "9.5",
-    "total_chapters": 11,
+    "rating": "10.0",
+    "total_chapters": 0,
     "genres": [
-      "أكشن",
       "رومانسى",
-      "فانتازيا",
-      "غموض"
+      "غموض",
+      "فانتازيا"
     ]
   },
   {
@@ -3291,13 +3200,169 @@
     "cover_url": "https://storage.azorafly.com/upload/series/featured/02408b52-85d5-445d-9e5c-f7dbcd583bf8/8fa8619d-d59b-4f10-8cdf-eef521b7f778.png",
     "type": "مانهوا",
     "status": "مستمر",
-    "rating": "9.5",
-    "total_chapters": 10,
+    "rating": "9.0",
+    "total_chapters": 0,
     "genres": [
-      "أكشن",
       "اثارة",
       "رومانسى",
+      "دراما",
+      "غموض"
+    ]
+  },
+  {
+    "id": "delivery-impossible",
+    "title": "Delivery Impossible",
+    "url": "https://azorafly.com/series/delivery-impossible",
+    "cover_url": "https://storage.azorafly.com/upload/series/featured/oGmL0DQZ16QInTPaeDKwFEK9ryegoy88/863270a8-707a-47cb-9c21-2f58549c8c47.webp",
+    "type": "مانهوا",
+    "status": "مستمر",
+    "rating": "9.9",
+    "total_chapters": 0,
+    "genres": [
+      "انقاذ",
+      "صداقة",
+      "خيالى",
+      "شونين",
+      "عائلة"
+    ]
+  },
+  {
+    "id": "survive-the-horror-school",
+    "title": "Survive the Horror School",
+    "url": "https://azorafly.com/series/survive-the-horror-school",
+    "cover_url": "https://storage.azorafly.com/2025/08/IMG_20250801_194022_926.webp",
+    "type": "مانهوا",
+    "status": "مستمر",
+    "rating": "10.0",
+    "total_chapters": 0,
+    "genres": [
       "غموض",
+      "فانتازيا",
+      "رعب",
+      "رومانسي"
+    ]
+  },
+  {
+    "id": "cry-or-better-yet-beg",
+    "title": "Cry or Better Yet Beg",
+    "url": "https://azorafly.com/series/cry-or-better-yet-beg",
+    "cover_url": "https://storage.azorafly.com/2024/08/cry.webp",
+    "type": "مانهوا",
+    "status": "مستمر",
+    "rating": "6.3",
+    "total_chapters": 0,
+    "genres": [
+      "دراما",
+      "خيال",
+      "مأساة",
+      "تاريخي",
+      "رومانسي"
+    ]
+  },
+  {
+    "id": "i-hate-this-kind-of-reverse-harem",
+    "title": "‏I Hate This Kind of Reverse Harem",
+    "url": "https://azorafly.com/series/i-hate-this-kind-of-reverse-harem",
+    "cover_url": "https://storage.azorafly.com/upload/series/featured/f1fef4cc-ebcb-4b26-90b6-b65fe212f932/854fab98-7d45-4fad-9904-41205d9ee1aa.jpg",
+    "type": "مانهوا",
+    "status": "مستمر",
+    "rating": "7.2",
+    "total_chapters": 0,
+    "genres": [
+      "دراما",
+      "فانتازيا",
+      "رومانسي"
+    ]
+  },
+  {
+    "id": "the-timid-frontier-heiress-never-gives-up-her-revenge",
+    "title": "The Timid Frontier Heiress Never Gives Up Her Revenge",
+    "url": "https://azorafly.com/series/the-timid-frontier-heiress-never-gives-up-her-revenge",
+    "cover_url": "https://storage.azorafly.com/upload/series/featured/6cac1de1-87ae-4a81-9cd1-2abe99fd84d7/0adfa2e1-517b-47c9-8c87-ca1a65fcd0c9.png",
+    "type": "مانهوا",
+    "status": "مستمر",
+    "rating": "10.0",
+    "total_chapters": 0,
+    "genres": [
+      "رومانسى",
+      "فنتازيا",
+      "دراما"
+    ]
+  },
+  {
+    "id": "saved-by-the-powerless-little-lady",
+    "title": "saved by the powerless little lady",
+    "url": "https://azorafly.com/series/saved-by-the-powerless-little-lady",
+    "cover_url": "https://storage.azorafly.com/public/upload/2026/02/16/18d7280a-b3cd-4c27-b94d-ba2fa4534882.webp",
+    "type": "مانهوا",
+    "status": "مستمر",
+    "rating": "9.9",
+    "total_chapters": 0,
+    "genres": []
+  },
+  {
+    "id": "revenge-guidebook-for-the-time-limited-maid",
+    "title": "Revenge Guidebook For The Time Limited Maid",
+    "url": "https://azorafly.com/series/revenge-guidebook-for-the-time-limited-maid",
+    "cover_url": "https://storage.azorafly.com/2025/06/Revenge_Guidebook.jpg",
+    "type": "مانهوا",
+    "status": "مستمر",
+    "rating": "10.0",
+    "total_chapters": 0,
+    "genres": [
+      "خيالي",
+      "تشويق",
+      "دراما",
+      "رومانسي"
+    ]
+  },
+  {
+    "id": "i-will-buy-divine-power-with-money",
+    "title": "I Will Buy Divine Power With Money!",
+    "url": "https://azorafly.com/series/i-will-buy-divine-power-with-money",
+    "cover_url": "https://storage.azorafly.com/upload/series/featured/36b5afed-dad7-4e85-86ee-7629e1388021/8c1a8253-7d04-4d69-9f3a-99c86c8b876a.png",
+    "type": "مانهوا",
+    "status": "مستمر",
+    "rating": "9.5",
+    "total_chapters": 47,
+    "genres": [
+      "أكشن",
+      "خيالي",
+      "دراما",
+      "رومانسي"
+    ]
+  },
+  {
+    "id": "the-seventh-prince-wants-to-bail",
+    "title": "The Seventh Prince Wants to Bail",
+    "url": "https://azorafly.com/series/the-seventh-prince-wants-to-bail",
+    "cover_url": "https://storage.azorafly.com/upload/series/featured/6cac1de1-87ae-4a81-9cd1-2abe99fd84d7/320675bd-1988-459d-ac60-ce44c8a7f055.jpg",
+    "type": "مانهوا",
+    "status": "مستمر",
+    "rating": "9.5",
+    "total_chapters": 23,
+    "genres": [
+      "أكشن",
+      "اكشن",
+      "فنتازيا",
+      "مغامرات",
+      "غموض"
+    ]
+  },
+  {
+    "id": "became-the-owner-of-a-poor-estate",
+    "title": "Became the Owner of a Poor Estate",
+    "url": "https://azorafly.com/series/became-the-owner-of-a-poor-estate",
+    "cover_url": "https://storage.azorafly.com/upload/series/featured/6cac1de1-87ae-4a81-9cd1-2abe99fd84d7/0f56f524-10ee-4333-a287-108c8fa880c3.png",
+    "type": "مانهوا",
+    "status": "مستمر",
+    "rating": "9.5",
+    "total_chapters": 14,
+    "genres": [
+      "أكشن",
+      "جوسي",
+      "رومانسى",
+      "فنتازيا",
       "دراما"
     ]
   },
@@ -32321,23 +32386,6 @@
     ]
   },
   {
-    "id": "revenge-guidebook-for-the-time-limited-maid",
-    "title": "Revenge Guidebook For The Time Limited Maid",
-    "url": "https://azorafly.com/series/revenge-guidebook-for-the-time-limited-maid",
-    "cover_url": "https://storage.azorafly.com/2025/06/Revenge_Guidebook.jpg",
-    "type": "مانهوا",
-    "status": "مستمر",
-    "rating": "9.5",
-    "total_chapters": 40,
-    "genres": [
-      "أكشن",
-      "خيالي",
-      "دراما",
-      "رومانسي",
-      "تشويق"
-    ]
-  },
-  {
     "id": "my-beloved-oppressor",
     "title": "My Beloved Oppressor",
     "url": "https://azorafly.com/series/my-beloved-oppressor",
@@ -33847,24 +33895,6 @@
     "genres": [
       "أكشن",
       "دراما",
-      "رومانسي"
-    ]
-  },
-  {
-    "id": "cry-or-better-yet-beg",
-    "title": "Cry or Better Yet Beg",
-    "url": "https://azorafly.com/series/cry-or-better-yet-beg",
-    "cover_url": "https://storage.azorafly.com/2024/08/cry.webp",
-    "type": "مانهوا",
-    "status": "مستمر",
-    "rating": "9.5",
-    "total_chapters": 88,
-    "genres": [
-      "أكشن",
-      "تاريخي",
-      "دراما",
-      "مأساة",
-      "خيال",
       "رومانسي"
     ]
   },
@@ -35504,23 +35534,6 @@
     ]
   },
   {
-    "id": "survive-the-horror-school",
-    "title": "Survive the Horror School",
-    "url": "https://azorafly.com/series/survive-the-horror-school",
-    "cover_url": "https://storage.azorafly.com/2025/08/IMG_20250801_194022_926.webp",
-    "type": "مانهوا",
-    "status": "مستمر",
-    "rating": "9.5",
-    "total_chapters": 71,
-    "genres": [
-      "أكشن",
-      "فانتازيا",
-      "رعب",
-      "غموض",
-      "رومانسي"
-    ]
-  },
-  {
     "id": "the-counts-secret-maid",
     "title": "The Count's Secret Maid",
     "url": "https://azorafly.com/series/the-counts-secret-maid",
@@ -36096,22 +36109,6 @@
     ]
   },
   {
-    "id": "i-hate-this-kind-of-reverse-harem",
-    "title": "‏I Hate This Kind of Reverse Harem",
-    "url": "https://azorafly.com/series/i-hate-this-kind-of-reverse-harem",
-    "cover_url": "https://storage.azorafly.com/upload/series/featured/f1fef4cc-ebcb-4b26-90b6-b65fe212f932/854fab98-7d45-4fad-9904-41205d9ee1aa.jpg",
-    "type": "مانهوا",
-    "status": "مستمر",
-    "rating": "9.5",
-    "total_chapters": 52,
-    "genres": [
-      "أكشن",
-      "فانتازيا",
-      "دراما",
-      "رومانسي"
-    ]
-  },
-  {
     "id": "world-destruction-war",
     "title": "World Destruction War",
     "url": "https://azorafly.com/series/world-destruction-war",
@@ -36223,24 +36220,6 @@
       "تناسخ الارواح",
       "نبلاء",
       "فنتازيا"
-    ]
-  },
-  {
-    "id": "delivery-impossible",
-    "title": "Delivery Impossible",
-    "url": "https://azorafly.com/series/delivery-impossible",
-    "cover_url": "https://storage.azorafly.com/upload/series/featured/oGmL0DQZ16QInTPaeDKwFEK9ryegoy88/863270a8-707a-47cb-9c21-2f58549c8c47.webp",
-    "type": "مانهوا",
-    "status": "مستمر",
-    "rating": "9.5",
-    "total_chapters": 8,
-    "genres": [
-      "أكشن",
-      "انقاذ",
-      "صداقة",
-      "خيالى",
-      "شونين",
-      "عائلة"
     ]
   },
   {
