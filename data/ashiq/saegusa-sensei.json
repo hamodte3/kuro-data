@@ -1,0 +1,22 @@
+{
+  "id": "saegusa-sensei",
+  "title": "Saegusa-Sensei",
+  "cover_url": "https://3asq.online/wp-content/uploads/2023/04/00-scaled.jpg",
+  "description": "لا يوجد وصف",
+  "type": "ون شوت",
+  "status": "مكتمل",
+  "rating": "4.0",
+  "favorites": "6",
+  "genres": [
+    "100%",
+    "شريحة من الحياة",
+    "فلسفة",
+    "ون شوت"
+  ],
+  "is_novel": false,
+  "chapters": {
+    "https://3asq.online/manga/saegusa-sensei/n-a": {
+      "name": "0"
+    }
+  }
+}

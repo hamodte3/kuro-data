@@ -1,0 +1,31 @@
+{
+  "id": "hajime-no-ippo-baki",
+  "title": "Hajime No Ippo (BAKI)",
+  "cover_url": "https://3asq.online/wp-content/uploads/2026/06/1000698876-scaled.jpg",
+  "description": "القصة تدور القصة حول فتى في الثانوية يتم التنمر عليه بشكل معتاد من قبل زملائه، لكن في أحد المرات قام لاعب ملاكمة محترف بالتصدي لهم، ومنها وجد إيبو ضالته، وهي أن يصبح ملاكم قوي لكي يحمي نفسه. حيث نتابع كيف تتطور شخصية إيبو وكيف يشق طريقه نحو احتراف الملاكمة.",
+  "type": "مانغا",
+  "status": "مستمر",
+  "rating": "4.5",
+  "favorites": "19",
+  "genres": [
+    "دراما",
+    "رياضة",
+    "شونين",
+    "كوميديا"
+  ],
+  "is_novel": false,
+  "chapters": {
+    "https://3asq.online/manga/hajime-no-ippo-baki/1515": {
+      "name": "1515"
+    },
+    "https://3asq.online/manga/hajime-no-ippo-baki/1514": {
+      "name": "1514"
+    },
+    "https://3asq.online/manga/hajime-no-ippo-baki/1513": {
+      "name": "1513"
+    },
+    "https://3asq.online/manga/hajime-no-ippo-baki/1512": {
+      "name": "1512"
+    }
+  }
+}

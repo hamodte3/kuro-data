@@ -1,0 +1,52 @@
+{
+  "id": "blue-period",
+  "title": "Blue period",
+  "cover_url": "https://3asq.online/wp-content/uploads/2021/01/000.jpg",
+  "description": "ياغوتشي ياتورا طالبٌ في السنة الثانية من المرحلة الثانوية، فاتر العزيمة ولكن مجتهد، ضجرٌ من حياته اليومية الاعتيادية، يبذل جهده في الدراسة والتمتع رفقة أصحابه إلا أن هوة في قلبه لم تملأها هذه المُتع، يعيش ملتزمًا بمعايير وفروض المجتمع بيد أنه في داخله يحسد أولئك الأحرار.\n\nويظل على حاله حتى يرى لوحة رسمها فردٌ في نادي الفنون فيؤسر فؤاده بألوانها، وعندها تنقلب حياة ياتورا رأسًا على عقب في عالم ينطق بلغة منزوعة الكلمات، فيصلٌ بين الصادق والكاذب حيث تنطق به العواطف وتدوي صرخات الأحاسيس بصمت، كيف سيواجه ياتورا عالمه الجديد؟",
+  "type": "مانغا",
+  "status": "مستمر",
+  "rating": "4.1",
+  "favorites": "14",
+  "genres": [
+    "دراما",
+    "سينين",
+    "شريحة من الحياة",
+    "مدرسة"
+  ],
+  "is_novel": false,
+  "chapters": {
+    "https://3asq.online/javascript:void(0)": {
+      "name": "المجلد الثاني"
+    },
+    "https://3asq.online/manga/blue-period/%d8%a7%d9%84%d9%85%d8%ac%d9%84%d8%af-%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a/085": {
+      "name": "8"
+    },
+    "https://3asq.online/manga/blue-period/%d8%a7%d9%84%d9%85%d8%ac%d9%84%d8%af-%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a/08": {
+      "name": "8"
+    },
+    "https://3asq.online/manga/blue-period/%d8%a7%d9%84%d9%85%d8%ac%d9%84%d8%af-%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a/07": {
+      "name": "7"
+    },
+    "https://3asq.online/manga/blue-period/%d8%a7%d9%84%d9%85%d8%ac%d9%84%d8%af-%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a/06": {
+      "name": "6"
+    },
+    "https://3asq.online/manga/blue-period/%d8%a7%d9%84%d9%85%d8%ac%d9%84%d8%af-%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a/05": {
+      "name": "5"
+    },
+    "https://3asq.online/manga/blue-period/%d8%a7%d9%84%d9%85%d8%ac%d9%84%d8%af-%d8%a7%d9%84%d8%a3%d9%88%d9%84/045": {
+      "name": "4"
+    },
+    "https://3asq.online/manga/blue-period/%d8%a7%d9%84%d9%85%d8%ac%d9%84%d8%af-%d8%a7%d9%84%d8%a3%d9%88%d9%84/04": {
+      "name": "4"
+    },
+    "https://3asq.online/manga/blue-period/%d8%a7%d9%84%d9%85%d8%ac%d9%84%d8%af-%d8%a7%d9%84%d8%a3%d9%88%d9%84/03": {
+      "name": "3"
+    },
+    "https://3asq.online/manga/blue-period/%d8%a7%d9%84%d9%85%d8%ac%d9%84%d8%af-%d8%a7%d9%84%d8%a3%d9%88%d9%84/02": {
+      "name": "2"
+    },
+    "https://3asq.online/manga/blue-period/%d8%a7%d9%84%d9%85%d8%ac%d9%84%d8%af-%d8%a7%d9%84%d8%a3%d9%88%d9%84/01": {
+      "name": "1"
+    }
+  }
+}

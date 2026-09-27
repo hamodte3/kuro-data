@@ -1,0 +1,42 @@
+{
+  "id": "shin-honkaku-mahou-shoujo-risuka",
+  "title": "Shin Honkaku Mahou Shoujo Risuka",
+  "cover_url": "https://3asq.online/wp-content/uploads/2021/06/Shin-Honkaku-Magical-Girl-Risuka.jpg",
+  "description": "لا يوجد وصف",
+  "type": "مانغا",
+  "status": "مستمر",
+  "rating": "3.5",
+  "favorites": "12",
+  "genres": [
+    "أكشن",
+    "خيال",
+    "غموض"
+  ],
+  "is_novel": false,
+  "chapters": {
+    "https://3asq.online/javascript:void(0)": {
+      "name": "2"
+    },
+    "https://3asq.online/manga/shin-honkaku-mahou-shoujo-risuka/2/7": {
+      "name": "7"
+    },
+    "https://3asq.online/manga/shin-honkaku-mahou-shoujo-risuka/2/6": {
+      "name": "6"
+    },
+    "https://3asq.online/manga/shin-honkaku-mahou-shoujo-risuka/2/5": {
+      "name": "5"
+    },
+    "https://3asq.online/manga/shin-honkaku-mahou-shoujo-risuka/2/4": {
+      "name": "4"
+    },
+    "https://3asq.online/manga/shin-honkaku-mahou-shoujo-risuka/1/3": {
+      "name": "3"
+    },
+    "https://3asq.online/manga/shin-honkaku-mahou-shoujo-risuka/1/2": {
+      "name": "2"
+    },
+    "https://3asq.online/manga/shin-honkaku-mahou-shoujo-risuka/1/1": {
+      "name": "1"
+    }
+  }
+}

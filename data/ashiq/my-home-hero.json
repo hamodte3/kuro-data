@@ -1,0 +1,690 @@
+{
+  "id": "my-home-hero",
+  "title": "My Home Hero",
+  "cover_url": "https://3asq.online/wp-content/uploads/2022/07/9264047-2847328301-81oQi.png",
+  "description": "من أجل أسرته ، يجب على رجل متوسط ​​العمر أن يتعارض مع عصابات الجريمة ، بكل الوسائل اللازمة.",
+  "type": "مانغا",
+  "status": "مكتمل",
+  "rating": "4.4",
+  "favorites": "94",
+  "genres": [
+    "100%",
+    "دراما",
+    "سينين"
+  ],
+  "is_novel": false,
+  "chapters": {
+    "https://3asq.online/manga/my-home-hero/224": {
+      "name": "224"
+    },
+    "https://3asq.online/manga/my-home-hero/223": {
+      "name": "223"
+    },
+    "https://3asq.online/manga/my-home-hero/222": {
+      "name": "222"
+    },
+    "https://3asq.online/manga/my-home-hero/221": {
+      "name": "221"
+    },
+    "https://3asq.online/manga/my-home-hero/220": {
+      "name": "220"
+    },
+    "https://3asq.online/manga/my-home-hero/219": {
+      "name": "219"
+    },
+    "https://3asq.online/manga/my-home-hero/218": {
+      "name": "218"
+    },
+    "https://3asq.online/manga/my-home-hero/217": {
+      "name": "217"
+    },
+    "https://3asq.online/manga/my-home-hero/216": {
+      "name": "216"
+    },
+    "https://3asq.online/manga/my-home-hero/215": {
+      "name": "215"
+    },
+    "https://3asq.online/manga/my-home-hero/214": {
+      "name": "214"
+    },
+    "https://3asq.online/manga/my-home-hero/213": {
+      "name": "213"
+    },
+    "https://3asq.online/manga/my-home-hero/212": {
+      "name": "212"
+    },
+    "https://3asq.online/manga/my-home-hero/211": {
+      "name": "211"
+    },
+    "https://3asq.online/manga/my-home-hero/210": {
+      "name": "210"
+    },
+    "https://3asq.online/manga/my-home-hero/209": {
+      "name": "209"
+    },
+    "https://3asq.online/manga/my-home-hero/208": {
+      "name": "208"
+    },
+    "https://3asq.online/manga/my-home-hero/207": {
+      "name": "207"
+    },
+    "https://3asq.online/manga/my-home-hero/206": {
+      "name": "206"
+    },
+    "https://3asq.online/manga/my-home-hero/205": {
+      "name": "205"
+    },
+    "https://3asq.online/manga/my-home-hero/204": {
+      "name": "204"
+    },
+    "https://3asq.online/manga/my-home-hero/203": {
+      "name": "203"
+    },
+    "https://3asq.online/manga/my-home-hero/202": {
+      "name": "202"
+    },
+    "https://3asq.online/manga/my-home-hero/201": {
+      "name": "201"
+    },
+    "https://3asq.online/manga/my-home-hero/200": {
+      "name": "200"
+    },
+    "https://3asq.online/manga/my-home-hero/199": {
+      "name": "199"
+    },
+    "https://3asq.online/manga/my-home-hero/198": {
+      "name": "198"
+    },
+    "https://3asq.online/manga/my-home-hero/197": {
+      "name": "197"
+    },
+    "https://3asq.online/manga/my-home-hero/196": {
+      "name": "196"
+    },
+    "https://3asq.online/manga/my-home-hero/195": {
+      "name": "195"
+    },
+    "https://3asq.online/manga/my-home-hero/194": {
+      "name": "194"
+    },
+    "https://3asq.online/manga/my-home-hero/193": {
+      "name": "193"
+    },
+    "https://3asq.online/manga/my-home-hero/192": {
+      "name": "192"
+    },
+    "https://3asq.online/manga/my-home-hero/191": {
+      "name": "191"
+    },
+    "https://3asq.online/manga/my-home-hero/190": {
+      "name": "190"
+    },
+    "https://3asq.online/manga/my-home-hero/189": {
+      "name": "189"
+    },
+    "https://3asq.online/manga/my-home-hero/188": {
+      "name": "188"
+    },
+    "https://3asq.online/manga/my-home-hero/187": {
+      "name": "187"
+    },
+    "https://3asq.online/manga/my-home-hero/186": {
+      "name": "186"
+    },
+    "https://3asq.online/manga/my-home-hero/185": {
+      "name": "185"
+    },
+    "https://3asq.online/manga/my-home-hero/184": {
+      "name": "184"
+    },
+    "https://3asq.online/manga/my-home-hero/183": {
+      "name": "183"
+    },
+    "https://3asq.online/manga/my-home-hero/182": {
+      "name": "182"
+    },
+    "https://3asq.online/manga/my-home-hero/181": {
+      "name": "181"
+    },
+    "https://3asq.online/manga/my-home-hero/180": {
+      "name": "180"
+    },
+    "https://3asq.online/manga/my-home-hero/179": {
+      "name": "179"
+    },
+    "https://3asq.online/manga/my-home-hero/178": {
+      "name": "178"
+    },
+    "https://3asq.online/manga/my-home-hero/177": {
+      "name": "177"
+    },
+    "https://3asq.online/manga/my-home-hero/176": {
+      "name": "176"
+    },
+    "https://3asq.online/manga/my-home-hero/175": {
+      "name": "175"
+    },
+    "https://3asq.online/manga/my-home-hero/174": {
+      "name": "174"
+    },
+    "https://3asq.online/manga/my-home-hero/173": {
+      "name": "173"
+    },
+    "https://3asq.online/manga/my-home-hero/172": {
+      "name": "172"
+    },
+    "https://3asq.online/manga/my-home-hero/171": {
+      "name": "171"
+    },
+    "https://3asq.online/manga/my-home-hero/170": {
+      "name": "170"
+    },
+    "https://3asq.online/manga/my-home-hero/169": {
+      "name": "169"
+    },
+    "https://3asq.online/manga/my-home-hero/168": {
+      "name": "168"
+    },
+    "https://3asq.online/manga/my-home-hero/167": {
+      "name": "167"
+    },
+    "https://3asq.online/manga/my-home-hero/166": {
+      "name": "166"
+    },
+    "https://3asq.online/manga/my-home-hero/165": {
+      "name": "165"
+    },
+    "https://3asq.online/manga/my-home-hero/164": {
+      "name": "164"
+    },
+    "https://3asq.online/manga/my-home-hero/163": {
+      "name": "163"
+    },
+    "https://3asq.online/manga/my-home-hero/162": {
+      "name": "162"
+    },
+    "https://3asq.online/manga/my-home-hero/161": {
+      "name": "161"
+    },
+    "https://3asq.online/manga/my-home-hero/160": {
+      "name": "160"
+    },
+    "https://3asq.online/manga/my-home-hero/159": {
+      "name": "159"
+    },
+    "https://3asq.online/manga/my-home-hero/158": {
+      "name": "158"
+    },
+    "https://3asq.online/manga/my-home-hero/157": {
+      "name": "157"
+    },
+    "https://3asq.online/manga/my-home-hero/156": {
+      "name": "156"
+    },
+    "https://3asq.online/manga/my-home-hero/155": {
+      "name": "155"
+    },
+    "https://3asq.online/manga/my-home-hero/154": {
+      "name": "154"
+    },
+    "https://3asq.online/manga/my-home-hero/153": {
+      "name": "153"
+    },
+    "https://3asq.online/manga/my-home-hero/152": {
+      "name": "152"
+    },
+    "https://3asq.online/manga/my-home-hero/151": {
+      "name": "151"
+    },
+    "https://3asq.online/manga/my-home-hero/150": {
+      "name": "150"
+    },
+    "https://3asq.online/manga/my-home-hero/149": {
+      "name": "149"
+    },
+    "https://3asq.online/manga/my-home-hero/148": {
+      "name": "148"
+    },
+    "https://3asq.online/manga/my-home-hero/147": {
+      "name": "147"
+    },
+    "https://3asq.online/manga/my-home-hero/146": {
+      "name": "146"
+    },
+    "https://3asq.online/manga/my-home-hero/145": {
+      "name": "145"
+    },
+    "https://3asq.online/manga/my-home-hero/144": {
+      "name": "144"
+    },
+    "https://3asq.online/manga/my-home-hero/143": {
+      "name": "143"
+    },
+    "https://3asq.online/manga/my-home-hero/142": {
+      "name": "142"
+    },
+    "https://3asq.online/manga/my-home-hero/141": {
+      "name": "141"
+    },
+    "https://3asq.online/manga/my-home-hero/140": {
+      "name": "140"
+    },
+    "https://3asq.online/manga/my-home-hero/139": {
+      "name": "139"
+    },
+    "https://3asq.online/manga/my-home-hero/138": {
+      "name": "138"
+    },
+    "https://3asq.online/manga/my-home-hero/137": {
+      "name": "137"
+    },
+    "https://3asq.online/manga/my-home-hero/136": {
+      "name": "136"
+    },
+    "https://3asq.online/manga/my-home-hero/135": {
+      "name": "135"
+    },
+    "https://3asq.online/manga/my-home-hero/134": {
+      "name": "134"
+    },
+    "https://3asq.online/manga/my-home-hero/133": {
+      "name": "133"
+    },
+    "https://3asq.online/manga/my-home-hero/132": {
+      "name": "132"
+    },
+    "https://3asq.online/manga/my-home-hero/131": {
+      "name": "131"
+    },
+    "https://3asq.online/manga/my-home-hero/130": {
+      "name": "130"
+    },
+    "https://3asq.online/manga/my-home-hero/129": {
+      "name": "129"
+    },
+    "https://3asq.online/manga/my-home-hero/128": {
+      "name": "128"
+    },
+    "https://3asq.online/manga/my-home-hero/127": {
+      "name": "127"
+    },
+    "https://3asq.online/manga/my-home-hero/126": {
+      "name": "126"
+    },
+    "https://3asq.online/manga/my-home-hero/125": {
+      "name": "125"
+    },
+    "https://3asq.online/manga/my-home-hero/124": {
+      "name": "124"
+    },
+    "https://3asq.online/manga/my-home-hero/123": {
+      "name": "123"
+    },
+    "https://3asq.online/manga/my-home-hero/122": {
+      "name": "122"
+    },
+    "https://3asq.online/manga/my-home-hero/121": {
+      "name": "121"
+    },
+    "https://3asq.online/manga/my-home-hero/120": {
+      "name": "120"
+    },
+    "https://3asq.online/manga/my-home-hero/119": {
+      "name": "119"
+    },
+    "https://3asq.online/manga/my-home-hero/118": {
+      "name": "118"
+    },
+    "https://3asq.online/manga/my-home-hero/117": {
+      "name": "117"
+    },
+    "https://3asq.online/manga/my-home-hero/116": {
+      "name": "116"
+    },
+    "https://3asq.online/manga/my-home-hero/115": {
+      "name": "115"
+    },
+    "https://3asq.online/manga/my-home-hero/114": {
+      "name": "114"
+    },
+    "https://3asq.online/manga/my-home-hero/113": {
+      "name": "113"
+    },
+    "https://3asq.online/manga/my-home-hero/112": {
+      "name": "112"
+    },
+    "https://3asq.online/manga/my-home-hero/111": {
+      "name": "111"
+    },
+    "https://3asq.online/manga/my-home-hero/110": {
+      "name": "110"
+    },
+    "https://3asq.online/manga/my-home-hero/109": {
+      "name": "109"
+    },
+    "https://3asq.online/manga/my-home-hero/108": {
+      "name": "108"
+    },
+    "https://3asq.online/manga/my-home-hero/107": {
+      "name": "107"
+    },
+    "https://3asq.online/manga/my-home-hero/106": {
+      "name": "106"
+    },
+    "https://3asq.online/manga/my-home-hero/105": {
+      "name": "105"
+    },
+    "https://3asq.online/manga/my-home-hero/104": {
+      "name": "104"
+    },
+    "https://3asq.online/manga/my-home-hero/103": {
+      "name": "103"
+    },
+    "https://3asq.online/manga/my-home-hero/102": {
+      "name": "102"
+    },
+    "https://3asq.online/manga/my-home-hero/101": {
+      "name": "101"
+    },
+    "https://3asq.online/manga/my-home-hero/100": {
+      "name": "100"
+    },
+    "https://3asq.online/manga/my-home-hero/99": {
+      "name": "99"
+    },
+    "https://3asq.online/manga/my-home-hero/98": {
+      "name": "98"
+    },
+    "https://3asq.online/manga/my-home-hero/97": {
+      "name": "97"
+    },
+    "https://3asq.online/manga/my-home-hero/96": {
+      "name": "96"
+    },
+    "https://3asq.online/manga/my-home-hero/95": {
+      "name": "95"
+    },
+    "https://3asq.online/manga/my-home-hero/94": {
+      "name": "94"
+    },
+    "https://3asq.online/manga/my-home-hero/93": {
+      "name": "93"
+    },
+    "https://3asq.online/manga/my-home-hero/92": {
+      "name": "92"
+    },
+    "https://3asq.online/manga/my-home-hero/91": {
+      "name": "91"
+    },
+    "https://3asq.online/manga/my-home-hero/90": {
+      "name": "90"
+    },
+    "https://3asq.online/manga/my-home-hero/89": {
+      "name": "89"
+    },
+    "https://3asq.online/manga/my-home-hero/88": {
+      "name": "88"
+    },
+    "https://3asq.online/manga/my-home-hero/87": {
+      "name": "87"
+    },
+    "https://3asq.online/manga/my-home-hero/86": {
+      "name": "86"
+    },
+    "https://3asq.online/manga/my-home-hero/85": {
+      "name": "85"
+    },
+    "https://3asq.online/manga/my-home-hero/84": {
+      "name": "84"
+    },
+    "https://3asq.online/manga/my-home-hero/83": {
+      "name": "83"
+    },
+    "https://3asq.online/manga/my-home-hero/82": {
+      "name": "82"
+    },
+    "https://3asq.online/manga/my-home-hero/81": {
+      "name": "81"
+    },
+    "https://3asq.online/manga/my-home-hero/80": {
+      "name": "80"
+    },
+    "https://3asq.online/manga/my-home-hero/79": {
+      "name": "79"
+    },
+    "https://3asq.online/manga/my-home-hero/78": {
+      "name": "78"
+    },
+    "https://3asq.online/manga/my-home-hero/77": {
+      "name": "77"
+    },
+    "https://3asq.online/manga/my-home-hero/76": {
+      "name": "76"
+    },
+    "https://3asq.online/manga/my-home-hero/75": {
+      "name": "75"
+    },
+    "https://3asq.online/manga/my-home-hero/74": {
+      "name": "74"
+    },
+    "https://3asq.online/manga/my-home-hero/73": {
+      "name": "73"
+    },
+    "https://3asq.online/manga/my-home-hero/72": {
+      "name": "72"
+    },
+    "https://3asq.online/manga/my-home-hero/71": {
+      "name": "71"
+    },
+    "https://3asq.online/manga/my-home-hero/70": {
+      "name": "70"
+    },
+    "https://3asq.online/manga/my-home-hero/69": {
+      "name": "69"
+    },
+    "https://3asq.online/manga/my-home-hero/68": {
+      "name": "68"
+    },
+    "https://3asq.online/manga/my-home-hero/67": {
+      "name": "67"
+    },
+    "https://3asq.online/manga/my-home-hero/66": {
+      "name": "66"
+    },
+    "https://3asq.online/manga/my-home-hero/65": {
+      "name": "65"
+    },
+    "https://3asq.online/manga/my-home-hero/64": {
+      "name": "64"
+    },
+    "https://3asq.online/manga/my-home-hero/63": {
+      "name": "63"
+    },
+    "https://3asq.online/manga/my-home-hero/62": {
+      "name": "62"
+    },
+    "https://3asq.online/manga/my-home-hero/61": {
+      "name": "61"
+    },
+    "https://3asq.online/manga/my-home-hero/60": {
+      "name": "60"
+    },
+    "https://3asq.online/manga/my-home-hero/59": {
+      "name": "59"
+    },
+    "https://3asq.online/manga/my-home-hero/58": {
+      "name": "58"
+    },
+    "https://3asq.online/manga/my-home-hero/57": {
+      "name": "57"
+    },
+    "https://3asq.online/manga/my-home-hero/56": {
+      "name": "56"
+    },
+    "https://3asq.online/manga/my-home-hero/55": {
+      "name": "55"
+    },
+    "https://3asq.online/manga/my-home-hero/54": {
+      "name": "54"
+    },
+    "https://3asq.online/manga/my-home-hero/53": {
+      "name": "53"
+    },
+    "https://3asq.online/manga/my-home-hero/52": {
+      "name": "52"
+    },
+    "https://3asq.online/manga/my-home-hero/51": {
+      "name": "51"
+    },
+    "https://3asq.online/manga/my-home-hero/50": {
+      "name": "50"
+    },
+    "https://3asq.online/manga/my-home-hero/49": {
+      "name": "49"
+    },
+    "https://3asq.online/manga/my-home-hero/48": {
+      "name": "48"
+    },
+    "https://3asq.online/manga/my-home-hero/47": {
+      "name": "47"
+    },
+    "https://3asq.online/manga/my-home-hero/46": {
+      "name": "46"
+    },
+    "https://3asq.online/manga/my-home-hero/45": {
+      "name": "45"
+    },
+    "https://3asq.online/manga/my-home-hero/44": {
+      "name": "44"
+    },
+    "https://3asq.online/manga/my-home-hero/43": {
+      "name": "43"
+    },
+    "https://3asq.online/manga/my-home-hero/42": {
+      "name": "42"
+    },
+    "https://3asq.online/manga/my-home-hero/41": {
+      "name": "41"
+    },
+    "https://3asq.online/manga/my-home-hero/40": {
+      "name": "40"
+    },
+    "https://3asq.online/manga/my-home-hero/39": {
+      "name": "39"
+    },
+    "https://3asq.online/manga/my-home-hero/38": {
+      "name": "38"
+    },
+    "https://3asq.online/manga/my-home-hero/37": {
+      "name": "37"
+    },
+    "https://3asq.online/manga/my-home-hero/36": {
+      "name": "36"
+    },
+    "https://3asq.online/manga/my-home-hero/35": {
+      "name": "35"
+    },
+    "https://3asq.online/manga/my-home-hero/34": {
+      "name": "34"
+    },
+    "https://3asq.online/manga/my-home-hero/33": {
+      "name": "33"
+    },
+    "https://3asq.online/manga/my-home-hero/32": {
+      "name": "32"
+    },
+    "https://3asq.online/manga/my-home-hero/31": {
+      "name": "31"
+    },
+    "https://3asq.online/manga/my-home-hero/30": {
+      "name": "30"
+    },
+    "https://3asq.online/manga/my-home-hero/29": {
+      "name": "29"
+    },
+    "https://3asq.online/manga/my-home-hero/28": {
+      "name": "28"
+    },
+    "https://3asq.online/manga/my-home-hero/27": {
+      "name": "27"
+    },
+    "https://3asq.online/manga/my-home-hero/26": {
+      "name": "26"
+    },
+    "https://3asq.online/manga/my-home-hero/25": {
+      "name": "25"
+    },
+    "https://3asq.online/manga/my-home-hero/24": {
+      "name": "24"
+    },
+    "https://3asq.online/manga/my-home-hero/23": {
+      "name": "23"
+    },
+    "https://3asq.online/manga/my-home-hero/22": {
+      "name": "22"
+    },
+    "https://3asq.online/manga/my-home-hero/21": {
+      "name": "21"
+    },
+    "https://3asq.online/manga/my-home-hero/20": {
+      "name": "20"
+    },
+    "https://3asq.online/manga/my-home-hero/19": {
+      "name": "19"
+    },
+    "https://3asq.online/manga/my-home-hero/18": {
+      "name": "18"
+    },
+    "https://3asq.online/manga/my-home-hero/17": {
+      "name": "17"
+    },
+    "https://3asq.online/manga/my-home-hero/16": {
+      "name": "16"
+    },
+    "https://3asq.online/manga/my-home-hero/15": {
+      "name": "15"
+    },
+    "https://3asq.online/manga/my-home-hero/14": {
+      "name": "14"
+    },
+    "https://3asq.online/manga/my-home-hero/13": {
+      "name": "13"
+    },
+    "https://3asq.online/manga/my-home-hero/12": {
+      "name": "12"
+    },
+    "https://3asq.online/manga/my-home-hero/11": {
+      "name": "11"
+    },
+    "https://3asq.online/manga/my-home-hero/10": {
+      "name": "10"
+    },
+    "https://3asq.online/manga/my-home-hero/9": {
+      "name": "9"
+    },
+    "https://3asq.online/manga/my-home-hero/8": {
+      "name": "8"
+    },
+    "https://3asq.online/manga/my-home-hero/7": {
+      "name": "7"
+    },
+    "https://3asq.online/manga/my-home-hero/6": {
+      "name": "6"
+    },
+    "https://3asq.online/manga/my-home-hero/5": {
+      "name": "5"
+    },
+    "https://3asq.online/manga/my-home-hero/4": {
+      "name": "4"
+    },
+    "https://3asq.online/manga/my-home-hero/3": {
+      "name": "3"
+    },
+    "https://3asq.online/manga/my-home-hero/2": {
+      "name": "2"
+    },
+    "https://3asq.online/manga/my-home-hero/1": {
+      "name": "1"
+    }
+  }
+}

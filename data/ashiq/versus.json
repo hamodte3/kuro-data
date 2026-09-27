@@ -1,0 +1,56 @@
+{
+  "id": "versus",
+  "title": "VERSUS",
+  "cover_url": "https://3asq.online/wp-content/uploads/2022/11/1689515889408.jpg",
+  "description": "لا يوجد وصف",
+  "type": "مانغا",
+  "status": "مستمر",
+  "rating": "4.3",
+  "favorites": "40",
+  "genres": [
+    "أكشن",
+    "خيال",
+    "شياطين",
+    "فنون قتالية",
+    "مأساة"
+  ],
+  "is_novel": false,
+  "chapters": {
+    "https://3asq.online/manga/versus/10-1": {
+      "name": "10.1"
+    },
+    "https://3asq.online/manga/versus/9-2": {
+      "name": "9.2"
+    },
+    "https://3asq.online/manga/versus/9-1": {
+      "name": "9.1"
+    },
+    "https://3asq.online/manga/versus/8": {
+      "name": "8"
+    },
+    "https://3asq.online/manga/versus/7": {
+      "name": "7"
+    },
+    "https://3asq.online/manga/versus/6": {
+      "name": "6"
+    },
+    "https://3asq.online/manga/versus/5-2": {
+      "name": "5.2"
+    },
+    "https://3asq.online/manga/versus/5-1": {
+      "name": "5.1"
+    },
+    "https://3asq.online/manga/versus/4": {
+      "name": "4"
+    },
+    "https://3asq.online/manga/versus/3": {
+      "name": "3"
+    },
+    "https://3asq.online/manga/versus/2": {
+      "name": "2"
+    },
+    "https://3asq.online/manga/versus/1": {
+      "name": "1"
+    }
+  }
+}

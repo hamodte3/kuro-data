@@ -1,0 +1,59 @@
+{
+  "id": "fairy-tail-zero",
+  "title": "Fairy Tail Zero",
+  "cover_url": "https://3asq.online/wp-content/uploads/2020/02/167384l.jpeg",
+  "description": "قصة جانبية لمانجا فيري تيل تحكي حياة الماستر الأولى لفيري تيل ميفيس فيرميليون وكيفية إلتقاءها بأصدقائها وتأسيس نقابة فيري تيل",
+  "type": "-",
+  "status": "مستمر",
+  "rating": "4.5",
+  "favorites": "2",
+  "genres": [
+    "خيال",
+    "شونين"
+  ],
+  "is_novel": false,
+  "chapters": {
+    "https://3asq.online/manga/fairy-tail-zero/13-5": {
+      "name": "13.5"
+    },
+    "https://3asq.online/manga/fairy-tail-zero/13": {
+      "name": "13"
+    },
+    "https://3asq.online/manga/fairy-tail-zero/12": {
+      "name": "12"
+    },
+    "https://3asq.online/manga/fairy-tail-zero/11": {
+      "name": "11"
+    },
+    "https://3asq.online/manga/fairy-tail-zero/10": {
+      "name": "10"
+    },
+    "https://3asq.online/manga/fairy-tail-zero/9": {
+      "name": "9"
+    },
+    "https://3asq.online/manga/fairy-tail-zero/8": {
+      "name": "8"
+    },
+    "https://3asq.online/manga/fairy-tail-zero/7": {
+      "name": "7"
+    },
+    "https://3asq.online/manga/fairy-tail-zero/6": {
+      "name": "6"
+    },
+    "https://3asq.online/manga/fairy-tail-zero/5": {
+      "name": "5"
+    },
+    "https://3asq.online/manga/fairy-tail-zero/4": {
+      "name": "4"
+    },
+    "https://3asq.online/manga/fairy-tail-zero/3": {
+      "name": "3"
+    },
+    "https://3asq.online/manga/fairy-tail-zero/2": {
+      "name": "2"
+    },
+    "https://3asq.online/manga/fairy-tail-zero/1": {
+      "name": "1"
+    }
+  }
+}

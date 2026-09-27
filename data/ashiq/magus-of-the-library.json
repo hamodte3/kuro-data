@@ -1,0 +1,31 @@
+{
+  "id": "magus-of-the-library",
+  "title": "Magus of the Library",
+  "cover_url": "https://3asq.online/wp-content/uploads/2023/11/غلاف-معرب-ماجوس-المكتبة-كافنا-الريح-1.jpg",
+  "description": "لا يوجد وصف",
+  "type": "مانغا",
+  "status": "مستمر",
+  "rating": "4.3",
+  "favorites": "10",
+  "genres": [
+    "خارق للطبيعة",
+    "خيال",
+    "شريحة من الحياة",
+    "مغامرة"
+  ],
+  "is_novel": false,
+  "chapters": {
+    "https://3asq.online/manga/magus-of-the-library/04": {
+      "name": "4"
+    },
+    "https://3asq.online/manga/magus-of-the-library/03": {
+      "name": "3"
+    },
+    "https://3asq.online/manga/magus-of-the-library/02": {
+      "name": "2"
+    },
+    "https://3asq.online/manga/magus-of-the-library/01": {
+      "name": "1"
+    }
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "id": "dr-stone-reboot-byakuya",
+  "title": "Dr.Stone reboot: Byakuya",
+  "cover_url": "https://3asq.online/wp-content/uploads/2019/10/Dr.S-Byakuya-V1.png",
+  "description": "لا يوجد وصف",
+  "type": "مانغا",
+  "status": "مكتمل",
+  "rating": "4.6",
+  "favorites": "22",
+  "genres": [
+    "3asq",
+    "خيال علمي",
+    "شونين",
+    "مغامرة"
+  ],
+  "is_novel": false,
+  "chapters": {
+    "https://3asq.online/manga/dr-stone-reboot-byakuya/9": {
+      "name": "9"
+    },
+    "https://3asq.online/manga/dr-stone-reboot-byakuya/8": {
+      "name": "8"
+    },
+    "https://3asq.online/manga/dr-stone-reboot-byakuya/7": {
+      "name": "7"
+    },
+    "https://3asq.online/manga/dr-stone-reboot-byakuya/6": {
+      "name": "6"
+    },
+    "https://3asq.online/manga/dr-stone-reboot-byakuya/5": {
+      "name": "5"
+    },
+    "https://3asq.online/manga/dr-stone-reboot-byakuya/4": {
+      "name": "4"
+    },
+    "https://3asq.online/manga/dr-stone-reboot-byakuya/3": {
+      "name": "3"
+    },
+    "https://3asq.online/manga/dr-stone-reboot-byakuya/2": {
+      "name": "2"
+    },
+    "https://3asq.online/manga/dr-stone-reboot-byakuya/1": {
+      "name": "1"
+    }
+  }
+}

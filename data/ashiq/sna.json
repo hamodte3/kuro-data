@@ -1,0 +1,23 @@
+{
+  "id": "sna",
+  "title": "Soukyuu no Ariadne",
+  "cover_url": "https://3asq.online/wp-content/uploads/2019/08/Soukyuu-no-Ariadne.jpg",
+  "description": "تتمحور المانجا عن فتى معين يعيش بعزلة مع جده في الجبال وبسبب هذا اصبح لديه حلم مميز،حتى يلتقي في يوم من الايام فتاة وحيدة فشاء القدر ان تتشابك طرقهما ويتوحد مصيرهما.",
+  "type": "مانغا",
+  "status": "مستمر",
+  "rating": "3.8",
+  "favorites": "1",
+  "genres": [
+    "أكشن",
+    "خيال علمي",
+    "شونين",
+    "قوى خارقة",
+    "مغامرة"
+  ],
+  "is_novel": false,
+  "chapters": {
+    "https://3asq.online/manga/sna/1": {
+      "name": "1"
+    }
+  }
+}

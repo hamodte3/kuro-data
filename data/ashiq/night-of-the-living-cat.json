@@ -1,0 +1,37 @@
+{
+  "id": "night-of-the-living-cat",
+  "title": "Night of the Living Cat",
+  "cover_url": "https://3asq.online/wp-content/uploads/2025/07/Night-of-the-Living-Cat-COVER-scaled.jpg",
+  "description": "انتشر فيروس عبر أرجاء الكوكب وتحولت البشرية جمعاء إلى مخلوقات برية مكسوّة بالفراء، ألا وهي القطط. والقلة الناجية التي بقيت على طبيعتها البشرية لجأت إلى الأركان المظلمة من الأرض أثناء كفاحها ضد الحشود القططية. رجل فاقد لذاكرته إلّا أنه ملمٌّ بمعرفة واسعة عن القطط يدعى كوناغي يحاول الحفاظ على رباطة جأشه معتمدًا على ذكائه ورغبته في العيش. لكن الفيروس ينتشر من خلال اللمس بينما كوناغي لا يقوى على مقاومة القطط! هل قوة عزيمته بما يكفي لتحمل هذه الكارثة القططية؟",
+  "type": "مانغا",
+  "status": "مستمر",
+  "rating": "5.0",
+  "favorites": "3",
+  "genres": [
+    "أكشن",
+    "خارق للطبيعة",
+    "خيال",
+    "خيال علمي",
+    "دراما",
+    "رعب",
+    "شونين",
+    "فلسفة",
+    "كوميديا",
+    "مغامرة"
+  ],
+  "is_novel": false,
+  "chapters": {
+    "https://3asq.online/manga/night-of-the-living-cat/4": {
+      "name": "4"
+    },
+    "https://3asq.online/manga/night-of-the-living-cat/3": {
+      "name": "3"
+    },
+    "https://3asq.online/manga/night-of-the-living-cat/2": {
+      "name": "2"
+    },
+    "https://3asq.online/manga/night-of-the-living-cat/1": {
+      "name": "1"
+    }
+  }
+}

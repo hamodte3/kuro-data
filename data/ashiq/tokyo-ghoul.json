@@ -1,0 +1,455 @@
+{
+  "id": "tokyo-ghoul",
+  "title": "Tokyo Ghoul",
+  "cover_url": "https://3asq.online/wp-content/uploads/2019/04/CDC.jpg",
+  "description": "لا يوجد وصف",
+  "type": "مانغا",
+  "status": "مكتمل",
+  "rating": "4.6",
+  "favorites": "418",
+  "genres": [
+    "100%",
+    "أكشن",
+    "خارق للطبيعة",
+    "دراما",
+    "رعب",
+    "سينين",
+    "علم نفس",
+    "غموض"
+  ],
+  "is_novel": false,
+  "chapters": {
+    "https://3asq.online/manga/tokyo-ghoul/143": {
+      "name": "143"
+    },
+    "https://3asq.online/manga/tokyo-ghoul/142": {
+      "name": "142"
+    },
+    "https://3asq.online/manga/tokyo-ghoul/141": {
+      "name": "141"
+    },
+    "https://3asq.online/manga/tokyo-ghoul/140": {
+      "name": "140"
+    },
+    "https://3asq.online/manga/tokyo-ghoul/139": {
+      "name": "139"
+    },
+    "https://3asq.online/manga/tokyo-ghoul/138": {
+      "name": "138"
+    },
+    "https://3asq.online/manga/tokyo-ghoul/137": {
+      "name": "137"
+    },
+    "https://3asq.online/manga/tokyo-ghoul/136": {
+      "name": "136"
+    },
+    "https://3asq.online/manga/tokyo-ghoul/135": {
+      "name": "135"
+    },
+    "https://3asq.online/manga/tokyo-ghoul/134": {
+      "name": "134"
+    },
+    "https://3asq.online/manga/tokyo-ghoul/133": {
+      "name": "133"
+    },
+    "https://3asq.online/manga/tokyo-ghoul/132": {
+      "name": "132"
+    },
+    "https://3asq.online/manga/tokyo-ghoul/131": {
+      "name": "131"
+    },
+    "https://3asq.online/manga/tokyo-ghoul/130": {
+      "name": "130"
+    },
+    "https://3asq.online/manga/tokyo-ghoul/129": {
+      "name": "129"
+    },
+    "https://3asq.online/manga/tokyo-ghoul/128": {
+      "name": "128"
+    },
+    "https://3asq.online/manga/tokyo-ghoul/127": {
+      "name": "127"
+    },
+    "https://3asq.online/manga/tokyo-ghoul/126": {
+      "name": "126"
+    },
+    "https://3asq.online/manga/tokyo-ghoul/125": {
+      "name": "125"
+    },
+    "https://3asq.online/manga/tokyo-ghoul/124": {
+      "name": "124"
+    },
+    "https://3asq.online/manga/tokyo-ghoul/123": {
+      "name": "123"
+    },
+    "https://3asq.online/manga/tokyo-ghoul/122": {
+      "name": "122"
+    },
+    "https://3asq.online/manga/tokyo-ghoul/121": {
+      "name": "121"
+    },
+    "https://3asq.online/manga/tokyo-ghoul/120": {
+      "name": "120"
+    },
+    "https://3asq.online/manga/tokyo-ghoul/119": {
+      "name": "119"
+    },
+    "https://3asq.online/manga/tokyo-ghoul/118": {
+      "name": "118"
+    },
+    "https://3asq.online/manga/tokyo-ghoul/117": {
+      "name": "117"
+    },
+    "https://3asq.online/manga/tokyo-ghoul/116": {
+      "name": "116"
+    },
+    "https://3asq.online/manga/tokyo-ghoul/115": {
+      "name": "115"
+    },
+    "https://3asq.online/manga/tokyo-ghoul/114": {
+      "name": "114"
+    },
+    "https://3asq.online/manga/tokyo-ghoul/113": {
+      "name": "113"
+    },
+    "https://3asq.online/manga/tokyo-ghoul/112": {
+      "name": "112"
+    },
+    "https://3asq.online/manga/tokyo-ghoul/111": {
+      "name": "111"
+    },
+    "https://3asq.online/manga/tokyo-ghoul/110": {
+      "name": "110"
+    },
+    "https://3asq.online/manga/tokyo-ghoul/109": {
+      "name": "109"
+    },
+    "https://3asq.online/manga/tokyo-ghoul/108": {
+      "name": "108"
+    },
+    "https://3asq.online/manga/tokyo-ghoul/107": {
+      "name": "107"
+    },
+    "https://3asq.online/manga/tokyo-ghoul/106": {
+      "name": "106"
+    },
+    "https://3asq.online/manga/tokyo-ghoul/105": {
+      "name": "105"
+    },
+    "https://3asq.online/manga/tokyo-ghoul/104": {
+      "name": "104"
+    },
+    "https://3asq.online/manga/tokyo-ghoul/103": {
+      "name": "103"
+    },
+    "https://3asq.online/manga/tokyo-ghoul/102": {
+      "name": "102"
+    },
+    "https://3asq.online/manga/tokyo-ghoul/101": {
+      "name": "101"
+    },
+    "https://3asq.online/manga/tokyo-ghoul/100": {
+      "name": "100"
+    },
+    "https://3asq.online/manga/tokyo-ghoul/99": {
+      "name": "99"
+    },
+    "https://3asq.online/manga/tokyo-ghoul/98": {
+      "name": "98"
+    },
+    "https://3asq.online/manga/tokyo-ghoul/97": {
+      "name": "97"
+    },
+    "https://3asq.online/manga/tokyo-ghoul/96": {
+      "name": "96"
+    },
+    "https://3asq.online/manga/tokyo-ghoul/95": {
+      "name": "95"
+    },
+    "https://3asq.online/manga/tokyo-ghoul/94": {
+      "name": "94"
+    },
+    "https://3asq.online/manga/tokyo-ghoul/93": {
+      "name": "93"
+    },
+    "https://3asq.online/manga/tokyo-ghoul/92": {
+      "name": "92"
+    },
+    "https://3asq.online/manga/tokyo-ghoul/91": {
+      "name": "91"
+    },
+    "https://3asq.online/manga/tokyo-ghoul/90": {
+      "name": "90"
+    },
+    "https://3asq.online/manga/tokyo-ghoul/89": {
+      "name": "89"
+    },
+    "https://3asq.online/manga/tokyo-ghoul/88": {
+      "name": "88"
+    },
+    "https://3asq.online/manga/tokyo-ghoul/87": {
+      "name": "87"
+    },
+    "https://3asq.online/manga/tokyo-ghoul/86": {
+      "name": "86"
+    },
+    "https://3asq.online/manga/tokyo-ghoul/85": {
+      "name": "85"
+    },
+    "https://3asq.online/manga/tokyo-ghoul/84": {
+      "name": "84"
+    },
+    "https://3asq.online/manga/tokyo-ghoul/83": {
+      "name": "83"
+    },
+    "https://3asq.online/manga/tokyo-ghoul/82": {
+      "name": "82"
+    },
+    "https://3asq.online/manga/tokyo-ghoul/81": {
+      "name": "81"
+    },
+    "https://3asq.online/manga/tokyo-ghoul/80": {
+      "name": "80"
+    },
+    "https://3asq.online/manga/tokyo-ghoul/79": {
+      "name": "79"
+    },
+    "https://3asq.online/manga/tokyo-ghoul/78": {
+      "name": "78"
+    },
+    "https://3asq.online/manga/tokyo-ghoul/77": {
+      "name": "77"
+    },
+    "https://3asq.online/manga/tokyo-ghoul/76": {
+      "name": "76"
+    },
+    "https://3asq.online/manga/tokyo-ghoul/75": {
+      "name": "75"
+    },
+    "https://3asq.online/manga/tokyo-ghoul/74": {
+      "name": "74"
+    },
+    "https://3asq.online/manga/tokyo-ghoul/73": {
+      "name": "73"
+    },
+    "https://3asq.online/manga/tokyo-ghoul/72": {
+      "name": "72"
+    },
+    "https://3asq.online/manga/tokyo-ghoul/71": {
+      "name": "71"
+    },
+    "https://3asq.online/manga/tokyo-ghoul/70": {
+      "name": "70"
+    },
+    "https://3asq.online/manga/tokyo-ghoul/69": {
+      "name": "69"
+    },
+    "https://3asq.online/manga/tokyo-ghoul/68": {
+      "name": "68"
+    },
+    "https://3asq.online/manga/tokyo-ghoul/67": {
+      "name": "67"
+    },
+    "https://3asq.online/manga/tokyo-ghoul/66": {
+      "name": "66"
+    },
+    "https://3asq.online/manga/tokyo-ghoul/65": {
+      "name": "65"
+    },
+    "https://3asq.online/manga/tokyo-ghoul/64": {
+      "name": "64"
+    },
+    "https://3asq.online/manga/tokyo-ghoul/63": {
+      "name": "63"
+    },
+    "https://3asq.online/manga/tokyo-ghoul/62": {
+      "name": "62"
+    },
+    "https://3asq.online/manga/tokyo-ghoul/61": {
+      "name": "61"
+    },
+    "https://3asq.online/manga/tokyo-ghoul/60": {
+      "name": "60"
+    },
+    "https://3asq.online/manga/tokyo-ghoul/59": {
+      "name": "59"
+    },
+    "https://3asq.online/manga/tokyo-ghoul/58": {
+      "name": "58"
+    },
+    "https://3asq.online/manga/tokyo-ghoul/57": {
+      "name": "57"
+    },
+    "https://3asq.online/manga/tokyo-ghoul/56": {
+      "name": "56"
+    },
+    "https://3asq.online/manga/tokyo-ghoul/55": {
+      "name": "55"
+    },
+    "https://3asq.online/manga/tokyo-ghoul/54": {
+      "name": "54"
+    },
+    "https://3asq.online/manga/tokyo-ghoul/53": {
+      "name": "53"
+    },
+    "https://3asq.online/manga/tokyo-ghoul/52": {
+      "name": "52"
+    },
+    "https://3asq.online/manga/tokyo-ghoul/51": {
+      "name": "51"
+    },
+    "https://3asq.online/manga/tokyo-ghoul/50": {
+      "name": "50"
+    },
+    "https://3asq.online/manga/tokyo-ghoul/49": {
+      "name": "49"
+    },
+    "https://3asq.online/manga/tokyo-ghoul/48": {
+      "name": "48"
+    },
+    "https://3asq.online/manga/tokyo-ghoul/47": {
+      "name": "47"
+    },
+    "https://3asq.online/manga/tokyo-ghoul/46-5": {
+      "name": "46.5"
+    },
+    "https://3asq.online/manga/tokyo-ghoul/46": {
+      "name": "46"
+    },
+    "https://3asq.online/manga/tokyo-ghoul/45": {
+      "name": "45"
+    },
+    "https://3asq.online/manga/tokyo-ghoul/44": {
+      "name": "44"
+    },
+    "https://3asq.online/manga/tokyo-ghoul/43": {
+      "name": "43"
+    },
+    "https://3asq.online/manga/tokyo-ghoul/42": {
+      "name": "42"
+    },
+    "https://3asq.online/manga/tokyo-ghoul/41": {
+      "name": "41"
+    },
+    "https://3asq.online/manga/tokyo-ghoul/40": {
+      "name": "40"
+    },
+    "https://3asq.online/manga/tokyo-ghoul/39": {
+      "name": "39"
+    },
+    "https://3asq.online/manga/tokyo-ghoul/38": {
+      "name": "38"
+    },
+    "https://3asq.online/manga/tokyo-ghoul/37": {
+      "name": "37"
+    },
+    "https://3asq.online/manga/tokyo-ghoul/36": {
+      "name": "36"
+    },
+    "https://3asq.online/manga/tokyo-ghoul/35": {
+      "name": "35"
+    },
+    "https://3asq.online/manga/tokyo-ghoul/34": {
+      "name": "34"
+    },
+    "https://3asq.online/manga/tokyo-ghoul/33": {
+      "name": "33"
+    },
+    "https://3asq.online/manga/tokyo-ghoul/32": {
+      "name": "32"
+    },
+    "https://3asq.online/manga/tokyo-ghoul/31": {
+      "name": "31"
+    },
+    "https://3asq.online/manga/tokyo-ghoul/30": {
+      "name": "30"
+    },
+    "https://3asq.online/manga/tokyo-ghoul/29": {
+      "name": "29"
+    },
+    "https://3asq.online/manga/tokyo-ghoul/28": {
+      "name": "28"
+    },
+    "https://3asq.online/manga/tokyo-ghoul/27": {
+      "name": "27"
+    },
+    "https://3asq.online/manga/tokyo-ghoul/26": {
+      "name": "26"
+    },
+    "https://3asq.online/manga/tokyo-ghoul/25": {
+      "name": "25"
+    },
+    "https://3asq.online/manga/tokyo-ghoul/24": {
+      "name": "24"
+    },
+    "https://3asq.online/manga/tokyo-ghoul/23": {
+      "name": "23"
+    },
+    "https://3asq.online/manga/tokyo-ghoul/22": {
+      "name": "22"
+    },
+    "https://3asq.online/manga/tokyo-ghoul/21": {
+      "name": "21"
+    },
+    "https://3asq.online/manga/tokyo-ghoul/20": {
+      "name": "20"
+    },
+    "https://3asq.online/manga/tokyo-ghoul/19": {
+      "name": "19"
+    },
+    "https://3asq.online/manga/tokyo-ghoul/18": {
+      "name": "18"
+    },
+    "https://3asq.online/manga/tokyo-ghoul/17": {
+      "name": "17"
+    },
+    "https://3asq.online/manga/tokyo-ghoul/16": {
+      "name": "16"
+    },
+    "https://3asq.online/manga/tokyo-ghoul/15": {
+      "name": "15"
+    },
+    "https://3asq.online/manga/tokyo-ghoul/14": {
+      "name": "14"
+    },
+    "https://3asq.online/manga/tokyo-ghoul/13": {
+      "name": "13"
+    },
+    "https://3asq.online/manga/tokyo-ghoul/12": {
+      "name": "12"
+    },
+    "https://3asq.online/manga/tokyo-ghoul/11": {
+      "name": "11"
+    },
+    "https://3asq.online/manga/tokyo-ghoul/10": {
+      "name": "10"
+    },
+    "https://3asq.online/manga/tokyo-ghoul/9": {
+      "name": "9"
+    },
+    "https://3asq.online/manga/tokyo-ghoul/8": {
+      "name": "8"
+    },
+    "https://3asq.online/manga/tokyo-ghoul/7": {
+      "name": "7"
+    },
+    "https://3asq.online/manga/tokyo-ghoul/6": {
+      "name": "6"
+    },
+    "https://3asq.online/manga/tokyo-ghoul/5": {
+      "name": "5"
+    },
+    "https://3asq.online/manga/tokyo-ghoul/4": {
+      "name": "4"
+    },
+    "https://3asq.online/manga/tokyo-ghoul/3": {
+      "name": "3"
+    },
+    "https://3asq.online/manga/tokyo-ghoul/2": {
+      "name": "2"
+    },
+    "https://3asq.online/manga/tokyo-ghoul/1": {
+      "name": "1"
+    }
+  }
+}

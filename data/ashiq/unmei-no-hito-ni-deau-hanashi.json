@@ -1,0 +1,42 @@
+{
+  "id": "unmei-no-hito-ni-deau-hanashi",
+  "title": "Unmei no hito ni deau hanashi",
+  "cover_url": "https://3asq.online/wp-content/uploads/2021/06/03.jpg",
+  "description": "لا يوجد وصف",
+  "type": "مانغا",
+  "status": "مستمر",
+  "rating": "4.1",
+  "favorites": "33",
+  "genres": [
+    "رومانسية",
+    "شريحة من الحياة",
+    "شوجو"
+  ],
+  "is_novel": false,
+  "chapters": {
+    "https://3asq.online/manga/unmei-no-hito-ni-deau-hanashi/9": {
+      "name": "9"
+    },
+    "https://3asq.online/manga/unmei-no-hito-ni-deau-hanashi/6-2": {
+      "name": "6.2"
+    },
+    "https://3asq.online/manga/unmei-no-hito-ni-deau-hanashi/6-1": {
+      "name": "6.1"
+    },
+    "https://3asq.online/manga/unmei-no-hito-ni-deau-hanashi/5": {
+      "name": "5"
+    },
+    "https://3asq.online/manga/unmei-no-hito-ni-deau-hanashi/4": {
+      "name": "4"
+    },
+    "https://3asq.online/manga/unmei-no-hito-ni-deau-hanashi/3": {
+      "name": "3"
+    },
+    "https://3asq.online/manga/unmei-no-hito-ni-deau-hanashi/2": {
+      "name": "2"
+    },
+    "https://3asq.online/manga/unmei-no-hito-ni-deau-hanashi/1": {
+      "name": "1"
+    }
+  }
+}

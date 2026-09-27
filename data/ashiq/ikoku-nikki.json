@@ -1,0 +1,48 @@
+{
+  "id": "ikoku-nikki",
+  "title": "Ikoku Nikki",
+  "cover_url": "https://3asq.online/wp-content/uploads/2026/07/03231151-4595-444e-8dd7-1f6840caff0b.jpg",
+  "description": "ماكيو كوداي (35 عامًا)، روائية، لم تستطع تحمّل رؤية ابنة أختها آسا (15 عامًا) تُنقَل بين أقاربها خلال جنازة أختها وزوجها، فقررت، بدافع اللحظة، أن تتكفل برعايتها.\nلكن بعدما اصطحبت ابنة أختها إلى منزلها، استعادت رشدها في اليوم التالي، وسرعان ما عادت إليها طبيعتها الخجولة. فقد نسيت ماكيو تمامًا مدى عدم ملاءمتها للعيش مع شخص آخر.\nأما آسا، فعلى العكس، فهي ليست خجولة، وتوافق على العيش مع ماكيو، ذلك “البالغة التي لا تشبه البالغين”، بطريقة غير مألوفة، لكنها صادقة وبسيطة.\nهذه هي حكاية عالمين متناقضين تمامًا، يحاولان، بتردد وارتباك، أن يتواصلا ويتقاربا.",
+  "type": "مانغا",
+  "status": "مكتمل",
+  "rating": "4.0",
+  "favorites": "3",
+  "genres": [
+    "رومانسية",
+    "كوميديا",
+    "نفسي"
+  ],
+  "is_novel": false,
+  "chapters": {
+    "https://3asq.online/manga/ikoku-nikki/10": {
+      "name": "10"
+    },
+    "https://3asq.online/manga/ikoku-nikki/9": {
+      "name": "9"
+    },
+    "https://3asq.online/manga/ikoku-nikki/8": {
+      "name": "8"
+    },
+    "https://3asq.online/manga/ikoku-nikki/7": {
+      "name": "7"
+    },
+    "https://3asq.online/manga/ikoku-nikki/6": {
+      "name": "6"
+    },
+    "https://3asq.online/manga/ikoku-nikki/5": {
+      "name": "5"
+    },
+    "https://3asq.online/manga/ikoku-nikki/4": {
+      "name": "4"
+    },
+    "https://3asq.online/manga/ikoku-nikki/3": {
+      "name": "3"
+    },
+    "https://3asq.online/manga/ikoku-nikki/2": {
+      "name": "2"
+    },
+    "https://3asq.online/manga/ikoku-nikki/1": {
+      "name": "1"
+    }
+  }
+}

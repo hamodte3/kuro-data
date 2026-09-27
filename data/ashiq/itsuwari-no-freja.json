@@ -1,0 +1,29 @@
+{
+  "id": "itsuwari-no-freja",
+  "title": "Itsuwari no Freja",
+  "cover_url": "https://3asq.online/wp-content/uploads/2020/02/208596l.jpeg",
+  "description": "تعيش فريا ببيت صغير داخل قرية تابعة لدولة تيير المهدّدة بالغزو، يعود ارون واليكسس الفارسان اللذان قد رحلا صوبَ المملكة قبل ثلاثة أعوام،\nفكيف سيكونُ مصير فريا؟",
+  "type": "مانغا",
+  "status": "مستمر",
+  "rating": "3.4",
+  "favorites": "6",
+  "genres": [
+    "تاريخ",
+    "شوجو"
+  ],
+  "is_novel": false,
+  "chapters": {
+    "https://3asq.online/manga/itsuwari-no-freja/4": {
+      "name": "4"
+    },
+    "https://3asq.online/manga/itsuwari-no-freja/3": {
+      "name": "3"
+    },
+    "https://3asq.online/manga/itsuwari-no-freja/2": {
+      "name": "2"
+    },
+    "https://3asq.online/manga/itsuwari-no-freja/1": {
+      "name": "1"
+    }
+  }
+}

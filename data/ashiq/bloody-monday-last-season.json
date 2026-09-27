@@ -1,0 +1,25 @@
+{
+  "id": "bloody-monday-last-season",
+  "title": "Bloody monday Last season",
+  "cover_url": "https://3asq.online/wp-content/uploads/2019/04/185386l.jpg",
+  "description": "لا يوجد وصف",
+  "type": "-",
+  "status": "مستمر",
+  "rating": "3.0",
+  "favorites": "3",
+  "genres": [
+    "أكشن",
+    "خارق للطبيعة",
+    "دراما",
+    "شونين"
+  ],
+  "is_novel": false,
+  "chapters": {
+    "https://3asq.online/manga/bloody-monday-last-season/2": {
+      "name": "2"
+    },
+    "https://3asq.online/manga/bloody-monday-last-season/1": {
+      "name": "1"
+    }
+  }
+}

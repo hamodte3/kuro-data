@@ -1,0 +1,51 @@
+{
+  "id": "heros",
+  "title": "HERO’S",
+  "cover_url": "https://3asq.online/wp-content/uploads/2019/10/EUgKHBSU4AAULLt.png",
+  "description": "مانجا قصيرة تجمع بين شخصيات Fairy Tail و Rave Master و Edens Zero",
+  "type": "مانغا",
+  "status": "مكتمل",
+  "rating": "4.5",
+  "favorites": "32",
+  "genres": [
+    "3asq",
+    "إيتشي",
+    "شونين",
+    "قوى خارقة",
+    "كوميديا",
+    "مغامرة"
+  ],
+  "is_novel": false,
+  "chapters": {
+    "https://3asq.online/manga/heros/10": {
+      "name": "10"
+    },
+    "https://3asq.online/manga/heros/9": {
+      "name": "9"
+    },
+    "https://3asq.online/manga/heros/8": {
+      "name": "8"
+    },
+    "https://3asq.online/manga/heros/7": {
+      "name": "7"
+    },
+    "https://3asq.online/manga/heros/6": {
+      "name": "6"
+    },
+    "https://3asq.online/manga/heros/5": {
+      "name": "5"
+    },
+    "https://3asq.online/manga/heros/4": {
+      "name": "4"
+    },
+    "https://3asq.online/manga/heros/3": {
+      "name": "3"
+    },
+    "https://3asq.online/manga/heros/2": {
+      "name": "2"
+    },
+    "https://3asq.online/manga/heros/1": {
+      "name": "1"
+    }
+  }
+}

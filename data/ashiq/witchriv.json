@@ -1,0 +1,82 @@
+{
+  "id": "witchriv",
+  "title": "WITCHRIV",
+  "cover_url": "https://3asq.online/wp-content/uploads/2026/01/غلاف-المجلد-الثالث-معرب.jpg",
+  "description": "لا يوجد وصف",
+  "type": "مانغا",
+  "status": "مستمر",
+  "rating": "4.3",
+  "favorites": "18",
+  "genres": [
+    "أكشن",
+    "خارق للطبيعة",
+    "دراما",
+    "شونين"
+  ],
+  "is_novel": false,
+  "chapters": {
+    "https://3asq.online/manga/witchriv/18-5": {
+      "name": "18.5"
+    },
+    "https://3asq.online/manga/witchriv/18": {
+      "name": "18"
+    },
+    "https://3asq.online/manga/witchriv/17": {
+      "name": "17"
+    },
+    "https://3asq.online/manga/witchriv/16": {
+      "name": "16"
+    },
+    "https://3asq.online/manga/witchriv/15": {
+      "name": "15"
+    },
+    "https://3asq.online/manga/witchriv/14": {
+      "name": "14"
+    },
+    "https://3asq.online/manga/witchriv/13": {
+      "name": "13"
+    },
+    "https://3asq.online/manga/witchriv/12": {
+      "name": "12"
+    },
+    "https://3asq.online/manga/witchriv/11-5": {
+      "name": "11.5"
+    },
+    "https://3asq.online/manga/witchriv/11": {
+      "name": "11"
+    },
+    "https://3asq.online/manga/witchriv/10": {
+      "name": "10"
+    },
+    "https://3asq.online/manga/witchriv/09": {
+      "name": "9"
+    },
+    "https://3asq.online/manga/witchriv/08": {
+      "name": "8"
+    },
+    "https://3asq.online/manga/witchriv/07": {
+      "name": "7"
+    },
+    "https://3asq.online/manga/witchriv/06": {
+      "name": "6"
+    },
+    "https://3asq.online/manga/witchriv/05": {
+      "name": "5"
+    },
+    "https://3asq.online/manga/witchriv/04": {
+      "name": "4"
+    },
+    "https://3asq.online/manga/witchriv/3-5": {
+      "name": "3.5"
+    },
+    "https://3asq.online/manga/witchriv/03": {
+      "name": "3"
+    },
+    "https://3asq.online/manga/witchriv/02": {
+      "name": "2"
+    },
+    "https://3asq.online/manga/witchriv/01": {
+      "name": "1"
+    }
+  }
+}

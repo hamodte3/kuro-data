@@ -1,0 +1,24 @@
+{
+  "id": "attack-on-titan-no-requiem",
+  "title": "Attack on Titan no Requiem",
+  "cover_url": "https://3asq.online/wp-content/uploads/2021/05/E2mcbS4XwAA31Qp.jpg",
+  "description": "لا يوجد وصف",
+  "type": "دوجينشي",
+  "status": "مستمر",
+  "rating": "4.4",
+  "favorites": "28",
+  "genres": [
+    "أكشن",
+    "خارق للطبيعة",
+    "خيال",
+    "دراما",
+    "رعب",
+    "سينين"
+  ],
+  "is_novel": false,
+  "chapters": {
+    "https://3asq.online/manga/attack-on-titan-no-requiem/1": {
+      "name": "1"
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "clear-color",
+  "title": "clear color",
+  "cover_url": "https://3asq.online/wp-content/uploads/2019/08/1-1.jpg",
+  "description": "لا يوجد وصف",
+  "type": "ونشوت",
+  "status": "مكتمل",
+  "rating": "2.9",
+  "favorites": "2",
+  "genres": [
+    "شوجو",
+    "مدرسة"
+  ],
+  "is_novel": false,
+  "chapters": {
+    "https://3asq.online/manga/clear-color/1": {
+      "name": "1"
+    }
+  }
+}

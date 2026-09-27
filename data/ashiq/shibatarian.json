@@ -1,0 +1,22 @@
+{
+  "id": "shibatarian",
+  "title": "Shibatarian",
+  "cover_url": "https://3asq.online/wp-content/uploads/2024/01/313702-1.jpg",
+  "description": "قصة لشيباتا عن شيباتا من قبل شيباتا",
+  "type": "مانغا",
+  "status": "مستمر",
+  "rating": "4.3",
+  "favorites": "10",
+  "genres": [
+    "100%",
+    "رعب",
+    "غموض",
+    "مأساة"
+  ],
+  "is_novel": false,
+  "chapters": {
+    "https://3asq.online/manga/shibatarian/1": {
+      "name": "1"
+    }
+  }
+}

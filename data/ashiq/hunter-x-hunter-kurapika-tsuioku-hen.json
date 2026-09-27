@@ -1,0 +1,25 @@
+{
+  "id": "hunter-x-hunter-kurapika-tsuioku-hen",
+  "title": "Hunter x Hunter: Kurapika Tsuioku-hen",
+  "cover_url": "https://3asq.online/wp-content/uploads/2019/07/01-1.jpg",
+  "description": "ونشوت خاص يحكي جزءًا من طفولة كورابيكا ضمن عشيرة كوروتا",
+  "type": "ون-شوت",
+  "status": "مكتمل",
+  "rating": "4.4",
+  "favorites": "49",
+  "genres": [
+    "100%",
+    "خيال",
+    "شونين",
+    "مغامرة"
+  ],
+  "is_novel": false,
+  "chapters": {
+    "https://3asq.online/manga/hunter-x-hunter-kurapika-tsuioku-hen/2": {
+      "name": "2"
+    },
+    "https://3asq.online/manga/hunter-x-hunter-kurapika-tsuioku-hen/1": {
+      "name": "1"
+    }
+  }
+}

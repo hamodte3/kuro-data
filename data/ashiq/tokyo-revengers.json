@@ -1,0 +1,631 @@
+{
+  "id": "tokyo-revengers",
+  "title": "Tokyo Revengers",
+  "cover_url": "https://3asq.online/wp-content/uploads/2021/09/1-scaled.jpg",
+  "description": "لا يوجد وصف",
+  "type": "مانغا",
+  "status": "مستمر",
+  "rating": "4.5",
+  "favorites": "74",
+  "genres": [
+    "أكشن",
+    "دراما",
+    "رومانسية",
+    "شونين"
+  ],
+  "is_novel": false,
+  "chapters": {
+    "https://3asq.online/manga/tokyo-revengers/278": {
+      "name": "278"
+    },
+    "https://3asq.online/manga/tokyo-revengers/277": {
+      "name": "277"
+    },
+    "https://3asq.online/manga/tokyo-revengers/276": {
+      "name": "276"
+    },
+    "https://3asq.online/manga/tokyo-revengers/275": {
+      "name": "275"
+    },
+    "https://3asq.online/manga/tokyo-revengers/274": {
+      "name": "274"
+    },
+    "https://3asq.online/manga/tokyo-revengers/273": {
+      "name": "273"
+    },
+    "https://3asq.online/manga/tokyo-revengers/272": {
+      "name": "272"
+    },
+    "https://3asq.online/manga/tokyo-revengers/271": {
+      "name": "271"
+    },
+    "https://3asq.online/manga/tokyo-revengers/270": {
+      "name": "270"
+    },
+    "https://3asq.online/manga/tokyo-revengers/269": {
+      "name": "269"
+    },
+    "https://3asq.online/manga/tokyo-revengers/268": {
+      "name": "268"
+    },
+    "https://3asq.online/manga/tokyo-revengers/267": {
+      "name": "267"
+    },
+    "https://3asq.online/manga/tokyo-revengers/266": {
+      "name": "266"
+    },
+    "https://3asq.online/manga/tokyo-revengers/265": {
+      "name": "265"
+    },
+    "https://3asq.online/manga/tokyo-revengers/264": {
+      "name": "264"
+    },
+    "https://3asq.online/manga/tokyo-revengers/263": {
+      "name": "263"
+    },
+    "https://3asq.online/manga/tokyo-revengers/262": {
+      "name": "262"
+    },
+    "https://3asq.online/manga/tokyo-revengers/261": {
+      "name": "261"
+    },
+    "https://3asq.online/manga/tokyo-revengers/260": {
+      "name": "260"
+    },
+    "https://3asq.online/manga/tokyo-revengers/259": {
+      "name": "259"
+    },
+    "https://3asq.online/manga/tokyo-revengers/258": {
+      "name": "258"
+    },
+    "https://3asq.online/manga/tokyo-revengers/257": {
+      "name": "257"
+    },
+    "https://3asq.online/manga/tokyo-revengers/256": {
+      "name": "256"
+    },
+    "https://3asq.online/manga/tokyo-revengers/255": {
+      "name": "255"
+    },
+    "https://3asq.online/manga/tokyo-revengers/254": {
+      "name": "254"
+    },
+    "https://3asq.online/manga/tokyo-revengers/253": {
+      "name": "253"
+    },
+    "https://3asq.online/manga/tokyo-revengers/252": {
+      "name": "252"
+    },
+    "https://3asq.online/manga/tokyo-revengers/251": {
+      "name": "251"
+    },
+    "https://3asq.online/manga/tokyo-revengers/250": {
+      "name": "250"
+    },
+    "https://3asq.online/manga/tokyo-revengers/249": {
+      "name": "249"
+    },
+    "https://3asq.online/manga/tokyo-revengers/248": {
+      "name": "248"
+    },
+    "https://3asq.online/manga/tokyo-revengers/247": {
+      "name": "247"
+    },
+    "https://3asq.online/manga/tokyo-revengers/246": {
+      "name": "246"
+    },
+    "https://3asq.online/manga/tokyo-revengers/245": {
+      "name": "245"
+    },
+    "https://3asq.online/manga/tokyo-revengers/244": {
+      "name": "244"
+    },
+    "https://3asq.online/manga/tokyo-revengers/243": {
+      "name": "243"
+    },
+    "https://3asq.online/manga/tokyo-revengers/242": {
+      "name": "242"
+    },
+    "https://3asq.online/manga/tokyo-revengers/241": {
+      "name": "241"
+    },
+    "https://3asq.online/manga/tokyo-revengers/240": {
+      "name": "240"
+    },
+    "https://3asq.online/manga/tokyo-revengers/239": {
+      "name": "239"
+    },
+    "https://3asq.online/manga/tokyo-revengers/238": {
+      "name": "238"
+    },
+    "https://3asq.online/manga/tokyo-revengers/237": {
+      "name": "237"
+    },
+    "https://3asq.online/manga/tokyo-revengers/236": {
+      "name": "236"
+    },
+    "https://3asq.online/manga/tokyo-revengers/235": {
+      "name": "235"
+    },
+    "https://3asq.online/manga/tokyo-revengers/234": {
+      "name": "234"
+    },
+    "https://3asq.online/manga/tokyo-revengers/233": {
+      "name": "233"
+    },
+    "https://3asq.online/manga/tokyo-revengers/232": {
+      "name": "232"
+    },
+    "https://3asq.online/manga/tokyo-revengers/231": {
+      "name": "231"
+    },
+    "https://3asq.online/manga/tokyo-revengers/230": {
+      "name": "230"
+    },
+    "https://3asq.online/manga/tokyo-revengers/229": {
+      "name": "229"
+    },
+    "https://3asq.online/manga/tokyo-revengers/228": {
+      "name": "228"
+    },
+    "https://3asq.online/manga/tokyo-revengers/227": {
+      "name": "227"
+    },
+    "https://3asq.online/manga/tokyo-revengers/226": {
+      "name": "226"
+    },
+    "https://3asq.online/manga/tokyo-revengers/225": {
+      "name": "225"
+    },
+    "https://3asq.online/manga/tokyo-revengers/224": {
+      "name": "224"
+    },
+    "https://3asq.online/manga/tokyo-revengers/223": {
+      "name": "223"
+    },
+    "https://3asq.online/manga/tokyo-revengers/222": {
+      "name": "222"
+    },
+    "https://3asq.online/manga/tokyo-revengers/221": {
+      "name": "221"
+    },
+    "https://3asq.online/manga/tokyo-revengers/220": {
+      "name": "220"
+    },
+    "https://3asq.online/manga/tokyo-revengers/219": {
+      "name": "219"
+    },
+    "https://3asq.online/manga/tokyo-revengers/218": {
+      "name": "218"
+    },
+    "https://3asq.online/manga/tokyo-revengers/217": {
+      "name": "217"
+    },
+    "https://3asq.online/manga/tokyo-revengers/216": {
+      "name": "216"
+    },
+    "https://3asq.online/manga/tokyo-revengers/215": {
+      "name": "215"
+    },
+    "https://3asq.online/manga/tokyo-revengers/214": {
+      "name": "214"
+    },
+    "https://3asq.online/manga/tokyo-revengers/213": {
+      "name": "213"
+    },
+    "https://3asq.online/manga/tokyo-revengers/212": {
+      "name": "212"
+    },
+    "https://3asq.online/manga/tokyo-revengers/211": {
+      "name": "211"
+    },
+    "https://3asq.online/manga/tokyo-revengers/210": {
+      "name": "210"
+    },
+    "https://3asq.online/manga/tokyo-revengers/209": {
+      "name": "209"
+    },
+    "https://3asq.online/manga/tokyo-revengers/208": {
+      "name": "208"
+    },
+    "https://3asq.online/manga/tokyo-revengers/207": {
+      "name": "207"
+    },
+    "https://3asq.online/manga/tokyo-revengers/206": {
+      "name": "206"
+    },
+    "https://3asq.online/manga/tokyo-revengers/205": {
+      "name": "205"
+    },
+    "https://3asq.online/manga/tokyo-revengers/n-a": {
+      "name": "204"
+    },
+    "https://3asq.online/manga/tokyo-revengers/203": {
+      "name": "203"
+    },
+    "https://3asq.online/manga/tokyo-revengers/202": {
+      "name": "202"
+    },
+    "https://3asq.online/manga/tokyo-revengers/201": {
+      "name": "201"
+    },
+    "https://3asq.online/manga/tokyo-revengers/200": {
+      "name": "200"
+    },
+    "https://3asq.online/manga/tokyo-revengers/199": {
+      "name": "199"
+    },
+    "https://3asq.online/manga/tokyo-revengers/198": {
+      "name": "198"
+    },
+    "https://3asq.online/manga/tokyo-revengers/197": {
+      "name": "197"
+    },
+    "https://3asq.online/manga/tokyo-revengers/196": {
+      "name": "196"
+    },
+    "https://3asq.online/manga/tokyo-revengers/195": {
+      "name": "195"
+    },
+    "https://3asq.online/manga/tokyo-revengers/194": {
+      "name": "194"
+    },
+    "https://3asq.online/manga/tokyo-revengers/193": {
+      "name": "193"
+    },
+    "https://3asq.online/manga/tokyo-revengers/192": {
+      "name": "192"
+    },
+    "https://3asq.online/manga/tokyo-revengers/191": {
+      "name": "191"
+    },
+    "https://3asq.online/manga/tokyo-revengers/190": {
+      "name": "190"
+    },
+    "https://3asq.online/manga/tokyo-revengers/189": {
+      "name": "189"
+    },
+    "https://3asq.online/manga/tokyo-revengers/188": {
+      "name": "188"
+    },
+    "https://3asq.online/manga/tokyo-revengers/187": {
+      "name": "187"
+    },
+    "https://3asq.online/manga/tokyo-revengers/186": {
+      "name": "186"
+    },
+    "https://3asq.online/manga/tokyo-revengers/185": {
+      "name": "185"
+    },
+    "https://3asq.online/manga/tokyo-revengers/184": {
+      "name": "184"
+    },
+    "https://3asq.online/manga/tokyo-revengers/183": {
+      "name": "183"
+    },
+    "https://3asq.online/manga/tokyo-revengers/182": {
+      "name": "182"
+    },
+    "https://3asq.online/manga/tokyo-revengers/181": {
+      "name": "181"
+    },
+    "https://3asq.online/manga/tokyo-revengers/180": {
+      "name": "180"
+    },
+    "https://3asq.online/manga/tokyo-revengers/179": {
+      "name": "179"
+    },
+    "https://3asq.online/manga/tokyo-revengers/178": {
+      "name": "178"
+    },
+    "https://3asq.online/manga/tokyo-revengers/177": {
+      "name": "177"
+    },
+    "https://3asq.online/manga/tokyo-revengers/176": {
+      "name": "176"
+    },
+    "https://3asq.online/manga/tokyo-revengers/175": {
+      "name": "175"
+    },
+    "https://3asq.online/manga/tokyo-revengers/174": {
+      "name": "174"
+    },
+    "https://3asq.online/manga/tokyo-revengers/173": {
+      "name": "173"
+    },
+    "https://3asq.online/manga/tokyo-revengers/172": {
+      "name": "172"
+    },
+    "https://3asq.online/manga/tokyo-revengers/171": {
+      "name": "171"
+    },
+    "https://3asq.online/manga/tokyo-revengers/170": {
+      "name": "170"
+    },
+    "https://3asq.online/manga/tokyo-revengers/169": {
+      "name": "169"
+    },
+    "https://3asq.online/manga/tokyo-revengers/168": {
+      "name": "168"
+    },
+    "https://3asq.online/manga/tokyo-revengers/167": {
+      "name": "167"
+    },
+    "https://3asq.online/manga/tokyo-revengers/166": {
+      "name": "166"
+    },
+    "https://3asq.online/manga/tokyo-revengers/165": {
+      "name": "165"
+    },
+    "https://3asq.online/manga/tokyo-revengers/164": {
+      "name": "164"
+    },
+    "https://3asq.online/manga/tokyo-revengers/163": {
+      "name": "163"
+    },
+    "https://3asq.online/manga/tokyo-revengers/162": {
+      "name": "162"
+    },
+    "https://3asq.online/manga/tokyo-revengers/161": {
+      "name": "161"
+    },
+    "https://3asq.online/manga/tokyo-revengers/160": {
+      "name": "160"
+    },
+    "https://3asq.online/manga/tokyo-revengers/159": {
+      "name": "159"
+    },
+    "https://3asq.online/manga/tokyo-revengers/158": {
+      "name": "158"
+    },
+    "https://3asq.online/manga/tokyo-revengers/157": {
+      "name": "157"
+    },
+    "https://3asq.online/manga/tokyo-revengers/156": {
+      "name": "156"
+    },
+    "https://3asq.online/manga/tokyo-revengers/155": {
+      "name": "155"
+    },
+    "https://3asq.online/manga/tokyo-revengers/154": {
+      "name": "154"
+    },
+    "https://3asq.online/manga/tokyo-revengers/153": {
+      "name": "153"
+    },
+    "https://3asq.online/manga/tokyo-revengers/152": {
+      "name": "152"
+    },
+    "https://3asq.online/manga/tokyo-revengers/151": {
+      "name": "151"
+    },
+    "https://3asq.online/manga/tokyo-revengers/150": {
+      "name": "150"
+    },
+    "https://3asq.online/manga/tokyo-revengers/149": {
+      "name": "149"
+    },
+    "https://3asq.online/manga/tokyo-revengers/148": {
+      "name": "148"
+    },
+    "https://3asq.online/manga/tokyo-revengers/147": {
+      "name": "147"
+    },
+    "https://3asq.online/manga/tokyo-revengers/146": {
+      "name": "146"
+    },
+    "https://3asq.online/manga/tokyo-revengers/145": {
+      "name": "145"
+    },
+    "https://3asq.online/manga/tokyo-revengers/144": {
+      "name": "144"
+    },
+    "https://3asq.online/manga/tokyo-revengers/143": {
+      "name": "143"
+    },
+    "https://3asq.online/manga/tokyo-revengers/142": {
+      "name": "142"
+    },
+    "https://3asq.online/manga/tokyo-revengers/141": {
+      "name": "141"
+    },
+    "https://3asq.online/manga/tokyo-revengers/140": {
+      "name": "140"
+    },
+    "https://3asq.online/manga/tokyo-revengers/139": {
+      "name": "139"
+    },
+    "https://3asq.online/manga/tokyo-revengers/138": {
+      "name": "138"
+    },
+    "https://3asq.online/manga/tokyo-revengers/137": {
+      "name": "137"
+    },
+    "https://3asq.online/manga/tokyo-revengers/136": {
+      "name": "136"
+    },
+    "https://3asq.online/manga/tokyo-revengers/135": {
+      "name": "135"
+    },
+    "https://3asq.online/manga/tokyo-revengers/134": {
+      "name": "134"
+    },
+    "https://3asq.online/manga/tokyo-revengers/133": {
+      "name": "133"
+    },
+    "https://3asq.online/manga/tokyo-revengers/132": {
+      "name": "132"
+    },
+    "https://3asq.online/manga/tokyo-revengers/131": {
+      "name": "131"
+    },
+    "https://3asq.online/manga/tokyo-revengers/130": {
+      "name": "130"
+    },
+    "https://3asq.online/manga/tokyo-revengers/129": {
+      "name": "129"
+    },
+    "https://3asq.online/manga/tokyo-revengers/128": {
+      "name": "128"
+    },
+    "https://3asq.online/manga/tokyo-revengers/127": {
+      "name": "127"
+    },
+    "https://3asq.online/manga/tokyo-revengers/126": {
+      "name": "126"
+    },
+    "https://3asq.online/manga/tokyo-revengers/125": {
+      "name": "125"
+    },
+    "https://3asq.online/manga/tokyo-revengers/124": {
+      "name": "124"
+    },
+    "https://3asq.online/manga/tokyo-revengers/123": {
+      "name": "123"
+    },
+    "https://3asq.online/manga/tokyo-revengers/122": {
+      "name": "122"
+    },
+    "https://3asq.online/manga/tokyo-revengers/121": {
+      "name": "121"
+    },
+    "https://3asq.online/manga/tokyo-revengers/120": {
+      "name": "120"
+    },
+    "https://3asq.online/manga/tokyo-revengers/119": {
+      "name": "119"
+    },
+    "https://3asq.online/manga/tokyo-revengers/118": {
+      "name": "118"
+    },
+    "https://3asq.online/manga/tokyo-revengers/117": {
+      "name": "117"
+    },
+    "https://3asq.online/manga/tokyo-revengers/116": {
+      "name": "116"
+    },
+    "https://3asq.online/manga/tokyo-revengers/115": {
+      "name": "115"
+    },
+    "https://3asq.online/manga/tokyo-revengers/114": {
+      "name": "114"
+    },
+    "https://3asq.online/manga/tokyo-revengers/113": {
+      "name": "113"
+    },
+    "https://3asq.online/manga/tokyo-revengers/112": {
+      "name": "112"
+    },
+    "https://3asq.online/manga/tokyo-revengers/111": {
+      "name": "111"
+    },
+    "https://3asq.online/manga/tokyo-revengers/110": {
+      "name": "110"
+    },
+    "https://3asq.online/manga/tokyo-revengers/109": {
+      "name": "109"
+    },
+    "https://3asq.online/manga/tokyo-revengers/108": {
+      "name": "108"
+    },
+    "https://3asq.online/manga/tokyo-revengers/107": {
+      "name": "107"
+    },
+    "https://3asq.online/manga/tokyo-revengers/106": {
+      "name": "106"
+    },
+    "https://3asq.online/manga/tokyo-revengers/105": {
+      "name": "105"
+    },
+    "https://3asq.online/manga/tokyo-revengers/104": {
+      "name": "104"
+    },
+    "https://3asq.online/manga/tokyo-revengers/103": {
+      "name": "103"
+    },
+    "https://3asq.online/manga/tokyo-revengers/102": {
+      "name": "102"
+    },
+    "https://3asq.online/manga/tokyo-revengers/101": {
+      "name": "101"
+    },
+    "https://3asq.online/manga/tokyo-revengers/100": {
+      "name": "100"
+    },
+    "https://3asq.online/manga/tokyo-revengers/099": {
+      "name": "99"
+    },
+    "https://3asq.online/manga/tokyo-revengers/098": {
+      "name": "98"
+    },
+    "https://3asq.online/manga/tokyo-revengers/097": {
+      "name": "97"
+    },
+    "https://3asq.online/manga/tokyo-revengers/096": {
+      "name": "96"
+    },
+    "https://3asq.online/manga/tokyo-revengers/095": {
+      "name": "95"
+    },
+    "https://3asq.online/manga/tokyo-revengers/094": {
+      "name": "94"
+    },
+    "https://3asq.online/manga/tokyo-revengers/093": {
+      "name": "93"
+    },
+    "https://3asq.online/manga/tokyo-revengers/092": {
+      "name": "92"
+    },
+    "https://3asq.online/manga/tokyo-revengers/091": {
+      "name": "91"
+    },
+    "https://3asq.online/manga/tokyo-revengers/090": {
+      "name": "90"
+    },
+    "https://3asq.online/manga/tokyo-revengers/089": {
+      "name": "89"
+    },
+    "https://3asq.online/manga/tokyo-revengers/088": {
+      "name": "88"
+    },
+    "https://3asq.online/manga/tokyo-revengers/087": {
+      "name": "87"
+    },
+    "https://3asq.online/manga/tokyo-revengers/086": {
+      "name": "86"
+    },
+    "https://3asq.online/manga/tokyo-revengers/085": {
+      "name": "85"
+    },
+    "https://3asq.online/manga/tokyo-revengers/084": {
+      "name": "84"
+    },
+    "https://3asq.online/manga/tokyo-revengers/083": {
+      "name": "83"
+    },
+    "https://3asq.online/manga/tokyo-revengers/082": {
+      "name": "82"
+    },
+    "https://3asq.online/manga/tokyo-revengers/081": {
+      "name": "81"
+    },
+    "https://3asq.online/manga/tokyo-revengers/080": {
+      "name": "80"
+    },
+    "https://3asq.online/manga/tokyo-revengers/079": {
+      "name": "79"
+    },
+    "https://3asq.online/manga/tokyo-revengers/078": {
+      "name": "78"
+    },
+    "https://3asq.online/manga/tokyo-revengers/077": {
+      "name": "77"
+    },
+    "https://3asq.online/manga/tokyo-revengers/076": {
+      "name": "76"
+    },
+    "https://3asq.online/manga/tokyo-revengers/075": {
+      "name": "75"
+    }
+  }
+}

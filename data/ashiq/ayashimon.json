@@ -1,0 +1,30 @@
+{
+  "id": "ayashimon",
+  "title": "Ayashimon",
+  "cover_url": "https://3asq.online/wp-content/uploads/2022/03/Ayashimon.png",
+  "description": "مارو ، فتى عاشقٌ للمعارك ، يلتقي بأورارا ، فتاةٌ تحاول الهرب من سفّاحِي العالم السُفلي …",
+  "type": "مانغا",
+  "status": "مستمر",
+  "rating": "4.4",
+  "favorites": "14",
+  "genres": [
+    "أكشن",
+    "خارق للطبيعة",
+    "خيال",
+    "شونين",
+    "شياطين",
+    "غموض",
+    "فنون قتالية",
+    "قوى خارقة",
+    "كوميديا"
+  ],
+  "is_novel": false,
+  "chapters": {
+    "https://3asq.online/manga/ayashimon/2_1": {
+      "name": "2"
+    },
+    "https://3asq.online/manga/ayashimon/1": {
+      "name": "1"
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "chingiri",
+  "title": "Chingiri",
+  "cover_url": "https://3asq.online/wp-content/uploads/2019/08/1.jpg",
+  "description": "لا يوجد وصف",
+  "type": "ون-شوت",
+  "status": "مكتمل",
+  "rating": "3.0",
+  "favorites": "",
+  "genres": [
+    "3asq",
+    "أكشن",
+    "شونين",
+    "فنون قتالية",
+    "كوميديا"
+  ],
+  "is_novel": false,
+  "chapters": {
+    "https://3asq.online/manga/chingiri/1": {
+      "name": "1"
+    }
+  }
+}

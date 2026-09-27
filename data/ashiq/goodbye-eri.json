@@ -1,0 +1,22 @@
+{
+  "id": "goodbye-eri",
+  "title": "Sayonara Eri",
+  "cover_url": "https://3asq.online/wp-content/uploads/2022/04/215923.jpg",
+  "description": "لا يوجد وصف",
+  "type": "مانغا",
+  "status": "مكتمل",
+  "rating": "4.6",
+  "favorites": "52",
+  "genres": [
+    "100%",
+    "دراما",
+    "سينين",
+    "ون شوت"
+  ],
+  "is_novel": false,
+  "chapters": {
+    "https://3asq.online/manga/goodbye-eri/1_1": {
+      "name": "1"
+    }
+  }
+}

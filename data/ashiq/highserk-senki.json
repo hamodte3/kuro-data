@@ -1,0 +1,50 @@
+{
+  "id": "highserk-senki",
+  "title": "Highserk Senki",
+  "cover_url": "https://3asq.online/wp-content/uploads/2025/05/ChatGPT-Image-Dec-10-2025-06_46_15-AM.png",
+  "description": "لا يوجد وصف",
+  "type": "مانغا",
+  "status": "مستمر",
+  "rating": "4.5",
+  "favorites": "22",
+  "genres": [
+    "أكشن",
+    "إيسيكاي",
+    "تاريخ",
+    "حرب",
+    "خيال",
+    "دراما",
+    "عسكرية",
+    "مأساة"
+  ],
+  "is_novel": false,
+  "chapters": {
+    "https://3asq.online/manga/highserk-senki/9": {
+      "name": "9"
+    },
+    "https://3asq.online/manga/highserk-senki/8": {
+      "name": "8"
+    },
+    "https://3asq.online/manga/highserk-senki/7": {
+      "name": "7"
+    },
+    "https://3asq.online/manga/highserk-senki/6": {
+      "name": "6"
+    },
+    "https://3asq.online/manga/highserk-senki/5": {
+      "name": "5"
+    },
+    "https://3asq.online/manga/highserk-senki/4": {
+      "name": "4"
+    },
+    "https://3asq.online/manga/highserk-senki/3": {
+      "name": "3"
+    },
+    "https://3asq.online/manga/highserk-senki/2": {
+      "name": "2"
+    },
+    "https://3asq.online/manga/highserk-senki/1": {
+      "name": "1"
+    }
+  }
+}

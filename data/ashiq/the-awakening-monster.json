@@ -1,0 +1,22 @@
+{
+  "id": "the-awakening-monster",
+  "title": "The Awakening Monster",
+  "cover_url": "https://3asq.online/wp-content/uploads/2024/10/The-Awakening-Monster.jpg",
+  "description": "شابٌ مِن أمام كهفٍ ينادي، فهل تدركون ما يعاني؟",
+  "type": "قصّة قصيرة",
+  "status": "مكتمل",
+  "rating": "4.1",
+  "favorites": "5",
+  "genres": [
+    "100%",
+    "سينين",
+    "غموض",
+    "فلسفة"
+  ],
+  "is_novel": false,
+  "chapters": {
+    "https://3asq.online/manga/the-awakening-monster/1": {
+      "name": "1"
+    }
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "id": "gintama",
+  "title": "Gintama",
+  "cover_url": "https://3asq.online/wp-content/uploads/2025/09/cover76.png",
+  "description": "لا يوجد وصف",
+  "type": "مانغا",
+  "status": "مكتمل",
+  "rating": "4.4",
+  "favorites": "7",
+  "genres": [
+    "أكشن",
+    "جوائز",
+    "خيال علمي",
+    "دراما",
+    "ساموراي",
+    "شونين",
+    "فضائيِّين",
+    "قوى خارقة",
+    "كوميديا",
+    "مغامرة"
+  ],
+  "is_novel": false,
+  "chapters": {
+    "https://3asq.online/manga/gintama/31": {
+      "name": "31"
+    },
+    "https://3asq.online/manga/gintama/30": {
+      "name": "30"
+    },
+    "https://3asq.online/manga/gintama/29": {
+      "name": "29"
+    }
+  }
+}

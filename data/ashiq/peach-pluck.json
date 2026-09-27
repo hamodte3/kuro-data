@@ -1,0 +1,21 @@
+{
+  "id": "peach-pluck",
+  "title": "Peach Pluck",
+  "cover_url": "https://3asq.online/wp-content/uploads/2019/05/000.jpg",
+  "description": "لا يوجد وصف",
+  "type": "ونشوت",
+  "status": "مكتمل",
+  "rating": "4.5",
+  "favorites": "1",
+  "genres": [
+    "خارق للطبيعة",
+    "شونين",
+    "كوميديا"
+  ],
+  "is_novel": false,
+  "chapters": {
+    "https://3asq.online/manga/peach-pluck/1": {
+      "name": "1"
+    }
+  }
+}

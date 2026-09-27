@@ -1,0 +1,69 @@
+{
+  "id": "coffee-jikan",
+  "title": "Coffee Jikan",
+  "cover_url": "https://3asq.online/wp-content/uploads/2019/08/D9QgCoqUcAA1VPG.jpg",
+  "description": "لا يوجد وصف",
+  "type": "مانغا",
+  "status": "مكتمل",
+  "rating": "3.7",
+  "favorites": "5",
+  "genres": [
+    "100%",
+    "شريحة من الحياة",
+    "كوميديا"
+  ],
+  "is_novel": false,
+  "chapters": {
+    "https://3asq.online/manga/coffee-jikan/17": {
+      "name": "17"
+    },
+    "https://3asq.online/manga/coffee-jikan/16": {
+      "name": "16"
+    },
+    "https://3asq.online/manga/coffee-jikan/15": {
+      "name": "15"
+    },
+    "https://3asq.online/manga/coffee-jikan/14": {
+      "name": "14"
+    },
+    "https://3asq.online/manga/coffee-jikan/13": {
+      "name": "13"
+    },
+    "https://3asq.online/manga/coffee-jikan/12": {
+      "name": "12"
+    },
+    "https://3asq.online/manga/coffee-jikan/11": {
+      "name": "11"
+    },
+    "https://3asq.online/manga/coffee-jikan/10": {
+      "name": "10"
+    },
+    "https://3asq.online/manga/coffee-jikan/9": {
+      "name": "9"
+    },
+    "https://3asq.online/manga/coffee-jikan/8": {
+      "name": "8"
+    },
+    "https://3asq.online/manga/coffee-jikan/7": {
+      "name": "7"
+    },
+    "https://3asq.online/manga/coffee-jikan/6": {
+      "name": "6"
+    },
+    "https://3asq.online/manga/coffee-jikan/5": {
+      "name": "5"
+    },
+    "https://3asq.online/manga/coffee-jikan/4": {
+      "name": "4"
+    },
+    "https://3asq.online/manga/coffee-jikan/3": {
+      "name": "3"
+    },
+    "https://3asq.online/manga/coffee-jikan/2": {
+      "name": "2"
+    },
+    "https://3asq.online/manga/coffee-jikan/1": {
+      "name": "1"
+    }
+  }
+}

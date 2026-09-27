@@ -1,0 +1,21 @@
+{
+  "id": "garaku",
+  "title": "Garaku",
+  "cover_url": "https://3asq.online/wp-content/uploads/2024/08/01-1.jpg",
+  "description": "ون شوت عن عجوز يعيش في وسط مدينة مليئة بالجرائم والفساد.",
+  "type": "ون شوت",
+  "status": "مكتمل",
+  "rating": "4.7",
+  "favorites": "25",
+  "genres": [
+    "100%",
+    "فنون قتالية",
+    "ون شوت"
+  ],
+  "is_novel": false,
+  "chapters": {
+    "https://3asq.online/manga/garaku/1": {
+      "name": "1"
+    }
+  }
+}

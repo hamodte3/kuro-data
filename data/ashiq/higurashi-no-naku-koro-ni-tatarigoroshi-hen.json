@@ -1,0 +1,34 @@
+{
+  "id": "higurashi-no-naku-koro-ni-tatarigoroshi-hen",
+  "title": "Higurashi no Naku Koro ni Tatarigoroshi-hen",
+  "cover_url": "https://3asq.online/wp-content/uploads/2023/05/0-1.png",
+  "description": "تكملة للحلقة السابقة",
+  "type": "مانغا",
+  "status": "مكتمل",
+  "rating": "4.4",
+  "favorites": "2",
+  "genres": [
+    "100%",
+    "دراما",
+    "رعب",
+    "غموض"
+  ],
+  "is_novel": false,
+  "chapters": {
+    "https://3asq.online/manga/higurashi-no-naku-koro-ni-tatarigoroshi-hen/05": {
+      "name": "5"
+    },
+    "https://3asq.online/manga/higurashi-no-naku-koro-ni-tatarigoroshi-hen/04": {
+      "name": "4"
+    },
+    "https://3asq.online/manga/higurashi-no-naku-koro-ni-tatarigoroshi-hen/03": {
+      "name": "3"
+    },
+    "https://3asq.online/manga/higurashi-no-naku-koro-ni-tatarigoroshi-hen/02": {
+      "name": "2"
+    },
+    "https://3asq.online/manga/higurashi-no-naku-koro-ni-tatarigoroshi-hen/01": {
+      "name": "1"
+    }
+  }
+}
