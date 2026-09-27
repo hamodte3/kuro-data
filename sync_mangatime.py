@@ -11,8 +11,8 @@ DATA_DIR = os.path.join("data", "mangatime")
 CATALOG_FILE = os.path.join(DATA_DIR, "catalog.json")
 GLOBAL_NEW_FILE = os.path.join("data", "new.json")
 
-DETAILS_SYNC_LIMIT = 20    # فحص وتجهيز فصول أحدث 20 عملاً تم تحديثها
-MAX_DELTA_PAGES = 3        # فحص أول 3 صفحات فقط كل ساعة (تغطي حتى 144 عملاً محدثاً)
+DETAILS_SYNC_LIMIT = 20000    # فحص وتجهيز فصول أحدث 20 عملاً تم تحديثها
+MAX_DELTA_PAGES = 1000        # فحص أول 3 صفحات فقط كل ساعة (تغطي حتى 144 عملاً محدثاً)
 
 os.makedirs(DATA_DIR, exist_ok=True)
 os.makedirs("data", exist_ok=True)
@@ -160,7 +160,13 @@ def scrape_manga_details_mangatime(session, target):
     favorites = str(stats.get("favorites") or series_data.get("favorites") or "")
     last_update = format_last_update(series_data.get("updatedAt", ""))
 
-    genres = [g.get("name") for g in series_data.get("genres", []) if isinstance(g, dict) and g.get("name")]
+    # استخراج التصنيفات الحقيقية بمرونة
+    genres = []
+    for g in series_data.get("genres", []):
+        if isinstance(g, dict) and g.get("name"):
+            genres.append(g["name"].strip())
+        elif isinstance(g, str) and g.strip():
+            genres.append(g.strip())
 
     # 2. جلب قائمة الفصول
     chapters_map = {}
@@ -247,9 +253,8 @@ def sync_mangatime_fast():
     catalog_dict = load_existing_catalog()
     ordered_recent_slugs = []
 
-    # 1. فحص أحدث التحديثات باستخدام الإجراء الرسمي المكتشف
+    # 1. فحص أحدث التحديثات باستخدام الإجراء الرسمي
     for page in range(1, MAX_DELTA_PAGES + 1):
-        # المحاولة أولاً بـ getLatestReleases الرسمي من الواجهة
         input_data = {
             "0": {
                 "json": {
@@ -298,6 +303,14 @@ def sync_mangatime_fast():
             stats = item.get("stats") or {}
             raw_rating = stats.get("rating") or item.get("rating") or ""
 
+            # استخراج التصنيفات السريعة المتاحة في كائن الفهرس مباشرة
+            quick_genres = []
+            for g in item.get("genres", []):
+                if isinstance(g, dict) and g.get("name"):
+                    quick_genres.append(g["name"].strip())
+                elif isinstance(g, str) and g.strip():
+                    quick_genres.append(g.strip())
+
             # التحديث الآمن مع الحفاظ على الأرشيف القديم
             if slug in catalog_dict:
                 catalog_dict[slug]["title"] = title
@@ -306,6 +319,8 @@ def sync_mangatime_fast():
                     catalog_dict[slug]["cover_url"] = cover
                 if raw_rating:
                     catalog_dict[slug]["rating"] = format_rating(raw_rating)
+                if quick_genres and not catalog_dict[slug].get("genres"):
+                    catalog_dict[slug]["genres"] = quick_genres
             else:
                 catalog_dict[slug] = {
                     "id": slug,
@@ -315,7 +330,8 @@ def sync_mangatime_fast():
                     "type": "رواية" if is_novel else format_type(raw_type),
                     "status": format_status(item.get("status", "")),
                     "rating": format_rating(raw_rating),
-                    "total_chapters": 0
+                    "total_chapters": 0,
+                    "genres": quick_genres
                 }
 
             if slug not in ordered_recent_slugs:
@@ -348,7 +364,11 @@ def sync_mangatime_fast():
             item["rating"] = details["rating"]
             item["type"] = details["type"]
             item["total_chapters"] = current_chaps
-            print(f"✓ [{index}/{len(targets_slugs)}] تم تحديث مانغاتايم: {details['title']} ({current_chaps} فصل)")
+            
+            # حفظ التصنيفات الحقيقية في الكاتلوج
+            item["genres"] = details.get("genres", [])
+
+            print(f"✓ [{index}/{len(targets_slugs)}] تم تحديث مانغاتايم: {details['title']} ({current_chaps} فصل) - تصنيفات: {item['genres']}")
 
             # إشعار دقيق لجديد الفصول
             if current_chaps > prev_chaps and current_chaps > 0:
