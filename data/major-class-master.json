@@ -6,8 +6,11 @@
   "type": "مانهوا",
   "status": "مستمر",
   "last_update": "",
-  "rating": "",
-  "genres": [],
+  "rating": "9.5",
+  "genres": [
+    "أكشن",
+    "رومانسى"
+  ],
   "is_novel": false,
   "chapters": {
     "https://azorafly.com/series/major-class-master/chapter-1": {

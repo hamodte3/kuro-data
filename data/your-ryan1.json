@@ -1,0 +1,24 @@
+{
+  "id": "your-ryan1",
+  "title": "Your Ryan",
+  "cover_url": "https://storage.azorafly.com/upload/series/featured/a5vVlSc5huft2AzUyK1VxgKh1ckCWLbZ/cffeb153-bc21-455c-ad6f-022047f0f0d0.jpg",
+  "description": "\"ريان؟\"كانت إيلويز قد اعتزلت حياةَ المجتمعِ المخمليِّ إثرَ وعكةٍ صحيةٍ غامضةٍ، واختارت السكينةَ في ريفِ فيلتهام. فقد عشقت هذا المكانَ الهادئَ بطبيعتِهِ الفسيحةِ وهوائِهِ العليلِ – بعيداً عن صخبِ المدينةِ وضجيجِها.وذاتَ يومٍ، وصلَ مشرفٌ جديدٌ إلى قصرِ بليسبري، وهي الضيعةُ...",
+  "type": "رواية",
+  "status": "مستمر",
+  "last_update": "",
+  "rating": "9.5",
+  "genres": [
+    "أكشن",
+    "تاريخي",
+    "دراما",
+    "رومانسي",
+    "بدون تجسيد",
+    "كوميدي"
+  ],
+  "is_novel": false,
+  "chapters": {
+    "https://azorafly.com/series/your-ryan1/chapter-1": {
+      "name": "1"
+    }
+  }
+}

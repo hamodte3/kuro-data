@@ -1,0 +1,19 @@
+{
+  "id": "testnovel",
+  "title": "TestNovel",
+  "cover_url": "https://storage.azorafly.com/public/upload/2026/01/24/31207054-d86d-4b6b-9be0-20f57fc9e634.webp",
+  "description": "لا يوجد وصف.",
+  "type": "مانهوا",
+  "status": "مستمر",
+  "last_update": "",
+  "rating": "9.5",
+  "genres": [
+    "أكشن"
+  ],
+  "is_novel": false,
+  "chapters": {
+    "https://azorafly.com/series/testnovel/chapter-1": {
+      "name": "1"
+    }
+  }
+}

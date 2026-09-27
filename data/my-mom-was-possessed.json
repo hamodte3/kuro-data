@@ -1,0 +1,24 @@
+{
+  "id": "my-mom-was-possessed",
+  "title": "My Mom Was Possessed",
+  "cover_url": "https://storage.azorafly.com/public/upload/2026/03/25/061b86b3-735a-467e-b6cd-c3b964bfd32a.webp",
+  "description": "دومًا ما كانت أمـي تقرأُ ليَّ قصـصًا خـيالية.عن فتاةً قد أحبّـها الجميعُ وفي النـهايةِ قد تزوجـت الأمير وأصبـحتْ الأمـبراطورة وعاشـت بسـعادةً دائـمة.\"أريدُ أنَ أتـزوجَ من أمـيرٍ أيضًـا يا أمـي!\"وبالـطبعِ، كأيِّ طـفلةً أخرى قد حلمـتُ بأن أصـبحَ إمبراطـورةً أيـضًا.\"والدتكِ ستحـققُ لكِ...",
+  "type": "رواية",
+  "status": "مستمر",
+  "last_update": "",
+  "rating": "9.5",
+  "genres": [
+    "أكشن",
+    "من أصدقاء لأحباء",
+    "رومانسي",
+    "خيال",
+    "بدون تجسيد",
+    "كوميدي"
+  ],
+  "is_novel": false,
+  "chapters": {
+    "https://azorafly.com/series/my-mom-was-possessed/chapter-1": {
+      "name": "1"
+    }
+  }
+}

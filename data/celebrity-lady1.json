@@ -1,0 +1,25 @@
+{
+  "id": "celebrity-lady1",
+  "title": "Celebrity Lady",
+  "cover_url": "https://storage.azorafly.com/public/upload/2026/03/01/cc383779-b598-42ec-b4bf-8d1f7f2e15f0.webp",
+  "description": "جسد ممل ، شخصية خجولة ولطيفة.الأميرة البدينة التي تم نبذها ، روبيتريا ديولوس.\"يا إلهي ، دائماً ما تكون الأميرة في متجر الحلويات في كل مرة أراها. إنها تأكل الكثير من الحلويات ، وهو ما يكفي لجعل خديها ينفجران ، فلا...",
+  "type": "رواية",
+  "status": "مستمر",
+  "last_update": "",
+  "rating": "9.5",
+  "genres": [
+    "أكشن",
+    "انتقام",
+    "تاريخي",
+    "دراما",
+    "خيال",
+    "رومانسي",
+    "كوميدي"
+  ],
+  "is_novel": false,
+  "chapters": {
+    "https://azorafly.com/series/celebrity-lady1/chapter-1": {
+      "name": "1"
+    }
+  }
+}
