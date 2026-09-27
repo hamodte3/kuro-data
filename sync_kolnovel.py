@@ -10,8 +10,8 @@ DATA_DIR = os.path.join("data", "kolnovel")
 CATALOG_FILE = os.path.join(DATA_DIR, "catalog.json")
 GLOBAL_NEW_FILE = os.path.join("data", "new.json")
 
-DETAILS_SYNC_LIMIT = 20000   # تجهيز أحدث 20 رواية طرأ عليها تحديث
-MAX_DELTA_PAGES = 1000       # فحص أول 5 صفحات فقط كل ساعة بدلاً من 1000
+DETAILS_SYNC_LIMIT = 20   # تجهيز أحدث 20 رواية طرأ عليها تحديث
+MAX_DELTA_PAGES = 5       # فحص أول 5 صفحات فقط كل ساعة بدلاً من 1000
 
 os.makedirs(DATA_DIR, exist_ok=True)
 os.makedirs("data", exist_ok=True)
