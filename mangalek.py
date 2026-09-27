@@ -8,14 +8,16 @@ from curl_cffi import requests
 BASE_URL = "https://mangalik.net"
 DATA_DIR = os.path.join("data", "mangalik")
 CATALOG_FILE = os.path.join(DATA_DIR, "catalog.json")
+GLOBAL_NEW_FILE = os.path.join("data", "new.json")
 
-DETAILS_SYNC_LIMIT = 20   # عدد الأعمال المطلوب تجهيز فصولها
-MAX_PAGES_SAFETY = 2     # صفحتان للتجربة والتأكد
+DETAILS_SYNC_LIMIT = 20    # عدد الأعمال المطلوب تجهيز فصولها
+MAX_DELTA_PAGES = 5        # فحص أول 5 صفحات فقط كل ساعة لمراقبة الجديد
 
 os.makedirs(DATA_DIR, exist_ok=True)
+os.makedirs("data", exist_ok=True)
 
 def get_session():
-    # محاكاة كروم 124 مع إعدادات هيدرز طبيعية للمتصفح
+    # محاكاة كروم 124 مع إعدادات هيدرز طبيعية للمتصفح لتجاوز الحماية
     s = requests.Session(impersonate="chrome124")
     s.headers.update({
         "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8",
@@ -56,10 +58,47 @@ def format_rating(raw_rating: str) -> str:
     except ValueError:
         return ""
 
+def load_existing_catalog() -> dict:
+    """تحميل الأرشيف القديم لمنع مسح أي عمل سابق"""
+    if not os.path.exists(CATALOG_FILE):
+        return {}
+    try:
+        with open(CATALOG_FILE, "r", encoding="utf-8") as f:
+            data = json.load(f)
+            return {item["id"]: item for item in data if "id" in item}
+    except Exception as e:
+        print(f"خطأ أثناء قراءة كاتلوج مانجا ليك القديم: {e}")
+        return {}
+
+def update_global_new_releases(new_releases: list):
+    """دمج الإشعارات الجديدة في data/new.json دون مسح تحديثات المصادر الأخرى"""
+    if not new_releases:
+        return
+
+    existing_releases = []
+    if os.path.exists(GLOBAL_NEW_FILE):
+        try:
+            with open(GLOBAL_NEW_FILE, "r", encoding="utf-8") as f:
+                existing_releases = json.load(f)
+        except Exception:
+            existing_releases = []
+
+    combined = new_releases + existing_releases
+    seen = set()
+    deduped = []
+    for item in combined:
+        key = (item.get("id"), item.get("chapter"))
+        if key not in seen:
+            seen.add(key)
+            deduped.append(item)
+
+    with open(GLOBAL_NEW_FILE, "w", encoding="utf-8") as f:
+        json.dump(deduped[:15], f, ensure_ascii=False, indent=2)
+    print(f"🔔 تم تسجيل {len(new_releases)} تحديث جديد لمانجا ليك في {GLOBAL_NEW_FILE}")
+
 def scrape_manga_details_mangalik(session, manga_url: str):
-    """سحب صفحة العمل واستخراج تفاصيله وفصوله بطلب واحد فقط"""
     clean_url = normalize_url(manga_url)
-    res = session.get(clean_url, headers={"Referer": f"{BASE_URL}/"}, timeout=20)
+    res = session.get(f"{clean_url}/?_t={int(time.time())}", headers={"Referer": f"{BASE_URL}/"}, timeout=20)
     
     if res.status_code != 200:
         print(f"⚠️ فشل فتح العمل {clean_url} | كود: {res.status_code}")
@@ -114,7 +153,7 @@ def scrape_manga_details_mangalik(session, manga_url: str):
         status_text = val_el.text if val_el else status_el.text
     status = format_status(status_text)
 
-    # 5. استخراج الفصول مباشرة من الـ HTML بدون طلب AJAX
+    # 5. استخراج الفصول
     chapters_map = {}
     chapter_links = soup.select("ul.main.version-chap li.wp-manga-chapter a, div.listing-chapters_wrap li a")
     
@@ -153,21 +192,24 @@ def scrape_manga_details_mangalik(session, manga_url: str):
         "chapters": chapters_map
     }
 
-def fetch_mangalik_catalog(session) -> list:
-    print("جاري سحب الفهرس العام لموقع مانجا ليك...")
-    catalog = []
+def sync_mangalik_fast():
+    session = get_session()
+    print(f"بدء المزامنة الخاطفة لمانجا ليك (فحص أول {MAX_DELTA_PAGES} صفحات)...")
+
+    catalog_dict = load_existing_catalog()
+    ordered_recent_slugs = []
     page = 1
     prev_url = f"{BASE_URL}/"
 
-    while page <= MAX_PAGES_SAFETY:
+    # 1. سحب أول 5 صفحات فقط لحفظ الترتيب الزمني للأحدث
+    while page <= MAX_DELTA_PAGES:
         url = f"{BASE_URL}/" if page == 1 else f"{BASE_URL}/page/{page}/"
         try:
-            # تمرير Referer ديناميكي يبدو طبيعياً تماماً
             res = session.get(url, headers={"Referer": prev_url}, timeout=20)
             print(f"📡 فحص صفحة {page} | كود الاستجابة: {res.status_code}")
 
             if res.status_code != 200:
-                print(f"⚠️ توقف عند صفحة {page} بسب كود: {res.status_code}")
+                print(f"⚠️ توقف عند صفحة {page} بسبب كود: {res.status_code}")
                 break
 
             prev_url = url
@@ -187,58 +229,65 @@ def fetch_mangalik_catalog(session) -> list:
                 manga_url = normalize_url(link.get("href", ""))
                 slug = manga_url.split("/")[-1]
 
-                if not any(item["id"] == slug for item in catalog):
-                    img = card.select_one("div.item-thumb img")
-                    cover = ""
-                    if img:
-                        cover = img.get("src", "").strip()
-                        if not cover or "data:image" in cover:
-                            cover = img.get("data-src", "").strip() or img.get("data-lazy-src", "").strip()
+                img = card.select_one("div.item-thumb img")
+                cover = ""
+                if img:
+                    cover = img.get("src", "").strip()
+                    if not cover or "data:image" in cover:
+                        cover = img.get("data-src", "").strip() or img.get("data-lazy-src", "").strip()
+                if cover:
+                    cover = normalize_url(cover)
+
+                score_el = card.select_one("span.score")
+                rating = format_rating(score_el.text if score_el else "")
+
+                badges = card.select_one("span.manga-title-badges")
+                badges_text = badges.text if badges else ""
+                is_novel = "رواية" in badges_text or "رواية" in title
+
+                # التحديث الآمن مع الحفاظ على الفصول السابقة إن وجدت
+                if slug in catalog_dict:
+                    catalog_dict[slug]["title"] = title
+                    catalog_dict[slug]["url"] = manga_url
                     if cover:
-                        cover = normalize_url(cover)
-
-                    score_el = card.select_one("span.score")
-                    rating = format_rating(score_el.text if score_el else "")
-
-                    badges = card.select_one("span.manga-title-badges")
-                    badges_text = badges.text if badges else ""
-                    is_novel = "رواية" in badges_text or "رواية" in title
-
-                    catalog.append({
+                        catalog_dict[slug]["cover_url"] = cover
+                    if rating:
+                        catalog_dict[slug]["rating"] = rating
+                else:
+                    catalog_dict[slug] = {
                         "id": slug,
                         "title": title,
                         "url": manga_url,
                         "cover_url": cover,
                         "type": "رواية" if is_novel else format_type(badges_text),
-                        "rating": rating
-                    })
-                    new_in_page += 1
+                        "rating": rating,
+                        "total_chapters": 0
+                    }
+
+                if slug not in ordered_recent_slugs:
+                    ordered_recent_slugs.append(slug)
+
+                new_in_page += 1
 
             print(f"✓ تم استخراج {new_in_page} عمل من صفحة {page}")
             if new_in_page == 0:
                 break
 
             page += 1
-            # تأخير ثانية ونصف بين الصفحات لمنع الحظر
-            time.sleep(1.5)
-
+            time.sleep(1.2)  # حماية لتفادي كشف السكرابر
         except Exception as e:
             print(f"خطأ أثناء سحب صفحة {page}: {e}")
             break
 
-    print(f"تم الانتهاء من فهرسة {len(catalog)} عمل في مانجا ليك.")
-    return catalog
+    # 2. تجهيز فصول أحدث 20 عملاً ورصد الإشعارات
+    targets_slugs = ordered_recent_slugs[:DETAILS_SYNC_LIMIT]
+    new_releases = []
 
-def sync_mangalik_fast():
-    session = get_session()
-    catalog = fetch_mangalik_catalog(session)
-
-    top_targets = catalog[:DETAILS_SYNC_LIMIT]
-
-    for index, item in enumerate(top_targets, 1):
-        slug = item["id"]
+    for index, slug in enumerate(targets_slugs, 1):
+        item = catalog_dict[slug]
         manga_url = item["url"]
         file_path = os.path.join(DATA_DIR, f"{slug}.json")
+        prev_chaps = item.get("total_chapters", 0)
 
         try:
             details = scrape_manga_details_mangalik(session, manga_url)
@@ -246,19 +295,41 @@ def sync_mangalik_fast():
                 with open(file_path, "w", encoding="utf-8") as f:
                     json.dump(details, f, ensure_ascii=False, indent=2)
 
+                current_chaps = len(details["chapters"])
                 item["status"] = details["status"]
-                item["total_chapters"] = len(details["chapters"])
-                print(f"✓ [{index}/{len(top_targets)}] تم تجهيز مانجا ليك: {details['title']} ({len(details['chapters'])} فصل)")
-            
-            # تأخير لطيف بين كل مانجا وأخرى
+                item["rating"] = details["rating"]
+                item["type"] = details["type"]
+                item["total_chapters"] = current_chaps
+                print(f"✓ [{index}/{len(targets_slugs)}] تم تحديث مانجا ليك: {details['title']} ({current_chaps} فصل)")
+
+                # فحص التحديث لإرسال التنبيه
+                if current_chaps > prev_chaps and current_chaps > 0:
+                    new_releases.append({
+                        "id": slug,
+                        "title": item["title"],
+                        "chapter": f"الفصل {current_chaps}" if prev_chaps > 0 else "عمل جديد",
+                        "type": item.get("type", "مانغا"),
+                        "cover_url": item.get("cover_url", "")
+                    })
+
             time.sleep(1.2)
         except Exception as e:
             print(f"خطأ أثناء معالجة {slug}: {e}")
 
-    with open(CATALOG_FILE, "w", encoding="utf-8") as f:
-        json.dump(catalog, f, ensure_ascii=False, indent=2)
+    # 3. دمج الفهرس: الأحدث في البداية + بقية الأرشيف القديم
+    seen_slugs = set(ordered_recent_slugs)
+    final_merged_catalog = [catalog_dict[s] for s in ordered_recent_slugs] + [
+        item for s, item in catalog_dict.items() if s not in seen_slugs
+    ]
 
-    print(f"\n⚡ اكتملت مزامنة مانجا ليك بنجاح! تم الحفظ في {CATALOG_FILE}")
+    with open(CATALOG_FILE, "w", encoding="utf-8") as f:
+        json.dump(final_merged_catalog, f, ensure_ascii=False, indent=2)
+
+    # 4. تحديث الإشعارات المشتركة
+    if new_releases:
+        update_global_new_releases(new_releases)
+
+    print(f"\n⚡ اكتملت مزامنة مانجا ليك الذكية! إجمالي الأعمال المحفوظة: {len(final_merged_catalog)}")
 
 if __name__ == "__main__":
     sync_mangalik_fast()

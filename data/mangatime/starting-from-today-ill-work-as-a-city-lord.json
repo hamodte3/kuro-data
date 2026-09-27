@@ -5,7 +5,7 @@
   "description": "يُلقى موظفٌ عصري في جسد سيد مدينةٍ مفلسة على حدود الحرب. يبني الاقتصاد والجيش بأدوات لا يعرفها هذا العالم، فيحوّل حصنًا يُحتضر إلى مركز لا يُتجاهل.",
   "type": "مانها",
   "status": "مستمر",
-  "last_update": "2026-09-23",
+  "last_update": "2026-09-25",
   "rating": "1.0",
   "favorites": "1",
   "genres": [
@@ -16,6 +16,10 @@
   ],
   "is_novel": false,
   "chapters": {
+    "https://mangatime.org/manhua/starting-from-today-ill-work-as-a-city-lord/chapter/329": {
+      "name": "329",
+      "images": []
+    },
     "https://mangatime.org/manhua/starting-from-today-ill-work-as-a-city-lord/chapter/328": {
       "name": "328",
       "images": []

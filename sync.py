@@ -11,7 +11,7 @@ CATALOG_FILE = os.path.join(DATA_DIR, "catalog.json")
 GLOBAL_NEW_FILE = os.path.join(DATA_DIR, "new.json")
 
 DETAILS_SYNC_LIMIT = 20  # سحب تفاصيل وفصول أحدث 20 عملاً تم تحديثها
-MAX_DELTA_PAGES = 5      # فحص أول 5 صفحات فقط كل ساعة بدلاً من 1000
+MAX_DELTA_PAGES = 5      # فحص أول 5 صفحات فقط كل ساعة
 
 os.makedirs(DATA_DIR, exist_ok=True)
 
@@ -152,6 +152,7 @@ def scrape_manga_details(session, manga_url: str):
     type_el = soup.select_one('div:has(h1:-soup-contains("النوع")) div.inline span')
     manga_type = format_type("رواية" if is_novel else (type_el.text.strip() if type_el else "مانهوا"))
 
+    # استخراج التصنيفات الحقيقية
     genres = [a.text.strip() for a in soup.select(".genres-content a, .manga-tags a") if a.text.strip()]
     desc_el = soup.select_one(".review-content p, div.summary__content p, div[itemprop=description] p")
     final_desc = clean_description(str(desc_el) if desc_el else "", title)
@@ -199,11 +200,10 @@ def sync_fast():
     session = get_session()
     print(f"بدء المزامنة الذكية لأزورا (فحص أول {MAX_DELTA_PAGES} صفحات)...")
     
-    # 1. تحميل الفهرس التراكمي القديم لمنع حذف أي عمل
     catalog_dict = load_existing_catalog()
     recent_targets = []
 
-    # 2. سحب أول 5 صفحات فقط (order=update التلقائي)
+    # 1. سحب أول 5 صفحات
     for page in range(1, MAX_DELTA_PAGES + 1):
         url = f"{BASE_URL}/series" if page == 1 else f"{BASE_URL}/series?page={page}"
         try:
@@ -227,13 +227,13 @@ def sync_fast():
                 if cover and not cover.startswith("http"): cover = f"{BASE_URL}{cover}"
                 cover_url = cover.replace("http://", "https://")
 
-                # الدمج الآمن: نحدث العنوان والغلاف، ونبقي الفصول السابقة إن وجدت
+                # الدمج الآمن مع الحفاظ على التصنيفات المسجلة مسبقاً
                 if slug in catalog_dict:
                     catalog_dict[slug]["title"] = title
                     catalog_dict[slug]["url"] = manga_url
                     if cover_url:
                         catalog_dict[slug]["cover_url"] = cover_url
-                    # إعادة رفع العمل لرأس القائمة لأنه حدث مؤخراً
+                    # إعادة رفع العمل لرأس القائمة
                     item_ref = catalog_dict.pop(slug)
                     catalog_dict = {slug: item_ref, **catalog_dict}
                 else:
@@ -244,7 +244,8 @@ def sync_fast():
                             "url": manga_url,
                             "cover_url": cover_url,
                             "type": "مانهوا",
-                            "total_chapters": 0
+                            "total_chapters": 0,
+                            "genres": []  # تهيئة الحقل
                         },
                         **catalog_dict
                     }
@@ -260,7 +261,7 @@ def sync_fast():
             print(f"خطأ في صفحة {page}: {e}")
             break
 
-    # 3. جلب تفاصيل وفهرس فصول أحدث 20 عملاً طرأ عليها تحديث
+    # 2. جلب تفاصيل وفهرس فصول أحدث 20 عملاً
     targets_to_scrape = recent_targets[:DETAILS_SYNC_LIMIT]
     new_releases = []
 
@@ -279,7 +280,11 @@ def sync_fast():
             item["status"] = details["status"]
             item["rating"] = details["rating"]
             item["total_chapters"] = current_chaps
-            print(f"✓ تم تجهيز: {slug} ({current_chaps} فصل)")
+            
+            # حفظ التصنيفات الحقيقية في الكاتلوج
+            item["genres"] = details.get("genres", [])
+            
+            print(f"✓ تم تجهيز: {slug} ({current_chaps} فصل) - تصنيفات: {item['genres']}")
 
             # التحقق من وجود فصل جديد لتوليد الإشعار
             if current_chaps > prev_chaps and current_chaps > 0:
@@ -295,12 +300,12 @@ def sync_fast():
         except Exception as e:
             print(f"خطأ مع {slug}: {e}")
 
-    # 4. حفظ الفهرس التراكمي الشامل بدون فقدان أي مانهوا قديمة
+    # 3. حفظ الفهرس التراكمي الشامل بالتصنيفات
     final_merged_catalog = list(catalog_dict.values())
     with open(CATALOG_FILE, "w", encoding="utf-8") as f:
         json.dump(final_merged_catalog, f, ensure_ascii=False, indent=2)
 
-    # 5. تحديث إشعارات new.json
+    # 4. تحديث إشعارات new.json
     if new_releases:
         update_global_new_releases(new_releases)
 

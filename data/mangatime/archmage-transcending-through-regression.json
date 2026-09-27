@@ -5,7 +5,7 @@
   "description": "يفشل كبير سحرة في صدّ كارثة نهاية العصر، فيُعاد إلى شبابه قبل الانهيار. يعيد بناء دوائره ويكسر التحالفات التي خانته، هذه المرّة قبل أن يُغلق الكتاب.",
   "type": "مانهوا",
   "status": "مستمر",
-  "last_update": "2026-09-23",
+  "last_update": "2026-09-25",
   "rating": "",
   "favorites": "",
   "genres": [
@@ -15,6 +15,10 @@
   ],
   "is_novel": false,
   "chapters": {
+    "https://mangatime.org/manhwa/archmage-transcending-through-regression/chapter/218": {
+      "name": "218",
+      "images": []
+    },
     "https://mangatime.org/manhwa/archmage-transcending-through-regression/chapter/217": {
       "name": "217",
       "images": []

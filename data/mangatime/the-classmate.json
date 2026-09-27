@@ -5,14 +5,22 @@
   "description": "«The Classmate» مانهوا كورية من تصنيفات مغامرة. العمل ما زال مستمرًّا، ويضمّ 11 فصلًا مترجمًا على مانجا تايم.",
   "type": "مانهوا",
   "status": "مستمر",
-  "last_update": "2026-09-22",
+  "last_update": "2026-09-25",
   "rating": "5.0",
-  "favorites": "16",
+  "favorites": "17",
   "genres": [
     "مغامرة"
   ],
   "is_novel": false,
   "chapters": {
+    "https://mangatime.org/manhwa/the-classmate/chapter/17": {
+      "name": "17",
+      "images": []
+    },
+    "https://mangatime.org/manhwa/the-classmate/chapter/16": {
+      "name": "16",
+      "images": []
+    },
     "https://mangatime.org/manhwa/the-classmate/chapter/15": {
       "name": "15",
       "images": []

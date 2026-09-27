@@ -7,7 +7,13 @@
     "type": "رواية",
     "status": "مكتملة",
     "rating": "",
-    "total_chapters": 831
+    "total_chapters": 831,
+    "genres": [
+      "أكشن",
+      "خيال",
+      "سحر",
+      "كوميدى"
+    ]
   },
   {
     "id": "the-greatest-sinner",
@@ -17,7 +23,17 @@
     "type": "رواية",
     "status": "مستمرة",
     "rating": "",
-    "total_chapters": 326
+    "total_chapters": 326,
+    "genres": [
+      "نظام",
+      "إعادة ولادة",
+      "عالم آخر",
+      "سحر",
+      "زراعة",
+      "مغامرات",
+      "أكشن",
+      "خيال"
+    ]
   },
   {
     "id": "novel-120",
@@ -27,7 +43,16 @@
     "type": "رواية",
     "status": "مستمرة",
     "rating": "",
-    "total_chapters": 303
+    "total_chapters": 303,
+    "genres": [
+      "أكشن",
+      "بالغ",
+      "شوانهوان",
+      "غموض",
+      "فانتازيا",
+      "للكبار",
+      "مغامرات"
+    ]
   },
   {
     "id": "the-demonic-cultivator-in-zombie-world",
@@ -37,7 +62,17 @@
     "type": "رواية",
     "status": "مستمرة",
     "rating": "",
-    "total_chapters": 942
+    "total_chapters": 942,
+    "genres": [
+      "أكشن",
+      "مغامرات",
+      "رواية ويب",
+      "إيسكاي",
+      "خارق للطبيعة",
+      "شياطين",
+      "فانتازيا",
+      "فنون قتالية"
+    ]
   },
   {
     "id": "advent-of-the-three-calamities",
@@ -47,7 +82,16 @@
     "type": "رواية",
     "status": "مستمرة",
     "rating": "",
-    "total_chapters": 581
+    "total_chapters": 581,
+    "genres": [
+      "فانتازيا",
+      "أكشن",
+      "مغامرات",
+      "شريحة من الحياة",
+      "مأساة",
+      "رواية ويب",
+      "رومانسي"
+    ]
   },
   {
     "id": "global-game-afk-in-the-zombie-apocalypse-game",
@@ -57,7 +101,17 @@
     "type": "رواية",
     "status": "مستمرة",
     "rating": "",
-    "total_chapters": 1914
+    "total_chapters": 1914,
+    "genres": [
+      "أكشن",
+      "إثارة",
+      "إيسكاي",
+      "تقمص شخصيات",
+      "خارق للطبيعة",
+      "خيال",
+      "مغامرات",
+      "رواية ويب"
+    ]
   },
   {
     "id": "mysteries-of-immortal-puppet-master-advent-of-immortal-truth",
@@ -67,7 +121,16 @@
     "type": "رواية",
     "status": "مستمرة",
     "rating": "",
-    "total_chapters": 439
+    "total_chapters": 439,
+    "genres": [
+      "زيانشيا",
+      "شيانشيا",
+      "غموض",
+      "مغامرات",
+      "أكشن",
+      "فنون قتالية",
+      "فانتازيا"
+    ]
   },
   {
     "id": "6901e9bfcc7a2812b61205c1",
@@ -77,7 +140,18 @@
     "type": "رواية",
     "status": "مكتملة",
     "rating": "",
-    "total_chapters": 555
+    "total_chapters": 555,
+    "genres": [
+      "مترجمة",
+      "إعادة ولادة",
+      "سحر",
+      "قوي الى قوي",
+      "عالم حديث",
+      "مغامرة",
+      "غموض",
+      "اكشن",
+      "خيال"
+    ]
   },
   {
     "id": "mushoku-tensei-isekai-ittara-honki-dasu",
@@ -87,7 +161,19 @@
     "type": "رواية",
     "status": "مستمرة",
     "rating": "",
-    "total_chapters": 284
+    "total_chapters": 284,
+    "genres": [
+      "خيال",
+      "دراما",
+      "رومانسي",
+      "سحر",
+      "سينن",
+      "كوميدى",
+      "فانتازيا",
+      "السفر عبر الزمن",
+      "رواية ويب",
+      "لايت نوفل"
+    ]
   },
   {
     "id": "the-worlds-greatest-martial-arts-instructor",
@@ -97,7 +183,17 @@
     "type": "رواية",
     "status": "مستمرة",
     "rating": "",
-    "total_chapters": 357
+    "total_chapters": 357,
+    "genres": [
+      "فنون قتالية",
+      "نظام",
+      "سحر",
+      "قوي الى قوي",
+      "زراعة",
+      "مغامرات",
+      "أكشن",
+      "خيال"
+    ]
   },
   {
     "id": "the-lazy-king",
@@ -107,7 +203,13 @@
     "type": "رواية",
     "status": "مكتملة",
     "rating": "",
-    "total_chapters": 61
+    "total_chapters": 61,
+    "genres": [
+      "فانتازيا",
+      "أكشن",
+      "كوميديا",
+      "حصرية"
+    ]
   },
   {
     "id": "690df0466f0a5426d2250919",
@@ -117,7 +219,16 @@
     "type": "رواية",
     "status": "مكتملة",
     "rating": "",
-    "total_chapters": 2360
+    "total_chapters": 2360,
+    "genres": [
+      "مترجمة",
+      "حريم",
+      "فنون قتال",
+      "نظام",
+      "عالم آخر",
+      "سحر",
+      "زراعة"
+    ]
   },
   {
     "id": "life-rebooted-with-copy-and-paste",
@@ -127,7 +238,16 @@
     "type": "رواية",
     "status": "مكتملة",
     "rating": "",
-    "total_chapters": 200
+    "total_chapters": 200,
+    "genres": [
+      "نظام",
+      "سحر",
+      "ضعيف الى قوي",
+      "عالم حديث",
+      "مغامرات",
+      "أكشن",
+      "خيال"
+    ]
   },
   {
     "id": "the-163417413th-soulslike-hero",
@@ -137,7 +257,15 @@
     "type": "رواية",
     "status": "مكتملة",
     "rating": "",
-    "total_chapters": 304
+    "total_chapters": 304,
+    "genres": [
+      "فنون قتالية",
+      "إعادة ولادة",
+      "عالم آخر",
+      "سحر",
+      "ضعيف الى قوي",
+      "زراعة"
+    ]
   },
   {
     "id": "the-primordial-record",
@@ -147,7 +275,25 @@
     "type": "رواية",
     "status": "مستمرة",
     "rating": "",
-    "total_chapters": 2224
+    "total_chapters": 2224,
+    "genres": [
+      "أكشن",
+      "استراتجي",
+      "انتقام",
+      "بالغ",
+      "بناء مملكة",
+      "خيال",
+      "دراما",
+      "رعب",
+      "سينن",
+      "غموض",
+      "فانتازيا",
+      "قوى خارقة",
+      "للكبار",
+      "مأساة",
+      "مغامرات",
+      "نفسي"
+    ]
   },
   {
     "id": "the-last-gentleman",
@@ -157,7 +303,15 @@
     "type": "رواية",
     "status": "مكتملة",
     "rating": "",
-    "total_chapters": 707
+    "total_chapters": 707,
+    "genres": [
+      "سحر",
+      "ضعيف الى قوي",
+      "غموض",
+      "أكشن",
+      "خيال",
+      "رعب"
+    ]
   },
   {
     "id": "return-of-the-blossoming-blade",
@@ -167,7 +321,14 @@
     "type": "رواية",
     "status": "مستمرة",
     "rating": "",
-    "total_chapters": 1835
+    "total_chapters": 1835,
+    "genres": [
+      "أكشن",
+      "دراما",
+      "فنون قتالية",
+      "كوميدى",
+      "موريم"
+    ]
   },
   {
     "id": "novel-1649",
@@ -177,7 +338,19 @@
     "type": "رواية",
     "status": "مستمرة",
     "rating": "",
-    "total_chapters": 682
+    "total_chapters": 682,
+    "genres": [
+      "أكشن",
+      "انتقام",
+      "بطل شرير",
+      "بناء مملكة",
+      "سينن",
+      "عسكري",
+      "غموض",
+      "فانتازيا",
+      "فنون قتالية",
+      "قوى خارقة"
+    ]
   },
   {
     "id": "shadow-slave",
@@ -187,7 +360,16 @@
     "type": "رواية",
     "status": "مستمرة",
     "rating": "",
-    "total_chapters": 3190
+    "total_chapters": 3190,
+    "genres": [
+      "أكشن",
+      "رعب",
+      "رومانسي",
+      "غموض",
+      "فانتازيا",
+      "قوى خارقة",
+      "مغامرات"
+    ]
   },
   {
     "id": "radiant-blade-of-the-wilderness",
@@ -197,7 +379,16 @@
     "type": "رواية",
     "status": "مستمرة",
     "rating": "",
-    "total_chapters": 208
+    "total_chapters": 208,
+    "genres": [
+      "أكشن",
+      "خيال",
+      "غموض",
+      "فانتازيا",
+      "فنون قتالية",
+      "قوى خارقة",
+      "للكبار"
+    ]
   },
   {
     "id": "6985ac0d7d66c84567c8a74e",
@@ -207,7 +398,17 @@
     "type": "رواية",
     "status": "مكتملة",
     "rating": "",
-    "total_chapters": 1014
+    "total_chapters": 1014,
+    "genres": [
+      "مترجمة",
+      "فنون قتال",
+      "إعادة ولادة",
+      "عالم آخر",
+      "ضعيف الى قوي",
+      "زراعة",
+      "مغامرة",
+      "غموض"
+    ]
   },
   {
     "id": "68db80d61871e67f86edf623",
@@ -216,7 +417,8 @@
     "cover_url": "https://seanovel.org/api/novel/68db80d61871e67f86edf623/cover",
     "type": "رواية",
     "status": "مستمر",
-    "rating": ""
+    "rating": "",
+    "genres": []
   },
   {
     "id": "6907f77ac82c7dbad2b56434",
@@ -225,7 +427,8 @@
     "cover_url": "https://seanovel.org/api/novel/6907f77ac82c7dbad2b56434/cover",
     "type": "رواية",
     "status": "مستمر",
-    "rating": ""
+    "rating": "",
+    "genres": []
   },
   {
     "id": "691ad0f9598211bfce5688d5",
@@ -235,7 +438,16 @@
     "type": "رواية",
     "status": "مكتملة",
     "rating": "",
-    "total_chapters": 6005
+    "total_chapters": 6005,
+    "genres": [
+      "مترجمة",
+      "فنون قتال",
+      "ضعيف الى قوي",
+      "زراعة",
+      "مغامرة",
+      "اكشن",
+      "خيال"
+    ]
   },
   {
     "id": "6909c972d65992c7d04ef4ae",
@@ -244,7 +456,8 @@
     "cover_url": "https://seanovel.org/api/novel/6909c972d65992c7d04ef4ae/cover",
     "type": "رواية",
     "status": "مستمر",
-    "rating": ""
+    "rating": "",
+    "genres": []
   },
   {
     "id": "reincarnation-of-the-strongest-spirit-master",
@@ -253,7 +466,8 @@
     "cover_url": "https://seanovel.org/api/novel/reincarnation-of-the-strongest-spirit-master/cover",
     "type": "رواية",
     "status": "مستمر",
-    "rating": ""
+    "rating": "",
+    "genres": []
   },
   {
     "id": "69020d37cc7a2812b6123140",
@@ -262,7 +476,8 @@
     "cover_url": "https://seanovel.org/api/novel/69020d37cc7a2812b6123140/cover",
     "type": "رواية",
     "status": "مستمر",
-    "rating": ""
+    "rating": "",
+    "genres": []
   },
   {
     "id": "690db1ad6f0a5426d2233c49",
@@ -271,7 +486,8 @@
     "cover_url": "https://seanovel.org/api/novel/690db1ad6f0a5426d2233c49/cover",
     "type": "رواية",
     "status": "مستمر",
-    "rating": ""
+    "rating": "",
+    "genres": []
   },
   {
     "id": "69673c147d66c84567a7ccda",
@@ -280,7 +496,8 @@
     "cover_url": "https://seanovel.org/api/novel/69673c147d66c84567a7ccda/cover",
     "type": "رواية",
     "status": "مستمر",
-    "rating": ""
+    "rating": "",
+    "genres": []
   },
   {
     "id": "my-wife-is-the-demonic-cult-leader",
@@ -290,7 +507,15 @@
     "type": "رواية",
     "status": "مستمرة",
     "rating": "",
-    "total_chapters": 471
+    "total_chapters": 471,
+    "genres": [
+      "عالم آخر",
+      "رومانسي",
+      "سحر",
+      "مغامرات",
+      "أكشن",
+      "خيال"
+    ]
   },
   {
     "id": "the-lone-wanderer",
@@ -299,7 +524,8 @@
     "cover_url": "https://seanovel.org/api/novel/the-lone-wanderer/cover",
     "type": "رواية",
     "status": "مستمر",
-    "rating": ""
+    "rating": "",
+    "genres": []
   },
   {
     "id": "690e07cc6f0a5426d225f06f",
@@ -309,7 +535,15 @@
     "type": "رواية",
     "status": "مكتملة",
     "rating": "",
-    "total_chapters": 1480
+    "total_chapters": 1480,
+    "genres": [
+      "مترجمة",
+      "إعادة ولادة",
+      "عالم آخر",
+      "سحر",
+      "قوي الى قوي",
+      "مغامرة"
+    ]
   },
   {
     "id": "69033a71cc7a2812b613a677",
@@ -319,7 +553,15 @@
     "type": "رواية",
     "status": "مكتملة",
     "rating": "",
-    "total_chapters": 2108
+    "total_chapters": 2108,
+    "genres": [
+      "مترجمة",
+      "إعادة ولادة",
+      "عالم آخر",
+      "رومانسي",
+      "سحر",
+      "خيال"
+    ]
   },
   {
     "id": "run-away-this-civilization-is-cheating",
@@ -329,7 +571,15 @@
     "type": "رواية",
     "status": "مكتملة",
     "rating": "",
-    "total_chapters": 883
+    "total_chapters": 883,
+    "genres": [
+      "نظام",
+      "عالم آخر",
+      "سحر",
+      "ضعيف الى قوي",
+      "مغامرات",
+      "أكشن"
+    ]
   },
   {
     "id": "gateway-of-immortality",
@@ -339,7 +589,13 @@
     "type": "رواية",
     "status": "مستمرة",
     "rating": "",
-    "total_chapters": 772
+    "total_chapters": 772,
+    "genres": [
+      "أكشن",
+      "مغامرات",
+      "خيال",
+      "شريحة من الحياة"
+    ]
   },
   {
     "id": "library-of-heavens-path",
@@ -349,7 +605,16 @@
     "type": "رواية",
     "status": "مكتملة",
     "rating": "",
-    "total_chapters": 1001
+    "total_chapters": 1001,
+    "genres": [
+      "كوميدى",
+      "فانتازيا",
+      "مغامرات",
+      "أكشن",
+      "دراما",
+      "خيال",
+      "حريم"
+    ]
   },
   {
     "id": "history-number-1-founder",
@@ -359,7 +624,15 @@
     "type": "رواية",
     "status": "مكتملة",
     "rating": "",
-    "total_chapters": 1486
+    "total_chapters": 1486,
+    "genres": [
+      "فنون قتالية",
+      "نظام",
+      "إعادة ولادة",
+      "عالم آخر",
+      "زراعة",
+      "مغامرات"
+    ]
   },
   {
     "id": "cultivation-i-have-studied-abroad-in-the-modern-world",
@@ -369,7 +642,13 @@
     "type": "رواية",
     "status": "مستمرة",
     "rating": "",
-    "total_chapters": 1302
+    "total_chapters": 1302,
+    "genres": [
+      "فنون قتالية",
+      "ضعيف الى قوي",
+      "زراعة",
+      "مغامرات"
+    ]
   },
   {
     "id": "perfect-world",
@@ -379,7 +658,13 @@
     "type": "رواية",
     "status": "مستمرة",
     "rating": "",
-    "total_chapters": 1920
+    "total_chapters": 1920,
+    "genres": [
+      "أكشن",
+      "خيال",
+      "كوميدى",
+      "مأساة"
+    ]
   },
   {
     "id": "myst-might-mayhem",
@@ -389,7 +674,15 @@
     "type": "رواية",
     "status": "مكتملة",
     "rating": "",
-    "total_chapters": 497
+    "total_chapters": 497,
+    "genres": [
+      "أكشن",
+      "الزراعة",
+      "خيال",
+      "فانتازيا",
+      "قتال",
+      "مغامرة"
+    ]
   },
   {
     "id": "69ca6172492ed3ae6a38a15e",
@@ -399,7 +692,18 @@
     "type": "رواية",
     "status": "مكتملة",
     "rating": "",
-    "total_chapters": 721
+    "total_chapters": 721,
+    "genres": [
+      "مترجمة",
+      "نظام",
+      "إعادة ولادة",
+      "سحر",
+      "ضعيف الى قوي",
+      "عالم حديث",
+      "مغامرة",
+      "اكشن",
+      "خيال"
+    ]
   },
   {
     "id": "68f753dc69ffe48a59bf719f",
@@ -409,7 +713,16 @@
     "type": "رواية",
     "status": "مستمرة",
     "rating": "",
-    "total_chapters": 1656
+    "total_chapters": 1656,
+    "genres": [
+      "مترجمة",
+      "نظام",
+      "إعادة ولادة",
+      "رومانسي",
+      "سحر",
+      "قوي الى قوي",
+      "خيال"
+    ]
   },
   {
     "id": "cultivation-start-from-simplifying-martial-arts-techniques",
@@ -419,7 +732,17 @@
     "type": "رواية",
     "status": "مستمرة",
     "rating": "",
-    "total_chapters": 1201
+    "total_chapters": 1201,
+    "genres": [
+      "فنون قتالية",
+      "نظام",
+      "إعادة ولادة",
+      "ضعيف الى قوي",
+      "زراعة",
+      "مغامرات",
+      "أكشن",
+      "خيال"
+    ]
   },
   {
     "id": "the-quest-for-immortality",
@@ -428,7 +751,14 @@
     "cover_url": "https://seanovel.org/api/novel/the-quest-for-immortality/cover",
     "type": "رواية",
     "status": "مستمر",
-    "rating": ""
+    "rating": "",
+    "genres": [
+      "الزراعة",
+      "خيال",
+      "فانتازيا",
+      "قتال",
+      "مهارات القتال"
+    ]
   },
   {
     "id": "the-younger-son-of-the-lord-of-the-sword",
@@ -437,7 +767,14 @@
     "cover_url": "https://seanovel.org/api/novel/the-younger-son-of-the-lord-of-the-sword/cover",
     "type": "رواية",
     "status": "مستمر",
-    "rating": ""
+    "rating": "",
+    "genres": [
+      "أكشن",
+      "شونين",
+      "فانتازيا",
+      "فنون قتالية",
+      "إثارة"
+    ]
   },
   {
     "id": "the-combative-universe",
@@ -446,7 +783,15 @@
     "cover_url": "https://seanovel.org/api/novel/the-combative-universe/cover",
     "type": "رواية",
     "status": "مستمر",
-    "rating": ""
+    "rating": "",
+    "genres": [
+      "مترجمة",
+      "أكشن",
+      "فانتازيا",
+      "فنون قتالية",
+      "مغامرات",
+      "رومانسي"
+    ]
   },
   {
     "id": "the-birth-of-the-devils-sword",
@@ -455,7 +800,16 @@
     "cover_url": "https://seanovel.org/api/novel/the-birth-of-the-devils-sword/cover",
     "type": "رواية",
     "status": "مستمر",
-    "rating": ""
+    "rating": "",
+    "genres": [
+      "مترجمة",
+      "أكشن",
+      "دراما",
+      "فانتازيا",
+      "فنون قتالية",
+      "مغامرات",
+      "سحر"
+    ]
   },
   {
     "id": "rebirth-of-the-thief",
@@ -464,7 +818,14 @@
     "cover_url": "https://seanovel.org/api/novel/rebirth-of-the-thief/cover",
     "type": "رواية",
     "status": "مستمر",
-    "rating": ""
+    "rating": "",
+    "genres": [
+      "أكشن",
+      "دراما",
+      "فانتازيا",
+      "مغامرة",
+      "خيال علمي"
+    ]
   },
   {
     "id": "6907f4f3c82c7dbad2b562e0",
@@ -473,7 +834,19 @@
     "cover_url": "https://seanovel.org/api/novel/6907f4f3c82c7dbad2b562e0/cover",
     "type": "رواية",
     "status": "مستمر",
-    "rating": ""
+    "rating": "",
+    "genres": [
+      "مترجمة",
+      "نظام",
+      "سحر",
+      "ضعيف الى قوي",
+      "عالم حديث",
+      "زراعة",
+      "مغامرة",
+      "اكشن",
+      "خيال",
+      "لعبة"
+    ]
   },
   {
     "id": "invincible",
@@ -482,7 +855,22 @@
     "cover_url": "https://seanovel.org/api/novel/invincible/cover",
     "type": "رواية",
     "status": "مستمر",
-    "rating": ""
+    "rating": "",
+    "genres": [
+      "أكشن",
+      "انتقام",
+      "بالغ",
+      "حريم",
+      "خيال",
+      "دراما",
+      "رومانسي",
+      "شوانهوان",
+      "غموض",
+      "فانتازيا",
+      "فنون قتالية",
+      "قوى خارقة",
+      "مغامرات"
+    ]
   },
   {
     "id": "cursed-immortality",
@@ -491,7 +879,15 @@
     "cover_url": "https://seanovel.org/api/novel/cursed-immortality/cover",
     "type": "رواية",
     "status": "مستمر",
-    "rating": ""
+    "rating": "",
+    "genres": [
+      "مترجمة",
+      "أكشن",
+      "فانتازيا",
+      "مغامرات",
+      "خيال علمي",
+      "قوى خارقة"
+    ]
   },
   {
     "id": "to-be-a-power-in-the-shadows",
@@ -500,7 +896,15 @@
     "cover_url": "https://seanovel.org/api/novel/to-be-a-power-in-the-shadows/cover",
     "type": "رواية",
     "status": "مستمر",
-    "rating": ""
+    "rating": "",
+    "genres": [
+      "أكشن",
+      "مغامرات",
+      "فانتازيا",
+      "كوميديا",
+      "درامية",
+      "حصرية"
+    ]
   },
   {
     "id": "solo-leveling",
@@ -509,7 +913,15 @@
     "cover_url": "https://seanovel.org/api/novel/solo-leveling/cover",
     "type": "رواية",
     "status": "مستمر",
-    "rating": ""
+    "rating": "",
+    "genres": [
+      "أكشن",
+      "جريمة",
+      "خارق للطبيعة",
+      "خيال",
+      "سحر",
+      "قوى خارقة"
+    ]
   },
   {
     "id": "the-first-order",
@@ -518,7 +930,16 @@
     "cover_url": "https://seanovel.org/api/novel/the-first-order/cover",
     "type": "رواية",
     "status": "مستمر",
-    "rating": ""
+    "rating": "",
+    "genres": [
+      "أكشن",
+      "فانتازيا",
+      "خيال علمي",
+      "شونين",
+      "كوميدى",
+      "مغامرات",
+      "مأساة"
+    ]
   },
   {
     "id": "mystery-hunter",
@@ -527,7 +948,15 @@
     "cover_url": "https://seanovel.org/api/novel/mystery-hunter/cover",
     "type": "رواية",
     "status": "مستمر",
-    "rating": ""
+    "rating": "",
+    "genres": [
+      "رعب",
+      "رعب بالغ",
+      "غموض",
+      "مأساة",
+      "نفسي",
+      "رواية صينية"
+    ]
   },
   {
     "id": "6905c6a9cc7a2812b616d09f",
@@ -536,7 +965,14 @@
     "cover_url": "https://seanovel.org/api/novel/6905c6a9cc7a2812b616d09f/cover",
     "type": "رواية",
     "status": "مستمر",
-    "rating": ""
+    "rating": "",
+    "genres": [
+      "مترجمة",
+      "نظام",
+      "سحر",
+      "ضعيف الى قوي",
+      "مغامرة"
+    ]
   },
   {
     "id": "simulation-suppressing-the-fate-of-heaven-i-became-an-immortal-in-three-days",
@@ -545,7 +981,16 @@
     "cover_url": "https://seanovel.org/api/novel/simulation-suppressing-the-fate-of-heaven-i-became-an-immortal-in-three-days/cover",
     "type": "رواية",
     "status": "مستمر",
-    "rating": ""
+    "rating": "",
+    "genres": [
+      "أكشن",
+      "الزراعة",
+      "فانتازيا",
+      "فنون قتالية",
+      "قتال",
+      "محاكي",
+      "نظام"
+    ]
   },
   {
     "id": "sss-class-suicide-hunter",
@@ -554,7 +999,21 @@
     "cover_url": "https://seanovel.org/api/novel/sss-class-suicide-hunter/cover",
     "type": "رواية",
     "status": "مستمر",
-    "rating": ""
+    "rating": "",
+    "genres": [
+      "أكشن",
+      "خيال",
+      "دراما",
+      "رعب",
+      "سحر",
+      "فانتازيا",
+      "فنون قتالية",
+      "قتال",
+      "قوى خارقة",
+      "مأساة",
+      "مهارات القتال",
+      "نظام"
+    ]
   },
   {
     "id": "novel-294",
@@ -563,7 +1022,11 @@
     "cover_url": "https://seanovel.org/api/novel/novel-294/cover",
     "type": "رواية",
     "status": "مستمر",
-    "rating": ""
+    "rating": "",
+    "genres": [
+      "مترجمة",
+      "فنون قتالية"
+    ]
   },
   {
     "id": "the-infinite-magician",
@@ -572,7 +1035,13 @@
     "cover_url": "https://seanovel.org/api/novel/the-infinite-magician/cover",
     "type": "رواية",
     "status": "مستمر",
-    "rating": ""
+    "rating": "",
+    "genres": [
+      "أكشن",
+      "سحر",
+      "حياة مدرسية",
+      "دراما"
+    ]
   },
   {
     "id": "the-irregular-at-magic-high-school-mahouka-koukou-no-rettous",
@@ -581,7 +1050,16 @@
     "cover_url": "https://seanovel.org/api/novel/the-irregular-at-magic-high-school-mahouka-koukou-no-rettous/cover",
     "type": "رواية",
     "status": "مستمر",
-    "rating": ""
+    "rating": "",
+    "genres": [
+      "أكشن",
+      "خيال علمي",
+      "حياة مدرسية",
+      "رومانسي",
+      "سحر",
+      "شونين",
+      "خارق للطبيعة"
+    ]
   },
   {
     "id": "the-reaper-of-the-drifting-moon",
@@ -590,7 +1068,14 @@
     "cover_url": "https://seanovel.org/api/novel/the-reaper-of-the-drifting-moon/cover",
     "type": "رواية",
     "status": "مستمر",
-    "rating": ""
+    "rating": "",
+    "genres": [
+      "أكشن",
+      "فنون قتالية",
+      "موريم",
+      "انتقام",
+      "دراما"
+    ]
   },
   {
     "id": "the-dark-king",
@@ -599,7 +1084,18 @@
     "cover_url": "https://seanovel.org/api/novel/the-dark-king/cover",
     "type": "رواية",
     "status": "مستمر",
-    "rating": ""
+    "rating": "",
+    "genres": [
+      "أكشن",
+      "خيال علمي",
+      "خارق للطبيعة",
+      "خيال",
+      "دراما",
+      "رعب",
+      "رومانسي",
+      "فنون قتالية",
+      "مغامرات"
+    ]
   },
   {
     "id": "water-magician",
@@ -608,7 +1104,15 @@
     "cover_url": "https://seanovel.org/api/novel/water-magician/cover",
     "type": "رواية",
     "status": "مستمر",
-    "rating": ""
+    "rating": "",
+    "genres": [
+      "فانتازيا",
+      "أكشن",
+      "مغامرات",
+      "كوميديا",
+      "رومانسية",
+      "حصرية"
+    ]
   },
   {
     "id": "novel-198",
@@ -617,7 +1121,15 @@
     "cover_url": "https://seanovel.org/api/novel/novel-198/cover",
     "type": "رواية",
     "status": "مستمر",
-    "rating": ""
+    "rating": "",
+    "genres": [
+      "فنون قتالية",
+      "أكشن",
+      "خيال",
+      "شوانهوان",
+      "حريم",
+      "كوميدى"
+    ]
   },
   {
     "id": "85042",
@@ -626,7 +1138,15 @@
     "cover_url": "https://seanovel.org/api/novel/85042/cover",
     "type": "رواية",
     "status": "مستمر",
-    "rating": ""
+    "rating": "",
+    "genres": [
+      "فانتازيا",
+      "تشويق",
+      "غموض",
+      "نفسي",
+      "مغامرة",
+      "حصرية"
+    ]
   },
   {
     "id": "first-immortal-of-the-sword",
@@ -635,7 +1155,8 @@
     "cover_url": "https://seanovel.org/api/novel/first-immortal-of-the-sword/cover",
     "type": "رواية",
     "status": "مستمر",
-    "rating": ""
+    "rating": "",
+    "genres": []
   },
   {
     "id": "death-of-an-extra-i-am-the-son-of-hades",
@@ -644,7 +1165,8 @@
     "cover_url": "https://seanovel.org/api/novel/death-of-an-extra-i-am-the-son-of-hades/cover",
     "type": "رواية",
     "status": "مستمر",
-    "rating": ""
+    "rating": "",
+    "genres": []
   },
   {
     "id": "i-became-the-pope-now-what",
@@ -653,7 +1175,8 @@
     "cover_url": "https://seanovel.org/api/novel/i-became-the-pope-now-what/cover",
     "type": "رواية",
     "status": "مستمر",
-    "rating": ""
+    "rating": "",
+    "genres": []
   },
   {
     "id": "getting-a-technology-system-in-modern-day",
@@ -662,7 +1185,8 @@
     "cover_url": "https://seanovel.org/api/novel/getting-a-technology-system-in-modern-day/cover",
     "type": "رواية",
     "status": "مستمر",
-    "rating": ""
+    "rating": "",
+    "genres": []
   },
   {
     "id": "novel-496",
@@ -671,7 +1195,8 @@
     "cover_url": "https://seanovel.org/api/novel/novel-496/cover",
     "type": "رواية",
     "status": "مستمر",
-    "rating": ""
+    "rating": "",
+    "genres": []
   },
   {
     "id": "release-that-witch",
@@ -680,7 +1205,8 @@
     "cover_url": "https://seanovel.org/api/novel/release-that-witch/cover",
     "type": "رواية",
     "status": "مستمر",
-    "rating": ""
+    "rating": "",
+    "genres": []
   },
   {
     "id": "the-steward-demonic-emperor",
@@ -689,7 +1215,8 @@
     "cover_url": "https://seanovel.org/api/novel/the-steward-demonic-emperor/cover",
     "type": "رواية",
     "status": "مستمر",
-    "rating": ""
+    "rating": "",
+    "genres": []
   },
   {
     "id": "throne-of-magic-arcana",
@@ -698,7 +1225,8 @@
     "cover_url": "https://seanovel.org/api/novel/throne-of-magic-arcana/cover",
     "type": "رواية",
     "status": "مستمر",
-    "rating": ""
+    "rating": "",
+    "genres": []
   },
   {
     "id": "black-tech-internet-cafe-system",
@@ -707,7 +1235,8 @@
     "cover_url": "https://seanovel.org/api/novel/black-tech-internet-cafe-system/cover",
     "type": "رواية",
     "status": "مستمر",
-    "rating": ""
+    "rating": "",
+    "genres": []
   },
   {
     "id": "lord-of-mysteries",
@@ -716,7 +1245,8 @@
     "cover_url": "https://seanovel.org/api/novel/lord-of-mysteries/cover",
     "type": "رواية",
     "status": "مستمر",
-    "rating": ""
+    "rating": "",
+    "genres": []
   },
   {
     "id": "my-death-flags-show-no-sign-of-ending",
@@ -725,7 +1255,8 @@
     "cover_url": "https://seanovel.org/api/novel/my-death-flags-show-no-sign-of-ending/cover",
     "type": "رواية",
     "status": "مستمر",
-    "rating": ""
+    "rating": "",
+    "genres": []
   },
   {
     "id": "sevens",
@@ -734,7 +1265,8 @@
     "cover_url": "https://seanovel.org/api/novel/sevens/cover",
     "type": "رواية",
     "status": "مستمر",
-    "rating": ""
+    "rating": "",
+    "genres": []
   },
   {
     "id": "the-legend-of-ling-tian",
@@ -743,7 +1275,8 @@
     "cover_url": "https://seanovel.org/api/novel/the-legend-of-ling-tian/cover",
     "type": "رواية",
     "status": "مستمر",
-    "rating": ""
+    "rating": "",
+    "genres": []
   },
   {
     "id": "first-legendary-dragon-starting-with-the-limitless-system",
@@ -752,7 +1285,8 @@
     "cover_url": "https://seanovel.org/api/novel/first-legendary-dragon-starting-with-the-limitless-system/cover",
     "type": "رواية",
     "status": "مستمر",
-    "rating": ""
+    "rating": "",
+    "genres": []
   },
   {
     "id": "starting-as-a-son-in-law-to-establish-an-immortal-family",
@@ -761,7 +1295,8 @@
     "cover_url": "https://seanovel.org/api/novel/starting-as-a-son-in-law-to-establish-an-immortal-family/cover",
     "type": "رواية",
     "status": "مستمر",
-    "rating": ""
+    "rating": "",
+    "genres": []
   },
   {
     "id": "the-sacred-ruins",
@@ -770,7 +1305,8 @@
     "cover_url": "https://seanovel.org/api/novel/the-sacred-ruins/cover",
     "type": "رواية",
     "status": "مستمر",
-    "rating": ""
+    "rating": "",
+    "genres": []
   },
   {
     "id": "kingdom-dynasty",
@@ -779,7 +1315,8 @@
     "cover_url": "https://seanovel.org/api/novel/kingdom-dynasty/cover",
     "type": "رواية",
     "status": "مستمر",
-    "rating": ""
+    "rating": "",
+    "genres": []
   },
   {
     "id": "surviving-the-game-as-a-barbarian",
@@ -788,7 +1325,8 @@
     "cover_url": "https://seanovel.org/api/novel/surviving-the-game-as-a-barbarian/cover",
     "type": "رواية",
     "status": "مستمر",
-    "rating": ""
+    "rating": "",
+    "genres": []
   },
   {
     "id": "the-all-encompassing-reader",
@@ -797,7 +1335,8 @@
     "cover_url": "https://seanovel.org/api/novel/the-all-encompassing-reader/cover",
     "type": "رواية",
     "status": "مستمر",
-    "rating": ""
+    "rating": "",
+    "genres": []
   },
   {
     "id": "hail-the-king",
@@ -806,7 +1345,8 @@
     "cover_url": "https://seanovel.org/api/novel/hail-the-king/cover",
     "type": "رواية",
     "status": "مستمر",
-    "rating": ""
+    "rating": "",
+    "genres": []
   },
   {
     "id": "diary-of-a-dead-wizard",
@@ -815,7 +1355,8 @@
     "cover_url": "https://seanovel.org/api/novel/diary-of-a-dead-wizard/cover",
     "type": "رواية",
     "status": "مستمر",
-    "rating": ""
+    "rating": "",
+    "genres": []
   },
   {
     "id": "novel-38",
@@ -824,7 +1365,8 @@
     "cover_url": "https://seanovel.org/api/novel/novel-38/cover",
     "type": "رواية",
     "status": "مستمر",
-    "rating": ""
+    "rating": "",
+    "genres": []
   },
   {
     "id": "the-strongest-system",
@@ -833,7 +1375,8 @@
     "cover_url": "https://seanovel.org/api/novel/the-strongest-system/cover",
     "type": "رواية",
     "status": "مستمر",
-    "rating": ""
+    "rating": "",
+    "genres": []
   },
   {
     "id": "lord-of-mysteries-2-circle-of-inevitability",
@@ -842,7 +1385,8 @@
     "cover_url": "https://seanovel.org/api/novel/lord-of-mysteries-2-circle-of-inevitability/cover",
     "type": "رواية",
     "status": "مستمر",
-    "rating": ""
+    "rating": "",
+    "genres": []
   },
   {
     "id": "god-of-martial-arts",
@@ -851,7 +1395,8 @@
     "cover_url": "https://seanovel.org/api/novel/god-of-martial-arts/cover",
     "type": "رواية",
     "status": "مستمر",
-    "rating": ""
+    "rating": "",
+    "genres": []
   },
   {
     "id": "pursuit-of-truth",
@@ -860,7 +1405,8 @@
     "cover_url": "https://seanovel.org/api/novel/pursuit-of-truth/cover",
     "type": "رواية",
     "status": "مستمر",
-    "rating": ""
+    "rating": "",
+    "genres": []
   },
   {
     "id": "79726",
@@ -869,7 +1415,8 @@
     "cover_url": "https://seanovel.org/api/novel/79726/cover",
     "type": "رواية",
     "status": "مستمر",
-    "rating": ""
+    "rating": "",
+    "genres": []
   },
   {
     "id": "cote-there-is-something-wrong-with-hikigaya",
@@ -878,7 +1425,8 @@
     "cover_url": "https://seanovel.org/api/novel/cote-there-is-something-wrong-with-hikigaya/cover",
     "type": "رواية",
     "status": "مستمر",
-    "rating": ""
+    "rating": "",
+    "genres": []
   },
   {
     "id": "turns-out-im-in-a-villain-clan",
@@ -887,7 +1435,8 @@
     "cover_url": "https://seanovel.org/api/novel/turns-out-im-in-a-villain-clan/cover",
     "type": "رواية",
     "status": "مستمر",
-    "rating": ""
+    "rating": "",
+    "genres": []
   },
   {
     "id": "mechanical-alchemist",
@@ -896,7 +1445,8 @@
     "cover_url": "https://seanovel.org/api/novel/mechanical-alchemist/cover",
     "type": "رواية",
     "status": "مستمر",
-    "rating": ""
+    "rating": "",
+    "genres": []
   },
   {
     "id": "a-will-eternal",
@@ -905,7 +1455,8 @@
     "cover_url": "https://seanovel.org/api/novel/a-will-eternal/cover",
     "type": "رواية",
     "status": "مستمر",
-    "rating": ""
+    "rating": "",
+    "genres": []
   },
   {
     "id": "horror-game-developer-my-games-arent-that-scary",
@@ -914,7 +1465,8 @@
     "cover_url": "https://seanovel.org/api/novel/horror-game-developer-my-games-arent-that-scary/cover",
     "type": "رواية",
     "status": "مستمر",
-    "rating": ""
+    "rating": "",
+    "genres": []
   },
   {
     "id": "affinitychaos",
@@ -923,7 +1475,8 @@
     "cover_url": "https://seanovel.org/api/novel/affinitychaos/cover",
     "type": "رواية",
     "status": "مستمر",
-    "rating": ""
+    "rating": "",
+    "genres": []
   },
   {
     "id": "classroom-of-the-elite-year-1",
@@ -932,7 +1485,8 @@
     "cover_url": "https://seanovel.org/api/novel/classroom-of-the-elite-year-1/cover",
     "type": "رواية",
     "status": "مستمر",
-    "rating": ""
+    "rating": "",
+    "genres": []
   },
   {
     "id": "dragon-marked-war-god",
@@ -941,7 +1495,8 @@
     "cover_url": "https://seanovel.org/api/novel/dragon-marked-war-god/cover",
     "type": "رواية",
     "status": "مستمر",
-    "rating": ""
+    "rating": "",
+    "genres": []
   },
   {
     "id": "tales-of-a-returnees-cultivation",
@@ -950,7 +1505,8 @@
     "cover_url": "https://seanovel.org/api/novel/tales-of-a-returnees-cultivation/cover",
     "type": "رواية",
     "status": "مستمر",
-    "rating": ""
+    "rating": "",
+    "genres": []
   },
   {
     "id": "novel-618",
@@ -959,7 +1515,8 @@
     "cover_url": "https://seanovel.org/api/novel/novel-618/cover",
     "type": "رواية",
     "status": "مستمر",
-    "rating": ""
+    "rating": "",
+    "genres": []
   },
   {
     "id": "martial-arts-master",
@@ -968,7 +1525,8 @@
     "cover_url": "https://seanovel.org/api/novel/martial-arts-master/cover",
     "type": "رواية",
     "status": "مستمر",
-    "rating": ""
+    "rating": "",
+    "genres": []
   },
   {
     "id": "archean-eon-art",
@@ -977,7 +1535,8 @@
     "cover_url": "https://seanovel.org/api/novel/archean-eon-art/cover",
     "type": "رواية",
     "status": "مستمر",
-    "rating": ""
+    "rating": "",
+    "genres": []
   },
   {
     "id": "the-mediocre-youth",
@@ -986,7 +1545,8 @@
     "cover_url": "https://seanovel.org/api/novel/the-mediocre-youth/cover",
     "type": "رواية",
     "status": "مستمر",
-    "rating": ""
+    "rating": "",
+    "genres": []
   },
   {
     "id": "tales-of-the-world-devouring-serpent",
@@ -995,7 +1555,8 @@
     "cover_url": "https://seanovel.org/api/novel/tales-of-the-world-devouring-serpent/cover",
     "type": "رواية",
     "status": "مستمر",
-    "rating": ""
+    "rating": "",
+    "genres": []
   },
   {
     "id": "ancient-godly-monarch",
@@ -1004,7 +1565,8 @@
     "cover_url": "https://seanovel.org/api/novel/ancient-godly-monarch/cover",
     "type": "رواية",
     "status": "مستمر",
-    "rating": ""
+    "rating": "",
+    "genres": []
   },
   {
     "id": "my-house-of-horrors",
@@ -1013,7 +1575,8 @@
     "cover_url": "https://seanovel.org/api/novel/my-house-of-horrors/cover",
     "type": "رواية",
     "status": "مستمر",
-    "rating": ""
+    "rating": "",
+    "genres": []
   },
   {
     "id": "immune-to-pain-worried-that-the-villain-is-not-perverted-enough",
@@ -1022,7 +1585,8 @@
     "cover_url": "https://seanovel.org/api/novel/immune-to-pain-worried-that-the-villain-is-not-perverted-enough/cover",
     "type": "رواية",
     "status": "مستمر",
-    "rating": ""
+    "rating": "",
+    "genres": []
   },
   {
     "id": "6917e475598211bfce402eff",
@@ -1031,7 +1595,8 @@
     "cover_url": "https://seanovel.org/api/novel/6917e475598211bfce402eff/cover",
     "type": "رواية",
     "status": "مستمر",
-    "rating": ""
+    "rating": "",
+    "genres": []
   },
   {
     "id": "overgeared",
@@ -1040,7 +1605,8 @@
     "cover_url": "https://seanovel.org/api/novel/overgeared/cover",
     "type": "رواية",
     "status": "مستمر",
-    "rating": ""
+    "rating": "",
+    "genres": []
   },
   {
     "id": "martial-god-asura",
@@ -1049,7 +1615,8 @@
     "cover_url": "https://seanovel.org/api/novel/martial-god-asura/cover",
     "type": "رواية",
     "status": "مستمر",
-    "rating": ""
+    "rating": "",
+    "genres": []
   },
   {
     "id": "the-descent-of-the-devil",
@@ -1058,7 +1625,8 @@
     "cover_url": "https://seanovel.org/api/novel/the-descent-of-the-devil/cover",
     "type": "رواية",
     "status": "مستمر",
-    "rating": ""
+    "rating": "",
+    "genres": []
   },
   {
     "id": "novel-83",
@@ -1067,7 +1635,8 @@
     "cover_url": "https://seanovel.org/api/novel/novel-83/cover",
     "type": "رواية",
     "status": "مستمر",
-    "rating": ""
+    "rating": "",
+    "genres": []
   },
   {
     "id": "the-novels-extra",
@@ -1076,7 +1645,8 @@
     "cover_url": "https://seanovel.org/api/novel/the-novels-extra/cover",
     "type": "رواية",
     "status": "مستمر",
-    "rating": ""
+    "rating": "",
+    "genres": []
   },
   {
     "id": "i-became-the-tyrant-of-a-defense-game",
@@ -1085,7 +1655,8 @@
     "cover_url": "https://seanovel.org/api/novel/i-became-the-tyrant-of-a-defense-game/cover",
     "type": "رواية",
     "status": "مستمر",
-    "rating": ""
+    "rating": "",
+    "genres": []
   },
   {
     "id": "after-ten-millennia-in-hell",
@@ -1094,7 +1665,8 @@
     "cover_url": "https://seanovel.org/api/novel/after-ten-millennia-in-hell/cover",
     "type": "رواية",
     "status": "مستمر",
-    "rating": ""
+    "rating": "",
+    "genres": []
   },
   {
     "id": "realizing-this-is-a-wuxia-world-after-cultivating-for-300-ye",
@@ -1103,7 +1675,8 @@
     "cover_url": "https://seanovel.org/api/novel/realizing-this-is-a-wuxia-world-after-cultivating-for-300-ye/cover",
     "type": "رواية",
     "status": "مستمر",
-    "rating": ""
+    "rating": "",
+    "genres": []
   },
   {
     "id": "ive-been-home-for-a-hundred-years-and-im-invincible-when-i-go-out",
@@ -1112,7 +1685,8 @@
     "cover_url": "https://seanovel.org/api/novel/ive-been-home-for-a-hundred-years-and-im-invincible-when-i-go-out/cover",
     "type": "رواية",
     "status": "مستمر",
-    "rating": ""
+    "rating": "",
+    "genres": []
   },
   {
     "id": "i-am-a-scarecrow-and-the-demon-lord-of-terror",
@@ -1121,7 +1695,8 @@
     "cover_url": "https://seanovel.org/api/novel/i-am-a-scarecrow-and-the-demon-lord-of-terror/cover",
     "type": "رواية",
     "status": "مستمر",
-    "rating": ""
+    "rating": "",
+    "genres": []
   },
   {
     "id": "supreme-magus",
@@ -1130,7 +1705,8 @@
     "cover_url": "https://seanovel.org/api/novel/supreme-magus/cover",
     "type": "رواية",
     "status": "مستمر",
-    "rating": ""
+    "rating": "",
+    "genres": []
   },
   {
     "id": "lightning-is-the-only-way",
@@ -1139,7 +1715,8 @@
     "cover_url": "https://seanovel.org/api/novel/lightning-is-the-only-way/cover",
     "type": "رواية",
     "status": "مستمر",
-    "rating": ""
+    "rating": "",
+    "genres": []
   },
   {
     "id": "everyone-i-started-with-a-mythical-talent-and-i-killed-a-god-with-one-sword",
@@ -1148,7 +1725,8 @@
     "cover_url": "https://seanovel.org/api/novel/everyone-i-started-with-a-mythical-talent-and-i-killed-a-god-with-one-sword/cover",
     "type": "رواية",
     "status": "مستمر",
-    "rating": ""
+    "rating": "",
+    "genres": []
   },
   {
     "id": "sovereign-of-the-three-realms",
@@ -1157,7 +1735,8 @@
     "cover_url": "https://seanovel.org/api/novel/sovereign-of-the-three-realms/cover",
     "type": "رواية",
     "status": "مستمر",
-    "rating": ""
+    "rating": "",
+    "genres": []
   },
   {
     "id": "novel-195",
@@ -1166,7 +1745,8 @@
     "cover_url": "https://seanovel.org/api/novel/novel-195/cover",
     "type": "رواية",
     "status": "مستمر",
-    "rating": ""
+    "rating": "",
+    "genres": []
   },
   {
     "id": "novel-329",
@@ -1175,7 +1755,8 @@
     "cover_url": "https://seanovel.org/api/novel/novel-329/cover",
     "type": "رواية",
     "status": "مستمر",
-    "rating": ""
+    "rating": "",
+    "genres": []
   },
   {
     "id": "i-have-quietly-become-a-great-leader-in-the-village-of-begin",
@@ -1184,7 +1765,8 @@
     "cover_url": "https://seanovel.org/api/novel/i-have-quietly-become-a-great-leader-in-the-village-of-begin/cover",
     "type": "رواية",
     "status": "مستمر",
-    "rating": ""
+    "rating": "",
+    "genres": []
   },
   {
     "id": "warlock-of-the-magus-world",
@@ -1193,7 +1775,8 @@
     "cover_url": "https://seanovel.org/api/novel/warlock-of-the-magus-world/cover",
     "type": "رواية",
     "status": "مستمر",
-    "rating": ""
+    "rating": "",
+    "genres": []
   },
   {
     "id": "they-are-all-reborn-who-will-fall-in-love",
@@ -1202,7 +1785,8 @@
     "cover_url": "https://seanovel.org/api/novel/they-are-all-reborn-who-will-fall-in-love/cover",
     "type": "رواية",
     "status": "مستمر",
-    "rating": ""
+    "rating": "",
+    "genres": []
   },
   {
     "id": "ascendance-of-a-bookworm",
@@ -1211,7 +1795,8 @@
     "cover_url": "https://seanovel.org/api/novel/ascendance-of-a-bookworm/cover",
     "type": "رواية",
     "status": "مستمر",
-    "rating": ""
+    "rating": "",
+    "genres": []
   },
   {
     "id": "the-tavern-keeper",
@@ -1220,7 +1805,8 @@
     "cover_url": "https://seanovel.org/api/novel/the-tavern-keeper/cover",
     "type": "رواية",
     "status": "مستمر",
-    "rating": ""
+    "rating": "",
+    "genres": []
   },
   {
     "id": "it-is-lonely-to-be-invincible",
@@ -1229,7 +1815,8 @@
     "cover_url": "https://seanovel.org/api/novel/it-is-lonely-to-be-invincible/cover",
     "type": "رواية",
     "status": "مستمر",
-    "rating": ""
+    "rating": "",
+    "genres": []
   },
   {
     "id": "a-new-body-with-the-strongest-system",
@@ -1238,7 +1825,8 @@
     "cover_url": "https://seanovel.org/api/novel/a-new-body-with-the-strongest-system/cover",
     "type": "رواية",
     "status": "مستمر",
-    "rating": ""
+    "rating": "",
+    "genres": []
   },
   {
     "id": "simulation-of-prolonging-life",
@@ -1247,7 +1835,8 @@
     "cover_url": "https://seanovel.org/api/novel/simulation-of-prolonging-life/cover",
     "type": "رواية",
     "status": "مستمر",
-    "rating": ""
+    "rating": "",
+    "genres": []
   },
   {
     "id": "tales-of-herding-gods",
@@ -1256,7 +1845,8 @@
     "cover_url": "https://seanovel.org/api/novel/tales-of-herding-gods/cover",
     "type": "رواية",
     "status": "مستمر",
-    "rating": ""
+    "rating": "",
+    "genres": []
   },
   {
     "id": "90442",
@@ -1265,7 +1855,8 @@
     "cover_url": "https://seanovel.org/api/novel/90442/cover",
     "type": "رواية",
     "status": "مستمر",
-    "rating": ""
+    "rating": "",
+    "genres": []
   },
   {
     "id": "second-life-ranker",
@@ -1274,7 +1865,8 @@
     "cover_url": "https://seanovel.org/api/novel/second-life-ranker/cover",
     "type": "رواية",
     "status": "مستمر",
-    "rating": ""
+    "rating": "",
+    "genres": []
   },
   {
     "id": "nurturing-humanity",
@@ -1283,7 +1875,8 @@
     "cover_url": "https://seanovel.org/api/novel/nurturing-humanity/cover",
     "type": "رواية",
     "status": "مستمر",
-    "rating": ""
+    "rating": "",
+    "genres": []
   },
   {
     "id": "silent-witch",
@@ -1292,7 +1885,8 @@
     "cover_url": "https://seanovel.org/api/novel/silent-witch/cover",
     "type": "رواية",
     "status": "مستمر",
-    "rating": ""
+    "rating": "",
+    "genres": []
   },
   {
     "id": "novel-160",
@@ -1301,7 +1895,8 @@
     "cover_url": "https://seanovel.org/api/novel/novel-160/cover",
     "type": "رواية",
     "status": "مستمر",
-    "rating": ""
+    "rating": "",
+    "genres": []
   },
   {
     "id": "steel-and-sorrow-rise-of-the-mercenary-king",
@@ -1310,7 +1905,8 @@
     "cover_url": "https://seanovel.org/api/novel/steel-and-sorrow-rise-of-the-mercenary-king/cover",
     "type": "رواية",
     "status": "مستمر",
-    "rating": ""
+    "rating": "",
+    "genres": []
   },
   {
     "id": "return-of-the-calamity-class-death-knight",
@@ -1319,7 +1915,8 @@
     "cover_url": "https://seanovel.org/api/novel/return-of-the-calamity-class-death-knight/cover",
     "type": "رواية",
     "status": "مستمر",
-    "rating": ""
+    "rating": "",
+    "genres": []
   },
   {
     "id": "being-a-talent-in-the-chusheng-demon-sect",
@@ -1328,7 +1925,8 @@
     "cover_url": "https://seanovel.org/api/novel/being-a-talent-in-the-chusheng-demon-sect/cover",
     "type": "رواية",
     "status": "مستمر",
-    "rating": ""
+    "rating": "",
+    "genres": []
   },
   {
     "id": "the-tutorial-is-too-hard",
@@ -1337,7 +1935,8 @@
     "cover_url": "https://seanovel.org/api/novel/the-tutorial-is-too-hard/cover",
     "type": "رواية",
     "status": "مستمر",
-    "rating": ""
+    "rating": "",
+    "genres": []
   },
   {
     "id": "damn-reincarnation",
@@ -1346,7 +1945,8 @@
     "cover_url": "https://seanovel.org/api/novel/damn-reincarnation/cover",
     "type": "رواية",
     "status": "مستمر",
-    "rating": ""
+    "rating": "",
+    "genres": []
   },
   {
     "id": "i-want-to-eat-your-pancreas",
@@ -1355,7 +1955,8 @@
     "cover_url": "https://seanovel.org/api/novel/i-want-to-eat-your-pancreas/cover",
     "type": "رواية",
     "status": "مستمر",
-    "rating": ""
+    "rating": "",
+    "genres": []
   },
   {
     "id": "emperors-domination",
@@ -1364,7 +1965,8 @@
     "cover_url": "https://seanovel.org/api/novel/emperors-domination/cover",
     "type": "رواية",
     "status": "مستمر",
-    "rating": ""
+    "rating": "",
+    "genres": []
   },
   {
     "id": "starting-with-an-sss-rank-swordsmanship-talent",
@@ -1373,7 +1975,8 @@
     "cover_url": "https://seanovel.org/api/novel/starting-with-an-sss-rank-swordsmanship-talent/cover",
     "type": "رواية",
     "status": "مستمر",
-    "rating": ""
+    "rating": "",
+    "genres": []
   },
   {
     "id": "the-authors-pov",
@@ -1382,7 +1985,8 @@
     "cover_url": "https://seanovel.org/api/novel/the-authors-pov/cover",
     "type": "رواية",
     "status": "مستمر",
-    "rating": ""
+    "rating": "",
+    "genres": []
   },
   {
     "id": "all-my-disciples-are-kings",
@@ -1391,7 +1995,8 @@
     "cover_url": "https://seanovel.org/api/novel/all-my-disciples-are-kings/cover",
     "type": "رواية",
     "status": "مستمر",
-    "rating": ""
+    "rating": "",
+    "genres": []
   },
   {
     "id": "imitation-my-identity-is-endlessly-renewed-sweeping-through-the-heavenly-worlds",
@@ -1400,7 +2005,8 @@
     "cover_url": "https://seanovel.org/api/novel/imitation-my-identity-is-endlessly-renewed-sweeping-through-the-heavenly-worlds/cover",
     "type": "رواية",
     "status": "مستمر",
-    "rating": ""
+    "rating": "",
+    "genres": []
   },
   {
     "id": "trash-of-the-counts-family",
@@ -1409,7 +2015,8 @@
     "cover_url": "https://seanovel.org/api/novel/trash-of-the-counts-family/cover",
     "type": "رواية",
     "status": "مستمر",
-    "rating": ""
+    "rating": "",
+    "genres": []
   },
   {
     "id": "my-wife-is-a-sword-god",
@@ -1418,7 +2025,8 @@
     "cover_url": "https://seanovel.org/api/novel/my-wife-is-a-sword-god/cover",
     "type": "رواية",
     "status": "مستمر",
-    "rating": ""
+    "rating": "",
+    "genres": []
   },
   {
     "id": "beyond-the-temporal-horizon",
@@ -1427,7 +2035,8 @@
     "cover_url": "https://seanovel.org/api/novel/beyond-the-temporal-horizon/cover",
     "type": "رواية",
     "status": "مستمر",
-    "rating": ""
+    "rating": "",
+    "genres": []
   },
   {
     "id": "soul-of-searing-steel",
@@ -1436,7 +2045,8 @@
     "cover_url": "https://seanovel.org/api/novel/soul-of-searing-steel/cover",
     "type": "رواية",
     "status": "مستمر",
-    "rating": ""
+    "rating": "",
+    "genres": []
   },
   {
     "id": "the-book-eater-wizard",
@@ -1445,7 +2055,8 @@
     "cover_url": "https://seanovel.org/api/novel/the-book-eater-wizard/cover",
     "type": "رواية",
     "status": "مستمر",
-    "rating": ""
+    "rating": "",
+    "genres": []
   },
   {
     "id": "classroom-of-the-elite-year-2",
@@ -1454,7 +2065,8 @@
     "cover_url": "https://seanovel.org/api/novel/classroom-of-the-elite-year-2/cover",
     "type": "رواية",
     "status": "مستمر",
-    "rating": ""
+    "rating": "",
+    "genres": []
   },
   {
     "id": "novel-1680",
@@ -1463,7 +2075,8 @@
     "cover_url": "https://seanovel.org/api/novel/novel-1680/cover",
     "type": "رواية",
     "status": "مستمر",
-    "rating": ""
+    "rating": "",
+    "genres": []
   },
   {
     "id": "complete-signs-of-a-hidden-marriage-catch-a-son-get-a-free-h",
@@ -1472,7 +2085,8 @@
     "cover_url": "https://seanovel.org/api/novel/complete-signs-of-a-hidden-marriage-catch-a-son-get-a-free-h/cover",
     "type": "رواية",
     "status": "مستمر",
-    "rating": ""
+    "rating": "",
+    "genres": []
   },
   {
     "id": "tensei-shitara-slime-datta-ken",
@@ -1481,7 +2095,8 @@
     "cover_url": "https://seanovel.org/api/novel/tensei-shitara-slime-datta-ken/cover",
     "type": "رواية",
     "status": "مستمر",
-    "rating": ""
+    "rating": "",
+    "genres": []
   },
   {
     "id": "blood-warlock-succubus-partner-in-the-apocalypse",
@@ -1490,7 +2105,8 @@
     "cover_url": "https://seanovel.org/api/novel/blood-warlock-succubus-partner-in-the-apocalypse/cover",
     "type": "رواية",
     "status": "مستمر",
-    "rating": ""
+    "rating": "",
+    "genres": []
   },
   {
     "id": "im-an-infinite-regressor-but-ive-got-stories-to-tell",
@@ -1499,7 +2115,8 @@
     "cover_url": "https://seanovel.org/api/novel/im-an-infinite-regressor-but-ive-got-stories-to-tell/cover",
     "type": "رواية",
     "status": "مستمر",
-    "rating": ""
+    "rating": "",
+    "genres": []
   },
   {
     "id": "51286",
@@ -1508,7 +2125,8 @@
     "cover_url": "https://seanovel.org/api/novel/51286/cover",
     "type": "رواية",
     "status": "مستمر",
-    "rating": ""
+    "rating": "",
+    "genres": []
   },
   {
     "id": "mystical-journey",
@@ -1517,7 +2135,8 @@
     "cover_url": "https://seanovel.org/api/novel/mystical-journey/cover",
     "type": "رواية",
     "status": "مستمر",
-    "rating": ""
+    "rating": "",
+    "genres": []
   },
   {
     "id": "legend-of-the-great-sage",
@@ -1526,7 +2145,8 @@
     "cover_url": "https://seanovel.org/api/novel/legend-of-the-great-sage/cover",
     "type": "رواية",
     "status": "مستمر",
-    "rating": ""
+    "rating": "",
+    "genres": []
   },
   {
     "id": "dorothys-forbidden-grimoire",
@@ -1535,7 +2155,8 @@
     "cover_url": "https://seanovel.org/api/novel/dorothys-forbidden-grimoire/cover",
     "type": "رواية",
     "status": "مستمر",
-    "rating": ""
+    "rating": "",
+    "genres": []
   },
   {
     "id": "nine-star-hegemon-body-art",
@@ -1544,7 +2165,8 @@
     "cover_url": "https://seanovel.org/api/novel/nine-star-hegemon-body-art/cover",
     "type": "رواية",
     "status": "مستمر",
-    "rating": ""
+    "rating": "",
+    "genres": []
   },
   {
     "id": "gao-wu-i-will-always-be-four-realms-higher-than-my-son",
@@ -1553,7 +2175,8 @@
     "cover_url": "https://seanovel.org/api/novel/gao-wu-i-will-always-be-four-realms-higher-than-my-son/cover",
     "type": "رواية",
     "status": "مستمر",
-    "rating": ""
+    "rating": "",
+    "genres": []
   },
   {
     "id": "my-sss-rank-clone-talent-i-level-up-endlessly",
@@ -1562,7 +2185,8 @@
     "cover_url": "https://seanovel.org/api/novel/my-sss-rank-clone-talent-i-level-up-endlessly/cover",
     "type": "رواية",
     "status": "مستمر",
-    "rating": ""
+    "rating": "",
+    "genres": []
   },
   {
     "id": "the-world-online",
@@ -1571,7 +2195,8 @@
     "cover_url": "https://seanovel.org/api/novel/the-world-online/cover",
     "type": "رواية",
     "status": "مستمر",
-    "rating": ""
+    "rating": "",
+    "genres": []
   },
   {
     "id": "the-strongest-gene",
@@ -1580,7 +2205,8 @@
     "cover_url": "https://seanovel.org/api/novel/the-strongest-gene/cover",
     "type": "رواية",
     "status": "مستمر",
-    "rating": ""
+    "rating": "",
+    "genres": []
   },
   {
     "id": "i-can-copy-talents",
@@ -1589,7 +2215,8 @@
     "cover_url": "https://seanovel.org/api/novel/i-can-copy-talents/cover",
     "type": "رواية",
     "status": "مستمر",
-    "rating": ""
+    "rating": "",
+    "genres": []
   },
   {
     "id": "acting-as-the-perfect-narrow-eyed-villain",
@@ -1598,7 +2225,8 @@
     "cover_url": "https://seanovel.org/api/novel/acting-as-the-perfect-narrow-eyed-villain/cover",
     "type": "رواية",
     "status": "مستمر",
-    "rating": ""
+    "rating": "",
+    "genres": []
   },
   {
     "id": "agriculture-online",
@@ -1607,7 +2235,8 @@
     "cover_url": "https://seanovel.org/api/novel/agriculture-online/cover",
     "type": "رواية",
     "status": "مستمر",
-    "rating": ""
+    "rating": "",
+    "genres": []
   },
   {
     "id": "this-earth-is-a-bit-fearsome",
@@ -1616,7 +2245,8 @@
     "cover_url": "https://seanovel.org/api/novel/this-earth-is-a-bit-fearsome/cover",
     "type": "رواية",
     "status": "مستمر",
-    "rating": ""
+    "rating": "",
+    "genres": []
   },
   {
     "id": "mother-of-learning",
@@ -1625,7 +2255,8 @@
     "cover_url": "https://seanovel.org/api/novel/mother-of-learning/cover",
     "type": "رواية",
     "status": "مستمر",
-    "rating": ""
+    "rating": "",
+    "genres": []
   },
   {
     "id": "lord-of-the-people-discount-artifact-for-signing-in-at-the-start",
@@ -1634,7 +2265,8 @@
     "cover_url": "https://seanovel.org/api/novel/lord-of-the-people-discount-artifact-for-signing-in-at-the-start/cover",
     "type": "رواية",
     "status": "مستمر",
-    "rating": ""
+    "rating": "",
+    "genres": []
   },
   {
     "id": "villain-cultivator",
@@ -1643,7 +2275,8 @@
     "cover_url": "https://seanovel.org/api/novel/villain-cultivator/cover",
     "type": "رواية",
     "status": "مستمر",
-    "rating": ""
+    "rating": "",
+    "genres": []
   },
   {
     "id": "creating-heavenly-laws",
@@ -1652,7 +2285,8 @@
     "cover_url": "https://seanovel.org/api/novel/creating-heavenly-laws/cover",
     "type": "رواية",
     "status": "مستمر",
-    "rating": ""
+    "rating": "",
+    "genres": []
   },
   {
     "id": "online-game-starting-contract-with-the-tree-of-life",
@@ -1661,7 +2295,8 @@
     "cover_url": "https://seanovel.org/api/novel/online-game-starting-contract-with-the-tree-of-life/cover",
     "type": "رواية",
     "status": "مستمر",
-    "rating": ""
+    "rating": "",
+    "genres": []
   },
   {
     "id": "novel-575",
@@ -1670,7 +2305,8 @@
     "cover_url": "https://seanovel.org/api/novel/novel-575/cover",
     "type": "رواية",
     "status": "مستمر",
-    "rating": ""
+    "rating": "",
+    "genres": []
   },
   {
     "id": "i-am-the-beloved-villain",
@@ -1679,7 +2315,8 @@
     "cover_url": "https://seanovel.org/api/novel/i-am-the-beloved-villain/cover",
     "type": "رواية",
     "status": "مستمر",
-    "rating": ""
+    "rating": "",
+    "genres": []
   },
   {
     "id": "i-can-see-through-everything",
@@ -1688,7 +2325,8 @@
     "cover_url": "https://seanovel.org/api/novel/i-can-see-through-everything/cover",
     "type": "رواية",
     "status": "مستمر",
-    "rating": ""
+    "rating": "",
+    "genres": []
   },
   {
     "id": "novel-7",
@@ -1697,7 +2335,8 @@
     "cover_url": "https://seanovel.org/api/novel/novel-7/cover",
     "type": "رواية",
     "status": "مستمر",
-    "rating": ""
+    "rating": "",
+    "genres": []
   },
   {
     "id": "the-legend-of-futian",
@@ -1706,7 +2345,8 @@
     "cover_url": "https://seanovel.org/api/novel/the-legend-of-futian/cover",
     "type": "رواية",
     "status": "مستمر",
-    "rating": ""
+    "rating": "",
+    "genres": []
   },
   {
     "id": "my-disciples-are-all-villains",
@@ -1715,7 +2355,8 @@
     "cover_url": "https://seanovel.org/api/novel/my-disciples-are-all-villains/cover",
     "type": "رواية",
     "status": "مستمر",
-    "rating": ""
+    "rating": "",
+    "genres": []
   },
   {
     "id": "khaled-the-keyboard",
@@ -1724,7 +2365,8 @@
     "cover_url": "https://seanovel.org/api/novel/khaled-the-keyboard/cover",
     "type": "رواية",
     "status": "مستمر",
-    "rating": ""
+    "rating": "",
+    "genres": []
   },
   {
     "id": "77582",
@@ -1733,7 +2375,8 @@
     "cover_url": "https://seanovel.org/api/novel/77582/cover",
     "type": "رواية",
     "status": "مستمر",
-    "rating": ""
+    "rating": "",
+    "genres": []
   },
   {
     "id": "follow-the-path-of-al-dau-since-childhood",
@@ -1742,7 +2385,8 @@
     "cover_url": "https://seanovel.org/api/novel/follow-the-path-of-al-dau-since-childhood/cover",
     "type": "رواية",
     "status": "مستمر",
-    "rating": ""
+    "rating": "",
+    "genres": []
   },
   {
     "id": "69bd2783bf96d8fc9c5023e5",
@@ -1751,7 +2395,8 @@
     "cover_url": "https://seanovel.org/api/novel/69bd2783bf96d8fc9c5023e5/cover",
     "type": "رواية",
     "status": "مستمر",
-    "rating": ""
+    "rating": "",
+    "genres": []
   },
   {
     "id": "lord-of-the-frozen-winter-starting-with-daily-intelligence-r",
@@ -1760,7 +2405,8 @@
     "cover_url": "https://seanovel.org/api/novel/lord-of-the-frozen-winter-starting-with-daily-intelligence-r/cover",
     "type": "رواية",
     "status": "مستمر",
-    "rating": ""
+    "rating": "",
+    "genres": []
   },
   {
     "id": "supreme-lord-i-can-extract-everything",
@@ -1769,7 +2415,8 @@
     "cover_url": "https://seanovel.org/api/novel/supreme-lord-i-can-extract-everything/cover",
     "type": "رواية",
     "status": "مستمر",
-    "rating": ""
+    "rating": "",
+    "genres": []
   },
   {
     "id": "my-vampire-system",
@@ -1778,7 +2425,8 @@
     "cover_url": "https://seanovel.org/api/novel/my-vampire-system/cover",
     "type": "رواية",
     "status": "مستمر",
-    "rating": ""
+    "rating": "",
+    "genres": []
   },
   {
     "id": "the-academy-weapon-replicator",
@@ -1787,7 +2435,8 @@
     "cover_url": "https://seanovel.org/api/novel/the-academy-weapon-replicator/cover",
     "type": "رواية",
     "status": "مستمر",
-    "rating": ""
+    "rating": "",
+    "genres": []
   },
   {
     "id": "fantasy-simulator",
@@ -1796,7 +2445,8 @@
     "cover_url": "https://seanovel.org/api/novel/fantasy-simulator/cover",
     "type": "رواية",
     "status": "مستمر",
-    "rating": ""
+    "rating": "",
+    "genres": []
   },
   {
     "id": "simulating-endless-possibilities-invincible-once-i-act",
@@ -1805,7 +2455,8 @@
     "cover_url": "https://seanovel.org/api/novel/simulating-endless-possibilities-invincible-once-i-act/cover",
     "type": "رواية",
     "status": "مستمر",
-    "rating": ""
+    "rating": "",
+    "genres": []
   },
   {
     "id": "immortal-space",
@@ -1814,7 +2465,8 @@
     "cover_url": "https://seanovel.org/api/novel/immortal-space/cover",
     "type": "رواية",
     "status": "مستمر",
-    "rating": ""
+    "rating": "",
+    "genres": []
   },
   {
     "id": "the-regressor-and-the-blind-saint",
@@ -1823,7 +2475,8 @@
     "cover_url": "https://seanovel.org/api/novel/the-regressor-and-the-blind-saint/cover",
     "type": "رواية",
     "status": "مستمر",
-    "rating": ""
+    "rating": "",
+    "genres": []
   },
   {
     "id": "evolution-of-a-demon-to-the-top",
@@ -1832,7 +2485,8 @@
     "cover_url": "https://seanovel.org/api/novel/evolution-of-a-demon-to-the-top/cover",
     "type": "رواية",
     "status": "مستمر",
-    "rating": ""
+    "rating": "",
+    "genres": []
   },
   {
     "id": "novel-231",
@@ -1841,7 +2495,8 @@
     "cover_url": "https://seanovel.org/api/novel/novel-231/cover",
     "type": "رواية",
     "status": "مستمر",
-    "rating": ""
+    "rating": "",
+    "genres": []
   },
   {
     "id": "sword-god-in-a-world-of-magic",
@@ -1850,7 +2505,8 @@
     "cover_url": "https://seanovel.org/api/novel/sword-god-in-a-world-of-magic/cover",
     "type": "رواية",
     "status": "مستمر",
-    "rating": ""
+    "rating": "",
+    "genres": []
   },
   {
     "id": "shadow-hack",
@@ -1859,7 +2515,8 @@
     "cover_url": "https://seanovel.org/api/novel/shadow-hack/cover",
     "type": "رواية",
     "status": "مستمر",
-    "rating": ""
+    "rating": "",
+    "genres": []
   },
   {
     "id": "there-is-an-immortal-tribe-in-the-north-its-name-is-qin",
@@ -1868,7 +2525,8 @@
     "cover_url": "https://seanovel.org/api/novel/there-is-an-immortal-tribe-in-the-north-its-name-is-qin/cover",
     "type": "رواية",
     "status": "مستمر",
-    "rating": ""
+    "rating": "",
+    "genres": []
   },
   {
     "id": "superstars-of-tomorrow",
@@ -1877,7 +2535,8 @@
     "cover_url": "https://seanovel.org/api/novel/superstars-of-tomorrow/cover",
     "type": "رواية",
     "status": "مستمر",
-    "rating": ""
+    "rating": "",
+    "genres": []
   },
   {
     "id": "the-second-coming-of-gluttony",
@@ -1886,7 +2545,8 @@
     "cover_url": "https://seanovel.org/api/novel/the-second-coming-of-gluttony/cover",
     "type": "رواية",
     "status": "مستمر",
-    "rating": ""
+    "rating": "",
+    "genres": []
   },
   {
     "id": "if-i-become-a-saint-the-immortal-official-will-call-me-to-raise-horses",
@@ -1895,7 +2555,8 @@
     "cover_url": "https://seanovel.org/api/novel/if-i-become-a-saint-the-immortal-official-will-call-me-to-raise-horses/cover",
     "type": "رواية",
     "status": "مستمر",
-    "rating": ""
+    "rating": "",
+    "genres": []
   },
   {
     "id": "absolute-regression",
@@ -1904,7 +2565,8 @@
     "cover_url": "https://seanovel.org/api/novel/absolute-regression/cover",
     "type": "رواية",
     "status": "مستمر",
-    "rating": ""
+    "rating": "",
+    "genres": []
   },
   {
     "id": "city-wide-manhunt-im-really-not-a-criminal",
@@ -1913,7 +2575,8 @@
     "cover_url": "https://seanovel.org/api/novel/city-wide-manhunt-im-really-not-a-criminal/cover",
     "type": "رواية",
     "status": "مستمر",
-    "rating": ""
+    "rating": "",
+    "genres": []
   },
   {
     "id": "a-regressor-s-tale-of-cultivation",
@@ -1922,7 +2585,8 @@
     "cover_url": "https://seanovel.org/api/novel/a-regressor-s-tale-of-cultivation/cover",
     "type": "رواية",
     "status": "مستمر",
-    "rating": ""
+    "rating": "",
+    "genres": []
   },
   {
     "id": "otherworldly-evil-monarch",
@@ -1931,7 +2595,8 @@
     "cover_url": "https://seanovel.org/api/novel/otherworldly-evil-monarch/cover",
     "type": "رواية",
     "status": "مستمر",
-    "rating": ""
+    "rating": "",
+    "genres": []
   },
   {
     "id": "martial-world",
@@ -1940,7 +2605,8 @@
     "cover_url": "https://seanovel.org/api/novel/martial-world/cover",
     "type": "رواية",
     "status": "مستمر",
-    "rating": ""
+    "rating": "",
+    "genres": []
   },
   {
     "id": "nano-machine",
@@ -1949,7 +2615,8 @@
     "cover_url": "https://seanovel.org/api/novel/nano-machine/cover",
     "type": "رواية",
     "status": "مستمر",
-    "rating": ""
+    "rating": "",
+    "genres": []
   },
   {
     "id": "novel-37",
@@ -1958,7 +2625,8 @@
     "cover_url": "https://seanovel.org/api/novel/novel-37/cover",
     "type": "رواية",
     "status": "مستمر",
-    "rating": ""
+    "rating": "",
+    "genres": []
   },
   {
     "id": "the-ideal-course",
@@ -1967,7 +2635,8 @@
     "cover_url": "https://seanovel.org/api/novel/the-ideal-course/cover",
     "type": "رواية",
     "status": "مستمر",
-    "rating": ""
+    "rating": "",
+    "genres": []
   },
   {
     "id": "desolate-era",
@@ -1976,7 +2645,8 @@
     "cover_url": "https://seanovel.org/api/novel/desolate-era/cover",
     "type": "رواية",
     "status": "مستمر",
-    "rating": ""
+    "rating": "",
+    "genres": []
   },
   {
     "id": "the-eternal-holy-king",
@@ -1985,7 +2655,8 @@
     "cover_url": "https://seanovel.org/api/novel/the-eternal-holy-king/cover",
     "type": "رواية",
     "status": "مستمر",
-    "rating": ""
+    "rating": "",
+    "genres": []
   },
   {
     "id": "novel-237",
@@ -1994,7 +2665,8 @@
     "cover_url": "https://seanovel.org/api/novel/novel-237/cover",
     "type": "رواية",
     "status": "مستمر",
-    "rating": ""
+    "rating": "",
+    "genres": []
   },
   {
     "id": "investing-in-the-mandate-of-heaven-clan-my-strength-is-the-sum-of-the-whole-clan",
@@ -2003,7 +2675,8 @@
     "cover_url": "https://seanovel.org/api/novel/investing-in-the-mandate-of-heaven-clan-my-strength-is-the-sum-of-the-whole-clan/cover",
     "type": "رواية",
     "status": "مستمر",
-    "rating": ""
+    "rating": "",
+    "genres": []
   },
   {
     "id": "i-must-close-the-heavens",
@@ -2012,7 +2685,8 @@
     "cover_url": "https://seanovel.org/api/novel/i-must-close-the-heavens/cover",
     "type": "رواية",
     "status": "مستمر",
-    "rating": ""
+    "rating": "",
+    "genres": []
   },
   {
     "id": "48270",
@@ -2021,7 +2695,8 @@
     "cover_url": "https://seanovel.org/api/novel/48270/cover",
     "type": "رواية",
     "status": "مستمر",
-    "rating": ""
+    "rating": "",
+    "genres": []
   },
   {
     "id": "one-piece-talent-system",
@@ -2030,7 +2705,8 @@
     "cover_url": "https://seanovel.org/api/novel/one-piece-talent-system/cover",
     "type": "رواية",
     "status": "مستمر",
-    "rating": ""
+    "rating": "",
+    "genres": []
   },
   {
     "id": "soul-land-v-rebirth-of-tang-san",
@@ -2039,6 +2715,7 @@
     "cover_url": "https://seanovel.org/api/novel/soul-land-v-rebirth-of-tang-san/cover",
     "type": "رواية",
     "status": "مستمر",
-    "rating": ""
+    "rating": "",
+    "genres": []
   }
 ]

@@ -5,7 +5,7 @@
   "description": "امتلكت شخصية شرير إضافي من الدرجة الثالثة في لعبتي المفضلة. ليس لدي طموحات وأريد فقط أن أعيش حياة هادئة. لكن يا إلهي، هذا العالم مكان يصعب البقاء فيه. سأنجو حتى نهاية هذه القصة، بطريقة لا يستطيع بطل الرواية القيام بها. سأنجو بطريقة شرير من الدرجة الثالثة.",
   "type": "مانهوا",
   "status": "مستمر",
-  "last_update": "2026-09-23",
+  "last_update": "2026-09-25",
   "rating": "9.5",
   "favorites": "40",
   "genres": [
@@ -23,6 +23,10 @@
   ],
   "is_novel": false,
   "chapters": {
+    "https://mangatime.org/manhwa/the-extras-academy-survival-guide/chapter/126": {
+      "name": "126",
+      "images": []
+    },
     "https://mangatime.org/manhwa/the-extras-academy-survival-guide/chapter/125": {
       "name": "125",
       "images": []

@@ -6,7 +6,8 @@
     "cover_url": "https://kolnovel.com/wp-content/uploads/2025/11/131_20251104112404.png",
     "type": "رواية",
     "is_novel": true,
-    "rating": "8.0"
+    "rating": "8.0",
+    "genres": []
   },
   {
     "id": "%d8%ad%d9%8f%d8%b1%d9%82%d8%a9",
@@ -15,7 +16,8 @@
     "cover_url": "https://kolnovel.com/wp-content/uploads/2025/11/IMG_20251101_191840.webp",
     "type": "رواية",
     "is_novel": true,
-    "rating": "7.5"
+    "rating": "7.5",
+    "genres": []
   },
   {
     "id": "the-villain-wants-to-live",
@@ -24,7 +26,8 @@
     "cover_url": "https://kolnovel.com/wp-content/uploads/2023/06/IMG_1684943582470-e1691256600676.png",
     "type": "رواية",
     "is_novel": true,
-    "rating": "8.0"
+    "rating": "8.0",
+    "genres": []
   },
   {
     "id": "%d8%a7%d9%84%d8%aa%d9%82%d8%a7%d8%a1-%d8%a7%d9%84%d8%aa%d9%88%d8%a3%d9%85",
@@ -33,7 +36,8 @@
     "cover_url": "https://kolnovel.com/wp-content/uploads/2025/11/cropped-بدون-اسم138_20251111092449-1.png",
     "type": "رواية",
     "is_novel": true,
-    "rating": ""
+    "rating": "",
+    "genres": []
   },
   {
     "id": "%d8%a7%d9%84%d8%b3%d9%83%d9%8a%d9%86%d8%a9-%d9%81%d9%8a-%d8%a7%d9%84%d9%86%d8%a7%d8%b1",
@@ -42,7 +46,8 @@
     "cover_url": "https://kolnovel.com/wp-content/uploads/2023/10/Untitled-3.jpeg",
     "type": "رواية",
     "is_novel": true,
-    "rating": "9.0"
+    "rating": "9.0",
+    "genres": []
   },
   {
     "id": "the-strongest-hokage",
@@ -51,7 +56,8 @@
     "cover_url": "https://kolnovel.com/wp-content/uploads/2021/03/591s.jpg",
     "type": "رواية",
     "is_novel": true,
-    "rating": "7.0"
+    "rating": "7.0",
+    "genres": []
   },
   {
     "id": "%d9%85%d8%b5%d9%85%d9%85-%d8%a3%d9%84%d8%b9%d8%a7%d8%a8-%d8%a7%d9%84%d8%b1%d8%b9%d8%a8",
@@ -60,7 +66,8 @@
     "cover_url": "https://kolnovel.com/wp-content/uploads/2025/08/1056da0271861767.png",
     "type": "رواية",
     "is_novel": true,
-    "rating": "8.5"
+    "rating": "8.5",
+    "genres": []
   },
   {
     "id": "clessraam-af-tha-alita-kol",
@@ -71,7 +78,17 @@
     "is_novel": true,
     "rating": "9.0",
     "status": "متوقف مؤقتاً",
-    "total_chapters": 161
+    "total_chapters": 161,
+    "genres": [
+      "حريم",
+      "حياة مدرسية",
+      "دراما",
+      "رومانسي",
+      "شريحة من الحياة",
+      "غموض",
+      "كوميدي",
+      "نفسي"
+    ]
   },
   {
     "id": "%d8%b3%d8%ac%d9%84%d8%a7%d8%aa-%d8%a7%d9%84%d8%ad%d8%b1%d9%88%d8%a8-%d8%a7%d9%84%d8%a8%d8%af%d8%a7%d8%a6%d9%8a%d8%a9",
@@ -80,7 +97,8 @@
     "cover_url": "https://kolnovel.com/wp-content/uploads/2025/11/1764141794456.png",
     "type": "رواية",
     "is_novel": true,
-    "rating": "8.1"
+    "rating": "8.1",
+    "genres": []
   },
   {
     "id": "against-the-gods",
@@ -91,7 +109,15 @@
     "is_novel": true,
     "rating": "8.8",
     "status": "مستمر",
-    "total_chapters": 2172
+    "total_chapters": 2172,
+    "genres": [
+      "أكشن",
+      "حريم",
+      "رومانسي",
+      "فنون القتال",
+      "مغامرة",
+      "ناضج"
+    ]
   },
   {
     "id": "%d9%88%d8%b1%d8%af%d8%a9-%d8%a8%d9%84%d8%a7%d8%b3%d8%aa%d9%8a%d9%83%d9%8a%d8%a9",
@@ -100,7 +126,8 @@
     "cover_url": "https://kolnovel.com/wp-content/uploads/2025/12/Design_20251213_210415_.png",
     "type": "رواية",
     "is_novel": true,
-    "rating": "8.5"
+    "rating": "8.5",
+    "genres": []
   },
   {
     "id": "supreme-magus",
@@ -109,7 +136,8 @@
     "cover_url": "https://kolnovel.com/wp-content/uploads/2020/10/0a6cba0111b6786e.png",
     "type": "رواية",
     "is_novel": true,
-    "rating": "9.0"
+    "rating": "9.0",
+    "genres": []
   },
   {
     "id": "%d8%b9%d9%8a%d8%af-%d9%86%d9%87%d8%a7%d9%8a%d8%a9-%d8%a7%d9%84%d8%b3%d9%86%d8%a9-%d9%84%d8%a7-%d9%8a%d8%a3%d8%aa%d9%8a-%d9%85%d9%86-%d8%a3%d8%ac%d9%84%d9%86%d8%a7",
@@ -118,7 +146,8 @@
     "cover_url": "https://kolnovel.com/wp-content/uploads/2026/01/Screenshot_٢٠٢٦-٠١-٠٥-٢١-٠٠-٢٢-٨٢٢-edit_com.discord.jpg",
     "type": "رواية",
     "is_novel": true,
-    "rating": "7.5"
+    "rating": "7.5",
+    "genres": []
   },
   {
     "id": "%d8%a7%d9%84%d8%a3%d8%b1%d8%a8%d8%b9%d8%a9-%d8%b9%d8%b4%d8%b1-%d8%b9%d8%a7%d9%85%d9%8b%d8%a7-%d8%a7%d9%84%d8%aa%d9%8a-%d9%82%d8%b6%d9%8a%d8%aa%d9%87%d8%a7-%d9%83%d9%82%d8%b7",
@@ -127,7 +156,8 @@
     "cover_url": "https://kolnovel.com/wp-content/uploads/2025/04/619PaVc0O7L._AC_UF10001000_QL80_.jpg",
     "type": "رواية",
     "is_novel": true,
-    "rating": "9.0"
+    "rating": "9.0",
+    "genres": []
   },
   {
     "id": "joy-of-life",
@@ -136,7 +166,8 @@
     "cover_url": "https://kolnovel.com/wp-content/uploads/2021/05/00759-joy-of-life.jpg",
     "type": "رواية",
     "is_novel": true,
-    "rating": "7.0"
+    "rating": "7.0",
+    "genres": []
   },
   {
     "id": "%d8%a7%d9%84%d8%a7%d9%86%d8%ad%d8%af%d8%a7%d8%b1-%d8%a7%d9%84%d9%85%d8%b7%d9%84%d9%82",
@@ -145,7 +176,8 @@
     "cover_url": "https://kolnovel.com/wp-content/uploads/2025/08/Absolute-Regression.jpg",
     "type": "رواية",
     "is_novel": true,
-    "rating": "9.0"
+    "rating": "9.0",
+    "genres": []
   },
   {
     "id": "%d8%b3%d8%ac%d9%84-%d8%b1%d8%ad%d9%84%d8%a9-%d9%81%d8%a7%d9%86%d9%8a-%d8%a5%d9%84%d9%89-%d8%a7%d9%84%d8%ae%d9%84%d9%88%d8%af",
@@ -154,7 +186,8 @@
     "cover_url": "https://kolnovel.com/wp-content/uploads/2025/12/Screenshot_٢٠٢٥-١٢-٠٨-١٥-٣٢-٥٧-٦٣١-edit_com.android.chrome.jpg",
     "type": "رواية",
     "is_novel": true,
-    "rating": "8.5"
+    "rating": "8.5",
+    "genres": []
   },
   {
     "id": "%d9%84%d8%b9%d9%86%d8%a9-%d8%a7%d9%84%d8%ae%d9%8a%d8%a7%d8%b1%d8%a7%d8%aa",
@@ -163,7 +196,8 @@
     "cover_url": "https://kolnovel.com/wp-content/uploads/2025/06/ad1322ae469d7b43.jpg",
     "type": "رواية",
     "is_novel": true,
-    "rating": "8.0"
+    "rating": "8.0",
+    "genres": []
   },
   {
     "id": "emperor-has-returned",
@@ -172,7 +206,8 @@
     "cover_url": "https://kolnovel.com/wp-content/uploads/2021/04/X_1078425-1.jpg",
     "type": "رواية",
     "is_novel": true,
-    "rating": "8.2"
+    "rating": "8.2",
+    "genres": []
   },
   {
     "id": "%d8%ad%d9%8a%d8%a7%d8%aa%d9%8a-%d9%83%d9%85%d8%b1%d8%b4%d8%af-%d8%b1%d9%88%d8%ad%d9%8a-%d9%81%d9%8a-%d8%a7%d9%84%d9%82%d8%b5%d8%b5-%d8%a7%d9%84%d9%85%d8%b5%d9%88%d8%b1%d8%a9-%d8%a7%d9%84%d8%a3%d9%85",
@@ -181,7 +216,8 @@
     "cover_url": "https://kolnovel.com/wp-content/uploads/2025/02/28472564208054505.jpeg",
     "type": "رواية",
     "is_novel": true,
-    "rating": "7.5"
+    "rating": "7.5",
+    "genres": []
   },
   {
     "id": "%d8%b9%d9%88%d8%af%d8%a9-%d9%85%d8%a8%d8%a7%d9%84%d8%ba-%d9%81%d9%8a%d9%87%d8%a7",
@@ -190,7 +226,8 @@
     "cover_url": "https://kolnovel.com/wp-content/uploads/2025/09/090355.png",
     "type": "رواية",
     "is_novel": true,
-    "rating": "8.5"
+    "rating": "8.5",
+    "genres": []
   },
   {
     "id": "the-heavenly-demon-cant-live-a-normal-life",
@@ -199,7 +236,8 @@
     "cover_url": "https://kolnovel.com/wp-content/uploads/2022/05/unknown-6-1-193x278-1.png",
     "type": "رواية",
     "is_novel": true,
-    "rating": ""
+    "rating": "",
+    "genres": []
   },
   {
     "id": "mages-are-too-op",
@@ -208,7 +246,8 @@
     "cover_url": "https://kolnovel.com/wp-content/uploads/2020/12/Michael_Fang.jpg",
     "type": "رواية",
     "is_novel": true,
-    "rating": "8.5"
+    "rating": "8.5",
+    "genres": []
   },
   {
     "id": "legend-of-the-great-sage",
@@ -219,7 +258,16 @@
     "is_novel": true,
     "rating": "8.8",
     "status": "مستمر",
-    "total_chapters": 1631
+    "total_chapters": 1631,
+    "genres": [
+      "أكشن",
+      "حريم",
+      "خيال",
+      "رومانسي",
+      "شيانشيا",
+      "فنون قتال",
+      "مغامرة"
+    ]
   },
   {
     "id": "%d8%a7%d9%84%d8%ba%d9%85%d9%88%d8%b6%d8%8c-%d8%a7%d9%84%d9%82%d9%88%d9%89%d8%8c-%d8%a7%d9%84%d9%81%d9%88%d8%b6%d9%89",
@@ -228,7 +276,8 @@
     "cover_url": "https://kolnovel.com/wp-content/uploads/2025/11/AddText_11-29-03.57.56.png",
     "type": "رواية",
     "is_novel": true,
-    "rating": "8.5"
+    "rating": "8.5",
+    "genres": []
   },
   {
     "id": "%d8%a7%d9%84%d8%b3%d8%a7%d8%ad%d8%b1-%d8%a7%d9%84%d9%85%d8%aa%d9%85%d8%b1%d8%af",
@@ -237,7 +286,8 @@
     "cover_url": "https://kolnovel.com/wp-content/uploads/2026/02/IMG_20260202_160013.png",
     "type": "رواية",
     "is_novel": true,
-    "rating": "8.0"
+    "rating": "8.0",
+    "genres": []
   },
   {
     "id": "%d9%85%d9%86-%d8%b7%d8%a7%d8%a6%d9%81%d8%a9-%d9%81%d9%86%d9%88%d9%86-%d8%a7%d9%84%d9%82%d8%aa%d8%a7%d9%84-%d8%a5%d9%84%d9%89-%d8%b7%d8%a7%d8%a6%d9%81%d8%a9-%d8%b5%d9%82%d9%84-%d8%a7%d9%84%d8%ae%d9%84",
@@ -246,7 +296,8 @@
     "cover_url": "https://kolnovel.com/wp-content/uploads/2025/11/From-a-Martial-Arts-Sect-to-an-Immortal-Cultivation-Sect.png",
     "type": "رواية",
     "is_novel": true,
-    "rating": "8.0"
+    "rating": "8.0",
+    "genres": []
   },
   {
     "id": "%d8%a7%d9%86%d8%aa%d9%81%d8%a7%d8%b6%d8%a9-%d8%a7%d9%84%d8%ad%d9%8f%d9%85%d8%b1",
@@ -255,7 +306,8 @@
     "cover_url": "https://kolnovel.com/wp-content/uploads/2025/12/unnamed.jpg",
     "type": "رواية",
     "is_novel": true,
-    "rating": ""
+    "rating": "",
+    "genres": []
   },
   {
     "id": "rezero-starting-life-in-another-world",
@@ -264,7 +316,8 @@
     "cover_url": "https://kolnovel.com/wp-content/uploads/2021/07/IMG_20230128_222953_363.jpg",
     "type": "رواية",
     "is_novel": true,
-    "rating": "8.0"
+    "rating": "8.0",
+    "genres": []
   },
   {
     "id": "%d9%88%d8%b1%d8%ab%d8%aa%d9%8f-%d9%82%d8%b5%d8%b1-%d8%b9%d8%a7%d8%a6%d9%84%d8%a9-%d9%88%d8%a7%d9%8a%d9%86",
@@ -273,7 +326,8 @@
     "cover_url": "https://kolnovel.com/wp-content/uploads/2026/03/1772853660601.png",
     "type": "رواية",
     "is_novel": true,
-    "rating": "8.5"
+    "rating": "8.5",
+    "genres": []
   },
   {
     "id": "i-ai-r-b-i-g-s-t-t",
@@ -282,7 +336,8 @@
     "cover_url": "https://kolnovel.com/wp-content/uploads/2024/06/135_20240522055349.png",
     "type": "رواية",
     "is_novel": true,
-    "rating": "9.2"
+    "rating": "9.2",
+    "genres": []
   },
   {
     "id": "%d8%a5%d9%85%d8%a8%d8%b1%d9%8a%d8%a7%d9%84%d9%8a-%d8%b4%d8%a8%d9%87-%d9%82%d8%b3%d8%b1%d9%8a",
@@ -291,7 +346,8 @@
     "cover_url": "https://kolnovel.com/wp-content/uploads/2026/03/SemiCoercive-Imperialist_1.jpg",
     "type": "رواية",
     "is_novel": true,
-    "rating": "8.5"
+    "rating": "8.5",
+    "genres": []
   },
   {
     "id": "infinite-competitive-dungeon-society",
@@ -300,7 +356,8 @@
     "cover_url": "https://kolnovel.com/wp-content/uploads/2023/01/Infinite-Competitive-Dungeon-Society.jpg",
     "type": "رواية",
     "is_novel": true,
-    "rating": "8.0"
+    "rating": "8.0",
+    "genres": []
   },
   {
     "id": "i-want-to-eat-your-pancreas",
@@ -309,7 +366,8 @@
     "cover_url": "https://kolnovel.com/wp-content/uploads/2022/07/IMG_0423.jpeg",
     "type": "رواية",
     "is_novel": true,
-    "rating": "8.0"
+    "rating": "8.0",
+    "genres": []
   },
   {
     "id": "k1ng-of-goeds-kol",
@@ -320,7 +378,14 @@
     "is_novel": true,
     "rating": "8.0",
     "status": "مكتمل",
-    "total_chapters": 1606
+    "total_chapters": 1606,
+    "genres": [
+      "أكشن",
+      "حريم",
+      "فنون القتال",
+      "مأساوي",
+      "مغامرة"
+    ]
   },
   {
     "id": "%d8%b3%d9%82%d9%88%d8%b7-%d8%a7%d9%84%d8%ae%d9%8a%d8%b7-%d9%85%d8%a7-%d8%a8%d8%b9%d8%af-%d8%a7%d9%84%d9%85%d9%88%d8%aa%d8%8c-%d9%86%d8%ad%d9%88-%d8%a7%d9%84%d9%81%d9%88%d8%b6%d9%89",
@@ -329,7 +394,8 @@
     "cover_url": "https://kolnovel.com/wp-content/uploads/2026/04/2busy4you_20260417_085804_0000.png",
     "type": "رواية",
     "is_novel": true,
-    "rating": "8.0"
+    "rating": "8.0",
+    "genres": []
   },
   {
     "id": "%d9%84%d9%88%d8%b1%d8%af-%d8%a7%d9%84%d8%ba%d9%88%d8%a7%d9%85%d8%b6",
@@ -340,7 +406,12 @@
     "is_novel": true,
     "rating": "9.6",
     "status": "مكتمل",
-    "total_chapters": 1437
+    "total_chapters": 1437,
+    "genres": [
+      "خارق للطبيعة",
+      "غموض",
+      "مغامرة"
+    ]
   },
   {
     "id": "tnorotsp",
@@ -349,7 +420,8 @@
     "cover_url": "https://kolnovel.com/wp-content/uploads/2024/07/بدون-اسم68_20260622072809.png",
     "type": "رواية",
     "is_novel": true,
-    "rating": "8.5"
+    "rating": "8.5",
+    "genres": []
   },
   {
     "id": "journey-of-the-fate-destroying-emperor",
@@ -358,7 +430,8 @@
     "cover_url": "https://kolnovel.com/wp-content/uploads/2022/11/رحلة-الامبراطور-مدمر-الاقدار.jpg2_.jpg",
     "type": "رواية",
     "is_novel": true,
-    "rating": "7.5"
+    "rating": "7.5",
+    "genres": []
   },
   {
     "id": "record-of-a-thousand-lives",
@@ -367,7 +440,8 @@
     "cover_url": "https://kolnovel.com/wp-content/uploads/2023/03/بدون-اسم78_20260715191309.png",
     "type": "رواية",
     "is_novel": true,
-    "rating": "8.0"
+    "rating": "8.0",
+    "genres": []
   },
   {
     "id": "dragon-marked-war-god",
@@ -378,7 +452,14 @@
     "is_novel": true,
     "rating": "8.4",
     "status": "مستمر",
-    "total_chapters": 2958
+    "total_chapters": 2958,
+    "genres": [
+      "أكشن",
+      "رومانسي",
+      "فنون قتال",
+      "كوميديا",
+      "مغامرة"
+    ]
   },
   {
     "id": "megik-ambarar-kol",
@@ -389,7 +470,13 @@
     "is_novel": true,
     "rating": "9.0",
     "status": "مكتمل",
-    "total_chapters": 1318
+    "total_chapters": 1318,
+    "genres": [
+      "أكشن",
+      "فنون القتال",
+      "قوى خارقة",
+      "مغامرة"
+    ]
   },
   {
     "id": "reincarnation-of-the-strongest-sword-god",
@@ -398,7 +485,8 @@
     "cover_url": "https://kolnovel.com/wp-content/uploads/2020/10/IMG_20211104_024015-e1647036669834.png",
     "type": "رواية",
     "is_novel": true,
-    "rating": "8.0"
+    "rating": "8.0",
+    "genres": []
   },
   {
     "id": "%d8%a7%d9%84%d8%aa%d9%82%d8%b7%d9%86%d9%8a",
@@ -407,7 +495,8 @@
     "cover_url": "https://kolnovel.com/wp-content/uploads/2026/06/AddText_-.png",
     "type": "رواية",
     "is_novel": true,
-    "rating": ""
+    "rating": "",
+    "genres": []
   },
   {
     "id": "%d8%ad%d9%83%d8%a7%d9%8a%d8%a9-%d8%aa%d8%af%d8%b1%d9%8a%d8%a8-%d8%a7%d9%84%d8%b9%d8%a7%d8%a6%d8%af",
@@ -416,7 +505,8 @@
     "cover_url": "https://kolnovel.com/wp-content/uploads/2025/08/file_00000000f50071fdb90aa171bb987b25.png",
     "type": "رواية",
     "is_novel": true,
-    "rating": "8.8"
+    "rating": "8.8",
+    "genres": []
   },
   {
     "id": "%d9%85%d9%8f%d8%b5%d8%a7%d8%ba-%d8%a7%d9%84%d8%b1%d9%88%d8%ad",
@@ -425,7 +515,8 @@
     "cover_url": "https://kolnovel.com/wp-content/uploads/2025/08/بدون-اسم62_20260618190021.png",
     "type": "رواية",
     "is_novel": true,
-    "rating": "9.0"
+    "rating": "9.0",
+    "genres": []
   },
   {
     "id": "damn-reincarnation",
@@ -434,7 +525,8 @@
     "cover_url": "https://kolnovel.com/wp-content/uploads/2022/07/p_2440k872b1-1.png",
     "type": "رواية",
     "is_novel": true,
-    "rating": "9.0"
+    "rating": "9.0",
+    "genres": []
   },
   {
     "id": "true-martial-world",
@@ -443,7 +535,8 @@
     "cover_url": "https://kolnovel.com/wp-content/uploads/2021/04/بدون-اسم77_20260715191512.png",
     "type": "رواية",
     "is_novel": true,
-    "rating": "8.6"
+    "rating": "8.6",
+    "genres": []
   },
   {
     "id": "48hours-a-day",
@@ -452,7 +545,8 @@
     "cover_url": "https://kolnovel.com/wp-content/uploads/2021/11/IMG_20211123_002409-1.png",
     "type": "رواية",
     "is_novel": true,
-    "rating": "8.0"
+    "rating": "8.0",
+    "genres": []
   },
   {
     "id": "%d9%85%d8%b7%d9%88%d8%b1-%d8%a3%d9%84%d8%b9%d8%a7%d8%a8-%d8%a7%d9%84%d8%b1%d8%b9%d8%a8-%d8%a3%d9%84%d8%b9%d8%a7%d8%a8%d9%8a-%d9%84%d9%8a%d8%b3%d8%aa-%d9%85%d8%b1%d8%b9%d8%a8%d8%a9-%d9%84%d9%87%d8%b0",
@@ -461,7 +555,8 @@
     "cover_url": "https://kolnovel.com/wp-content/uploads/2025/04/بدون-اسم105_20260728022936.png",
     "type": "رواية",
     "is_novel": true,
-    "rating": "8.0"
+    "rating": "8.0",
+    "genres": []
   },
   {
     "id": "%d8%b7%d8%a8%d9%82%d8%a7%d8%aa-%d9%81%d9%8a-%d8%a7%d9%84%d8%a8%d8%ad%d8%b1-%d8%a7%d9%84%d9%85%d9%84%d9%83%d9%8a",
@@ -470,7 +565,8 @@
     "cover_url": "https://kolnovel.com/wp-content/uploads/2026/06/AIRetouch___1.png",
     "type": "رواية",
     "is_novel": true,
-    "rating": "7.5"
+    "rating": "7.5",
+    "genres": []
   },
   {
     "id": "%d8%b9%d9%88%d8%af%d8%a9-%d8%a7%d9%84%d8%a5%d9%85%d8%a8%d8%b1%d8%a7%d8%b7%d9%88%d8%b1-%d8%a7%d9%84%d8%b4%d9%8a%d8%b7%d8%a7%d9%86%d9%8a",
@@ -479,7 +575,8 @@
     "cover_url": "https://kolnovel.com/wp-content/uploads/2026/07/file_0000000011d071f4a5bcba4ed38e14f8.png",
     "type": "رواية",
     "is_novel": true,
-    "rating": ""
+    "rating": "",
+    "genres": []
   },
   {
     "id": "a-returners-magic-should-be-special",
@@ -488,7 +585,8 @@
     "cover_url": "https://kolnovel.com/wp-content/uploads/2021/05/89_20231108135552.png",
     "type": "رواية",
     "is_novel": true,
-    "rating": "8.2"
+    "rating": "8.2",
+    "genres": []
   },
   {
     "id": "%d8%ba%d8%b1%d9%8a%d9%85%d8%ba%d8%a7%d8%b1-%d8%a7%d9%84%d8%b1%d9%85%d8%a7%d8%af-%d9%88%d8%a7%d9%84%d8%a3%d9%88%d9%87%d8%a7%d9%85",
@@ -497,7 +595,8 @@
     "cover_url": "https://kolnovel.com/wp-content/uploads/2026/07/IMG__.jpg",
     "type": "رواية",
     "is_novel": true,
-    "rating": ""
+    "rating": "",
+    "genres": []
   },
   {
     "id": "%d9%85%d9%84%d9%83-%d8%a7%d9%84%d8%b3%d8%ad%d8%b1-%d8%a7%d9%84%d9%85%d9%8f%d8%b9%d8%a7%d8%af-%d9%88%d9%84%d8%a7%d8%af%d8%aa%d9%87",
@@ -506,7 +605,8 @@
     "cover_url": "https://kolnovel.com/wp-content/uploads/2026/08/file_000000001758820a9d59696ddfc3acd1.png",
     "type": "رواية",
     "is_novel": true,
-    "rating": ""
+    "rating": "",
+    "genres": []
   },
   {
     "id": "birthof-tha-demon1c-sword-kol",
@@ -515,7 +615,8 @@
     "cover_url": "https://kolnovel.com/wp-content/uploads/2021/01/499253146c81557d6-scaled.jpg",
     "type": "رواية",
     "is_novel": true,
-    "rating": "9.0"
+    "rating": "9.0",
+    "genres": []
   },
   {
     "id": "%d8%b3%d8%b9%d9%8a-%d8%a8%d8%b1%d8%a8%d8%b1%d9%8a",
@@ -524,7 +625,8 @@
     "cover_url": "https://kolnovel.com/wp-content/uploads/2025/04/s.jpg",
     "type": "رواية",
     "is_novel": true,
-    "rating": "9.0"
+    "rating": "9.0",
+    "genres": []
   },
   {
     "id": "%d8%a7%d9%84%d8%b1%d8%b3%d8%a7%d9%85-%d8%a7%d9%84%d8%b0%d9%8a-%d9%8a%d8%b1%d8%b3%d9%85-%d8%a7%d9%84%d8%b2%d9%86%d8%b2%d8%a7%d9%86%d8%a7%d8%aa",
@@ -533,7 +635,8 @@
     "cover_url": "https://kolnovel.com/wp-content/uploads/2026/07/بدون-اسم84_20260715191127.png",
     "type": "رواية",
     "is_novel": true,
-    "rating": "7.5"
+    "rating": "7.5",
+    "genres": []
   },
   {
     "id": "%d8%a7%d9%84%d9%82%d8%a7%d8%aa%d9%84-%d8%a7%d9%84%d8%a3%d8%b2%d9%84%d9%8a",
@@ -542,7 +645,8 @@
     "cover_url": "https://kolnovel.com/wp-content/uploads/2025/03/113297.png",
     "type": "رواية",
     "is_novel": true,
-    "rating": "8.0"
+    "rating": "8.0",
+    "genres": []
   },
   {
     "id": "%d8%a7%d9%84%d8%a8%d8%af%d8%a7%d9%8a%d8%a9-%d8%a8%d8%b9%d8%af-%d8%a7%d9%84%d9%86%d9%87%d8%a7%d9%8a%d8%a9",
@@ -553,7 +657,14 @@
     "is_novel": true,
     "rating": "9.5",
     "status": "مكتمل",
-    "total_chapters": 558
+    "total_chapters": 558,
+    "genres": [
+      "أكشن",
+      "فنون قتال",
+      "قوى خارقة",
+      "مأساة",
+      "مغامرة"
+    ]
   },
   {
     "id": "%d8%a7%d9%84%d8%a3%d8%b1%d8%b6-%d8%a7%d9%84%d8%a3%d9%88%d9%84%d9%89",
@@ -562,7 +673,8 @@
     "cover_url": "https://kolnovel.com/wp-content/uploads/2021/01/C358AFCB-7EAD-4838-8250-400DCAA13A47.png",
     "type": "رواية",
     "is_novel": true,
-    "rating": "7.5"
+    "rating": "7.5",
+    "genres": []
   },
   {
     "id": "%d8%ad%d8%aa%d9%89-%d9%84%d9%88-%d9%88%d9%82%d8%b9%d8%aa-%d9%81%d9%8a-%d9%82%d8%b5%d8%a9-%d8%b1%d8%b9%d8%a8-%d9%8a%d8%ac%d8%a8-%d8%a3%d9%86-%d8%a3%d8%b0%d9%87%d8%a8-%d9%84%d9%84%d8%b9%d9%85%d9%84",
@@ -571,7 +683,8 @@
     "cover_url": "https://kolnovel.com/wp-content/uploads/2025/07/بدون-اسم66_20260622032832.png",
     "type": "رواية",
     "is_novel": true,
-    "rating": "9.0"
+    "rating": "9.0",
+    "genres": []
   },
   {
     "id": "%d9%83%d8%a7%d8%b1%d9%87-%d8%a7%d9%84%d8%b4%d9%88%d8%ac%d9%88",
@@ -580,7 +693,8 @@
     "cover_url": "https://kolnovel.com/wp-content/uploads/2025/10/IMG__-20-1.png",
     "type": "رواية",
     "is_novel": true,
-    "rating": "7.5"
+    "rating": "7.5",
+    "genres": []
   },
   {
     "id": "%d8%b9%d8%a8%d8%af-%d8%a7%d9%84%d8%b8%d9%84",
@@ -589,7 +703,8 @@
     "cover_url": "https://kolnovel.com/wp-content/uploads/2025/01/ساني-1.jpg",
     "type": "رواية",
     "is_novel": true,
-    "rating": "8.0"
+    "rating": "8.0",
+    "genres": []
   },
   {
     "id": "%d8%a7%d9%84%d9%84%d9%8a%d8%aa%d8%b4-%d8%a7%d9%84%d9%85%d8%ac%d9%86%d9%88%d9%86",
@@ -598,7 +713,8 @@
     "cover_url": "https://kolnovel.com/wp-content/uploads/2021/03/113272.png",
     "type": "رواية",
     "is_novel": true,
-    "rating": "8.0"
+    "rating": "8.0",
+    "genres": []
   },
   {
     "id": "kingdoms-bloodline",
@@ -607,7 +723,8 @@
     "cover_url": "https://kolnovel.com/wp-content/uploads/2022/10/سليل-المملكة_20250918_161202_٠٠٠٠.png",
     "type": "رواية",
     "is_novel": true,
-    "rating": "9.0"
+    "rating": "9.0",
+    "genres": []
   },
   {
     "id": "%d8%a7%d9%84%d9%85%d8%a6%d8%a9-%d8%b9%d9%87%d8%af",
@@ -616,7 +733,8 @@
     "cover_url": "https://kolnovel.com/wp-content/uploads/2026/07/بدون-اسم105_20260722102113.png",
     "type": "رواية",
     "is_novel": true,
-    "rating": ""
+    "rating": "",
+    "genres": []
   },
   {
     "id": "%d8%a7%d9%84%d8%a7%d8%a8%d9%86-%d8%a7%d9%84%d8%a3%d8%b5%d8%ba%d8%b1-%d9%84%d8%b3%d9%8a%d8%af-%d8%a7%d9%84%d8%b3%d9%8a%d9%81",
@@ -625,7 +743,8 @@
     "cover_url": "https://kolnovel.com/wp-content/uploads/2021/03/بدون-اسم112_20260802125700.png",
     "type": "رواية",
     "is_novel": true,
-    "rating": "8.8"
+    "rating": "8.8",
+    "genres": []
   },
   {
     "id": "reform-the-nobody",
@@ -634,7 +753,8 @@
     "cover_url": "https://kolnovel.com/wp-content/uploads/2021/12/5972441263a9514c39309138784a6c69-01_1.jpg",
     "type": "رواية",
     "is_novel": true,
-    "rating": "7.0"
+    "rating": "7.0",
+    "genres": []
   },
   {
     "id": "%d9%83%d8%aa%d8%a7%d8%a8-%d8%a7%d9%84%d9%85%d8%a6%d8%a9-%d8%ad%d9%8a%d8%a7%d8%a9",
@@ -643,7 +763,8 @@
     "cover_url": "https://kolnovel.com/wp-content/uploads/2026/08/بدون-اسم124_20260822084136.png",
     "type": "رواية",
     "is_novel": true,
-    "rating": ""
+    "rating": "",
+    "genres": []
   },
   {
     "id": "%d8%af%d8%a7%d9%88-%d8%a7%d9%84%d8%ae%d8%a7%d9%84%d8%af-%d8%a7%d9%84%d8%b9%d8%ac%d9%8a%d8%a8",
@@ -652,7 +773,8 @@
     "cover_url": "https://kolnovel.com/wp-content/uploads/2025/11/Picsart_25-11-27_16-28-47-925.jpg",
     "type": "رواية",
     "is_novel": true,
-    "rating": "8.0"
+    "rating": "8.0",
+    "genres": []
   },
   {
     "id": "%d8%a7%d9%84%d9%82%d8%b3-%d8%a7%d9%84%d9%85%d8%ac%d9%86%d9%88%d9%86",
@@ -663,7 +785,16 @@
     "is_novel": true,
     "rating": "9.0",
     "status": "مكتمل",
-    "total_chapters": 2372
+    "total_chapters": 2372,
+    "genres": [
+      "أكشن",
+      "رعب",
+      "غموض",
+      "مأساة",
+      "مغامرة",
+      "ناضج",
+      "نفسي"
+    ]
   },
   {
     "id": "%d8%a7%d9%84%d8%ad%d8%b8-%d9%8a%d9%81%d8%b6%d9%84-%d8%a7%d9%84%d8%b3%d9%82%d9%88%d8%b7",
@@ -672,7 +803,8 @@
     "cover_url": "https://kolnovel.com/wp-content/uploads/2026/05/135975-fortune-favors-the-fall.jpg.png",
     "type": "رواية",
     "is_novel": true,
-    "rating": ""
+    "rating": "",
+    "genres": []
   },
   {
     "id": "%d8%aa%d8%b3%d9%84%d9%82-%d8%a7%d9%84%d8%a8%d8%b1%d8%ac-%d8%a8%d8%a7%d8%b3%d8%aa%d8%ae%d8%af%d8%a7%d9%85-%d9%82%d8%af%d8%b1%d8%a9-%d8%a5%d9%8a%d9%82%d8%a7%d9%81-%d8%a7%d9%84%d8%b2%d9%85%d9%86",
@@ -681,7 +813,8 @@
     "cover_url": "https://kolnovel.com/wp-content/uploads/2026/07/113225-2.png",
     "type": "رواية",
     "is_novel": true,
-    "rating": "7.5"
+    "rating": "7.5",
+    "genres": []
   },
   {
     "id": "%d8%a3%d8%b3%d8%aa%d8%a7%d8%b0-%d9%85%d8%b2%d9%8a%d9%81%d8%8c-%d9%8a%d9%8f%d8%b3%d8%a7%d8%a1-%d9%81%d9%87%d9%85%d9%87-%d8%b9%d9%84%d9%89-%d8%a3%d9%86%d9%87-%d9%82%d9%88%d9%8a",
@@ -690,7 +823,8 @@
     "cover_url": "https://kolnovel.com/wp-content/uploads/2026/06/بدون-اسم69_20260715195741.png",
     "type": "رواية",
     "is_novel": true,
-    "rating": "8.0"
+    "rating": "8.0",
+    "genres": []
   },
   {
     "id": "%d8%a7%d9%84%d8%ae%d9%8a%d9%85%d9%8a%d8%a7%d8%a6%d9%8a-%d8%a7%d9%84%d9%85%d9%8a%d9%83%d8%a7%d9%86%d9%8a%d9%83%d9%8a",
@@ -699,7 +833,8 @@
     "cover_url": "https://kolnovel.com/wp-content/uploads/2021/01/بدون-اسم52_20260530141421.png",
     "type": "رواية",
     "is_novel": true,
-    "rating": "8.5"
+    "rating": "8.5",
+    "genres": []
   },
   {
     "id": "%d8%a7%d9%84%d8%ae%d9%84%d9%88%d8%af-%d8%a7%d9%84%d9%85%d9%84%d8%b9%d9%88%d9%86",
@@ -708,7 +843,8 @@
     "cover_url": "https://kolnovel.com/wp-content/uploads/2024/04/4_20240928135218.png",
     "type": "رواية",
     "is_novel": true,
-    "rating": "8.0"
+    "rating": "8.0",
+    "genres": []
   },
   {
     "id": "the-bloodl1ne-systam-kol",
@@ -717,7 +853,8 @@
     "cover_url": "https://kolnovel.com/wp-content/uploads/2021/12/بدون-اسم46_20250203201559.png",
     "type": "رواية",
     "is_novel": true,
-    "rating": "8.5"
+    "rating": "8.5",
+    "genres": []
   },
   {
     "id": "%d8%b3%d9%8a%d8%af-%d8%a7%d9%84%d8%b8%d9%84%d8%a7%d9%84-%d8%a7%d9%84%d8%b5%d8%a7%d9%85%d8%aa%d8%a9",
@@ -726,7 +863,8 @@
     "cover_url": "https://kolnovel.com/wp-content/uploads/2026/07/7901f39a81210a9d7abb67d80cbccc69.png",
     "type": "رواية",
     "is_novel": true,
-    "rating": "7.5"
+    "rating": "7.5",
+    "genres": []
   },
   {
     "id": "%d8%a8%d8%ab-%d8%a7%d9%84%d8%b1%d8%a7%d9%85%d9%8a-%d8%a7%d9%84%d8%b9%d8%a8%d9%82%d8%b1%d9%8a",
@@ -735,7 +873,8 @@
     "cover_url": "https://kolnovel.com/wp-content/uploads/2026/08/morph_9_seconds.gif",
     "type": "رواية",
     "is_novel": true,
-    "rating": ""
+    "rating": "",
+    "genres": []
   },
   {
     "id": "the-martial-unity",
@@ -746,7 +885,13 @@
     "is_novel": true,
     "rating": "",
     "status": "مستمر",
-    "total_chapters": 926
+    "total_chapters": 926,
+    "genres": [
+      "أكشن",
+      "إنتقال الى عالم أخر",
+      "فنون القتال",
+      "مغامرة"
+    ]
   },
   {
     "id": "%d8%a7%d9%84%d9%85%d8%ad%d8%b1%d8%b1-%d8%b4%d8%ae%d8%b5%d9%8a%d8%a9-%d8%a5%d8%b6%d8%a7%d9%81%d9%8a%d8%a9-%d9%81%d9%8a-%d8%a7%d9%84%d8%b1%d9%88%d8%a7%d9%8a%d8%a9",
@@ -757,7 +902,16 @@
     "is_novel": true,
     "rating": "",
     "status": "مستمر",
-    "total_chapters": 102
+    "total_chapters": 102,
+    "genres": [
+      "أكشن",
+      "خيال",
+      "دراما",
+      "سينين",
+      "شريحة من الحياة",
+      "مغامرات",
+      "نفسي"
+    ]
   },
   {
     "id": "%d8%a7%d8%ad%d9%85%d9%84-%d8%ae%d8%a7%d8%aa%d9%85-%d8%a5%d9%84%d8%af%d9%86",
@@ -768,7 +922,18 @@
     "is_novel": true,
     "rating": "",
     "status": "مستمر",
-    "total_chapters": 112
+    "total_chapters": 112,
+    "genres": [
+      "أكشن",
+      "بناء مملكة",
+      "تناسخ",
+      "عسكري",
+      "فان فيكشن",
+      "فانتازيا",
+      "مغامرة",
+      "ناضج",
+      "نظام"
+    ]
   },
   {
     "id": "%d8%a8%d9%88%d8%a7%d8%a8%d8%a9-%d8%a7%d9%84%d8%ae%d9%84%d9%88%d8%af",
@@ -779,7 +944,15 @@
     "is_novel": true,
     "rating": "4.0",
     "status": "مستمر",
-    "total_chapters": 1244
+    "total_chapters": 1244,
+    "genres": [
+      "أكشن",
+      "خيال",
+      "شريحة من الحياة",
+      "شيانشيا",
+      "مغامرة",
+      "ووشيا"
+    ]
   },
   {
     "id": "mushoku-tensei",
@@ -790,7 +963,19 @@
     "is_novel": true,
     "rating": "4.8",
     "status": "مستمر",
-    "total_chapters": 328
+    "total_chapters": 328,
+    "genres": [
+      "أكشن",
+      "حريم",
+      "خيال",
+      "دراما",
+      "رومانسي",
+      "سينن",
+      "كوميدي",
+      "مأساوي",
+      "مغامرة",
+      "ناضج"
+    ]
   },
   {
     "id": "%d9%85%d9%87%d9%84%d8%a9-%d8%a7%d9%84%d8%b9%d8%b4%d8%b1-%d8%a3%d9%8a%d8%a7%d9%85",
@@ -801,7 +986,17 @@
     "is_novel": true,
     "rating": "5.0",
     "status": "مستمر",
-    "total_chapters": 36
+    "total_chapters": 36,
+    "genres": [
+      "ألغاز",
+      "إثارة",
+      "بطل ذكي",
+      "تحقيقات",
+      "رعب",
+      "غموض",
+      "فناء",
+      "نفسي"
+    ]
   },
   {
     "id": "%d9%85%d9%84%d8%ad%d9%85%d8%a9-%d8%b3%d9%84%d9%8a%d9%84-%d8%a7%d9%84%d8%ae%d9%88%d9%81",
@@ -812,7 +1007,14 @@
     "is_novel": true,
     "rating": "",
     "status": "مستمر",
-    "total_chapters": 26
+    "total_chapters": 26,
+    "genres": [
+      "خيال علمي",
+      "رعب",
+      "سحر",
+      "غموض",
+      "مغامرة"
+    ]
   },
   {
     "id": "%d8%a7%d9%84%d9%85%d9%8f%d8%aa%d9%8e%d8%ad%d9%8e%d8%b1%d9%90%d9%91%d8%b1",
@@ -823,7 +1025,13 @@
     "is_novel": true,
     "rating": "",
     "status": "مستمر",
-    "total_chapters": 32
+    "total_chapters": 32,
+    "genres": [
+      "أكشن",
+      "خيال مظلم",
+      "غموض",
+      "فانتازيا"
+    ]
   },
   {
     "id": "%d9%85%d9%84%d9%83-%d9%82%d8%af-%d9%84%d8%a7-%d9%8a%d8%b9%d9%88%d8%af",
@@ -834,7 +1042,15 @@
     "is_novel": true,
     "rating": "",
     "status": "مستمر",
-    "total_chapters": 36
+    "total_chapters": 36,
+    "genres": [
+      "أكشن",
+      "خيال",
+      "خيال مظلم",
+      "دراما",
+      "سحر",
+      "مغامرة"
+    ]
   },
   {
     "id": "%d8%a7%d9%84%d8%b9%d9%88%d8%a7%d9%84%d9%85-%d9%81%d9%8a-%d8%a7%d9%84%d8%b3%d9%85%d8%a7%d8%a1",
@@ -845,7 +1061,18 @@
     "is_novel": true,
     "rating": "",
     "status": "مستمر",
-    "total_chapters": 204
+    "total_chapters": 204,
+    "genres": [
+      "أكشن",
+      "حريم",
+      "خيال",
+      "رومانسية",
+      "شوانهوان",
+      "فنون قتال",
+      "كوميديا",
+      "مغامرة",
+      "ناضج"
+    ]
   },
   {
     "id": "the-authors-pov",
@@ -856,7 +1083,14 @@
     "is_novel": true,
     "rating": "4.5",
     "status": "مستمر",
-    "total_chapters": 419
+    "total_chapters": 419,
+    "genres": [
+      "أكشن",
+      "دراما",
+      "رومانسية",
+      "كوميديا",
+      "مغامرة"
+    ]
   },
   {
     "id": "elchamy-ambarar-af-tha-divina-dea",
@@ -867,7 +1101,14 @@
     "is_novel": true,
     "rating": "",
     "status": "مستمر",
-    "total_chapters": 3673
+    "total_chapters": 3673,
+    "genres": [
+      "حريم",
+      "فنون القتال",
+      "كوميدي",
+      "ما بعد الكارثة",
+      "مغامرة"
+    ]
   },
   {
     "id": "%d9%85%d9%84%d9%83-%d8%b3%d9%85%d8%a7%d8%aa-%d8%a7%d9%84%d9%81%d9%86%d9%88%d9%86-%d8%a7%d9%84%d9%82%d8%aa%d8%a7%d9%84%d9%8a%d8%a9",
@@ -878,7 +1119,14 @@
     "is_novel": true,
     "rating": "5.0",
     "status": "مستمر",
-    "total_chapters": 1460
+    "total_chapters": 1460,
+    "genres": [
+      "بطل وقح",
+      "خيال",
+      "شيانشيا",
+      "فنون قتال",
+      "مغامرة"
+    ]
   },
   {
     "id": "%d8%a7%d8%aa%d8%b6%d8%ad-%d8%a3%d9%86%d9%86%d9%8a-%d9%85%d9%86-%d8%b9%d8%b4%d9%8a%d8%b1%d8%a9-%d8%a7%d9%84%d8%a3%d8%b4%d8%b1%d8%a7%d8%b1",
@@ -889,7 +1137,17 @@
     "is_novel": true,
     "rating": "4.5",
     "status": "مستمر",
-    "total_chapters": 308
+    "total_chapters": 308,
+    "genres": [
+      "إنتقام",
+      "بطل شرير",
+      "بناء مملكة",
+      "تدريب",
+      "حروب",
+      "دموي",
+      "مكر و خداع",
+      "نظام"
+    ]
   },
   {
     "id": "%d9%85%d8%ad%d9%86%d8%a9-%d8%a7%d9%84%d8%a3%d8%ac%d9%86%d8%a7%d8%b3-%d8%a7%d9%84%d9%85%d8%aa%d8%b9%d8%af%d8%af%d8%a9",
@@ -900,7 +1158,14 @@
     "is_novel": true,
     "rating": "",
     "status": "مستمر",
-    "total_chapters": 25
+    "total_chapters": 25,
+    "genres": [
+      "أكشن",
+      "زراعة",
+      "فانتازيا",
+      "قوى خارقة",
+      "مدرسية"
+    ]
   },
   {
     "id": "%d8%a3%d8%b3%d8%b1%d8%a7%d8%b1-%d8%b3%d9%8a%d8%af-%d8%a7%d9%84%d8%af%d9%85%d9%89-%d8%a7%d9%84%d8%ae%d8%a7%d9%84%d8%af",
@@ -911,7 +1176,16 @@
     "is_novel": true,
     "rating": "5.0",
     "status": "مستمر",
-    "total_chapters": 166
+    "total_chapters": 166,
+    "genres": [
+      "أكشن",
+      "خيال",
+      "سينن",
+      "شيانشيا",
+      "غموض",
+      "فنون قتال",
+      "مغامرة"
+    ]
   },
   {
     "id": "%d8%ae%d8%a7%d9%84%d8%af-%d8%a7%d9%84%d8%b9%d9%88%d8%a7%d9%84%d9%85-%d8%a7%d9%84%d8%aa%d8%b3%d8%b9%d8%a9",
@@ -922,7 +1196,15 @@
     "is_novel": true,
     "rating": "4.0",
     "status": "مستمر",
-    "total_chapters": 71
+    "total_chapters": 71,
+    "genres": [
+      "أكشن",
+      "خيال",
+      "دراما",
+      "شوانهوان",
+      "شيانشيا",
+      "فنون قتال"
+    ]
   },
   {
     "id": "%d9%83%d9%8a%d9%81-%d8%a3%d8%b9%d8%a7%d8%af-%d8%a8%d8%b7%d9%84-%d9%88%d8%a7%d9%82%d8%b9%d9%8a-%d8%a8%d9%86%d8%a7%d8%a1-%d8%a7%d9%84%d9%85%d9%85%d9%84%d9%83%d8%a9",
@@ -933,7 +1215,18 @@
     "is_novel": true,
     "rating": "5.0",
     "status": "مستمر",
-    "total_chapters": 45
+    "total_chapters": 45,
+    "genres": [
+      "أكشن",
+      "حريم",
+      "خيال",
+      "دراما",
+      "رومانسية",
+      "سياسة",
+      "عسكرية",
+      "كوميديا",
+      "مغامرة"
+    ]
   },
   {
     "id": "%d8%b3%d9%8a%d8%af-%d8%a7%d9%84%d8%aa%d9%85%d9%86%d9%91%d9%8a",
@@ -944,7 +1237,16 @@
     "is_novel": true,
     "rating": "4.0",
     "status": "مستمر",
-    "total_chapters": 35
+    "total_chapters": 35,
+    "genres": [
+      "أكشن",
+      "خيال",
+      "دراما",
+      "رعب",
+      "غموض",
+      "قوى خارقة",
+      "مغامرة"
+    ]
   },
   {
     "id": "%d8%b3%d9%84%d8%b3%d9%84%d8%a9-%d9%85%d9%88%d9%86%d9%88%d8%ba%d8%a7%d8%aa%d8%a7%d8%b1%d9%8a",
@@ -955,7 +1257,18 @@
     "is_novel": true,
     "rating": "",
     "status": "مستمر",
-    "total_chapters": 42
+    "total_chapters": 42,
+    "genres": [
+      "خارق للطبيعة",
+      "خوارق",
+      "خيال",
+      "دراما",
+      "رومانسية",
+      "غموض",
+      "كوميديا",
+      "ناضج",
+      "نفسي"
+    ]
   },
   {
     "id": "emperors-domination",
@@ -966,7 +1279,15 @@
     "is_novel": true,
     "rating": "5.0",
     "status": "مستمر",
-    "total_chapters": 6703
+    "total_chapters": 6703,
+    "genres": [
+      "أكشن",
+      "حريم",
+      "ظواهر خارقة للطبيعة",
+      "غموض",
+      "فنون القتال",
+      "مغامرة"
+    ]
   },
   {
     "id": "martial-world",
@@ -977,7 +1298,14 @@
     "is_novel": true,
     "rating": "5.0",
     "status": "مكتمل",
-    "total_chapters": 2277
+    "total_chapters": 2277,
+    "genres": [
+      "أكشن",
+      "حريم",
+      "فنون قتال",
+      "قوى خارقة",
+      "مغامرة"
+    ]
   },
   {
     "id": "super-god-gene",
@@ -988,7 +1316,16 @@
     "is_novel": true,
     "rating": "",
     "status": "مكتمل",
-    "total_chapters": 3464
+    "total_chapters": 3464,
+    "genres": [
+      "أكشن",
+      "الخيال العلمي",
+      "حياة مدرسية",
+      "فنون القتال",
+      "كوميدي",
+      "مغامرة",
+      "ميكا"
+    ]
   },
   {
     "id": "martial-god-asura",
@@ -999,7 +1336,13 @@
     "is_novel": true,
     "rating": "",
     "status": "متوقف مؤقتاً",
-    "total_chapters": 5211
+    "total_chapters": 5211,
+    "genres": [
+      "أكشن",
+      "رومانسي",
+      "فنون القتال",
+      "ناضج"
+    ]
   },
   {
     "id": "atharwarldly-avil-manerch-kol",
@@ -1010,7 +1353,16 @@
     "is_novel": true,
     "rating": "",
     "status": "مكتمل",
-    "total_chapters": 1277
+    "total_chapters": 1277,
+    "genres": [
+      "أكشن",
+      "حريم",
+      "ظواهر خارقة للطبيعة",
+      "فنون القتال",
+      "كوميدي",
+      "مغامرة",
+      "ناضج"
+    ]
   },
   {
     "id": "%d8%b9%d9%84%d9%85-%d9%88%d8%b1%d8%a7%d9%83-%d8%a7%d9%84%d9%85%d8%aa%d8%ac%d9%88%d8%b2-%d9%83%d9%88%d9%84",
@@ -1021,7 +1373,13 @@
     "is_novel": true,
     "rating": "5.0",
     "status": "مكتمل",
-    "total_chapters": 1204
+    "total_chapters": 1204,
+    "genres": [
+      "أكشن",
+      "حريم",
+      "سحر",
+      "مغامرة"
+    ]
   },
   {
     "id": "dasaleta-are-kol",
@@ -1032,7 +1390,12 @@
     "is_novel": true,
     "rating": "5.0",
     "status": "مكتمل",
-    "total_chapters": 1452
+    "total_chapters": 1452,
+    "genres": [
+      "أكشن",
+      "ظواهر خارقة للطبيعة",
+      "فنون القتال"
+    ]
   },
   {
     "id": "overgeared",
@@ -1043,7 +1406,15 @@
     "is_novel": true,
     "rating": "",
     "status": "مستمر",
-    "total_chapters": 1976
+    "total_chapters": 1976,
+    "genres": [
+      "أكشن",
+      "الخيال العلمي",
+      "تقمص شخصيات",
+      "شونين",
+      "كوميدي",
+      "مغامرة"
+    ]
   },
   {
     "id": "the-legeandeary-mechaenic-kol",
@@ -1054,7 +1425,14 @@
     "is_novel": true,
     "rating": "",
     "status": "مكتمل",
-    "total_chapters": 1464
+    "total_chapters": 1464,
+    "genres": [
+      "أكشن",
+      "الخيال العلمي",
+      "ظواهر خارقة للطبيعة",
+      "كوميدي",
+      "مغامرة"
+    ]
   },
   {
     "id": "divine-throne-of-primordial-blood",
@@ -1065,7 +1443,11 @@
     "is_novel": true,
     "rating": "",
     "status": "مكتمل",
-    "total_chapters": 1158
+    "total_chapters": 1158,
+    "genres": [
+      "أكشن",
+      "غموض"
+    ]
   },
   {
     "id": "pursuit-of-the-truth",
@@ -1074,7 +1456,8 @@
     "cover_url": "https://kolnovel.com/wp-content/uploads/2021/12/img_1678208893860-e1678211335965.jpg",
     "type": "رواية",
     "is_novel": true,
-    "rating": "8.9"
+    "rating": "8.9",
+    "genres": []
   },
   {
     "id": "worlds-apocalypse-online",
@@ -1083,7 +1466,8 @@
     "cover_url": "https://kolnovel.com/wp-content/uploads/2021/04/162a41ef3a37e052-e1647036509536.png",
     "type": "رواية",
     "is_novel": true,
-    "rating": "8.9"
+    "rating": "8.9",
+    "genres": []
   },
   {
     "id": "solo-leveling",
@@ -1092,7 +1476,8 @@
     "cover_url": "https://kolnovel.com/wp-content/uploads/2020/11/51cad5c691f88db8.png",
     "type": "رواية",
     "is_novel": true,
-    "rating": "9.2"
+    "rating": "9.2",
+    "genres": []
   },
   {
     "id": "perfect-world",
@@ -1101,7 +1486,8 @@
     "cover_url": "https://kolnovel.com/wp-content/uploads/2020/12/161_20220112185839-e1647036483898.png",
     "type": "رواية",
     "is_novel": true,
-    "rating": "8.5"
+    "rating": "8.5",
+    "genres": []
   },
   {
     "id": "wystlcei-janruay-kol",
@@ -1110,7 +1496,8 @@
     "cover_url": "https://kolnovel.com/wp-content/uploads/2020/12/IMG_٢٠٢٣٠٨٢٦_١٥١٨٥٢.png",
     "type": "رواية",
     "is_novel": true,
-    "rating": "7.5"
+    "rating": "7.5",
+    "genres": []
   },
   {
     "id": "kol-myhous-o-f-horrors",
@@ -1119,7 +1506,8 @@
     "cover_url": "https://kolnovel.com/wp-content/themes/lightnovel/assets/images/noimg165px.png",
     "type": "رواية",
     "is_novel": true,
-    "rating": "9.0"
+    "rating": "9.0",
+    "genres": []
   },
   {
     "id": "%d8%b3%d8%ac%d9%84%d8%a7%d8%aa-%d8%b3%d9%82%d9%88%d8%b7-%d8%a7%d9%84%d8%a2%d9%84%d9%87%d8%a9",
@@ -1128,7 +1516,8 @@
     "cover_url": "https://kolnovel.com/wp-content/uploads/2021/02/1628817670039.png",
     "type": "رواية",
     "is_novel": true,
-    "rating": "9.0"
+    "rating": "9.0",
+    "genres": []
   },
   {
     "id": "the-novel-extra",
@@ -1137,7 +1526,8 @@
     "cover_url": "https://kolnovel.com/wp-content/uploads/2021/03/9099ae12e510e865.png",
     "type": "رواية",
     "is_novel": true,
-    "rating": "8.0"
+    "rating": "8.0",
+    "genres": []
   },
   {
     "id": "thegood-fornoth1ng-saveanth-younglady-kol",
@@ -1146,7 +1536,8 @@
     "cover_url": "https://kolnovel.com/wp-content/uploads/2020/10/IMG_٢٠٢٣٠٩٠١_٠٢٣٩٢٧.jpg",
     "type": "رواية",
     "is_novel": true,
-    "rating": "8.7"
+    "rating": "8.7",
+    "genres": []
   },
   {
     "id": "the-world-online",
@@ -1155,7 +1546,8 @@
     "cover_url": "https://kolnovel.com/wp-content/uploads/2022/01/1643731268810-e1647036356342.jpg",
     "type": "رواية",
     "is_novel": true,
-    "rating": "7.5"
+    "rating": "7.5",
+    "genres": []
   },
   {
     "id": "%d8%ac%d9%88%d9%87%d8%b1%d8%a9%d8%a7%d9%84%d8%aa%d8%ba%d9%8a%d8%b1%d8%a7%d9%84%d8%b3%d9%85%d8%a7%d9%88%d9%8a%d8%a9-kolnovel",
@@ -1164,7 +1556,8 @@
     "cover_url": "https://kolnovel.com/wp-content/uploads/2020/10/IMG_٢٠٢٣٠٨٢٦_١٥١٤٠٦.jpg",
     "type": "رواية",
     "is_novel": true,
-    "rating": "8.6"
+    "rating": "8.6",
+    "genres": []
   },
   {
     "id": "e-wlii-ataruei",
@@ -1173,7 +1566,8 @@
     "cover_url": "https://kolnovel.com/wp-content/uploads/2021/03/252_20220514222703-e1652564076545_b.png",
     "type": "رواية",
     "is_novel": true,
-    "rating": "9.0"
+    "rating": "9.0",
+    "genres": []
   },
   {
     "id": "%d8%ab%d9%84%d8%a7%d8%ab%d8%a9-%d8%a3%d9%8a%d8%a7%d9%85-%d9%85%d9%86-%d8%a7%d9%84%d8%b3%d8%b9%d8%a7%d8%af%d8%a9",
@@ -1182,7 +1576,8 @@
     "cover_url": "https://kolnovel.com/wp-content/uploads/2021/08/c96492921b092428.png",
     "type": "رواية",
     "is_novel": true,
-    "rating": "8.0"
+    "rating": "8.0",
+    "genres": []
   },
   {
     "id": "soul-of-negary",
@@ -1191,7 +1586,8 @@
     "cover_url": "https://kolnovel.com/wp-content/uploads/2021/11/1.jpg",
     "type": "رواية",
     "is_novel": true,
-    "rating": "8.8"
+    "rating": "8.8",
+    "genres": []
   },
   {
     "id": "the-dark-king",
@@ -1200,7 +1596,8 @@
     "cover_url": "https://kolnovel.com/wp-content/uploads/2021/04/الملك-المظلم.jpg",
     "type": "رواية",
     "is_novel": true,
-    "rating": "8.2"
+    "rating": "8.2",
+    "genres": []
   },
   {
     "id": "the-book-eating-magician",
@@ -1209,7 +1606,8 @@
     "cover_url": "https://kolnovel.com/wp-content/uploads/2020/12/IMG_20211126_025247.png",
     "type": "رواية",
     "is_novel": true,
-    "rating": "8.9"
+    "rating": "8.9",
+    "genres": []
   },
   {
     "id": "stellar-transformation",
@@ -1218,7 +1616,8 @@
     "cover_url": "https://kolnovel.com/wp-content/uploads/2020/10/IMG_20220114_134959-scaled-e1647036598719.jpg",
     "type": "رواية",
     "is_novel": true,
-    "rating": "8.4"
+    "rating": "8.4",
+    "genres": []
   },
   {
     "id": "mother-of-learning",
@@ -1227,7 +1626,8 @@
     "cover_url": "https://kolnovel.com/wp-content/uploads/2020/11/بدون-اسم113_20260804035520.png",
     "type": "رواية",
     "is_novel": true,
-    "rating": "9.0"
+    "rating": "9.0",
+    "genres": []
   },
   {
     "id": "overlord",
@@ -1236,7 +1636,8 @@
     "cover_url": "https://kolnovel.com/wp-content/uploads/2021/06/IMG_20211110_220820.png",
     "type": "رواية",
     "is_novel": true,
-    "rating": "9.5"
+    "rating": "9.5",
+    "genres": []
   },
   {
     "id": "the-great-mage-returns-after-4000-years",
@@ -1245,7 +1646,8 @@
     "cover_url": "https://kolnovel.com/wp-content/uploads/2021/03/The-Great-Mage-Returns-After-4000-Years-724x1024-1-e1647036725964.jpg",
     "type": "رواية",
     "is_novel": true,
-    "rating": "9.6"
+    "rating": "9.6",
+    "genres": []
   },
   {
     "id": "80years-of-signing-in-at-the-cold-palace-i-am-unrivalled",
@@ -1254,7 +1656,8 @@
     "cover_url": "https://kolnovel.com/wp-content/uploads/2021/07/dfdb2f1d371e4e60-e1647036292550.png",
     "type": "رواية",
     "is_novel": true,
-    "rating": "8.0"
+    "rating": "8.0",
+    "genres": []
   },
   {
     "id": "tha-forest-tender-kol",
@@ -1263,7 +1666,8 @@
     "cover_url": "https://kolnovel.com/wp-content/uploads/2022/03/The_First_Order_a733d3afb2.webp",
     "type": "رواية",
     "is_novel": true,
-    "rating": "8.0"
+    "rating": "8.0",
+    "genres": []
   },
   {
     "id": "librery-af-haevans-peth-kol",
@@ -1272,7 +1676,8 @@
     "cover_url": "https://kolnovel.com/wp-content/uploads/2021/04/IMG_20211116_005737.png",
     "type": "رواية",
     "is_novel": true,
-    "rating": "8.0"
+    "rating": "8.0",
+    "genres": []
   },
   {
     "id": "sage-monarch",
@@ -1281,7 +1686,8 @@
     "cover_url": "https://kolnovel.com/wp-content/uploads/2021/08/English_Cover_2-e1651590363441.jpg",
     "type": "رواية",
     "is_novel": true,
-    "rating": "7.5"
+    "rating": "7.5",
+    "genres": []
   },
   {
     "id": "dungeon-defense-wn",
@@ -1290,7 +1696,8 @@
     "cover_url": "https://kolnovel.com/wp-content/uploads/2021/06/16_20211127172308-1.png",
     "type": "رواية",
     "is_novel": true,
-    "rating": "9.0"
+    "rating": "9.0",
+    "genres": []
   },
   {
     "id": "chrysalis",
@@ -1299,7 +1706,8 @@
     "cover_url": "https://kolnovel.com/wp-content/uploads/2021/08/cover_A-1.png",
     "type": "رواية",
     "is_novel": true,
-    "rating": "8.0"
+    "rating": "8.0",
+    "genres": []
   },
   {
     "id": "isaac",
@@ -1308,7 +1716,8 @@
     "cover_url": "https://kolnovel.com/wp-content/uploads/2021/04/images.jpg",
     "type": "رواية",
     "is_novel": true,
-    "rating": "9.0"
+    "rating": "9.0",
+    "genres": []
   },
   {
     "id": "swallowed-star",
@@ -1317,7 +1726,8 @@
     "cover_url": "https://kolnovel.com/wp-content/uploads/2025/04/غلاف.jpg",
     "type": "رواية",
     "is_novel": true,
-    "rating": "9.0"
+    "rating": "9.0",
+    "genres": []
   },
   {
     "id": "%d8%a7%d9%84%d8%a3%d8%a8-%d8%a7%d9%84%d8%b2%d9%88%d9%85%d8%a8%d9%8a",
@@ -1326,7 +1736,8 @@
     "cover_url": "https://kolnovel.com/wp-content/uploads/2023/11/IMG_0613-scaled.jpg",
     "type": "رواية",
     "is_novel": true,
-    "rating": "9.0"
+    "rating": "9.0",
+    "genres": []
   },
   {
     "id": "no-way-people-find-cultivation-difficult-right",
@@ -1335,7 +1746,8 @@
     "cover_url": "https://kolnovel.com/wp-content/uploads/2021/08/4.png",
     "type": "رواية",
     "is_novel": true,
-    "rating": "8.0"
+    "rating": "8.0",
+    "genres": []
   },
   {
     "id": "princess-medical-doctor",
@@ -1344,7 +1756,8 @@
     "cover_url": "https://kolnovel.com/wp-content/uploads/2020/10/123.jpg",
     "type": "رواية",
     "is_novel": true,
-    "rating": "7.8"
+    "rating": "7.8",
+    "genres": []
   },
   {
     "id": "my-iyashikei-game",
@@ -1353,7 +1766,8 @@
     "cover_url": "https://kolnovel.com/wp-content/uploads/2021/02/ff_040701.png",
     "type": "رواية",
     "is_novel": true,
-    "rating": "8.9"
+    "rating": "8.9",
+    "genres": []
   },
   {
     "id": "i-am-a-scarecrow-and-the-demon-lord-of-terror",
@@ -1362,7 +1776,8 @@
     "cover_url": "https://kolnovel.com/wp-content/uploads/2021/12/IMG_20211029_023118.png",
     "type": "رواية",
     "is_novel": true,
-    "rating": "8.0"
+    "rating": "8.0",
+    "genres": []
   },
   {
     "id": "a-saint-who-was-adopted-by-the-grand-duke",
@@ -1371,7 +1786,8 @@
     "cover_url": "https://kolnovel.com/wp-content/uploads/2021/03/A-Saint-Who-Was-Adopted-by-the-Grand-Duke.jpeg",
     "type": "رواية",
     "is_novel": true,
-    "rating": "8.2"
+    "rating": "8.2",
+    "genres": []
   },
   {
     "id": "supreme-uprising",
@@ -1380,7 +1796,8 @@
     "cover_url": "https://kolnovel.com/wp-content/uploads/2020/11/Supreme-Uprising.jpg",
     "type": "رواية",
     "is_novel": true,
-    "rating": "8.0"
+    "rating": "8.0",
+    "genres": []
   },
   {
     "id": "demon-hunter",
@@ -1389,7 +1806,8 @@
     "cover_url": "https://kolnovel.com/wp-content/uploads/2021/09/24971c74b6a5880e.png",
     "type": "رواية",
     "is_novel": true,
-    "rating": "8.0"
+    "rating": "8.0",
+    "genres": []
   },
   {
     "id": "nightmares-call",
@@ -1398,7 +1816,8 @@
     "cover_url": "https://kolnovel.com/wp-content/uploads/2021/03/1640378601663.jpg",
     "type": "رواية",
     "is_novel": true,
-    "rating": "7.0"
+    "rating": "7.0",
+    "genres": []
   },
   {
     "id": "rise-of-the-worm-sovereign",
@@ -1407,7 +1826,8 @@
     "cover_url": "https://kolnovel.com/wp-content/uploads/2022/12/cover_new12333-e1672487704530.jpg",
     "type": "رواية",
     "is_novel": true,
-    "rating": "8.0"
+    "rating": "8.0",
+    "genres": []
   },
   {
     "id": "dreamers-throne",
@@ -1416,7 +1836,8 @@
     "cover_url": "https://kolnovel.com/wp-content/uploads/2023/05/25_20230618192405.png",
     "type": "رواية",
     "is_novel": true,
-    "rating": "9.2"
+    "rating": "9.2",
+    "genres": []
   },
   {
     "id": "release-that-witch",
@@ -1425,7 +1846,8 @@
     "cover_url": "https://kolnovel.com/wp-content/uploads/2021/04/IMG_20211111_105804.png",
     "type": "رواية",
     "is_novel": true,
-    "rating": "9.0"
+    "rating": "9.0",
+    "genres": []
   },
   {
     "id": "stop-friendly-fire",
@@ -1434,7 +1856,8 @@
     "cover_url": "https://kolnovel.com/wp-content/uploads/2021/03/IMG_20220114_155050-e1647038510893.png",
     "type": "رواية",
     "is_novel": true,
-    "rating": "8.7"
+    "rating": "8.7",
+    "genres": []
   },
   {
     "id": "carefreapaeth-ouf-drems-kol",
@@ -1443,7 +1866,8 @@
     "cover_url": "https://kolnovel.com/wp-content/uploads/2020/10/IMG_٢٠٢٣٠٩٠١_٠٢٤٦٢٣.jpg",
     "type": "رواية",
     "is_novel": true,
-    "rating": "8.0"
+    "rating": "8.0",
+    "genres": []
   },
   {
     "id": "rezero-if-story",
@@ -1452,7 +1876,8 @@
     "cover_url": "https://kolnovel.com/wp-content/uploads/2021/09/Negar_٢٠٢٢٠٩٠٢_٢٣٢٠٥٢-e1662150436699.png",
     "type": "رواية",
     "is_novel": true,
-    "rating": "8.0"
+    "rating": "8.0",
+    "genres": []
   },
   {
     "id": "in-different-world-with-naruto-system",
@@ -1461,7 +1886,8 @@
     "cover_url": "https://kolnovel.com/wp-content/uploads/2021/03/In-Different-World-With-Naruto-System.jpg",
     "type": "رواية",
     "is_novel": true,
-    "rating": "7.0"
+    "rating": "7.0",
+    "genres": []
   },
   {
     "id": "gourmetof-aenoathaerworld-kolnovel",
@@ -1470,7 +1896,8 @@
     "cover_url": "https://kolnovel.com/wp-content/uploads/2021/04/gourmetanotherworld.jpg",
     "type": "رواية",
     "is_novel": true,
-    "rating": "8.7"
+    "rating": "8.7",
+    "genres": []
   },
   {
     "id": "the-city-of-terror",
@@ -1479,7 +1906,8 @@
     "cover_url": "https://kolnovel.com/wp-content/uploads/2020/10/600-1.jpg",
     "type": "رواية",
     "is_novel": true,
-    "rating": "8.7"
+    "rating": "8.7",
+    "genres": []
   },
   {
     "id": "valhalla-saga",
@@ -1488,7 +1916,8 @@
     "cover_url": "https://kolnovel.com/wp-content/uploads/2021/11/IMG_20211112_200055.png",
     "type": "رواية",
     "is_novel": true,
-    "rating": "8.0"
+    "rating": "8.0",
+    "genres": []
   },
   {
     "id": "i-reincarnated-for-nothing",
@@ -1497,7 +1926,8 @@
     "cover_url": "https://kolnovel.com/wp-content/uploads/2021/05/ec297ffb5f87460a-e1647038605990.png",
     "type": "رواية",
     "is_novel": true,
-    "rating": "7.0"
+    "rating": "7.0",
+    "genres": []
   },
   {
     "id": "vearsetile-megeaa-kolnovel",
@@ -1506,7 +1936,8 @@
     "cover_url": "https://kolnovel.com/wp-content/uploads/2021/03/IMG_٢٠٢٣٠٩٠١_٠٢٣٧٢٣.jpg",
     "type": "رواية",
     "is_novel": true,
-    "rating": "8.4"
+    "rating": "8.4",
+    "genres": []
   },
   {
     "id": "the-second-coming-of-gluttony",
@@ -1515,7 +1946,8 @@
     "cover_url": "https://kolnovel.com/wp-content/uploads/2020/11/1ad6922b44d7987e-scaled.jpg",
     "type": "رواية",
     "is_novel": true,
-    "rating": "8.9"
+    "rating": "8.9",
+    "genres": []
   },
   {
     "id": "born-as-the-daughter-of-the-wicked-woman",
@@ -1524,7 +1956,8 @@
     "cover_url": "https://kolnovel.com/wp-content/uploads/2021/03/PicsArt_09-28-10.41.20.jpg",
     "type": "رواية",
     "is_novel": true,
-    "rating": "9.0"
+    "rating": "9.0",
+    "genres": []
   },
   {
     "id": "emperor-of-solo-play",
@@ -1533,7 +1966,8 @@
     "cover_url": "https://kolnovel.com/wp-content/uploads/2021/07/0-e1651886119256.jpg",
     "type": "رواية",
     "is_novel": true,
-    "rating": "8.0"
+    "rating": "8.0",
+    "genres": []
   },
   {
     "id": "%d8%b9%d8%a7%d9%84%d9%85-%d8%a7%d9%84%d8%b3%d8%ad%d8%b1%d8%a9",
@@ -1542,7 +1976,8 @@
     "cover_url": "https://kolnovel.com/wp-content/uploads/2021/12/27d31d1392d68ca4.png",
     "type": "رواية",
     "is_novel": true,
-    "rating": "8.4"
+    "rating": "8.4",
+    "genres": []
   },
   {
     "id": "aembersead-1nf11n1tum-kol",
@@ -1551,7 +1986,8 @@
     "cover_url": "https://kolnovel.com/wp-content/uploads/2021/01/01078-embers-ad-infinitum_1.jpg",
     "type": "رواية",
     "is_novel": true,
-    "rating": "8.7"
+    "rating": "8.7",
+    "genres": []
   },
   {
     "id": "mmorpgmartiel-gaemar-kol",
@@ -1560,7 +1996,8 @@
     "cover_url": "https://kolnovel.com/wp-content/uploads/2020/10/1-21051G60G90-L.jpg",
     "type": "رواية",
     "is_novel": true,
-    "rating": "8.6"
+    "rating": "8.6",
+    "genres": []
   },
   {
     "id": "god-of-crime",
@@ -1569,7 +2006,8 @@
     "cover_url": "https://kolnovel.com/wp-content/uploads/2020/10/god-of-crime-1.jpg",
     "type": "رواية",
     "is_novel": true,
-    "rating": "8.2"
+    "rating": "8.2",
+    "genres": []
   },
   {
     "id": "a-monster-who-levels-up",
@@ -1578,7 +2016,8 @@
     "cover_url": "https://kolnovel.com/wp-content/uploads/2021/04/242989dcf42e99f3-scaled.jpg",
     "type": "رواية",
     "is_novel": true,
-    "rating": "7.4"
+    "rating": "7.4",
+    "genres": []
   },
   {
     "id": "%d8%a8%d8%b9%d8%af-%d8%b9%d8%b4%d8%b1%d8%a9-%d8%a2%d9%84%d9%81-%d8%b3%d9%86%d8%a9-%d9%81%d9%8a-%d8%a7%d9%84%d8%ac%d8%ad%d9%8a%d9%85",
@@ -1587,7 +2026,8 @@
     "cover_url": "https://kolnovel.com/wp-content/uploads/2023/08/65_20230825144111-e1692967264306.png",
     "type": "رواية",
     "is_novel": true,
-    "rating": ""
+    "rating": "",
+    "genres": []
   },
   {
     "id": "god-of-money",
@@ -1596,7 +2036,8 @@
     "cover_url": "https://kolnovel.com/wp-content/uploads/2021/11/IMG_20211112_190055.png",
     "type": "رواية",
     "is_novel": true,
-    "rating": "7.0"
+    "rating": "7.0",
+    "genres": []
   },
   {
     "id": "%d8%a7%d9%84%d9%82%d8%b3-%d8%a7%d9%84%d9%85%d8%ac%d9%86%d9%88%d9%86-%d8%a7%d9%84%d8%a3%d8%b1%d9%83-%d8%a7%d9%84%d8%a3%d8%ae%d9%8a%d8%b1-%d9%86%d8%b3%d8%ae%d8%a9-%d8%a7%d9%84%d9%81%d8%a7%d9%86",
@@ -1605,7 +2046,8 @@
     "cover_url": "https://kolnovel.com/wp-content/uploads/2024/01/qk9nqqsmrb471.webp",
     "type": "رواية",
     "is_novel": true,
-    "rating": "9.0"
+    "rating": "9.0",
+    "genres": []
   },
   {
     "id": "sovereign-of-judgment",
@@ -1614,7 +2056,8 @@
     "cover_url": "https://kolnovel.com/wp-content/uploads/2023/01/71_20230307005733.png",
     "type": "رواية",
     "is_novel": true,
-    "rating": "8.5"
+    "rating": "8.5",
+    "genres": []
   },
   {
     "id": "lv1-skeleton",
@@ -1623,7 +2066,8 @@
     "cover_url": "https://kolnovel.com/wp-content/uploads/2020/10/155_20220110222942.png",
     "type": "رواية",
     "is_novel": true,
-    "rating": "6.4"
+    "rating": "6.4",
+    "genres": []
   },
   {
     "id": "outside-of-time",
@@ -1632,7 +2076,8 @@
     "cover_url": "https://kolnovel.com/wp-content/uploads/2023/07/48_20230803175606-1-e1691080388302.png",
     "type": "رواية",
     "is_novel": true,
-    "rating": "8.5"
+    "rating": "8.5",
+    "genres": []
   },
   {
     "id": "imrelly-ae-supearstazr-kol",
@@ -1641,7 +2086,8 @@
     "cover_url": "https://kolnovel.com/wp-content/uploads/2021/07/IMG_٢٠٢٣٠٩٠١_٠٢٤٧٣٦-1.png",
     "type": "رواية",
     "is_novel": true,
-    "rating": "8.0"
+    "rating": "8.0",
+    "genres": []
   },
   {
     "id": "the-world-of-otome-games-is-tough-for-mobs",
@@ -1650,7 +2096,8 @@
     "cover_url": "https://kolnovel.com/wp-content/uploads/2023/03/OIP.jpg",
     "type": "رواية",
     "is_novel": true,
-    "rating": "8.7"
+    "rating": "8.7",
+    "genres": []
   },
   {
     "id": "%d8%a7%d9%84%d9%82%d8%b7%d8%a9-%d9%88%d8%a7%d9%84%d8%aa%d9%86%d9%8a%d9%86",
@@ -1659,7 +2106,8 @@
     "cover_url": "https://kolnovel.com/wp-content/uploads/2023/08/IMG_0195-1-scaled.jpg",
     "type": "رواية",
     "is_novel": true,
-    "rating": "8.0"
+    "rating": "8.0",
+    "genres": []
   },
   {
     "id": "gamers-of-the-underworld",
@@ -1668,7 +2116,8 @@
     "cover_url": "https://kolnovel.com/wp-content/uploads/2023/01/42_20230117213828.png",
     "type": "رواية",
     "is_novel": true,
-    "rating": "8.0"
+    "rating": "8.0",
+    "genres": []
   },
   {
     "id": "invisible-dragon",
@@ -1677,7 +2126,8 @@
     "cover_url": "https://kolnovel.com/wp-content/uploads/2021/01/Invisible-Dragon-1.jpg",
     "type": "رواية",
     "is_novel": true,
-    "rating": "6.0"
+    "rating": "6.0",
+    "genres": []
   },
   {
     "id": "let-me-game-in-peace",
@@ -1686,7 +2136,8 @@
     "cover_url": "https://kolnovel.com/wp-content/uploads/2023/03/68_20230304163317-e1678179272649.png",
     "type": "رواية",
     "is_novel": true,
-    "rating": "8.8"
+    "rating": "8.8",
+    "genres": []
   },
   {
     "id": "shrouded-seascape",
@@ -1695,7 +2146,8 @@
     "cover_url": "https://kolnovel.com/wp-content/uploads/2023/09/75.png",
     "type": "رواية",
     "is_novel": true,
-    "rating": "8.5"
+    "rating": "8.5",
+    "genres": []
   },
   {
     "id": "chronicles-of-the-heavenly-demon",
@@ -1704,7 +2156,8 @@
     "cover_url": "https://kolnovel.com/wp-content/uploads/2021/10/Chronicles-of-the-Heavenly-Demon_2-e1649733068834.jpg",
     "type": "رواية",
     "is_novel": true,
-    "rating": "8.0"
+    "rating": "8.0",
+    "genres": []
   },
   {
     "id": "%d8%a3%d9%86%d8%a7-%d9%85%d8%ac%d8%b1%d8%af-npc",
@@ -1713,7 +2166,8 @@
     "cover_url": "https://kolnovel.com/wp-content/uploads/2023/11/93_20231123222555.png",
     "type": "رواية",
     "is_novel": true,
-    "rating": "7.0"
+    "rating": "7.0",
+    "genres": []
   },
   {
     "id": "elixir-supplier",
@@ -1722,7 +2176,8 @@
     "cover_url": "https://kolnovel.com/wp-content/uploads/2021/10/f2ee2342b74f3cc5e66d2e64635c43dfcd4df9da55ac8dc20e84748c36bd5901.png",
     "type": "رواية",
     "is_novel": true,
-    "rating": "8.0"
+    "rating": "8.0",
+    "genres": []
   },
   {
     "id": "i-am-the-god-of-games",
@@ -1731,7 +2186,8 @@
     "cover_url": "https://kolnovel.com/wp-content/uploads/2021/04/c9cc419c36a5ec4dbffa2e91e624479df8e947ef.jpg",
     "type": "رواية",
     "is_novel": true,
-    "rating": "8.0"
+    "rating": "8.0",
+    "genres": []
   },
   {
     "id": "fantasy-assassin-in-a-modern-world",
@@ -1740,7 +2196,8 @@
     "cover_url": "https://kolnovel.com/wp-content/uploads/2021/10/300_3.jpg",
     "type": "رواية",
     "is_novel": true,
-    "rating": "7.5"
+    "rating": "7.5",
+    "genres": []
   },
   {
     "id": "%d9%84%d8%b9%d8%a8%d8%a9-%d8%a7%d9%84%d8%b9%d8%a7%d9%87%d9%84",
@@ -1749,7 +2206,8 @@
     "cover_url": "https://kolnovel.com/wp-content/uploads/2021/08/1622045074_game-of-the-mona0rch.png",
     "type": "رواية",
     "is_novel": true,
-    "rating": "7.0"
+    "rating": "7.0",
+    "genres": []
   },
   {
     "id": "mahouka-koukou-no-rettousei",
@@ -1758,7 +2216,8 @@
     "cover_url": "https://kolnovel.com/wp-content/uploads/2022/08/IMG_2988.jpg",
     "type": "رواية",
     "is_novel": true,
-    "rating": "9.0"
+    "rating": "9.0",
+    "genres": []
   },
   {
     "id": "the-world-without-my-sister-who-everyone-loved",
@@ -1767,7 +2226,8 @@
     "cover_url": "https://kolnovel.com/wp-content/uploads/2021/08/63-e1692457449389.png",
     "type": "رواية",
     "is_novel": true,
-    "rating": "7.5"
+    "rating": "7.5",
+    "genres": []
   },
   {
     "id": "%d9%85%d9%84%d8%ad%d9%85%d8%a9-%d8%aa%d8%a7%d9%86%d9%8a%d8%a7-%d8%a7%d9%84%d8%a2%d8%ab%d9%85%d8%a9",
@@ -1776,7 +2236,8 @@
     "cover_url": "https://kolnovel.com/wp-content/uploads/2021/09/تانيا.jpg",
     "type": "رواية",
     "is_novel": true,
-    "rating": "9.0"
+    "rating": "9.0",
+    "genres": []
   },
   {
     "id": "the-tale-of-the-void-emperor",
@@ -1785,7 +2246,8 @@
     "cover_url": "https://kolnovel.com/wp-content/uploads/2021/08/novel.jpg",
     "type": "رواية",
     "is_novel": true,
-    "rating": "7.0"
+    "rating": "7.0",
+    "genres": []
   },
   {
     "id": "kono-subarashii-sekai-ni-shukufuku-o",
@@ -1794,7 +2256,8 @@
     "cover_url": "https://kolnovel.com/wp-content/uploads/2020/11/PicsArt_05-31-11.45.12.jpg",
     "type": "رواية",
     "is_novel": true,
-    "rating": "9.2"
+    "rating": "9.2",
+    "genres": []
   },
   {
     "id": "i-became-the-strongest-without-being-restricted-by-the-rules-of-the-dungeon",
@@ -1803,7 +2266,8 @@
     "cover_url": "https://kolnovel.com/wp-content/uploads/2022/11/Worlds-Fastest-Level-up-As-a-Result-of-the-Awakening-of-My-Incompetence-Skill-Transfer-Within-Dungeon-I-Became-the-Strongest-Without-Being-Restricted-by-the-Rules-of-the-Dungeon.jpg",
     "type": "رواية",
     "is_novel": true,
-    "rating": "8.0"
+    "rating": "8.0",
+    "genres": []
   },
   {
     "id": "the-legend-of-the-northern-blade",
@@ -1812,7 +2276,8 @@
     "cover_url": "https://kolnovel.com/wp-content/uploads/2022/05/242_20220511191410.png",
     "type": "رواية",
     "is_novel": true,
-    "rating": "8.0"
+    "rating": "8.0",
+    "genres": []
   },
   {
     "id": "netheworld-investigator",
@@ -1821,7 +2286,8 @@
     "cover_url": "https://kolnovel.com/wp-content/uploads/2021/03/IMG_20211101_021959.png",
     "type": "رواية",
     "is_novel": true,
-    "rating": ""
+    "rating": "",
+    "genres": []
   },
   {
     "id": "%d8%b3%d9%8a%d9%81-%d9%83%d8%a7%d9%8a%d8%ac%d9%8a%d9%86",
@@ -1830,7 +2296,8 @@
     "cover_url": "https://kolnovel.com/wp-content/uploads/2021/04/كايجين-2-1.jpg",
     "type": "رواية",
     "is_novel": true,
-    "rating": "8.0"
+    "rating": "8.0",
+    "genres": []
   },
   {
     "id": "rise-of-the-wasteland",
@@ -1839,7 +2306,8 @@
     "cover_url": "https://kolnovel.com/wp-content/uploads/2021/05/wasteland2cc-1.jpg",
     "type": "رواية",
     "is_novel": true,
-    "rating": "6.0"
+    "rating": "6.0",
+    "genres": []
   },
   {
     "id": "advent-of-the-three-calamities",
@@ -1848,7 +2316,8 @@
     "cover_url": "https://kolnovel.com/wp-content/uploads/2024/07/تصميم4-ظهور-الكوارث-الثلاثة.jpg",
     "type": "رواية",
     "is_novel": true,
-    "rating": "8.0"
+    "rating": "8.0",
+    "genres": []
   },
   {
     "id": "rise-of-humanity",
@@ -1857,7 +2326,8 @@
     "cover_url": "https://kolnovel.com/wp-content/uploads/2021/06/d66de36e59a14dee998e6ea17ac6db93_tplv-mlhdmxsy5m-q75_0_0_1.jpg",
     "type": "رواية",
     "is_novel": true,
-    "rating": "8.0"
+    "rating": "8.0",
+    "genres": []
   },
   {
     "id": "starting-over",
@@ -1866,7 +2336,8 @@
     "cover_url": "https://kolnovel.com/wp-content/uploads/2021/01/IMG_20211126_235219.png",
     "type": "رواية",
     "is_novel": true,
-    "rating": "8.0"
+    "rating": "8.0",
+    "genres": []
   },
   {
     "id": "a-sorcerers-journey",
@@ -1875,7 +2346,8 @@
     "cover_url": "https://kolnovel.com/wp-content/uploads/2024/05/Picsart_24-06-21_09-56-27-964.png",
     "type": "رواية",
     "is_novel": true,
-    "rating": "8.0"
+    "rating": "8.0",
+    "genres": []
   },
   {
     "id": "i-became-the-first-prince",
@@ -1884,7 +2356,8 @@
     "cover_url": "https://kolnovel.com/wp-content/uploads/2021/08/3dfca842c3244a3c-e1651873409153.png",
     "type": "رواية",
     "is_novel": true,
-    "rating": "8.0"
+    "rating": "8.0",
+    "genres": []
   },
   {
     "id": "kill-the-hero",
@@ -1893,7 +2366,8 @@
     "cover_url": "https://kolnovel.com/wp-content/uploads/2021/06/KH-1.jpg",
     "type": "رواية",
     "is_novel": true,
-    "rating": "8.0"
+    "rating": "8.0",
+    "genres": []
   },
   {
     "id": "%d8%a7%d9%84%d8%b4%d8%b7%d8%b1%d9%86%d8%ac-%d8%a7%d9%84%d8%a3%d8%a8%d8%af%d9%8a",
@@ -1902,7 +2376,8 @@
     "cover_url": "https://kolnovel.com/wp-content/uploads/2022/05/ELCHES.jpg",
     "type": "رواية",
     "is_novel": true,
-    "rating": "8.0"
+    "rating": "8.0",
+    "genres": []
   },
   {
     "id": "ultimate-antihero",
@@ -1911,7 +2386,8 @@
     "cover_url": "https://kolnovel.com/wp-content/uploads/2021/04/001-e1689678834924.png",
     "type": "رواية",
     "is_novel": true,
-    "rating": "7.0"
+    "rating": "7.0",
+    "genres": []
   },
   {
     "id": "the-dominating",
@@ -1920,7 +2396,8 @@
     "cover_url": "https://kolnovel.com/wp-content/uploads/2024/06/3497ea4a04c5cbd9.png",
     "type": "رواية",
     "is_novel": true,
-    "rating": "6.8"
+    "rating": "6.8",
+    "genres": []
   },
   {
     "id": "im-sorry-for-being-born-in-this-world",
@@ -1929,7 +2406,8 @@
     "cover_url": "https://kolnovel.com/wp-content/uploads/2021/11/IMG_20211109_000916.png",
     "type": "رواية",
     "is_novel": true,
-    "rating": "6.0"
+    "rating": "6.0",
+    "genres": []
   },
   {
     "id": "the-empty-box-and-zeroth-maria",
@@ -1938,7 +2416,8 @@
     "cover_url": "https://kolnovel.com/wp-content/uploads/2022/07/UtsuroNoHako7_1.jpg",
     "type": "رواية",
     "is_novel": true,
-    "rating": "8.9"
+    "rating": "8.9",
+    "genres": []
   },
   {
     "id": "demon-king-hero",
@@ -1947,7 +2426,8 @@
     "cover_url": "https://kolnovel.com/wp-content/uploads/2021/01/default11_new-1.jpg",
     "type": "رواية",
     "is_novel": true,
-    "rating": "7.0"
+    "rating": "7.0",
+    "genres": []
   },
   {
     "id": "violet-evergarden",
@@ -1956,7 +2436,8 @@
     "cover_url": "https://kolnovel.com/wp-content/uploads/2022/07/Violet_Evergarden_Volume_1.png",
     "type": "رواية",
     "is_novel": true,
-    "rating": "8.9"
+    "rating": "8.9",
+    "genres": []
   },
   {
     "id": "%d8%a3%d9%86%d8%a7-%d8%ad%d9%82%d9%8b%d8%a7-%d9%84%d8%b3%d8%aa-%d8%ae%d8%a7%d8%af%d9%85-%d8%ad%d8%a7%d9%83%d9%85-%d8%a7%d9%84%d8%b4%d9%8a%d8%a7%d8%b7%d9%8a%d9%86",
@@ -1965,7 +2446,8 @@
     "cover_url": "https://kolnovel.com/wp-content/uploads/2023/09/Im-Really-Not-The-Demon-Gods-Lackey.jpg",
     "type": "رواية",
     "is_novel": true,
-    "rating": "8.8"
+    "rating": "8.8",
+    "genres": []
   },
   {
     "id": "fugitive-poison-user",
@@ -1974,7 +2456,8 @@
     "cover_url": "https://kolnovel.com/wp-content/uploads/2021/05/321803001039.jpg",
     "type": "رواية",
     "is_novel": true,
-    "rating": "7.0"
+    "rating": "7.0",
+    "genres": []
   },
   {
     "id": "crossing-to-the-future",
@@ -1983,7 +2466,8 @@
     "cover_url": "https://kolnovel.com/wp-content/uploads/2020/12/Crossing-to-the-Future-its-Not-Easy-to-Be-a-Man.jpg",
     "type": "رواية",
     "is_novel": true,
-    "rating": "9.0"
+    "rating": "9.0",
+    "genres": []
   },
   {
     "id": "dominions-end",
@@ -1992,7 +2476,8 @@
     "cover_url": "https://kolnovel.com/wp-content/uploads/2021/03/de1cover.png",
     "type": "رواية",
     "is_novel": true,
-    "rating": "8.4"
+    "rating": "8.4",
+    "genres": []
   },
   {
     "id": "i-hold-your-voice-alone-under-the-starry-sky",
@@ -2001,7 +2486,8 @@
     "cover_url": "https://kolnovel.com/wp-content/uploads/2021/03/HoshizoranoShita-2.jpg",
     "type": "رواية",
     "is_novel": true,
-    "rating": "8.0"
+    "rating": "8.0",
+    "genres": []
   },
   {
     "id": "zombie-princess",
@@ -2010,7 +2496,8 @@
     "cover_url": "https://kolnovel.com/wp-content/uploads/2020/10/zp.jpg",
     "type": "رواية",
     "is_novel": true,
-    "rating": "8.6"
+    "rating": "8.6",
+    "genres": []
   },
   {
     "id": "worlds-best-martial-world",
@@ -2019,7 +2506,8 @@
     "cover_url": "https://kolnovel.com/wp-content/uploads/2023/07/600.jpg",
     "type": "رواية",
     "is_novel": true,
-    "rating": "7.5"
+    "rating": "7.5",
+    "genres": []
   },
   {
     "id": "tha-oraeclepaths-kolnovel",
@@ -2028,7 +2516,8 @@
     "cover_url": "https://kolnovel.com/wp-content/uploads/2021/08/IMG_٢٠٢٣٠٩٠١_٠٢٤١٥٥.jpg",
     "type": "رواية",
     "is_novel": true,
-    "rating": "8.0"
+    "rating": "8.0",
+    "genres": []
   },
   {
     "id": "rezero-anthology",
@@ -2037,7 +2526,8 @@
     "cover_url": "https://kolnovel.com/wp-content/uploads/2021/07/7543be7675b85364.jpg",
     "type": "رواية",
     "is_novel": true,
-    "rating": "7.0"
+    "rating": "7.0",
+    "genres": []
   },
   {
     "id": "the-exiled-daughter-of-marquis-is-dead",
@@ -2046,7 +2536,8 @@
     "cover_url": "https://kolnovel.com/wp-content/uploads/2021/10/1634457675379-e1634579536257.jpg",
     "type": "رواية",
     "is_novel": true,
-    "rating": "7.5"
+    "rating": "7.5",
+    "genres": []
   },
   {
     "id": "the-kings-avatar-for-the-glory",
@@ -2055,7 +2546,8 @@
     "cover_url": "https://kolnovel.com/wp-content/uploads/2021/05/f01d5ed29f108d980e8163a7ba24aec5.jpg",
     "type": "رواية",
     "is_novel": true,
-    "rating": "7.0"
+    "rating": "7.0",
+    "genres": []
   },
   {
     "id": "%d8%a7%d9%84%d9%84%d8%b9%d8%a8%d8%a9-%d9%81%d9%8a-%d9%83%d8%a7%d8%b1%d9%88%d8%b3%d9%8a%d9%84-%d9%81%d9%8a%d9%84%d9%85-%d8%b1%d8%b9%d8%a8",
@@ -2064,7 +2556,8 @@
     "cover_url": "https://kolnovel.com/wp-content/uploads/2024/07/65629-the-game-at-carousel-a-horror-movie-litrpg.jpg",
     "type": "رواية",
     "is_novel": true,
-    "rating": "7.5"
+    "rating": "7.5",
+    "genres": []
   },
   {
     "id": "%d8%ae%d9%84%d8%a7%d9%84-%d8%a7%d9%84%d9%84%d9%8a%d9%84-%d8%a3%d8%b5%d8%a8%d8%ad-%d9%88%d8%ad%d8%b4%d9%8b%d8%a7",
@@ -2073,7 +2566,8 @@
     "cover_url": "https://kolnovel.com/wp-content/uploads/2022/07/At-Night_-I-Become-a-Monster.ar-cover-1.jpg",
     "type": "رواية",
     "is_novel": true,
-    "rating": "8.5"
+    "rating": "8.5",
+    "genres": []
   },
   {
     "id": "a-deal-with-the-devil",
@@ -2082,7 +2576,8 @@
     "cover_url": "https://kolnovel.com/wp-content/themes/lightnovel/assets/images/noimg165px.png",
     "type": "رواية",
     "is_novel": true,
-    "rating": "6.0"
+    "rating": "6.0",
+    "genres": []
   },
   {
     "id": "the-probability-i-can-kill-my-wife-without-being-found-out",
@@ -2091,7 +2586,8 @@
     "cover_url": "https://kolnovel.com/wp-content/uploads/2021/11/IMG_20211108_233004.png",
     "type": "رواية",
     "is_novel": true,
-    "rating": "8.0"
+    "rating": "8.0",
+    "genres": []
   },
   {
     "id": "with-you-for-thirteen-years",
@@ -2100,7 +2596,8 @@
     "cover_url": "https://kolnovel.com/wp-content/uploads/2022/09/bac5cb2052eafe0ca5aebd98b5a1777d.jpg",
     "type": "رواية",
     "is_novel": true,
-    "rating": "8.0"
+    "rating": "8.0",
+    "genres": []
   },
   {
     "id": "fox-has-no-heart",
@@ -2109,7 +2606,8 @@
     "cover_url": "https://kolnovel.com/wp-content/uploads/2021/03/fxhnt.png",
     "type": "رواية",
     "is_novel": true,
-    "rating": ""
+    "rating": "",
+    "genres": []
   },
   {
     "id": "%d9%84%d8%b3%d8%aa-%d8%b3%d9%8a%d9%91%d8%af-%d8%a7%d9%84%d8%af%d8%b1%d8%a7%d9%85%d8%a7",
@@ -2118,7 +2616,8 @@
     "cover_url": "https://kolnovel.com/wp-content/uploads/2025/05/بدون-اسم75_20250508202903.png",
     "type": "رواية",
     "is_novel": true,
-    "rating": "7.5"
+    "rating": "7.5",
+    "genres": []
   },
   {
     "id": "revenge",
@@ -2127,7 +2626,8 @@
     "cover_url": "https://kolnovel.com/wp-content/uploads/2021/04/novelimage3.png",
     "type": "رواية",
     "is_novel": true,
-    "rating": "7.0"
+    "rating": "7.0",
+    "genres": []
   },
   {
     "id": "the-perfect-run",
@@ -2136,7 +2636,8 @@
     "cover_url": "https://kolnovel.com/wp-content/uploads/2024/12/11111111111111111.jpg",
     "type": "رواية",
     "is_novel": true,
-    "rating": "7.5"
+    "rating": "7.5",
+    "genres": []
   },
   {
     "id": "daybreak",
@@ -2145,7 +2646,8 @@
     "cover_url": "https://kolnovel.com/wp-content/uploads/2021/01/dp.jpg",
     "type": "رواية",
     "is_novel": true,
-    "rating": "8.0"
+    "rating": "8.0",
+    "genres": []
   },
   {
     "id": "one-night-one-day-one-year-one-lifetime",
@@ -2154,7 +2656,8 @@
     "cover_url": "https://kolnovel.com/wp-content/uploads/2021/10/f4531baf7c1fe7af-scaled.jpg",
     "type": "رواية",
     "is_novel": true,
-    "rating": "8.0"
+    "rating": "8.0",
+    "genres": []
   },
   {
     "id": "ballad-of-ten-thousand-gu",
@@ -2163,7 +2666,8 @@
     "cover_url": "https://kolnovel.com/wp-content/uploads/2021/03/5d62261aa1b2879a.png",
     "type": "رواية",
     "is_novel": true,
-    "rating": "8.0"
+    "rating": "8.0",
+    "genres": []
   },
   {
     "id": "dont-stop-the-loop",
@@ -2172,7 +2676,8 @@
     "cover_url": "https://kolnovel.com/wp-content/uploads/2021/10/1634672143227.jpg",
     "type": "رواية",
     "is_novel": true,
-    "rating": "7.5"
+    "rating": "7.5",
+    "genres": []
   },
   {
     "id": "maria-from-hell",
@@ -2181,7 +2686,8 @@
     "cover_url": "https://kolnovel.com/wp-content/uploads/2021/05/maria.jpg",
     "type": "رواية",
     "is_novel": true,
-    "rating": "7.0"
+    "rating": "7.0",
+    "genres": []
   },
   {
     "id": "twc-g-b-t-b-a-g",
@@ -2190,7 +2696,8 @@
     "cover_url": "https://kolnovel.com/wp-content/uploads/2024/07/26220878606677005.webp",
     "type": "رواية",
     "is_novel": true,
-    "rating": "8.8"
+    "rating": "8.8",
+    "genres": []
   },
   {
     "id": "about-the-reckless-girl-who-kept-challenging-a-reborn-man-like-me",
@@ -2199,7 +2706,8 @@
     "cover_url": "https://kolnovel.com/wp-content/uploads/2022/08/muboyubo1_shoei.jpg",
     "type": "رواية",
     "is_novel": true,
-    "rating": "7.5"
+    "rating": "7.5",
+    "genres": []
   },
   {
     "id": "%d8%a3%d8%a8%d9%86%d8%a7%d8%a1-%d8%a7%d9%84%d8%a5%d9%85%d8%a8%d8%b1%d8%a7%d8%b7%d9%88%d8%b1-%d8%a7%d9%84%d9%85%d9%82%d8%af%d8%b3",
@@ -2208,7 +2716,8 @@
     "cover_url": "https://kolnovel.com/wp-content/uploads/2025/05/IMG_20250501_004916_180.jpg",
     "type": "رواية",
     "is_novel": true,
-    "rating": "8.8"
+    "rating": "8.8",
+    "genres": []
   },
   {
     "id": "%d8%b3%d8%a7%d9%83%d9%86%d8%a9-%d8%a7%d9%84%d9%85%d9%86%d8%b2%d9%84-%d8%a7%d9%84%d9%88%d8%a7%d8%ad%d8%af-%d9%88%d8%a7%d9%84%d8%b9%d8%b4%d8%b1%d9%8a%d9%86",
@@ -2217,7 +2726,8 @@
     "cover_url": "https://kolnovel.com/wp-content/uploads/2023/01/ساكنة-1.jpg",
     "type": "رواية",
     "is_novel": true,
-    "rating": "8.0"
+    "rating": "8.0",
+    "genres": []
   },
   {
     "id": "a-game-to-make-him-fall",
@@ -2226,7 +2736,8 @@
     "cover_url": "https://kolnovel.com/wp-content/uploads/2021/11/IMG_20211108_231522.png",
     "type": "رواية",
     "is_novel": true,
-    "rating": "8.0"
+    "rating": "8.0",
+    "genres": []
   },
   {
     "id": "%d9%88%d8%ac%d9%87%d8%a9-%d9%86%d8%b8%d8%b1-%d8%a7%d9%84%d9%85%d9%87%d9%86%d8%af%d8%b3-%d8%a7%d9%84%d9%83%d8%a7%d8%b1%d8%ab%d9%8a",
@@ -2235,7 +2746,8 @@
     "cover_url": "https://kolnovel.com/wp-content/uploads/2025/06/Picsart_25-06-07_03-35-32-213.jpg",
     "type": "رواية",
     "is_novel": true,
-    "rating": "8.0"
+    "rating": "8.0",
+    "genres": []
   },
   {
     "id": "%d9%85%d8%aa%d8%ac%d8%b1-%d9%86%d8%a8%d9%8a%d8%b0-%d8%a7%d9%84%d8%ae%d8%a7%d9%84%d8%af",
@@ -2244,7 +2756,8 @@
     "cover_url": "https://kolnovel.com/wp-content/uploads/2024/10/IMG_5637.jpg",
     "type": "رواية",
     "is_novel": true,
-    "rating": "7.5"
+    "rating": "7.5",
+    "genres": []
   },
   {
     "id": "%d9%85%d8%af%d9%8a%d9%86%d8%a9-%d8%a7%d9%84%d9%84%d8%a7%d8%b9%d9%88%d8%af%d8%a9",
@@ -2253,7 +2766,8 @@
     "cover_url": "https://kolnovel.com/wp-content/uploads/2022/08/png_20220809_011427_-e1660257789570.jpg",
     "type": "رواية",
     "is_novel": true,
-    "rating": "7.5"
+    "rating": "7.5",
+    "genres": []
   },
   {
     "id": "%d8%a7%d9%84%d8%b5%d9%8a%d8%a7%d8%af-%d8%a7%d9%84%d8%a8%d8%af%d8%a7%d8%a6%d9%8a",
@@ -2262,7 +2776,8 @@
     "cover_url": "https://kolnovel.com/wp-content/uploads/2024/10/Book-1-Cover_LE_upscale_balanced_x4.jpg",
     "type": "رواية",
     "is_novel": true,
-    "rating": "7.7"
+    "rating": "7.7",
+    "genres": []
   },
   {
     "id": "%d8%b9%d9%88%d8%af%d8%a9-%d8%a7%d9%84%d8%af%d9%85-%d9%88%d8%a7%d9%84%d8%ad%d8%af%d9%8a%d8%af",
@@ -2271,7 +2786,8 @@
     "cover_url": "https://kolnovel.com/wp-content/uploads/2024/10/Screenshot_20241014_090607_com.hihonor.photos.jpg",
     "type": "رواية",
     "is_novel": true,
-    "rating": "7.5"
+    "rating": "7.5",
+    "genres": []
   },
   {
     "id": "%d8%aa%d9%86%d8%a7%d8%b3%d8%ae%d8%aa-%d9%83%d8%b4%d8%b1%d9%8a%d8%b1%d8%a9%d8%8c-%d9%84%d9%83%d9%86%d9%8a-%d8%a3%d8%b5%d8%a8%d8%ad%d8%aa-%d8%ba%d9%88%d8%b1%d9%8a%d9%84%d8%a7-%d9%88%d8%aa%d8%ac%d9%86",
@@ -2280,7 +2796,8 @@
     "cover_url": "https://kolnovel.com/wp-content/themes/lightnovel/assets/images/noimg165px.png",
     "type": "رواية",
     "is_novel": true,
-    "rating": "7.4"
+    "rating": "7.4",
+    "genres": []
   },
   {
     "id": "%d8%a7%d9%84%d8%b9%d9%8a%d8%b4-%d9%81%d9%8a-%d8%a7%d9%84%d8%b8%d9%84%d8%a7%d9%85",
@@ -2289,7 +2806,8 @@
     "cover_url": "https://kolnovel.com/wp-content/uploads/2023/11/IMG_0684-scaled.jpg",
     "type": "رواية",
     "is_novel": true,
-    "rating": "7.0"
+    "rating": "7.0",
+    "genres": []
   },
   {
     "id": "um-adnans-diary",
@@ -2298,7 +2816,8 @@
     "cover_url": "https://kolnovel.com/wp-content/uploads/2024/05/3_20240510225314.jpeg",
     "type": "رواية",
     "is_novel": true,
-    "rating": "7.5"
+    "rating": "7.5",
+    "genres": []
   },
   {
     "id": "%d8%b3%d8%ac%d9%84%d8%a7%d8%aa-%d9%82%d8%a7%d8%aa%d9%84-%d8%a7%d9%84%d9%85%d9%84%d9%83",
@@ -2307,7 +2826,8 @@
     "cover_url": "https://kolnovel.com/wp-content/uploads/2025/04/سجلات-قاتل-الملك.png",
     "type": "رواية",
     "is_novel": true,
-    "rating": "8.9"
+    "rating": "8.9",
+    "genres": []
   },
   {
     "id": "%d8%a7%d9%84%d8%ad%d9%8a%d8%a7%d8%a9-%d9%83%d8%b4%d8%a8%d8%ad",
@@ -2316,7 +2836,8 @@
     "cover_url": "https://kolnovel.com/wp-content/uploads/2023/11/IMG_0558-scaled.jpg",
     "type": "رواية",
     "is_novel": true,
-    "rating": "8.0"
+    "rating": "8.0",
+    "genres": []
   },
   {
     "id": "%d8%b4%d9%8a%d8%b1%d9%8a%d8%aa%d9%88%d8%b1%d9%8a",
@@ -2325,7 +2846,8 @@
     "cover_url": "https://kolnovel.com/wp-content/uploads/2024/11/IMG_20250108_203348_762.png",
     "type": "رواية",
     "is_novel": true,
-    "rating": "7.5"
+    "rating": "7.5",
+    "genres": []
   },
   {
     "id": "%d9%88%d9%84%d8%a7%d8%af%d8%a9-%d8%ac%d8%af%d9%8a%d8%af%d8%a9-%d8%b9%d9%84%d9%89-%d8%a3%d8%a8%d9%88%d8%a7%d8%a8-%d9%85%d9%83%d8%aa%d8%a8-%d8%a7%d9%84%d8%b4%d8%a4%d9%88%d9%86-%d8%a7%d9%84%d9%85%d8%af",
@@ -2334,7 +2856,8 @@
     "cover_url": "https://kolnovel.com/wp-content/uploads/2025/07/file_000000004bcc61f490604557b107536c.png",
     "type": "رواية",
     "is_novel": true,
-    "rating": "9.5"
+    "rating": "9.5",
+    "genres": []
   },
   {
     "id": "under-the-spell-of-evil",
@@ -2343,7 +2866,8 @@
     "cover_url": "https://kolnovel.com/wp-content/themes/lightnovel/assets/images/noimg165px.png",
     "type": "رواية",
     "is_novel": true,
-    "rating": "7.0"
+    "rating": "7.0",
+    "genres": []
   },
   {
     "id": "m-f-kol",
@@ -2352,7 +2876,8 @@
     "cover_url": "https://kolnovel.com/wp-content/uploads/2024/09/Picsart_24-09-04_22-48-15-172.jpeg",
     "type": "رواية",
     "is_novel": true,
-    "rating": "7.0"
+    "rating": "7.0",
+    "genres": []
   },
   {
     "id": "the-witch-and-the-gourd-of-stories",
@@ -2361,7 +2886,8 @@
     "cover_url": "https://kolnovel.com/wp-content/themes/lightnovel/assets/images/noimg165px.png",
     "type": "رواية",
     "is_novel": true,
-    "rating": "6.0"
+    "rating": "6.0",
+    "genres": []
   },
   {
     "id": "%d9%85%d8%ac%d9%84%d8%b3-%d8%a7%d9%84%d8%ae%d8%a7%d9%84",
@@ -2370,7 +2896,8 @@
     "cover_url": "https://kolnovel.com/wp-content/uploads/2024/11/14_20241108121832.png",
     "type": "رواية",
     "is_novel": true,
-    "rating": "7.5"
+    "rating": "7.5",
+    "genres": []
   },
   {
     "id": "%d9%85%d8%ad%d8%a7%d8%af%d8%ab%d8%a9-%d8%b5%d8%a7%d9%85%d8%aa%d8%a9",
@@ -2379,7 +2906,8 @@
     "cover_url": "https://kolnovel.com/wp-content/uploads/2024/08/IMG-20240828-WA0013.jpg",
     "type": "رواية",
     "is_novel": true,
-    "rating": "7.5"
+    "rating": "7.5",
+    "genres": []
   },
   {
     "id": "akakir-adalam",
@@ -2388,7 +2916,8 @@
     "cover_url": "https://kolnovel.com/wp-content/uploads/2024/09/148_20240909182842.png",
     "type": "رواية",
     "is_novel": true,
-    "rating": "7.7"
+    "rating": "7.7",
+    "genres": []
   },
   {
     "id": "%d8%b3%d9%88%d8%b1%d8%af-%d8%a2%d8%b1%d8%aa-%d8%a3%d9%88%d9%86%d9%84%d8%a7%d9%8a%d9%86",
@@ -2397,7 +2926,8 @@
     "cover_url": "https://kolnovel.com/wp-content/uploads/2025/07/Messenger_creation_1715092535810519.jpg",
     "type": "رواية",
     "is_novel": true,
-    "rating": "8.0"
+    "rating": "8.0",
+    "genres": []
   },
   {
     "id": "%d8%a7%d9%84%d8%ac%d8%ad%d9%8a%d9%85-%d8%a7%d9%84%d9%85%d8%b9%d9%83%d9%88%d8%b3",
@@ -2406,7 +2936,8 @@
     "cover_url": "https://kolnovel.com/wp-content/uploads/2024/12/839D15FE-1CD1-435A-91A9-3D48E83E45DD.jpeg",
     "type": "رواية",
     "is_novel": true,
-    "rating": "7.1"
+    "rating": "7.1",
+    "genres": []
   },
   {
     "id": "%d8%a7%d9%84%d8%ba%d8%b2%d9%88-%d8%a7%d9%84%d9%81%d8%b6%d8%a7%d8%a6%d9%8a",
@@ -2415,7 +2946,8 @@
     "cover_url": "https://kolnovel.com/wp-content/uploads/2025/05/Picsart_25-05-20_00-15-06-599.jpg",
     "type": "رواية",
     "is_novel": true,
-    "rating": ""
+    "rating": "",
+    "genres": []
   },
   {
     "id": "%d9%85%d8%b0%d9%83%d8%b1%d8%a7%d8%aa-%d9%85%d8%b3%d8%a7%d9%81%d8%b1",
@@ -2424,7 +2956,8 @@
     "cover_url": "https://kolnovel.com/wp-content/uploads/2025/05/Gemini_Generated_Image_s3c05zs3c05zs3c0.jpg",
     "type": "رواية",
     "is_novel": true,
-    "rating": "8.0"
+    "rating": "8.0",
+    "genres": []
   },
   {
     "id": "%d8%ad%d8%aa%d9%89-%d8%a7%d9%84%d8%b9%d9%86%d8%a7%d9%83%d8%a8-%d8%aa%d8%ae%d8%aa%d9%86%d9%82-%d9%87%d9%86%d8%a7",
@@ -2433,7 +2966,8 @@
     "cover_url": "https://kolnovel.com/wp-content/uploads/2025/04/3e04a3b3641808b1fdeb81fc0b5f8769.jpg",
     "type": "رواية",
     "is_novel": true,
-    "rating": "8.0"
+    "rating": "8.0",
+    "genres": []
   },
   {
     "id": "%d8%b0%d8%a7%d9%83%d8%b1%d8%a9-%d9%84%d9%84%d8%a8%d9%8a%d8%b9",
@@ -2442,7 +2976,8 @@
     "cover_url": "https://kolnovel.com/wp-content/uploads/2025/06/ChatGPT_Image_May_24_2025_01_13_50_AM-1.png",
     "type": "رواية",
     "is_novel": true,
-    "rating": ""
+    "rating": "",
+    "genres": []
   },
   {
     "id": "%d8%a7%d9%84%d8%b4%d8%a8%d8%ad-%d8%a7%d9%84%d8%a8%d8%a7%d9%83%d9%8a",
@@ -2451,6 +2986,7 @@
     "cover_url": "https://kolnovel.com/wp-content/uploads/2025/05/boy.png",
     "type": "رواية",
     "is_novel": true,
-    "rating": "7.0"
+    "rating": "7.0",
+    "genres": []
   }
 ]

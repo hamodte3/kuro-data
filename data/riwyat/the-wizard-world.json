@@ -1,0 +1,423 @@
+{
+  "id": "the-wizard-world",
+  "title": "عالم السحرة",
+  "cover_url": "https://cenele.com/wp-content/uploads/2022/06/Remini20220606002505135.jpg",
+  "description": "رواية عالم السحرة\nمات يي سونغ، الذي عاش في عالم متقدم من الناحية التكنولوجية، وتناسخ في جسم مراهق نبيل في عالم آخر.\nعالم خيالي مليء بالسحر!\nبدأت سلسلة من الأحداث المملوءة بالمأساة، والأكشن، وما إلى ذلك في الكشف عن نفسها واحدة تلو الأخرى عندما واجه بالصدفة أحد أسرار هذا العالم الأكثر حراسة، وحصل على القوة الأسطورية للسحرة.\nشاهدوا كيف يصل إلى ارتفاعات غير قابلة للوصول كساحر قوي في هذا العالم الجديد.",
+  "type": "رواية",
+  "status": "مستمر",
+  "last_update": "",
+  "rating": "6.5",
+  "favorites": "",
+  "genres": [
+    "أكشن",
+    "بالغ",
+    "خيال",
+    "غموض",
+    "فانتازيا",
+    "فنون قتالية",
+    "مأساة"
+  ],
+  "is_novel": true,
+  "chapters": {
+    "https://cenele.com/cont/the-wizard-world/%d8%a7%d9%84%d9%81%d8%b5%d9%84-100-%d8%a7%d9%84%d8%ad%d8%af%d9%8a%d9%82%d8%a9-1": {
+      "name": "100",
+      "images": []
+    },
+    "https://cenele.com/cont/the-wizard-world/%d8%a7%d9%84%d9%81%d8%b5%d9%84-99-%d8%a8%d8%af%d8%a1-4": {
+      "name": "99",
+      "images": []
+    },
+    "https://cenele.com/cont/the-wizard-world/%d8%a7%d9%84%d9%81%d8%b5%d9%84-98-%d8%a8%d8%af%d8%a1-3": {
+      "name": "98",
+      "images": []
+    },
+    "https://cenele.com/cont/the-wizard-world/%d8%a7%d9%84%d9%81%d8%b5%d9%84-97-%d8%a8%d8%af%d8%a1-2": {
+      "name": "97",
+      "images": []
+    },
+    "https://cenele.com/cont/the-wizard-world/%d8%a7%d9%84%d9%81%d8%b5%d9%84-96-%d8%a8%d8%af%d8%a1-1": {
+      "name": "96",
+      "images": []
+    },
+    "https://cenele.com/cont/the-wizard-world/%d8%a7%d9%84%d9%81%d8%b5%d9%84-95-%d8%a7%d9%84%d8%aa%d8%a7%d9%84%d9%8a-2": {
+      "name": "95",
+      "images": []
+    },
+    "https://cenele.com/cont/the-wizard-world/%d8%a7%d9%84%d9%81%d8%b5%d9%84-94-%d8%a7%d9%84%d8%aa%d8%a7%d9%84%d9%8a-1": {
+      "name": "94",
+      "images": []
+    },
+    "https://cenele.com/cont/the-wizard-world/%d8%a7%d9%84%d9%81%d8%b5%d9%84-93-%d8%a3%d8%b3%d8%aa%d8%ac%d9%88%d8%a7%d8%a8-2": {
+      "name": "93",
+      "images": []
+    },
+    "https://cenele.com/cont/the-wizard-world/%d8%a7%d9%84%d9%81%d8%b5%d9%84-92-%d8%a3%d8%b3%d8%aa%d8%ac%d9%88%d8%a7%d8%a8-1": {
+      "name": "92",
+      "images": []
+    },
+    "https://cenele.com/cont/the-wizard-world/%d8%a7%d9%84%d9%81%d8%b5%d9%84-91-%d8%a7%d9%84%d9%85%d8%b2%d8%a7%d8%af-4": {
+      "name": "91",
+      "images": []
+    },
+    "https://cenele.com/cont/the-wizard-world/%d8%a7%d9%84%d9%81%d8%b5%d9%84-90-%d8%a7%d9%84%d9%85%d8%b2%d8%a7%d8%af-3": {
+      "name": "90",
+      "images": []
+    },
+    "https://cenele.com/cont/the-wizard-world/%d8%a7%d9%84%d9%81%d8%b5%d9%84-89-%d8%a7%d9%84%d9%85%d8%b2%d8%a7%d8%af-2": {
+      "name": "89",
+      "images": []
+    },
+    "https://cenele.com/cont/the-wizard-world/%d8%a7%d9%84%d9%81%d8%b5%d9%84-88-%d8%a7%d9%84%d9%85%d8%b2%d8%a7%d8%af-1": {
+      "name": "88",
+      "images": []
+    },
+    "https://cenele.com/cont/the-wizard-world/%d8%a7%d9%84%d9%81%d8%b5%d9%84-87-%d9%85%d9%88%d8%a7%d8%ac%d9%87%d8%a9-2": {
+      "name": "87",
+      "images": []
+    },
+    "https://cenele.com/cont/the-wizard-world/%d8%a7%d9%84%d9%81%d8%b5%d9%84-86-%d9%85%d9%88%d8%a7%d8%ac%d9%87%d8%a9-1": {
+      "name": "86",
+      "images": []
+    },
+    "https://cenele.com/cont/the-wizard-world/%d8%a7%d9%84%d9%81%d8%b5%d9%84-85-%d9%85%d8%b9%d8%b1%d9%83%d8%a9-%d8%b4%d8%af%d9%8a%d8%af%d8%a9-2": {
+      "name": "85",
+      "images": []
+    },
+    "https://cenele.com/cont/the-wizard-world/%d8%a7%d9%84%d9%81%d8%b5%d9%84-84-%d9%85%d8%b9%d8%b1%d9%83%d8%a9-%d8%b4%d8%af%d9%8a%d8%af%d8%a9-1": {
+      "name": "84",
+      "images": []
+    },
+    "https://cenele.com/cont/the-wizard-world/%d8%a7%d9%84%d9%81%d8%b5%d9%84-83-%d8%a7%d9%84%d9%85%d8%b7%d8%a7%d8%b1%d8%af%d8%a9-2": {
+      "name": "83",
+      "images": []
+    },
+    "https://cenele.com/cont/the-wizard-world/%d8%a7%d9%84%d9%81%d8%b5%d9%84-82-%d8%a7%d9%84%d9%85%d8%b7%d8%a7%d8%b1%d8%af%d8%a9-1": {
+      "name": "82",
+      "images": []
+    },
+    "https://cenele.com/cont/the-wizard-world/%d8%a7%d9%84%d9%81%d8%b5%d9%84-81-%d8%a7%d9%84%d8%b5%d9%8a%d8%af-4": {
+      "name": "81",
+      "images": []
+    },
+    "https://cenele.com/cont/the-wizard-world/%d8%a7%d9%84%d9%81%d8%b5%d9%84-80-%d8%a7%d9%84%d8%b5%d9%8a%d8%af-3": {
+      "name": "80",
+      "images": []
+    },
+    "https://cenele.com/cont/the-wizard-world/%d8%a7%d9%84%d9%81%d8%b5%d9%84-79%d8%a7%d9%84%d8%b5%d9%8a%d8%af2": {
+      "name": "79",
+      "images": []
+    },
+    "https://cenele.com/cont/the-wizard-world/%d8%a7%d9%84%d9%81%d8%b5%d9%84-78-%d8%a7%d9%84%d8%b5%d9%8a%d8%af-1": {
+      "name": "78",
+      "images": []
+    },
+    "https://cenele.com/cont/the-wizard-world/%d8%a7%d9%84%d9%81%d8%b5%d9%84-77-%d8%aa%d8%b1%d9%82%d9%8a%d8%a9-2": {
+      "name": "77",
+      "images": []
+    },
+    "https://cenele.com/cont/the-wizard-world/%d8%a7%d9%84%d9%81%d8%b5%d9%84-76-%d8%aa%d8%b1%d9%82%d9%8a%d8%a9-1": {
+      "name": "76",
+      "images": []
+    },
+    "https://cenele.com/cont/the-wizard-world/%d8%a7%d9%84%d9%81%d8%b5%d9%84-75-%d8%a7%d9%84%d9%86%d8%ac%d8%a7%d8%ad-2": {
+      "name": "75",
+      "images": []
+    },
+    "https://cenele.com/cont/the-wizard-world/%d8%a7%d9%84%d9%81%d8%b5%d9%84-74-%d8%a7%d9%84%d9%86%d8%ac%d8%a7%d8%ad-1": {
+      "name": "74",
+      "images": []
+    },
+    "https://cenele.com/cont/the-wizard-world/%d8%a7%d9%84%d9%81%d8%b5%d9%84-73-%d8%af%d8%b9%d9%88%d8%a9-2": {
+      "name": "73",
+      "images": []
+    },
+    "https://cenele.com/cont/the-wizard-world/%d8%a7%d9%84%d9%81%d8%b5%d9%84-72-%d8%af%d8%b9%d9%88%d8%a9-1": {
+      "name": "72",
+      "images": []
+    },
+    "https://cenele.com/cont/the-wizard-world/%d8%a7%d9%84%d9%81%d8%b5%d9%84-71-%d8%a7%d9%84%d8%a7%d8%b3%d8%aa%d9%82%d8%b1%d8%a7%d8%b1-2": {
+      "name": "71",
+      "images": []
+    },
+    "https://cenele.com/cont/the-wizard-world/%d8%a7%d9%84%d9%81%d8%b5%d9%84-70-%d8%a7%d9%84%d8%a7%d8%b3%d8%aa%d9%82%d8%b1%d8%a7%d8%b1-1": {
+      "name": "70",
+      "images": []
+    },
+    "https://cenele.com/cont/the-wizard-world/%d8%a7%d9%84%d9%81%d8%b5%d9%84-69-%d8%b2%d9%87%d8%b1%d8%a9-%d8%ad%d8%b1%d8%a7%d8%b4%d9%81-%d8%a7%d9%84%d8%aa%d9%86%d9%8a%d9%86-2": {
+      "name": "69",
+      "images": []
+    },
+    "https://cenele.com/cont/the-wizard-world/%d8%a7%d9%84%d9%81%d8%b5%d9%84-68-%d8%b2%d9%87%d8%b1%d8%a9-%d8%ad%d8%b1%d8%a7%d8%b4%d9%81-%d8%a7%d9%84%d8%aa%d9%86%d9%8a%d9%86-1": {
+      "name": "68",
+      "images": []
+    },
+    "https://cenele.com/cont/the-wizard-world/%d8%a7%d9%84%d9%81%d8%b5%d9%84-67-%d9%84%d9%82%d8%a7%d8%a1-2": {
+      "name": "67",
+      "images": []
+    },
+    "https://cenele.com/cont/the-wizard-world/%d8%a7%d9%84%d9%81%d8%b5%d9%84-66-%d9%84%d9%82%d8%a7%d8%a1-1": {
+      "name": "66",
+      "images": []
+    },
+    "https://cenele.com/cont/the-wizard-world/%d8%a7%d9%84%d9%81%d8%b5%d9%84-65-%d8%a7%d9%84%d8%b1%d8%ad%d9%84%d8%a9-2": {
+      "name": "65",
+      "images": []
+    },
+    "https://cenele.com/cont/the-wizard-world/%d8%a7%d9%84%d9%81%d8%b5%d9%84-64-%d8%a7%d9%84%d8%b1%d8%ad%d9%84%d8%a9-1": {
+      "name": "64",
+      "images": []
+    },
+    "https://cenele.com/cont/the-wizard-world/%d8%a7%d9%84%d9%81%d8%b5%d9%84-63-%d8%a5%d8%b1%d8%aa%d8%af%d8%a7%d8%af-2": {
+      "name": "63",
+      "images": []
+    },
+    "https://cenele.com/cont/the-wizard-world/%d8%a7%d9%84%d9%81%d8%b5%d9%84-62-%d8%a5%d8%b1%d8%aa%d8%af%d8%a7%d8%af-1": {
+      "name": "62",
+      "images": []
+    },
+    "https://cenele.com/cont/the-wizard-world/%d8%a7%d9%84%d9%81%d8%b5%d9%84-61-%d8%a7%d9%84%d9%87%d8%af%d9%88%d8%a1-2": {
+      "name": "61",
+      "images": []
+    },
+    "https://cenele.com/cont/the-wizard-world/%d8%a7%d9%84%d9%81%d8%b5%d9%84-60-%d8%a7%d9%84%d9%87%d8%af%d9%88%d8%a1-1": {
+      "name": "60",
+      "images": []
+    },
+    "https://cenele.com/cont/the-wizard-world/%d8%a7%d9%84%d9%81%d8%b5%d9%84-59-%d8%a3%d8%b2%d9%85%d8%a9-2": {
+      "name": "59",
+      "images": []
+    },
+    "https://cenele.com/cont/the-wizard-world/%d8%a7%d9%84%d9%81%d8%b5%d9%84-58-%d8%a3%d8%b2%d9%85%d8%a9-1": {
+      "name": "58",
+      "images": []
+    },
+    "https://cenele.com/cont/the-wizard-world/%d8%a7%d9%84%d9%81%d8%b5%d9%84-57-%d8%a7%d9%84%d9%85%d9%87%d9%85%d8%a9-2": {
+      "name": "57",
+      "images": []
+    },
+    "https://cenele.com/cont/the-wizard-world/%d8%a7%d9%84%d9%81%d8%b5%d9%84-56-%d8%a7%d9%84%d9%85%d9%87%d9%85%d8%a9-1": {
+      "name": "56",
+      "images": []
+    },
+    "https://cenele.com/cont/the-wizard-world/%d8%a7%d9%84%d9%81%d8%b5%d9%84-55-%d8%a7%d9%84%d8%aa%d9%83%d9%84%d9%81%d8%a9-2": {
+      "name": "55",
+      "images": []
+    },
+    "https://cenele.com/cont/the-wizard-world/%d8%a7%d9%84%d9%81%d8%b5%d9%84-54-%d8%a7%d9%84%d8%aa%d9%83%d9%84%d9%81%d8%a9-1": {
+      "name": "54",
+      "images": []
+    },
+    "https://cenele.com/cont/the-wizard-world/%d8%a7%d9%84%d9%81%d8%b5%d9%84-53-%d8%a7%d9%84%d8%b3%d8%ad%d8%b1-2": {
+      "name": "53",
+      "images": []
+    },
+    "https://cenele.com/cont/the-wizard-world/%d8%a7%d9%84%d9%81%d8%b5%d9%84-52-%d8%a7%d9%84%d8%b3%d8%ad%d8%b1-1": {
+      "name": "52",
+      "images": []
+    },
+    "https://cenele.com/cont/the-wizard-world/%d8%a7%d9%84%d9%81%d8%b5%d9%84-51-%d8%b1%d8%a7%d9%85%d8%b3%d9%88%d8%af%d8%a7-2": {
+      "name": "51",
+      "images": []
+    },
+    "https://cenele.com/cont/the-wizard-world/%d8%a7%d9%84%d9%81%d8%b5%d9%84-50-%d8%b1%d8%a7%d9%85%d8%b3%d9%88%d8%af%d8%a7-1": {
+      "name": "50",
+      "images": []
+    },
+    "https://cenele.com/cont/the-wizard-world/%d8%a7%d9%84%d9%81%d8%b5%d9%84-49-%d9%86%d8%a7%d9%86%d8%b3%d9%8a-2": {
+      "name": "49",
+      "images": []
+    },
+    "https://cenele.com/cont/the-wizard-world/%d8%a7%d9%84%d9%81%d8%b5%d9%84-48-%d9%86%d8%a7%d9%86%d8%b3%d9%8a-1": {
+      "name": "48",
+      "images": []
+    },
+    "https://cenele.com/cont/the-wizard-world/%d8%a7%d9%84%d9%81%d8%b5%d9%84-47-%d8%b9%d9%84%d9%89-%d9%85%d8%aa%d9%86-%d8%a7%d9%84%d8%b3%d9%81%d9%8a%d9%86%d8%a9-2": {
+      "name": "47",
+      "images": []
+    },
+    "https://cenele.com/cont/the-wizard-world/%d8%a7%d9%84%d9%81%d8%b5%d9%84-46-%d8%b9%d9%84%d9%89-%d9%85%d8%aa%d9%86-%d8%a7%d9%84%d8%b3%d9%81%d9%8a%d9%86%d8%a9-1": {
+      "name": "46",
+      "images": []
+    },
+    "https://cenele.com/cont/the-wizard-world/%d8%a7%d9%84%d9%81%d8%b5%d9%84-45-%d8%a7%d9%84%d9%85%d8%ba%d8%a7%d8%af%d8%b1%d8%a9-2": {
+      "name": "45",
+      "images": []
+    },
+    "https://cenele.com/cont/the-wizard-world/%d8%a7%d9%84%d9%81%d8%b5%d9%84-44-%d8%a7%d9%84%d9%85%d8%ba%d8%a7%d8%af%d8%b1%d8%a9-1": {
+      "name": "44",
+      "images": []
+    },
+    "https://cenele.com/cont/the-wizard-world/%d8%a7%d9%84%d9%81%d8%b5%d9%84-43-%d8%b9%d8%b4%d8%a8%d8%a9-%d8%a7%d9%84%d8%b1%d9%88%d8%ad-%d8%a7%d9%84%d9%85%d9%8a%d8%aa%d8%a9-2": {
+      "name": "43",
+      "images": []
+    },
+    "https://cenele.com/cont/the-wizard-world/%d8%a7%d9%84%d9%81%d8%b5%d9%84-42-%d8%b9%d8%b4%d8%a8%d8%a9-%d8%a7%d9%84%d8%b1%d9%88%d8%ad-%d8%a7%d9%84%d9%85%d9%8a%d8%aa%d8%a9-1": {
+      "name": "42",
+      "images": []
+    },
+    "https://cenele.com/cont/the-wizard-world/%d8%a7%d9%84%d9%81%d8%b5%d9%84-41-%d9%83%d8%aa%d8%a7%d8%a8-%d8%a7%d9%84%d8%b3%d8%a7%d8%ad%d8%b1-2": {
+      "name": "41",
+      "images": []
+    },
+    "https://cenele.com/cont/the-wizard-world/%d8%a7%d9%84%d9%81%d8%b5%d9%84-40-%d9%83%d8%aa%d8%a7%d8%a8-%d8%a7%d9%84%d8%b3%d8%a7%d8%ad%d8%b1-1": {
+      "name": "40",
+      "images": []
+    },
+    "https://cenele.com/cont/the-wizard-world/%d8%a7%d9%84%d9%81%d8%b5%d9%84-39-%d8%a3%d8%af%d9%88%d9%84%d9%81-2": {
+      "name": "39",
+      "images": []
+    },
+    "https://cenele.com/cont/the-wizard-world/%d8%a7%d9%84%d9%81%d8%b5%d9%84-38-%d8%a3%d8%af%d9%88%d9%84%d9%81-2": {
+      "name": "38",
+      "images": []
+    },
+    "https://cenele.com/cont/the-wizard-world/%d8%a7%d9%84%d9%81%d8%b5%d9%84-37-%d8%a7%d9%84%d9%85%d8%af%d8%b1%d8%b3%d8%a9-2": {
+      "name": "37",
+      "images": []
+    },
+    "https://cenele.com/cont/the-wizard-world/%d8%a7%d9%84%d9%81%d8%b5%d9%84-36-%d8%a7%d9%84%d9%85%d8%af%d8%b1%d8%b3%d8%a9-1": {
+      "name": "36",
+      "images": []
+    },
+    "https://cenele.com/cont/the-wizard-world/%d8%a7%d9%84%d9%81%d8%b5%d9%84-35-%d8%af%d9%84%d9%8a%d9%84-2": {
+      "name": "35",
+      "images": []
+    },
+    "https://cenele.com/cont/the-wizard-world/%d8%a7%d9%84%d9%81%d8%b5%d9%84-34-%d8%af%d9%84%d9%8a%d9%84-1": {
+      "name": "34",
+      "images": []
+    },
+    "https://cenele.com/cont/the-wizard-world/%d8%a7%d9%84%d9%81%d8%b5%d9%84-33-%d9%81%d9%8a%d9%84%d9%8a%d8%a8-2": {
+      "name": "33",
+      "images": []
+    },
+    "https://cenele.com/cont/the-wizard-world/%d8%a7%d9%84%d9%81%d8%b5%d9%84-32-%d9%81%d9%8a%d9%84%d9%8a%d8%a8-1": {
+      "name": "32",
+      "images": []
+    },
+    "https://cenele.com/cont/the-wizard-world/%d8%a7%d9%84%d9%81%d8%b5%d9%84-31-%d9%85%d8%b6%d8%a7%d8%b9%d9%81%d8%a7%d8%aa-2": {
+      "name": "31",
+      "images": []
+    },
+    "https://cenele.com/cont/the-wizard-world/%d8%a7%d9%84%d9%81%d8%b5%d9%84-30": {
+      "name": "30",
+      "images": []
+    },
+    "https://cenele.com/cont/the-wizard-world/%d8%a7%d9%84%d9%81%d8%b5%d9%84-29": {
+      "name": "29",
+      "images": []
+    },
+    "https://cenele.com/cont/the-wizard-world/%d8%a7%d9%84%d9%81%d8%b5%d9%84-28": {
+      "name": "28",
+      "images": []
+    },
+    "https://cenele.com/cont/the-wizard-world/%d8%a7%d9%84%d9%81%d8%b5%d9%84-27": {
+      "name": "27",
+      "images": []
+    },
+    "https://cenele.com/cont/the-wizard-world/%d8%a7%d9%84%d9%81%d8%b5%d9%84-26": {
+      "name": "26",
+      "images": []
+    },
+    "https://cenele.com/cont/the-wizard-world/%d8%a7%d9%84%d9%81%d8%b5%d9%84-25": {
+      "name": "25",
+      "images": []
+    },
+    "https://cenele.com/cont/the-wizard-world/%d8%a7%d9%84%d9%81%d8%b5%d9%84-24": {
+      "name": "24",
+      "images": []
+    },
+    "https://cenele.com/cont/the-wizard-world/%d8%a7%d9%84%d9%81%d8%b5%d9%84-23": {
+      "name": "23",
+      "images": []
+    },
+    "https://cenele.com/cont/the-wizard-world/%d8%a7%d9%84%d9%81%d8%b5%d9%84-22": {
+      "name": "22",
+      "images": []
+    },
+    "https://cenele.com/cont/the-wizard-world/%d8%a7%d9%84%d9%81%d8%b5%d9%84-21": {
+      "name": "21",
+      "images": []
+    },
+    "https://cenele.com/cont/the-wizard-world/%d8%a7%d9%84%d9%81%d8%b5%d9%84-20": {
+      "name": "20",
+      "images": []
+    },
+    "https://cenele.com/cont/the-wizard-world/%d8%a7%d9%84%d9%81%d8%b5%d9%84-19": {
+      "name": "19",
+      "images": []
+    },
+    "https://cenele.com/cont/the-wizard-world/%d8%a7%d9%84%d9%81%d8%b5%d9%84-18": {
+      "name": "18",
+      "images": []
+    },
+    "https://cenele.com/cont/the-wizard-world/%d8%a7%d9%84%d9%81%d8%b5%d9%84-17": {
+      "name": "17",
+      "images": []
+    },
+    "https://cenele.com/cont/the-wizard-world/%d8%a7%d9%84%d9%81%d8%b5%d9%84-16": {
+      "name": "16",
+      "images": []
+    },
+    "https://cenele.com/cont/the-wizard-world/%d8%a7%d9%84%d9%81%d8%b5%d9%84-15": {
+      "name": "15",
+      "images": []
+    },
+    "https://cenele.com/cont/the-wizard-world/%d8%a7%d9%84%d9%81%d8%b5%d9%84-14": {
+      "name": "14",
+      "images": []
+    },
+    "https://cenele.com/cont/the-wizard-world/%d8%a7%d9%84%d9%81%d8%b5%d9%84-13": {
+      "name": "13",
+      "images": []
+    },
+    "https://cenele.com/cont/the-wizard-world/%d8%a7%d9%84%d9%81%d8%b5%d9%84-12": {
+      "name": "12",
+      "images": []
+    },
+    "https://cenele.com/cont/the-wizard-world/%d8%a7%d9%84%d9%81%d8%b5%d9%84-11": {
+      "name": "11",
+      "images": []
+    },
+    "https://cenele.com/cont/the-wizard-world/%d8%a7%d9%84%d9%81%d8%b5%d9%84-10": {
+      "name": "10",
+      "images": []
+    },
+    "https://cenele.com/cont/the-wizard-world/%d8%a7%d9%84%d9%81%d8%b5%d9%84-9": {
+      "name": "9",
+      "images": []
+    },
+    "https://cenele.com/cont/the-wizard-world/%d8%a7%d9%84%d9%81%d8%b5%d9%84-8": {
+      "name": "8",
+      "images": []
+    },
+    "https://cenele.com/cont/the-wizard-world/%d8%a7%d9%84%d9%81%d8%b5%d9%84-7": {
+      "name": "7",
+      "images": []
+    },
+    "https://cenele.com/cont/the-wizard-world/%d8%a7%d9%84%d9%81%d8%b5%d9%84-6": {
+      "name": "6",
+      "images": []
+    },
+    "https://cenele.com/cont/the-wizard-world/%d8%a7%d9%84%d9%81%d8%b5%d9%84-5": {
+      "name": "5",
+      "images": []
+    },
+    "https://cenele.com/cont/the-wizard-world/%d8%a7%d9%84%d9%81%d8%b5%d9%84-4": {
+      "name": "4",
+      "images": []
+    },
+    "https://cenele.com/cont/the-wizard-world/%d8%a7%d9%84%d9%81%d8%b5%d9%84-3": {
+      "name": "3",
+      "images": []
+    },
+    "https://cenele.com/cont/the-wizard-world/%d8%a7%d9%84%d9%81%d8%b5%d9%84-2": {
+      "name": "2",
+      "images": []
+    },
+    "https://cenele.com/cont/the-wizard-world/%d8%a7%d9%84%d9%81%d8%b5%d9%84-1": {
+      "name": "1",
+      "images": []
+    }
+  }
+}

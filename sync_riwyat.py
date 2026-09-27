@@ -10,8 +10,8 @@ DATA_DIR = os.path.join("data", "riwyat")
 CATALOG_FILE = os.path.join(DATA_DIR, "catalog.json")
 GLOBAL_NEW_FILE = os.path.join("data", "new.json")
 
-DETAILS_SYNC_LIMIT = 20    # فحص وتجهيز فصول أحدث 20 رواية نشطة
-MAX_DELTA_PAGES = 3        # فحص أول 3 صفحات فقط كل ساعة لمراقبة الجديد
+DETAILS_SYNC_LIMIT = 2000    # فحص وتجهيز فصول أحدث 20 رواية نشطة
+MAX_DELTA_PAGES = 3000        # فحص أول 3 صفحات فقط كل ساعة لمراقبة الجديد
 
 os.makedirs(DATA_DIR, exist_ok=True)
 os.makedirs("data", exist_ok=True)
@@ -99,7 +99,8 @@ def scrape_riwyat_details(session, slug: str, manga_url: str) -> dict:
     rating_node = soup.select_one(".nhv-simple-rating__avg")
     rating = rating_node.get_text(strip=True) if rating_node else ""
 
-    genres = [a.get_text(strip=True) for a in soup.select(".nhv-novel-genres a")]
+    # استخراج التصنيفات الحقيقية حصراً بدون نصوص فارغة
+    genres = [a.get_text(strip=True) for a in soup.select(".nhv-novel-genres a") if a.get_text(strip=True)]
 
     # استخراج معرف الرواية الداخلي (Post ID)
     post_id = None
@@ -209,7 +210,8 @@ def sync_riwyat():
                     "type": "رواية",
                     "status": "مستمر",
                     "rating": "",
-                    "total_chapters": 0
+                    "total_chapters": 0,
+                    "genres": []  # تهيئة حقل التصنيفات دائماً
                 }
 
             if slug not in ordered_recent_slugs:
@@ -220,11 +222,11 @@ def sync_riwyat():
         print(f"فضاء الروايات [صفحة {page}]: رصد {new_in_page} عمل محدث.")
         time.sleep(0.3)
 
-    # 2. تحديث فصول أحدث 20 رواية فقط وتوليد الإشعارات
+    # 2. تحديث فصول أحدث 20 رواية وتوثيق التصنيفات
     targets_slugs = ordered_recent_slugs[:DETAILS_SYNC_LIMIT]
     new_releases = []
 
-    print(f"\n⚡ تحديث فصول أحدث {len(targets_slugs)} رواية...")
+    print(f"\n⚡ تحديث فصول وتصنيفات أحدث {len(targets_slugs)} رواية...")
 
     for idx, slug in enumerate(targets_slugs, 1):
         item = catalog_dict[slug]
@@ -249,6 +251,10 @@ def sync_riwyat():
             total_chapters = len(merged_chapters)
             item["total_chapters"] = total_chapters
             item["rating"] = new_details["rating"]
+            
+            # حفظ التصنيفات الحقيقية في الكاتلوج
+            item["genres"] = new_details.get("genres", [])
+            
             prev_chaps = len(existing_data.get("chapters", {}))
 
             # كشف التحديث لتوليد التنبيهات
@@ -264,7 +270,7 @@ def sync_riwyat():
             with open(file_path, "w", encoding="utf-8") as f:
                 json.dump(new_details, f, ensure_ascii=False, indent=2)
 
-            print(f"✓ [{idx}/{len(targets_slugs)}] تم التحديث: {slug} ({total_chapters} فصل)")
+            print(f"✓ [{idx}/{len(targets_slugs)}] تم التحديث: {slug} ({total_chapters} فصل) - تصنيفات: {item['genres']}")
             time.sleep(0.3)
         except Exception as e:
             print(f"خطأ أثناء تجهيز {slug}: {e}")
@@ -282,7 +288,7 @@ def sync_riwyat():
     if new_releases:
         update_global_new_releases(new_releases)
 
-    print(f"\n💾 تم حفظ الفهرس العام المدمج: {len(final_merged_catalog)} رواية.")
+    print(f"\n💾 تم حفظ الفهرس العام المدمج: {len(final_merged_catalog)} رواية (بيانات حقيقية 100%).")
     print("🎉 اكتملت المزامنة التراكمية لفضاء الروايات بنجاح تام!")
 
 if __name__ == "__main__":

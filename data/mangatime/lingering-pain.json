@@ -5,7 +5,7 @@
   "description": "جو أرين.. حُبي الأول الذي عادَ ليقذفهُ القدرُ في طريقي بعد خمسِ سنوات؛ لِمَ استَحالت ملامحُ رُوحِها إلى نكرَةٍ لا أعرفُها؟",
   "type": "مانهوا",
   "status": "مستمر",
-  "last_update": "2026-09-23",
+  "last_update": "2026-09-26",
   "rating": "",
   "favorites": "12",
   "genres": [
@@ -17,6 +17,10 @@
   ],
   "is_novel": false,
   "chapters": {
+    "https://mangatime.org/manhwa/lingering-pain/chapter/27": {
+      "name": "27",
+      "images": []
+    },
     "https://mangatime.org/manhwa/lingering-pain/chapter/26": {
       "name": "26",
       "images": []

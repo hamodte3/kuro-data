@@ -5,9 +5,9 @@
   "description": "مانهوا كورية من تأليف Sosori ورسم Ant Studio، تُنشر منذ 2018. أضعف وحش في زنزانة يقضي عمره في حماية سيّدته ويفشل، ثم يعود إلى البداية مرّةً بعد مرّة ليحاول من جديد. أكشن وفانتازيا ودراما.",
   "type": "مانهوا",
   "status": "مستمر",
-  "last_update": "2026-09-23",
+  "last_update": "2026-09-25",
   "rating": "",
-  "favorites": "1",
+  "favorites": "2",
   "genres": [
     "أكشن",
     "فانتازيا",
@@ -17,6 +17,10 @@
   ],
   "is_novel": false,
   "chapters": {
+    "https://mangatime.org/manhwa/skeleton-soldier-couldnt-protect-the-dungeon/chapter/354": {
+      "name": "354",
+      "images": []
+    },
     "https://mangatime.org/manhwa/skeleton-soldier-couldnt-protect-the-dungeon/chapter/353": {
       "name": "353",
       "images": []

@@ -29,6 +29,22 @@ HEADERS = {
 def get_session():
     return requests.Session(impersonate="chrome124", headers=HEADERS)
 
+def clean_genres(raw_genres) -> list:
+    """استخراج التصنيفات الحقيقية وتنظيفها من التكرار والنصوص الفارغة"""
+    genres = []
+    if not raw_genres or not isinstance(raw_genres, list):
+        return genres
+
+    for g in raw_genres:
+        if isinstance(g, dict):
+            name = g.get("arabic") or g.get("name") or g.get("title") or ""
+            if name and name.strip():
+                genres.append(name.strip())
+        elif isinstance(g, str) and g.strip():
+            genres.append(g.strip())
+
+    return list(dict.fromkeys(genres))
+
 def load_existing_catalog() -> dict:
     """تحميل الأرشيف القديم لمنع مسح أي رواية سابقة عند تقليل الصفحات"""
     if not os.path.exists(CATALOG_FILE):
@@ -130,10 +146,14 @@ def sync_rewayatclub():
 
             title = novel.get("arabic") or novel.get("english") or slug
             cover = normalize_cover(novel.get("poster_url") or novel.get("poster") or "")
-            genres = [g.get("arabic") for g in novel.get("genre", []) if isinstance(g, dict) and g.get("arabic")]
+            
+            # استخراج التصنيفات الحقيقية حصراً بدون أي فولباك وهمي
+            raw_genre_data = novel.get("genre") or novel.get("genres") or []
+            genres = clean_genres(raw_genre_data)
+            
             total_chapters = novel.get("num_chapters", 0)
 
-            # التحديث الآمن مع الحفاظ على الأرشيف القديم
+            # التحديث الآمن مع الحفاظ على الأرشيف وتحديث التصنيفات الحقيقية
             if slug in catalog_dict:
                 catalog_dict[slug]["title"] = title
                 catalog_dict[slug]["url"] = f"{BASE_WEB}/novel/{slug}"
@@ -141,6 +161,8 @@ def sync_rewayatclub():
                     catalog_dict[slug]["cover_url"] = cover
                 if total_chapters > 0:
                     catalog_dict[slug]["total_chapters"] = total_chapters
+                if genres:
+                    catalog_dict[slug]["genres"] = genres
             else:
                 catalog_dict[slug] = {
                     "id": slug,
@@ -151,7 +173,7 @@ def sync_rewayatclub():
                     "status": "مكتملة" if novel.get("complete") else "مستمر",
                     "rating": "",
                     "total_chapters": total_chapters,
-                    "genres": genres if genres else ["فنون قتال", "زراعة"]
+                    "genres": genres  # قائمة أصلية ونظيفة
                 }
 
             if slug not in ordered_recent_slugs:
@@ -230,7 +252,7 @@ def sync_rewayatclub():
         with open(file_path, "w", encoding="utf-8") as f:
             json.dump(payload, f, ensure_ascii=False, indent=2)
 
-        print(f"✓ [{idx}/{len(targets_slugs)}] تم تحديث الفصول: {item['title']} ({len(chapters_map)} فصل)")
+        print(f"✓ [{idx}/{len(targets_slugs)}] تم تحديث الفصول: {item['title']} ({len(chapters_map)} فصل) - تصنيفات: {item.get('genres', [])}")
 
     # 3. حفظ الكتالوج المدمج (الأحدث أولاً + بقية الأرشيف القديم)
     seen_slugs = set(ordered_recent_slugs)
@@ -241,7 +263,7 @@ def sync_rewayatclub():
     with open(CATALOG_FILE, "w", encoding="utf-8") as f:
         json.dump(final_merged_catalog, f, ensure_ascii=False, indent=2)
 
-    print(f"\n💾 تم حفظ الكتالوج المدمج: {len(final_merged_catalog)} رواية.")
+    print(f"\n💾 تم حفظ الكتالوج المدمج: {len(final_merged_catalog)} رواية (بيانات حقيقية 100%).")
 
     # 4. تحديث الإشعارات المشتركة
     if new_releases:

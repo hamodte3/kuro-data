@@ -5,7 +5,7 @@
   "description": "لا يوجد وصف",
   "type": "مانغا",
   "status": "مستمر",
-  "last_update": "2026-09-22",
+  "last_update": "2026-09-25",
   "rating": "",
   "favorites": "",
   "genres": [
@@ -18,6 +18,18 @@
   ],
   "is_novel": false,
   "chapters": {
+    "https://mangatime.org/manga/kara-no-kyoukai-the-garden-of-sinners/chapter/36": {
+      "name": "36",
+      "images": []
+    },
+    "https://mangatime.org/manga/kara-no-kyoukai-the-garden-of-sinners/chapter/35": {
+      "name": "35",
+      "images": []
+    },
+    "https://mangatime.org/manga/kara-no-kyoukai-the-garden-of-sinners/chapter/34": {
+      "name": "34",
+      "images": []
+    },
     "https://mangatime.org/manga/kara-no-kyoukai-the-garden-of-sinners/chapter/33": {
       "name": "33",
       "images": []

@@ -5,7 +5,7 @@
   "description": "قصة خيال علمي مثيرة تدور حول تطور الذكاء الاصطناعي في معامل مجموعة KN وتأثير ذلك على مستقبل البشرية. رحلة تقنية تستكشف الحدود بين الآلة والروح في قالب من الغموض والتشويق. اكتشفوا أسرار 'أيدي' وتابعونا على MangaTime.",
   "type": "مانغا",
   "status": "مستمر",
-  "last_update": "2026-09-23",
+  "last_update": "2026-09-25",
   "rating": "10.0",
   "favorites": "",
   "genres": [
@@ -15,6 +15,14 @@
   ],
   "is_novel": false,
   "chapters": {
+    "https://mangatime.org/manga/aidie/chapter/25": {
+      "name": "25",
+      "images": []
+    },
+    "https://mangatime.org/manga/aidie/chapter/24": {
+      "name": "24",
+      "images": []
+    },
     "https://mangatime.org/manga/aidie/chapter/23": {
       "name": "23",
       "images": []

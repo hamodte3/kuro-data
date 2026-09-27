@@ -5,9 +5,9 @@
   "description": "هل يتزوج الذئب و الأسد و ينجبان أرنبًا؟\n\nج: توقفي عن التحدث بالهراء و أخلدي إلى النوم.",
   "type": "مانهوا",
   "status": "مستمر",
-  "last_update": "2026-09-23",
+  "last_update": "2026-09-26",
   "rating": "9.0",
-  "favorites": "15",
+  "favorites": "16",
   "genres": [
     "فانتازيا",
     "رومانسي",
@@ -15,6 +15,10 @@
   ],
   "is_novel": false,
   "chapters": {
+    "https://mangatime.org/manhwa/it-s-a-rabbit-anyone-can-see-that-it-s-a-beast/chapter/68": {
+      "name": "68",
+      "images": []
+    },
     "https://mangatime.org/manhwa/it-s-a-rabbit-anyone-can-see-that-it-s-a-beast/chapter/67": {
       "name": "67",
       "images": []
