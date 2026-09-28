@@ -10,8 +10,8 @@ DATA_DIR = os.path.join("data", "kolnovel")
 CATALOG_FILE = os.path.join(DATA_DIR, "catalog.json")
 GLOBAL_NEW_FILE = os.path.join("data", "new.json")
 
-DETAILS_SYNC_LIMIT = 20   # تجهيز أحدث 20 رواية طرأ عليها تحديث
-MAX_DELTA_PAGES = 5       # فحص أول 5 صفحات فقط كل ساعة بدلاً من 1000
+DETAILS_SYNC_LIMIT = 20    # تجهيز أحدث 20 رواية طرأ عليها تحديث
+MAX_DELTA_PAGES = 5        # فحص أول 5 صفحات فقط كل ساعة بدلاً من 1000
 
 os.makedirs(DATA_DIR, exist_ok=True)
 os.makedirs("data", exist_ok=True)
@@ -167,7 +167,6 @@ def scrape_novel_details_kolnovel(session, novel_url: str):
     desc_el = soup.select_one(".sersys.entry-content, .sersysn .sersys")
     description = desc_el.text.strip() if desc_el else "لا يوجد وصف."
 
-    # استخراج التصنيفات الحقيقية
     genres = [a.text.strip().lstrip("#").strip() for a in soup.select(".sertogenre a") if a.text.strip()]
 
     rate_el = soup.select_one("#kol-series-rating .custom-rating-value, .numscore")
@@ -182,7 +181,9 @@ def scrape_novel_details_kolnovel(session, novel_url: str):
     last_update = update_el.text.strip() if update_el else ""
 
     chapters_map = extract_chapters_kolnovel(soup)
-    slug = clean_url.rstrip("/").split("/")[-1]
+    
+    # 🎯 الاعتماد على العنوان الصريح كـ ID واسم للملف
+    slug = title
 
     return {
         "id": slug,
@@ -233,13 +234,15 @@ def sync_kolnovel_fast():
                     continue
 
                 novel_url = normalize_url(link_node.get("href", ""))
-                slug = novel_url.rstrip("/").split("/")[-1]
 
                 title_el = card.select_one("h2 a, h2, .ntitle")
                 raw_title = title_el.text.strip() if title_el else link_node.get("title", "").strip()
                 title = clean_title_text(raw_title)
                 if not title:
                     continue
+
+                # 🎯 استخدام العنوان الصريح مباشرة كـ slug
+                slug = title
 
                 img_node = card.select_one("img.ts-post-image, img")
                 raw_cover = ""
@@ -253,7 +256,6 @@ def sync_kolnovel_fast():
                 raw_score = re.sub(r"[^0-9.]", "", score_el.text).strip() if score_el else ""
                 rating = format_rating(raw_score)
 
-                # تحديث ورفع الرواية إلى رأس القائمة مع الحفاظ على الفصول والتصنيفات
                 if slug in catalog_dict:
                     catalog_dict[slug]["title"] = title
                     catalog_dict[slug]["url"] = novel_url
@@ -274,7 +276,7 @@ def sync_kolnovel_fast():
                             "is_novel": True,
                             "rating": rating,
                             "total_chapters": 0,
-                            "genres": []  # تهيئة حقل التصنيفات دائماً
+                            "genres": []
                         },
                         **catalog_dict
                     }
@@ -287,7 +289,6 @@ def sync_kolnovel_fast():
             print(f"خطأ أثناء فحص صفحة {page}: {e}")
             break
 
-    # تحديث تفاصيل الفصول والتصنيفات للروايات الحديثة فقط
     sync_targets = recent_targets[:DETAILS_SYNC_LIMIT]
     new_releases = []
 
@@ -306,13 +307,10 @@ def sync_kolnovel_fast():
             item["status"] = details["status"]
             item["rating"] = details["rating"]
             item["total_chapters"] = current_chaps
-            
-            # حفظ التصنيفات الحقيقية في الكاتلوج
             item["genres"] = details.get("genres", [])
 
-            print(f"✓ [{index}/{len(sync_targets)}] تم تحديث الرواية: {slug} ({current_chaps} فصل) - تصنيفات: {item['genres']}")
+            print(f"✓ [{index}/{len(sync_targets)}] تم تحديث الرواية: {slug} ({current_chaps} فصل)")
 
-            # رصد التحديثات الجديدة لملف new.json
             if current_chaps > prev_chaps and current_chaps > 0:
                 new_releases.append({
                     "id": slug,
@@ -326,12 +324,10 @@ def sync_kolnovel_fast():
         except Exception as e:
             print(f"خطأ أثناء معالجة تفاصيل {slug}: {e}")
 
-    # حفظ الفهرس التراكمي الشامل بالتصنيفات
     full_catalog = list(catalog_dict.values())
     with open(CATALOG_FILE, "w", encoding="utf-8") as f:
         json.dump(full_catalog, f, ensure_ascii=False, indent=2)
 
-    # تحديث الإشعارات المشتركة
     if new_releases:
         update_global_new_releases(new_releases)
 
