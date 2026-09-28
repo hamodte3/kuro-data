@@ -1,0 +1,30 @@
+{
+  "id": "a-little-coincidence-is-all-we-need",
+  "title": "A Little Coincidence Is All We Need!",
+  "cover_url": "https://storage.azorafly.com/upload/series/featured/02408b52-85d5-445d-9e5c-f7dbcd583bf8/c091efdb-8345-495b-aa2c-8938305c6882.jpg",
+  "description": "البطلة هان بومي (한보미) تعاني من متلازمة تجعلها تحلم كل يوم بحبها الأول الذي انتهت علاقتها به بشكل سيئ. وفي أحد الأيام تراودها أحلام غريبة شديدة الواقعية، لتكتشف شيئًا مستحيلًا: «...بارك وو-يون صغر؟» حبها الأول... أصبح صغيرًا؟ الحلم يبدو واقعيًا أكثر من اللازم، لكن ما يحدث في الواقع يبدو مستحيلًا أكثر من أن يكون حقيقيًا. ومع صدفة صغيرة جدًا، يبدأ الحب الأول الذي تحطم سابقًا في الارتباط من جديد.",
+  "type": "مانهوا",
+  "status": "مستمر",
+  "last_update": "2026-09-28",
+  "rating": "10.0",
+  "genres": [
+    "رومانسى",
+    "كوميدي",
+    "دراما"
+  ],
+  "is_novel": false,
+  "chapters": {
+    "https://azorafly.com/series/a-little-coincidence-is-all-we-need/chapter-4": {
+      "name": "4"
+    },
+    "https://azorafly.com/series/a-little-coincidence-is-all-we-need/chapter-3": {
+      "name": "3"
+    },
+    "https://azorafly.com/series/a-little-coincidence-is-all-we-need/chapter-2": {
+      "name": "2"
+    },
+    "https://azorafly.com/series/a-little-coincidence-is-all-we-need/chapter-1": {
+      "name": "1"
+    }
+  }
+}
