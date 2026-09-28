@@ -76,10 +76,8 @@ def clean_and_rename_old_files():
 
         name_without_ext = filename[:-5]
         
-        # إذا كان الاسم يحتوي على رموز تشفير URL Encoding مثل %d8 أو %25
         if "%" in name_without_ext or "25" in name_without_ext:
             try:
-                # فك التشفير مرتين لضمان إزالة أي تشفير مزدوج
                 decoded_name = name_without_ext
                 for _ in range(2):
                     if "%" in decoded_name:
@@ -93,7 +91,7 @@ def clean_and_rename_old_files():
                     
                     if not os.path.exists(new_path):
                         os.rename(old_path, new_path)
-                        print(جاري تعديل اسم الملف: {filename} -> {clean_name}.json)
+                        print(f"جاري تعديل اسم الملف: {filename} -> {clean_name}.json")
                         renamed_count += 1
             except Exception as e:
                 print(f"فشل تعديل اسم الملف {filename}: {e}")
@@ -223,8 +221,6 @@ def scrape_novel_details_kolnovel(session, novel_url: str):
     last_update = update_el.text.strip() if update_el else ""
 
     chapters_map = extract_chapters_kolnovel(soup)
-    
-    # 🎯 الاعتماد على العنوان الصريح كـ ID واسم للملف
     slug = title
 
     return {
@@ -254,7 +250,6 @@ def load_existing_catalog() -> dict:
         return {}
 
 def sync_kolnovel_fast():
-    # 🧹 فحص وتنظيف الملفات القديمة المشفرة قبل بدء المزامنة
     clean_and_rename_old_files()
 
     session = get_session()
@@ -286,7 +281,6 @@ def sync_kolnovel_fast():
                 if not title:
                     continue
 
-                # 🎯 استخدام العنوان الصريح مباشرة كـ slug
                 slug = title
 
                 img_node = card.select_one("img.ts-post-image, img")
