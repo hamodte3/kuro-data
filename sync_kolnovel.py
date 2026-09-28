@@ -2,6 +2,7 @@ import json
 import os
 import re
 import time
+import urllib.parse
 from bs4 import BeautifulSoup
 from curl_cffi import requests
 
@@ -60,6 +61,47 @@ def format_status(raw_status: str) -> str:
     if any(k in s for k in ["completed", "مكتمل", "مكتملة"]): return "مكتمل"
     if any(k in s for k in ["hiatus", "متوقف"]): return "متوقف مؤقتاً"
     return "مستمر"
+
+def clean_and_rename_old_files():
+    """فحص مجلد الروايات وإعادة تسمية الملفات ذات الأسماء المشفرة أو المشوهة إلى الاسم العربي الصريح"""
+    if not os.path.exists(DATA_DIR):
+        return
+
+    print("🧹 جاري فحص الملفات القديمة وتنظيف الأسماء المشفرة...")
+    renamed_count = 0
+
+    for filename in os.listdir(DATA_DIR):
+        if filename == "catalog.json" or not filename.endswith(".json"):
+            continue
+
+        name_without_ext = filename[:-5]
+        
+        # إذا كان الاسم يحتوي على رموز تشفير URL Encoding مثل %d8 أو %25
+        if "%" in name_without_ext or "25" in name_without_ext:
+            try:
+                # فك التشفير مرتين لضمان إزالة أي تشفير مزدوج
+                decoded_name = name_without_ext
+                for _ in range(2):
+                    if "%" in decoded_name:
+                        decoded_name = urllib.parse.unquote(decoded_name)
+                
+                clean_name = clean_title_text(decoded_name)
+                
+                if clean_name and clean_name != name_without_ext:
+                    old_path = os.path.join(DATA_DIR, filename)
+                    new_path = os.path.join(DATA_DIR, f"{clean_name}.json")
+                    
+                    if not os.path.exists(new_path):
+                        os.rename(old_path, new_path)
+                        print(جاري تعديل اسم الملف: {filename} -> {clean_name}.json)
+                        renamed_count += 1
+            except Exception as e:
+                print(f"فشل تعديل اسم الملف {filename}: {e}")
+
+    if renamed_count > 0:
+        print(f"✨ تم تصحيح وإعادة تسمية {renamed_count} ملف بنجاح!\n")
+    else:
+        print("✔️ جميع أسماء الملفات نظيفة ولا تحتاج لتعديل.\n")
 
 def update_global_new_releases(new_releases: list):
     """دمج الإشعارات الجديدة في data/new.json دون مسح تحديثات المصادر الأخرى"""
@@ -212,6 +254,9 @@ def load_existing_catalog() -> dict:
         return {}
 
 def sync_kolnovel_fast():
+    # 🧹 فحص وتنظيف الملفات القديمة المشفرة قبل بدء المزامنة
+    clean_and_rename_old_files()
+
     session = get_session()
     catalog_dict = load_existing_catalog()
     recent_targets = []
