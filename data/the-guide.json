@@ -9,12 +9,15 @@
   "rating": "2.8",
   "genres": [
     "رومانسى",
+    "فانتازيا",
     "دراما",
-    "غموض",
-    "فانتازيا"
+    "غموض"
   ],
   "is_novel": false,
   "chapters": {
+    "https://azorafly.com/series/the-guide/chapter-6": {
+      "name": "6"
+    },
     "https://azorafly.com/series/the-guide/chapter-5": {
       "name": "5"
     },
