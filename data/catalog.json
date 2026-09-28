@@ -1,37 +1,5 @@
 [
   {
-    "id": "everyone-was-obsessed-with-me-after-i-became-the-youngest-princess-favourite",
-    "title": "Everyone Was Obsessed With Me After I Became the Youngest Princess Favourite",
-    "url": "https://azorafly.com/series/everyone-was-obsessed-with-me-after-i-became-the-youngest-princess-favourite",
-    "cover_url": "https://storage.azorafly.com/public/upload/2026/01/24/6b51d0b1-bad2-479a-b481-7b8e8c884ad2.webp",
-    "type": "مانهوا",
-    "status": "مستمر",
-    "rating": "9.5",
-    "total_chapters": 69,
-    "genres": [
-      "أكشن",
-      "رعاية اطفال",
-      "دراما",
-      "خيال",
-      "رومانسي"
-    ]
-  },
-  {
-    "id": "bunker-days",
-    "title": "Bunker days",
-    "url": "https://azorafly.com/series/bunker-days",
-    "cover_url": "https://storage.azorafly.com/public/upload/2026/01/15/660da6e7-d827-44cf-ac53-b24e56402aec.webp",
-    "type": "مانهوا",
-    "status": "مستمر",
-    "rating": "9.5",
-    "total_chapters": 39,
-    "genres": [
-      "أكشن",
-      "دراما",
-      "رومانسي"
-    ]
-  },
-  {
     "id": "i-only-need-the-duke's-child1",
     "title": "I Only Need the Duke's Child",
     "url": "https://azorafly.com/series/i-only-need-the-duke's-child1",
@@ -847,23 +815,6 @@
       "سحر",
       "تاريخي",
       "خيال"
-    ]
-  },
-  {
-    "id": "the-guide",
-    "title": "The guide",
-    "url": "https://azorafly.com/series/the-guide",
-    "cover_url": "https://storage.azorafly.com/upload/series/featured/02408b52-85d5-445d-9e5c-f7dbcd583bf8/a3d01718-f049-4711-be75-1efec077c85b.jpg",
-    "type": "مانهوا",
-    "status": "مستمر",
-    "rating": "9.5",
-    "total_chapters": 4,
-    "genres": [
-      "أكشن",
-      "رومانسى",
-      "فانتازيا",
-      "غموض",
-      "دراما"
     ]
   },
   {
@@ -3296,6 +3247,90 @@
     ]
   },
   {
+    "id": "lucinna",
+    "title": "لوسينا",
+    "url": "https://azorafly.com/series/lucinna",
+    "cover_url": "https://storage.azorafly.com/upload/series/featured/a5vVlSc5huft2AzUyK1VxgKh1ckCWLbZ/e4cb8384-604a-46ac-a17f-bca4199ae5be.jpg",
+    "type": "رواية",
+    "status": "مستمر",
+    "rating": "10.0",
+    "total_chapters": 15,
+    "genres": [
+      "تاريخي",
+      "رومانسي",
+      "دراما",
+      "انتقام",
+      "إثارة",
+      "تشويق",
+      "خيال"
+    ]
+  },
+  {
+    "id": "i-want-to-cancel-that-engagement",
+    "title": "I Want to Cancel That Engagement",
+    "url": "https://azorafly.com/series/i-want-to-cancel-that-engagement",
+    "cover_url": "https://storage.azorafly.com/public/upload/2026/03/21/27101a3a-7acf-491c-8d35-6abd8d4608c3.webp",
+    "type": "رواية",
+    "status": "مكتمل",
+    "rating": "10.0",
+    "total_chapters": 106,
+    "genres": [
+      "رومانسي",
+      "سحر",
+      "كوميدي",
+      "تجسيد",
+      "خيال"
+    ]
+  },
+  {
+    "id": "the-guide",
+    "title": "The guide",
+    "url": "https://azorafly.com/series/the-guide",
+    "cover_url": "https://storage.azorafly.com/upload/series/featured/02408b52-85d5-445d-9e5c-f7dbcd583bf8/a3d01718-f049-4711-be75-1efec077c85b.jpg",
+    "type": "مانهوا",
+    "status": "مستمر",
+    "rating": "2.8",
+    "total_chapters": 5,
+    "genres": [
+      "رومانسى",
+      "دراما",
+      "غموض",
+      "فانتازيا"
+    ]
+  },
+  {
+    "id": "everyone-was-obsessed-with-me-after-i-became-the-youngest-princess-favourite",
+    "title": "Everyone Was Obsessed With Me After I Became the Youngest Princess Favourite",
+    "url": "https://azorafly.com/series/everyone-was-obsessed-with-me-after-i-became-the-youngest-princess-favourite",
+    "cover_url": "https://storage.azorafly.com/public/upload/2026/01/24/6b51d0b1-bad2-479a-b481-7b8e8c884ad2.webp",
+    "type": "مانهوا",
+    "status": "مستمر",
+    "rating": "9.5",
+    "total_chapters": 69,
+    "genres": [
+      "أكشن",
+      "رعاية اطفال",
+      "دراما",
+      "خيال",
+      "رومانسي"
+    ]
+  },
+  {
+    "id": "bunker-days",
+    "title": "Bunker days",
+    "url": "https://azorafly.com/series/bunker-days",
+    "cover_url": "https://storage.azorafly.com/public/upload/2026/01/15/660da6e7-d827-44cf-ac53-b24e56402aec.webp",
+    "type": "مانهوا",
+    "status": "مستمر",
+    "rating": "9.5",
+    "total_chapters": 39,
+    "genres": [
+      "أكشن",
+      "دراما",
+      "رومانسي"
+    ]
+  },
+  {
     "id": "a-strange-but-effective-villainess-life",
     "title": "A Strange But Effective Villainess Life",
     "url": "https://azorafly.com/series/a-strange-but-effective-villainess-life",
@@ -3646,25 +3681,6 @@
       "فانتازيا",
       "شونين",
       "غموض"
-    ]
-  },
-  {
-    "id": "lucinna",
-    "title": "لوسينا",
-    "url": "https://azorafly.com/series/lucinna",
-    "cover_url": "https://storage.azorafly.com/upload/series/featured/a5vVlSc5huft2AzUyK1VxgKh1ckCWLbZ/e4cb8384-604a-46ac-a17f-bca4199ae5be.jpg",
-    "type": "رواية",
-    "status": "مستمر",
-    "rating": "9.5",
-    "total_chapters": 14,
-    "genres": [
-      "أكشن",
-      "انتقام",
-      "إثارة",
-      "تاريخي",
-      "دراما",
-      "خيال",
-      "رومانسي"
     ]
   },
   {
@@ -29526,24 +29542,6 @@
       "فانتازيا",
       "دراما",
       "رومانسي"
-    ]
-  },
-  {
-    "id": "i-want-to-cancel-that-engagement",
-    "title": "I Want to Cancel That Engagement",
-    "url": "https://azorafly.com/series/i-want-to-cancel-that-engagement",
-    "cover_url": "https://storage.azorafly.com/public/upload/2026/03/21/27101a3a-7acf-491c-8d35-6abd8d4608c3.webp",
-    "type": "رواية",
-    "status": "مكتمل",
-    "rating": "9.5",
-    "total_chapters": 102,
-    "genres": [
-      "أكشن",
-      "سحر",
-      "كوميدي",
-      "خيال",
-      "رومانسي",
-      "تجسيد"
     ]
   },
   {

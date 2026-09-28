@@ -1,5 +1,26 @@
 [
   {
+    "id": "the-guide",
+    "title": "The guide",
+    "chapter": "الفصل 5",
+    "type": "مانهوا",
+    "cover_url": "https://storage.azorafly.com/upload/series/featured/02408b52-85d5-445d-9e5c-f7dbcd583bf8/a3d01718-f049-4711-be75-1efec077c85b.jpg"
+  },
+  {
+    "id": "i-want-to-cancel-that-engagement",
+    "title": "I Want to Cancel That Engagement",
+    "chapter": "الفصل 106",
+    "type": "رواية",
+    "cover_url": "https://storage.azorafly.com/public/upload/2026/03/21/27101a3a-7acf-491c-8d35-6abd8d4608c3.webp"
+  },
+  {
+    "id": "lucinna",
+    "title": "لوسينا",
+    "chapter": "الفصل 15",
+    "type": "رواية",
+    "cover_url": "https://storage.azorafly.com/upload/series/featured/a5vVlSc5huft2AzUyK1VxgKh1ckCWLbZ/e4cb8384-604a-46ac-a17f-bca4199ae5be.jpg"
+  },
+  {
     "id": "i-won't-get-fooled-twice",
     "title": "I Won't Get Fooled Twice",
     "chapter": "الفصل 145",
@@ -82,26 +103,5 @@
     "chapter": "الفصل 65",
     "type": "مانهوا",
     "cover_url": "https://storage.azorafly.com/2025/11/resource-1.webp"
-  },
-  {
-    "id": "the-flower-with-a-sword",
-    "title": "The Flower With a Sword",
-    "chapter": "الفصل 61",
-    "type": "مانهوا",
-    "cover_url": "https://storage.azorafly.com/public/upload/2026/04/03/85f99085-fac0-4b13-97b8-5990ae2a751d.webp"
-  },
-  {
-    "id": "miss-pendleton",
-    "title": "Miss Pendleton",
-    "chapter": "الفصل 72",
-    "type": "مانهوا",
-    "cover_url": "https://storage.azorafly.com/upload/series/featured/2f0d0885-cadf-4561-bf7f-fef4221bfcec/b3e8566f-064b-45c2-be5a-81cae5041dde.png"
-  },
-  {
-    "id": "its-a-regret-genre-female-lead-but-her-mentality-is-way-too-strong",
-    "title": "It's a regret genre female lead, but her mentality is way too strong",
-    "chapter": "الفصل 65",
-    "type": "مانهوا",
-    "cover_url": "https://storage.azorafly.com/public/upload/2026/03/26/b49d1976-9f28-4a83-95e5-18027c70210f.webp"
   }
 ]
