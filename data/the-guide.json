@@ -6,7 +6,7 @@
   "type": "مانهوا",
   "status": "مستمر",
   "last_update": "2026-09-26",
-  "rating": "2.8",
+  "rating": "2.4",
   "genres": [
     "رومانسى",
     "فانتازيا",
@@ -15,6 +15,12 @@
   ],
   "is_novel": false,
   "chapters": {
+    "https://azorafly.com/series/the-guide/chapter-8": {
+      "name": "8"
+    },
+    "https://azorafly.com/series/the-guide/chapter-7": {
+      "name": "7"
+    },
     "https://azorafly.com/series/the-guide/chapter-6": {
       "name": "6"
     },

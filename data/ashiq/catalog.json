@@ -801,25 +801,6 @@
     "genres": []
   },
   {
-    "id": "kingdom-2",
-    "title": "Kingdom (WAN)",
-    "url": "https://3asq.online/manga/kingdom-2",
-    "cover_url": "https://3asq.online/wp-content/uploads/2024/03/0cover-175x238.jpg",
-    "type": "WANteam",
-    "rating": "4.7",
-    "genres": [
-      "أكشن",
-      "تاريخ",
-      "حرب",
-      "دراما",
-      "سينين",
-      "عسكرية",
-      "عنف",
-      "فنون قتالية",
-      "مأساة"
-    ]
-  },
-  {
     "id": "100-ghost-stories-that-will-lead-to-my-own-death",
     "title": "100 Ghost Stories That Will Lead to My Own Death",
     "url": "https://3asq.online/manga/100-ghost-stories-that-will-lead-to-my-own-death",
@@ -857,31 +838,6 @@
       "غموض",
       "فنون قتالية",
       "نينجا"
-    ]
-  },
-  {
-    "id": "enigmatica",
-    "title": "Enigmatica",
-    "url": "https://3asq.online/manga/enigmatica",
-    "cover_url": "https://3asq.online/wp-content/uploads/2026/04/enigmatica_cover_pink-175x238.png",
-    "type": "مانغا",
-    "rating": "4.8",
-    "status": "مستمر",
-    "total_chapters": 27,
-    "genres": [
-      "أكشن",
-      "استراتيجي",
-      "تاريخ",
-      "جريمة",
-      "حرب",
-      "خيال",
-      "دراما",
-      "شونين",
-      "عسكرية",
-      "علم نفس",
-      "عنف",
-      "غموض",
-      "فلسفة"
     ]
   },
   {
@@ -1199,6 +1155,52 @@
       "شونين",
       "عنف",
       "غموض"
+    ]
+  },
+  {
+    "id": "kingdom-2",
+    "title": "Kingdom (WAN)",
+    "url": "https://3asq.online/manga/kingdom-2",
+    "cover_url": "https://3asq.online/wp-content/uploads/2024/03/0cover-175x238.jpg",
+    "type": "مانغا",
+    "rating": "4.7",
+    "genres": [
+      "أكشن",
+      "تاريخ",
+      "حرب",
+      "دراما",
+      "سينين",
+      "عسكرية",
+      "عنف",
+      "فنون قتالية",
+      "مأساة"
+    ],
+    "status": "مستمر",
+    "total_chapters": 388
+  },
+  {
+    "id": "enigmatica",
+    "title": "Enigmatica",
+    "url": "https://3asq.online/manga/enigmatica",
+    "cover_url": "https://3asq.online/wp-content/uploads/2026/04/enigmatica_cover_pink-175x238.png",
+    "type": "مانغا",
+    "rating": "4.8",
+    "status": "مستمر",
+    "total_chapters": 28,
+    "genres": [
+      "أكشن",
+      "استراتيجي",
+      "تاريخ",
+      "جريمة",
+      "حرب",
+      "خيال",
+      "دراما",
+      "شونين",
+      "عسكرية",
+      "علم نفس",
+      "عنف",
+      "غموض",
+      "فلسفة"
     ]
   },
   {
