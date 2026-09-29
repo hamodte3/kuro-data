@@ -5,7 +5,7 @@
   "description": "هناك لاعبون يراهنون على حياتهم. ولكن لإنقاذ حياة هؤلاء اللاعبين المعرضين للخطر ، هناك منظمة عنيفة ومؤثرة تسمى “كاكيرو” تحكم هذه الألعاب كحزب محايد ،  باكو مادارامي المعروف باسم “مبتلع الكذب”. أنت تراهن على خصوم مهووسين لتصبح أفضل لاعب وتتحكم في المنظمة المحايدة.",
   "type": "مانغا",
   "status": "مستمر",
-  "last_update": "2026-09-12",
+  "last_update": "2026-09-29",
   "rating": "7.5",
   "favorites": "30",
   "genres": [
@@ -20,6 +20,12 @@
   ],
   "is_novel": false,
   "chapters": {
+    "https://despair-manga.net/usogui-chapter-215/": {
+      "name": "215"
+    },
+    "https://despair-manga.net/usogui-chapter-214/": {
+      "name": "214"
+    },
     "https://despair-manga.net/usogui-chapter-213/": {
       "name": "213"
     },

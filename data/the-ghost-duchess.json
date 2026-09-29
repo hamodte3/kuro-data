@@ -8,11 +8,14 @@
   "last_update": "2026-05-07",
   "rating": "9.4",
   "genres": [
-    "غموض",
-    "رومانسي"
+    "رومانسي",
+    "غموض"
   ],
   "is_novel": false,
   "chapters": {
+    "https://azorafly.com/series/the-ghost-duchess/chapter-43": {
+      "name": "43"
+    },
     "https://azorafly.com/series/the-ghost-duchess/chapter-42": {
       "name": "42"
     },

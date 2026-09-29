@@ -1,5 +1,25 @@
 [
   {
+    "id": "usogui",
+    "title": "Usogui",
+    "url": "https://despair-manga.net/manga/usogui/",
+    "cover_url": "https://i3.wp.com/despair-world.com/wp-content/uploads/2026/07/v8aymv9ls89d1.jpeg",
+    "type": "مانغا",
+    "status": "مستمر",
+    "rating": "7.5",
+    "total_chapters": 227,
+    "genres": [
+      "أكشن",
+      "إثارة",
+      "دراما",
+      "سينين",
+      "علم نفسي",
+      "غموض",
+      "فنون قتالية",
+      "نفسي"
+    ]
+  },
+  {
     "id": "kaoru-hana-wa-rin-to-saku",
     "title": "kaoru hana wa rin to saku",
     "url": "https://despair-manga.net/manga/kaoru-hana-wa-rin-to-saku/",
@@ -49,26 +69,6 @@
       "شونين",
       "كوميدى",
       "مدرسي"
-    ]
-  },
-  {
-    "id": "usogui",
-    "title": "Usogui",
-    "url": "https://despair-manga.net/manga/usogui/",
-    "cover_url": "https://i3.wp.com/despair-world.com/wp-content/uploads/2026/07/v8aymv9ls89d1.jpeg",
-    "type": "مانغا",
-    "status": "مستمر",
-    "rating": "7.5",
-    "total_chapters": 225,
-    "genres": [
-      "أكشن",
-      "إثارة",
-      "دراما",
-      "سينين",
-      "علم نفسي",
-      "غموض",
-      "فنون قتالية",
-      "نفسي"
     ]
   },
   {
