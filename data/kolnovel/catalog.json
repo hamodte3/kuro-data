@@ -1,27 +1,5 @@
 [
   {
-    "id": "لمسة الميكا",
-    "title": "لمسة الميكا",
-    "url": "https://kolnovel.com/series/%d9%84%d9%85%d8%b3%d8%a9-%d8%a7%d9%84%d9%85%d9%8a%d9%83%d8%a7",
-    "cover_url": "https://kolnovel.com/wp-content/uploads/2025/11/131_20251104112404.png",
-    "type": "رواية",
-    "is_novel": true,
-    "rating": "8.0",
-    "total_chapters": 0,
-    "genres": []
-  },
-  {
-    "id": "حُرقة",
-    "title": "حُرقة",
-    "url": "https://kolnovel.com/series/%d8%ad%d9%8f%d8%b1%d9%82%d8%a9",
-    "cover_url": "https://kolnovel.com/wp-content/uploads/2025/11/IMG_20251101_191840.webp",
-    "type": "رواية",
-    "is_novel": true,
-    "rating": "7.5",
-    "total_chapters": 0,
-    "genres": []
-  },
-  {
     "id": "الشرير يرغب في العيش",
     "title": "الشرير يرغب في العيش",
     "url": "https://kolnovel.com/series/the-villain-wants-to-live",
@@ -886,7 +864,7 @@
     "cover_url": "https://kolnovel.com/wp-content/uploads/2023/03/95_20231124170026.png",
     "type": "رواية",
     "is_novel": true,
-    "rating": "",
+    "rating": "8.8",
     "total_chapters": 926,
     "genres": [
       "أكشن",
@@ -903,7 +881,7 @@
     "cover_url": "https://kolnovel.com/wp-content/uploads/2026/02/resource_1.jpg",
     "type": "رواية",
     "is_novel": true,
-    "rating": "",
+    "rating": "8.5",
     "total_chapters": 102,
     "genres": [
       "أكشن",
@@ -1272,6 +1250,71 @@
       "نفسي"
     ],
     "status": "مستمر"
+  },
+  {
+    "id": "المتعاقد الميتافيزيقي",
+    "title": "المتعاقد الميتافيزيقي",
+    "url": "https://kolnovel.com/series/%d8%a7%d9%84%d9%85%d8%aa%d8%b9%d8%a7%d9%82%d8%af-%d8%a7%d9%84%d9%85%d9%8a%d8%aa%d8%a7%d9%81%d9%8a%d8%b2%d9%8a%d9%82%d9%8a",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2026/09/صورة-ChatGPT-29-سبتمبر-2026،-06_43_43-ص.png",
+    "type": "رواية",
+    "is_novel": true,
+    "rating": "",
+    "total_chapters": 0,
+    "genres": [
+      "بناء إمبراطورية",
+      "خيال مظلم",
+      "سحر",
+      "شريحة من الحياة",
+      "غموض تدريجي",
+      "كوميديا"
+    ],
+    "status": "مستمر"
+  },
+  {
+    "id": "ما نسيه العالم",
+    "title": "ما نسيه العالم",
+    "url": "https://kolnovel.com/series/%d9%85%d8%a7-%d9%86%d8%b3%d9%8a%d9%87-%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2026/09/Gemini_Generated_Image_38s0mf38s0mf38s0.jpg",
+    "type": "رواية",
+    "is_novel": true,
+    "rating": "",
+    "total_chapters": 0,
+    "genres": [
+      "إثارة",
+      "استراتيجي",
+      "بطل رمادي",
+      "خيال مظلم",
+      "دراما",
+      "سحر",
+      "سياسية",
+      "غموض",
+      "مؤامرة",
+      "ماساة",
+      "نفسي"
+    ],
+    "status": "مستمر"
+  },
+  {
+    "id": "لمسة الميكا",
+    "title": "لمسة الميكا",
+    "url": "https://kolnovel.com/series/%d9%84%d9%85%d8%b3%d8%a9-%d8%a7%d9%84%d9%85%d9%8a%d9%83%d8%a7",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2025/11/131_20251104112404.png",
+    "type": "رواية",
+    "is_novel": true,
+    "rating": "8.0",
+    "total_chapters": 0,
+    "genres": []
+  },
+  {
+    "id": "حُرقة",
+    "title": "حُرقة",
+    "url": "https://kolnovel.com/series/%d8%ad%d9%8f%d8%b1%d9%82%d8%a9",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2025/11/IMG_20251101_191840.webp",
+    "type": "رواية",
+    "is_novel": true,
+    "rating": "7.5",
+    "total_chapters": 0,
+    "genres": []
   },
   {
     "id": "%d9%84%d9%85%d8%b3%d8%a9-%d8%a7%d9%84%d9%85%d9%8a%d9%83%d8%a7",

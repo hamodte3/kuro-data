@@ -6,7 +6,7 @@
   "type": "مانهوا",
   "status": "مستمر",
   "last_update": "2026-09-28",
-  "rating": "7.0",
+  "rating": "4.0",
   "genres": [
     "عصرى",
     "رومانسى",
@@ -16,6 +16,9 @@
   ],
   "is_novel": false,
   "chapters": {
+    "https://azorafly.com/series/counterattack-marriage/chapter-2": {
+      "name": "2"
+    },
     "https://azorafly.com/series/counterattack-marriage/chapter-1": {
       "name": "1"
     }

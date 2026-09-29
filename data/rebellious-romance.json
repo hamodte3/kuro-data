@@ -9,12 +9,18 @@
   "rating": "9.7",
   "genres": [
     "رومانسي",
-    "دراما",
     "كوميدي",
+    "دراما",
     "خيال"
   ],
   "is_novel": false,
   "chapters": {
+    "https://azorafly.com/series/rebellious-romance/chapter-29": {
+      "name": "29"
+    },
+    "https://azorafly.com/series/rebellious-romance/chapter-28": {
+      "name": "28"
+    },
     "https://azorafly.com/series/rebellious-romance/chapter-27": {
       "name": "27"
     },

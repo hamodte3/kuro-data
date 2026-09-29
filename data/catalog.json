@@ -1,57 +1,5 @@
 [
   {
-    "id": "im-gonna-annihilate-this-land",
-    "title": "I'm Gonna Annihilate This Land",
-    "url": "https://azorafly.com/series/im-gonna-annihilate-this-land",
-    "cover_url": "https://storage.azorafly.com/2025/01/resource-.webp",
-    "type": "مانهوا",
-    "status": "مستمر",
-    "rating": "9.5",
-    "total_chapters": 95,
-    "genres": [
-      "أكشن",
-      "فنتازيا",
-      "مغامرات",
-      "كوميدي"
-    ]
-  },
-  {
-    "id": "reborn-as-the-enemy-prince",
-    "title": "Reborn as the Enemy Prince",
-    "url": "https://azorafly.com/series/reborn-as-the-enemy-prince",
-    "cover_url": "https://storage.azorafly.com/upload/series/featured/oGmL0DQZ16QInTPaeDKwFEK9ryegoy88/362a985e-9cb7-439d-b40a-f694954cc099.jpg",
-    "type": "مانهوا",
-    "status": "مستمر",
-    "rating": "9.5",
-    "total_chapters": 121,
-    "genres": [
-      "أكشن",
-      "دموي",
-      "سحر",
-      "إثارة",
-      "غموض",
-      "دراما",
-      "خيال"
-    ]
-  },
-  {
-    "id": "got-dropped-into-a-horror-story-still-gotta-work",
-    "title": "Got Dropped into a Horror Story, Still Gotta Work",
-    "url": "https://azorafly.com/series/got-dropped-into-a-horror-story-still-gotta-work",
-    "cover_url": "https://storage.azorafly.com/upload/series/featured/02408b52-85d5-445d-9e5c-f7dbcd583bf8/1f4366f2-5be4-42fa-b794-ecba05839168.jpeg",
-    "type": "مانهوا",
-    "status": "مستمر",
-    "rating": "9.5",
-    "total_chapters": 39,
-    "genres": [
-      "أكشن",
-      "اكشن",
-      "مغامرات",
-      "غموض",
-      "دراما"
-    ]
-  },
-  {
     "id": "doctor-reborn",
     "title": "Doctor Reborn",
     "url": "https://azorafly.com/series/doctor-reborn",
@@ -1873,22 +1821,6 @@
     ]
   },
   {
-    "id": "rebellious-romance",
-    "title": "Rebellious Romance",
-    "url": "https://azorafly.com/series/rebellious-romance",
-    "cover_url": "https://storage.azorafly.com/public/upload/series/featured/02408b52-85d5-445d-9e5c-f7dbcd583bf8/1014db52-7320-404a-8cb5-87ab362f31cc.png",
-    "type": "مانهوا",
-    "status": "مستمر",
-    "rating": "9.7",
-    "total_chapters": 27,
-    "genres": [
-      "رومانسي",
-      "دراما",
-      "كوميدي",
-      "خيال"
-    ]
-  },
-  {
     "id": "the-eldest-daughter's-flower-path",
     "title": "The Eldest Daughter’s Flower path",
     "url": "https://azorafly.com/series/the-eldest-daughter's-flower-path",
@@ -2982,8 +2914,8 @@
       "كوميدي",
       "شوجو",
       "فنتازيا",
-      "خيال",
       "دراما",
+      "خيال",
       "مغامرة"
     ]
   },
@@ -3010,10 +2942,10 @@
     "genres": [
       "تاريخي",
       "تجسيد",
-      "خيال",
       "كوميدي",
       "رومانسي",
-      "دراما"
+      "دراما",
+      "خيال"
     ]
   },
   {
@@ -3045,8 +2977,8 @@
     "genres": [
       "رعاية اطفال",
       "رومانسي",
-      "خيال",
-      "دراما"
+      "دراما",
+      "خيال"
     ]
   },
   {
@@ -3160,9 +3092,9 @@
     "genres": [
       "عودة بالزمن",
       "رومانسي",
-      "خيال",
       "كوميدي",
-      "دراما"
+      "دراما",
+      "خيال"
     ]
   },
   {
@@ -3180,8 +3112,8 @@
       "كوميدي",
       "تجسيد",
       "رومانسي",
-      "خيال",
-      "دراما"
+      "دراما",
+      "خيال"
     ]
   },
   {
@@ -3196,23 +3128,6 @@
     "genres": [
       "أكشن"
     ]
-  },
-  {
-    "id": "counterattack-marriage",
-    "title": "Counterattack Marriage",
-    "url": "https://azorafly.com/series/counterattack-marriage",
-    "cover_url": "https://storage.azorafly.com/upload/series/featured/oGmL0DQZ16QInTPaeDKwFEK9ryegoy88/e483c9c3-af44-4f3d-887b-b1ce33e1818c.webp",
-    "type": "مانهوا",
-    "total_chapters": 1,
-    "genres": [
-      "عصرى",
-      "رومانسى",
-      "اثاره",
-      "انتقام",
-      "دراما"
-    ],
-    "status": "مستمر",
-    "rating": "7.0"
   },
   {
     "id": "the-seventh-marriage-awaits",
@@ -3240,6 +3155,116 @@
     "genres": [
       "شونين",
       "أكشن"
+    ]
+  },
+  {
+    "id": "counterattack-marriage",
+    "title": "Counterattack Marriage",
+    "url": "https://azorafly.com/series/counterattack-marriage",
+    "cover_url": "https://storage.azorafly.com/upload/series/featured/oGmL0DQZ16QInTPaeDKwFEK9ryegoy88/e483c9c3-af44-4f3d-887b-b1ce33e1818c.webp",
+    "type": "مانهوا",
+    "total_chapters": 2,
+    "genres": [
+      "عصرى",
+      "رومانسى",
+      "اثاره",
+      "انتقام",
+      "دراما"
+    ],
+    "status": "مستمر",
+    "rating": "4.0"
+  },
+  {
+    "id": "unexpected-romance",
+    "title": "Unexpected romance",
+    "url": "https://azorafly.com/series/unexpected-romance",
+    "cover_url": "https://storage.azorafly.com/upload/series/featured/02408b52-85d5-445d-9e5c-f7dbcd583bf8/3e076fa2-e9c0-494e-8bcc-63d8b9852118.jpg",
+    "type": "مانهوا",
+    "status": "مستمر",
+    "rating": "10.0",
+    "total_chapters": 39,
+    "genres": []
+  },
+  {
+    "id": "rebellious-romance",
+    "title": "Rebellious Romance",
+    "url": "https://azorafly.com/series/rebellious-romance",
+    "cover_url": "https://storage.azorafly.com/public/upload/series/featured/02408b52-85d5-445d-9e5c-f7dbcd583bf8/1014db52-7320-404a-8cb5-87ab362f31cc.png",
+    "type": "مانهوا",
+    "status": "مستمر",
+    "rating": "9.7",
+    "total_chapters": 29,
+    "genres": [
+      "رومانسي",
+      "كوميدي",
+      "دراما",
+      "خيال"
+    ]
+  },
+  {
+    "id": "this-wasn't-in-my-adoption-plan!",
+    "title": "This Wasn’t in My Adoption Plan!",
+    "url": "https://azorafly.com/series/this-wasn't-in-my-adoption-plan!",
+    "cover_url": "https://storage.azorafly.com/upload/series/featured/02408b52-85d5-445d-9e5c-f7dbcd583bf8/44d3b16c-725a-43ed-9ffe-322dbc0c1319.jpg",
+    "type": "مانهوا",
+    "status": "مستمر",
+    "rating": "10.0",
+    "total_chapters": 20,
+    "genres": [
+      "رومانسى",
+      "دراما"
+    ]
+  },
+  {
+    "id": "im-gonna-annihilate-this-land",
+    "title": "I'm Gonna Annihilate This Land",
+    "url": "https://azorafly.com/series/im-gonna-annihilate-this-land",
+    "cover_url": "https://storage.azorafly.com/2025/01/resource-.webp",
+    "type": "مانهوا",
+    "status": "مستمر",
+    "rating": "9.5",
+    "total_chapters": 95,
+    "genres": [
+      "أكشن",
+      "فنتازيا",
+      "مغامرات",
+      "كوميدي"
+    ]
+  },
+  {
+    "id": "reborn-as-the-enemy-prince",
+    "title": "Reborn as the Enemy Prince",
+    "url": "https://azorafly.com/series/reborn-as-the-enemy-prince",
+    "cover_url": "https://storage.azorafly.com/upload/series/featured/oGmL0DQZ16QInTPaeDKwFEK9ryegoy88/362a985e-9cb7-439d-b40a-f694954cc099.jpg",
+    "type": "مانهوا",
+    "status": "مستمر",
+    "rating": "9.5",
+    "total_chapters": 121,
+    "genres": [
+      "أكشن",
+      "دموي",
+      "سحر",
+      "إثارة",
+      "غموض",
+      "دراما",
+      "خيال"
+    ]
+  },
+  {
+    "id": "got-dropped-into-a-horror-story-still-gotta-work",
+    "title": "Got Dropped into a Horror Story, Still Gotta Work",
+    "url": "https://azorafly.com/series/got-dropped-into-a-horror-story-still-gotta-work",
+    "cover_url": "https://storage.azorafly.com/upload/series/featured/02408b52-85d5-445d-9e5c-f7dbcd583bf8/1f4366f2-5be4-42fa-b794-ecba05839168.jpeg",
+    "type": "مانهوا",
+    "status": "مستمر",
+    "rating": "9.5",
+    "total_chapters": 39,
+    "genres": [
+      "أكشن",
+      "اكشن",
+      "مغامرات",
+      "غموض",
+      "دراما"
     ]
   },
   {
@@ -4358,21 +4383,6 @@
       "دراما",
       "مأساة",
       "رومانسي"
-    ]
-  },
-  {
-    "id": "this-wasn't-in-my-adoption-plan!",
-    "title": "This Wasn’t in My Adoption Plan!",
-    "url": "https://azorafly.com/series/this-wasn't-in-my-adoption-plan!",
-    "cover_url": "https://storage.azorafly.com/upload/series/featured/02408b52-85d5-445d-9e5c-f7dbcd583bf8/44d3b16c-725a-43ed-9ffe-322dbc0c1319.jpg",
-    "type": "مانهوا",
-    "status": "مستمر",
-    "rating": "9.5",
-    "total_chapters": 15,
-    "genres": [
-      "أكشن",
-      "رومانسى",
-      "دراما"
     ]
   },
   {
@@ -34567,19 +34577,6 @@
       "فانتازيا",
       "دراما",
       "رومانسي"
-    ]
-  },
-  {
-    "id": "unexpected-romance",
-    "title": "Unexpected romance",
-    "url": "https://azorafly.com/series/unexpected-romance",
-    "cover_url": "https://storage.azorafly.com/upload/series/featured/02408b52-85d5-445d-9e5c-f7dbcd583bf8/3e076fa2-e9c0-494e-8bcc-63d8b9852118.jpg",
-    "type": "مانهوا",
-    "status": "مستمر",
-    "rating": "9.5",
-    "total_chapters": 38,
-    "genres": [
-      "أكشن"
     ]
   },
   {
