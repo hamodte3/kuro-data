@@ -6,19 +6,28 @@
   "type": "رواية",
   "status": "مكتمل",
   "last_update": "2026-09-27",
-  "rating": "10.0",
+  "rating": "9.9",
   "genres": [
     "الحياة اليومية",
     "تسوندري",
-    "رومانسي",
-    "بدون تجسيد",
-    "دراما",
     "تاريخي",
+    "بدون تجسيد",
+    "كوميدي",
+    "رومانسي",
     "خيال",
-    "كوميدي"
+    "دراما"
   ],
   "is_novel": false,
   "chapters": {
+    "https://azorafly.com/series/your-arrogant-marriage-plan/chapter-107": {
+      "name": "107"
+    },
+    "https://azorafly.com/series/your-arrogant-marriage-plan/chapter-106": {
+      "name": "106"
+    },
+    "https://azorafly.com/series/your-arrogant-marriage-plan/chapter-105": {
+      "name": "105"
+    },
     "https://azorafly.com/series/your-arrogant-marriage-plan/chapter-104": {
       "name": "104"
     },

@@ -9,15 +9,18 @@
   "rating": "10.0",
   "genres": [
     "تاريخي",
-    "رومانسي",
-    "دراما",
-    "انتقام",
+    "خيال",
     "إثارة",
-    "تشويق",
-    "خيال"
+    "انتقام",
+    "دراما",
+    "رومانسي",
+    "تشويق"
   ],
   "is_novel": false,
   "chapters": {
+    "https://azorafly.com/series/lucinna/chapter-16": {
+      "name": "16"
+    },
     "https://azorafly.com/series/lucinna/chapter-15": {
       "name": "15"
     },

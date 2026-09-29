@@ -8,8 +8,8 @@
   "last_update": "2026-05-07",
   "rating": "10.0",
   "genres": [
-    "رومانسي",
-    "دراما"
+    "دراما",
+    "رومانسي"
   ],
   "is_novel": false,
   "chapters": {
@@ -39,6 +39,9 @@
     },
     "https://azorafly.com/series/four-choices/chapter-35": {
       "name": "35"
+    },
+    "https://azorafly.com/series/four-choices/chapter-34.5": {
+      "name": "34.5"
     },
     "https://azorafly.com/series/four-choices/chapter-34": {
       "name": "34"
