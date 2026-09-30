@@ -12,11 +12,11 @@
     "من أعداء لأحباء",
     "تبادل أرواح",
     "تاريخي",
-    "رومانسي",
-    "دراما",
     "سحر",
     "كوميدي",
-    "خيال"
+    "خيال",
+    "دراما",
+    "رومانسي"
   ],
   "is_novel": false,
   "chapters": {
@@ -319,6 +319,9 @@
     },
     "https://azorafly.com/series/villain-family's-strongest-butler/chapter-1": {
       "name": "1"
+    },
+    "https://azorafly.com/series/villain-family's-strongest-butler/chapter-0": {
+      "name": "0"
     }
   }
 }

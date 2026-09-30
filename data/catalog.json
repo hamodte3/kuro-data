@@ -1,22 +1,5 @@
 [
   {
-    "id": "black-man-ill-do-everything-for-you-except-marriage",
-    "title": "Black Man, I’ll Do Everything For You  Except Marriage!",
-    "url": "https://azorafly.com/series/black-man-ill-do-everything-for-you-except-marriage",
-    "cover_url": "https://storage.azorafly.com/upload/series/featured/2f0d0885-cadf-4561-bf7f-fef4221bfcec/06dd1fcf-2103-4aeb-8685-51a8bce3d96c.jpg",
-    "type": "مانهوا",
-    "status": "مستمر",
-    "rating": "9.5",
-    "total_chapters": 80,
-    "genres": [
-      "أكشن",
-      "فانتازيا",
-      "دراما",
-      "رومانسي",
-      "كوميدي"
-    ]
-  },
-  {
     "id": "im-stuck-on-a-remote-island-with-the-male-leads",
     "title": "I’m Stuck on a Remote Island With the Male Leads",
     "url": "https://azorafly.com/series/im-stuck-on-a-remote-island-with-the-male-leads",
@@ -758,26 +741,6 @@
     ]
   },
   {
-    "id": "my-husband-and-i-cannot-live-in-the-same-world",
-    "title": "My Husband and I Cannot Live in the Same World",
-    "url": "https://azorafly.com/series/my-husband-and-i-cannot-live-in-the-same-world",
-    "cover_url": "https://storage.azorafly.com/upload/series/featured/02408b52-85d5-445d-9e5c-f7dbcd583bf8/79d57a90-a7cc-4edf-a40d-96cb2c033c13.jpg",
-    "type": "مانهوا",
-    "status": "مستمر",
-    "rating": "8.1",
-    "total_chapters": 38,
-    "genres": [
-      "أصدقاء طفولة",
-      "قصة قصيرة",
-      "الحب الأول",
-      "سوء فهم",
-      "إثارة",
-      "مأساة",
-      "رومانسي",
-      "دراما"
-    ]
-  },
-  {
     "id": "revenge-of-the-iron-blooded-sword-hound",
     "title": "Revenge of the Iron-Blooded Sword Hound",
     "url": "https://azorafly.com/series/revenge-of-the-iron-blooded-sword-hound",
@@ -990,27 +953,6 @@
       "رومانسي",
       "دراما",
       "فانتازيا"
-    ]
-  },
-  {
-    "id": "villain-family's-strongest-butler",
-    "title": "Villain Family's Strongest Butler",
-    "url": "https://azorafly.com/series/villain-family's-strongest-butler",
-    "cover_url": "https://storage.azorafly.com/upload/series/featured/a5vVlSc5huft2AzUyK1VxgKh1ckCWLbZ/ee5843b1-80b2-47c3-80c4-c22f5c6180f4.jpg",
-    "type": "رواية",
-    "status": "مستمر",
-    "rating": "9.7",
-    "total_chapters": 100,
-    "genres": [
-      "فقدان ذاكرة",
-      "من أعداء لأحباء",
-      "تبادل أرواح",
-      "تاريخي",
-      "رومانسي",
-      "دراما",
-      "سحر",
-      "كوميدي",
-      "خيال"
     ]
   },
   {
@@ -3102,23 +3044,9 @@
     "rating": "9.8",
     "total_chapters": 76,
     "genres": [
+      "فانتازيا",
       "دراما",
-      "رومانسي",
-      "فانتازيا"
-    ]
-  },
-  {
-    "id": "milady%3A-memoirs-of-the-villainess",
-    "title": "Milady: Memoirs of the Villainess",
-    "url": "https://azorafly.com/series/milady%3A-memoirs-of-the-villainess",
-    "cover_url": "https://storage.azorafly.com/upload/series/featured/02408b52-85d5-445d-9e5c-f7dbcd583bf8/4f9566b4-763e-4d33-9ee6-24d5ebd23988.jpg",
-    "type": "مانهوا",
-    "status": "مستمر",
-    "rating": "8.4",
-    "total_chapters": 13,
-    "genres": [
-      "تجسد",
-      "رومانسى"
+      "رومانسي"
     ]
   },
   {
@@ -3181,8 +3109,8 @@
     "total_chapters": 30,
     "genres": [
       "رومانسي",
-      "دراما",
-      "فانتازيا"
+      "فانتازيا",
+      "دراما"
     ]
   },
   {
@@ -3195,6 +3123,92 @@
     "rating": "9.9",
     "total_chapters": 42,
     "genres": []
+  },
+  {
+    "id": "the-detective-agency-for-regretful-male-leads-is-now-open-for-business",
+    "title": "The Detective Agency For Regretful Male Leads Is Now Open For Business!",
+    "url": "https://azorafly.com/series/the-detective-agency-for-regretful-male-leads-is-now-open-for-business",
+    "cover_url": "https://storage.azorafly.com/2025/07/neuralpony.webp",
+    "type": "مانهوا",
+    "status": "مستمر",
+    "rating": "9.6",
+    "total_chapters": 63,
+    "genres": [
+      "دراما",
+      "رومانسي"
+    ]
+  },
+  {
+    "id": "villain-family's-strongest-butler",
+    "title": "Villain Family's Strongest Butler",
+    "url": "https://azorafly.com/series/villain-family's-strongest-butler",
+    "cover_url": "https://storage.azorafly.com/upload/series/featured/a5vVlSc5huft2AzUyK1VxgKh1ckCWLbZ/ee5843b1-80b2-47c3-80c4-c22f5c6180f4.jpg",
+    "type": "رواية",
+    "status": "مستمر",
+    "rating": "9.7",
+    "total_chapters": 101,
+    "genres": [
+      "فقدان ذاكرة",
+      "من أعداء لأحباء",
+      "تبادل أرواح",
+      "تاريخي",
+      "سحر",
+      "كوميدي",
+      "خيال",
+      "دراما",
+      "رومانسي"
+    ]
+  },
+  {
+    "id": "my-husband-and-i-cannot-live-in-the-same-world",
+    "title": "My Husband and I Cannot Live in the Same World",
+    "url": "https://azorafly.com/series/my-husband-and-i-cannot-live-in-the-same-world",
+    "cover_url": "https://storage.azorafly.com/upload/series/featured/02408b52-85d5-445d-9e5c-f7dbcd583bf8/79d57a90-a7cc-4edf-a40d-96cb2c033c13.jpg",
+    "type": "مانهوا",
+    "status": "مستمر",
+    "rating": "8.1",
+    "total_chapters": 40,
+    "genres": [
+      "أصدقاء طفولة",
+      "قصة قصيرة",
+      "الحب الأول",
+      "رومانسي",
+      "إثارة",
+      "سوء فهم",
+      "دراما",
+      "مأساة"
+    ]
+  },
+  {
+    "id": "milady%3A-memoirs-of-the-villainess",
+    "title": "Milady: Memoirs of the Villainess",
+    "url": "https://azorafly.com/series/milady%3A-memoirs-of-the-villainess",
+    "cover_url": "https://storage.azorafly.com/upload/series/featured/02408b52-85d5-445d-9e5c-f7dbcd583bf8/4f9566b4-763e-4d33-9ee6-24d5ebd23988.jpg",
+    "type": "مانهوا",
+    "status": "مستمر",
+    "rating": "8.4",
+    "total_chapters": 14,
+    "genres": [
+      "تجسد",
+      "رومانسى"
+    ]
+  },
+  {
+    "id": "black-man-ill-do-everything-for-you-except-marriage",
+    "title": "Black Man, I’ll Do Everything For You  Except Marriage!",
+    "url": "https://azorafly.com/series/black-man-ill-do-everything-for-you-except-marriage",
+    "cover_url": "https://storage.azorafly.com/upload/series/featured/2f0d0885-cadf-4561-bf7f-fef4221bfcec/06dd1fcf-2103-4aeb-8685-51a8bce3d96c.jpg",
+    "type": "مانهوا",
+    "status": "مستمر",
+    "rating": "9.5",
+    "total_chapters": 80,
+    "genres": [
+      "أكشن",
+      "فانتازيا",
+      "دراما",
+      "رومانسي",
+      "كوميدي"
+    ]
   },
   {
     "id": "why-i-help-the-villainous-duke",
@@ -5162,21 +5176,6 @@
     "total_chapters": 89,
     "genres": [
       "أكشن"
-    ]
-  },
-  {
-    "id": "the-detective-agency-for-regretful-male-leads-is-now-open-for-business",
-    "title": "The Detective Agency For Regretful Male Leads Is Now Open For Business!",
-    "url": "https://azorafly.com/series/the-detective-agency-for-regretful-male-leads-is-now-open-for-business",
-    "cover_url": "https://storage.azorafly.com/2025/07/neuralpony.webp",
-    "type": "مانهوا",
-    "status": "مستمر",
-    "rating": "9.5",
-    "total_chapters": 62,
-    "genres": [
-      "أكشن",
-      "دراما",
-      "رومانسي"
     ]
   },
   {
