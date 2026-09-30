@@ -1,5 +1,33 @@
 [
   {
+    "id": "سلسلة مونوغاتاري",
+    "title": "سلسلة مونوغاتاري",
+    "chapter": "الفصل 46",
+    "type": "رواية",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2026/09/mono.jpg"
+  },
+  {
+    "id": "شيريتوري",
+    "title": "شيريتوري",
+    "chapter": "الفصل 38",
+    "type": "رواية",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2024/11/IMG_20250108_203348_762.png"
+  },
+  {
+    "id": "kneel-your-grace",
+    "title": "Kneel, Your Grace!",
+    "chapter": "الفصل 42",
+    "type": "مانهوا",
+    "cover_url": "https://storage.azorafly.com/upload/series/featured/36b5afed-dad7-4e85-86ee-7629e1388021/29a60a66-4b15-4d83-a2b1-91a37372d4e9.png"
+  },
+  {
+    "id": "i-only-need-the-duke's-child1",
+    "title": "I Only Need the Duke's Child",
+    "chapter": "الفصل 30",
+    "type": "مانهوا",
+    "cover_url": "https://storage.azorafly.com/public/upload/series/featured/a5vVlSc5huft2AzUyK1VxgKh1ckCWLbZ/73f74805-6825-4bdf-9b58-de756a705173.png"
+  },
+  {
     "id": "shangri-la-frontier",
     "title": "Shangri-La Frontier",
     "chapter": "الفصل 154",
@@ -75,33 +103,5 @@
     "chapter": "الفصل 188",
     "type": "مانهوا",
     "cover_url": "https://storage.azorafly.com/public/upload/series/featured/cmjkgwd7t0000ld63nf9eiyz6/193c3fab-2b1d-454d-8d31-233a6a8ec275.png"
-  },
-  {
-    "id": "when-a-k-eldest-daughter-possesses-a-childcare-novel",
-    "title": "When a K-Eldest Daughter Possesses a Childcare Novel",
-    "chapter": "الفصل 63",
-    "type": "مانهوا",
-    "cover_url": "https://storage.azorafly.com/upload/series/featured/b00a38e1-1b46-478b-80f0-5d1a7feed33f/ce8dc2c8-ca40-4588-9c8a-199662811589.jpg"
-  },
-  {
-    "id": "your-arrogant-marriage-plan",
-    "title": "Your Arrogant Marriage Plan",
-    "chapter": "الفصل 108",
-    "type": "رواية",
-    "cover_url": "https://storage.azorafly.com/upload/series/featured/a5vVlSc5huft2AzUyK1VxgKh1ckCWLbZ/97c0d152-76d0-4993-8bec-7d399934db38.jpg"
-  },
-  {
-    "id": "the-veteran-swordmaster's-stream",
-    "title": "The Veteran Swordmaster’s Stream",
-    "chapter": "الفصل 38",
-    "type": "مانهوا",
-    "cover_url": "https://storage.azorafly.com/upload/series/featured/6cac1de1-87ae-4a81-9cd1-2abe99fd84d7/f8a1202b-82be-4739-904f-f8b779ba6a01.webp"
-  },
-  {
-    "id": "a-monodrama-for-carolyn-august",
-    "title": "A Monodrama for Carolyn August",
-    "chapter": "الفصل 44",
-    "type": "رواية",
-    "cover_url": "https://storage.azorafly.com/upload/series/featured/a5vVlSc5huft2AzUyK1VxgKh1ckCWLbZ/ce5d5c38-91c4-418c-9262-b2f677cca55c.jpg"
   }
 ]
