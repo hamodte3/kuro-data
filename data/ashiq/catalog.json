@@ -1022,23 +1022,6 @@
     ]
   },
   {
-    "id": "kengan-omega",
-    "title": "Kengan Omega",
-    "url": "https://3asq.online/manga/kengan-omega",
-    "cover_url": "https://3asq.online/wp-content/uploads/2025/07/بدون-اسم203-175x238.png",
-    "type": "مانغا",
-    "rating": "4.3",
-    "status": "مستمر",
-    "total_chapters": 376,
-    "genres": [
-      "أكشن",
-      "دراما",
-      "رياضة",
-      "شونين",
-      "فنون قتالية"
-    ]
-  },
-  {
     "id": "blades-of-the-guardians",
     "title": "Blades of the Guardians",
     "url": "https://3asq.online/manga/blades-of-the-guardians",
@@ -1211,6 +1194,23 @@
       "نفسي"
     ],
     "status": "مكتمل"
+  },
+  {
+    "id": "kengan-omega",
+    "title": "Kengan Omega",
+    "url": "https://3asq.online/manga/kengan-omega",
+    "cover_url": "https://3asq.online/wp-content/uploads/2025/07/بدون-اسم203-175x238.png",
+    "type": "مانغا",
+    "rating": "4.3",
+    "status": "مستمر",
+    "total_chapters": 377,
+    "genres": [
+      "أكشن",
+      "دراما",
+      "رياضة",
+      "شونين",
+      "فنون قتالية"
+    ]
   },
   {
     "id": "jujutsu-kaisen-modulo",

@@ -1,0 +1,28 @@
+{
+  "id": "press-play-sami",
+  "title": "Press Play, Sami",
+  "cover_url": "https://storage.azorafly.com/2024/08/DM_20240829214042_001.jpg",
+  "description": "لا يوجد وصف.",
+  "type": "مانهوا",
+  "status": "مستمر",
+  "last_update": "2026-10-01",
+  "rating": "10.0",
+  "genres": [
+    "ويبتون",
+    "مانهوا",
+    "الحياة اليومية",
+    "رومانسي"
+  ],
+  "is_novel": false,
+  "chapters": {
+    "https://azorafly.com/series/press-play-sami/chapter-3": {
+      "name": "3"
+    },
+    "https://azorafly.com/series/press-play-sami/chapter-2": {
+      "name": "2"
+    },
+    "https://azorafly.com/series/press-play-sami/chapter-1": {
+      "name": "1"
+    }
+  }
+}

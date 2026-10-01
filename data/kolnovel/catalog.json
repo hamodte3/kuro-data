@@ -961,7 +961,7 @@
     "type": "رواية",
     "is_novel": true,
     "rating": "",
-    "total_chapters": 0,
+    "total_chapters": 1,
     "genres": [
       "إثارة",
       "استراتيجي",
@@ -1052,42 +1052,6 @@
     "status": "مستمر"
   },
   {
-    "id": "امبراطور الخيمياء في العالم السماوي",
-    "title": "امبراطور الخيمياء في العالم السماوي",
-    "url": "https://kolnovel.com/series/elchamy-ambarar-af-tha-divina-dea",
-    "cover_url": "https://kolnovel.com/wp-content/uploads/2020/10/GIF-260509_034955.gif",
-    "type": "رواية",
-    "is_novel": true,
-    "rating": "",
-    "total_chapters": 3684,
-    "genres": [
-      "حريم",
-      "فنون القتال",
-      "كوميدي",
-      "ما بعد الكارثة",
-      "مغامرة"
-    ],
-    "status": "مستمر"
-  },
-  {
-    "id": "ملك سمات الفنون القتالية",
-    "title": "ملك سمات الفنون القتالية",
-    "url": "https://kolnovel.com/series/%d9%85%d9%84%d9%83-%d8%b3%d9%85%d8%a7%d8%aa-%d8%a7%d9%84%d9%81%d9%86%d9%88%d9%86-%d8%a7%d9%84%d9%82%d8%aa%d8%a7%d9%84%d9%8a%d8%a9",
-    "cover_url": "https://kolnovel.com/wp-content/uploads/2026/01/GIF-260910_004008.gif",
-    "type": "رواية",
-    "is_novel": true,
-    "rating": "5.0",
-    "total_chapters": 1472,
-    "genres": [
-      "بطل وقح",
-      "خيال",
-      "شيانشيا",
-      "فنون قتال",
-      "مغامرة"
-    ],
-    "status": "مستمر"
-  },
-  {
     "id": "المُتَحَرِّر",
     "title": "المُتَحَرِّر",
     "url": "https://kolnovel.com/series/%d8%a7%d9%84%d9%85%d9%8f%d8%aa%d9%8e%d8%ad%d9%8e%d8%b1%d9%90%d9%91%d8%b1",
@@ -1101,27 +1065,6 @@
       "خيال مظلم",
       "غموض",
       "فانتازيا"
-    ],
-    "status": "مستمر"
-  },
-  {
-    "id": "اتضح أنني من عشيرة الأشرار!",
-    "title": "اتضح أنني من عشيرة الأشرار!",
-    "url": "https://kolnovel.com/series/%d8%a7%d8%aa%d8%b6%d8%ad-%d8%a3%d9%86%d9%86%d9%8a-%d9%85%d9%86-%d8%b9%d8%b4%d9%8a%d8%b1%d8%a9-%d8%a7%d9%84%d8%a3%d8%b4%d8%b1%d8%a7%d8%b1",
-    "cover_url": "https://kolnovel.com/wp-content/uploads/2026/05/GIF-260606_171205.gif",
-    "type": "رواية",
-    "is_novel": true,
-    "rating": "4.5",
-    "total_chapters": 320,
-    "genres": [
-      "إنتقام",
-      "بطل شرير",
-      "بناء مملكة",
-      "تدريب",
-      "حروب",
-      "دموي",
-      "مكر و خداع",
-      "نظام"
     ],
     "status": "مستمر"
   },
@@ -1316,6 +1259,63 @@
       "غموض",
       "فنون قتال",
       "مغامرة"
+    ],
+    "status": "مستمر"
+  },
+  {
+    "id": "امبراطور الخيمياء في العالم السماوي",
+    "title": "امبراطور الخيمياء في العالم السماوي",
+    "url": "https://kolnovel.com/series/elchamy-ambarar-af-tha-divina-dea",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2020/10/GIF-260509_034955.gif",
+    "type": "رواية",
+    "is_novel": true,
+    "rating": "",
+    "total_chapters": 3687,
+    "genres": [
+      "حريم",
+      "فنون القتال",
+      "كوميدي",
+      "ما بعد الكارثة",
+      "مغامرة"
+    ],
+    "status": "مستمر"
+  },
+  {
+    "id": "ملك سمات الفنون القتالية",
+    "title": "ملك سمات الفنون القتالية",
+    "url": "https://kolnovel.com/series/%d9%85%d9%84%d9%83-%d8%b3%d9%85%d8%a7%d8%aa-%d8%a7%d9%84%d9%81%d9%86%d9%88%d9%86-%d8%a7%d9%84%d9%82%d8%aa%d8%a7%d9%84%d9%8a%d8%a9",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2026/01/GIF-260910_004008.gif",
+    "type": "رواية",
+    "is_novel": true,
+    "rating": "5.0",
+    "total_chapters": 1475,
+    "genres": [
+      "بطل وقح",
+      "خيال",
+      "شيانشيا",
+      "فنون قتال",
+      "مغامرة"
+    ],
+    "status": "مستمر"
+  },
+  {
+    "id": "اتضح أنني من عشيرة الأشرار!",
+    "title": "اتضح أنني من عشيرة الأشرار!",
+    "url": "https://kolnovel.com/series/%d8%a7%d8%aa%d8%b6%d8%ad-%d8%a3%d9%86%d9%86%d9%8a-%d9%85%d9%86-%d8%b9%d8%b4%d9%8a%d8%b1%d8%a9-%d8%a7%d9%84%d8%a3%d8%b4%d8%b1%d8%a7%d8%b1",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2026/05/GIF-260606_171205.gif",
+    "type": "رواية",
+    "is_novel": true,
+    "rating": "4.5",
+    "total_chapters": 323,
+    "genres": [
+      "إنتقام",
+      "بطل شرير",
+      "بناء مملكة",
+      "تدريب",
+      "حروب",
+      "دموي",
+      "مكر و خداع",
+      "نظام"
     ],
     "status": "مستمر"
   },
