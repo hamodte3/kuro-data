@@ -9,12 +9,15 @@
   "rating": "8.4",
   "genres": [
     "جوسي",
-    "فنتازيا",
     "رومانسي",
+    "فنتازيا",
     "دراما"
   ],
   "is_novel": false,
   "chapters": {
+    "https://azorafly.com/series/the-villainess-directs-a-rofan/chapter-45": {
+      "name": "45"
+    },
     "https://azorafly.com/series/the-villainess-directs-a-rofan/chapter-44": {
       "name": "44"
     },

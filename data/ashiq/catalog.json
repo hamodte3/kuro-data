@@ -1178,24 +1178,6 @@
     ]
   },
   {
-    "id": "haha-to-iu-jubaku-musume-to-iu-rougoku",
-    "title": "Haha to Iu Jubaku Musume to Iu Rougoku",
-    "url": "https://3asq.online/manga/haha-to-iu-jubaku-musume-to-iu-rougoku",
-    "cover_url": "https://3asq.online/wp-content/uploads/2026/09/Picsart_26-09-29_14-57-52-000-175x238.jpg",
-    "type": "مانغا",
-    "rating": "5.0",
-    "total_chapters": 0,
-    "genres": [
-      "جريمة",
-      "دراما",
-      "سينين",
-      "غموض",
-      "مأساة",
-      "نفسي"
-    ],
-    "status": "مكتمل"
-  },
-  {
     "id": "kengan-omega",
     "title": "Kengan Omega",
     "url": "https://3asq.online/manga/kengan-omega",
@@ -1211,6 +1193,24 @@
       "شونين",
       "فنون قتالية"
     ]
+  },
+  {
+    "id": "haha-to-iu-jubaku-musume-to-iu-rougoku",
+    "title": "Haha to Iu Jubaku Musume to Iu Rougoku",
+    "url": "https://3asq.online/manga/haha-to-iu-jubaku-musume-to-iu-rougoku",
+    "cover_url": "https://3asq.online/wp-content/uploads/2026/09/Picsart_26-09-29_14-57-52-000-175x238.jpg",
+    "type": "مانغا",
+    "rating": "5.0",
+    "total_chapters": 1,
+    "genres": [
+      "جريمة",
+      "دراما",
+      "سينين",
+      "غموض",
+      "مأساة",
+      "نفسي"
+    ],
+    "status": "مكتمل"
   },
   {
     "id": "jujutsu-kaisen-modulo",

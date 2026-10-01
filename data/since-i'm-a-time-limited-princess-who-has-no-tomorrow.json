@@ -10,11 +10,14 @@
   "genres": [
     "تارخي",
     "رومانسي",
-    "دراما",
-    "فانتازيا"
+    "فانتازيا",
+    "دراما"
   ],
   "is_novel": false,
   "chapters": {
+    "https://azorafly.com/series/since-i'm-a-time-limited-princess-who-has-no-tomorrow/chapter-35": {
+      "name": "35"
+    },
     "https://azorafly.com/series/since-i'm-a-time-limited-princess-who-has-no-tomorrow/chapter-34": {
       "name": "34"
     },

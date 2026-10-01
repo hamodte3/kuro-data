@@ -6,7 +6,7 @@
   "type": "مانغا",
   "status": "مكتمل",
   "rating": "5.0",
-  "favorites": "",
+  "favorites": "1",
   "genres": [
     "جريمة",
     "دراما",
@@ -16,5 +16,9 @@
     "نفسي"
   ],
   "is_novel": false,
-  "chapters": {}
+  "chapters": {
+    "https://3asq.online/manga/haha-to-iu-jubaku-musume-to-iu-rougoku/1": {
+      "name": "1"
+    }
+  }
 }
