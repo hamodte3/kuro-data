@@ -1,83 +1,5 @@
 [
   {
-    "id": "goblin-corporation",
-    "title": "Goblin Corporation",
-    "url": "https://azorafly.com/series/goblin-corporation",
-    "cover_url": "https://storage.azorafly.com/upload/series/featured/6cac1de1-87ae-4a81-9cd1-2abe99fd84d7/29635484-e96c-44cf-bc64-36d72de17236.png",
-    "type": "مانهوا",
-    "status": "مستمر",
-    "rating": "9.5",
-    "total_chapters": 14,
-    "genres": [
-      "أكشن",
-      "اكشن",
-      "دراما"
-    ]
-  },
-  {
-    "id": "the-return-of-the-crazy-demon-s",
-    "title": "The Return of the Crazy Demon",
-    "url": "https://azorafly.com/series/the-return-of-the-crazy-demon-s",
-    "cover_url": "https://storage.azorafly.com/2021/07/resim_2021-07-22_171921.png",
-    "type": "مانهوا",
-    "status": "مستمر",
-    "rating": "9.5",
-    "total_chapters": 216,
-    "genres": [
-      "أكشن",
-      "اسبوعي"
-    ]
-  },
-  {
-    "id": "to-those-of-you-for-whom-even-regret-is-a-luxury",
-    "title": "To Those Of You For Whom Even Regret Is A Luxury",
-    "url": "https://azorafly.com/series/to-those-of-you-for-whom-even-regret-is-a-luxury",
-    "cover_url": "https://storage.azorafly.com/2024/07/65021.webp",
-    "type": "مانهوا",
-    "status": "مستمر",
-    "rating": "9.5",
-    "total_chapters": 14,
-    "genres": [
-      "أكشن",
-      "فنتازيا",
-      "رومانسي"
-    ]
-  },
-  {
-    "id": "the-margrave's-10th-class-scoundrel",
-    "title": "The Margrave’s 10th-Class Scoundrel",
-    "url": "https://azorafly.com/series/the-margrave's-10th-class-scoundrel",
-    "cover_url": "https://storage.azorafly.com/public/upload/series/featured/6cac1de1-87ae-4a81-9cd1-2abe99fd84d7/46349e0f-c5af-4a59-919f-c0c596e704e1.jpg",
-    "type": "مانهوا",
-    "status": "مستمر",
-    "rating": "9.5",
-    "total_chapters": 29,
-    "genres": [
-      "أكشن",
-      "اكشن",
-      "مانهوا"
-    ]
-  },
-  {
-    "id": "why-is-my-husband-the-hidden-villain",
-    "title": "Why is my husband the hidden villain!",
-    "url": "https://azorafly.com/series/why-is-my-husband-the-hidden-villain",
-    "cover_url": "https://storage.azorafly.com/upload/series/featured/a5vVlSc5huft2AzUyK1VxgKh1ckCWLbZ/05526185-2e37-4097-bf3a-f78d03f6a489.jpg",
-    "type": "رواية",
-    "status": "مستمر",
-    "rating": "10.0",
-    "total_chapters": 2,
-    "genres": [
-      "علاقة تعاقدية",
-      "كوميدي",
-      "رعاية أطفال",
-      "تجسيد",
-      "رومانسي",
-      "دراما",
-      "خيال"
-    ]
-  },
-  {
     "id": "revenge-of-the-iron-blooded-sword-hound",
     "title": "Revenge of the Iron-Blooded Sword Hound",
     "url": "https://azorafly.com/series/revenge-of-the-iron-blooded-sword-hound",
@@ -155,21 +77,6 @@
       "دراما",
       "خيال",
       "كوميدي"
-    ]
-  },
-  {
-    "id": "embarrassing-game",
-    "title": "Embarrassing game",
-    "url": "https://azorafly.com/series/embarrassing-game",
-    "cover_url": "https://storage.azorafly.com/upload/series/featured/02408b52-85d5-445d-9e5c-f7dbcd583bf8/fb3c9afe-6674-4259-bd2d-970d402fd27e.jpg",
-    "type": "مانهوا",
-    "status": "مستمر",
-    "rating": "10.0",
-    "total_chapters": 40,
-    "genres": [
-      "اثارة",
-      "حياة مدرسية",
-      "غموض"
     ]
   },
   {
@@ -2672,6 +2579,25 @@
     ]
   },
   {
+    "id": "my-favourite-author-has-been-imprisoned-in-the-marquis's-estate",
+    "title": "My Favourite Author Has Been Imprisoned in the Marquis’s Estate",
+    "url": "https://azorafly.com/series/my-favourite-author-has-been-imprisoned-in-the-marquis's-estate",
+    "cover_url": "https://storage.azorafly.com/upload/series/featured/a5vVlSc5huft2AzUyK1VxgKh1ckCWLbZ/5f29638a-dca6-40e4-8d6e-6155eda34af6.jpg",
+    "type": "رواية",
+    "status": "مكتمل",
+    "rating": "9.8",
+    "total_chapters": 129,
+    "genres": [
+      "خيالي",
+      "تاريخي",
+      "كوميدي",
+      "تجسيد",
+      "رومانسي",
+      "دراما",
+      "خيال"
+    ]
+  },
+  {
     "id": "i-became-the-tyrant's-time-limited-wife",
     "title": "I Became the Tyrant’s Time-Limited Wife",
     "url": "https://azorafly.com/series/i-became-the-tyrant's-time-limited-wife",
@@ -2732,20 +2658,6 @@
       "رومانسي",
       "خيال"
     ]
-  },
-  {
-    "id": "daddy-daddy1",
-    "title": "Daddy, Daddy",
-    "url": "https://azorafly.com/series/daddy-daddy1",
-    "cover_url": "https://storage.azorafly.com/upload/series/featured/02408b52-85d5-445d-9e5c-f7dbcd583bf8/b5c3a339-a5ff-457c-b935-2cc214e9627f.png",
-    "type": "مانهوا",
-    "total_chapters": 1,
-    "genres": [
-      "رومانسى",
-      "دراما"
-    ],
-    "status": "مستمر",
-    "rating": "10.0"
   },
   {
     "id": "the-supreme-poison-demon-becomes-a-pharma-chairman",
@@ -2842,6 +2754,21 @@
     ]
   },
   {
+    "id": "the-investment-method-of-a-wall-street-genius-on-borrowed-time",
+    "title": "The Investment Method of a Wall Street Genius on Borrowed Time",
+    "url": "https://azorafly.com/series/the-investment-method-of-a-wall-street-genius-on-borrowed-time",
+    "cover_url": "https://storage.azorafly.com/upload/series/featured/6cac1de1-87ae-4a81-9cd1-2abe99fd84d7/e4b8baba-dfb5-4d6c-a981-3682a758ad89.png",
+    "type": "مانهوا",
+    "status": "مستمر",
+    "rating": "10.0",
+    "total_chapters": 12,
+    "genres": [
+      "مال",
+      "مكتبي",
+      "دراما"
+    ]
+  },
+  {
     "id": "return-of-the-scandal-maker",
     "title": "Return of The Scandal Maker",
     "url": "https://azorafly.com/series/return-of-the-scandal-maker",
@@ -2899,6 +2826,25 @@
     "total_chapters": 6,
     "genres": [
       "اكشن"
+    ]
+  },
+  {
+    "id": "once-a-day-a-wish-comes-true",
+    "title": "Once a day, a wish comes true",
+    "url": "https://azorafly.com/series/once-a-day-a-wish-comes-true",
+    "cover_url": "https://storage.azorafly.com/upload/series/featured/a5vVlSc5huft2AzUyK1VxgKh1ckCWLbZ/b5dad099-8250-49f6-82da-059115abb7e7.jpg",
+    "type": "رواية",
+    "status": "مستمر",
+    "rating": "10.0",
+    "total_chapters": 63,
+    "genres": [
+      "هوس",
+      "عصري",
+      "مدرسي",
+      "بدون تجسيد",
+      "رومانسي",
+      "دراما",
+      "خيال"
     ]
   },
   {
@@ -3142,6 +3088,116 @@
     ]
   },
   {
+    "id": "daddy-daddy1",
+    "title": "Daddy, Daddy",
+    "url": "https://azorafly.com/series/daddy-daddy1",
+    "cover_url": "https://storage.azorafly.com/upload/series/featured/02408b52-85d5-445d-9e5c-f7dbcd583bf8/b5c3a339-a5ff-457c-b935-2cc214e9627f.png",
+    "type": "مانهوا",
+    "total_chapters": 4,
+    "genres": [
+      "رومانسى",
+      "دراما"
+    ],
+    "status": "مستمر",
+    "rating": "9.6"
+  },
+  {
+    "id": "world-destruction-war",
+    "title": "World Destruction War",
+    "url": "https://azorafly.com/series/world-destruction-war",
+    "cover_url": "https://storage.azorafly.com/upload/series/featured/6cac1de1-87ae-4a81-9cd1-2abe99fd84d7/5b6fbb47-34bb-4e19-bcea-1b0e860edf21.png",
+    "type": "مانهوا",
+    "status": "مستمر",
+    "rating": "8.4",
+    "total_chapters": 10,
+    "genres": [
+      "اكشن",
+      "خيالي",
+      "فنتازيا",
+      "دراما"
+    ]
+  },
+  {
+    "id": "i-bought-the-villains-with-money",
+    "title": "I Bought the Villains With Money",
+    "url": "https://azorafly.com/series/i-bought-the-villains-with-money",
+    "cover_url": "https://storage.azorafly.com/upload/series/featured/oGmL0DQZ16QInTPaeDKwFEK9ryegoy88/7f0b297e-58ee-4d90-8b19-fcd64a399611.jpg",
+    "type": "مانهوا",
+    "total_chapters": 20,
+    "genres": [
+      "خيالي",
+      "رومانسى",
+      "دراما شوجو"
+    ],
+    "status": "مستمر",
+    "rating": "10.0"
+  },
+  {
+    "id": "sub-male-lead-you-said-it-was-a-contract-marriage",
+    "title": "Sub-Male Lead, You Said It Was A Contract Marriage?",
+    "url": "https://azorafly.com/series/sub-male-lead-you-said-it-was-a-contract-marriage",
+    "cover_url": "https://storage.azorafly.com/upload/series/featured/02408b52-85d5-445d-9e5c-f7dbcd583bf8/fab20acc-84c1-4ac5-ab51-573a937f410a.jpg",
+    "type": "مانهوا",
+    "status": "مستمر",
+    "rating": "9.0",
+    "total_chapters": 17,
+    "genres": [
+      "رومانسي",
+      "تجسيد",
+      "خيال"
+    ]
+  },
+  {
+    "id": "the-crown-prince-that-sells-medicine",
+    "title": "The Crown Prince That Sells Medicine",
+    "url": "https://azorafly.com/series/the-crown-prince-that-sells-medicine",
+    "cover_url": "https://storage.azorafly.com/2023/12/12_i__690x1000.jpg",
+    "type": "مانهوا",
+    "status": "مستمر",
+    "rating": "9.3",
+    "total_chapters": 128,
+    "genres": [
+      "زمكاني",
+      "طبي",
+      "أكشن",
+      "إثارة",
+      "كوميدي",
+      "مغامرات"
+    ]
+  },
+  {
+    "id": "i-accidentally-brought-my-dead-husband-back-to-life",
+    "title": "I Accidentally Brought My Dead Husband Back to Life",
+    "url": "https://azorafly.com/series/i-accidentally-brought-my-dead-husband-back-to-life",
+    "cover_url": "https://storage.azorafly.com/upload/series/featured/oGmL0DQZ16QInTPaeDKwFEK9ryegoy88/4c7b57c3-7ad8-4547-93ef-f08d9008cfe3.webp",
+    "type": "مانهوا",
+    "status": "مستمر",
+    "rating": "9.0",
+    "total_chapters": 22,
+    "genres": [
+      "تجسد",
+      "رومانسى",
+      "كوميدا",
+      "خيالى",
+      "دراما"
+    ]
+  },
+  {
+    "id": "embarrassing-game",
+    "title": "Embarrassing game",
+    "url": "https://azorafly.com/series/embarrassing-game",
+    "cover_url": "https://storage.azorafly.com/upload/series/featured/02408b52-85d5-445d-9e5c-f7dbcd583bf8/fb3c9afe-6674-4259-bd2d-970d402fd27e.jpg",
+    "type": "مانهوا",
+    "status": "مستمر",
+    "rating": "10.0",
+    "total_chapters": 41,
+    "genres": [
+      "اثارة",
+      "حياة مدرسية",
+      "غموض"
+    ]
+  },
+  {
     "id": "i-am-the-precious-daughter-of-the-greatest-villain-in-the-fantasy-world",
     "title": "I Am the Precious Daughter of the Greatest Villain in the Fantasy World.",
     "url": "https://azorafly.com/series/i-am-the-precious-daughter-of-the-greatest-villain-in-the-fantasy-world",
@@ -3149,59 +3205,84 @@
     "type": "مانهوا",
     "status": "مستمر",
     "rating": "9.8",
-    "total_chapters": 137,
+    "total_chapters": 147,
     "genres": [
       "اسبوعي"
     ]
   },
   {
-    "id": "my-favourite-author-has-been-imprisoned-in-the-marquis's-estate",
-    "title": "My Favourite Author Has Been Imprisoned in the Marquis’s Estate",
-    "url": "https://azorafly.com/series/my-favourite-author-has-been-imprisoned-in-the-marquis's-estate",
-    "cover_url": "https://storage.azorafly.com/upload/series/featured/a5vVlSc5huft2AzUyK1VxgKh1ckCWLbZ/5f29638a-dca6-40e4-8d6e-6155eda34af6.jpg",
-    "type": "رواية",
-    "status": "مكتمل",
-    "rating": "9.8",
-    "total_chapters": 129,
-    "genres": [
-      "خيالي",
-      "تاريخي",
-      "كوميدي",
-      "تجسيد",
-      "رومانسي",
-      "دراما",
-      "خيال"
-    ]
-  },
-  {
-    "id": "the-investment-method-of-a-wall-street-genius-on-borrowed-time",
-    "title": "The Investment Method of a Wall Street Genius on Borrowed Time",
-    "url": "https://azorafly.com/series/the-investment-method-of-a-wall-street-genius-on-borrowed-time",
-    "cover_url": "https://storage.azorafly.com/upload/series/featured/6cac1de1-87ae-4a81-9cd1-2abe99fd84d7/e4b8baba-dfb5-4d6c-a981-3682a758ad89.png",
+    "id": "goblin-corporation",
+    "title": "Goblin Corporation",
+    "url": "https://azorafly.com/series/goblin-corporation",
+    "cover_url": "https://storage.azorafly.com/upload/series/featured/6cac1de1-87ae-4a81-9cd1-2abe99fd84d7/29635484-e96c-44cf-bc64-36d72de17236.png",
     "type": "مانهوا",
     "status": "مستمر",
-    "rating": "10.0",
-    "total_chapters": 12,
+    "rating": "9.5",
+    "total_chapters": 14,
     "genres": [
-      "مال",
-      "مكتبي",
+      "أكشن",
+      "اكشن",
       "دراما"
     ]
   },
   {
-    "id": "once-a-day-a-wish-comes-true",
-    "title": "Once a day, a wish comes true",
-    "url": "https://azorafly.com/series/once-a-day-a-wish-comes-true",
-    "cover_url": "https://storage.azorafly.com/upload/series/featured/a5vVlSc5huft2AzUyK1VxgKh1ckCWLbZ/b5dad099-8250-49f6-82da-059115abb7e7.jpg",
+    "id": "the-return-of-the-crazy-demon-s",
+    "title": "The Return of the Crazy Demon",
+    "url": "https://azorafly.com/series/the-return-of-the-crazy-demon-s",
+    "cover_url": "https://storage.azorafly.com/2021/07/resim_2021-07-22_171921.png",
+    "type": "مانهوا",
+    "status": "مستمر",
+    "rating": "9.5",
+    "total_chapters": 216,
+    "genres": [
+      "أكشن",
+      "اسبوعي"
+    ]
+  },
+  {
+    "id": "to-those-of-you-for-whom-even-regret-is-a-luxury",
+    "title": "To Those Of You For Whom Even Regret Is A Luxury",
+    "url": "https://azorafly.com/series/to-those-of-you-for-whom-even-regret-is-a-luxury",
+    "cover_url": "https://storage.azorafly.com/2024/07/65021.webp",
+    "type": "مانهوا",
+    "status": "مستمر",
+    "rating": "9.5",
+    "total_chapters": 14,
+    "genres": [
+      "أكشن",
+      "فنتازيا",
+      "رومانسي"
+    ]
+  },
+  {
+    "id": "the-margrave's-10th-class-scoundrel",
+    "title": "The Margrave’s 10th-Class Scoundrel",
+    "url": "https://azorafly.com/series/the-margrave's-10th-class-scoundrel",
+    "cover_url": "https://storage.azorafly.com/public/upload/series/featured/6cac1de1-87ae-4a81-9cd1-2abe99fd84d7/46349e0f-c5af-4a59-919f-c0c596e704e1.jpg",
+    "type": "مانهوا",
+    "status": "مستمر",
+    "rating": "9.5",
+    "total_chapters": 29,
+    "genres": [
+      "أكشن",
+      "اكشن",
+      "مانهوا"
+    ]
+  },
+  {
+    "id": "why-is-my-husband-the-hidden-villain",
+    "title": "Why is my husband the hidden villain!",
+    "url": "https://azorafly.com/series/why-is-my-husband-the-hidden-villain",
+    "cover_url": "https://storage.azorafly.com/upload/series/featured/a5vVlSc5huft2AzUyK1VxgKh1ckCWLbZ/05526185-2e37-4097-bf3a-f78d03f6a489.jpg",
     "type": "رواية",
     "status": "مستمر",
     "rating": "10.0",
-    "total_chapters": 63,
+    "total_chapters": 2,
     "genres": [
-      "هوس",
-      "عصري",
-      "مدرسي",
-      "بدون تجسيد",
+      "علاقة تعاقدية",
+      "كوميدي",
+      "رعاية أطفال",
+      "تجسيد",
       "رومانسي",
       "دراما",
       "خيال"
@@ -5157,24 +5238,6 @@
       "ايسكاي",
       "فانتازيا",
       "رومانسي"
-    ]
-  },
-  {
-    "id": "i-accidentally-brought-my-dead-husband-back-to-life",
-    "title": "I Accidentally Brought My Dead Husband Back to Life",
-    "url": "https://azorafly.com/series/i-accidentally-brought-my-dead-husband-back-to-life",
-    "cover_url": "https://storage.azorafly.com/upload/series/featured/oGmL0DQZ16QInTPaeDKwFEK9ryegoy88/4c7b57c3-7ad8-4547-93ef-f08d9008cfe3.webp",
-    "type": "مانهوا",
-    "status": "مستمر",
-    "rating": "9.5",
-    "total_chapters": 21,
-    "genres": [
-      "أكشن",
-      "تجسد",
-      "رومانسى",
-      "كوميدا",
-      "خيالى",
-      "دراما"
     ]
   },
   {
@@ -33306,22 +33369,6 @@
     ]
   },
   {
-    "id": "sub-male-lead-you-said-it-was-a-contract-marriage",
-    "title": "Sub-Male Lead, You Said It Was A Contract Marriage?",
-    "url": "https://azorafly.com/series/sub-male-lead-you-said-it-was-a-contract-marriage",
-    "cover_url": "https://storage.azorafly.com/upload/series/featured/02408b52-85d5-445d-9e5c-f7dbcd583bf8/fab20acc-84c1-4ac5-ab51-573a937f410a.jpg",
-    "type": "مانهوا",
-    "status": "مستمر",
-    "rating": "9.5",
-    "total_chapters": 17,
-    "genres": [
-      "أكشن",
-      "رومانسي",
-      "خيال",
-      "تجسيد"
-    ]
-  },
-  {
     "id": "to-my-sweetheart",
     "title": "To My Sweetheart",
     "url": "https://azorafly.com/series/to-my-sweetheart",
@@ -35538,24 +35585,6 @@
     ]
   },
   {
-    "id": "the-crown-prince-that-sells-medicine",
-    "title": "The Crown Prince That Sells Medicine",
-    "url": "https://azorafly.com/series/the-crown-prince-that-sells-medicine",
-    "cover_url": "https://storage.azorafly.com/2023/12/12_i__690x1000.jpg",
-    "type": "مانهوا",
-    "status": "مستمر",
-    "rating": "9.5",
-    "total_chapters": 127,
-    "genres": [
-      "أكشن",
-      "زمكاني",
-      "طبي",
-      "مغامرات",
-      "إثارة",
-      "كوميدي"
-    ]
-  },
-  {
     "id": "i-received-a-request-from-the-villain-boss",
     "title": "I Received a Request from the Villain Boss",
     "url": "https://azorafly.com/series/i-received-a-request-from-the-villain-boss",
@@ -36070,23 +36099,6 @@
       "فنتازيا",
       "دراما",
       "رومانسي"
-    ]
-  },
-  {
-    "id": "world-destruction-war",
-    "title": "World Destruction War",
-    "url": "https://azorafly.com/series/world-destruction-war",
-    "cover_url": "https://storage.azorafly.com/upload/series/featured/6cac1de1-87ae-4a81-9cd1-2abe99fd84d7/5b6fbb47-34bb-4e19-bcea-1b0e860edf21.png",
-    "type": "مانهوا",
-    "status": "مستمر",
-    "rating": "9.5",
-    "total_chapters": 8,
-    "genres": [
-      "أكشن",
-      "اكشن",
-      "خيالي",
-      "فنتازيا",
-      "دراما"
     ]
   },
   {

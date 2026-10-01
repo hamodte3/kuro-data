@@ -6,13 +6,22 @@
   "type": "مانهوا",
   "status": "مستمر",
   "last_update": "2026-09-28",
-  "rating": "10.0",
+  "rating": "9.6",
   "genres": [
     "رومانسى",
     "دراما"
   ],
   "is_novel": false,
   "chapters": {
+    "https://azorafly.com/series/daddy-daddy1/chapter-4": {
+      "name": "4"
+    },
+    "https://azorafly.com/series/daddy-daddy1/chapter-3": {
+      "name": "3"
+    },
+    "https://azorafly.com/series/daddy-daddy1/chapter-2": {
+      "name": "2"
+    },
     "https://azorafly.com/series/daddy-daddy1/chapter-1": {
       "name": "1"
     }
