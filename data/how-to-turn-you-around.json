@@ -10,11 +10,14 @@
   "genres": [
     "الحياة المدرسية",
     "رومانسى",
-    "كوميدي",
-    "شوجو"
+    "شوجو",
+    "كوميدي"
   ],
   "is_novel": false,
   "chapters": {
+    "https://azorafly.com/series/how-to-turn-you-around/chapter-32": {
+      "name": "32"
+    },
     "https://azorafly.com/series/how-to-turn-you-around/chapter-31": {
       "name": "31"
     },

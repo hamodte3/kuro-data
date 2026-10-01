@@ -934,27 +934,6 @@
     "status": "مستمر"
   },
   {
-    "id": "مهلة العشر أيام",
-    "title": "مهلة العشر أيام",
-    "url": "https://kolnovel.com/series/%d9%85%d9%87%d9%84%d8%a9-%d8%a7%d9%84%d8%b9%d8%b4%d8%b1-%d8%a3%d9%8a%d8%a7%d9%85",
-    "cover_url": "https://kolnovel.com/wp-content/uploads/2026/03/بدون-اسم16_20260331021720.png",
-    "type": "رواية",
-    "is_novel": true,
-    "rating": "5.0",
-    "total_chapters": 40,
-    "genres": [
-      "ألغاز",
-      "إثارة",
-      "بطل ذكي",
-      "تحقيقات",
-      "رعب",
-      "غموض",
-      "فناء",
-      "نفسي"
-    ],
-    "status": "مستمر"
-  },
-  {
     "id": "سيد التمنّي",
     "title": "سيد التمنّي",
     "url": "https://kolnovel.com/series/%d8%b3%d9%8a%d8%af-%d8%a7%d9%84%d8%aa%d9%85%d9%86%d9%91%d9%8a",
@@ -1073,48 +1052,6 @@
     "status": "مستمر"
   },
   {
-    "id": "أسرار سيد الدمى الخالد",
-    "title": "أسرار سيد الدمى الخالد",
-    "url": "https://kolnovel.com/series/%d8%a3%d8%b3%d8%b1%d8%a7%d8%b1-%d8%b3%d9%8a%d8%af-%d8%a7%d9%84%d8%af%d9%85%d9%89-%d8%a7%d9%84%d8%ae%d8%a7%d9%84%d8%af",
-    "cover_url": "https://kolnovel.com/wp-content/uploads/2025/07/بدون-اسم67_20260622033133.png",
-    "type": "رواية",
-    "is_novel": true,
-    "rating": "5.0",
-    "total_chapters": 172,
-    "genres": [
-      "أكشن",
-      "خيال",
-      "سينن",
-      "شيانشيا",
-      "غموض",
-      "فنون قتال",
-      "مغامرة"
-    ],
-    "status": "مستمر"
-  },
-  {
-    "id": "العوالم في السماء",
-    "title": "العوالم في السماء",
-    "url": "https://kolnovel.com/series/%d8%a7%d9%84%d8%b9%d9%88%d8%a7%d9%84%d9%85-%d9%81%d9%8a-%d8%a7%d9%84%d8%b3%d9%85%d8%a7%d8%a1",
-    "cover_url": "https://kolnovel.com/wp-content/uploads/2026/06/file_000000000e487243b1f720c3018a491e.png",
-    "type": "رواية",
-    "is_novel": true,
-    "rating": "",
-    "total_chapters": 216,
-    "genres": [
-      "أكشن",
-      "حريم",
-      "خيال",
-      "رومانسية",
-      "شوانهوان",
-      "فنون قتال",
-      "كوميديا",
-      "مغامرة",
-      "ناضج"
-    ],
-    "status": "مستمر"
-  },
-  {
     "id": "امبراطور الخيمياء في العالم السماوي",
     "title": "امبراطور الخيمياء في العالم السماوي",
     "url": "https://kolnovel.com/series/elchamy-ambarar-af-tha-divina-dea",
@@ -1223,24 +1160,6 @@
     "status": "مستمر"
   },
   {
-    "id": "محنة الأجناس المتعددة",
-    "title": "محنة الأجناس المتعددة",
-    "url": "https://kolnovel.com/series/%d9%85%d8%ad%d9%86%d8%a9-%d8%a7%d9%84%d8%a3%d8%ac%d9%86%d8%a7%d8%b3-%d8%a7%d9%84%d9%85%d8%aa%d8%b9%d8%af%d8%af%d8%a9",
-    "cover_url": "https://kolnovel.com/wp-content/uploads/2026/07/بدون-اسم97_20260716015333.png",
-    "type": "رواية",
-    "is_novel": true,
-    "rating": "",
-    "total_chapters": 36,
-    "genres": [
-      "أكشن",
-      "زراعة",
-      "فانتازيا",
-      "قوى خارقة",
-      "مدرسية"
-    ],
-    "status": "مستمر"
-  },
-  {
     "id": "من منظور المؤلف",
     "title": "من منظور المؤلف",
     "url": "https://kolnovel.com/series/the-authors-pov",
@@ -1316,6 +1235,87 @@
       "خيال",
       "دراما",
       "غموض"
+    ],
+    "status": "مستمر"
+  },
+  {
+    "id": "مهلة العشر أيام",
+    "title": "مهلة العشر أيام",
+    "url": "https://kolnovel.com/series/%d9%85%d9%87%d9%84%d8%a9-%d8%a7%d9%84%d8%b9%d8%b4%d8%b1-%d8%a3%d9%8a%d8%a7%d9%85",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2026/03/بدون-اسم16_20260331021720.png",
+    "type": "رواية",
+    "is_novel": true,
+    "rating": "5.0",
+    "total_chapters": 45,
+    "genres": [
+      "ألغاز",
+      "إثارة",
+      "بطل ذكي",
+      "تحقيقات",
+      "رعب",
+      "غموض",
+      "فناء",
+      "نفسي"
+    ],
+    "status": "مستمر"
+  },
+  {
+    "id": "محنة الأجناس المتعددة",
+    "title": "محنة الأجناس المتعددة",
+    "url": "https://kolnovel.com/series/%d9%85%d8%ad%d9%86%d8%a9-%d8%a7%d9%84%d8%a3%d8%ac%d9%86%d8%a7%d8%b3-%d8%a7%d9%84%d9%85%d8%aa%d8%b9%d8%af%d8%af%d8%a9",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2026/07/بدون-اسم97_20260716015333.png",
+    "type": "رواية",
+    "is_novel": true,
+    "rating": "",
+    "total_chapters": 37,
+    "genres": [
+      "أكشن",
+      "زراعة",
+      "فانتازيا",
+      "قوى خارقة",
+      "مدرسية"
+    ],
+    "status": "مستمر"
+  },
+  {
+    "id": "العوالم في السماء",
+    "title": "العوالم في السماء",
+    "url": "https://kolnovel.com/series/%d8%a7%d9%84%d8%b9%d9%88%d8%a7%d9%84%d9%85-%d9%81%d9%8a-%d8%a7%d9%84%d8%b3%d9%85%d8%a7%d8%a1",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2026/06/file_000000000e487243b1f720c3018a491e.png",
+    "type": "رواية",
+    "is_novel": true,
+    "rating": "",
+    "total_chapters": 219,
+    "genres": [
+      "أكشن",
+      "حريم",
+      "خيال",
+      "رومانسية",
+      "شوانهوان",
+      "فنون قتال",
+      "كوميديا",
+      "مغامرة",
+      "ناضج"
+    ],
+    "status": "مستمر"
+  },
+  {
+    "id": "أسرار سيد الدمى الخالد",
+    "title": "أسرار سيد الدمى الخالد",
+    "url": "https://kolnovel.com/series/%d8%a3%d8%b3%d8%b1%d8%a7%d8%b1-%d8%b3%d9%8a%d8%af-%d8%a7%d9%84%d8%af%d9%85%d9%89-%d8%a7%d9%84%d8%ae%d8%a7%d9%84%d8%af",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2025/07/بدون-اسم67_20260622033133.png",
+    "type": "رواية",
+    "is_novel": true,
+    "rating": "5.0",
+    "total_chapters": 174,
+    "genres": [
+      "أكشن",
+      "خيال",
+      "سينن",
+      "شيانشيا",
+      "غموض",
+      "فنون قتال",
+      "مغامرة"
     ],
     "status": "مستمر"
   },
