@@ -9,14 +9,26 @@
   "rating": "8.8",
   "genres": [
     "تاريخي",
-    "رومانسي",
+    "خيال",
     "دراما",
-    "تجسيد",
     "كوميدي",
-    "خيال"
+    "رومانسي",
+    "تجسيد"
   ],
   "is_novel": false,
   "chapters": {
+    "https://azorafly.com/series/i-didn't-mean-to-save-the-villain/chapter-165": {
+      "name": "165"
+    },
+    "https://azorafly.com/series/i-didn't-mean-to-save-the-villain/chapter-164": {
+      "name": "164"
+    },
+    "https://azorafly.com/series/i-didn't-mean-to-save-the-villain/chapter-163": {
+      "name": "163"
+    },
+    "https://azorafly.com/series/i-didn't-mean-to-save-the-villain/chapter-162": {
+      "name": "162"
+    },
     "https://azorafly.com/series/i-didn't-mean-to-save-the-villain/chapter-161": {
       "name": "161"
     },

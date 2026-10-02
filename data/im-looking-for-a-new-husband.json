@@ -6,15 +6,36 @@
   "type": "مانهوا",
   "status": "مستمر",
   "last_update": "2026-08-29",
-  "rating": "10.0",
+  "rating": "9.9",
   "genres": [
-    "عودة بالزمن",
-    "رومانسي",
     "دراما",
-    "خيال"
+    "رومانسي",
+    "خيال",
+    "عودة بالزمن"
   ],
   "is_novel": false,
   "chapters": {
+    "https://azorafly.com/series/im-looking-for-a-new-husband/chapter-45": {
+      "name": "45"
+    },
+    "https://azorafly.com/series/im-looking-for-a-new-husband/chapter-44": {
+      "name": "44"
+    },
+    "https://azorafly.com/series/im-looking-for-a-new-husband/chapter-43": {
+      "name": "43"
+    },
+    "https://azorafly.com/series/im-looking-for-a-new-husband/chapter-42": {
+      "name": "42"
+    },
+    "https://azorafly.com/series/im-looking-for-a-new-husband/chapter-41": {
+      "name": "41"
+    },
+    "https://azorafly.com/series/im-looking-for-a-new-husband/chapter-40": {
+      "name": "40"
+    },
+    "https://azorafly.com/series/im-looking-for-a-new-husband/chapter-39": {
+      "name": "39"
+    },
     "https://azorafly.com/series/im-looking-for-a-new-husband/chapter-38": {
       "name": "38"
     },
