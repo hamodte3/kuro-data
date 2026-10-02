@@ -989,21 +989,6 @@
     ]
   },
   {
-    "id": "lookism_fedaa-chan",
-    "title": "Lookism",
-    "url": "https://3asq.online/manga/lookism_fedaa-chan",
-    "cover_url": "https://3asq.online/wp-content/uploads/2026/03/large_Picsart_23-12-24_10-11-07-103-2-175x238.webp",
-    "type": "مانهوا",
-    "rating": "4.5",
-    "status": "مستمر",
-    "total_chapters": 31,
-    "genres": [
-      "أكشن",
-      "فنون قتالية",
-      "مدرسة"
-    ]
-  },
-  {
     "id": "kimi-wa-yotsuba-no-clover",
     "title": "Kimi wa Yotsuba no Clover",
     "url": "https://3asq.online/manga/kimi-wa-yotsuba-no-clover",
@@ -1211,6 +1196,21 @@
       "نفسي"
     ],
     "status": "مكتمل"
+  },
+  {
+    "id": "lookism_fedaa-chan",
+    "title": "Lookism",
+    "url": "https://3asq.online/manga/lookism_fedaa-chan",
+    "cover_url": "https://3asq.online/wp-content/uploads/2026/03/large_Picsart_23-12-24_10-11-07-103-2-175x238.webp",
+    "type": "مانهوا",
+    "rating": "4.5",
+    "status": "مستمر",
+    "total_chapters": 32,
+    "genres": [
+      "أكشن",
+      "فنون قتالية",
+      "مدرسة"
+    ]
   },
   {
     "id": "jujutsu-kaisen-modulo",
