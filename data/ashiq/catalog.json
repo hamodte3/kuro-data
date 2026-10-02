@@ -1007,25 +1007,6 @@
     ]
   },
   {
-    "id": "blades-of-the-guardians",
-    "title": "Blades of the Guardians",
-    "url": "https://3asq.online/manga/blades-of-the-guardians",
-    "cover_url": "https://3asq.online/wp-content/uploads/2026/03/02-175x238.jpg",
-    "type": "مانها",
-    "rating": "4.8",
-    "status": "مستمر",
-    "total_chapters": 20,
-    "genres": [
-      "أكشن",
-      "تاريخ",
-      "حرب",
-      "دراما",
-      "عنف",
-      "فنون قتالية",
-      "مأساة"
-    ]
-  },
-  {
     "id": "one-piece",
     "title": "One Piece",
     "url": "https://3asq.online/manga/one-piece",
@@ -1210,6 +1191,25 @@
       "أكشن",
       "فنون قتالية",
       "مدرسة"
+    ]
+  },
+  {
+    "id": "blades-of-the-guardians",
+    "title": "Blades of the Guardians",
+    "url": "https://3asq.online/manga/blades-of-the-guardians",
+    "cover_url": "https://3asq.online/wp-content/uploads/2026/03/02-175x238.jpg",
+    "type": "مانها",
+    "rating": "4.8",
+    "status": "مستمر",
+    "total_chapters": 21,
+    "genres": [
+      "أكشن",
+      "تاريخ",
+      "حرب",
+      "دراما",
+      "عنف",
+      "فنون قتالية",
+      "مأساة"
     ]
   },
   {

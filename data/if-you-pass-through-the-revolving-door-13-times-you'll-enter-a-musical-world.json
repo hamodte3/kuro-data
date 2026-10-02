@@ -9,9 +9,9 @@
   "rating": "9.0",
   "genres": [
     "ندم",
+    "دراما",
     "رومانسي",
     "رعب",
-    "دراما",
     "تحقيق",
     "تجسيد",
     "خيال",
@@ -20,6 +20,21 @@
   ],
   "is_novel": false,
   "chapters": {
+    "https://azorafly.com/series/if-you-pass-through-the-revolving-door-13-times-you'll-enter-a-musical-world/chapter-15": {
+      "name": "15"
+    },
+    "https://azorafly.com/series/if-you-pass-through-the-revolving-door-13-times-you'll-enter-a-musical-world/chapter-14": {
+      "name": "14"
+    },
+    "https://azorafly.com/series/if-you-pass-through-the-revolving-door-13-times-you'll-enter-a-musical-world/chapter-13": {
+      "name": "13"
+    },
+    "https://azorafly.com/series/if-you-pass-through-the-revolving-door-13-times-you'll-enter-a-musical-world/chapter-12": {
+      "name": "12"
+    },
+    "https://azorafly.com/series/if-you-pass-through-the-revolving-door-13-times-you'll-enter-a-musical-world/chapter-11": {
+      "name": "11"
+    },
     "https://azorafly.com/series/if-you-pass-through-the-revolving-door-13-times-you'll-enter-a-musical-world/chapter-10": {
       "name": "10"
     },
