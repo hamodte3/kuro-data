@@ -1084,28 +1084,6 @@
     "status": "مستمر"
   },
   {
-    "id": "العوالم في السماء",
-    "title": "العوالم في السماء",
-    "url": "https://kolnovel.com/series/%d8%a7%d9%84%d8%b9%d9%88%d8%a7%d9%84%d9%85-%d9%81%d9%8a-%d8%a7%d9%84%d8%b3%d9%85%d8%a7%d8%a1",
-    "cover_url": "https://kolnovel.com/wp-content/uploads/2026/06/file_000000000e487243b1f720c3018a491e.png",
-    "type": "رواية",
-    "is_novel": true,
-    "rating": "",
-    "total_chapters": 219,
-    "genres": [
-      "أكشن",
-      "حريم",
-      "خيال",
-      "رومانسية",
-      "شوانهوان",
-      "فنون قتال",
-      "كوميديا",
-      "مغامرة",
-      "ناضج"
-    ],
-    "status": "مستمر"
-  },
-  {
     "id": "أسرار سيد الدمى الخالد",
     "title": "أسرار سيد الدمى الخالد",
     "url": "https://kolnovel.com/series/%d8%a3%d8%b3%d8%b1%d8%a7%d8%b1-%d8%b3%d9%8a%d8%af-%d8%a7%d9%84%d8%af%d9%85%d9%89-%d8%a7%d9%84%d8%ae%d8%a7%d9%84%d8%af",
@@ -1236,48 +1214,6 @@
     "status": "مستمر"
   },
   {
-    "id": "ما نسيه العالم",
-    "title": "ما نسيه العالم",
-    "url": "https://kolnovel.com/series/%d9%85%d8%a7-%d9%86%d8%b3%d9%8a%d9%87-%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85",
-    "cover_url": "https://kolnovel.com/wp-content/uploads/2026/09/Gemini_Generated_Image_38s0mf38s0mf38s0.jpg",
-    "type": "رواية",
-    "is_novel": true,
-    "rating": "",
-    "total_chapters": 3,
-    "genres": [
-      "إثارة",
-      "استراتيجي",
-      "بطل رمادي",
-      "خيال مظلم",
-      "دراما",
-      "سحر",
-      "سياسية",
-      "غموض",
-      "مؤامرة",
-      "ماساة",
-      "نفسي"
-    ],
-    "status": "مستمر"
-  },
-  {
-    "id": "محنة الأجناس المتعددة",
-    "title": "محنة الأجناس المتعددة",
-    "url": "https://kolnovel.com/series/%d9%85%d8%ad%d9%86%d8%a9-%d8%a7%d9%84%d8%a3%d8%ac%d9%86%d8%a7%d8%b3-%d8%a7%d9%84%d9%85%d8%aa%d8%b9%d8%af%d8%af%d8%a9",
-    "cover_url": "https://kolnovel.com/wp-content/uploads/2026/07/بدون-اسم97_20260716015333.png",
-    "type": "رواية",
-    "is_novel": true,
-    "rating": "",
-    "total_chapters": 38,
-    "genres": [
-      "أكشن",
-      "زراعة",
-      "فانتازيا",
-      "قوى خارقة",
-      "مدرسية"
-    ],
-    "status": "مستمر"
-  },
-  {
     "id": "سلسلة مونوغاتاري",
     "title": "سلسلة مونوغاتاري",
     "url": "https://kolnovel.com/series/%d8%b3%d9%84%d8%b3%d9%84%d8%a9-%d9%85%d9%88%d9%86%d9%88%d8%ba%d8%a7%d8%aa%d8%a7%d8%b1%d9%8a",
@@ -1316,6 +1252,70 @@
       "غموض",
       "قوى خارقة",
       "مغامرة"
+    ],
+    "status": "مستمر"
+  },
+  {
+    "id": "ما نسيه العالم",
+    "title": "ما نسيه العالم",
+    "url": "https://kolnovel.com/series/%d9%85%d8%a7-%d9%86%d8%b3%d9%8a%d9%87-%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2026/09/Gemini_Generated_Image_38s0mf38s0mf38s0.jpg",
+    "type": "رواية",
+    "is_novel": true,
+    "rating": "",
+    "total_chapters": 5,
+    "genres": [
+      "إثارة",
+      "استراتيجي",
+      "بطل رمادي",
+      "خيال مظلم",
+      "دراما",
+      "سحر",
+      "سياسية",
+      "غموض",
+      "مؤامرة",
+      "ماساة",
+      "نفسي"
+    ],
+    "status": "مستمر"
+  },
+  {
+    "id": "محنة الأجناس المتعددة",
+    "title": "محنة الأجناس المتعددة",
+    "url": "https://kolnovel.com/series/%d9%85%d8%ad%d9%86%d8%a9-%d8%a7%d9%84%d8%a3%d8%ac%d9%86%d8%a7%d8%b3-%d8%a7%d9%84%d9%85%d8%aa%d8%b9%d8%af%d8%af%d8%a9",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2026/07/بدون-اسم97_20260716015333.png",
+    "type": "رواية",
+    "is_novel": true,
+    "rating": "",
+    "total_chapters": 39,
+    "genres": [
+      "أكشن",
+      "زراعة",
+      "فانتازيا",
+      "قوى خارقة",
+      "مدرسية"
+    ],
+    "status": "مستمر"
+  },
+  {
+    "id": "العوالم في السماء",
+    "title": "العوالم في السماء",
+    "url": "https://kolnovel.com/series/%d8%a7%d9%84%d8%b9%d9%88%d8%a7%d9%84%d9%85-%d9%81%d9%8a-%d8%a7%d9%84%d8%b3%d9%85%d8%a7%d8%a1",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2026/06/file_000000000e487243b1f720c3018a491e.png",
+    "type": "رواية",
+    "is_novel": true,
+    "rating": "",
+    "total_chapters": 222,
+    "genres": [
+      "أكشن",
+      "حريم",
+      "خيال",
+      "رومانسية",
+      "شوانهوان",
+      "فنون قتال",
+      "كوميديا",
+      "مغامرة",
+      "ناضج"
     ],
     "status": "مستمر"
   },
