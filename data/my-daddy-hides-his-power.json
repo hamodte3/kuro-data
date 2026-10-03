@@ -8,12 +8,15 @@
   "last_update": "2026-05-23",
   "rating": "9.7",
   "genres": [
-    "خيال",
     "شوجو",
-    "رومانسي"
+    "رومانسي",
+    "خيال"
   ],
   "is_novel": false,
   "chapters": {
+    "https://azorafly.com/series/my-daddy-hides-his-power/chapter-89": {
+      "name": "89"
+    },
     "https://azorafly.com/series/my-daddy-hides-his-power/chapter-88": {
       "name": "88"
     },

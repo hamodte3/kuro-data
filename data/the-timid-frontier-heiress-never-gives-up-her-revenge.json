@@ -9,11 +9,14 @@
   "rating": "10.0",
   "genres": [
     "رومانسى",
-    "فنتازيا",
-    "دراما"
+    "دراما",
+    "فنتازيا"
   ],
   "is_novel": false,
   "chapters": {
+    "https://azorafly.com/series/the-timid-frontier-heiress-never-gives-up-her-revenge/chapter-25": {
+      "name": "25"
+    },
     "https://azorafly.com/series/the-timid-frontier-heiress-never-gives-up-her-revenge/chapter-24": {
       "name": "24"
     },

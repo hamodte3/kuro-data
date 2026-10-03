@@ -9,15 +9,27 @@
   "rating": "10.0",
   "genres": [
     "لعبة",
-    "بدون تجسيد",
-    "رومانسي",
     "نظام",
-    "دراما",
+    "كوميدي",
     "خيال",
-    "كوميدي"
+    "رومانسي",
+    "بدون تجسيد",
+    "دراما"
   ],
   "is_novel": false,
   "chapters": {
+    "https://azorafly.com/series/a-monodrama-for-carolyn-august/chapter-52": {
+      "name": "52"
+    },
+    "https://azorafly.com/series/a-monodrama-for-carolyn-august/chapter-51": {
+      "name": "51"
+    },
+    "https://azorafly.com/series/a-monodrama-for-carolyn-august/chapter-50": {
+      "name": "50"
+    },
+    "https://azorafly.com/series/a-monodrama-for-carolyn-august/chapter-49": {
+      "name": "49"
+    },
     "https://azorafly.com/series/a-monodrama-for-carolyn-august/chapter-48": {
       "name": "48"
     },
