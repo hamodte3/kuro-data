@@ -1161,24 +1161,6 @@
     ]
   },
   {
-    "id": "haha-to-iu-jubaku-musume-to-iu-rougoku",
-    "title": "Haha to Iu Jubaku Musume to Iu Rougoku",
-    "url": "https://3asq.online/manga/haha-to-iu-jubaku-musume-to-iu-rougoku",
-    "cover_url": "https://3asq.online/wp-content/uploads/2026/09/Picsart_26-09-29_14-57-52-000-175x238.jpg",
-    "type": "مانغا",
-    "rating": "5.0",
-    "total_chapters": 1,
-    "genres": [
-      "جريمة",
-      "دراما",
-      "سينين",
-      "غموض",
-      "مأساة",
-      "نفسي"
-    ],
-    "status": "مكتمل"
-  },
-  {
     "id": "lookism_fedaa-chan",
     "title": "Lookism",
     "url": "https://3asq.online/manga/lookism_fedaa-chan",
@@ -1211,6 +1193,24 @@
       "فنون قتالية",
       "مأساة"
     ]
+  },
+  {
+    "id": "haha-to-iu-jubaku-musume-to-iu-rougoku",
+    "title": "Haha to Iu Jubaku Musume to Iu Rougoku",
+    "url": "https://3asq.online/manga/haha-to-iu-jubaku-musume-to-iu-rougoku",
+    "cover_url": "https://3asq.online/wp-content/uploads/2026/09/Picsart_26-09-29_14-57-52-000-175x238.jpg",
+    "type": "مانغا",
+    "rating": "5.0",
+    "total_chapters": 2,
+    "genres": [
+      "جريمة",
+      "دراما",
+      "سينين",
+      "غموض",
+      "مأساة",
+      "نفسي"
+    ],
+    "status": "مكتمل"
   },
   {
     "id": "jujutsu-kaisen-modulo",
