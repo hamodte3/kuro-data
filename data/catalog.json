@@ -1,28 +1,5 @@
 [
   {
-    "id": "the-baby-raising-a-devil",
-    "title": "The Baby Raising a Devil",
-    "url": "https://azorafly.com/series/the-baby-raising-a-devil",
-    "cover_url": "https://storage.azorafly.com/public/upload/2026/01/10/ad9d711a-7a59-4834-8e38-3abdd4c84eb7.webp",
-    "type": "مانهوا",
-    "status": "مستمر",
-    "rating": "9.8",
-    "total_chapters": 57,
-    "genres": [
-      "الحياة اليومية",
-      "ايسكاي",
-      "تاريخي",
-      "مغامرات",
-      "شوجو",
-      "سحر",
-      "خيال",
-      "إثارة",
-      "دراما",
-      "رومانسي",
-      "غموض"
-    ]
-  },
-  {
     "id": "the-grand-duke's-new-daughter-in-law-is-a-little-fierce",
     "title": "The Grand Duke’s New Daughter-In-law is a Little Fierce",
     "url": "https://azorafly.com/series/the-grand-duke's-new-daughter-in-law-is-a-little-fierce",
@@ -2581,6 +2558,113 @@
     ]
   },
   {
+    "id": "all-color-of-snow",
+    "title": "All color of snow",
+    "url": "https://azorafly.com/series/all-color-of-snow",
+    "cover_url": "https://storage.azorafly.com/2025/07/IMG_20250725_091607_881.webp",
+    "type": "مانهوا",
+    "status": "مستمر",
+    "rating": "10.0",
+    "total_chapters": 25,
+    "genres": [
+      "رومانسي"
+    ]
+  },
+  {
+    "id": "i-picked-up-a-framed-prince",
+    "title": "I Picked Up a Framed Prince",
+    "url": "https://azorafly.com/series/i-picked-up-a-framed-prince",
+    "cover_url": "https://storage.azorafly.com/upload/series/featured/a5vVlSc5huft2AzUyK1VxgKh1ckCWLbZ/b182a342-f0b5-4d57-b5a4-3299f15b1540.jpg",
+    "type": "رواية",
+    "status": "مستمر",
+    "rating": "9.3",
+    "total_chapters": 15,
+    "genres": [
+      "تاريخي",
+      "خيال",
+      "دراما",
+      "بدون تجسيد",
+      "رومانسي",
+      "كوميدي"
+    ]
+  },
+  {
+    "id": "bunker-days",
+    "title": "Bunker days",
+    "url": "https://azorafly.com/series/bunker-days",
+    "cover_url": "https://storage.azorafly.com/public/upload/2026/01/15/660da6e7-d827-44cf-ac53-b24e56402aec.webp",
+    "type": "مانهوا",
+    "status": "مستمر",
+    "rating": "9.7",
+    "total_chapters": 40,
+    "genres": [
+      "رومانسي",
+      "دراما"
+    ]
+  },
+  {
+    "id": "im-looking-for-a-new-husband",
+    "title": "I'm Looking for a New Husband",
+    "url": "https://azorafly.com/series/im-looking-for-a-new-husband",
+    "cover_url": "https://storage.azorafly.com/upload/series/featured/f1fef4cc-ebcb-4b26-90b6-b65fe212f932/e5560853-2d55-4dad-9aa4-a1b580b7e604.jpg",
+    "type": "مانهوا",
+    "status": "مستمر",
+    "rating": "9.9",
+    "total_chapters": 45,
+    "genres": [
+      "دراما",
+      "رومانسي",
+      "خيال",
+      "عودة بالزمن"
+    ]
+  },
+  {
+    "id": "goodbye-ex-husband",
+    "title": "Goodbye, Ex-Husband",
+    "url": "https://azorafly.com/series/goodbye-ex-husband",
+    "cover_url": "https://storage.azorafly.com/public/upload/2026/03/28/cdabff24-2f31-45ac-9db3-8683ea45594d.webp",
+    "type": "مانهوا",
+    "status": "مستمر",
+    "rating": "10.0",
+    "total_chapters": 79,
+    "genres": [
+      "رومانسي",
+      "دراما",
+      "فنتازيا"
+    ]
+  },
+  {
+    "id": "can-i-cry-now",
+    "title": "Can i cry now?",
+    "url": "https://azorafly.com/series/can-i-cry-now",
+    "cover_url": "https://storage.azorafly.com/2025/12/358_20251226163656.webp",
+    "type": "مانهوا",
+    "status": "مستمر",
+    "rating": "10.0",
+    "total_chapters": 60,
+    "genres": [
+      "رومانسي",
+      "دراما",
+      "فانتازيا"
+    ]
+  },
+  {
+    "id": "underground-boys'-school",
+    "title": "Underground Boys' School",
+    "url": "https://azorafly.com/series/underground-boys'-school",
+    "cover_url": "https://storage.azorafly.com/public/upload/series/featured/a5vVlSc5huft2AzUyK1VxgKh1ckCWLbZ/c3fe914f-ef53-4d11-8892-55952a8fad3f.jpg",
+    "type": "رواية",
+    "status": "مستمر",
+    "rating": "10.0",
+    "total_chapters": 10,
+    "genres": [
+      "نفسي",
+      "رعب",
+      "مأساة",
+      "غموض"
+    ]
+  },
+  {
     "id": "rejected-lady-enjoying-a-modest-life",
     "title": "Rejected Lady Enjoying a Modest Life",
     "url": "https://azorafly.com/series/rejected-lady-enjoying-a-modest-life",
@@ -2606,19 +2690,6 @@
     "total_chapters": 45,
     "genres": [
       "دراما",
-      "رومانسي"
-    ]
-  },
-  {
-    "id": "all-color-of-snow",
-    "title": "All color of snow",
-    "url": "https://azorafly.com/series/all-color-of-snow",
-    "cover_url": "https://storage.azorafly.com/2025/07/IMG_20250725_091607_881.webp",
-    "type": "مانهوا",
-    "status": "مستمر",
-    "rating": "10.0",
-    "total_chapters": 25,
-    "genres": [
       "رومانسي"
     ]
   },
@@ -2694,24 +2765,6 @@
     ]
   },
   {
-    "id": "i-picked-up-a-framed-prince",
-    "title": "I Picked Up a Framed Prince",
-    "url": "https://azorafly.com/series/i-picked-up-a-framed-prince",
-    "cover_url": "https://storage.azorafly.com/upload/series/featured/a5vVlSc5huft2AzUyK1VxgKh1ckCWLbZ/b182a342-f0b5-4d57-b5a4-3299f15b1540.jpg",
-    "type": "رواية",
-    "status": "مستمر",
-    "rating": "9.3",
-    "total_chapters": 15,
-    "genres": [
-      "تاريخي",
-      "خيال",
-      "دراما",
-      "بدون تجسيد",
-      "رومانسي",
-      "كوميدي"
-    ]
-  },
-  {
     "id": "face-genius-0-year-old-top-star",
     "title": "Face Genius, 0-Year-Old Top Star",
     "url": "https://azorafly.com/series/face-genius-0-year-old-top-star",
@@ -2723,50 +2776,6 @@
     "genres": [
       "خيال",
       "دراما"
-    ]
-  },
-  {
-    "id": "bunker-days",
-    "title": "Bunker days",
-    "url": "https://azorafly.com/series/bunker-days",
-    "cover_url": "https://storage.azorafly.com/public/upload/2026/01/15/660da6e7-d827-44cf-ac53-b24e56402aec.webp",
-    "type": "مانهوا",
-    "status": "مستمر",
-    "rating": "9.7",
-    "total_chapters": 40,
-    "genres": [
-      "رومانسي",
-      "دراما"
-    ]
-  },
-  {
-    "id": "to-me-who-doesnt-love-you",
-    "title": "To me who doesn’t love you",
-    "url": "https://azorafly.com/series/to-me-who-doesnt-love-you",
-    "cover_url": "https://storage.azorafly.com/2025/12/IMG_8164.webp",
-    "type": "مانهوا",
-    "status": "مستمر",
-    "rating": "9.2",
-    "total_chapters": 51,
-    "genres": [
-      "رومانسي",
-      "فانتازيا"
-    ]
-  },
-  {
-    "id": "the-regressed-son-of-a-duke-is-an-assassin",
-    "title": "The Regressed Son of a Duke Is an Assassin",
-    "url": "https://azorafly.com/series/the-regressed-son-of-a-duke-is-an-assassin",
-    "cover_url": "https://storage.azorafly.com/2024/02/New.webp",
-    "type": "مانهوا",
-    "status": "مستمر",
-    "rating": "9.8",
-    "total_chapters": 146,
-    "genres": [
-      "دراما",
-      "شونين",
-      "فنتازيا",
-      "أكشن"
     ]
   },
   {
@@ -2799,22 +2808,6 @@
       "تشويق",
       "نفسي",
       "أكشن"
-    ]
-  },
-  {
-    "id": "the-villainess-captured-the-male-lead",
-    "title": "The Villainess Captured the Male Lead",
-    "url": "https://azorafly.com/series/the-villainess-captured-the-male-lead",
-    "cover_url": "https://storage.azorafly.com/2024/02/The-Villainess-Captured-the-Male-Lead.jpeg",
-    "type": "مانهوا",
-    "status": "مستمر",
-    "rating": "10.0",
-    "total_chapters": 127,
-    "genres": [
-      "كوميدي",
-      "رومانسي",
-      "خيال",
-      "شوجو"
     ]
   },
   {
@@ -2852,36 +2845,6 @@
     ]
   },
   {
-    "id": "the-genius-professor-wants-to-take-it-easy",
-    "title": "The Genius Professor Wants to Take It Easy",
-    "url": "https://azorafly.com/series/the-genius-professor-wants-to-take-it-easy",
-    "cover_url": "https://storage.azorafly.com/upload/series/featured/6cac1de1-87ae-4a81-9cd1-2abe99fd84d7/4e94e093-d17a-415d-8288-e691c8a00dff.png",
-    "type": "مانهوا",
-    "status": "مستمر",
-    "rating": "9.9",
-    "total_chapters": 23,
-    "genres": [
-      "اكشن",
-      "فنتازيا"
-    ]
-  },
-  {
-    "id": "im-looking-for-a-new-husband",
-    "title": "I'm Looking for a New Husband",
-    "url": "https://azorafly.com/series/im-looking-for-a-new-husband",
-    "cover_url": "https://storage.azorafly.com/upload/series/featured/f1fef4cc-ebcb-4b26-90b6-b65fe212f932/e5560853-2d55-4dad-9aa4-a1b580b7e604.jpg",
-    "type": "مانهوا",
-    "status": "مستمر",
-    "rating": "9.9",
-    "total_chapters": 45,
-    "genres": [
-      "دراما",
-      "رومانسي",
-      "خيال",
-      "عودة بالزمن"
-    ]
-  },
-  {
     "id": "baby-prisoner-of-the-winter-castle",
     "title": "Baby Prisoner of the Winter Castle",
     "url": "https://azorafly.com/series/baby-prisoner-of-the-winter-castle",
@@ -2916,21 +2879,6 @@
     ]
   },
   {
-    "id": "goodbye-ex-husband",
-    "title": "Goodbye, Ex-Husband",
-    "url": "https://azorafly.com/series/goodbye-ex-husband",
-    "cover_url": "https://storage.azorafly.com/public/upload/2026/03/28/cdabff24-2f31-45ac-9db3-8683ea45594d.webp",
-    "type": "مانهوا",
-    "status": "مستمر",
-    "rating": "10.0",
-    "total_chapters": 79,
-    "genres": [
-      "رومانسي",
-      "دراما",
-      "فنتازيا"
-    ]
-  },
-  {
     "id": "back-to-spring",
     "title": "Back to Spring",
     "url": "https://azorafly.com/series/back-to-spring",
@@ -2950,24 +2898,6 @@
     ]
   },
   {
-    "id": "the-duke-needs-home-education",
-    "title": "The duke needs home education",
-    "url": "https://azorafly.com/series/the-duke-needs-home-education",
-    "cover_url": "https://storage.azorafly.com/upload/series/featured/b00a38e1-1b46-478b-80f0-5d1a7feed33f/60a01f2b-7683-4f1a-8520-8b44490653e7.jpeg",
-    "type": "مانهوا",
-    "status": "مستمر",
-    "rating": "9.1",
-    "total_chapters": 71,
-    "genres": [
-      "رعاية اطفال",
-      "خيال",
-      "كوميدي",
-      "شوجو",
-      "رومانسي",
-      "فانتازيا"
-    ]
-  },
-  {
     "id": "miss-pendleton",
     "title": "Miss Pendleton",
     "url": "https://azorafly.com/series/miss-pendleton",
@@ -2975,24 +2905,9 @@
     "type": "مانهوا",
     "status": "مستمر",
     "rating": "9.9",
-    "total_chapters": 75,
+    "total_chapters": 73,
     "genres": [
       "رومانسي"
-    ]
-  },
-  {
-    "id": "can-i-cry-now",
-    "title": "Can i cry now?",
-    "url": "https://azorafly.com/series/can-i-cry-now",
-    "cover_url": "https://storage.azorafly.com/2025/12/358_20251226163656.webp",
-    "type": "مانهوا",
-    "status": "مستمر",
-    "rating": "10.0",
-    "total_chapters": 60,
-    "genres": [
-      "رومانسي",
-      "دراما",
-      "فانتازيا"
     ]
   },
   {
@@ -3054,22 +2969,6 @@
     ]
   },
   {
-    "id": "underground-boys'-school",
-    "title": "Underground Boys' School",
-    "url": "https://azorafly.com/series/underground-boys'-school",
-    "cover_url": "https://storage.azorafly.com/public/upload/series/featured/a5vVlSc5huft2AzUyK1VxgKh1ckCWLbZ/c3fe914f-ef53-4d11-8892-55952a8fad3f.jpg",
-    "type": "رواية",
-    "status": "مستمر",
-    "rating": "10.0",
-    "total_chapters": 10,
-    "genres": [
-      "نفسي",
-      "رعب",
-      "مأساة",
-      "غموض"
-    ]
-  },
-  {
     "id": "let's-pretend-we-don't-know-each-other",
     "title": "Let’s Pretend We Don’t Know Each Other",
     "url": "https://azorafly.com/series/let's-pretend-we-don't-know-each-other",
@@ -3085,36 +2984,6 @@
     ]
   },
   {
-    "id": "the-villainess's-last-dance-for-the-one-who-killed-her",
-    "title": "The Villainess’s Last Dance for the One Who Killed Her",
-    "url": "https://azorafly.com/series/the-villainess's-last-dance-for-the-one-who-killed-her",
-    "cover_url": "https://storage.azorafly.com/upload/series/featured/6cac1de1-87ae-4a81-9cd1-2abe99fd84d7/f9b76c83-dcab-4697-bb5d-03832bb553f1.png",
-    "type": "مانهوا",
-    "status": "مستمر",
-    "rating": "7.0",
-    "total_chapters": 24,
-    "genres": [
-      "رومانسى",
-      "دراما",
-      "فنتازيا"
-    ]
-  },
-  {
-    "id": "this-time-i-will-avoid-this-marriage-a-method-to-part-ways-with-you-who-lacks-love",
-    "title": "This Time, I Will Avoid This Marriage - A Method to Part Ways With You, Who Lacks Love",
-    "url": "https://azorafly.com/series/this-time-i-will-avoid-this-marriage-a-method-to-part-ways-with-you-who-lacks-love",
-    "cover_url": "https://storage.azorafly.com/public/upload/2026/02/18/eed54d7f-52ba-469d-804d-162718322eaa.webp",
-    "type": "مانهوا",
-    "status": "مستمر",
-    "rating": "9.8",
-    "total_chapters": 42,
-    "genres": [
-      "رومانسي",
-      "دراما",
-      "فانتازيا"
-    ]
-  },
-  {
     "id": "obsessive-love-kills-the-saint",
     "title": "Obsessive Love Kills the Saint",
     "url": "https://azorafly.com/series/obsessive-love-kills-the-saint",
@@ -3126,21 +2995,6 @@
     "genres": [
       "شوجو",
       "رومانسي"
-    ]
-  },
-  {
-    "id": "the-despised-stepmother-begins-her-second-life",
-    "title": "The Despised Stepmother Begins Her Second Life",
-    "url": "https://azorafly.com/series/the-despised-stepmother-begins-her-second-life",
-    "cover_url": "https://storage.azorafly.com/upload/series/featured/6cac1de1-87ae-4a81-9cd1-2abe99fd84d7/816a4fc6-b99e-405b-a176-2d5303fe59fb.png",
-    "type": "مانهوا",
-    "status": "مستمر",
-    "rating": "6.7",
-    "total_chapters": 34,
-    "genres": [
-      "رومانسي",
-      "دراما",
-      "فنتازيا"
     ]
   },
   {
@@ -3214,6 +3068,167 @@
       "شوجو",
       "رومانسي",
       "دراما"
+    ]
+  },
+  {
+    "id": "to-me-who-doesnt-love-you",
+    "title": "To me who doesn’t love you",
+    "url": "https://azorafly.com/series/to-me-who-doesnt-love-you",
+    "cover_url": "https://storage.azorafly.com/2025/12/IMG_8164.webp",
+    "type": "مانهوا",
+    "status": "مستمر",
+    "rating": "9.2",
+    "total_chapters": 51,
+    "genres": [
+      "رومانسي",
+      "فانتازيا"
+    ]
+  },
+  {
+    "id": "the-regressed-son-of-a-duke-is-an-assassin",
+    "title": "The Regressed Son of a Duke Is an Assassin",
+    "url": "https://azorafly.com/series/the-regressed-son-of-a-duke-is-an-assassin",
+    "cover_url": "https://storage.azorafly.com/2024/02/New.webp",
+    "type": "مانهوا",
+    "status": "مستمر",
+    "rating": "9.8",
+    "total_chapters": 146,
+    "genres": [
+      "شونين",
+      "دراما",
+      "فنتازيا",
+      "أكشن"
+    ]
+  },
+  {
+    "id": "the-villainess-captured-the-male-lead",
+    "title": "The Villainess Captured the Male Lead",
+    "url": "https://azorafly.com/series/the-villainess-captured-the-male-lead",
+    "cover_url": "https://storage.azorafly.com/2024/02/The-Villainess-Captured-the-Male-Lead.jpeg",
+    "type": "مانهوا",
+    "status": "مستمر",
+    "rating": "10.0",
+    "total_chapters": 127,
+    "genres": [
+      "خيال",
+      "كوميدي",
+      "شوجو",
+      "رومانسي"
+    ]
+  },
+  {
+    "id": "the-genius-professor-wants-to-take-it-easy",
+    "title": "The Genius Professor Wants to Take It Easy",
+    "url": "https://azorafly.com/series/the-genius-professor-wants-to-take-it-easy",
+    "cover_url": "https://storage.azorafly.com/upload/series/featured/6cac1de1-87ae-4a81-9cd1-2abe99fd84d7/4e94e093-d17a-415d-8288-e691c8a00dff.png",
+    "type": "مانهوا",
+    "status": "مستمر",
+    "rating": "9.9",
+    "total_chapters": 23,
+    "genres": [
+      "اكشن",
+      "فنتازيا"
+    ]
+  },
+  {
+    "id": "the-duke-needs-home-education",
+    "title": "The duke needs home education",
+    "url": "https://azorafly.com/series/the-duke-needs-home-education",
+    "cover_url": "https://storage.azorafly.com/upload/series/featured/b00a38e1-1b46-478b-80f0-5d1a7feed33f/60a01f2b-7683-4f1a-8520-8b44490653e7.jpeg",
+    "type": "مانهوا",
+    "status": "مستمر",
+    "rating": "9.1",
+    "total_chapters": 71,
+    "genres": [
+      "رعاية اطفال",
+      "خيال",
+      "كوميدي",
+      "شوجو",
+      "رومانسي",
+      "فانتازيا"
+    ]
+  },
+  {
+    "id": "the-villainess's-last-dance-for-the-one-who-killed-her",
+    "title": "The Villainess’s Last Dance for the One Who Killed Her",
+    "url": "https://azorafly.com/series/the-villainess's-last-dance-for-the-one-who-killed-her",
+    "cover_url": "https://storage.azorafly.com/upload/series/featured/6cac1de1-87ae-4a81-9cd1-2abe99fd84d7/f9b76c83-dcab-4697-bb5d-03832bb553f1.png",
+    "type": "مانهوا",
+    "status": "مستمر",
+    "rating": "7.0",
+    "total_chapters": 24,
+    "genres": [
+      "رومانسى",
+      "دراما",
+      "فنتازيا"
+    ]
+  },
+  {
+    "id": "this-time-i-will-avoid-this-marriage-a-method-to-part-ways-with-you-who-lacks-love",
+    "title": "This Time, I Will Avoid This Marriage - A Method to Part Ways With You, Who Lacks Love",
+    "url": "https://azorafly.com/series/this-time-i-will-avoid-this-marriage-a-method-to-part-ways-with-you-who-lacks-love",
+    "cover_url": "https://storage.azorafly.com/public/upload/2026/02/18/eed54d7f-52ba-469d-804d-162718322eaa.webp",
+    "type": "مانهوا",
+    "status": "مستمر",
+    "rating": "9.8",
+    "total_chapters": 42,
+    "genres": [
+      "رومانسي",
+      "دراما",
+      "فانتازيا"
+    ]
+  },
+  {
+    "id": "the-despised-stepmother-begins-her-second-life",
+    "title": "The Despised Stepmother Begins Her Second Life",
+    "url": "https://azorafly.com/series/the-despised-stepmother-begins-her-second-life",
+    "cover_url": "https://storage.azorafly.com/upload/series/featured/6cac1de1-87ae-4a81-9cd1-2abe99fd84d7/816a4fc6-b99e-405b-a176-2d5303fe59fb.png",
+    "type": "مانهوا",
+    "status": "مستمر",
+    "rating": "6.7",
+    "total_chapters": 34,
+    "genres": [
+      "رومانسي",
+      "دراما",
+      "فنتازيا"
+    ]
+  },
+  {
+    "id": "the-invisible-one",
+    "title": "The Invisible One",
+    "url": "https://azorafly.com/series/the-invisible-one",
+    "cover_url": "https://storage.azorafly.com/upload/series/featured/02408b52-85d5-445d-9e5c-f7dbcd583bf8/23397cbe-379a-45fd-a1ea-1b9787bdff4c.jpg",
+    "type": "مانهوا",
+    "status": "مستمر",
+    "rating": "10.0",
+    "total_chapters": 45,
+    "genres": [
+      "رومانسي",
+      "دراما",
+      "فانتازيا"
+    ]
+  },
+  {
+    "id": "the-baby-raising-a-devil",
+    "title": "The Baby Raising a Devil",
+    "url": "https://azorafly.com/series/the-baby-raising-a-devil",
+    "cover_url": "https://storage.azorafly.com/public/upload/2026/01/10/ad9d711a-7a59-4834-8e38-3abdd4c84eb7.webp",
+    "type": "مانهوا",
+    "status": "مستمر",
+    "rating": "9.8",
+    "total_chapters": 57,
+    "genres": [
+      "الحياة اليومية",
+      "ايسكاي",
+      "تاريخي",
+      "مغامرات",
+      "شوجو",
+      "سحر",
+      "خيال",
+      "إثارة",
+      "دراما",
+      "رومانسي",
+      "غموض"
     ]
   },
   {
@@ -36020,22 +36035,6 @@
       "خيال",
       "رومانسي",
       "كوميدي"
-    ]
-  },
-  {
-    "id": "the-invisible-one",
-    "title": "The Invisible One",
-    "url": "https://azorafly.com/series/the-invisible-one",
-    "cover_url": "https://storage.azorafly.com/public/upload/series/featured/02408b52-85d5-445d-9e5c-f7dbcd583bf8/b11ee3fe-ec06-438a-9e4e-f9fbf98e7e2b.webp",
-    "type": "مانهوا",
-    "status": "مستمر",
-    "rating": "9.5",
-    "total_chapters": 44,
-    "genres": [
-      "أكشن",
-      "فانتازيا",
-      "دراما",
-      "رومانسي"
     ]
   },
   {

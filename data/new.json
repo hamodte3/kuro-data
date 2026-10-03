@@ -1,5 +1,12 @@
 [
   {
+    "id": "the-invisible-one",
+    "title": "The Invisible One",
+    "chapter": "الفصل 45",
+    "type": "مانهوا",
+    "cover_url": "https://storage.azorafly.com/upload/series/featured/02408b52-85d5-445d-9e5c-f7dbcd583bf8/23397cbe-379a-45fd-a1ea-1b9787bdff4c.jpg"
+  },
+  {
     "id": "المتعاقد الميتافيزيقي",
     "title": "المتعاقد الميتافيزيقي",
     "chapter": "الفصل 4",
@@ -96,12 +103,5 @@
     "chapter": "الفصل 55",
     "type": "مانهوا",
     "cover_url": "https://storage.azorafly.com/upload/series/featured/02408b52-85d5-445d-9e5c-f7dbcd583bf8/5d267f31-fb9f-477b-a899-1f4b3333fbcf.png"
-  },
-  {
-    "id": "once-a-day-a-wish-comes-true",
-    "title": "Once a day, a wish comes true",
-    "chapter": "الفصل 66",
-    "type": "رواية",
-    "cover_url": "https://storage.azorafly.com/upload/series/featured/a5vVlSc5huft2AzUyK1VxgKh1ckCWLbZ/b5dad099-8250-49f6-82da-059115abb7e7.jpg"
   }
 ]
