@@ -9,12 +9,15 @@
   "rating": "10.0",
   "genres": [
     "رومانسى",
-    "تاريخي",
     "كوميدي",
+    "تاريخي",
     "دراما"
   ],
   "is_novel": false,
   "chapters": {
+    "https://azorafly.com/series/empress's-will-love/chapter-12": {
+      "name": "12"
+    },
     "https://azorafly.com/series/empress's-will-love/chapter-11": {
       "name": "11"
     },
