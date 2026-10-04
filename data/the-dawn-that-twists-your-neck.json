@@ -10,11 +10,14 @@
   "genres": [
     "خيالي",
     "تاريخي",
-    "دراما",
-    "انتقام"
+    "انتقام",
+    "دراما"
   ],
   "is_novel": false,
   "chapters": {
+    "https://azorafly.com/series/the-dawn-that-twists-your-neck/chapter-66": {
+      "name": "66"
+    },
     "https://azorafly.com/series/the-dawn-that-twists-your-neck/chapter-65": {
       "name": "65"
     },

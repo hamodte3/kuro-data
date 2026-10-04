@@ -1131,28 +1131,6 @@
     "status": "مستمر"
   },
   {
-    "id": "سلسلة مونوغاتاري",
-    "title": "سلسلة مونوغاتاري",
-    "url": "https://kolnovel.com/series/%d8%b3%d9%84%d8%b3%d9%84%d8%a9-%d9%85%d9%88%d9%86%d9%88%d8%ba%d8%a7%d8%aa%d8%a7%d8%b1%d9%8a",
-    "cover_url": "https://kolnovel.com/wp-content/uploads/2026/09/mono.jpg",
-    "type": "رواية",
-    "is_novel": true,
-    "rating": "",
-    "total_chapters": 50,
-    "genres": [
-      "خارق للطبيعة",
-      "خوارق",
-      "خيال",
-      "دراما",
-      "رومانسية",
-      "غموض",
-      "كوميديا",
-      "ناضج",
-      "نفسي"
-    ],
-    "status": "مستمر"
-  },
-  {
     "id": "المُتَحَرِّر",
     "title": "المُتَحَرِّر",
     "url": "https://kolnovel.com/series/%d8%a7%d9%84%d9%85%d9%8f%d8%aa%d9%8e%d8%ad%d9%8e%d8%b1%d9%90%d9%91%d8%b1",
@@ -1205,24 +1183,6 @@
       "غموض",
       "فانتازي",
       "كوميدي"
-    ],
-    "status": "مستمر"
-  },
-  {
-    "id": "امبراطور الخيمياء في العالم السماوي",
-    "title": "امبراطور الخيمياء في العالم السماوي",
-    "url": "https://kolnovel.com/series/elchamy-ambarar-af-tha-divina-dea",
-    "cover_url": "https://kolnovel.com/wp-content/uploads/2020/10/GIF-260509_034955.gif",
-    "type": "رواية",
-    "is_novel": true,
-    "rating": "",
-    "total_chapters": 3696,
-    "genres": [
-      "حريم",
-      "فنون القتال",
-      "كوميدي",
-      "ما بعد الكارثة",
-      "مغامرة"
     ],
     "status": "مستمر"
   },
@@ -1323,6 +1283,46 @@
       "غموض",
       "فنون قتال",
       "مغامرة"
+    ],
+    "status": "مستمر"
+  },
+  {
+    "id": "امبراطور الخيمياء في العالم السماوي",
+    "title": "امبراطور الخيمياء في العالم السماوي",
+    "url": "https://kolnovel.com/series/elchamy-ambarar-af-tha-divina-dea",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2020/10/GIF-260509_034955.gif",
+    "type": "رواية",
+    "is_novel": true,
+    "rating": "",
+    "total_chapters": 3696,
+    "genres": [
+      "حريم",
+      "فنون القتال",
+      "كوميدي",
+      "ما بعد الكارثة",
+      "مغامرة"
+    ],
+    "status": "مستمر"
+  },
+  {
+    "id": "سلسلة مونوغاتاري",
+    "title": "سلسلة مونوغاتاري",
+    "url": "https://kolnovel.com/series/%d8%b3%d9%84%d8%b3%d9%84%d8%a9-%d9%85%d9%88%d9%86%d9%88%d8%ba%d8%a7%d8%aa%d8%a7%d8%b1%d9%8a",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2026/09/mono.jpg",
+    "type": "رواية",
+    "is_novel": true,
+    "rating": "",
+    "total_chapters": 51,
+    "genres": [
+      "خارق للطبيعة",
+      "خوارق",
+      "خيال",
+      "دراما",
+      "رومانسية",
+      "غموض",
+      "كوميديا",
+      "ناضج",
+      "نفسي"
     ],
     "status": "مستمر"
   },

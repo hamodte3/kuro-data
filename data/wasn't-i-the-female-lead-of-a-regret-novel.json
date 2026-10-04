@@ -10,16 +10,19 @@
   "genres": [
     "مثلث حب",
     "حريم عكسي",
-    "خيال",
     "كوميدي",
-    "دراما",
-    "تجسيد",
+    "رومانسي",
     "سوء فهم",
     "علاقة تعاقدية",
-    "رومانسي"
+    "تجسيد",
+    "خيال",
+    "دراما"
   ],
   "is_novel": false,
   "chapters": {
+    "https://azorafly.com/series/wasn't-i-the-female-lead-of-a-regret-novel/chapter-28": {
+      "name": "28"
+    },
     "https://azorafly.com/series/wasn't-i-the-female-lead-of-a-regret-novel/chapter-27": {
       "name": "27"
     },

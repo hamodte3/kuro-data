@@ -9,16 +9,19 @@
   "rating": "8.3",
   "genres": [
     "قوة خارقة",
-    "اسبوعي",
     "ويبتون",
+    "اسبوعي",
     "وحوش",
-    "مغامرات",
     "مميز",
+    "مغامرات",
     "إثارة",
     "أكشن"
   ],
   "is_novel": false,
   "chapters": {
+    "https://azorafly.com/series/the-great-mage-returns-after-4000-year-s/chapter-277": {
+      "name": "277"
+    },
     "https://azorafly.com/series/the-great-mage-returns-after-4000-year-s/chapter-276": {
       "name": "276"
     },

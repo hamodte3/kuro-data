@@ -9,14 +9,17 @@
   "rating": "9.8",
   "genres": [
     "عودة بالزمن",
-    "فنون قتالية",
     "انتقام",
-    "أكشن",
     "مغامرة",
-    "خيال"
+    "أكشن",
+    "خيال",
+    "فنون قتالية"
   ],
   "is_novel": false,
   "chapters": {
+    "https://azorafly.com/series/revenge-of-the-iron-blooded-sword-hound/chapter-183": {
+      "name": "183"
+    },
     "https://azorafly.com/series/revenge-of-the-iron-blooded-sword-hound/chapter-182": {
       "name": "182"
     },
