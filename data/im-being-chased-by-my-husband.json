@@ -9,12 +9,15 @@
   "rating": "9.6",
   "genres": [
     "شوجو",
+    "كوميدي",
     "فانتازيا",
-    "رومانسي",
-    "كوميدي"
+    "رومانسي"
   ],
   "is_novel": false,
   "chapters": {
+    "https://azorafly.com/series/im-being-chased-by-my-husband/chapter-61": {
+      "name": "61"
+    },
     "https://azorafly.com/series/im-being-chased-by-my-husband/chapter-60": {
       "name": "60"
     },

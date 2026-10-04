@@ -1036,26 +1036,6 @@
     "status": "مستمر"
   },
   {
-    "id": "أسرار سيد الدمى الخالد",
-    "title": "أسرار سيد الدمى الخالد",
-    "url": "https://kolnovel.com/series/%d8%a3%d8%b3%d8%b1%d8%a7%d8%b1-%d8%b3%d9%8a%d8%af-%d8%a7%d9%84%d8%af%d9%85%d9%89-%d8%a7%d9%84%d8%ae%d8%a7%d9%84%d8%af",
-    "cover_url": "https://kolnovel.com/wp-content/uploads/2025/07/بدون-اسم67_20260622033133.png",
-    "type": "رواية",
-    "is_novel": true,
-    "rating": "5.0",
-    "total_chapters": 175,
-    "genres": [
-      "أكشن",
-      "خيال",
-      "سينن",
-      "شيانشيا",
-      "غموض",
-      "فنون قتال",
-      "مغامرة"
-    ],
-    "status": "مستمر"
-  },
-  {
     "id": "المتعاقد الميتافيزيقي",
     "title": "المتعاقد الميتافيزيقي",
     "url": "https://kolnovel.com/series/%d8%a7%d9%84%d9%85%d8%aa%d8%b9%d8%a7%d9%82%d8%af-%d8%a7%d9%84%d9%85%d9%8a%d8%aa%d8%a7%d9%81%d9%8a%d8%b2%d9%8a%d9%82%d9%8a",
@@ -1323,6 +1303,26 @@
       "خيال",
       "دراما",
       "غموض"
+    ],
+    "status": "مستمر"
+  },
+  {
+    "id": "أسرار سيد الدمى الخالد",
+    "title": "أسرار سيد الدمى الخالد",
+    "url": "https://kolnovel.com/series/%d8%a3%d8%b3%d8%b1%d8%a7%d8%b1-%d8%b3%d9%8a%d8%af-%d8%a7%d9%84%d8%af%d9%85%d9%89-%d8%a7%d9%84%d8%ae%d8%a7%d9%84%d8%af",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2025/07/بدون-اسم67_20260622033133.png",
+    "type": "رواية",
+    "is_novel": true,
+    "rating": "5.0",
+    "total_chapters": 177,
+    "genres": [
+      "أكشن",
+      "خيال",
+      "سينن",
+      "شيانشيا",
+      "غموض",
+      "فنون قتال",
+      "مغامرة"
     ],
     "status": "مستمر"
   },

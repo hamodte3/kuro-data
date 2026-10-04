@@ -8,13 +8,16 @@
   "last_update": "2026-09-14",
   "rating": "8.3",
   "genres": [
-    "ايسكاي",
     "رومانسى",
+    "ايسكاي",
     "فنتازيا",
     "دراما"
   ],
   "is_novel": false,
   "chapters": {
+    "https://azorafly.com/series/the-final-boss-wants-to-die/chapter-26": {
+      "name": "26"
+    },
     "https://azorafly.com/series/the-final-boss-wants-to-die/chapter-25": {
       "name": "25"
     },

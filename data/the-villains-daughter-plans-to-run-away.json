@@ -10,11 +10,14 @@
   "genres": [
     "رعاية اطفال",
     "خيال",
-    "دراما",
-    "رومانسي"
+    "رومانسي",
+    "دراما"
   ],
   "is_novel": false,
   "chapters": {
+    "https://azorafly.com/series/the-villains-daughter-plans-to-run-away/chapter-110": {
+      "name": "110"
+    },
     "https://azorafly.com/series/the-villains-daughter-plans-to-run-away/chapter-109": {
       "name": "109"
     },

@@ -9,12 +9,15 @@
   "rating": "6.2",
   "genres": [
     "حياة مدرسية",
-    "دراما",
+    "رومانسي",
     "فنتازيا",
-    "رومانسي"
+    "دراما"
   ],
   "is_novel": false,
   "chapters": {
+    "https://azorafly.com/series/unofficia-campus-couple/chapter-23": {
+      "name": "23"
+    },
     "https://azorafly.com/series/unofficia-campus-couple/chapter-22": {
       "name": "22"
     },
