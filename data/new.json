@@ -1,5 +1,75 @@
 [
   {
+    "id": "شيريتوري",
+    "title": "شيريتوري",
+    "chapter": "الفصل 40",
+    "type": "رواية",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2024/11/IMG_20250108_203348_762.png"
+  },
+  {
+    "id": "العوالم في السماء",
+    "title": "العوالم في السماء",
+    "chapter": "الفصل 228",
+    "type": "رواية",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2026/06/file_000000000e487243b1f720c3018a491e.png"
+  },
+  {
+    "id": "ما نسيه العالم",
+    "title": "ما نسيه العالم",
+    "chapter": "الفصل 14",
+    "type": "رواية",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2026/09/Gemini_Generated_Image_38s0mf38s0mf38s0.jpg"
+  },
+  {
+    "id": "المُتَحَرِّر",
+    "title": "المُتَحَرِّر",
+    "chapter": "الفصل 38",
+    "type": "رواية",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2026/09/cover.png"
+  },
+  {
+    "id": "أغنية الجليد والنار",
+    "title": "أغنية الجليد والنار",
+    "chapter": "الفصل 1",
+    "type": "رواية",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2026/10/FFB45937-8A9A-459D-9939-0A85D857C924.jpg"
+  },
+  {
+    "id": "read-reformation-of-the-deadbeat-noble",
+    "title": "Reformation of the Deadbeat Noble",
+    "chapter": "الفصل 161",
+    "type": "مانهوا",
+    "cover_url": "https://storage.azorafly.com/upload/series/featured/02408b52-85d5-445d-9e5c-f7dbcd583bf8/b8820903-9f26-4738-b6a5-e5cc19837e26.png"
+  },
+  {
+    "id": "something-unbelievable",
+    "title": "Enough to Make a Ghost Weep",
+    "chapter": "الفصل 15",
+    "type": "مانهوا",
+    "cover_url": "https://storage.azorafly.com/public/upload/series/featured/02408b52-85d5-445d-9e5c-f7dbcd583bf8/442052d0-b4c2-4c5e-8e4a-f11d1f6cd5ea.webp"
+  },
+  {
+    "id": "the-emperor-finds-his-maid-annoying",
+    "title": "‏The Emperor Finds His Maid Annoying",
+    "chapter": "الفصل 58",
+    "type": "مانهوا",
+    "cover_url": "https://storage.azorafly.com/public/upload/2026/01/17/b2a2ce5b-17f6-48ad-a922-4753dab40ad2.webp"
+  },
+  {
+    "id": "the-villainss-favourite-is-me",
+    "title": "The Villains's Favourite is Me",
+    "chapter": "الفصل 96",
+    "type": "مانهوا",
+    "cover_url": "https://storage.azorafly.com/upload/series/featured/a5vVlSc5huft2AzUyK1VxgKh1ckCWLbZ/6ab6b6c4-dd46-4a88-9179-f2766bd8fb33.jpg"
+  },
+  {
+    "id": "i'm-trying-to-become-part-of-the-dark-duke's-family",
+    "title": "I’m Trying to Become Part of the Dark Duke’s Family",
+    "chapter": "الفصل 36",
+    "type": "مانهوا",
+    "cover_url": "https://storage.azorafly.com/upload/series/featured/oGmL0DQZ16QInTPaeDKwFEK9ryegoy88/5e9a4648-365d-4b69-a435-994450153ccf.jpg"
+  },
+  {
     "id": "im-the-brave-puppy-that-will-save-the-villainess-2",
     "title": "I’m The Brave Puppy That Will Save The Villainess",
     "chapter": "الفصل 46",
@@ -33,75 +103,5 @@
     "chapter": "الفصل 40",
     "type": "مانهوا",
     "cover_url": "https://storage.azorafly.com/upload/series/featured/02408b52-85d5-445d-9e5c-f7dbcd583bf8/1f4366f2-5be4-42fa-b794-ecba05839168.jpeg"
-  },
-  {
-    "id": "سلسلة مونوغاتاري",
-    "title": "سلسلة مونوغاتاري",
-    "chapter": "الفصل 50",
-    "type": "رواية",
-    "cover_url": "https://kolnovel.com/wp-content/uploads/2026/09/mono.jpg"
-  },
-  {
-    "id": "the-timid-frontier-heiress-never-gives-up-her-revenge",
-    "title": "The Timid Frontier Heiress Never Gives Up Her Revenge",
-    "chapter": "الفصل 25",
-    "type": "مانهوا",
-    "cover_url": "https://storage.azorafly.com/upload/series/featured/6cac1de1-87ae-4a81-9cd1-2abe99fd84d7/0adfa2e1-517b-47c9-8c87-ca1a65fcd0c9.png"
-  },
-  {
-    "id": "regression-of-the-yong-clan-heir",
-    "title": "Regression of the Yong Clan Heir",
-    "chapter": "الفصل 60",
-    "type": "مانهوا",
-    "cover_url": "https://storage.azorafly.com/2024/12/A21.webp"
-  },
-  {
-    "id": "this-is-how-revenge-is-done",
-    "title": "This Is How Revenge Is Done",
-    "chapter": "الفصل 43",
-    "type": "مانهوا",
-    "cover_url": "https://storage.azorafly.com/upload/series/featured/a5vVlSc5huft2AzUyK1VxgKh1ckCWLbZ/e4b934c1-3143-40c4-802b-991be8cf1306.jpg"
-  },
-  {
-    "id": "i-reincarnated-as-a-villainess-but-why-did-i-become-a-cat-butler-instead",
-    "title": "I Reincarnated As A Villainess, But Why Did I Become A Cat Butler Instead?",
-    "chapter": "الفصل 97",
-    "type": "مانهوا",
-    "cover_url": "https://storage.azorafly.com/upload/series/featured/cd41a42a-76fd-4c3a-a5f3-c71c3784dd7b/830a8a34-2bdf-474c-b876-459f3c4a9511.webp"
-  },
-  {
-    "id": "operation-name-pure-love",
-    "title": "Operation Name Pure Love",
-    "chapter": "الفصل 143",
-    "type": "مانهوا",
-    "cover_url": "https://storage.azorafly.com/2022/05/B115E8B2-4B22-4234-9463-436C7DC961DE.jpeg"
-  },
-  {
-    "id": "one-day-the-male-lead-fell-into-our-house",
-    "title": "one day, the male lead fell into our house",
-    "chapter": "الفصل 33",
-    "type": "مانهوا",
-    "cover_url": "https://storage.azorafly.com/upload/series/featured/02408b52-85d5-445d-9e5c-f7dbcd583bf8/c61af3f8-4471-412b-a9e9-3766922640c7.jpg"
-  },
-  {
-    "id": "vote-for-your-knight!",
-    "title": "Vote for Your Knight!",
-    "chapter": "الفصل 25",
-    "type": "مانهوا",
-    "cover_url": "https://storage.azorafly.com/upload/series/featured/6cac1de1-87ae-4a81-9cd1-2abe99fd84d7/9c32fdcc-0c08-4ea4-8f75-aac34a426385.webp"
-  },
-  {
-    "id": "the-hero's-ballad",
-    "title": "The Hero’s Ballad",
-    "chapter": "الفصل 12",
-    "type": "مانهوا",
-    "cover_url": "https://storage.azorafly.com/upload/series/featured/6cac1de1-87ae-4a81-9cd1-2abe99fd84d7/ee39c5b3-9eee-4b33-a68e-5a656517d1f4.png"
-  },
-  {
-    "id": "i-became-the-youngest-sister-in-law-of-the-male-leads-ruined-harem",
-    "title": "I Became the youngest sister-in-law of the male leads ruined harem",
-    "chapter": "الفصل 88",
-    "type": "مانهوا",
-    "cover_url": "https://storage.azorafly.com/public/upload/2026/02/21/7c48143f-6d5a-4afd-9660-34ef09b1e5e8.webp"
   }
 ]

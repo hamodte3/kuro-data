@@ -10,11 +10,17 @@
   "genres": [
     "اثارة",
     "هوس",
-    "رعب",
-    "فانتازيا"
+    "فانتازيا",
+    "رعب"
   ],
   "is_novel": false,
   "chapters": {
+    "https://azorafly.com/series/something-unbelievable/chapter-15": {
+      "name": "15"
+    },
+    "https://azorafly.com/series/something-unbelievable/chapter-14": {
+      "name": "14"
+    },
     "https://azorafly.com/series/something-unbelievable/chapter-13": {
       "name": "13"
     },
