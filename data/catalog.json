@@ -1,68 +1,5 @@
 [
   {
-    "id": "murim-psychopath",
-    "title": "Murim Psychopath",
-    "url": "https://azorafly.com/series/murim-psychopath",
-    "cover_url": "https://storage.azorafly.com/2025/12/01KDQX23G3TC2676XJXA08ZBZ1-optimized-scaled.webp",
-    "type": "مانهوا",
-    "status": "مستمر",
-    "rating": "9.9",
-    "total_chapters": 46,
-    "genres": [
-      "موريم",
-      "فنون قتالية",
-      "أكشن",
-      "نفسي",
-      "مغامرة"
-    ]
-  },
-  {
-    "id": "world-destruction-war",
-    "title": "World Destruction War",
-    "url": "https://azorafly.com/series/world-destruction-war",
-    "cover_url": "https://storage.azorafly.com/upload/series/featured/6cac1de1-87ae-4a81-9cd1-2abe99fd84d7/5b6fbb47-34bb-4e19-bcea-1b0e860edf21.png",
-    "type": "مانهوا",
-    "status": "مستمر",
-    "rating": "8.4",
-    "total_chapters": 10,
-    "genres": [
-      "اكشن",
-      "خيالي",
-      "فنتازيا",
-      "دراما"
-    ]
-  },
-  {
-    "id": "i-bought-the-villains-with-money",
-    "title": "I Bought the Villains With Money",
-    "url": "https://azorafly.com/series/i-bought-the-villains-with-money",
-    "cover_url": "https://storage.azorafly.com/upload/series/featured/oGmL0DQZ16QInTPaeDKwFEK9ryegoy88/7f0b297e-58ee-4d90-8b19-fcd64a399611.jpg",
-    "type": "مانهوا",
-    "total_chapters": 20,
-    "genres": [
-      "خيالي",
-      "رومانسى",
-      "دراما شوجو"
-    ],
-    "status": "مستمر",
-    "rating": "10.0"
-  },
-  {
-    "id": "sub-male-lead-you-said-it-was-a-contract-marriage",
-    "title": "Sub-Male Lead, You Said It Was A Contract Marriage?",
-    "url": "https://azorafly.com/series/sub-male-lead-you-said-it-was-a-contract-marriage",
-    "cover_url": "https://storage.azorafly.com/upload/series/featured/02408b52-85d5-445d-9e5c-f7dbcd583bf8/fab20acc-84c1-4ac5-ab51-573a937f410a.jpg",
-    "type": "مانهوا",
-    "status": "مستمر",
-    "rating": "9.0",
-    "total_chapters": 17,
-    "genres": [
-      "رومانسي",
-      "تجسيد",
-      "خيال"
-    ]
-  },
-  {
     "id": "i-accidentally-brought-my-dead-husband-back-to-life",
     "title": "I Accidentally Brought My Dead Husband Back to Life",
     "url": "https://azorafly.com/series/i-accidentally-brought-my-dead-husband-back-to-life",
@@ -861,22 +798,6 @@
       "فنتازيا",
       "دراما"
     ]
-  },
-  {
-    "id": "solo-swordmaster",
-    "title": "Solo Swordmaster",
-    "url": "https://azorafly.com/series/solo-swordmaster",
-    "cover_url": "https://storage.azorafly.com/upload/series/featured/6cac1de1-87ae-4a81-9cd1-2abe99fd84d7/155cace4-74d3-4dc4-91c7-fbdfedc483fd.png",
-    "type": "مانهوا",
-    "total_chapters": 20,
-    "genres": [
-      "اكشن",
-      "دراما",
-      "خيال",
-      "مغامرات"
-    ],
-    "status": "مستمر",
-    "rating": "10.0"
   },
   {
     "id": "your-arrogant-marriage-plan",
@@ -3150,6 +3071,169 @@
     ]
   },
   {
+    "id": "got-dropped-into-a-horror-story-still-gotta-work",
+    "title": "Got Dropped into a Horror Story, Still Gotta Work",
+    "url": "https://azorafly.com/series/got-dropped-into-a-horror-story-still-gotta-work",
+    "cover_url": "https://storage.azorafly.com/upload/series/featured/02408b52-85d5-445d-9e5c-f7dbcd583bf8/1f4366f2-5be4-42fa-b794-ecba05839168.jpeg",
+    "type": "مانهوا",
+    "status": "مستمر",
+    "rating": "9.9",
+    "total_chapters": 40,
+    "genres": [
+      "اكشن",
+      "دراما",
+      "مغامرات",
+      "غموض"
+    ]
+  },
+  {
+    "id": "the-white-tiger-clan's-baby-cotton-ball",
+    "title": "The White Tiger Clan’s Baby Cotton Ball",
+    "url": "https://azorafly.com/series/the-white-tiger-clan's-baby-cotton-ball",
+    "cover_url": "https://storage.azorafly.com/upload/series/featured/6cac1de1-87ae-4a81-9cd1-2abe99fd84d7/eeca9235-69f9-4d4d-9b96-4872a9368072.jpg",
+    "type": "مانهوا",
+    "status": "مستمر",
+    "rating": "9.3",
+    "total_chapters": 39,
+    "genres": [
+      "كوميدي",
+      "شوجو",
+      "فانتازيا",
+      "رومانسي",
+      "دراما"
+    ]
+  },
+  {
+    "id": "an-extra-who-wants-to-escape-the-obsessive-male-lead",
+    "title": "An Extra Who Wants To Escape The Obsessive Male Lead",
+    "url": "https://azorafly.com/series/an-extra-who-wants-to-escape-the-obsessive-male-lead",
+    "cover_url": "https://storage.azorafly.com/upload/series/featured/6cac1de1-87ae-4a81-9cd1-2abe99fd84d7/5c403432-75b2-443e-99ca-1c382246b1bb.jpg",
+    "type": "مانهوا",
+    "status": "مستمر",
+    "rating": "6.2",
+    "total_chapters": 47,
+    "genres": [
+      "كوميدي",
+      "رومانسي",
+      "خيال",
+      "تاريخي",
+      "دراما",
+      "سحر"
+    ]
+  },
+  {
+    "id": "solo-swordmaster",
+    "title": "Solo Swordmaster",
+    "url": "https://azorafly.com/series/solo-swordmaster",
+    "cover_url": "https://storage.azorafly.com/upload/series/featured/6cac1de1-87ae-4a81-9cd1-2abe99fd84d7/155cace4-74d3-4dc4-91c7-fbdfedc483fd.png",
+    "type": "مانهوا",
+    "total_chapters": 20,
+    "genres": [
+      "اكشن",
+      "خيال",
+      "دراما",
+      "مغامرات"
+    ],
+    "status": "مستمر",
+    "rating": "10.0"
+  },
+  {
+    "id": "at-the-abyss-of-fall-i-find-you",
+    "title": "At the Abyss of Fall, I Find You",
+    "url": "https://azorafly.com/series/at-the-abyss-of-fall-i-find-you",
+    "cover_url": "https://storage.azorafly.com/upload/series/featured/02408b52-85d5-445d-9e5c-f7dbcd583bf8/b1810465-e38b-4429-ac3a-985b23da8af5.jpg",
+    "type": "مانهوا",
+    "status": "مستمر",
+    "rating": "8.8",
+    "total_chapters": 25,
+    "genres": [
+      "فانتازيا",
+      "رومانسي",
+      "دراما"
+    ]
+  },
+  {
+    "id": "im-the-brave-puppy-that-will-save-the-villainess-2",
+    "title": "I’m The Brave Puppy That Will Save The Villainess",
+    "url": "https://azorafly.com/series/im-the-brave-puppy-that-will-save-the-villainess-2",
+    "cover_url": "https://storage.azorafly.com/upload/series/featured/02408b52-85d5-445d-9e5c-f7dbcd583bf8/70caf417-cbb6-4ab6-b266-9012bc7b745e.png",
+    "type": "مانهوا",
+    "status": "مستمر",
+    "rating": "9.4",
+    "total_chapters": 46,
+    "genres": [
+      "تجسد",
+      "مانهوا",
+      "كوميدي",
+      "شوجو",
+      "رومانسي",
+      "دراما"
+    ]
+  },
+  {
+    "id": "murim-psychopath",
+    "title": "Murim Psychopath",
+    "url": "https://azorafly.com/series/murim-psychopath",
+    "cover_url": "https://storage.azorafly.com/2025/12/01KDQX23G3TC2676XJXA08ZBZ1-optimized-scaled.webp",
+    "type": "مانهوا",
+    "status": "مستمر",
+    "rating": "9.9",
+    "total_chapters": 46,
+    "genres": [
+      "موريم",
+      "فنون قتالية",
+      "أكشن",
+      "نفسي",
+      "مغامرة"
+    ]
+  },
+  {
+    "id": "world-destruction-war",
+    "title": "World Destruction War",
+    "url": "https://azorafly.com/series/world-destruction-war",
+    "cover_url": "https://storage.azorafly.com/upload/series/featured/6cac1de1-87ae-4a81-9cd1-2abe99fd84d7/5b6fbb47-34bb-4e19-bcea-1b0e860edf21.png",
+    "type": "مانهوا",
+    "status": "مستمر",
+    "rating": "8.4",
+    "total_chapters": 10,
+    "genres": [
+      "اكشن",
+      "خيالي",
+      "فنتازيا",
+      "دراما"
+    ]
+  },
+  {
+    "id": "i-bought-the-villains-with-money",
+    "title": "I Bought the Villains With Money",
+    "url": "https://azorafly.com/series/i-bought-the-villains-with-money",
+    "cover_url": "https://storage.azorafly.com/upload/series/featured/oGmL0DQZ16QInTPaeDKwFEK9ryegoy88/7f0b297e-58ee-4d90-8b19-fcd64a399611.jpg",
+    "type": "مانهوا",
+    "total_chapters": 20,
+    "genres": [
+      "خيالي",
+      "رومانسى",
+      "دراما شوجو"
+    ],
+    "status": "مستمر",
+    "rating": "10.0"
+  },
+  {
+    "id": "sub-male-lead-you-said-it-was-a-contract-marriage",
+    "title": "Sub-Male Lead, You Said It Was A Contract Marriage?",
+    "url": "https://azorafly.com/series/sub-male-lead-you-said-it-was-a-contract-marriage",
+    "cover_url": "https://storage.azorafly.com/upload/series/featured/02408b52-85d5-445d-9e5c-f7dbcd583bf8/fab20acc-84c1-4ac5-ab51-573a937f410a.jpg",
+    "type": "مانهوا",
+    "status": "مستمر",
+    "rating": "9.0",
+    "total_chapters": 17,
+    "genres": [
+      "رومانسي",
+      "تجسيد",
+      "خيال"
+    ]
+  },
+  {
     "id": "i-have-six-months-to-live-but-i've-captivated-the-tyrant-emperor",
     "title": "I Have Six Months to Live, But I’ve Captivated the Tyrant Emperor",
     "url": "https://azorafly.com/series/i-have-six-months-to-live-but-i've-captivated-the-tyrant-emperor",
@@ -4916,21 +5000,6 @@
     ]
   },
   {
-    "id": "at-the-abyss-of-fall-i-find-you",
-    "title": "At the Abyss of Fall, I Find You",
-    "url": "https://azorafly.com/series/at-the-abyss-of-fall-i-find-you",
-    "cover_url": "https://storage.azorafly.com/upload/series/featured/02408b52-85d5-445d-9e5c-f7dbcd583bf8/b1810465-e38b-4429-ac3a-985b23da8af5.jpg",
-    "type": "مانهوا",
-    "status": "مستمر",
-    "rating": "8.8",
-    "total_chapters": 24,
-    "genres": [
-      "دراما",
-      "فانتازيا",
-      "رومانسي"
-    ]
-  },
-  {
     "id": "i-need-a-sponsor",
     "title": "I Need a Sponsor",
     "url": "https://azorafly.com/series/i-need-a-sponsor",
@@ -5852,24 +5921,6 @@
     ]
   },
   {
-    "id": "the-white-tiger-clan's-baby-cotton-ball",
-    "title": "The White Tiger Clan’s Baby Cotton Ball",
-    "url": "https://azorafly.com/series/the-white-tiger-clan's-baby-cotton-ball",
-    "cover_url": "https://storage.azorafly.com/upload/series/featured/6cac1de1-87ae-4a81-9cd1-2abe99fd84d7/eeca9235-69f9-4d4d-9b96-4872a9368072.jpg",
-    "type": "مانهوا",
-    "status": "مستمر",
-    "rating": "9.5",
-    "total_chapters": 38,
-    "genres": [
-      "أكشن",
-      "فانتازيا",
-      "دراما",
-      "رومانسي",
-      "كوميدي",
-      "شوجو"
-    ]
-  },
-  {
     "id": "the-martial-genius-who-remembers-everything",
     "title": "The Martial Genius Who Remembers Everything",
     "url": "https://azorafly.com/series/the-martial-genius-who-remembers-everything",
@@ -6061,23 +6112,6 @@
       "فانتازيا",
       "انتقام",
       "رومانسي"
-    ]
-  },
-  {
-    "id": "got-dropped-into-a-horror-story-still-gotta-work",
-    "title": "Got Dropped into a Horror Story, Still Gotta Work",
-    "url": "https://azorafly.com/series/got-dropped-into-a-horror-story-still-gotta-work",
-    "cover_url": "https://storage.azorafly.com/upload/series/featured/02408b52-85d5-445d-9e5c-f7dbcd583bf8/1f4366f2-5be4-42fa-b794-ecba05839168.jpeg",
-    "type": "مانهوا",
-    "status": "مستمر",
-    "rating": "9.5",
-    "total_chapters": 39,
-    "genres": [
-      "أكشن",
-      "اكشن",
-      "مغامرات",
-      "غموض",
-      "دراما"
     ]
   },
   {
@@ -35772,25 +35806,6 @@
     ]
   },
   {
-    "id": "im-the-brave-puppy-that-will-save-the-villainess-2",
-    "title": "I’m The Brave Puppy That Will Save The Villainess",
-    "url": "https://azorafly.com/series/im-the-brave-puppy-that-will-save-the-villainess-2",
-    "cover_url": "https://storage.azorafly.com/upload/series/featured/02408b52-85d5-445d-9e5c-f7dbcd583bf8/70caf417-cbb6-4ab6-b266-9012bc7b745e.png",
-    "type": "مانهوا",
-    "status": "مستمر",
-    "rating": "9.5",
-    "total_chapters": 45,
-    "genres": [
-      "أكشن",
-      "تجسد",
-      "مانهوا",
-      "دراما",
-      "رومانسي",
-      "شوجو",
-      "كوميدي"
-    ]
-  },
-  {
     "id": "i-will-save-my-father",
     "title": "I will save my father",
     "url": "https://azorafly.com/series/i-will-save-my-father",
@@ -36005,25 +36020,6 @@
       "الحياة اليومية",
       "عصر حديث",
       "خيال",
-      "كوميدي"
-    ]
-  },
-  {
-    "id": "an-extra-who-wants-to-escape-the-obsessive-male-lead",
-    "title": "An Extra Who Wants To Escape The Obsessive Male Lead",
-    "url": "https://azorafly.com/series/an-extra-who-wants-to-escape-the-obsessive-male-lead",
-    "cover_url": "https://storage.azorafly.com/upload/series/featured/6cac1de1-87ae-4a81-9cd1-2abe99fd84d7/5c403432-75b2-443e-99ca-1c382246b1bb.jpg",
-    "type": "مانهوا",
-    "status": "مستمر",
-    "rating": "9.5",
-    "total_chapters": 46,
-    "genres": [
-      "أكشن",
-      "سحر",
-      "تاريخي",
-      "دراما",
-      "خيال",
-      "رومانسي",
       "كوميدي"
     ]
   },

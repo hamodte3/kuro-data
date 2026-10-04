@@ -8,12 +8,15 @@
   "last_update": "2026-06-06",
   "rating": "8.8",
   "genres": [
-    "دراما",
     "فانتازيا",
-    "رومانسي"
+    "رومانسي",
+    "دراما"
   ],
   "is_novel": false,
   "chapters": {
+    "https://azorafly.com/series/at-the-abyss-of-fall-i-find-you/chapter-25": {
+      "name": "25"
+    },
     "https://azorafly.com/series/at-the-abyss-of-fall-i-find-you/chapter-24": {
       "name": "24"
     },
