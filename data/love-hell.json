@@ -1,0 +1,32 @@
+{
+  "id": "love-hell",
+  "title": "Love Hell",
+  "cover_url": "https://storage.azorafly.com/upload/series/featured/02408b52-85d5-445d-9e5c-f7dbcd583bf8/7b4334cf-db0d-48dd-80a1-89525593944b.png",
+  "description": "في عصرٍ تُقاس فيه قيمة الحب والزواج بأرقامٍ صارمة، حيث لا أحد يرغب في أن يكون الخاسر، تجد روحان مُنهكتان شرارةً غير متوقعة.",
+  "type": "مانهوا",
+  "status": "مستمر",
+  "last_update": "2026-10-03",
+  "rating": "9.0",
+  "genres": [
+    "رومانسى",
+    "دراما"
+  ],
+  "is_novel": false,
+  "chapters": {
+    "https://azorafly.com/series/love-hell/chapter-5": {
+      "name": "5"
+    },
+    "https://azorafly.com/series/love-hell/chapter-4": {
+      "name": "4"
+    },
+    "https://azorafly.com/series/love-hell/chapter-3": {
+      "name": "3"
+    },
+    "https://azorafly.com/series/love-hell/chapter-2": {
+      "name": "2"
+    },
+    "https://azorafly.com/series/love-hell/chapter-1": {
+      "name": "1"
+    }
+  }
+}

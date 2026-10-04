@@ -9,12 +9,18 @@
   "rating": "10.0",
   "genres": [
     "تجسيد",
-    "سحر",
     "رومانسي",
-    "دراما"
+    "دراما",
+    "سحر"
   ],
   "is_novel": false,
   "chapters": {
+    "https://azorafly.com/series/ill-predict-your-happy-ending/chapter-53": {
+      "name": "53"
+    },
+    "https://azorafly.com/series/ill-predict-your-happy-ending/chapter-52": {
+      "name": "52"
+    },
     "https://azorafly.com/series/ill-predict-your-happy-ending/chapter-51": {
       "name": "51"
     },

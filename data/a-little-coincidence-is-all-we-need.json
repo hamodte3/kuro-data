@@ -6,7 +6,7 @@
   "type": "مانهوا",
   "status": "مستمر",
   "last_update": "2026-09-28",
-  "rating": "10.0",
+  "rating": "9.5",
   "genres": [
     "رومانسى",
     "كوميدي",
@@ -14,6 +14,9 @@
   ],
   "is_novel": false,
   "chapters": {
+    "https://azorafly.com/series/a-little-coincidence-is-all-we-need/chapter-5": {
+      "name": "5"
+    },
     "https://azorafly.com/series/a-little-coincidence-is-all-we-need/chapter-4": {
       "name": "4"
     },

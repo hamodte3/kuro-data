@@ -6,15 +6,18 @@
   "type": "مانهوا",
   "status": "مستمر",
   "last_update": "2026-05-26",
-  "rating": "9.1",
+  "rating": "9.2",
   "genres": [
-    "خيال",
     "كوميدي",
-    "دراما",
-    "رومانسي"
+    "خيال",
+    "رومانسي",
+    "دراما"
   ],
   "is_novel": false,
   "chapters": {
+    "https://azorafly.com/series/the-low-ranking-civil-servant-wants-to-achieve-success/chapter-75": {
+      "name": "75"
+    },
     "https://azorafly.com/series/the-low-ranking-civil-servant-wants-to-achieve-success/chapter-74": {
       "name": "74"
     },
