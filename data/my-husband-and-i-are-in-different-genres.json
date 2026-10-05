@@ -6,17 +6,29 @@
   "type": "رواية",
   "status": "مستمر",
   "last_update": "2026-07-21",
-  "rating": "10.0",
+  "rating": "9.9",
   "genres": [
     "كوميدي",
-    "خيال",
     "رومانسي",
     "بدون تجسيد",
     "سوء فهم",
-    "دراما"
+    "دراما",
+    "خيال"
   ],
   "is_novel": false,
   "chapters": {
+    "https://azorafly.com/series/my-husband-and-i-are-in-different-genres/chapter-80": {
+      "name": "80"
+    },
+    "https://azorafly.com/series/my-husband-and-i-are-in-different-genres/chapter-79": {
+      "name": "79"
+    },
+    "https://azorafly.com/series/my-husband-and-i-are-in-different-genres/chapter-78": {
+      "name": "78"
+    },
+    "https://azorafly.com/series/my-husband-and-i-are-in-different-genres/chapter-77": {
+      "name": "77"
+    },
     "https://azorafly.com/series/my-husband-and-i-are-in-different-genres/chapter-76": {
       "name": "76"
     },

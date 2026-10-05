@@ -862,25 +862,6 @@
     "status": "مستمر"
   },
   {
-    "id": "بوابة الخلود",
-    "title": "بوابة الخلود",
-    "url": "https://kolnovel.com/series/%d8%a8%d9%88%d8%a7%d8%a8%d8%a9-%d8%a7%d9%84%d8%ae%d9%84%d9%88%d8%af",
-    "cover_url": "https://kolnovel.com/wp-content/uploads/2025/01/بدون-اسم72.png",
-    "type": "رواية",
-    "is_novel": true,
-    "rating": "8.0",
-    "total_chapters": 1244,
-    "genres": [
-      "أكشن",
-      "خيال",
-      "شريحة من الحياة",
-      "شيانشيا",
-      "مغامرة",
-      "ووشيا"
-    ],
-    "status": "مستمر"
-  },
-  {
     "id": "موشوكو تينساي",
     "title": "موشوكو تينساي",
     "url": "https://kolnovel.com/series/mushoku-tensei",
@@ -947,7 +928,7 @@
     "cover_url": "https://kolnovel.com/wp-content/uploads/2022/11/بدون-اسم88_20260715191031.png",
     "type": "رواية",
     "is_novel": true,
-    "rating": "4.5",
+    "rating": "8.9",
     "total_chapters": 629,
     "genres": [
       "أكشن",
@@ -976,24 +957,6 @@
       "غموض",
       "فناء",
       "نفسي"
-    ],
-    "status": "مستمر"
-  },
-  {
-    "id": "ملحمة سليل الخوف",
-    "title": "ملحمة سليل الخوف",
-    "url": "https://kolnovel.com/series/%d9%85%d9%84%d8%ad%d9%85%d8%a9-%d8%b3%d9%84%d9%8a%d9%84-%d8%a7%d9%84%d8%ae%d9%88%d9%81",
-    "cover_url": "https://kolnovel.com/wp-content/uploads/2025/12/89394.png",
-    "type": "رواية",
-    "is_novel": true,
-    "rating": "",
-    "total_chapters": 28,
-    "genres": [
-      "خيال علمي",
-      "رعب",
-      "سحر",
-      "غموض",
-      "مغامرة"
     ],
     "status": "مستمر"
   },
@@ -1054,45 +1017,6 @@
     "status": "مستمر"
   },
   {
-    "id": "كيف أعاد بطل واقعي بناء المملكة",
-    "title": "كيف أعاد بطل واقعي بناء المملكة",
-    "url": "https://kolnovel.com/series/%d9%83%d9%8a%d9%81-%d8%a3%d8%b9%d8%a7%d8%af-%d8%a8%d8%b7%d9%84-%d9%88%d8%a7%d9%82%d8%b9%d9%8a-%d8%a8%d9%86%d8%a7%d8%a1-%d8%a7%d9%84%d9%85%d9%85%d9%84%d9%83%d8%a9",
-    "cover_url": "https://kolnovel.com/wp-content/uploads/2026/08/RealistHero-LN-v02-Cover.jpg",
-    "type": "رواية",
-    "is_novel": true,
-    "rating": "5.0",
-    "total_chapters": 54,
-    "genres": [
-      "أكشن",
-      "حريم",
-      "خيال",
-      "دراما",
-      "رومانسية",
-      "سياسة",
-      "عسكرية",
-      "كوميديا",
-      "مغامرة"
-    ],
-    "status": "مستمر"
-  },
-  {
-    "id": "تسلق البرج باستخدام قدرة إيقاف الزمن",
-    "title": "تسلق البرج باستخدام قدرة إيقاف الزمن",
-    "url": "https://kolnovel.com/series/%d8%aa%d8%b3%d9%84%d9%82-%d8%a7%d9%84%d8%a8%d8%b1%d8%ac-%d8%a8%d8%a7%d8%b3%d8%aa%d8%ae%d8%af%d8%a7%d9%85-%d9%82%d8%af%d8%b1%d8%a9-%d8%a5%d9%8a%d9%82%d8%a7%d9%81-%d8%a7%d9%84%d8%b2%d9%85%d9%86",
-    "cover_url": "https://kolnovel.com/wp-content/uploads/2026/07/113225-2.png",
-    "type": "رواية",
-    "is_novel": true,
-    "rating": "4.0",
-    "total_chapters": 37,
-    "genres": [
-      "أكشن",
-      "خيال",
-      "سينين",
-      "مغامرة"
-    ],
-    "status": "مستمر"
-  },
-  {
     "id": "المُتَحَرِّر",
     "title": "المُتَحَرِّر",
     "url": "https://kolnovel.com/series/%d8%a7%d9%84%d9%85%d9%8f%d8%aa%d9%8e%d8%ad%d9%8e%d8%b1%d9%90%d9%91%d8%b1",
@@ -1127,45 +1051,6 @@
     "status": "مستمر"
   },
   {
-    "id": "ملك سمات الفنون القتالية",
-    "title": "ملك سمات الفنون القتالية",
-    "url": "https://kolnovel.com/series/%d9%85%d9%84%d9%83-%d8%b3%d9%85%d8%a7%d8%aa-%d8%a7%d9%84%d9%81%d9%86%d9%88%d9%86-%d8%a7%d9%84%d9%82%d8%aa%d8%a7%d9%84%d9%8a%d8%a9",
-    "cover_url": "https://kolnovel.com/wp-content/uploads/2026/01/GIF-260910_004008.gif",
-    "type": "رواية",
-    "is_novel": true,
-    "rating": "5.0",
-    "total_chapters": 1482,
-    "genres": [
-      "بطل وقح",
-      "خيال",
-      "شيانشيا",
-      "فنون قتال",
-      "مغامرة"
-    ],
-    "status": "مستمر"
-  },
-  {
-    "id": "اتضح أنني من عشيرة الأشرار!",
-    "title": "اتضح أنني من عشيرة الأشرار!",
-    "url": "https://kolnovel.com/series/%d8%a7%d8%aa%d8%b6%d8%ad-%d8%a3%d9%86%d9%86%d9%8a-%d9%85%d9%86-%d8%b9%d8%b4%d9%8a%d8%b1%d8%a9-%d8%a7%d9%84%d8%a3%d8%b4%d8%b1%d8%a7%d8%b1",
-    "cover_url": "https://kolnovel.com/wp-content/uploads/2026/05/GIF-260606_171205.gif",
-    "type": "رواية",
-    "is_novel": true,
-    "rating": "4.5",
-    "total_chapters": 331,
-    "genres": [
-      "إنتقام",
-      "بطل شرير",
-      "بناء مملكة",
-      "تدريب",
-      "حروب",
-      "دموي",
-      "مكر و خداع",
-      "نظام"
-    ],
-    "status": "مستمر"
-  },
-  {
     "id": "ما نسيه العالم",
     "title": "ما نسيه العالم",
     "url": "https://kolnovel.com/series/%d9%85%d8%a7-%d9%86%d8%b3%d9%8a%d9%87-%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85",
@@ -1190,23 +1075,6 @@
     "status": "مستمر"
   },
   {
-    "id": "غوامض النبلاء",
-    "title": "غوامض النبلاء",
-    "url": "https://kolnovel.com/series/%d8%ba%d9%88%d8%a7%d9%85%d8%b6-%d8%a7%d9%84%d9%86%d8%a8%d9%84%d8%a7%d8%a1",
-    "cover_url": "https://kolnovel.com/wp-content/uploads/2026/09/بدون-اسم151_20260929090619.png",
-    "type": "رواية",
-    "is_novel": true,
-    "rating": "",
-    "total_chapters": 12,
-    "genres": [
-      "أكشن",
-      "خيال",
-      "دراما",
-      "غموض"
-    ],
-    "status": "مستمر"
-  },
-  {
     "id": "أسرار سيد الدمى الخالد",
     "title": "أسرار سيد الدمى الخالد",
     "url": "https://kolnovel.com/series/%d8%a3%d8%b3%d8%b1%d8%a7%d8%b1-%d8%b3%d9%8a%d8%af-%d8%a7%d9%84%d8%af%d9%85%d9%89-%d8%a7%d9%84%d8%ae%d8%a7%d9%84%d8%af",
@@ -1222,24 +1090,6 @@
       "شيانشيا",
       "غموض",
       "فنون قتال",
-      "مغامرة"
-    ],
-    "status": "مستمر"
-  },
-  {
-    "id": "امبراطور الخيمياء في العالم السماوي",
-    "title": "امبراطور الخيمياء في العالم السماوي",
-    "url": "https://kolnovel.com/series/elchamy-ambarar-af-tha-divina-dea",
-    "cover_url": "https://kolnovel.com/wp-content/uploads/2020/10/GIF-260509_034955.gif",
-    "type": "رواية",
-    "is_novel": true,
-    "rating": "",
-    "total_chapters": 3696,
-    "genres": [
-      "حريم",
-      "فنون القتال",
-      "كوميدي",
-      "ما بعد الكارثة",
       "مغامرة"
     ],
     "status": "مستمر"
@@ -1323,6 +1173,156 @@
       "كوميديا",
       "مغامرة",
       "ناضج"
+    ],
+    "status": "مستمر"
+  },
+  {
+    "id": "بوابة الخلود",
+    "title": "بوابة الخلود",
+    "url": "https://kolnovel.com/series/%d8%a8%d9%88%d8%a7%d8%a8%d8%a9-%d8%a7%d9%84%d8%ae%d9%84%d9%88%d8%af",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2025/01/بدون-اسم72.png",
+    "type": "رواية",
+    "is_novel": true,
+    "rating": "4.0",
+    "total_chapters": 1250,
+    "genres": [
+      "أكشن",
+      "خيال",
+      "شريحة من الحياة",
+      "شيانشيا",
+      "مغامرة",
+      "ووشيا"
+    ],
+    "status": "مستمر"
+  },
+  {
+    "id": "اتضح أنني من عشيرة الأشرار!",
+    "title": "اتضح أنني من عشيرة الأشرار!",
+    "url": "https://kolnovel.com/series/%d8%a7%d8%aa%d8%b6%d8%ad-%d8%a3%d9%86%d9%86%d9%8a-%d9%85%d9%86-%d8%b9%d8%b4%d9%8a%d8%b1%d8%a9-%d8%a7%d9%84%d8%a3%d8%b4%d8%b1%d8%a7%d8%b1",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2026/05/GIF-260606_171205.gif",
+    "type": "رواية",
+    "is_novel": true,
+    "rating": "4.5",
+    "total_chapters": 334,
+    "genres": [
+      "إنتقام",
+      "بطل شرير",
+      "بناء مملكة",
+      "تدريب",
+      "حروب",
+      "دموي",
+      "مكر و خداع",
+      "نظام"
+    ],
+    "status": "مستمر"
+  },
+  {
+    "id": "ملحمة سليل الخوف",
+    "title": "ملحمة سليل الخوف",
+    "url": "https://kolnovel.com/series/%d9%85%d9%84%d8%ad%d9%85%d8%a9-%d8%b3%d9%84%d9%8a%d9%84-%d8%a7%d9%84%d8%ae%d9%88%d9%81",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2025/12/89394.png",
+    "type": "رواية",
+    "is_novel": true,
+    "rating": "",
+    "total_chapters": 29,
+    "genres": [
+      "خيال علمي",
+      "رعب",
+      "سحر",
+      "غموض",
+      "مغامرة"
+    ],
+    "status": "مستمر"
+  },
+  {
+    "id": "ملك سمات الفنون القتالية",
+    "title": "ملك سمات الفنون القتالية",
+    "url": "https://kolnovel.com/series/%d9%85%d9%84%d9%83-%d8%b3%d9%85%d8%a7%d8%aa-%d8%a7%d9%84%d9%81%d9%86%d9%88%d9%86-%d8%a7%d9%84%d9%82%d8%aa%d8%a7%d9%84%d9%8a%d8%a9",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2026/01/GIF-260910_004008.gif",
+    "type": "رواية",
+    "is_novel": true,
+    "rating": "5.0",
+    "total_chapters": 1485,
+    "genres": [
+      "بطل وقح",
+      "خيال",
+      "شيانشيا",
+      "فنون قتال",
+      "مغامرة"
+    ],
+    "status": "مستمر"
+  },
+  {
+    "id": "غوامض النبلاء",
+    "title": "غوامض النبلاء",
+    "url": "https://kolnovel.com/series/%d8%ba%d9%88%d8%a7%d9%85%d8%b6-%d8%a7%d9%84%d9%86%d8%a8%d9%84%d8%a7%d8%a1",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2026/09/بدون-اسم151_20260929090619.png",
+    "type": "رواية",
+    "is_novel": true,
+    "rating": "",
+    "total_chapters": 14,
+    "genres": [
+      "أكشن",
+      "خيال",
+      "دراما",
+      "غموض"
+    ],
+    "status": "مستمر"
+  },
+  {
+    "id": "تسلق البرج باستخدام قدرة إيقاف الزمن",
+    "title": "تسلق البرج باستخدام قدرة إيقاف الزمن",
+    "url": "https://kolnovel.com/series/%d8%aa%d8%b3%d9%84%d9%82-%d8%a7%d9%84%d8%a8%d8%b1%d8%ac-%d8%a8%d8%a7%d8%b3%d8%aa%d8%ae%d8%af%d8%a7%d9%85-%d9%82%d8%af%d8%b1%d8%a9-%d8%a5%d9%8a%d9%82%d8%a7%d9%81-%d8%a7%d9%84%d8%b2%d9%85%d9%86",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2026/07/113225-2.png",
+    "type": "رواية",
+    "is_novel": true,
+    "rating": "4.0",
+    "total_chapters": 39,
+    "genres": [
+      "أكشن",
+      "خيال",
+      "سينين",
+      "مغامرة"
+    ],
+    "status": "مستمر"
+  },
+  {
+    "id": "امبراطور الخيمياء في العالم السماوي",
+    "title": "امبراطور الخيمياء في العالم السماوي",
+    "url": "https://kolnovel.com/series/elchamy-ambarar-af-tha-divina-dea",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2020/10/GIF-260509_034955.gif",
+    "type": "رواية",
+    "is_novel": true,
+    "rating": "",
+    "total_chapters": 3699,
+    "genres": [
+      "حريم",
+      "فنون القتال",
+      "كوميدي",
+      "ما بعد الكارثة",
+      "مغامرة"
+    ],
+    "status": "مستمر"
+  },
+  {
+    "id": "كيف أعاد بطل واقعي بناء المملكة",
+    "title": "كيف أعاد بطل واقعي بناء المملكة",
+    "url": "https://kolnovel.com/series/%d9%83%d9%8a%d9%81-%d8%a3%d8%b9%d8%a7%d8%af-%d8%a8%d8%b7%d9%84-%d9%88%d8%a7%d9%82%d8%b9%d9%8a-%d8%a8%d9%86%d8%a7%d8%a1-%d8%a7%d9%84%d9%85%d9%85%d9%84%d9%83%d8%a9",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2026/08/RealistHero-LN-v02-Cover.jpg",
+    "type": "رواية",
+    "is_novel": true,
+    "rating": "5.0",
+    "total_chapters": 54,
+    "genres": [
+      "أكشن",
+      "حريم",
+      "خيال",
+      "دراما",
+      "رومانسية",
+      "سياسة",
+      "عسكرية",
+      "كوميديا",
+      "مغامرة"
     ],
     "status": "مستمر"
   },

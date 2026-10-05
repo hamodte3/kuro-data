@@ -1,14 +1,5 @@
 [
   {
-    "id": "ashita-no-joe",
-    "title": "ashita no joe",
-    "url": "https://3asq.online/manga/ashita-no-joe",
-    "cover_url": "https://3asq.online/wp-content/uploads/2025/08/Tomorrows-Joe-1-175x238.jpg",
-    "type": "Aksel.san",
-    "rating": "4.6",
-    "genres": []
-  },
-  {
     "id": "baki-dou-2018",
     "title": "Baki Dou (2018)",
     "url": "https://3asq.online/manga/baki-dou-2018",
@@ -342,6 +333,16 @@
     "cover_url": "https://3asq.online/wp-content/uploads/2019/03/episode-8-copy-175x238.png",
     "type": "3asq",
     "rating": "4.2",
+    "genres": []
+  },
+  {
+    "id": "dandelion",
+    "title": "Dandelion",
+    "url": "https://3asq.online/manga/dandelion",
+    "cover_url": "https://3asq.online/wp-content/uploads/2026/03/غلاف-175x238.jpg",
+    "type": "abdHD",
+    "rating": "5.0",
+    "total_chapters": 0,
     "genres": []
   },
   {
@@ -851,22 +852,6 @@
     ]
   },
   {
-    "id": "sangeki",
-    "title": "Sangeki",
-    "url": "https://3asq.online/manga/sangeki",
-    "cover_url": "https://3asq.online/wp-content/uploads/2026/04/غلاف-مانجا-مسرحية-الجبل-175x238.png",
-    "type": "مانغا",
-    "rating": "3.9",
-    "status": "مستمر",
-    "total_chapters": 21,
-    "genres": [
-      "دراما",
-      "سينين",
-      "غموض",
-      "مأساة"
-    ]
-  },
-  {
     "id": "dark-gathering",
     "title": "Dark gathering",
     "url": "https://3asq.online/manga/dark-gathering",
@@ -1211,6 +1196,31 @@
       "سينين",
       "شريحة من الحياة"
     ]
+  },
+  {
+    "id": "sangeki",
+    "title": "Sangeki",
+    "url": "https://3asq.online/manga/sangeki",
+    "cover_url": "https://3asq.online/wp-content/uploads/2026/04/6cfbaeb6-59ae-4971-bfaa-3b026b6c9ad9-175x238.jpg",
+    "type": "مانغا",
+    "rating": "3.9",
+    "status": "مستمر",
+    "total_chapters": 22,
+    "genres": [
+      "دراما",
+      "سينين",
+      "غموض",
+      "مأساة"
+    ]
+  },
+  {
+    "id": "ashita-no-joe",
+    "title": "ashita no joe",
+    "url": "https://3asq.online/manga/ashita-no-joe",
+    "cover_url": "https://3asq.online/wp-content/uploads/2025/08/Tomorrows-Joe-1-175x238.jpg",
+    "type": "Aksel.san",
+    "rating": "4.6",
+    "genres": []
   },
   {
     "id": "jujutsu-kaisen-modulo",

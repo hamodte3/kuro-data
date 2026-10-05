@@ -8,20 +8,23 @@
   "last_update": "2026-05-07",
   "rating": "9.8",
   "genres": [
-    "الحياة اليومية",
     "ايسكاي",
-    "تاريخي",
-    "مغامرات",
+    "الحياة اليومية",
     "شوجو",
-    "سحر",
-    "خيال",
+    "تاريخي",
+    "غموض",
+    "مغامرات",
     "إثارة",
     "دراما",
+    "خيال",
     "رومانسي",
-    "غموض"
+    "سحر"
   ],
   "is_novel": false,
   "chapters": {
+    "https://azorafly.com/series/the-baby-raising-a-devil/chapter-56": {
+      "name": "56"
+    },
     "https://azorafly.com/series/the-baby-raising-a-devil/chapter-55": {
       "name": "55"
     },

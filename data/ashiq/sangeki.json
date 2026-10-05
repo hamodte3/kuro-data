@@ -1,7 +1,7 @@
 {
   "id": "sangeki",
   "title": "Sangeki",
-  "cover_url": "https://3asq.online/wp-content/uploads/2026/04/غلاف-مانجا-مسرحية-الجبل.png",
+  "cover_url": "https://3asq.online/wp-content/uploads/2026/04/6cfbaeb6-59ae-4971-bfaa-3b026b6c9ad9.jpg",
   "description": "ميكو الطالب الثانوي، الذي كان يظن أنه سيرث جبل جده يومًا ما، يجد نفسه وقد خسر الفتاة التي أحبها لصالح صديقه، وانحدر إلى أدنى مراتب الهرم الاجتماعي في مدرسته. كان ذلك الجبل ملاذه الوحيد، غير أن رجلاً غامضًا مقنّعًا يظهر فجأة ويبدأ في بناء كوخ صغير هناك…",
   "type": "مانغا",
   "status": "مستمر",
@@ -15,6 +15,9 @@
   ],
   "is_novel": false,
   "chapters": {
+    "https://3asq.online/manga/sangeki/22": {
+      "name": "22"
+    },
     "https://3asq.online/manga/sangeki/21": {
       "name": "21"
     },
