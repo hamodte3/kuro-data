@@ -1,53 +1,5 @@
 [
   {
-    "id": "kneel-your-grace",
-    "title": "Kneel, Your Grace!",
-    "url": "https://azorafly.com/series/kneel-your-grace",
-    "cover_url": "https://storage.azorafly.com/upload/series/featured/36b5afed-dad7-4e85-86ee-7629e1388021/f411342b-281a-48a4-b979-40a937c83c24.jpg",
-    "type": "مانهوا",
-    "status": "مستمر",
-    "rating": "9.9",
-    "total_chapters": 44,
-    "genres": []
-  },
-  {
-    "id": "villain-family's-strongest-butler",
-    "title": "Villain Family's Strongest Butler",
-    "url": "https://azorafly.com/series/villain-family's-strongest-butler",
-    "cover_url": "https://storage.azorafly.com/upload/series/featured/a5vVlSc5huft2AzUyK1VxgKh1ckCWLbZ/ee5843b1-80b2-47c3-80c4-c22f5c6180f4.jpg",
-    "type": "رواية",
-    "status": "مستمر",
-    "rating": "9.7",
-    "total_chapters": 121,
-    "genres": [
-      "فقدان ذاكرة",
-      "من أعداء لأحباء",
-      "تبادل أرواح",
-      "تاريخي",
-      "كوميدي",
-      "خيال",
-      "رومانسي",
-      "سحر",
-      "دراما"
-    ]
-  },
-  {
-    "id": "how-to-survive-the-horror-novel-i-wrote",
-    "title": "How to Survive the Horror Novel I Wrote",
-    "url": "https://azorafly.com/series/how-to-survive-the-horror-novel-i-wrote",
-    "cover_url": "https://storage.azorafly.com/upload/series/featured/02408b52-85d5-445d-9e5c-f7dbcd583bf8/7c15149a-b437-4aaa-b6dd-47d76ad93994.webp",
-    "type": "مانهوا",
-    "status": "مستمر",
-    "rating": "10.0",
-    "total_chapters": 9,
-    "genres": [
-      "رومانسى",
-      "خيالي",
-      "درما",
-      "رعب"
-    ]
-  },
-  {
     "id": "trash-of-the-counts-family",
     "title": "Trash of the Count's Family",
     "url": "https://azorafly.com/series/trash-of-the-counts-family",
@@ -1909,6 +1861,21 @@
     "genres": []
   },
   {
+    "id": "the-baddest-villainess-is-back1",
+    "title": "The Baddest Villainess Is Back",
+    "url": "https://azorafly.com/series/the-baddest-villainess-is-back1",
+    "cover_url": "https://storage.azorafly.com/upload/series/featured/oGmL0DQZ16QInTPaeDKwFEK9ryegoy88/9bb08439-6f20-419b-a5cd-ad5c317590f9.jpg",
+    "type": "مانهوا",
+    "status": "مستمر",
+    "rating": "9.3",
+    "total_chapters": 29,
+    "genres": [
+      "رومانسى",
+      "شوجو",
+      "دراما"
+    ]
+  },
+  {
     "id": "i-became-the-youngest-sister-in-law-of-the-male-leads-ruined-harem",
     "title": "I Became the youngest sister-in-law of the male leads ruined harem",
     "url": "https://azorafly.com/series/i-became-the-youngest-sister-in-law-of-the-male-leads-ruined-harem",
@@ -3187,6 +3154,85 @@
     ]
   },
   {
+    "id": "the-flower-with-a-sword",
+    "title": "The Flower With a Sword",
+    "url": "https://azorafly.com/series/the-flower-with-a-sword",
+    "cover_url": "https://storage.azorafly.com/public/upload/2026/04/03/85f99085-fac0-4b13-97b8-5990ae2a751d.webp",
+    "type": "مانهوا",
+    "status": "مستمر",
+    "rating": "10.0",
+    "total_chapters": 62,
+    "genres": [
+      "خيالي",
+      "كوميدي",
+      "مغامرات",
+      "رومانسي",
+      "سحر"
+    ]
+  },
+  {
+    "id": "a-blank-slate-regression-for-the-idol-that-lost-his-original-mindset",
+    "title": "A Blank Slate Regression for the Idol That Lost His Original Mindset",
+    "url": "https://azorafly.com/series/a-blank-slate-regression-for-the-idol-that-lost-his-original-mindset",
+    "cover_url": "https://storage.azorafly.com/2025/01/A.jpg",
+    "type": "مانهوا",
+    "status": "مستمر",
+    "rating": "10.0",
+    "total_chapters": 60,
+    "genres": [
+      "فانتازيا",
+      "دراما"
+    ]
+  },
+  {
+    "id": "villain-family's-strongest-butler",
+    "title": "Villain Family's Strongest Butler",
+    "url": "https://azorafly.com/series/villain-family's-strongest-butler",
+    "cover_url": "https://storage.azorafly.com/upload/series/featured/a5vVlSc5huft2AzUyK1VxgKh1ckCWLbZ/ee5843b1-80b2-47c3-80c4-c22f5c6180f4.jpg",
+    "type": "رواية",
+    "status": "مستمر",
+    "rating": "9.8",
+    "total_chapters": 131,
+    "genres": [
+      "فقدان ذاكرة",
+      "من أعداء لأحباء",
+      "تبادل أرواح",
+      "تاريخي",
+      "كوميدي",
+      "خيال",
+      "رومانسي",
+      "دراما",
+      "سحر"
+    ]
+  },
+  {
+    "id": "kneel-your-grace",
+    "title": "Kneel, Your Grace!",
+    "url": "https://azorafly.com/series/kneel-your-grace",
+    "cover_url": "https://storage.azorafly.com/upload/series/featured/36b5afed-dad7-4e85-86ee-7629e1388021/f411342b-281a-48a4-b979-40a937c83c24.jpg",
+    "type": "مانهوا",
+    "status": "مستمر",
+    "rating": "9.9",
+    "total_chapters": 44,
+    "genres": []
+  },
+  {
+    "id": "how-to-survive-the-horror-novel-i-wrote",
+    "title": "How to Survive the Horror Novel I Wrote",
+    "url": "https://azorafly.com/series/how-to-survive-the-horror-novel-i-wrote",
+    "cover_url": "https://storage.azorafly.com/upload/series/featured/02408b52-85d5-445d-9e5c-f7dbcd583bf8/7c15149a-b437-4aaa-b6dd-47d76ad93994.webp",
+    "type": "مانهوا",
+    "status": "مستمر",
+    "rating": "10.0",
+    "total_chapters": 9,
+    "genres": [
+      "رومانسى",
+      "خيالي",
+      "درما",
+      "رعب"
+    ]
+  },
+  {
     "id": "when-my-pet-became-the-villain",
     "title": "When My Pet Became the Villain",
     "url": "https://azorafly.com/series/when-my-pet-became-the-villain",
@@ -3481,21 +3527,6 @@
       "مغامرات",
       "أكشن",
       "غموض"
-    ]
-  },
-  {
-    "id": "the-baddest-villainess-is-back1",
-    "title": "The Baddest Villainess Is Back",
-    "url": "https://azorafly.com/series/the-baddest-villainess-is-back1",
-    "cover_url": "https://storage.azorafly.com/upload/series/featured/oGmL0DQZ16QInTPaeDKwFEK9ryegoy88/9bb08439-6f20-419b-a5cd-ad5c317590f9.jpg",
-    "type": "مانهوا",
-    "status": "مستمر",
-    "rating": "9.3",
-    "total_chapters": 29,
-    "genres": [
-      "رومانسى",
-      "شوجو",
-      "دراما"
     ]
   },
   {
@@ -5713,23 +5744,6 @@
     ]
   },
   {
-    "id": "the-flower-with-a-sword",
-    "title": "The Flower With a Sword",
-    "url": "https://azorafly.com/series/the-flower-with-a-sword",
-    "cover_url": "https://storage.azorafly.com/public/upload/2026/04/03/85f99085-fac0-4b13-97b8-5990ae2a751d.webp",
-    "type": "مانهوا",
-    "status": "مستمر",
-    "rating": "10.0",
-    "total_chapters": 61,
-    "genres": [
-      "خيالي",
-      "رومانسي",
-      "مغامرات",
-      "سحر",
-      "كوميدي"
-    ]
-  },
-  {
     "id": "a-gangsters-first-love",
     "title": "A Gangster's First Love",
     "url": "https://azorafly.com/series/a-gangsters-first-love",
@@ -6102,21 +6116,6 @@
       "غموض",
       "رومانسي",
       "شوجو"
-    ]
-  },
-  {
-    "id": "a-blank-slate-regression-for-the-idol-that-lost-his-original-mindset",
-    "title": "A Blank Slate Regression for the Idol That Lost His Original Mindset",
-    "url": "https://azorafly.com/series/a-blank-slate-regression-for-the-idol-that-lost-his-original-mindset",
-    "cover_url": "https://storage.azorafly.com/2025/01/A.jpg",
-    "type": "مانهوا",
-    "status": "مستمر",
-    "rating": "9.5",
-    "total_chapters": 59,
-    "genres": [
-      "أكشن",
-      "فانتازيا",
-      "دراما"
     ]
   },
   {
