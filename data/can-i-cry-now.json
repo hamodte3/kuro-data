@@ -8,12 +8,15 @@
   "last_update": "2026-05-07",
   "rating": "10.0",
   "genres": [
-    "رومانسي",
     "دراما",
+    "رومانسي",
     "فانتازيا"
   ],
   "is_novel": false,
   "chapters": {
+    "https://azorafly.com/series/can-i-cry-now/chapter-61": {
+      "name": "61"
+    },
     "https://azorafly.com/series/can-i-cry-now/chapter-60": {
       "name": "60"
     },

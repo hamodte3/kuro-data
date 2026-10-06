@@ -9,11 +9,14 @@
   "rating": "10.0",
   "genres": [
     "الحياة المدرسية",
-    "رومانسي",
-    "دراما"
+    "دراما",
+    "رومانسي"
   ],
   "is_novel": false,
   "chapters": {
+    "https://azorafly.com/series/operation-heart-pounding/chapter-23": {
+      "name": "23"
+    },
     "https://azorafly.com/series/operation-heart-pounding/chapter-22": {
       "name": "22"
     },

@@ -10,13 +10,16 @@
   "genres": [
     "زمكاني",
     "طبي",
-    "أكشن",
-    "إثارة",
     "كوميدي",
-    "مغامرات"
+    "مغامرات",
+    "إثارة",
+    "أكشن"
   ],
   "is_novel": false,
   "chapters": {
+    "https://azorafly.com/series/the-crown-prince-that-sells-medicine/chapter-129": {
+      "name": "129"
+    },
     "https://azorafly.com/series/the-crown-prince-that-sells-medicine/chapter-128": {
       "name": "128"
     },

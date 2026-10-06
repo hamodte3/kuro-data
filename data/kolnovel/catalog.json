@@ -1051,42 +1051,6 @@
     "status": "مستمر"
   },
   {
-    "id": "بوابة الخلود",
-    "title": "بوابة الخلود",
-    "url": "https://kolnovel.com/series/%d8%a8%d9%88%d8%a7%d8%a8%d8%a9-%d8%a7%d9%84%d8%ae%d9%84%d9%88%d8%af",
-    "cover_url": "https://kolnovel.com/wp-content/uploads/2025/01/بدون-اسم72.png",
-    "type": "رواية",
-    "is_novel": true,
-    "rating": "4.0",
-    "total_chapters": 1250,
-    "genres": [
-      "أكشن",
-      "خيال",
-      "شريحة من الحياة",
-      "شيانشيا",
-      "مغامرة",
-      "ووشيا"
-    ],
-    "status": "مستمر"
-  },
-  {
-    "id": "غوامض النبلاء",
-    "title": "غوامض النبلاء",
-    "url": "https://kolnovel.com/series/%d8%ba%d9%88%d8%a7%d9%85%d8%b6-%d8%a7%d9%84%d9%86%d8%a8%d9%84%d8%a7%d8%a1",
-    "cover_url": "https://kolnovel.com/wp-content/uploads/2026/09/بدون-اسم151_20260929090619.png",
-    "type": "رواية",
-    "is_novel": true,
-    "rating": "",
-    "total_chapters": 14,
-    "genres": [
-      "أكشن",
-      "خيال",
-      "دراما",
-      "غموض"
-    ],
-    "status": "مستمر"
-  },
-  {
     "id": "تسلق البرج باستخدام قدرة إيقاف الزمن",
     "title": "تسلق البرج باستخدام قدرة إيقاف الزمن",
     "url": "https://kolnovel.com/series/%d8%aa%d8%b3%d9%84%d9%82-%d8%a7%d9%84%d8%a8%d8%b1%d8%ac-%d8%a8%d8%a7%d8%b3%d8%aa%d8%ae%d8%af%d8%a7%d9%85-%d9%82%d8%af%d8%b1%d8%a9-%d8%a5%d9%8a%d9%82%d8%a7%d9%81-%d8%a7%d9%84%d8%b2%d9%85%d9%86",
@@ -1122,28 +1086,6 @@
       "عسكرية",
       "كوميديا",
       "مغامرة"
-    ],
-    "status": "مستمر"
-  },
-  {
-    "id": "سلسلة مونوغاتاري",
-    "title": "سلسلة مونوغاتاري",
-    "url": "https://kolnovel.com/series/%d8%b3%d9%84%d8%b3%d9%84%d8%a9-%d9%85%d9%88%d9%86%d9%88%d8%ba%d8%a7%d8%aa%d8%a7%d8%b1%d9%8a",
-    "cover_url": "https://kolnovel.com/wp-content/uploads/2026/09/mono.jpg",
-    "type": "رواية",
-    "is_novel": true,
-    "rating": "",
-    "total_chapters": 54,
-    "genres": [
-      "خارق للطبيعة",
-      "خوارق",
-      "خيال",
-      "دراما",
-      "رومانسية",
-      "غموض",
-      "كوميديا",
-      "ناضج",
-      "نفسي"
     ],
     "status": "مستمر"
   },
@@ -1254,7 +1196,7 @@
     "cover_url": "https://kolnovel.com/wp-content/uploads/2026/10/Crimson_World_Tree_Showdown.png",
     "type": "رواية",
     "is_novel": true,
-    "rating": "7.6",
+    "rating": "",
     "total_chapters": 0,
     "genres": [
       "أعراق",
@@ -1318,6 +1260,23 @@
     "status": "مستمر"
   },
   {
+    "id": "غوامض النبلاء",
+    "title": "غوامض النبلاء",
+    "url": "https://kolnovel.com/series/%d8%ba%d9%88%d8%a7%d9%85%d8%b6-%d8%a7%d9%84%d9%86%d8%a8%d9%84%d8%a7%d8%a1",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2026/09/بدون-اسم151_20260929090619.png",
+    "type": "رواية",
+    "is_novel": true,
+    "rating": "",
+    "total_chapters": 16,
+    "genres": [
+      "أكشن",
+      "خيال",
+      "دراما",
+      "غموض"
+    ],
+    "status": "مستمر"
+  },
+  {
     "id": "امبراطور الخيمياء في العالم السماوي",
     "title": "امبراطور الخيمياء في العالم السماوي",
     "url": "https://kolnovel.com/series/elchamy-ambarar-af-tha-divina-dea",
@@ -1325,7 +1284,7 @@
     "type": "رواية",
     "is_novel": true,
     "rating": "",
-    "total_chapters": 3702,
+    "total_chapters": 3703,
     "genres": [
       "حريم",
       "فنون القتال",
@@ -1350,6 +1309,47 @@
       "شيانشيا",
       "فنون قتال",
       "مغامرة"
+    ],
+    "status": "مستمر"
+  },
+  {
+    "id": "بوابة الخلود",
+    "title": "بوابة الخلود",
+    "url": "https://kolnovel.com/series/%d8%a8%d9%88%d8%a7%d8%a8%d8%a9-%d8%a7%d9%84%d8%ae%d9%84%d9%88%d8%af",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2025/01/بدون-اسم72.png",
+    "type": "رواية",
+    "is_novel": true,
+    "rating": "4.0",
+    "total_chapters": 1256,
+    "genres": [
+      "أكشن",
+      "خيال",
+      "شريحة من الحياة",
+      "شيانشيا",
+      "مغامرة",
+      "ووشيا"
+    ],
+    "status": "مستمر"
+  },
+  {
+    "id": "سلسلة مونوغاتاري",
+    "title": "سلسلة مونوغاتاري",
+    "url": "https://kolnovel.com/series/%d8%b3%d9%84%d8%b3%d9%84%d8%a9-%d9%85%d9%88%d9%86%d9%88%d8%ba%d8%a7%d8%aa%d8%a7%d8%b1%d9%8a",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2026/09/mono.jpg",
+    "type": "رواية",
+    "is_novel": true,
+    "rating": "",
+    "total_chapters": 55,
+    "genres": [
+      "خارق للطبيعة",
+      "خوارق",
+      "خيال",
+      "دراما",
+      "رومانسية",
+      "غموض",
+      "كوميديا",
+      "ناضج",
+      "نفسي"
     ],
     "status": "مستمر"
   },
