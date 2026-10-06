@@ -8,16 +8,19 @@
   "last_update": "2026-07-20",
   "rating": "10.0",
   "genres": [
-    "عائلي",
     "أيتام",
+    "عائلي",
     "رعاية اطفال",
     "مانهوا",
-    "رومانسي",
+    "فانتازيا",
     "دراما",
-    "فانتازيا"
+    "رومانسي"
   ],
   "is_novel": false,
   "chapters": {
+    "https://azorafly.com/series/i-need-a-sponsor/chapter-51": {
+      "name": "51"
+    },
     "https://azorafly.com/series/i-need-a-sponsor/chapter-50": {
       "name": "50"
     },

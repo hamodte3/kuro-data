@@ -999,24 +999,6 @@
     "status": "مستمر"
   },
   {
-    "id": "أغنية الجليد والنار",
-    "title": "أغنية الجليد والنار",
-    "url": "https://kolnovel.com/series/%d8%a3%d8%ba%d9%86%d9%8a%d8%a9-%d8%a7%d9%84%d8%ac%d9%84%d9%8a%d8%af-%d9%88%d8%a7%d9%84%d9%86%d8%a7%d8%b1",
-    "cover_url": "https://kolnovel.com/wp-content/uploads/2026/10/FFB45937-8A9A-459D-9939-0A85D857C924.jpg",
-    "type": "رواية",
-    "is_novel": true,
-    "rating": "",
-    "total_chapters": 1,
-    "genres": [
-      "بناء مملكة",
-      "دموي",
-      "سوداوي",
-      "سياسة",
-      "فانتازيا"
-    ],
-    "status": "مستمر"
-  },
-  {
     "id": "المُتَحَرِّر",
     "title": "المُتَحَرِّر",
     "url": "https://kolnovel.com/series/%d8%a7%d9%84%d9%85%d9%8f%d8%aa%d9%8e%d8%ad%d9%8e%d8%b1%d9%90%d9%91%d8%b1",
@@ -1091,28 +1073,6 @@
       "غموض",
       "فنون قتال",
       "مغامرة"
-    ],
-    "status": "مستمر"
-  },
-  {
-    "id": "سلسلة مونوغاتاري",
-    "title": "سلسلة مونوغاتاري",
-    "url": "https://kolnovel.com/series/%d8%b3%d9%84%d8%b3%d9%84%d8%a9-%d9%85%d9%88%d9%86%d9%88%d8%ba%d8%a7%d8%aa%d8%a7%d8%b1%d9%8a",
-    "cover_url": "https://kolnovel.com/wp-content/uploads/2026/09/mono.jpg",
-    "type": "رواية",
-    "is_novel": true,
-    "rating": "",
-    "total_chapters": 52,
-    "genres": [
-      "خارق للطبيعة",
-      "خوارق",
-      "خيال",
-      "دراما",
-      "رومانسية",
-      "غموض",
-      "كوميديا",
-      "ناضج",
-      "نفسي"
     ],
     "status": "مستمر"
   },
@@ -1323,6 +1283,46 @@
       "عسكرية",
       "كوميديا",
       "مغامرة"
+    ],
+    "status": "مستمر"
+  },
+  {
+    "id": "سلسلة مونوغاتاري",
+    "title": "سلسلة مونوغاتاري",
+    "url": "https://kolnovel.com/series/%d8%b3%d9%84%d8%b3%d9%84%d8%a9-%d9%85%d9%88%d9%86%d9%88%d8%ba%d8%a7%d8%aa%d8%a7%d8%b1%d9%8a",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2026/09/mono.jpg",
+    "type": "رواية",
+    "is_novel": true,
+    "rating": "",
+    "total_chapters": 54,
+    "genres": [
+      "خارق للطبيعة",
+      "خوارق",
+      "خيال",
+      "دراما",
+      "رومانسية",
+      "غموض",
+      "كوميديا",
+      "ناضج",
+      "نفسي"
+    ],
+    "status": "مستمر"
+  },
+  {
+    "id": "أغنية الجليد والنار",
+    "title": "أغنية الجليد والنار",
+    "url": "https://kolnovel.com/series/%d8%a3%d8%ba%d9%86%d9%8a%d8%a9-%d8%a7%d9%84%d8%ac%d9%84%d9%8a%d8%af-%d9%88%d8%a7%d9%84%d9%86%d8%a7%d8%b1",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2026/10/FFB45937-8A9A-459D-9939-0A85D857C924.jpg",
+    "type": "رواية",
+    "is_novel": true,
+    "rating": "",
+    "total_chapters": 2,
+    "genres": [
+      "بناء مملكة",
+      "دموي",
+      "سوداوي",
+      "سياسة",
+      "فانتازيا"
     ],
     "status": "مستمر"
   },

@@ -1,5 +1,96 @@
 [
   {
+    "id": "أغنية الجليد والنار",
+    "title": "أغنية الجليد والنار",
+    "chapter": "الفصل 2",
+    "type": "رواية",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2026/10/FFB45937-8A9A-459D-9939-0A85D857C924.jpg"
+  },
+  {
+    "id": "سلسلة مونوغاتاري",
+    "title": "سلسلة مونوغاتاري",
+    "chapter": "الفصل 54",
+    "type": "رواية",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2026/09/mono.jpg"
+  },
+  {
+    "id": "the-duchess-lives-only-for-this-day",
+    "title": "The Duchess Lives Only for This Day",
+    "chapter": "الفصل 39",
+    "type": "مانهوا",
+    "cover_url": "https://storage.azorafly.com/upload/series/featured/a5vVlSc5huft2AzUyK1VxgKh1ckCWLbZ/8863d240-394b-4232-89e6-cdd7382ee56e.png"
+  },
+  {
+    "id": "i-need-a-sponsor",
+    "title": "I Need a Sponsor",
+    "chapter": "الفصل 51",
+    "type": "مانهوا",
+    "cover_url": "https://storage.azorafly.com/upload/series/featured/02408b52-85d5-445d-9e5c-f7dbcd583bf8/1598f737-ca99-499c-85eb-4343636f2948.jpg"
+  },
+  {
+    "id": "the-prince-doesnt-cry-from-mere-onions",
+    "title": "The Prince Doesn’t Cry From Mere Onions",
+    "chapter": "الفصل 77",
+    "type": "مانهوا",
+    "cover_url": "https://storage.azorafly.com/public/upload/series/featured/02408b52-85d5-445d-9e5c-f7dbcd583bf8/762c91d9-cd23-49c7-bbd4-95b7d9ed3f18.jpg"
+  },
+  {
+    "id": "the-goddess-of-fortune",
+    "title": "The Goddess of Fortune",
+    "chapter": "الفصل 29",
+    "type": "مانهوا",
+    "cover_url": "https://storage.azorafly.com/upload/series/featured/a5vVlSc5huft2AzUyK1VxgKh1ckCWLbZ/b530bbaf-68b8-48fa-9ad9-cec58aaedc21.jpg"
+  },
+  {
+    "id": "myst-might-mayhem",
+    "title": "Myst, Might, Mayhem",
+    "chapter": "الفصل 119",
+    "type": "مانهوا",
+    "cover_url": "https://storage.azorafly.com/upload/series/featured/6cac1de1-87ae-4a81-9cd1-2abe99fd84d7/27b8fe06-3c4b-4d8d-87f8-e1a243484fd9.png"
+  },
+  {
+    "id": "a-blank-slate-regression-for-the-idol-that-lost-his-original-mindset",
+    "title": "A Blank Slate Regression for the Idol That Lost His Original Mindset",
+    "chapter": "الفصل 61",
+    "type": "مانهوا",
+    "cover_url": "https://storage.azorafly.com/2025/01/A.jpg"
+  },
+  {
+    "id": "baby-prisoner-of-the-winter-castle",
+    "title": "Baby Prisoner of the Winter Castle",
+    "chapter": "الفصل 111",
+    "type": "مانهوا",
+    "cover_url": "https://storage.azorafly.com/public/upload/2026/03/02/eab8e60c-019e-4439-a192-e3e8e24a41bb.webp"
+  },
+  {
+    "id": "marriage-of-convenience-2-an-unforgettable-song",
+    "title": "Marriage of Convenience 2: An Unforgettable Song",
+    "chapter": "الفصل 57",
+    "type": "مانهوا",
+    "cover_url": "https://storage.azorafly.com/upload/series/featured/a5vVlSc5huft2AzUyK1VxgKh1ckCWLbZ/2df8032f-29f7-45f3-b7ae-ad56d875c5c7.jpg"
+  },
+  {
+    "id": "i-watched-a-play",
+    "title": "I Watched a Play",
+    "chapter": "الفصل 54",
+    "type": "مانهوا",
+    "cover_url": "https://storage.azorafly.com/upload/series/featured/a5vVlSc5huft2AzUyK1VxgKh1ckCWLbZ/e98a54a9-8355-4078-a769-ed6c39f8a95f.jpg"
+  },
+  {
+    "id": "i-met-the-male-lead-in-prison-remake",
+    "title": "I Met The Male Lead In Prison (Remake)",
+    "chapter": "الفصل 107",
+    "type": "مانهوا",
+    "cover_url": "https://storage.azorafly.com/public/upload/2026/01/14/a571c897-f8c2-47e6-a4b4-4f3f49f9c389.webp"
+  },
+  {
+    "id": "daddy-daddy1",
+    "title": "Daddy, Daddy",
+    "chapter": "الفصل 6",
+    "type": "مانهوا",
+    "cover_url": "https://storage.azorafly.com/upload/series/featured/02408b52-85d5-445d-9e5c-f7dbcd583bf8/b5c3a339-a5ff-457c-b935-2cc214e9627f.png"
+  },
+  {
     "id": "امبراطور الخيمياء في العالم السماوي",
     "title": "امبراطور الخيمياء في العالم السماوي",
     "chapter": "الفصل 3699",
@@ -12,96 +103,5 @@
     "chapter": "الفصل 39",
     "type": "رواية",
     "cover_url": "https://kolnovel.com/wp-content/uploads/2026/07/113225-2.png"
-  },
-  {
-    "id": "غوامض النبلاء",
-    "title": "غوامض النبلاء",
-    "chapter": "الفصل 14",
-    "type": "رواية",
-    "cover_url": "https://kolnovel.com/wp-content/uploads/2026/09/بدون-اسم151_20260929090619.png"
-  },
-  {
-    "id": "ملك سمات الفنون القتالية",
-    "title": "ملك سمات الفنون القتالية",
-    "chapter": "الفصل 1485",
-    "type": "رواية",
-    "cover_url": "https://kolnovel.com/wp-content/uploads/2026/01/GIF-260910_004008.gif"
-  },
-  {
-    "id": "ملحمة سليل الخوف",
-    "title": "ملحمة سليل الخوف",
-    "chapter": "الفصل 29",
-    "type": "رواية",
-    "cover_url": "https://kolnovel.com/wp-content/uploads/2025/12/89394.png"
-  },
-  {
-    "id": "اتضح أنني من عشيرة الأشرار!",
-    "title": "اتضح أنني من عشيرة الأشرار!",
-    "chapter": "الفصل 334",
-    "type": "رواية",
-    "cover_url": "https://kolnovel.com/wp-content/uploads/2026/05/GIF-260606_171205.gif"
-  },
-  {
-    "id": "بوابة الخلود",
-    "title": "بوابة الخلود",
-    "chapter": "الفصل 1250",
-    "type": "رواية",
-    "cover_url": "https://kolnovel.com/wp-content/uploads/2025/01/بدون-اسم72.png"
-  },
-  {
-    "id": "sangeki",
-    "title": "Sangeki",
-    "chapter": "الفصل 22",
-    "type": "مانغا",
-    "cover_url": "https://3asq.online/wp-content/uploads/2026/04/6cfbaeb6-59ae-4971-bfaa-3b026b6c9ad9-175x238.jpg"
-  },
-  {
-    "id": "the-baby-raising-a-devil",
-    "title": "The Baby Raising a Devil",
-    "chapter": "الفصل 58",
-    "type": "مانهوا",
-    "cover_url": "https://storage.azorafly.com/public/upload/2026/01/10/ad9d711a-7a59-4834-8e38-3abdd4c84eb7.webp"
-  },
-  {
-    "id": "do-your-best-to-regret",
-    "title": "Do Your Best to Regret",
-    "chapter": "الفصل 44",
-    "type": "مانهوا",
-    "cover_url": "https://storage.azorafly.com/upload/series/featured/02408b52-85d5-445d-9e5c-f7dbcd583bf8/b56091e4-d5f4-497a-9ee6-f9315a270998.jpg"
-  },
-  {
-    "id": "for-the-beautiful-juliet",
-    "title": "For the Beautiful Juliet",
-    "chapter": "الفصل 98",
-    "type": "مانهوا",
-    "cover_url": "https://storage.azorafly.com/public/upload/series/featured/3756896d-0197-40a3-99a5-2043c71add77/46ad73ca-1b89-4968-a17b-527873e41eb5.jpg"
-  },
-  {
-    "id": "the-villainess-duke-lady-hides-her-identity",
-    "title": "The Villainess Duke Lady Hides Her Identity",
-    "chapter": "الفصل 23",
-    "type": "مانهوا",
-    "cover_url": "https://storage.azorafly.com/upload/series/featured/02408b52-85d5-445d-9e5c-f7dbcd583bf8/6e54c63c-1c8f-42fc-bdbe-5a94f5ebdb19.jpg"
-  },
-  {
-    "id": "a-monodrama-for-carolyn-august",
-    "title": "A Monodrama for Carolyn August",
-    "chapter": "الفصل 56",
-    "type": "رواية",
-    "cover_url": "https://storage.azorafly.com/upload/series/featured/a5vVlSc5huft2AzUyK1VxgKh1ckCWLbZ/ce5d5c38-91c4-418c-9262-b2f677cca55c.jpg"
-  },
-  {
-    "id": "my-husband-and-i-are-in-different-genres",
-    "title": "My Husband and I Are in Different Genres",
-    "chapter": "الفصل 80",
-    "type": "رواية",
-    "cover_url": "https://storage.azorafly.com/upload/series/featured/a5vVlSc5huft2AzUyK1VxgKh1ckCWLbZ/aaa74cdb-969b-41df-b098-c659cba7bbb5.jpg"
-  },
-  {
-    "id": "the-grand-duke's-new-daughter-in-law-is-a-little-fierce",
-    "title": "The Grand Duke’s New Daughter-In-law is a Little Fierce",
-    "chapter": "الفصل 22",
-    "type": "مانهوا",
-    "cover_url": "https://storage.azorafly.com/upload/series/featured/02408b52-85d5-445d-9e5c-f7dbcd583bf8/b733f3b5-9882-4fa9-bff9-af003d42e73f.jpg"
   }
 ]
