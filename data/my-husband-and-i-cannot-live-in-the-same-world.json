@@ -6,19 +6,25 @@
   "type": "مانهوا",
   "status": "مستمر",
   "last_update": "2026-08-23",
-  "rating": "8.1",
+  "rating": "7.8",
   "genres": [
-    "أصدقاء طفولة",
     "قصة قصيرة",
+    "أصدقاء طفولة",
     "الحب الأول",
-    "رومانسي",
-    "إثارة",
     "سوء فهم",
+    "إثارة",
     "دراما",
-    "مأساة"
+    "مأساة",
+    "رومانسي"
   ],
   "is_novel": false,
   "chapters": {
+    "https://azorafly.com/series/my-husband-and-i-cannot-live-in-the-same-world/chapter-42": {
+      "name": "42"
+    },
+    "https://azorafly.com/series/my-husband-and-i-cannot-live-in-the-same-world/chapter-41": {
+      "name": "41"
+    },
     "https://azorafly.com/series/my-husband-and-i-cannot-live-in-the-same-world/chapter-40": {
       "name": "40"
     },
