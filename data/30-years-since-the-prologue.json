@@ -9,13 +9,16 @@
   "rating": "5.3",
   "genres": [
     "اكشن",
-    "خيالي",
     "تجسد",
+    "خيالي",
     "اكاديمى",
     "استحواذ"
   ],
   "is_novel": false,
   "chapters": {
+    "https://azorafly.com/series/30-years-since-the-prologue/chapter-19": {
+      "name": "19"
+    },
     "https://azorafly.com/series/30-years-since-the-prologue/chapter-18": {
       "name": "18"
     },

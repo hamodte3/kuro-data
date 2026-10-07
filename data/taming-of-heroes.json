@@ -10,11 +10,14 @@
   "genres": [
     "رعاية اطفال",
     "انتقام",
-    "فانتازيا",
-    "رومانسي"
+    "رومانسي",
+    "فانتازيا"
   ],
   "is_novel": false,
   "chapters": {
+    "https://azorafly.com/series/taming-of-heroes/chapter-45": {
+      "name": "45"
+    },
     "https://azorafly.com/series/taming-of-heroes/chapter-44": {
       "name": "44"
     },

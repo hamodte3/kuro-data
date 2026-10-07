@@ -11,11 +11,14 @@
     "اكشن",
     "تراجع",
     "فنتازيا",
-    "مأساة",
-    "مغامرة"
+    "مغامرة",
+    "مأساة"
   ],
   "is_novel": false,
   "chapters": {
+    "https://azorafly.com/series/i-married-the-dragon-i-killed/chapter-18": {
+      "name": "18"
+    },
     "https://azorafly.com/series/i-married-the-dragon-i-killed/chapter-17": {
       "name": "17"
     },

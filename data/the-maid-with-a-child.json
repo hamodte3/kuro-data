@@ -9,11 +9,14 @@
   "rating": "9.9",
   "genres": [
     "رومانسى",
-    "كوميدي",
-    "فنتازيا"
+    "فنتازيا",
+    "كوميدي"
   ],
   "is_novel": false,
   "chapters": {
+    "https://azorafly.com/series/the-maid-with-a-child/chapter-32": {
+      "name": "32"
+    },
     "https://azorafly.com/series/the-maid-with-a-child/chapter-31": {
       "name": "31"
     },

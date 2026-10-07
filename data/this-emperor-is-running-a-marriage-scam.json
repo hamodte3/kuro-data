@@ -6,14 +6,17 @@
   "type": "مانهوا",
   "status": "مستمر",
   "last_update": "2026-06-23",
-  "rating": "9.3",
+  "rating": "9.4",
   "genres": [
     "شوجو",
-    "رومانسي",
-    "خيال"
+    "خيال",
+    "رومانسي"
   ],
   "is_novel": false,
   "chapters": {
+    "https://azorafly.com/series/this-emperor-is-running-a-marriage-scam/chapter-44": {
+      "name": "44"
+    },
     "https://azorafly.com/series/this-emperor-is-running-a-marriage-scam/chapter-43": {
       "name": "43"
     },

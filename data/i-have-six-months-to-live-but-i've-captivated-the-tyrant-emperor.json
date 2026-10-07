@@ -9,11 +9,14 @@
   "rating": "7.9",
   "genres": [
     "ايسكاي",
-    "رومانسي",
-    "فنتازيا"
+    "فنتازيا",
+    "رومانسي"
   ],
   "is_novel": false,
   "chapters": {
+    "https://azorafly.com/series/i-have-six-months-to-live-but-i've-captivated-the-tyrant-emperor/chapter-33": {
+      "name": "33"
+    },
     "https://azorafly.com/series/i-have-six-months-to-live-but-i've-captivated-the-tyrant-emperor/chapter-32": {
       "name": "32"
     },

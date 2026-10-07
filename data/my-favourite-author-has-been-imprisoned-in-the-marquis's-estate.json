@@ -9,15 +9,24 @@
   "rating": "9.8",
   "genres": [
     "خيالي",
-    "كوميدي",
     "تاريخي",
     "تجسيد",
+    "دراما",
     "خيال",
     "رومانسي",
-    "دراما"
+    "كوميدي"
   ],
   "is_novel": false,
   "chapters": {
+    "https://azorafly.com/series/my-favourite-author-has-been-imprisoned-in-the-marquis's-estate/chapter-138": {
+      "name": "138"
+    },
+    "https://azorafly.com/series/my-favourite-author-has-been-imprisoned-in-the-marquis's-estate/chapter-137": {
+      "name": "137"
+    },
+    "https://azorafly.com/series/my-favourite-author-has-been-imprisoned-in-the-marquis's-estate/chapter-136": {
+      "name": "136"
+    },
     "https://azorafly.com/series/my-favourite-author-has-been-imprisoned-in-the-marquis's-estate/chapter-135": {
       "name": "135"
     },
