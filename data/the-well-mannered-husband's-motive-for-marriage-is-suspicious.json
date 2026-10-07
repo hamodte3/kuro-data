@@ -10,13 +10,16 @@
   "genres": [
     "تسوندري",
     "رومانسي",
+    "خيال",
     "سوء فهم",
     "تجسيد",
-    "خيال",
     "كوميدي"
   ],
   "is_novel": false,
   "chapters": {
+    "https://azorafly.com/series/the-well-mannered-husband's-motive-for-marriage-is-suspicious/chapter-29": {
+      "name": "29"
+    },
     "https://azorafly.com/series/the-well-mannered-husband's-motive-for-marriage-is-suspicious/chapter-28": {
       "name": "28"
     },

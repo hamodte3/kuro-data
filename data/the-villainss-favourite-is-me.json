@@ -10,13 +10,16 @@
   "genres": [
     "عائلي",
     "هوس",
+    "سحر",
     "كوميدي",
     "خيال",
-    "رومانسي",
-    "سحر"
+    "رومانسي"
   ],
   "is_novel": false,
   "chapters": {
+    "https://azorafly.com/series/the-villainss-favourite-is-me/chapter-97": {
+      "name": "97"
+    },
     "https://azorafly.com/series/the-villainss-favourite-is-me/chapter-96": {
       "name": "96"
     },

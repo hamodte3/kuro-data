@@ -9,12 +9,15 @@
   "rating": "8.8",
   "genres": [
     "شوجو",
-    "دراما",
     "خيال",
-    "رومانسي"
+    "رومانسي",
+    "دراما"
   ],
   "is_novel": false,
   "chapters": {
+    "https://azorafly.com/series/i-wont-pick-up-the-trash-i-throw-away/chapter-148": {
+      "name": "148"
+    },
     "https://azorafly.com/series/i-wont-pick-up-the-trash-i-throw-away/chapter-147": {
       "name": "147"
     },
