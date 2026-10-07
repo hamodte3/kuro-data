@@ -10,12 +10,21 @@
   "genres": [
     "رومانسي",
     "سحر",
-    "كوميدي",
+    "خيال",
     "تجسيد",
-    "خيال"
+    "كوميدي"
   ],
   "is_novel": false,
   "chapters": {
+    "https://azorafly.com/series/i-want-to-cancel-that-engagement/chapter-110": {
+      "name": "110"
+    },
+    "https://azorafly.com/series/i-want-to-cancel-that-engagement/chapter-109": {
+      "name": "109"
+    },
+    "https://azorafly.com/series/i-want-to-cancel-that-engagement/chapter-108": {
+      "name": "108"
+    },
     "https://azorafly.com/series/i-want-to-cancel-that-engagement/chapter-107": {
       "name": "107"
     },
@@ -40,10 +49,10 @@
     "https://azorafly.com/series/i-want-to-cancel-that-engagement/chapter-100": {
       "name": "100"
     },
-    "https://azorafly.com/series/i-want-to-cancel-that-engagement/chapter-99": {
+    "https://azorafly.com/series/i-want-to-cancel-that-engagement/chapter-99_01": {
       "name": "99"
     },
-    "https://azorafly.com/series/i-want-to-cancel-that-engagement/chapter-99_01": {
+    "https://azorafly.com/series/i-want-to-cancel-that-engagement/chapter-99": {
       "name": "99"
     },
     "https://azorafly.com/series/i-want-to-cancel-that-engagement/chapter-98": {

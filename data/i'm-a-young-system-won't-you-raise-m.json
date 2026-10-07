@@ -11,16 +11,22 @@
     "لعبة",
     "ذكاء اصطناعي",
     "كواكب",
+    "دراما",
+    "بدون تجسيد",
     "نظام",
     "خيال",
     "رعب",
-    "دراما",
-    "بدون تجسيد",
-    "أكشن",
-    "غموض"
+    "غموض",
+    "أكشن"
   ],
   "is_novel": false,
   "chapters": {
+    "https://azorafly.com/series/i'm-a-young-system-won't-you-raise-m/chapter-173": {
+      "name": "173"
+    },
+    "https://azorafly.com/series/i'm-a-young-system-won't-you-raise-m/chapter-172": {
+      "name": "172"
+    },
     "https://azorafly.com/series/i'm-a-young-system-won't-you-raise-m/chapter-171": {
       "name": "171"
     },

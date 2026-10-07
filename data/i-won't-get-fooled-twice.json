@@ -6,17 +6,32 @@
   "type": "رواية",
   "status": "مكتمل",
   "last_update": "2026-07-22",
-  "rating": "10.0",
+  "rating": "9.5",
   "genres": [
-    "تاريخي",
-    "عودة بالزمن",
     "رومانسي",
     "دراما",
-    "انتقام",
-    "خيال"
+    "خيال",
+    "عودة بالزمن",
+    "تاريخي",
+    "انتقام"
   ],
   "is_novel": false,
   "chapters": {
+    "https://azorafly.com/series/i-won't-get-fooled-twice/chapter-150": {
+      "name": "150"
+    },
+    "https://azorafly.com/series/i-won't-get-fooled-twice/chapter-149": {
+      "name": "149"
+    },
+    "https://azorafly.com/series/i-won't-get-fooled-twice/chapter-148": {
+      "name": "148"
+    },
+    "https://azorafly.com/series/i-won't-get-fooled-twice/chapter-147": {
+      "name": "147"
+    },
+    "https://azorafly.com/series/i-won't-get-fooled-twice/chapter-146": {
+      "name": "146"
+    },
     "https://azorafly.com/series/i-won't-get-fooled-twice/chapter-145": {
       "name": "145"
     },

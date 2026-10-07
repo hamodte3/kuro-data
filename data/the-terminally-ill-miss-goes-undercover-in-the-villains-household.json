@@ -6,7 +6,7 @@
   "type": "مانهوا",
   "status": "مستمر",
   "last_update": "2026-05-07",
-  "rating": "8.8",
+  "rating": "9.0",
   "genres": [
     "خيالي",
     "رومانسي",
@@ -14,6 +14,9 @@
   ],
   "is_novel": false,
   "chapters": {
+    "https://azorafly.com/series/the-terminally-ill-miss-goes-undercover-in-the-villains-household/chapter-54": {
+      "name": "54"
+    },
     "https://azorafly.com/series/the-terminally-ill-miss-goes-undercover-in-the-villains-household/chapter-53": {
       "name": "53"
     },
