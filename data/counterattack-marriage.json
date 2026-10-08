@@ -6,16 +6,31 @@
   "type": "مانهوا",
   "status": "مستمر",
   "last_update": "2026-09-28",
-  "rating": "4.0",
+  "rating": "5.8",
   "genres": [
-    "عصرى",
     "رومانسى",
+    "عصرى",
     "اثاره",
-    "انتقام",
-    "دراما"
+    "دراما",
+    "انتقام"
   ],
   "is_novel": false,
   "chapters": {
+    "https://azorafly.com/series/counterattack-marriage/chapter-7": {
+      "name": "7"
+    },
+    "https://azorafly.com/series/counterattack-marriage/chapter-6": {
+      "name": "6"
+    },
+    "https://azorafly.com/series/counterattack-marriage/chapter-5": {
+      "name": "5"
+    },
+    "https://azorafly.com/series/counterattack-marriage/chapter-4": {
+      "name": "4"
+    },
+    "https://azorafly.com/series/counterattack-marriage/chapter-3": {
+      "name": "3"
+    },
     "https://azorafly.com/series/counterattack-marriage/chapter-2": {
       "name": "2"
     },

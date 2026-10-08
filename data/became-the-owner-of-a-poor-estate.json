@@ -10,11 +10,14 @@
   "genres": [
     "رومانسى",
     "جوسي",
-    "فنتازيا",
-    "دراما"
+    "دراما",
+    "فنتازيا"
   ],
   "is_novel": false,
   "chapters": {
+    "https://azorafly.com/series/became-the-owner-of-a-poor-estate/chapter-16": {
+      "name": "16"
+    },
     "https://azorafly.com/series/became-the-owner-of-a-poor-estate/chapter-15": {
       "name": "15"
     },

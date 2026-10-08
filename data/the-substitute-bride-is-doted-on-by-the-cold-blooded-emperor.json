@@ -9,12 +9,15 @@
   "rating": "7.6",
   "genres": [
     "رومانسي",
-    "انتقام",
     "خيال",
-    "دراما"
+    "دراما",
+    "انتقام"
   ],
   "is_novel": false,
   "chapters": {
+    "https://azorafly.com/series/the-substitute-bride-is-doted-on-by-the-cold-blooded-emperor/chapter-47": {
+      "name": "47"
+    },
     "https://azorafly.com/series/the-substitute-bride-is-doted-on-by-the-cold-blooded-emperor/chapter-46": {
       "name": "46"
     },

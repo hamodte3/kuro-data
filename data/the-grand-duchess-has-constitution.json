@@ -9,12 +9,15 @@
   "rating": "9.6",
   "genres": [
     "تجسيد",
-    "كوميدي",
+    "رومانسي",
     "خيال",
-    "رومانسي"
+    "كوميدي"
   ],
   "is_novel": false,
   "chapters": {
+    "https://azorafly.com/series/the-grand-duchess-has-constitution/chapter-68": {
+      "name": "68"
+    },
     "https://azorafly.com/series/the-grand-duchess-has-constitution/chapter-67": {
       "name": "67"
     },
