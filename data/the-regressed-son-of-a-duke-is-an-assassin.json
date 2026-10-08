@@ -6,15 +6,18 @@
   "type": "مانهوا",
   "status": "مستمر",
   "last_update": "2026-08-14",
-  "rating": "9.8",
+  "rating": "9.7",
   "genres": [
+    "أكشن",
     "شونين",
-    "دراما",
     "فنتازيا",
-    "أكشن"
+    "دراما"
   ],
   "is_novel": false,
   "chapters": {
+    "https://azorafly.com/series/the-regressed-son-of-a-duke-is-an-assassin/chapter-147": {
+      "name": "147"
+    },
     "https://azorafly.com/series/the-regressed-son-of-a-duke-is-an-assassin/chapter-146": {
       "name": "146"
     },

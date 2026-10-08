@@ -11,12 +11,15 @@
     "اكشن",
     "موريم",
     "جنون",
-    "فنون قتالية",
     "انتقام",
-    "مغامرة"
+    "مغامرة",
+    "فنون قتالية"
   ],
   "is_novel": false,
   "chapters": {
+    "https://azorafly.com/series/the-ruler-of-darkness/chapter-34": {
+      "name": "34"
+    },
     "https://azorafly.com/series/the-ruler-of-darkness/chapter-33": {
       "name": "33"
     },

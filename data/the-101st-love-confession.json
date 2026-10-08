@@ -9,13 +9,16 @@
   "rating": "4.6",
   "genres": [
     "ندم",
-    "شوجو",
     "كوميدي",
-    "خيال",
-    "رومانسي"
+    "شوجو",
+    "رومانسي",
+    "خيال"
   ],
   "is_novel": false,
   "chapters": {
+    "https://azorafly.com/series/the-101st-love-confession/chapter-81": {
+      "name": "81"
+    },
     "https://azorafly.com/series/the-101st-love-confession/chapter-80": {
       "name": "80"
     },

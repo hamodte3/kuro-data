@@ -992,26 +992,6 @@
     ]
   },
   {
-    "id": "one-piece",
-    "title": "One Piece",
-    "url": "https://3asq.online/manga/one-piece",
-    "cover_url": "https://3asq.online/wp-content/uploads/2019/04/v1-1-175x238.jpg",
-    "type": "مانغا",
-    "rating": "4.7",
-    "status": "مستمر",
-    "total_chapters": 568,
-    "genres": [
-      "100%",
-      "3asq",
-      "أكشن",
-      "خيال",
-      "دراما",
-      "قوى خارقة",
-      "كوميديا",
-      "مغامرة"
-    ]
-  },
-  {
     "id": "baki-rahen",
     "title": "Baki Rahen",
     "url": "https://3asq.online/manga/baki-rahen",
@@ -1090,23 +1070,6 @@
       "عنف",
       "غموض",
       "فلسفة"
-    ]
-  },
-  {
-    "id": "kengan-omega",
-    "title": "Kengan Omega",
-    "url": "https://3asq.online/manga/kengan-omega",
-    "cover_url": "https://3asq.online/wp-content/uploads/2025/07/بدون-اسم203-175x238.png",
-    "type": "مانغا",
-    "rating": "4.3",
-    "status": "مستمر",
-    "total_chapters": 377,
-    "genres": [
-      "أكشن",
-      "دراما",
-      "رياضة",
-      "شونين",
-      "فنون قتالية"
     ]
   },
   {
@@ -1209,6 +1172,43 @@
       "خيال",
       "خيال علمي",
       "شونين",
+      "كوميديا",
+      "مغامرة"
+    ]
+  },
+  {
+    "id": "kengan-omega",
+    "title": "Kengan Omega",
+    "url": "https://3asq.online/manga/kengan-omega",
+    "cover_url": "https://3asq.online/wp-content/uploads/2025/07/بدون-اسم203-175x238.png",
+    "type": "مانغا",
+    "rating": "4.3",
+    "status": "مستمر",
+    "total_chapters": 378,
+    "genres": [
+      "أكشن",
+      "دراما",
+      "رياضة",
+      "شونين",
+      "فنون قتالية"
+    ]
+  },
+  {
+    "id": "one-piece",
+    "title": "One Piece",
+    "url": "https://3asq.online/manga/one-piece",
+    "cover_url": "https://3asq.online/wp-content/uploads/2019/04/v1-1-175x238.jpg",
+    "type": "مانغا",
+    "rating": "4.7",
+    "status": "مستمر",
+    "total_chapters": 569,
+    "genres": [
+      "100%",
+      "3asq",
+      "أكشن",
+      "خيال",
+      "دراما",
+      "قوى خارقة",
       "كوميديا",
       "مغامرة"
     ]
