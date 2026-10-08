@@ -9,11 +9,14 @@
   "rating": "9.3",
   "genres": [
     "اكشن",
-    "دراما",
-    "خيال"
+    "خيال",
+    "دراما"
   ],
   "is_novel": false,
   "chapters": {
+    "https://azorafly.com/series/shadow-slave/chapter-12": {
+      "name": "12"
+    },
     "https://azorafly.com/series/shadow-slave/chapter-11": {
       "name": "11"
     },

@@ -9,16 +9,19 @@
   "rating": "9.6",
   "genres": [
     "خارق للطبيعة",
-    "مانهوا",
     "اسبوعي",
-    "مميز",
-    "أكشن",
+    "مانهوا",
     "إثارة",
+    "أكشن",
+    "مميز",
     "مغامرات",
     "غموض"
   ],
   "is_novel": false,
   "chapters": {
+    "https://azorafly.com/series/nano-machine-s/chapter-333": {
+      "name": "333"
+    },
     "https://azorafly.com/series/nano-machine-s/chapter-332": {
       "name": "332"
     },
