@@ -6,15 +6,18 @@
   "type": "مانهوا",
   "status": "مستمر",
   "last_update": "2026-08-08",
-  "rating": "8.8",
+  "rating": "8.6",
   "genres": [
-    "تاريخي",
     "رومانسي",
+    "تاريخي",
     "دراما",
     "كوميدي"
   ],
   "is_novel": false,
   "chapters": {
+    "https://azorafly.com/series/the-heroine's-sister-in-law-in-a-childcare-story/chapter-34": {
+      "name": "34"
+    },
     "https://azorafly.com/series/the-heroine's-sister-in-law-in-a-childcare-story/chapter-33": {
       "name": "33"
     },

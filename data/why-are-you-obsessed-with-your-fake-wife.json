@@ -9,13 +9,16 @@
   "rating": "8.2",
   "genres": [
     "خيالي",
-    "تاريخي",
     "شوجو",
-    "دراما",
-    "رومانسي"
+    "تاريخي",
+    "رومانسي",
+    "دراما"
   ],
   "is_novel": false,
   "chapters": {
+    "https://azorafly.com/series/why-are-you-obsessed-with-your-fake-wife/chapter-115": {
+      "name": "115"
+    },
     "https://azorafly.com/series/why-are-you-obsessed-with-your-fake-wife/chapter-114": {
       "name": "114"
     },

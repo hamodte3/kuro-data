@@ -12,5 +12,9 @@
     "اكشن"
   ],
   "is_novel": false,
-  "chapters": {}
+  "chapters": {
+    "https://azorafly.com/series/the-regressor-and-the-blind-saintess/chapter-1": {
+      "name": "1"
+    }
+  }
 }

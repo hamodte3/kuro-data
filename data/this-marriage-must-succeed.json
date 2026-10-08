@@ -8,14 +8,17 @@
   "last_update": "2026-05-07",
   "rating": "9.5",
   "genres": [
-    "تاريخي",
     "انتقام",
-    "فانتازيا",
+    "تاريخي",
+    "رومانسي",
     "دراما",
-    "رومانسي"
+    "فانتازيا"
   ],
   "is_novel": false,
   "chapters": {
+    "https://azorafly.com/series/this-marriage-must-succeed/chapter-73": {
+      "name": "73"
+    },
     "https://azorafly.com/series/this-marriage-must-succeed/chapter-72": {
       "name": "72"
     },

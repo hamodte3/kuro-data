@@ -10,11 +10,14 @@
   "genres": [
     "شوجو",
     "فنتازيا",
-    "دراما",
-    "رومانسي"
+    "رومانسي",
+    "دراما"
   ],
   "is_novel": false,
   "chapters": {
+    "https://azorafly.com/series/i-thought-you-were-a-time-limited-husband/chapter-93": {
+      "name": "93"
+    },
     "https://azorafly.com/series/i-thought-you-were-a-time-limited-husband/chapter-92": {
       "name": "92"
     },

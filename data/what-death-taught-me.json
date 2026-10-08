@@ -8,12 +8,15 @@
   "last_update": "2026-05-07",
   "rating": "8.5",
   "genres": [
-    "رومانسي",
     "انتقام",
+    "رومانسي",
     "دراما"
   ],
   "is_novel": false,
   "chapters": {
+    "https://azorafly.com/series/what-death-taught-me/chapter-50": {
+      "name": "50"
+    },
     "https://azorafly.com/series/what-death-taught-me/chapter-49": {
       "name": "49"
     },

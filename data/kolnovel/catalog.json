@@ -682,17 +682,6 @@
     "genres": []
   },
   {
-    "id": "القس المجنون",
-    "title": "القس المجنون",
-    "url": "https://kolnovel.com/series/%d8%a7%d9%84%d9%82%d8%b3-%d8%a7%d9%84%d9%85%d8%ac%d9%86%d9%88%d9%86",
-    "cover_url": "https://kolnovel.com/wp-content/uploads/2020/10/بدون-اسم114_20260804041241.png",
-    "type": "رواية",
-    "is_novel": true,
-    "rating": "9.0",
-    "total_chapters": 0,
-    "genres": []
-  },
-  {
     "id": "الحظ يفضل السقوط",
     "title": "الحظ يفضل السقوط",
     "url": "https://kolnovel.com/series/%d8%a7%d9%84%d8%ad%d8%b8-%d9%8a%d9%81%d8%b6%d9%84-%d8%a7%d9%84%d8%b3%d9%82%d9%88%d8%b7",
@@ -1309,27 +1298,6 @@
     "status": "مستمر"
   },
   {
-    "id": "ري: زيرو – بداية الحياة في عالم آخر",
-    "title": "ري: زيرو – بداية الحياة في عالم آخر",
-    "url": "https://kolnovel.com/series/%d8%b1%d9%8a-%d8%b2%d9%8a%d8%b1%d9%88-%d8%a8%d8%af%d8%a7%d9%8a%d8%a9-%d8%a7%d9%84%d8%ad%d9%8a%d8%a7%d8%a9-%d9%81%d9%8a-%d8%b9%d8%a7%d9%84%d9%85-%d8%a2%d8%ae%d8%b1",
-    "cover_url": "https://kolnovel.com/wp-content/uploads/2026/10/a826e405f732171c.webp",
-    "type": "رواية",
-    "is_novel": true,
-    "rating": "",
-    "total_chapters": 1,
-    "genres": [
-      "إثارة",
-      "إيسيكاي",
-      "خيال مظلم",
-      "دراما",
-      "رومانسية",
-      "غموض",
-      "مغامرة",
-      "نفسي"
-    ],
-    "status": "مستمر"
-  },
-  {
     "id": "المتعاقد الميتافيزيقي",
     "title": "المتعاقد الميتافيزيقي",
     "url": "https://kolnovel.com/series/%d8%a7%d9%84%d9%85%d8%aa%d8%b9%d8%a7%d9%82%d8%af-%d8%a7%d9%84%d9%85%d9%8a%d8%aa%d8%a7%d9%81%d9%8a%d8%b2%d9%8a%d9%82%d9%8a",
@@ -1349,6 +1317,26 @@
     "status": "مستمر"
   },
   {
+    "id": "القس المجنون",
+    "title": "القس المجنون",
+    "url": "https://kolnovel.com/series/%d8%a7%d9%84%d9%82%d8%b3-%d8%a7%d9%84%d9%85%d8%ac%d9%86%d9%88%d9%86",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2020/10/بدون-اسم114_20260804041241.png",
+    "type": "رواية",
+    "is_novel": true,
+    "rating": "5.0",
+    "total_chapters": 2372,
+    "genres": [
+      "أكشن",
+      "رعب",
+      "غموض",
+      "مأساة",
+      "مغامرة",
+      "ناضج",
+      "نفسي"
+    ],
+    "status": "مكتمل"
+  },
+  {
     "id": "صعود شجرة الهاوية",
     "title": "صعود شجرة الهاوية",
     "url": "https://kolnovel.com/series/%d8%b5%d8%b9%d9%88%d8%af-%d8%b4%d8%ac%d8%b1%d8%a9-%d8%a7%d9%84%d9%87%d8%a7%d9%88%d9%8a%d8%a9",
@@ -1356,7 +1344,7 @@
     "type": "رواية",
     "is_novel": true,
     "rating": "",
-    "total_chapters": 7,
+    "total_chapters": 10,
     "genres": [
       "أعراق",
       "بطل مضاد",
@@ -1369,6 +1357,27 @@
       "فضاء",
       "مأساة",
       "نظام"
+    ],
+    "status": "مستمر"
+  },
+  {
+    "id": "ري: زيرو – بداية الحياة في عالم آخر",
+    "title": "ري: زيرو – بداية الحياة في عالم آخر",
+    "url": "https://kolnovel.com/series/%d8%b1%d9%8a-%d8%b2%d9%8a%d8%b1%d9%88-%d8%a8%d8%af%d8%a7%d9%8a%d8%a9-%d8%a7%d9%84%d8%ad%d9%8a%d8%a7%d8%a9-%d9%81%d9%8a-%d8%b9%d8%a7%d9%84%d9%85-%d8%a2%d8%ae%d8%b1",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2026/10/a826e405f732171c.webp",
+    "type": "رواية",
+    "is_novel": true,
+    "rating": "",
+    "total_chapters": 2,
+    "genres": [
+      "إثارة",
+      "إيسيكاي",
+      "خيال مظلم",
+      "دراما",
+      "رومانسية",
+      "غموض",
+      "مغامرة",
+      "نفسي"
     ],
     "status": "مستمر"
   },
