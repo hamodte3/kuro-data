@@ -1,190 +1,5 @@
 [
   {
-    "id": "infinite-mage",
-    "title": "Infinite Mage",
-    "url": "https://azorafly.com/series/infinite-mage",
-    "cover_url": "https://storage.azorafly.com/2022/12/resource.jpeg",
-    "type": "مانهوا",
-    "status": "مستمر",
-    "rating": "9.6",
-    "total_chapters": 189,
-    "genres": [
-      "شونين",
-      "مغامرة",
-      "أكشن",
-      "دراما",
-      "خيال",
-      "سحر"
-    ]
-  },
-  {
-    "id": "return-of-the-mount-hua-sect-76",
-    "title": "Return of the Mount Hua Sect",
-    "url": "https://azorafly.com/series/return-of-the-mount-hua-sect-76",
-    "cover_url": "https://storage.azorafly.com/public/upload/series/featured/cmjkgwd7t0000ld63nf9eiyz6/193c3fab-2b1d-454d-8d31-233a6a8ec275.png",
-    "type": "مانهوا",
-    "status": "مستمر",
-    "rating": "9.8",
-    "total_chapters": 189,
-    "genres": [
-      "قوة خارقة",
-      "مانهوا",
-      "دموي",
-      "اسبوعي",
-      "سينين",
-      "مميز",
-      "كوميدي",
-      "إثارة",
-      "أكشن"
-    ]
-  },
-  {
-    "id": "the-villainess's-sponsorship-was-exposed",
-    "title": "The Villainess’s Sponsorship Was Exposed",
-    "url": "https://azorafly.com/series/the-villainess's-sponsorship-was-exposed",
-    "cover_url": "https://storage.azorafly.com/upload/series/featured/6cac1de1-87ae-4a81-9cd1-2abe99fd84d7/0b82720a-406c-461e-bf33-4c926752c6fc.png",
-    "type": "مانهوا",
-    "status": "مستمر",
-    "rating": "8.0",
-    "total_chapters": 30,
-    "genres": [
-      "رومانسى",
-      "فنتازيا"
-    ]
-  },
-  {
-    "id": "the-stray-hound",
-    "title": "The Stray Hound",
-    "url": "https://azorafly.com/series/the-stray-hound",
-    "cover_url": "https://storage.azorafly.com/upload/series/featured/oGmL0DQZ16QInTPaeDKwFEK9ryegoy88/087e2aa7-c526-43a5-98c3-322ded35a0f9.webp",
-    "type": "مانهوا",
-    "status": "مستمر",
-    "rating": "9.7",
-    "total_chapters": 7,
-    "genres": [
-      "اكشن",
-      "شونين",
-      "انتقام"
-    ]
-  },
-  {
-    "id": "taming-of-heroes",
-    "title": "Taming of Heroes",
-    "url": "https://azorafly.com/series/taming-of-heroes",
-    "cover_url": "https://storage.azorafly.com/2025/04/20250430_055510.webp",
-    "type": "مانهوا",
-    "status": "مستمر",
-    "rating": "10.0",
-    "total_chapters": 47,
-    "genres": [
-      "رعاية اطفال",
-      "انتقام",
-      "رومانسي",
-      "فانتازيا"
-    ]
-  },
-  {
-    "id": "i-didn't-mean-to-save-the-villain",
-    "title": "I Didn’t Mean to Save The Villain",
-    "url": "https://azorafly.com/series/i-didn't-mean-to-save-the-villain",
-    "cover_url": "https://storage.azorafly.com/upload/series/featured/a5vVlSc5huft2AzUyK1VxgKh1ckCWLbZ/b6475801-e645-4cda-95be-6fb97215fa27.jpg",
-    "type": "رواية",
-    "status": "مستمر",
-    "rating": "8.8",
-    "total_chapters": 173,
-    "genres": [
-      "تاريخي",
-      "تجسيد",
-      "كوميدي",
-      "دراما",
-      "خيال",
-      "رومانسي"
-    ]
-  },
-  {
-    "id": "my-favourite-author-has-been-imprisoned-in-the-marquis's-estate",
-    "title": "My Favourite Author Has Been Imprisoned in the Marquis’s Estate",
-    "url": "https://azorafly.com/series/my-favourite-author-has-been-imprisoned-in-the-marquis's-estate",
-    "cover_url": "https://storage.azorafly.com/upload/series/featured/a5vVlSc5huft2AzUyK1VxgKh1ckCWLbZ/5f29638a-dca6-40e4-8d6e-6155eda34af6.jpg",
-    "type": "رواية",
-    "status": "مكتمل",
-    "rating": "9.8",
-    "total_chapters": 138,
-    "genres": [
-      "خيالي",
-      "تاريخي",
-      "تجسيد",
-      "دراما",
-      "خيال",
-      "رومانسي",
-      "كوميدي"
-    ]
-  },
-  {
-    "id": "i-married-the-dragon-i-killed",
-    "title": "I Married the Dragon I Killed",
-    "url": "https://azorafly.com/series/i-married-the-dragon-i-killed",
-    "cover_url": "https://storage.azorafly.com/upload/series/featured/6cac1de1-87ae-4a81-9cd1-2abe99fd84d7/d0651972-78ff-434a-aa5a-7baefc7ed754.png",
-    "type": "مانهوا",
-    "status": "مستمر",
-    "rating": "9.1",
-    "total_chapters": 18,
-    "genres": [
-      "اكشن",
-      "تراجع",
-      "فنتازيا",
-      "مغامرة",
-      "مأساة"
-    ]
-  },
-  {
-    "id": "i-will-save-my-father",
-    "title": "I will save my father",
-    "url": "https://azorafly.com/series/i-will-save-my-father",
-    "cover_url": "https://storage.azorafly.com/upload/series/featured/6cac1de1-87ae-4a81-9cd1-2abe99fd84d7/74b1258e-7c7e-440a-bc9f-e2e3b53cbdab.webp",
-    "type": "مانهوا",
-    "status": "مستمر",
-    "rating": "10.0",
-    "total_chapters": 37,
-    "genres": [
-      "فنتازيا",
-      "دراما",
-      "كوميدي",
-      "رومانسي"
-    ]
-  },
-  {
-    "id": "the-over-invested-unrequited-crush-club",
-    "title": "The Over-Invested Unrequited Crush Club",
-    "url": "https://azorafly.com/series/the-over-invested-unrequited-crush-club",
-    "cover_url": "https://storage.azorafly.com/upload/series/featured/6cac1de1-87ae-4a81-9cd1-2abe99fd84d7/1debc798-9560-47c8-9c2f-03feb69bf5d8.png",
-    "type": "مانهوا",
-    "status": "مستمر",
-    "rating": "10.0",
-    "total_chapters": 11,
-    "genres": [
-      "رومانسى",
-      "حياة مدرسية",
-      "دراما"
-    ]
-  },
-  {
-    "id": "regression-of-the-yong-clan-heir",
-    "title": "Regression of the Yong Clan Heir",
-    "url": "https://azorafly.com/series/regression-of-the-yong-clan-heir",
-    "cover_url": "https://storage.azorafly.com/2024/12/A21.webp",
-    "type": "مانهوا",
-    "status": "مستمر",
-    "rating": "9.0",
-    "total_chapters": 61,
-    "genres": [
-      "زمكاني",
-      "أكشن",
-      "فنون قتالية",
-      "خيال"
-    ]
-  },
-  {
     "id": "once-a-day-a-wish-comes-true",
     "title": "Once a day, a wish comes true",
     "url": "https://azorafly.com/series/once-a-day-a-wish-comes-true",
@@ -834,24 +649,6 @@
       "علاقة تعاقدية",
       "تجسيد",
       "خيال",
-      "دراما"
-    ]
-  },
-  {
-    "id": "the-heavenly-demon-cult's-strongest-maid",
-    "title": "The Heavenly Demon Cult’s Strongest Maid",
-    "url": "https://azorafly.com/series/the-heavenly-demon-cult's-strongest-maid",
-    "cover_url": "https://storage.azorafly.com/upload/series/featured/a5vVlSc5huft2AzUyK1VxgKh1ckCWLbZ/f65bea9c-c32d-4f38-afc0-f4a7e71e0306.png",
-    "type": "مانهوا",
-    "status": "مستمر",
-    "rating": "8.6",
-    "total_chapters": 43,
-    "genres": [
-      "خيالي",
-      "كوميدي",
-      "شوجو",
-      "تشويق",
-      "رومانسي",
       "دراما"
     ]
   },
@@ -1784,20 +1581,6 @@
     ]
   },
   {
-    "id": "the-regressor-and-the-blind-saintess",
-    "title": "The Regressor and the Blind Saintess",
-    "url": "https://azorafly.com/series/the-regressor-and-the-blind-saintess",
-    "cover_url": "https://storage.azorafly.com/upload/series/featured/02408b52-85d5-445d-9e5c-f7dbcd583bf8/fd91dd7c-0464-4fcc-91af-813b7a128dc9.jpg",
-    "type": "مانهوا",
-    "total_chapters": 2,
-    "genres": [
-      "رومانسى",
-      "اكشن"
-    ],
-    "status": "مستمر",
-    "rating": "10.0"
-  },
-  {
     "id": "shadow-slave",
     "title": "Shadow Slave",
     "url": "https://azorafly.com/series/shadow-slave",
@@ -2532,41 +2315,6 @@
     "rating": "10.0"
   },
   {
-    "id": "to-you-who-have-forgotten-the-night",
-    "title": "To you, who have forgotten the night",
-    "url": "https://azorafly.com/series/to-you-who-have-forgotten-the-night",
-    "cover_url": "https://storage.azorafly.com/upload/series/featured/a5vVlSc5huft2AzUyK1VxgKh1ckCWLbZ/d640a844-ca6a-4d7b-aa8c-043c792c98f6.jpg",
-    "type": "رواية",
-    "total_chapters": 0,
-    "genres": [
-      "ندم",
-      "رومانسي",
-      "خيال",
-      "دراما",
-      "عودة بالزمن",
-      "علاقة تعاقدية"
-    ],
-    "status": "مستمر",
-    "rating": "10.0"
-  },
-  {
-    "id": "the-poisonous-princess-who-successfully-infiltrated-the-enemy-as-an-employee",
-    "title": "The Poisonous Princess Who Successfully Infiltrated the Enemy as an Employee",
-    "url": "https://azorafly.com/series/the-poisonous-princess-who-successfully-infiltrated-the-enemy-as-an-employee",
-    "cover_url": "https://storage.azorafly.com/upload/series/featured/a5vVlSc5huft2AzUyK1VxgKh1ckCWLbZ/11364856-10fd-4b65-810d-913f41ac7f15.jpg",
-    "type": "رواية",
-    "total_chapters": 0,
-    "genres": [
-      "تجسيد",
-      "رومانسي",
-      "خيال",
-      "كوميدي",
-      "دراما"
-    ],
-    "status": "مستمر",
-    "rating": "10.0"
-  },
-  {
     "id": "ceres-the-time-healer1",
     "title": "Ceres, the Time Healer",
     "url": "https://azorafly.com/series/ceres-the-time-healer1",
@@ -2736,21 +2484,6 @@
       "كوميدي",
       "دراما",
       "شوجو"
-    ]
-  },
-  {
-    "id": "country-life-with-his-sexy-majesty",
-    "title": "Country life with his sexy majesty",
-    "url": "https://azorafly.com/series/country-life-with-his-sexy-majesty",
-    "cover_url": "https://storage.azorafly.com/upload/series/featured/02408b52-85d5-445d-9e5c-f7dbcd583bf8/be7e04ba-99ac-46c8-9093-6b3e6e5c588b.jpg",
-    "type": "مانهوا",
-    "status": "مستمر",
-    "rating": "9.2",
-    "total_chapters": 27,
-    "genres": [
-      "رومانسى",
-      "دراما",
-      "فانتازيا"
     ]
   },
   {
@@ -2975,27 +2708,6 @@
       "الحياة المدرسية",
       "كوميدي",
       "شوجو"
-    ]
-  },
-  {
-    "id": "the-necromancer-of-a-swordsmanship-family",
-    "title": "The Necromancer of a Swordsmanship Family",
-    "url": "https://azorafly.com/series/the-necromancer-of-a-swordsmanship-family",
-    "cover_url": "https://storage.azorafly.com/upload/series/featured/6cac1de1-87ae-4a81-9cd1-2abe99fd84d7/af1811c5-ff09-4852-94a2-5494b120a0e7.jpg",
-    "type": "مانهوا",
-    "status": "مستمر",
-    "rating": "10.0",
-    "total_chapters": 30,
-    "genres": [
-      "اكشن",
-      "منافسين",
-      "خيال اكشن",
-      "تناسخ الارواح",
-      "نبلاء",
-      "شونين",
-      "خيال",
-      "ملوك",
-      "فنتازيا"
     ]
   },
   {
@@ -3226,7 +2938,471 @@
       "فانتازيا"
     ],
     "status": "مستمر",
+    "rating": "7.5"
+  },
+  {
+    "id": "country-life-with-his-sexy-majesty",
+    "title": "Country life with his sexy majesty",
+    "url": "https://azorafly.com/series/country-life-with-his-sexy-majesty",
+    "cover_url": "https://storage.azorafly.com/upload/series/featured/02408b52-85d5-445d-9e5c-f7dbcd583bf8/be7e04ba-99ac-46c8-9093-6b3e6e5c588b.jpg",
+    "type": "مانهوا",
+    "status": "مستمر",
+    "rating": "9.2",
+    "total_chapters": 30,
+    "genres": [
+      "رومانسى",
+      "فانتازيا",
+      "دراما"
+    ]
+  },
+  {
+    "id": "the-poisonous-princess-who-successfully-infiltrated-the-enemy-as-an-employee",
+    "title": "The Poisonous Princess Who Successfully Infiltrated the Enemy as an Employee",
+    "url": "https://azorafly.com/series/the-poisonous-princess-who-successfully-infiltrated-the-enemy-as-an-employee",
+    "cover_url": "https://storage.azorafly.com/upload/series/featured/a5vVlSc5huft2AzUyK1VxgKh1ckCWLbZ/11364856-10fd-4b65-810d-913f41ac7f15.jpg",
+    "type": "رواية",
+    "total_chapters": 10,
+    "genres": [
+      "تجسيد",
+      "رومانسي",
+      "كوميدي",
+      "خيال",
+      "دراما"
+    ],
+    "status": "مستمر",
     "rating": "10.0"
+  },
+  {
+    "id": "the-villains-match-is-too-perfect",
+    "title": "The Villain's Match Is Too Perfect",
+    "url": "https://azorafly.com/series/the-villains-match-is-too-perfect",
+    "cover_url": "https://storage.azorafly.com/upload/series/featured/a5vVlSc5huft2AzUyK1VxgKh1ckCWLbZ/ae851737-6e66-47b9-8f9d-061c4ad9d147.jpg",
+    "type": "مانهوا",
+    "status": "مكتمل",
+    "rating": "9.1",
+    "total_chapters": 145,
+    "genres": [
+      "سحر",
+      "شوجو",
+      "رومانسي"
+    ]
+  },
+  {
+    "id": "the-heavenly-demon-cult's-strongest-maid",
+    "title": "The Heavenly Demon Cult’s Strongest Maid",
+    "url": "https://azorafly.com/series/the-heavenly-demon-cult's-strongest-maid",
+    "cover_url": "https://storage.azorafly.com/upload/series/featured/a5vVlSc5huft2AzUyK1VxgKh1ckCWLbZ/f65bea9c-c32d-4f38-afc0-f4a7e71e0306.png",
+    "type": "مانهوا",
+    "status": "مستمر",
+    "rating": "8.8",
+    "total_chapters": 44,
+    "genres": [
+      "خيالي",
+      "كوميدي",
+      "شوجو",
+      "رومانسي",
+      "دراما",
+      "تشويق"
+    ]
+  },
+  {
+    "id": "a-ghostly-song",
+    "title": "A Ghostly Song",
+    "url": "https://azorafly.com/series/a-ghostly-song",
+    "cover_url": "https://storage.azorafly.com/upload/series/featured/a5vVlSc5huft2AzUyK1VxgKh1ckCWLbZ/795a4dcb-d26d-4359-94cf-ec3ed28285d6.jpg",
+    "type": "مانهوا",
+    "status": "مستمر",
+    "rating": "9.7",
+    "total_chapters": 70,
+    "genres": [
+      "نفسي",
+      "تشويق",
+      "رعب",
+      "أكشن"
+    ]
+  },
+  {
+    "id": "husband-thief",
+    "title": "Husband Thief",
+    "url": "https://azorafly.com/series/husband-thief",
+    "cover_url": "https://storage.azorafly.com/public/upload/2026/04/03/57bc59e4-b87e-41e3-bc5d-b720a3d19fe7.webp",
+    "type": "مانهوا",
+    "status": "مستمر",
+    "rating": "6.4",
+    "total_chapters": 39,
+    "genres": [
+      "خيالي",
+      "رومانسي",
+      "انتقام"
+    ]
+  },
+  {
+    "id": "i-reincarnated-as-a-villainess-but-why-did-i-become-a-cat-butler-instead",
+    "title": "I Reincarnated As A Villainess, But Why Did I Become A Cat Butler Instead?",
+    "url": "https://azorafly.com/series/i-reincarnated-as-a-villainess-but-why-did-i-become-a-cat-butler-instead",
+    "cover_url": "https://storage.azorafly.com/upload/series/featured/cd41a42a-76fd-4c3a-a5f3-c71c3784dd7b/830a8a34-2bdf-474c-b876-459f3c4a9511.webp",
+    "type": "مانهوا",
+    "status": "مكتمل",
+    "rating": "8.8",
+    "total_chapters": 98,
+    "genres": [
+      "تجسد",
+      "كوميدي",
+      "خيال",
+      "شوجو",
+      "رومانسي",
+      "إعادة إحياء"
+    ]
+  },
+  {
+    "id": "the-seventh-prince-wants-to-bail",
+    "title": "The Seventh Prince Wants to Bail",
+    "url": "https://azorafly.com/series/the-seventh-prince-wants-to-bail",
+    "cover_url": "https://storage.azorafly.com/upload/series/featured/6cac1de1-87ae-4a81-9cd1-2abe99fd84d7/320675bd-1988-459d-ac60-ce44c8a7f055.jpg",
+    "type": "مانهوا",
+    "status": "مستمر",
+    "rating": "9.7",
+    "total_chapters": 25,
+    "genres": [
+      "اكشن",
+      "مغامرات",
+      "غموض",
+      "فنتازيا"
+    ]
+  },
+  {
+    "id": "embarrassing-game",
+    "title": "Embarrassing game",
+    "url": "https://azorafly.com/series/embarrassing-game",
+    "cover_url": "https://storage.azorafly.com/upload/series/featured/02408b52-85d5-445d-9e5c-f7dbcd583bf8/fb3c9afe-6674-4259-bd2d-970d402fd27e.jpg",
+    "type": "مانهوا",
+    "status": "مستمر",
+    "rating": "10.0",
+    "total_chapters": 42,
+    "genres": [
+      "حياة مدرسية",
+      "اثارة",
+      "غموض"
+    ]
+  },
+  {
+    "id": "got-dropped-into-a-horror-story-still-gotta-work",
+    "title": "Got Dropped into a Horror Story, Still Gotta Work",
+    "url": "https://azorafly.com/series/got-dropped-into-a-horror-story-still-gotta-work",
+    "cover_url": "https://storage.azorafly.com/upload/series/featured/02408b52-85d5-445d-9e5c-f7dbcd583bf8/1f4366f2-5be4-42fa-b794-ecba05839168.jpeg",
+    "type": "مانهوا",
+    "status": "مستمر",
+    "rating": "9.9",
+    "total_chapters": 41,
+    "genres": [
+      "اكشن",
+      "مغامرات",
+      "غموض",
+      "دراما"
+    ]
+  },
+  {
+    "id": "the-necromancer-of-a-swordsmanship-family",
+    "title": "The Necromancer of a Swordsmanship Family",
+    "url": "https://azorafly.com/series/the-necromancer-of-a-swordsmanship-family",
+    "cover_url": "https://storage.azorafly.com/upload/series/featured/6cac1de1-87ae-4a81-9cd1-2abe99fd84d7/af1811c5-ff09-4852-94a2-5494b120a0e7.jpg",
+    "type": "مانهوا",
+    "status": "مستمر",
+    "rating": "10.0",
+    "total_chapters": 31,
+    "genres": [
+      "اكشن",
+      "منافسين",
+      "خيال اكشن",
+      "تناسخ الارواح",
+      "نبلاء",
+      "شونين",
+      "خيال",
+      "ملوك",
+      "فنتازيا"
+    ]
+  },
+  {
+    "id": "sorry-im-a-face-con",
+    "title": "Sorry, I'm a Face Con",
+    "url": "https://azorafly.com/series/sorry-im-a-face-con",
+    "cover_url": "https://storage.azorafly.com/2025/02/Sans_titre_361_20251220233348.jpg",
+    "type": "مانهوا",
+    "status": "مستمر",
+    "rating": "10.0",
+    "total_chapters": 94,
+    "genres": [
+      "كوميدي",
+      "خيال",
+      "رومانسي"
+    ]
+  },
+  {
+    "id": "to-you-who-have-forgotten-the-night",
+    "title": "To you, who have forgotten the night",
+    "url": "https://azorafly.com/series/to-you-who-have-forgotten-the-night",
+    "cover_url": "https://storage.azorafly.com/upload/series/featured/a5vVlSc5huft2AzUyK1VxgKh1ckCWLbZ/d640a844-ca6a-4d7b-aa8c-043c792c98f6.jpg",
+    "type": "رواية",
+    "total_chapters": 10,
+    "genres": [
+      "ندم",
+      "خيال",
+      "رومانسي",
+      "دراما",
+      "عودة بالزمن",
+      "علاقة تعاقدية"
+    ],
+    "status": "مستمر",
+    "rating": "10.0"
+  },
+  {
+    "id": "operation-name-pure-love",
+    "title": "Operation Name Pure Love",
+    "url": "https://azorafly.com/series/operation-name-pure-love",
+    "cover_url": "https://storage.azorafly.com/2022/05/B115E8B2-4B22-4234-9463-436C7DC961DE.jpeg",
+    "type": "مانهوا",
+    "status": "مستمر",
+    "rating": "8.8",
+    "total_chapters": 144,
+    "genres": [
+      "الحياة المدرسية",
+      "كوميدي",
+      "شوجو",
+      "رومانسي",
+      "دراما"
+    ]
+  },
+  {
+    "id": "overgeared-12",
+    "title": "Overgeared",
+    "url": "https://azorafly.com/series/overgeared-12",
+    "cover_url": "https://storage.azorafly.com/2020/04/resource-2.jpg",
+    "type": "مانهوا",
+    "status": "مستمر",
+    "rating": "9.7",
+    "total_chapters": 347,
+    "genres": [
+      "اسبوعي",
+      "ويبتون",
+      "مميز",
+      "مغامرات",
+      "كوميدي",
+      "أكشن"
+    ]
+  },
+  {
+    "id": "leaving-for-my-younger-husband's-future%3A-a-divorce-decision",
+    "title": "Leaving for My Younger Husband’s Future: A Divorce Decision",
+    "url": "https://azorafly.com/series/leaving-for-my-younger-husband's-future%3A-a-divorce-decision",
+    "cover_url": "https://storage.azorafly.com/public/upload/2026/01/17/6f6a83eb-d58a-44fb-9fe9-9cf1630f38a5.webp",
+    "type": "مانهوا",
+    "status": "مستمر",
+    "rating": "10.0",
+    "total_chapters": 58,
+    "genres": [
+      "فانتازيا",
+      "رومانسي",
+      "دراما"
+    ]
+  },
+  {
+    "id": "the-regressor-and-the-blind-saintess",
+    "title": "The Regressor and the Blind Saintess",
+    "url": "https://azorafly.com/series/the-regressor-and-the-blind-saintess",
+    "cover_url": "https://storage.azorafly.com/upload/series/featured/02408b52-85d5-445d-9e5c-f7dbcd583bf8/fd91dd7c-0464-4fcc-91af-813b7a128dc9.jpg",
+    "type": "مانهوا",
+    "total_chapters": 5,
+    "genres": [
+      "رومانسى",
+      "اكشن"
+    ],
+    "status": "مستمر",
+    "rating": "10.0"
+  },
+  {
+    "id": "infinite-mage",
+    "title": "Infinite Mage",
+    "url": "https://azorafly.com/series/infinite-mage",
+    "cover_url": "https://storage.azorafly.com/2022/12/resource.jpeg",
+    "type": "مانهوا",
+    "status": "مستمر",
+    "rating": "9.6",
+    "total_chapters": 189,
+    "genres": [
+      "شونين",
+      "مغامرة",
+      "أكشن",
+      "دراما",
+      "خيال",
+      "سحر"
+    ]
+  },
+  {
+    "id": "return-of-the-mount-hua-sect-76",
+    "title": "Return of the Mount Hua Sect",
+    "url": "https://azorafly.com/series/return-of-the-mount-hua-sect-76",
+    "cover_url": "https://storage.azorafly.com/public/upload/series/featured/cmjkgwd7t0000ld63nf9eiyz6/193c3fab-2b1d-454d-8d31-233a6a8ec275.png",
+    "type": "مانهوا",
+    "status": "مستمر",
+    "rating": "9.8",
+    "total_chapters": 189,
+    "genres": [
+      "قوة خارقة",
+      "مانهوا",
+      "دموي",
+      "اسبوعي",
+      "سينين",
+      "مميز",
+      "كوميدي",
+      "إثارة",
+      "أكشن"
+    ]
+  },
+  {
+    "id": "the-villainess's-sponsorship-was-exposed",
+    "title": "The Villainess’s Sponsorship Was Exposed",
+    "url": "https://azorafly.com/series/the-villainess's-sponsorship-was-exposed",
+    "cover_url": "https://storage.azorafly.com/upload/series/featured/6cac1de1-87ae-4a81-9cd1-2abe99fd84d7/0b82720a-406c-461e-bf33-4c926752c6fc.png",
+    "type": "مانهوا",
+    "status": "مستمر",
+    "rating": "8.0",
+    "total_chapters": 30,
+    "genres": [
+      "رومانسى",
+      "فنتازيا"
+    ]
+  },
+  {
+    "id": "the-stray-hound",
+    "title": "The Stray Hound",
+    "url": "https://azorafly.com/series/the-stray-hound",
+    "cover_url": "https://storage.azorafly.com/upload/series/featured/oGmL0DQZ16QInTPaeDKwFEK9ryegoy88/087e2aa7-c526-43a5-98c3-322ded35a0f9.webp",
+    "type": "مانهوا",
+    "status": "مستمر",
+    "rating": "9.7",
+    "total_chapters": 7,
+    "genres": [
+      "اكشن",
+      "شونين",
+      "انتقام"
+    ]
+  },
+  {
+    "id": "taming-of-heroes",
+    "title": "Taming of Heroes",
+    "url": "https://azorafly.com/series/taming-of-heroes",
+    "cover_url": "https://storage.azorafly.com/2025/04/20250430_055510.webp",
+    "type": "مانهوا",
+    "status": "مستمر",
+    "rating": "10.0",
+    "total_chapters": 47,
+    "genres": [
+      "رعاية اطفال",
+      "انتقام",
+      "رومانسي",
+      "فانتازيا"
+    ]
+  },
+  {
+    "id": "i-didn't-mean-to-save-the-villain",
+    "title": "I Didn’t Mean to Save The Villain",
+    "url": "https://azorafly.com/series/i-didn't-mean-to-save-the-villain",
+    "cover_url": "https://storage.azorafly.com/upload/series/featured/a5vVlSc5huft2AzUyK1VxgKh1ckCWLbZ/b6475801-e645-4cda-95be-6fb97215fa27.jpg",
+    "type": "رواية",
+    "status": "مستمر",
+    "rating": "8.8",
+    "total_chapters": 173,
+    "genres": [
+      "تاريخي",
+      "تجسيد",
+      "كوميدي",
+      "دراما",
+      "خيال",
+      "رومانسي"
+    ]
+  },
+  {
+    "id": "my-favourite-author-has-been-imprisoned-in-the-marquis's-estate",
+    "title": "My Favourite Author Has Been Imprisoned in the Marquis’s Estate",
+    "url": "https://azorafly.com/series/my-favourite-author-has-been-imprisoned-in-the-marquis's-estate",
+    "cover_url": "https://storage.azorafly.com/upload/series/featured/a5vVlSc5huft2AzUyK1VxgKh1ckCWLbZ/5f29638a-dca6-40e4-8d6e-6155eda34af6.jpg",
+    "type": "رواية",
+    "status": "مكتمل",
+    "rating": "9.8",
+    "total_chapters": 138,
+    "genres": [
+      "خيالي",
+      "تاريخي",
+      "تجسيد",
+      "دراما",
+      "خيال",
+      "رومانسي",
+      "كوميدي"
+    ]
+  },
+  {
+    "id": "i-married-the-dragon-i-killed",
+    "title": "I Married the Dragon I Killed",
+    "url": "https://azorafly.com/series/i-married-the-dragon-i-killed",
+    "cover_url": "https://storage.azorafly.com/upload/series/featured/6cac1de1-87ae-4a81-9cd1-2abe99fd84d7/d0651972-78ff-434a-aa5a-7baefc7ed754.png",
+    "type": "مانهوا",
+    "status": "مستمر",
+    "rating": "9.1",
+    "total_chapters": 18,
+    "genres": [
+      "اكشن",
+      "تراجع",
+      "فنتازيا",
+      "مغامرة",
+      "مأساة"
+    ]
+  },
+  {
+    "id": "i-will-save-my-father",
+    "title": "I will save my father",
+    "url": "https://azorafly.com/series/i-will-save-my-father",
+    "cover_url": "https://storage.azorafly.com/upload/series/featured/6cac1de1-87ae-4a81-9cd1-2abe99fd84d7/74b1258e-7c7e-440a-bc9f-e2e3b53cbdab.webp",
+    "type": "مانهوا",
+    "status": "مستمر",
+    "rating": "10.0",
+    "total_chapters": 37,
+    "genres": [
+      "فنتازيا",
+      "دراما",
+      "كوميدي",
+      "رومانسي"
+    ]
+  },
+  {
+    "id": "the-over-invested-unrequited-crush-club",
+    "title": "The Over-Invested Unrequited Crush Club",
+    "url": "https://azorafly.com/series/the-over-invested-unrequited-crush-club",
+    "cover_url": "https://storage.azorafly.com/upload/series/featured/6cac1de1-87ae-4a81-9cd1-2abe99fd84d7/1debc798-9560-47c8-9c2f-03feb69bf5d8.png",
+    "type": "مانهوا",
+    "status": "مستمر",
+    "rating": "10.0",
+    "total_chapters": 11,
+    "genres": [
+      "رومانسى",
+      "حياة مدرسية",
+      "دراما"
+    ]
+  },
+  {
+    "id": "regression-of-the-yong-clan-heir",
+    "title": "Regression of the Yong Clan Heir",
+    "url": "https://azorafly.com/series/regression-of-the-yong-clan-heir",
+    "cover_url": "https://storage.azorafly.com/2024/12/A21.webp",
+    "type": "مانهوا",
+    "status": "مستمر",
+    "rating": "9.0",
+    "total_chapters": 61,
+    "genres": [
+      "زمكاني",
+      "أكشن",
+      "فنون قتالية",
+      "خيال"
+    ]
   },
   {
     "id": "the-goddess-of-fortune",
@@ -4156,40 +4332,6 @@
     ]
   },
   {
-    "id": "i-reincarnated-as-a-villainess-but-why-did-i-become-a-cat-butler-instead",
-    "title": "I Reincarnated As A Villainess, But Why Did I Become A Cat Butler Instead?",
-    "url": "https://azorafly.com/series/i-reincarnated-as-a-villainess-but-why-did-i-become-a-cat-butler-instead",
-    "cover_url": "https://storage.azorafly.com/upload/series/featured/cd41a42a-76fd-4c3a-a5f3-c71c3784dd7b/830a8a34-2bdf-474c-b876-459f3c4a9511.webp",
-    "type": "مانهوا",
-    "status": "مكتمل",
-    "rating": "8.7",
-    "total_chapters": 97,
-    "genres": [
-      "تجسد",
-      "شوجو",
-      "إعادة إحياء",
-      "كوميدي",
-      "خيال",
-      "رومانسي"
-    ]
-  },
-  {
-    "id": "got-dropped-into-a-horror-story-still-gotta-work",
-    "title": "Got Dropped into a Horror Story, Still Gotta Work",
-    "url": "https://azorafly.com/series/got-dropped-into-a-horror-story-still-gotta-work",
-    "cover_url": "https://storage.azorafly.com/upload/series/featured/02408b52-85d5-445d-9e5c-f7dbcd583bf8/1f4366f2-5be4-42fa-b794-ecba05839168.jpeg",
-    "type": "مانهوا",
-    "status": "مستمر",
-    "rating": "9.9",
-    "total_chapters": 40,
-    "genres": [
-      "اكشن",
-      "غموض",
-      "مغامرات",
-      "دراما"
-    ]
-  },
-  {
     "id": "the-emperor-finds-his-maid-annoying",
     "title": "‏The Emperor Finds His Maid Annoying",
     "url": "https://azorafly.com/series/the-emperor-finds-his-maid-annoying",
@@ -4331,22 +4473,6 @@
     ]
   },
   {
-    "id": "a-ghostly-song",
-    "title": "A Ghostly Song",
-    "url": "https://azorafly.com/series/a-ghostly-song",
-    "cover_url": "https://storage.azorafly.com/upload/series/featured/a5vVlSc5huft2AzUyK1VxgKh1ckCWLbZ/795a4dcb-d26d-4359-94cf-ec3ed28285d6.jpg",
-    "type": "مانهوا",
-    "status": "مستمر",
-    "rating": "9.7",
-    "total_chapters": 69,
-    "genres": [
-      "رعب",
-      "تشويق",
-      "نفسي",
-      "أكشن"
-    ]
-  },
-  {
     "id": "dont-tame-it-carelessly",
     "title": "Don't Tame It Carelessly!",
     "url": "https://azorafly.com/series/dont-tame-it-carelessly",
@@ -4418,21 +4544,6 @@
     ]
   },
   {
-    "id": "the-villains-match-is-too-perfect",
-    "title": "The Villain's Match Is Too Perfect",
-    "url": "https://azorafly.com/series/the-villains-match-is-too-perfect",
-    "cover_url": "https://storage.azorafly.com/upload/series/featured/a5vVlSc5huft2AzUyK1VxgKh1ckCWLbZ/ae851737-6e66-47b9-8f9d-061c4ad9d147.jpg",
-    "type": "مانهوا",
-    "status": "مكتمل",
-    "rating": "9.2",
-    "total_chapters": 144,
-    "genres": [
-      "شوجو",
-      "رومانسي",
-      "سحر"
-    ]
-  },
-  {
     "id": "the-baby-fairy-is-a-villain",
     "title": "The Baby Fairy is a Villain",
     "url": "https://azorafly.com/series/the-baby-fairy-is-a-villain",
@@ -4492,21 +4603,6 @@
       "شوجو",
       "فنتازيا",
       "كوميدي"
-    ]
-  },
-  {
-    "id": "husband-thief",
-    "title": "Husband Thief",
-    "url": "https://azorafly.com/series/husband-thief",
-    "cover_url": "https://storage.azorafly.com/public/upload/2026/04/03/57bc59e4-b87e-41e3-bc5d-b720a3d19fe7.webp",
-    "type": "مانهوا",
-    "status": "مستمر",
-    "rating": "6.4",
-    "total_chapters": 38,
-    "genres": [
-      "خيالي",
-      "رومانسي",
-      "انتقام"
     ]
   },
   {
@@ -4659,24 +4755,6 @@
     ]
   },
   {
-    "id": "overgeared-12",
-    "title": "Overgeared",
-    "url": "https://azorafly.com/series/overgeared-12",
-    "cover_url": "https://storage.azorafly.com/2020/04/resource-2.jpg",
-    "type": "مانهوا",
-    "status": "مستمر",
-    "rating": "9.7",
-    "total_chapters": 346,
-    "genres": [
-      "ويبتون",
-      "اسبوعي",
-      "كوميدي",
-      "مميز",
-      "مغامرات",
-      "أكشن"
-    ]
-  },
-  {
     "id": "the-hero's-ballad",
     "title": "The Hero’s Ballad",
     "url": "https://azorafly.com/series/the-hero's-ballad",
@@ -4735,23 +4813,6 @@
     "genres": [
       "خيالي",
       "رومانسي"
-    ]
-  },
-  {
-    "id": "operation-name-pure-love",
-    "title": "Operation Name Pure Love",
-    "url": "https://azorafly.com/series/operation-name-pure-love",
-    "cover_url": "https://storage.azorafly.com/2022/05/B115E8B2-4B22-4234-9463-436C7DC961DE.jpeg",
-    "type": "مانهوا",
-    "status": "مستمر",
-    "rating": "8.7",
-    "total_chapters": 143,
-    "genres": [
-      "الحياة المدرسية",
-      "كوميدي",
-      "شوجو",
-      "رومانسي",
-      "دراما"
     ]
   },
   {
@@ -5334,21 +5395,6 @@
     ]
   },
   {
-    "id": "leaving-for-my-younger-husband's-future%3A-a-divorce-decision",
-    "title": "Leaving for My Younger Husband’s Future: A Divorce Decision",
-    "url": "https://azorafly.com/series/leaving-for-my-younger-husband's-future%3A-a-divorce-decision",
-    "cover_url": "https://storage.azorafly.com/public/upload/2026/01/17/6f6a83eb-d58a-44fb-9fe9-9cf1630f38a5.webp",
-    "type": "مانهوا",
-    "status": "مستمر",
-    "rating": "10.0",
-    "total_chapters": 57,
-    "genres": [
-      "دراما",
-      "فانتازيا",
-      "رومانسي"
-    ]
-  },
-  {
     "id": "rejected-lady-enjoying-a-modest-life",
     "title": "Rejected Lady Enjoying a Modest Life",
     "url": "https://azorafly.com/series/rejected-lady-enjoying-a-modest-life",
@@ -5611,22 +5657,6 @@
       "مانهوا",
       "الحياة اليومية",
       "رومانسي"
-    ]
-  },
-  {
-    "id": "the-seventh-prince-wants-to-bail",
-    "title": "The Seventh Prince Wants to Bail",
-    "url": "https://azorafly.com/series/the-seventh-prince-wants-to-bail",
-    "cover_url": "https://storage.azorafly.com/upload/series/featured/6cac1de1-87ae-4a81-9cd1-2abe99fd84d7/320675bd-1988-459d-ac60-ce44c8a7f055.jpg",
-    "type": "مانهوا",
-    "status": "مستمر",
-    "rating": "9.7",
-    "total_chapters": 24,
-    "genres": [
-      "اكشن",
-      "فنتازيا",
-      "مغامرات",
-      "غموض"
     ]
   },
   {
@@ -5906,21 +5936,6 @@
       "خيال",
       "رومانسي",
       "شوجو"
-    ]
-  },
-  {
-    "id": "embarrassing-game",
-    "title": "Embarrassing game",
-    "url": "https://azorafly.com/series/embarrassing-game",
-    "cover_url": "https://storage.azorafly.com/upload/series/featured/02408b52-85d5-445d-9e5c-f7dbcd583bf8/fb3c9afe-6674-4259-bd2d-970d402fd27e.jpg",
-    "type": "مانهوا",
-    "status": "مستمر",
-    "rating": "10.0",
-    "total_chapters": 41,
-    "genres": [
-      "اثارة",
-      "حياة مدرسية",
-      "غموض"
     ]
   },
   {
@@ -35182,22 +35197,6 @@
       "لعبة",
       "خيالي",
       "رومانسي"
-    ]
-  },
-  {
-    "id": "sorry-im-a-face-con",
-    "title": "Sorry, I'm a Face Con",
-    "url": "https://azorafly.com/series/sorry-im-a-face-con",
-    "cover_url": "https://storage.azorafly.com/2025/02/Sans_titre_361_20251220233348.jpg",
-    "type": "مانهوا",
-    "status": "مستمر",
-    "rating": "9.5",
-    "total_chapters": 93,
-    "genres": [
-      "أكشن",
-      "خيال",
-      "رومانسي",
-      "كوميدي"
     ]
   },
   {

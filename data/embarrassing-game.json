@@ -8,12 +8,15 @@
   "last_update": "2026-05-16",
   "rating": "10.0",
   "genres": [
-    "اثارة",
     "حياة مدرسية",
+    "اثارة",
     "غموض"
   ],
   "is_novel": false,
   "chapters": {
+    "https://azorafly.com/series/embarrassing-game/chapter-42": {
+      "name": "42"
+    },
     "https://azorafly.com/series/embarrassing-game/chapter-41": {
       "name": "41"
     },

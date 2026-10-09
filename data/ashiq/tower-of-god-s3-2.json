@@ -1,7 +1,7 @@
 {
   "id": "tower-of-god-s3-2",
   "title": "Tower Of God s3",
-  "cover_url": "https://3asq.online/wp-content/uploads/2017/10/site-logo.png",
+  "cover_url": "https://3asq.online/wp-content/uploads/2024/10/336d041d0626e5ad27fddff54b0cbdf4.jpg",
   "description": "ما الذي تريده؟ الثراء؟ المجد؟ القوة؟ الانتقام؟ أو شيئًا يفوق كل هذا؟ كل شيء تريده- ستجده هنا",
   "type": "مانهوا",
   "status": "مستمر",
@@ -18,5 +18,15 @@
     "ويب-تون"
   ],
   "is_novel": false,
-  "chapters": {}
+  "chapters": {
+    "https://3asq.online/manga/tower-of-god-s3-2/223": {
+      "name": "223"
+    },
+    "https://3asq.online/manga/tower-of-god-s3-2/213": {
+      "name": "213"
+    },
+    "https://3asq.online/manga/tower-of-god-s3-2/164": {
+      "name": "164"
+    }
+  }
 }

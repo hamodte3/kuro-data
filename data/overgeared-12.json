@@ -8,15 +8,18 @@
   "last_update": "2026-05-07",
   "rating": "9.7",
   "genres": [
-    "ويبتون",
     "اسبوعي",
-    "كوميدي",
+    "ويبتون",
     "مميز",
     "مغامرات",
+    "كوميدي",
     "أكشن"
   ],
   "is_novel": false,
   "chapters": {
+    "https://azorafly.com/series/overgeared-12/chapter-343": {
+      "name": "343"
+    },
     "https://azorafly.com/series/overgeared-12/chapter-342": {
       "name": "342"
     },

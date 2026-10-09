@@ -6,17 +6,20 @@
   "type": "مانهوا",
   "status": "مستمر",
   "last_update": "2026-09-16",
-  "rating": "8.6",
+  "rating": "8.8",
   "genres": [
     "خيالي",
     "كوميدي",
     "شوجو",
-    "تشويق",
     "رومانسي",
-    "دراما"
+    "دراما",
+    "تشويق"
   ],
   "is_novel": false,
   "chapters": {
+    "https://azorafly.com/series/the-heavenly-demon-cult's-strongest-maid/chapter-44": {
+      "name": "44"
+    },
     "https://azorafly.com/series/the-heavenly-demon-cult's-strongest-maid/chapter-43": {
       "name": "43"
     },

@@ -9,12 +9,43 @@
   "rating": "10.0",
   "genres": [
     "ندم",
-    "رومانسي",
     "خيال",
+    "رومانسي",
     "دراما",
     "عودة بالزمن",
     "علاقة تعاقدية"
   ],
   "is_novel": false,
-  "chapters": {}
+  "chapters": {
+    "https://azorafly.com/series/to-you-who-have-forgotten-the-night/chapter-10": {
+      "name": "10"
+    },
+    "https://azorafly.com/series/to-you-who-have-forgotten-the-night/chapter-9": {
+      "name": "9"
+    },
+    "https://azorafly.com/series/to-you-who-have-forgotten-the-night/chapter-8": {
+      "name": "8"
+    },
+    "https://azorafly.com/series/to-you-who-have-forgotten-the-night/chapter-7": {
+      "name": "7"
+    },
+    "https://azorafly.com/series/to-you-who-have-forgotten-the-night/chapter-6": {
+      "name": "6"
+    },
+    "https://azorafly.com/series/to-you-who-have-forgotten-the-night/chapter-5": {
+      "name": "5"
+    },
+    "https://azorafly.com/series/to-you-who-have-forgotten-the-night/chapter-4": {
+      "name": "4"
+    },
+    "https://azorafly.com/series/to-you-who-have-forgotten-the-night/chapter-3": {
+      "name": "3"
+    },
+    "https://azorafly.com/series/to-you-who-have-forgotten-the-night/chapter-2": {
+      "name": "2"
+    },
+    "https://azorafly.com/series/to-you-who-have-forgotten-the-night/chapter-1": {
+      "name": "1"
+    }
+  }
 }

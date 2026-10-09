@@ -6,17 +6,20 @@
   "type": "مانهوا",
   "status": "مكتمل",
   "last_update": "2026-08-03",
-  "rating": "8.7",
+  "rating": "8.8",
   "genres": [
     "تجسد",
-    "شوجو",
-    "إعادة إحياء",
     "كوميدي",
     "خيال",
-    "رومانسي"
+    "شوجو",
+    "رومانسي",
+    "إعادة إحياء"
   ],
   "is_novel": false,
   "chapters": {
+    "https://azorafly.com/series/i-reincarnated-as-a-villainess-but-why-did-i-become-a-cat-butler-instead/chapter-98": {
+      "name": "98"
+    },
     "https://azorafly.com/series/i-reincarnated-as-a-villainess-but-why-did-i-become-a-cat-butler-instead/chapter-97": {
       "name": "97"
     },

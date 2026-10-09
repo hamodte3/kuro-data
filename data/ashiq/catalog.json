@@ -346,15 +346,6 @@
     "genres": []
   },
   {
-    "id": "tower-of-god-s3-2",
-    "title": "Tower Of God s3",
-    "url": "https://3asq.online/manga/tower-of-god-s3-2",
-    "cover_url": "",
-    "type": "مانغا",
-    "rating": "4.7",
-    "genres": []
-  },
-  {
     "id": "bug-ego",
     "title": "Bug Ego",
     "url": "https://3asq.online/manga/bug-ego",
@@ -1212,6 +1203,26 @@
     ],
     "status": "مستمر",
     "total_chapters": 389
+  },
+  {
+    "id": "tower-of-god-s3-2",
+    "title": "Tower Of God s3",
+    "url": "https://3asq.online/manga/tower-of-god-s3-2",
+    "cover_url": "https://3asq.online/wp-content/uploads/2024/10/336d041d0626e5ad27fddff54b0cbdf4-175x238.jpg",
+    "type": "مانهوا",
+    "rating": "4.7",
+    "genres": [
+      "100%",
+      "أكشن",
+      "خارق للطبيعة",
+      "خيال",
+      "دراما",
+      "غموض",
+      "مغامرة",
+      "ويب-تون"
+    ],
+    "status": "مستمر",
+    "total_chapters": 3
   },
   {
     "id": "ashita-no-joe",

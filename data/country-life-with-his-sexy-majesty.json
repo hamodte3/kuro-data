@@ -9,11 +9,20 @@
   "rating": "9.2",
   "genres": [
     "رومانسى",
-    "دراما",
-    "فانتازيا"
+    "فانتازيا",
+    "دراما"
   ],
   "is_novel": false,
   "chapters": {
+    "https://azorafly.com/series/country-life-with-his-sexy-majesty/chapter-30": {
+      "name": "30"
+    },
+    "https://azorafly.com/series/country-life-with-his-sexy-majesty/chapter-29": {
+      "name": "29"
+    },
+    "https://azorafly.com/series/country-life-with-his-sexy-majesty/chapter-28": {
+      "name": "28"
+    },
     "https://azorafly.com/series/country-life-with-his-sexy-majesty/chapter-27": {
       "name": "27"
     },

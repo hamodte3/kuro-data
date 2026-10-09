@@ -10,10 +10,41 @@
   "genres": [
     "تجسيد",
     "رومانسي",
-    "خيال",
     "كوميدي",
+    "خيال",
     "دراما"
   ],
   "is_novel": false,
-  "chapters": {}
+  "chapters": {
+    "https://azorafly.com/series/the-poisonous-princess-who-successfully-infiltrated-the-enemy-as-an-employee/chapter-10": {
+      "name": "10"
+    },
+    "https://azorafly.com/series/the-poisonous-princess-who-successfully-infiltrated-the-enemy-as-an-employee/chapter-9": {
+      "name": "9"
+    },
+    "https://azorafly.com/series/the-poisonous-princess-who-successfully-infiltrated-the-enemy-as-an-employee/chapter-8": {
+      "name": "8"
+    },
+    "https://azorafly.com/series/the-poisonous-princess-who-successfully-infiltrated-the-enemy-as-an-employee/chapter-7": {
+      "name": "7"
+    },
+    "https://azorafly.com/series/the-poisonous-princess-who-successfully-infiltrated-the-enemy-as-an-employee/chapter-6": {
+      "name": "6"
+    },
+    "https://azorafly.com/series/the-poisonous-princess-who-successfully-infiltrated-the-enemy-as-an-employee/chapter-5": {
+      "name": "5"
+    },
+    "https://azorafly.com/series/the-poisonous-princess-who-successfully-infiltrated-the-enemy-as-an-employee/chapter-4": {
+      "name": "4"
+    },
+    "https://azorafly.com/series/the-poisonous-princess-who-successfully-infiltrated-the-enemy-as-an-employee/chapter-3": {
+      "name": "3"
+    },
+    "https://azorafly.com/series/the-poisonous-princess-who-successfully-infiltrated-the-enemy-as-an-employee/chapter-2": {
+      "name": "2"
+    },
+    "https://azorafly.com/series/the-poisonous-princess-who-successfully-infiltrated-the-enemy-as-an-employee/chapter-1": {
+      "name": "1"
+    }
+  }
 }

@@ -6,14 +6,17 @@
   "type": "مانهوا",
   "status": "مكتمل",
   "last_update": "2026-09-20",
-  "rating": "9.2",
+  "rating": "9.1",
   "genres": [
+    "سحر",
     "شوجو",
-    "رومانسي",
-    "سحر"
+    "رومانسي"
   ],
   "is_novel": false,
   "chapters": {
+    "https://azorafly.com/series/the-villains-match-is-too-perfect/chapter-145": {
+      "name": "145"
+    },
     "https://azorafly.com/series/the-villains-match-is-too-perfect/chapter-144": {
       "name": "144"
     },

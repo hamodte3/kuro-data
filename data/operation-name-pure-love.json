@@ -6,7 +6,7 @@
   "type": "مانهوا",
   "status": "مستمر",
   "last_update": "2026-05-07",
-  "rating": "8.7",
+  "rating": "8.8",
   "genres": [
     "الحياة المدرسية",
     "كوميدي",
@@ -16,6 +16,9 @@
   ],
   "is_novel": false,
   "chapters": {
+    "https://azorafly.com/series/operation-name-pure-love/chapter-144": {
+      "name": "144"
+    },
     "https://azorafly.com/series/operation-name-pure-love/chapter-142": {
       "name": "142"
     },
