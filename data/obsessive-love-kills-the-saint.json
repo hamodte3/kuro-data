@@ -6,13 +6,16 @@
   "type": "مانهوا",
   "status": "مستمر",
   "last_update": "2026-05-07",
-  "rating": "1.9",
+  "rating": "1.4",
   "genres": [
-    "شوجو",
-    "رومانسي"
+    "رومانسي",
+    "شوجو"
   ],
   "is_novel": false,
   "chapters": {
+    "https://azorafly.com/series/obsessive-love-kills-the-saint/chapter-41": {
+      "name": "41"
+    },
     "https://azorafly.com/series/obsessive-love-kills-the-saint/chapter-40": {
       "name": "40"
     },

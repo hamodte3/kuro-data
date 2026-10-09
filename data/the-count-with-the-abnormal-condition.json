@@ -6,7 +6,7 @@
   "type": "رواية",
   "status": "مستمر",
   "last_update": "2026-10-08",
-  "rating": "10.0",
+  "rating": "9.5",
   "genres": [
     "رومانسي",
     "نظام",
@@ -16,6 +16,9 @@
   ],
   "is_novel": false,
   "chapters": {
+    "https://azorafly.com/series/the-count-with-the-abnormal-condition/chapter-30": {
+      "name": "30"
+    },
     "https://azorafly.com/series/the-count-with-the-abnormal-condition/chapter-29": {
       "name": "29"
     },
