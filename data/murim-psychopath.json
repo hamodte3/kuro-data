@@ -9,13 +9,16 @@
   "rating": "9.9",
   "genres": [
     "موريم",
-    "فنون قتالية",
-    "أكشن",
+    "مغامرة",
     "نفسي",
-    "مغامرة"
+    "فنون قتالية",
+    "أكشن"
   ],
   "is_novel": false,
   "chapters": {
+    "https://azorafly.com/series/murim-psychopath/chapter-46": {
+      "name": "46"
+    },
     "https://azorafly.com/series/murim-psychopath/chapter-45": {
       "name": "45"
     },

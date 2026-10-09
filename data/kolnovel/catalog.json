@@ -1025,63 +1025,6 @@
     "status": "مستمر"
   },
   {
-    "id": "ملحمة سليل الخوف",
-    "title": "ملحمة سليل الخوف",
-    "url": "https://kolnovel.com/series/%d9%85%d9%84%d8%ad%d9%85%d8%a9-%d8%b3%d9%84%d9%8a%d9%84-%d8%a7%d9%84%d8%ae%d9%88%d9%81",
-    "cover_url": "https://kolnovel.com/wp-content/uploads/2025/12/file_000000005ff481f483b5f5169a41cb01.webp",
-    "type": "رواية",
-    "is_novel": true,
-    "rating": "",
-    "total_chapters": 32,
-    "genres": [
-      "خيال علمي",
-      "رعب",
-      "سحر",
-      "غموض",
-      "مغامرة"
-    ],
-    "status": "مستمر"
-  },
-  {
-    "id": "اتضح أنني من عشيرة الأشرار!",
-    "title": "اتضح أنني من عشيرة الأشرار!",
-    "url": "https://kolnovel.com/series/%d8%a7%d8%aa%d8%b6%d8%ad-%d8%a3%d9%86%d9%86%d9%8a-%d9%85%d9%86-%d8%b9%d8%b4%d9%8a%d8%b1%d8%a9-%d8%a7%d9%84%d8%a3%d8%b4%d8%b1%d8%a7%d8%b1",
-    "cover_url": "https://kolnovel.com/wp-content/uploads/2026/05/GIF-260606_171205.gif",
-    "type": "رواية",
-    "is_novel": true,
-    "rating": "4.5",
-    "total_chapters": 343,
-    "genres": [
-      "إنتقام",
-      "بطل شرير",
-      "بناء مملكة",
-      "تدريب",
-      "حروب",
-      "دموي",
-      "مكر و خداع",
-      "نظام"
-    ],
-    "status": "مستمر"
-  },
-  {
-    "id": "ملك سمات الفنون القتالية",
-    "title": "ملك سمات الفنون القتالية",
-    "url": "https://kolnovel.com/series/%d9%85%d9%84%d9%83-%d8%b3%d9%85%d8%a7%d8%aa-%d8%a7%d9%84%d9%81%d9%86%d9%88%d9%86-%d8%a7%d9%84%d9%82%d8%aa%d8%a7%d9%84%d9%8a%d8%a9",
-    "cover_url": "https://kolnovel.com/wp-content/uploads/2026/01/GIF-260910_004008.gif",
-    "type": "رواية",
-    "is_novel": true,
-    "rating": "5.0",
-    "total_chapters": 1494,
-    "genres": [
-      "بطل وقح",
-      "خيال",
-      "شيانشيا",
-      "فنون قتال",
-      "مغامرة"
-    ],
-    "status": "مستمر"
-  },
-  {
     "id": "شيريتوري",
     "title": "شيريتوري",
     "url": "https://kolnovel.com/series/%d8%b4%d9%8a%d8%b1%d9%8a%d8%aa%d9%88%d8%b1%d9%8a",
@@ -1095,23 +1038,6 @@
       "غموض",
       "فانتازي",
       "كوميدي"
-    ],
-    "status": "مستمر"
-  },
-  {
-    "id": "غوامض النبلاء",
-    "title": "غوامض النبلاء",
-    "url": "https://kolnovel.com/series/%d8%ba%d9%88%d8%a7%d9%85%d8%b6-%d8%a7%d9%84%d9%86%d8%a8%d9%84%d8%a7%d8%a1",
-    "cover_url": "https://kolnovel.com/wp-content/uploads/2026/09/بدون-اسم151_20260929090619.png",
-    "type": "رواية",
-    "is_novel": true,
-    "rating": "",
-    "total_chapters": 20,
-    "genres": [
-      "أكشن",
-      "خيال",
-      "دراما",
-      "غموض"
     ],
     "status": "مستمر"
   },
@@ -1161,8 +1087,8 @@
     "cover_url": "https://kolnovel.com/wp-content/uploads/2026/10/file_00000000cf2882108d93c08f689ab874.png",
     "type": "رواية",
     "is_novel": true,
-    "rating": "7.5",
-    "total_chapters": 0,
+    "rating": "",
+    "total_chapters": 1,
     "genres": [
       "أكشن",
       "تطور شخصيات",
@@ -1216,27 +1142,6 @@
       "كوميدي",
       "ما بعد الكارثة",
       "مغامرة"
-    ],
-    "status": "مستمر"
-  },
-  {
-    "id": "ري: زيرو – بداية الحياة في عالم آخر",
-    "title": "ري: زيرو – بداية الحياة في عالم آخر",
-    "url": "https://kolnovel.com/series/%d8%b1%d9%8a-%d8%b2%d9%8a%d8%b1%d9%88-%d8%a8%d8%af%d8%a7%d9%8a%d8%a9-%d8%a7%d9%84%d8%ad%d9%8a%d8%a7%d8%a9-%d9%81%d9%8a-%d8%b9%d8%a7%d9%84%d9%85-%d8%a2%d8%ae%d8%b1",
-    "cover_url": "https://kolnovel.com/wp-content/uploads/2026/10/a826e405f732171c.webp",
-    "type": "رواية",
-    "is_novel": true,
-    "rating": "",
-    "total_chapters": 5,
-    "genres": [
-      "إثارة",
-      "إيسيكاي",
-      "خيال مظلم",
-      "دراما",
-      "رومانسية",
-      "غموض",
-      "مغامرة",
-      "نفسي"
     ],
     "status": "مستمر"
   },
@@ -1348,6 +1253,65 @@
     "status": "مستمر"
   },
   {
+    "id": "المُتَحَرِّر",
+    "title": "المُتَحَرِّر",
+    "url": "https://kolnovel.com/series/%d8%a7%d9%84%d9%85%d9%8f%d8%aa%d9%8e%d8%ad%d9%8e%d8%b1%d9%90%d9%91%d8%b1",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2026/09/cover.png",
+    "type": "رواية",
+    "is_novel": true,
+    "rating": "",
+    "total_chapters": 40,
+    "genres": [
+      "أكشن",
+      "خيال مظلم",
+      "غموض",
+      "فانتازيا"
+    ],
+    "status": "مستمر"
+  },
+  {
+    "id": "اتضح أنني من عشيرة الأشرار!",
+    "title": "اتضح أنني من عشيرة الأشرار!",
+    "url": "https://kolnovel.com/series/%d8%a7%d8%aa%d8%b6%d8%ad-%d8%a3%d9%86%d9%86%d9%8a-%d9%85%d9%86-%d8%b9%d8%b4%d9%8a%d8%b1%d8%a9-%d8%a7%d9%84%d8%a3%d8%b4%d8%b1%d8%a7%d8%b1",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2026/05/GIF-260606_171205.gif",
+    "type": "رواية",
+    "is_novel": true,
+    "rating": "4.5",
+    "total_chapters": 346,
+    "genres": [
+      "إنتقام",
+      "بطل شرير",
+      "بناء مملكة",
+      "تدريب",
+      "حروب",
+      "دموي",
+      "مكر و خداع",
+      "نظام"
+    ],
+    "status": "مستمر"
+  },
+  {
+    "id": "ري: زيرو – بداية الحياة في عالم آخر",
+    "title": "ري: زيرو – بداية الحياة في عالم آخر",
+    "url": "https://kolnovel.com/series/%d8%b1%d9%8a-%d8%b2%d9%8a%d8%b1%d9%88-%d8%a8%d8%af%d8%a7%d9%8a%d8%a9-%d8%a7%d9%84%d8%ad%d9%8a%d8%a7%d8%a9-%d9%81%d9%8a-%d8%b9%d8%a7%d9%84%d9%85-%d8%a2%d8%ae%d8%b1",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2026/10/a826e405f732171c.webp",
+    "type": "رواية",
+    "is_novel": true,
+    "rating": "",
+    "total_chapters": 6,
+    "genres": [
+      "إثارة",
+      "إيسيكاي",
+      "خيال مظلم",
+      "دراما",
+      "رومانسية",
+      "غموض",
+      "مغامرة",
+      "نفسي"
+    ],
+    "status": "مستمر"
+  },
+  {
     "id": "صعود شجرة الهاوية",
     "title": "صعود شجرة الهاوية",
     "url": "https://kolnovel.com/series/%d8%b5%d8%b9%d9%88%d8%af-%d8%b4%d8%ac%d8%b1%d8%a9-%d8%a7%d9%84%d9%87%d8%a7%d9%88%d9%8a%d8%a9",
@@ -1355,7 +1319,7 @@
     "type": "رواية",
     "is_novel": true,
     "rating": "",
-    "total_chapters": 21,
+    "total_chapters": 25,
     "genres": [
       "أعراق",
       "بطل مضاد",
@@ -1372,19 +1336,55 @@
     "status": "مستمر"
   },
   {
-    "id": "المُتَحَرِّر",
-    "title": "المُتَحَرِّر",
-    "url": "https://kolnovel.com/series/%d8%a7%d9%84%d9%85%d9%8f%d8%aa%d9%8e%d8%ad%d9%8e%d8%b1%d9%90%d9%91%d8%b1",
-    "cover_url": "https://kolnovel.com/wp-content/uploads/2026/09/cover.png",
+    "id": "ملك سمات الفنون القتالية",
+    "title": "ملك سمات الفنون القتالية",
+    "url": "https://kolnovel.com/series/%d9%85%d9%84%d9%83-%d8%b3%d9%85%d8%a7%d8%aa-%d8%a7%d9%84%d9%81%d9%86%d9%88%d9%86-%d8%a7%d9%84%d9%82%d8%aa%d8%a7%d9%84%d9%8a%d8%a9",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2026/01/GIF-260910_004008.gif",
+    "type": "رواية",
+    "is_novel": true,
+    "rating": "5.0",
+    "total_chapters": 1497,
+    "genres": [
+      "بطل وقح",
+      "خيال",
+      "شيانشيا",
+      "فنون قتال",
+      "مغامرة"
+    ],
+    "status": "مستمر"
+  },
+  {
+    "id": "ملحمة سليل الخوف",
+    "title": "ملحمة سليل الخوف",
+    "url": "https://kolnovel.com/series/%d9%85%d9%84%d8%ad%d9%85%d8%a9-%d8%b3%d9%84%d9%8a%d9%84-%d8%a7%d9%84%d8%ae%d9%88%d9%81",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2025/12/file_000000005ff481f483b5f5169a41cb01.webp",
     "type": "رواية",
     "is_novel": true,
     "rating": "",
-    "total_chapters": 40,
+    "total_chapters": 33,
+    "genres": [
+      "خيال علمي",
+      "رعب",
+      "سحر",
+      "غموض",
+      "مغامرة"
+    ],
+    "status": "مستمر"
+  },
+  {
+    "id": "غوامض النبلاء",
+    "title": "غوامض النبلاء",
+    "url": "https://kolnovel.com/series/%d8%ba%d9%88%d8%a7%d9%85%d8%b6-%d8%a7%d9%84%d9%86%d8%a8%d9%84%d8%a7%d8%a1",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2026/09/بدون-اسم151_20260929090619.png",
+    "type": "رواية",
+    "is_novel": true,
+    "rating": "",
+    "total_chapters": 22,
     "genres": [
       "أكشن",
-      "خيال مظلم",
-      "غموض",
-      "فانتازيا"
+      "خيال",
+      "دراما",
+      "غموض"
     ],
     "status": "مستمر"
   },
