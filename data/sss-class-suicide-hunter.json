@@ -6,16 +6,19 @@
   "type": "مانهوا",
   "status": "مستمر",
   "last_update": "2026-10-01",
-  "rating": "8.8",
+  "rating": "8.6",
   "genres": [
     "اسبوعي",
-    "أكشن",
     "إثارة",
+    "سحر",
     "إعادة إحياء",
-    "سحر"
+    "أكشن"
   ],
   "is_novel": false,
   "chapters": {
+    "https://azorafly.com/series/sss-class-suicide-hunter/chapter-155": {
+      "name": "155"
+    },
     "https://azorafly.com/series/sss-class-suicide-hunter/chapter-154": {
       "name": "154"
     },

@@ -165,7 +165,7 @@
     "url": "https://3asq.online/manga/gintama",
     "cover_url": "https://3asq.online/wp-content/uploads/2025/09/cover76-175x238.png",
     "type": "Kato",
-    "rating": "4.4",
+    "rating": "4.0",
     "genres": []
   },
   {
@@ -219,7 +219,7 @@
     "url": "https://3asq.online/manga/record-of-ragnarok",
     "cover_url": "https://3asq.online/wp-content/uploads/2025/12/1000078981-175x238.jpg",
     "type": "مانغا",
-    "rating": "3.3",
+    "rating": "3.2",
     "genres": []
   },
   {
@@ -1073,21 +1073,6 @@
     ]
   },
   {
-    "id": "lookism_fedaa-chan",
-    "title": "Lookism",
-    "url": "https://3asq.online/manga/lookism_fedaa-chan",
-    "cover_url": "https://3asq.online/wp-content/uploads/2026/03/large_Picsart_23-12-24_10-11-07-103-2-175x238.webp",
-    "type": "مانهوا",
-    "rating": "4.5",
-    "status": "مستمر",
-    "total_chapters": 32,
-    "genres": [
-      "أكشن",
-      "فنون قتالية",
-      "مدرسة"
-    ]
-  },
-  {
     "id": "blades-of-the-guardians",
     "title": "Blades of the Guardians",
     "url": "https://3asq.online/manga/blades-of-the-guardians",
@@ -1211,6 +1196,21 @@
       "قوى خارقة",
       "كوميديا",
       "مغامرة"
+    ]
+  },
+  {
+    "id": "lookism_fedaa-chan",
+    "title": "Lookism",
+    "url": "https://3asq.online/manga/lookism_fedaa-chan",
+    "cover_url": "https://3asq.online/wp-content/uploads/2026/03/large_Picsart_23-12-24_10-11-07-103-2-175x238.webp",
+    "type": "مانهوا",
+    "rating": "4.5",
+    "status": "مستمر",
+    "total_chapters": 33,
+    "genres": [
+      "أكشن",
+      "فنون قتالية",
+      "مدرسة"
     ]
   },
   {
