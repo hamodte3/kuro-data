@@ -6,14 +6,17 @@
   "type": "مانهوا",
   "status": "مستمر",
   "last_update": "2026-07-18",
-  "rating": "6.7",
+  "rating": "6.9",
   "genres": [
-    "رومانسي",
+    "فنتازيا",
     "دراما",
-    "فنتازيا"
+    "رومانسي"
   ],
   "is_novel": false,
   "chapters": {
+    "https://azorafly.com/series/the-despised-stepmother-begins-her-second-life/chapter-35": {
+      "name": "35"
+    },
     "https://azorafly.com/series/the-despised-stepmother-begins-her-second-life/chapter-34": {
       "name": "34"
     },

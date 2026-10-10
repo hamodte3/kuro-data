@@ -8,12 +8,15 @@
   "last_update": "2026-05-07",
   "rating": "9.8",
   "genres": [
-    "خيال",
+    "غموض",
     "رومانسي",
-    "غموض"
+    "خيال"
   ],
   "is_novel": false,
   "chapters": {
+    "https://azorafly.com/series/dear-anonymous-sponsor/chapter-71": {
+      "name": "71"
+    },
     "https://azorafly.com/series/dear-anonymous-sponsor/chapter-70": {
       "name": "70"
     },

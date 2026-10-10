@@ -1085,24 +1085,6 @@
     ]
   },
   {
-    "id": "haha-to-iu-jubaku-musume-to-iu-rougoku",
-    "title": "Haha to Iu Jubaku Musume to Iu Rougoku",
-    "url": "https://3asq.online/manga/haha-to-iu-jubaku-musume-to-iu-rougoku",
-    "cover_url": "https://3asq.online/wp-content/uploads/2026/09/Picsart_26-09-29_14-57-52-000-175x238.jpg",
-    "type": "مانغا",
-    "rating": "5.0",
-    "total_chapters": 3,
-    "genres": [
-      "جريمة",
-      "دراما",
-      "سينين",
-      "غموض",
-      "مأساة",
-      "نفسي"
-    ],
-    "status": "مكتمل"
-  },
-  {
     "id": "shangri-la-frontier",
     "title": "Shangri-La Frontier",
     "url": "https://3asq.online/manga/shangri-la-frontier",
@@ -1231,6 +1213,24 @@
     ],
     "status": "مستمر",
     "total_chapters": 2
+  },
+  {
+    "id": "haha-to-iu-jubaku-musume-to-iu-rougoku",
+    "title": "Haha to Iu Jubaku Musume to Iu Rougoku",
+    "url": "https://3asq.online/manga/haha-to-iu-jubaku-musume-to-iu-rougoku",
+    "cover_url": "https://3asq.online/wp-content/uploads/2026/09/Picsart_26-09-29_14-57-52-000-175x238.jpg",
+    "type": "مانغا",
+    "rating": "5.0",
+    "total_chapters": 6,
+    "genres": [
+      "جريمة",
+      "دراما",
+      "سينين",
+      "غموض",
+      "مأساة",
+      "نفسي"
+    ],
+    "status": "مكتمل"
   },
   {
     "id": "baki-dou-2018",

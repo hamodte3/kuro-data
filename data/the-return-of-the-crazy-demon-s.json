@@ -6,13 +6,16 @@
   "type": "مانهوا",
   "status": "مستمر",
   "last_update": "2026-05-07",
-  "rating": "9.1",
+  "rating": "9.2",
   "genres": [
     "اسبوعي",
     "أكشن"
   ],
   "is_novel": false,
   "chapters": {
+    "https://azorafly.com/series/the-return-of-the-crazy-demon-s/chapter-217": {
+      "name": "217"
+    },
     "https://azorafly.com/series/the-return-of-the-crazy-demon-s/chapter-216": {
       "name": "216"
     },
