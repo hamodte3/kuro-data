@@ -12,5 +12,21 @@
     "فانتازيا"
   ],
   "is_novel": false,
-  "chapters": {}
+  "chapters": {
+    "https://azorafly.com/series/i-became-the-caretaker-of-the-stepdaughter-who-will-become-a-villain/chapter-5": {
+      "name": "5"
+    },
+    "https://azorafly.com/series/i-became-the-caretaker-of-the-stepdaughter-who-will-become-a-villain/chapter-4": {
+      "name": "4"
+    },
+    "https://azorafly.com/series/i-became-the-caretaker-of-the-stepdaughter-who-will-become-a-villain/chapter-3": {
+      "name": "3"
+    },
+    "https://azorafly.com/series/i-became-the-caretaker-of-the-stepdaughter-who-will-become-a-villain/chapter-2": {
+      "name": "2"
+    },
+    "https://azorafly.com/series/i-became-the-caretaker-of-the-stepdaughter-who-will-become-a-villain/chapter-1": {
+      "name": "1"
+    }
+  }
 }

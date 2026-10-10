@@ -6,13 +6,16 @@
   "type": "مانهوا",
   "status": "مستمر",
   "last_update": "2026-09-25",
-  "rating": "8.9",
+  "rating": "9.1",
   "genres": [
     "رومانسى",
     "فانتازيا"
   ],
   "is_novel": false,
   "chapters": {
+    "https://azorafly.com/series/about-things-that-never-happened1/chapter-21": {
+      "name": "21"
+    },
     "https://azorafly.com/series/about-things-that-never-happened1/chapter-20": {
       "name": "20"
     },

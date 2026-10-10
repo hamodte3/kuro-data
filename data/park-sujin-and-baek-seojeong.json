@@ -9,12 +9,24 @@
   "rating": "7.0",
   "genres": [
     "اكشن",
-    "غموض",
     "نفسي",
+    "غموض",
     "دراما"
   ],
   "is_novel": false,
   "chapters": {
+    "https://azorafly.com/series/park-sujin-and-baek-seojeong/chapter-6": {
+      "name": "6"
+    },
+    "https://azorafly.com/series/park-sujin-and-baek-seojeong/chapter-5": {
+      "name": "5"
+    },
+    "https://azorafly.com/series/park-sujin-and-baek-seojeong/chapter-4": {
+      "name": "4"
+    },
+    "https://azorafly.com/series/park-sujin-and-baek-seojeong/chapter-3": {
+      "name": "3"
+    },
     "https://azorafly.com/series/park-sujin-and-baek-seojeong/chapter-2": {
       "name": "2"
     },
