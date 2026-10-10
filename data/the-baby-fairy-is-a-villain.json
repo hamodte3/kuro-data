@@ -9,12 +9,15 @@
   "rating": "9.6",
   "genres": [
     "عائلي",
-    "فانتازيا",
+    "سحر",
     "كوميدي",
-    "سحر"
+    "فانتازيا"
   ],
   "is_novel": false,
   "chapters": {
+    "https://azorafly.com/series/the-baby-fairy-is-a-villain/chapter-76": {
+      "name": "76"
+    },
     "https://azorafly.com/series/the-baby-fairy-is-a-villain/chapter-75": {
       "name": "75"
     },
