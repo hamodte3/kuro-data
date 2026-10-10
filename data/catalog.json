@@ -1,24 +1,5 @@
 [
   {
-    "id": "once-a-day-a-wish-comes-true",
-    "title": "Once a day, a wish comes true",
-    "url": "https://azorafly.com/series/once-a-day-a-wish-comes-true",
-    "cover_url": "https://storage.azorafly.com/upload/series/featured/a5vVlSc5huft2AzUyK1VxgKh1ckCWLbZ/b5dad099-8250-49f6-82da-059115abb7e7.jpg",
-    "type": "رواية",
-    "status": "مستمر",
-    "rating": "9.3",
-    "total_chapters": 72,
-    "genres": [
-      "هوس",
-      "عصري",
-      "مدرسي",
-      "بدون تجسيد",
-      "دراما",
-      "خيال",
-      "رومانسي"
-    ]
-  },
-  {
     "id": "marriage-defense-scandal",
     "title": "Marriage defense scandal",
     "url": "https://azorafly.com/series/marriage-defense-scandal",
@@ -2947,7 +2928,7 @@
     "cover_url": "https://storage.azorafly.com/upload/series/featured/02408b52-85d5-445d-9e5c-f7dbcd583bf8/be7e04ba-99ac-46c8-9093-6b3e6e5c588b.jpg",
     "type": "مانهوا",
     "status": "مستمر",
-    "rating": "9.2",
+    "rating": "9.3",
     "total_chapters": 30,
     "genres": [
       "رومانسى",
@@ -3218,6 +3199,40 @@
     ],
     "status": "مستمر",
     "rating": "10.0"
+  },
+  {
+    "id": "she-is-my-mother-in-law-but-i-dont-want-any-conflicts-between-us",
+    "title": "She Is My Mother In Law But I Don’t Want Any Conflicts Between Us",
+    "url": "https://azorafly.com/series/she-is-my-mother-in-law-but-i-dont-want-any-conflicts-between-us",
+    "cover_url": "https://storage.azorafly.com/upload/series/featured/02408b52-85d5-445d-9e5c-f7dbcd583bf8/eeffe2d6-a946-451a-8a80-d47ede7fa775.jpg",
+    "type": "مانهوا",
+    "status": "مستمر",
+    "rating": "9.7",
+    "total_chapters": 77,
+    "genres": [
+      "سحر",
+      "رومانسي",
+      "دراما"
+    ]
+  },
+  {
+    "id": "once-a-day-a-wish-comes-true",
+    "title": "Once a day, a wish comes true",
+    "url": "https://azorafly.com/series/once-a-day-a-wish-comes-true",
+    "cover_url": "https://storage.azorafly.com/upload/series/featured/a5vVlSc5huft2AzUyK1VxgKh1ckCWLbZ/b5dad099-8250-49f6-82da-059115abb7e7.jpg",
+    "type": "رواية",
+    "status": "مستمر",
+    "rating": "9.3",
+    "total_chapters": 72,
+    "genres": [
+      "هوس",
+      "عصري",
+      "مدرسي",
+      "بدون تجسيد",
+      "دراما",
+      "خيال",
+      "رومانسي"
+    ]
   },
   {
     "id": "infinite-mage",
@@ -34961,22 +34976,6 @@
       "إثارة",
       "دراما",
       "تجسيد"
-    ]
-  },
-  {
-    "id": "she-is-my-mother-in-law-but-i-dont-want-any-conflicts-between-us",
-    "title": "She Is My Mother In Law But I Don’t Want Any Conflicts Between Us",
-    "url": "https://azorafly.com/series/she-is-my-mother-in-law-but-i-dont-want-any-conflicts-between-us",
-    "cover_url": "https://storage.azorafly.com/upload/series/featured/02408b52-85d5-445d-9e5c-f7dbcd583bf8/eeffe2d6-a946-451a-8a80-d47ede7fa775.jpg",
-    "type": "مانهوا",
-    "status": "مستمر",
-    "rating": "9.5",
-    "total_chapters": 76,
-    "genres": [
-      "أكشن",
-      "سحر",
-      "دراما",
-      "رومانسي"
     ]
   },
   {

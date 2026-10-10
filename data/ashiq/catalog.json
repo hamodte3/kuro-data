@@ -1,14 +1,5 @@
 [
   {
-    "id": "baki-dou-2018",
-    "title": "Baki Dou (2018)",
-    "url": "https://3asq.online/manga/baki-dou-2018",
-    "cover_url": "https://3asq.online/wp-content/uploads/2025/07/Baki-Dou-Fan-Colored-175x238.jpg",
-    "type": "BAKI",
-    "rating": "4.7",
-    "genres": []
-  },
-  {
     "id": "naruto-digital-colored",
     "title": "Naruto – Digital Colored",
     "url": "https://3asq.online/manga/naruto-digital-colored",
@@ -1223,6 +1214,32 @@
     ],
     "status": "مستمر",
     "total_chapters": 3
+  },
+  {
+    "id": "anne-shirley",
+    "title": "Anne Shirley",
+    "url": "https://3asq.online/manga/anne-shirley",
+    "cover_url": "https://3asq.online/wp-content/uploads/2025/04/anne-arabic-cover-final-175x238.jpg",
+    "type": "مانغا",
+    "rating": "4.1",
+    "genres": [
+      "تاريخ",
+      "دراما",
+      "رومانسية",
+      "شوجو",
+      "كوميديا"
+    ],
+    "status": "مستمر",
+    "total_chapters": 2
+  },
+  {
+    "id": "baki-dou-2018",
+    "title": "Baki Dou (2018)",
+    "url": "https://3asq.online/manga/baki-dou-2018",
+    "cover_url": "https://3asq.online/wp-content/uploads/2025/07/Baki-Dou-Fan-Colored-175x238.jpg",
+    "type": "BAKI",
+    "rating": "4.7",
+    "genres": []
   },
   {
     "id": "ashita-no-joe",
@@ -3653,15 +3670,6 @@
     "cover_url": "https://3asq.online/wp-content/uploads/2019/05/ROT-175x238.jpg",
     "type": "Blue Hawk",
     "rating": "4.5",
-    "genres": []
-  },
-  {
-    "id": "anne-shirley",
-    "title": "Anne Shirley",
-    "url": "https://3asq.online/manga/anne-shirley",
-    "cover_url": "https://3asq.online/wp-content/uploads/2025/04/anne-arabic-cover-final-175x238.jpg",
-    "type": "NayefTranslations",
-    "rating": "4.1",
     "genres": []
   },
   {

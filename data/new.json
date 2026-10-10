@@ -1,5 +1,26 @@
 [
   {
+    "id": "تاج المصيرين",
+    "title": "تاج المصيرين",
+    "chapter": "الفصل 2",
+    "type": "رواية",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2026/10/file_00000000cf2882108d93c08f689ab874.png"
+  },
+  {
+    "id": "anne-shirley",
+    "title": "Anne Shirley",
+    "chapter": "الفصل 2",
+    "type": "مانغا",
+    "cover_url": "https://3asq.online/wp-content/uploads/2025/04/anne-arabic-cover-final-175x238.jpg"
+  },
+  {
+    "id": "she-is-my-mother-in-law-but-i-dont-want-any-conflicts-between-us",
+    "title": "She Is My Mother In Law But I Don’t Want Any Conflicts Between Us",
+    "chapter": "الفصل 77",
+    "type": "مانهوا",
+    "cover_url": "https://storage.azorafly.com/upload/series/featured/02408b52-85d5-445d-9e5c-f7dbcd583bf8/eeffe2d6-a946-451a-8a80-d47ede7fa775.jpg"
+  },
+  {
     "id": "المُتَحَرِّر",
     "title": "المُتَحَرِّر",
     "chapter": "الفصل 41",
@@ -82,26 +103,5 @@
     "chapter": "الفصل 31",
     "type": "مانهوا",
     "cover_url": "https://storage.azorafly.com/upload/series/featured/6cac1de1-87ae-4a81-9cd1-2abe99fd84d7/af1811c5-ff09-4852-94a2-5494b120a0e7.jpg"
-  },
-  {
-    "id": "got-dropped-into-a-horror-story-still-gotta-work",
-    "title": "Got Dropped into a Horror Story, Still Gotta Work",
-    "chapter": "الفصل 41",
-    "type": "مانهوا",
-    "cover_url": "https://storage.azorafly.com/upload/series/featured/02408b52-85d5-445d-9e5c-f7dbcd583bf8/1f4366f2-5be4-42fa-b794-ecba05839168.jpeg"
-  },
-  {
-    "id": "embarrassing-game",
-    "title": "Embarrassing game",
-    "chapter": "الفصل 42",
-    "type": "مانهوا",
-    "cover_url": "https://storage.azorafly.com/upload/series/featured/02408b52-85d5-445d-9e5c-f7dbcd583bf8/fb3c9afe-6674-4259-bd2d-970d402fd27e.jpg"
-  },
-  {
-    "id": "the-seventh-prince-wants-to-bail",
-    "title": "The Seventh Prince Wants to Bail",
-    "chapter": "الفصل 25",
-    "type": "مانهوا",
-    "cover_url": "https://storage.azorafly.com/upload/series/featured/6cac1de1-87ae-4a81-9cd1-2abe99fd84d7/320675bd-1988-459d-ac60-ce44c8a7f055.jpg"
   }
 ]
