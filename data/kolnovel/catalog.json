@@ -1197,24 +1197,6 @@
     "status": "مستمر"
   },
   {
-    "id": "امبراطور الخيمياء في العالم السماوي",
-    "title": "امبراطور الخيمياء في العالم السماوي",
-    "url": "https://kolnovel.com/series/elchamy-ambarar-af-tha-divina-dea",
-    "cover_url": "https://kolnovel.com/wp-content/uploads/2020/10/GIF-260509_034955.gif",
-    "type": "رواية",
-    "is_novel": true,
-    "rating": "",
-    "total_chapters": 3715,
-    "genres": [
-      "حريم",
-      "فنون القتال",
-      "كوميدي",
-      "ما بعد الكارثة",
-      "مغامرة"
-    ],
-    "status": "مستمر"
-  },
-  {
     "id": "كيف أعاد بطل واقعي بناء المملكة",
     "title": "كيف أعاد بطل واقعي بناء المملكة",
     "url": "https://kolnovel.com/series/%d9%83%d9%8a%d9%81-%d8%a3%d8%b9%d8%a7%d8%af-%d8%a8%d8%b7%d9%84-%d9%88%d8%a7%d9%82%d8%b9%d9%8a-%d8%a8%d9%86%d8%a7%d8%a1-%d8%a7%d9%84%d9%85%d9%85%d9%84%d9%83%d8%a9",
@@ -1322,26 +1304,20 @@
     "status": "مستمر"
   },
   {
-    "id": "صعود شجرة الهاوية",
-    "title": "صعود شجرة الهاوية",
-    "url": "https://kolnovel.com/series/%d8%b5%d8%b9%d9%88%d8%af-%d8%b4%d8%ac%d8%b1%d8%a9-%d8%a7%d9%84%d9%87%d8%a7%d9%88%d9%8a%d8%a9",
-    "cover_url": "https://kolnovel.com/wp-content/uploads/2026/10/Crimson_World_Tree_Showdown.png",
+    "id": "ملك سمات الفنون القتالية",
+    "title": "ملك سمات الفنون القتالية",
+    "url": "https://kolnovel.com/series/%d9%85%d9%84%d9%83-%d8%b3%d9%85%d8%a7%d8%aa-%d8%a7%d9%84%d9%81%d9%86%d9%88%d9%86-%d8%a7%d9%84%d9%82%d8%aa%d8%a7%d9%84%d9%8a%d8%a9",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2026/01/GIF-260910_004008.gif",
     "type": "رواية",
     "is_novel": true,
-    "rating": "",
-    "total_chapters": 45,
+    "rating": "5.0",
+    "total_chapters": 1503,
     "genres": [
-      "أعراق",
-      "بطل مضاد",
-      "بناء مملكة",
-      "حرب",
-      "حرب بين النجوم",
-      "زراعة",
-      "سلالة نادرة",
-      "غير بشري",
-      "فضاء",
-      "مأساة",
-      "نظام"
+      "بطل وقح",
+      "خيال",
+      "شيانشيا",
+      "فنون قتال",
+      "مغامرة"
     ],
     "status": "مستمر"
   },
@@ -1353,7 +1329,7 @@
     "type": "رواية",
     "is_novel": true,
     "rating": "",
-    "total_chapters": 7,
+    "total_chapters": 9,
     "genres": [
       "أكشن",
       "تطور شخصيات",
@@ -1371,20 +1347,44 @@
     "status": "مستمر"
   },
   {
-    "id": "ملك سمات الفنون القتالية",
-    "title": "ملك سمات الفنون القتالية",
-    "url": "https://kolnovel.com/series/%d9%85%d9%84%d9%83-%d8%b3%d9%85%d8%a7%d8%aa-%d8%a7%d9%84%d9%81%d9%86%d9%88%d9%86-%d8%a7%d9%84%d9%82%d8%aa%d8%a7%d9%84%d9%8a%d8%a9",
-    "cover_url": "https://kolnovel.com/wp-content/uploads/2026/01/GIF-260910_004008.gif",
+    "id": "امبراطور الخيمياء في العالم السماوي",
+    "title": "امبراطور الخيمياء في العالم السماوي",
+    "url": "https://kolnovel.com/series/elchamy-ambarar-af-tha-divina-dea",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2020/10/GIF-260509_034955.gif",
     "type": "رواية",
     "is_novel": true,
-    "rating": "5.0",
-    "total_chapters": 1503,
+    "rating": "",
+    "total_chapters": 3718,
     "genres": [
-      "بطل وقح",
-      "خيال",
-      "شيانشيا",
-      "فنون قتال",
+      "حريم",
+      "فنون القتال",
+      "كوميدي",
+      "ما بعد الكارثة",
       "مغامرة"
+    ],
+    "status": "مستمر"
+  },
+  {
+    "id": "صعود شجرة الهاوية",
+    "title": "صعود شجرة الهاوية",
+    "url": "https://kolnovel.com/series/%d8%b5%d8%b9%d9%88%d8%af-%d8%b4%d8%ac%d8%b1%d8%a9-%d8%a7%d9%84%d9%87%d8%a7%d9%88%d9%8a%d8%a9",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2026/10/Crimson_World_Tree_Showdown.png",
+    "type": "رواية",
+    "is_novel": true,
+    "rating": "",
+    "total_chapters": 50,
+    "genres": [
+      "أعراق",
+      "بطل مضاد",
+      "بناء مملكة",
+      "حرب",
+      "حرب بين النجوم",
+      "زراعة",
+      "سلالة نادرة",
+      "غير بشري",
+      "فضاء",
+      "مأساة",
+      "نظام"
     ],
     "status": "مستمر"
   },

@@ -8,12 +8,18 @@
   "last_update": "2026-05-07",
   "rating": "9.9",
   "genres": [
-    "خيال",
     "دراما",
-    "رومانسي"
+    "رومانسي",
+    "خيال"
   ],
   "is_novel": false,
   "chapters": {
+    "https://azorafly.com/series/the-male-leads-are-trapped-in-my-house/chapter-71": {
+      "name": "71"
+    },
+    "https://azorafly.com/series/the-male-leads-are-trapped-in-my-house/chapter-70": {
+      "name": "70"
+    },
     "https://azorafly.com/series/the-male-leads-are-trapped-in-my-house/chapter-69": {
       "name": "69"
     },

@@ -6,17 +6,20 @@
   "type": "مانهوا",
   "status": "مستمر",
   "last_update": "2026-07-12",
-  "rating": "9.8",
+  "rating": "9.9",
   "genres": [
-    "عودة بالزمن",
     "انتقام",
     "مغامرة",
     "أكشن",
     "خيال",
-    "فنون قتالية"
+    "فنون قتالية",
+    "عودة بالزمن"
   ],
   "is_novel": false,
   "chapters": {
+    "https://azorafly.com/series/revenge-of-the-iron-blooded-sword-hound/chapter-184": {
+      "name": "184"
+    },
     "https://azorafly.com/series/revenge-of-the-iron-blooded-sword-hound/chapter-183": {
       "name": "183"
     },

@@ -6,16 +6,22 @@
   "type": "مانهوا",
   "status": "مستمر",
   "last_update": "2026-05-07",
-  "rating": "9.9",
+  "rating": "9.8",
   "genres": [
-    "خيال",
-    "دراما",
-    "ايسيكاي",
     "سحر",
-    "رومانسي"
+    "ايسيكاي",
+    "دراما",
+    "رومانسي",
+    "خيال"
   ],
   "is_novel": false,
   "chapters": {
+    "https://azorafly.com/series/black-killer-whale-baby/chapter-125": {
+      "name": "125"
+    },
+    "https://azorafly.com/series/black-killer-whale-baby/chapter-124": {
+      "name": "124"
+    },
     "https://azorafly.com/series/black-killer-whale-baby/chapter-123": {
       "name": "123"
     },

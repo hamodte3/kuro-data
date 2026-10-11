@@ -8,12 +8,15 @@
   "last_update": "2026-05-29",
   "rating": "10.0",
   "genres": [
+    "كوميدي",
     "رومانسي",
-    "دراما",
-    "كوميدي"
+    "دراما"
   ],
   "is_novel": false,
   "chapters": {
+    "https://azorafly.com/series/pretty-trash/chapter-27": {
+      "name": "27"
+    },
     "https://azorafly.com/series/pretty-trash/chapter-26": {
       "name": "26"
     },
