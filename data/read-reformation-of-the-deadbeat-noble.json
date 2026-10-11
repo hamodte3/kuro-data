@@ -9,14 +9,17 @@
   "rating": "10.0",
   "genres": [
     "اسبوعي",
-    "تاريخي",
+    "سحر",
     "مغامرات",
+    "تاريخي",
     "أكشن",
-    "خيال",
-    "سحر"
+    "خيال"
   ],
   "is_novel": false,
   "chapters": {
+    "https://azorafly.com/series/read-reformation-of-the-deadbeat-noble/chapter-163": {
+      "name": "163"
+    },
     "https://azorafly.com/series/read-reformation-of-the-deadbeat-noble/chapter-162": {
       "name": "162"
     },
