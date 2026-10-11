@@ -1121,24 +1121,6 @@
     "status": "مستمر"
   },
   {
-    "id": "ملحمة سليل الخوف",
-    "title": "ملحمة سليل الخوف",
-    "url": "https://kolnovel.com/series/%d9%85%d9%84%d8%ad%d9%85%d8%a9-%d8%b3%d9%84%d9%8a%d9%84-%d8%a7%d9%84%d8%ae%d9%88%d9%81",
-    "cover_url": "https://kolnovel.com/wp-content/uploads/2025/12/file_000000005ff481f483b5f5169a41cb01.webp",
-    "type": "رواية",
-    "is_novel": true,
-    "rating": "",
-    "total_chapters": 34,
-    "genres": [
-      "خيال علمي",
-      "رعب",
-      "سحر",
-      "غموض",
-      "مغامرة"
-    ],
-    "status": "مستمر"
-  },
-  {
     "id": "المُتَحَرِّر",
     "title": "المُتَحَرِّر",
     "url": "https://kolnovel.com/series/%d8%a7%d9%84%d9%85%d9%8f%d8%aa%d9%8e%d8%ad%d9%8e%d8%b1%d9%90%d9%91%d8%b1",
@@ -1152,27 +1134,6 @@
       "خيال مظلم",
       "غموض",
       "فانتازيا"
-    ],
-    "status": "مستمر"
-  },
-  {
-    "id": "اتضح أنني من عشيرة الأشرار!",
-    "title": "اتضح أنني من عشيرة الأشرار!",
-    "url": "https://kolnovel.com/series/%d8%a7%d8%aa%d8%b6%d8%ad-%d8%a3%d9%86%d9%86%d9%8a-%d9%85%d9%86-%d8%b9%d8%b4%d9%8a%d8%b1%d8%a9-%d8%a7%d9%84%d8%a3%d8%b4%d8%b1%d8%a7%d8%b1",
-    "cover_url": "https://kolnovel.com/wp-content/uploads/2026/05/GIF-260606_171205.gif",
-    "type": "رواية",
-    "is_novel": true,
-    "rating": "4.5",
-    "total_chapters": 349,
-    "genres": [
-      "إنتقام",
-      "بطل شرير",
-      "بناء مملكة",
-      "تدريب",
-      "حروب",
-      "دموي",
-      "مكر و خداع",
-      "نظام"
     ],
     "status": "مستمر"
   },
@@ -1236,24 +1197,6 @@
     "status": "مستمر"
   },
   {
-    "id": "ملك سمات الفنون القتالية",
-    "title": "ملك سمات الفنون القتالية",
-    "url": "https://kolnovel.com/series/%d9%85%d9%84%d9%83-%d8%b3%d9%85%d8%a7%d8%aa-%d8%a7%d9%84%d9%81%d9%86%d9%88%d9%86-%d8%a7%d9%84%d9%82%d8%aa%d8%a7%d9%84%d9%8a%d8%a9",
-    "cover_url": "https://kolnovel.com/wp-content/uploads/2026/01/GIF-260910_004008.gif",
-    "type": "رواية",
-    "is_novel": true,
-    "rating": "5.0",
-    "total_chapters": 1500,
-    "genres": [
-      "بطل وقح",
-      "خيال",
-      "شيانشيا",
-      "فنون قتال",
-      "مغامرة"
-    ],
-    "status": "مستمر"
-  },
-  {
     "id": "امبراطور الخيمياء في العالم السماوي",
     "title": "امبراطور الخيمياء في العالم السماوي",
     "url": "https://kolnovel.com/series/elchamy-ambarar-af-tha-divina-dea",
@@ -1289,55 +1232,6 @@
       "سياسة",
       "عسكرية",
       "كوميديا",
-      "مغامرة"
-    ],
-    "status": "مستمر"
-  },
-  {
-    "id": "صعود شجرة الهاوية",
-    "title": "صعود شجرة الهاوية",
-    "url": "https://kolnovel.com/series/%d8%b5%d8%b9%d9%88%d8%af-%d8%b4%d8%ac%d8%b1%d8%a9-%d8%a7%d9%84%d9%87%d8%a7%d9%88%d9%8a%d8%a9",
-    "cover_url": "https://kolnovel.com/wp-content/uploads/2026/10/Crimson_World_Tree_Showdown.png",
-    "type": "رواية",
-    "is_novel": true,
-    "rating": "",
-    "total_chapters": 40,
-    "genres": [
-      "أعراق",
-      "بطل مضاد",
-      "بناء مملكة",
-      "حرب",
-      "حرب بين النجوم",
-      "زراعة",
-      "سلالة نادرة",
-      "غير بشري",
-      "فضاء",
-      "مأساة",
-      "نظام"
-    ],
-    "status": "مستمر"
-  },
-  {
-    "id": "تاج المصيرين",
-    "title": "تاج المصيرين",
-    "url": "https://kolnovel.com/series/%d8%aa%d8%a7%d8%ac-%d8%a7%d9%84%d9%85%d8%b5%d9%8a%d8%b1%d9%8a%d9%86",
-    "cover_url": "https://kolnovel.com/wp-content/uploads/2026/10/file_00000000cf2882108d93c08f689ab874.png",
-    "type": "رواية",
-    "is_novel": true,
-    "rating": "",
-    "total_chapters": 6,
-    "genres": [
-      "أكشن",
-      "تطور شخصيات",
-      "حروب",
-      "دراما",
-      "صراعات سياسية",
-      "عالم واسع",
-      "عشائر",
-      "غموض",
-      "فانتازيا",
-      "فنون قتالية",
-      "قوى خارقة",
       "مغامرة"
     ],
     "status": "مستمر"
@@ -1385,6 +1279,112 @@
       "كوميديا",
       "مغامرة",
       "ناضج"
+    ],
+    "status": "مستمر"
+  },
+  {
+    "id": "اتضح أنني من عشيرة الأشرار!",
+    "title": "اتضح أنني من عشيرة الأشرار!",
+    "url": "https://kolnovel.com/series/%d8%a7%d8%aa%d8%b6%d8%ad-%d8%a3%d9%86%d9%86%d9%8a-%d9%85%d9%86-%d8%b9%d8%b4%d9%8a%d8%b1%d8%a9-%d8%a7%d9%84%d8%a3%d8%b4%d8%b1%d8%a7%d8%b1",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2026/05/GIF-260606_171205.gif",
+    "type": "رواية",
+    "is_novel": true,
+    "rating": "4.5",
+    "total_chapters": 352,
+    "genres": [
+      "إنتقام",
+      "بطل شرير",
+      "بناء مملكة",
+      "تدريب",
+      "حروب",
+      "دموي",
+      "مكر و خداع",
+      "نظام"
+    ],
+    "status": "مستمر"
+  },
+  {
+    "id": "ملحمة سليل الخوف",
+    "title": "ملحمة سليل الخوف",
+    "url": "https://kolnovel.com/series/%d9%85%d9%84%d8%ad%d9%85%d8%a9-%d8%b3%d9%84%d9%8a%d9%84-%d8%a7%d9%84%d8%ae%d9%88%d9%81",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2025/12/file_000000005ff481f483b5f5169a41cb01.webp",
+    "type": "رواية",
+    "is_novel": true,
+    "rating": "",
+    "total_chapters": 35,
+    "genres": [
+      "خيال علمي",
+      "رعب",
+      "سحر",
+      "غموض",
+      "مغامرة"
+    ],
+    "status": "مستمر"
+  },
+  {
+    "id": "صعود شجرة الهاوية",
+    "title": "صعود شجرة الهاوية",
+    "url": "https://kolnovel.com/series/%d8%b5%d8%b9%d9%88%d8%af-%d8%b4%d8%ac%d8%b1%d8%a9-%d8%a7%d9%84%d9%87%d8%a7%d9%88%d9%8a%d8%a9",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2026/10/Crimson_World_Tree_Showdown.png",
+    "type": "رواية",
+    "is_novel": true,
+    "rating": "",
+    "total_chapters": 45,
+    "genres": [
+      "أعراق",
+      "بطل مضاد",
+      "بناء مملكة",
+      "حرب",
+      "حرب بين النجوم",
+      "زراعة",
+      "سلالة نادرة",
+      "غير بشري",
+      "فضاء",
+      "مأساة",
+      "نظام"
+    ],
+    "status": "مستمر"
+  },
+  {
+    "id": "تاج المصيرين",
+    "title": "تاج المصيرين",
+    "url": "https://kolnovel.com/series/%d8%aa%d8%a7%d8%ac-%d8%a7%d9%84%d9%85%d8%b5%d9%8a%d8%b1%d9%8a%d9%86",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2026/10/file_00000000cf2882108d93c08f689ab874.png",
+    "type": "رواية",
+    "is_novel": true,
+    "rating": "",
+    "total_chapters": 7,
+    "genres": [
+      "أكشن",
+      "تطور شخصيات",
+      "حروب",
+      "دراما",
+      "صراعات سياسية",
+      "عالم واسع",
+      "عشائر",
+      "غموض",
+      "فانتازيا",
+      "فنون قتالية",
+      "قوى خارقة",
+      "مغامرة"
+    ],
+    "status": "مستمر"
+  },
+  {
+    "id": "ملك سمات الفنون القتالية",
+    "title": "ملك سمات الفنون القتالية",
+    "url": "https://kolnovel.com/series/%d9%85%d9%84%d9%83-%d8%b3%d9%85%d8%a7%d8%aa-%d8%a7%d9%84%d9%81%d9%86%d9%88%d9%86-%d8%a7%d9%84%d9%82%d8%aa%d8%a7%d9%84%d9%8a%d8%a9",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2026/01/GIF-260910_004008.gif",
+    "type": "رواية",
+    "is_novel": true,
+    "rating": "5.0",
+    "total_chapters": 1503,
+    "genres": [
+      "بطل وقح",
+      "خيال",
+      "شيانشيا",
+      "فنون قتال",
+      "مغامرة"
     ],
     "status": "مستمر"
   },

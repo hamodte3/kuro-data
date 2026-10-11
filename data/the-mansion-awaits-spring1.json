@@ -6,14 +6,20 @@
   "type": "مانهوا",
   "status": "مستمر",
   "last_update": "2026-07-18",
-  "rating": "7.8",
+  "rating": "7.6",
   "genres": [
-    "شوجو",
     "انتقام",
+    "شوجو",
     "رومانسي"
   ],
   "is_novel": false,
   "chapters": {
+    "https://azorafly.com/series/the-mansion-awaits-spring1/chapter-37": {
+      "name": "37"
+    },
+    "https://azorafly.com/series/the-mansion-awaits-spring1/chapter-36": {
+      "name": "36"
+    },
     "https://azorafly.com/series/the-mansion-awaits-spring1/chapter-35": {
       "name": "35"
     },

@@ -9,13 +9,16 @@
   "rating": "10.0",
   "genres": [
     "عائلي",
-    "رومانسي",
-    "خيال",
     "كوميدي",
-    "دراما"
+    "دراما",
+    "رومانسي",
+    "خيال"
   ],
   "is_novel": false,
   "chapters": {
+    "https://azorafly.com/series/i-live-with-my-evil-uncle/chapter-61": {
+      "name": "61"
+    },
     "https://azorafly.com/series/i-live-with-my-evil-uncle/chapter-60": {
       "name": "60"
     },
