@@ -6,7 +6,7 @@
   "type": "مانهوا",
   "status": "مستمر",
   "last_update": "2026-08-18",
-  "rating": "9.6",
+  "rating": "9.5",
   "genres": [
     "اكشن",
     "لعبة",
@@ -15,6 +15,9 @@
   ],
   "is_novel": false,
   "chapters": {
+    "https://azorafly.com/series/never-mind-the-heir-i'll-focus-on-healing/chapter-38": {
+      "name": "38"
+    },
     "https://azorafly.com/series/never-mind-the-heir-i'll-focus-on-healing/chapter-37": {
       "name": "37"
     },

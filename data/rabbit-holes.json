@@ -10,6 +10,12 @@
   "genres": [],
   "is_novel": false,
   "chapters": {
+    "https://azorafly.com/series/rabbit-holes/chapter-3": {
+      "name": "3"
+    },
+    "https://azorafly.com/series/rabbit-holes/chapter-2": {
+      "name": "2"
+    },
     "https://azorafly.com/series/rabbit-holes/chapter-1": {
       "name": "1"
     }

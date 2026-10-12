@@ -9,11 +9,14 @@
   "rating": "10.0",
   "genres": [
     "رومانسى",
-    "كوميدي",
-    "سحر"
+    "سحر",
+    "كوميدي"
   ],
   "is_novel": false,
   "chapters": {
+    "https://azorafly.com/series/100-days-of-nahong/chapter-27": {
+      "name": "27"
+    },
     "https://azorafly.com/series/100-days-of-nahong/chapter-26": {
       "name": "26"
     },

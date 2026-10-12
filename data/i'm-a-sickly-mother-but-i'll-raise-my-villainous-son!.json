@@ -9,11 +9,14 @@
   "rating": "8.8",
   "genres": [
     "خيالي",
-    "دراما",
-    "رومانسي"
+    "رومانسي",
+    "دراما"
   ],
   "is_novel": false,
   "chapters": {
+    "https://azorafly.com/series/i'm-a-sickly-mother-but-i'll-raise-my-villainous-son!/chapter-45": {
+      "name": "45"
+    },
     "https://azorafly.com/series/i'm-a-sickly-mother-but-i'll-raise-my-villainous-son!/chapter-44": {
       "name": "44"
     },

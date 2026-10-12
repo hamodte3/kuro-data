@@ -8,12 +8,15 @@
   "last_update": "2026-09-01",
   "rating": "9.2",
   "genres": [
-    "فنتازيا",
     "مغامرات",
+    "فنتازيا",
     "أكشن"
   ],
   "is_novel": false,
   "chapters": {
+    "https://azorafly.com/series/the-lord-who-levels-up-by-devouring/chapter-26": {
+      "name": "26"
+    },
     "https://azorafly.com/series/the-lord-who-levels-up-by-devouring/chapter-25": {
       "name": "25"
     },

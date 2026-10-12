@@ -6,16 +6,19 @@
   "type": "مانهوا",
   "status": "مستمر",
   "last_update": "2026-09-12",
-  "rating": "9.0",
+  "rating": "8.9",
   "genres": [
-    "تجسد",
     "رومانسى",
+    "تجسد",
     "كوميدا",
     "خيالى",
     "دراما"
   ],
   "is_novel": false,
   "chapters": {
+    "https://azorafly.com/series/i-accidentally-brought-my-dead-husband-back-to-life/chapter-23": {
+      "name": "23"
+    },
     "https://azorafly.com/series/i-accidentally-brought-my-dead-husband-back-to-life/chapter-22": {
       "name": "22"
     },
