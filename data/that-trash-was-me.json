@@ -6,15 +6,18 @@
   "type": "مانهوا",
   "status": "مستمر",
   "last_update": "2026-10-02",
-  "rating": "9.2",
+  "rating": "9.1",
   "genres": [
-    "نظام",
     "كوميدي",
-    "خيال",
-    "رومانسي"
+    "رومانسي",
+    "نظام",
+    "خيال"
   ],
   "is_novel": false,
   "chapters": {
+    "https://azorafly.com/series/that-trash-was-me/chapter-44": {
+      "name": "44"
+    },
     "https://azorafly.com/series/that-trash-was-me/chapter-43": {
       "name": "43"
     },

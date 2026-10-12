@@ -9,13 +9,16 @@
   "rating": "10.0",
   "genres": [
     "خيالي",
-    "كوميدي",
+    "سحر",
     "مغامرات",
-    "رومانسي",
-    "سحر"
+    "كوميدي",
+    "رومانسي"
   ],
   "is_novel": false,
   "chapters": {
+    "https://azorafly.com/series/the-flower-with-a-sword/chapter-63": {
+      "name": "63"
+    },
     "https://azorafly.com/series/the-flower-with-a-sword/chapter-62": {
       "name": "62"
     },

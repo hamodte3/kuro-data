@@ -8,14 +8,17 @@
   "last_update": "2026-09-25",
   "rating": "9.4",
   "genres": [
-    "خيال",
+    "مغامرة",
+    "أكشن",
     "كوميدي",
     "تشويق",
-    "أكشن",
-    "مغامرة"
+    "خيال"
   ],
   "is_novel": false,
   "chapters": {
+    "https://azorafly.com/series/raising-villains-the-right-way/chapter-56": {
+      "name": "56"
+    },
     "https://azorafly.com/series/raising-villains-the-right-way/chapter-55": {
       "name": "55"
     },

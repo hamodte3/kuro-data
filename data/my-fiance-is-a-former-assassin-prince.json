@@ -6,16 +6,19 @@
   "type": "مانهوا",
   "status": "مستمر",
   "last_update": "2026-06-22",
-  "rating": "9.9",
+  "rating": "9.6",
   "genres": [
-    "فانتازيا",
     "انتقام",
+    "فانتازيا",
     "رومانسي",
     "تشويق",
     "دراما"
   ],
   "is_novel": false,
   "chapters": {
+    "https://azorafly.com/series/my-fiance-is-a-former-assassin-prince/chapter-41": {
+      "name": "41"
+    },
     "https://azorafly.com/series/my-fiance-is-a-former-assassin-prince/chapter-40": {
       "name": "40"
     },
