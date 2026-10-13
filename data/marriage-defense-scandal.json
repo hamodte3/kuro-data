@@ -6,13 +6,16 @@
   "type": "مانهوا",
   "status": "مستمر",
   "last_update": "2026-05-16",
-  "rating": "7.6",
+  "rating": "7.9",
   "genres": [
-    "شوجو",
-    "رومانسي"
+    "رومانسي",
+    "شوجو"
   ],
   "is_novel": false,
   "chapters": {
+    "https://azorafly.com/series/marriage-defense-scandal/chapter-32": {
+      "name": "32"
+    },
     "https://azorafly.com/series/marriage-defense-scandal/chapter-31": {
       "name": "31"
     },

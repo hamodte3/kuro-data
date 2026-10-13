@@ -8,12 +8,15 @@
   "last_update": "2026-05-07",
   "rating": "9.8",
   "genres": [
-    "دراما",
     "رومانسي",
+    "دراما",
     "فانتازيا"
   ],
   "is_novel": false,
   "chapters": {
+    "https://azorafly.com/series/the-prince-doesnt-cry-from-mere-onions/chapter-78": {
+      "name": "78"
+    },
     "https://azorafly.com/series/the-prince-doesnt-cry-from-mere-onions/chapter-77": {
       "name": "77"
     },

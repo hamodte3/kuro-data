@@ -6,15 +6,18 @@
   "type": "مانهوا",
   "status": "مستمر",
   "last_update": "2026-09-14",
-  "rating": "8.3",
+  "rating": "8.2",
   "genres": [
+    "رومانسي",
     "كوميدي",
     "دراما",
-    "رومانسي",
     "فانتازيا"
   ],
   "is_novel": false,
   "chapters": {
+    "https://azorafly.com/series/i-awakened-as-the-most-fearsome-stepmother!/chapter-36": {
+      "name": "36"
+    },
     "https://azorafly.com/series/i-awakened-as-the-most-fearsome-stepmother!/chapter-35": {
       "name": "35"
     },

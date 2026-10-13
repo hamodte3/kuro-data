@@ -9,12 +9,15 @@
   "rating": "9.9",
   "genres": [
     "إعادة إحياء",
+    "فانتازيا",
     "أكشن",
-    "فنون قتالية",
-    "فانتازيا"
+    "فنون قتالية"
   ],
   "is_novel": false,
   "chapters": {
+    "https://azorafly.com/series/a-dragonslayers-peerless-regression/chapter-106": {
+      "name": "106"
+    },
     "https://azorafly.com/series/a-dragonslayers-peerless-regression/chapter-105": {
       "name": "105"
     },
