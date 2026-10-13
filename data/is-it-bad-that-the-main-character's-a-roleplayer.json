@@ -9,11 +9,14 @@
   "rating": "10.0",
   "genres": [
     "اكشن",
-    "دراما",
-    "خيال"
+    "خيال",
+    "دراما"
   ],
   "is_novel": false,
   "chapters": {
+    "https://azorafly.com/series/is-it-bad-that-the-main-character's-a-roleplayer/chapter-35": {
+      "name": "35"
+    },
     "https://azorafly.com/series/is-it-bad-that-the-main-character's-a-roleplayer/chapter-34": {
       "name": "34"
     },

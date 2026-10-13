@@ -956,23 +956,6 @@
     ]
   },
   {
-    "id": "baki-rahen",
-    "title": "Baki Rahen",
-    "url": "https://3asq.online/manga/baki-rahen",
-    "cover_url": "https://3asq.online/wp-content/uploads/2025/07/Baki-Rahen-175x238.jpg",
-    "type": "مانغا",
-    "rating": "4.4",
-    "status": "مستمر",
-    "total_chapters": 70,
-    "genres": [
-      "أكشن",
-      "دراما",
-      "رياضة",
-      "شونين",
-      "فنون قتالية"
-    ]
-  },
-  {
     "id": "dear-anemone",
     "title": "Dear Anemone",
     "url": "https://3asq.online/manga/dear-anemone",
@@ -1230,6 +1213,23 @@
       "عنف",
       "غموض",
       "مأساة"
+    ]
+  },
+  {
+    "id": "baki-rahen",
+    "title": "Baki Rahen",
+    "url": "https://3asq.online/manga/baki-rahen",
+    "cover_url": "https://3asq.online/wp-content/uploads/2025/07/Baki-Rahen-175x238.jpg",
+    "type": "مانغا",
+    "rating": "4.4",
+    "status": "مستمر",
+    "total_chapters": 71,
+    "genres": [
+      "أكشن",
+      "دراما",
+      "رياضة",
+      "شونين",
+      "فنون قتالية"
     ]
   },
   {
