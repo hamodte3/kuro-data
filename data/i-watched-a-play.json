@@ -9,13 +9,16 @@
   "rating": "9.7",
   "genres": [
     "خيالي",
-    "كوميدي",
     "مغامرات",
-    "دراما",
-    "رومانسي"
+    "كوميدي",
+    "رومانسي",
+    "دراما"
   ],
   "is_novel": false,
   "chapters": {
+    "https://azorafly.com/series/i-watched-a-play/chapter-55": {
+      "name": "55"
+    },
     "https://azorafly.com/series/i-watched-a-play/chapter-54": {
       "name": "54"
     },

@@ -9,13 +9,16 @@
   "rating": "9.9",
   "genres": [
     "بطل مجنون",
-    "فنتازيا",
     "مغامرة",
+    "فنتازيا",
     "أكشن",
     "فنون قتالية"
   ],
   "is_novel": false,
   "chapters": {
+    "https://azorafly.com/series/myst-might-mayhem/chapter-120": {
+      "name": "120"
+    },
     "https://azorafly.com/series/myst-might-mayhem/chapter-119": {
       "name": "119"
     },

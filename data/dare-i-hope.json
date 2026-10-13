@@ -6,7 +6,7 @@
   "type": "مانهوا",
   "status": "مستمر",
   "last_update": "2026-06-25",
-  "rating": "9.9",
+  "rating": "9.8",
   "genres": [
     "تاريخي",
     "رومانسي",
@@ -14,6 +14,9 @@
   ],
   "is_novel": false,
   "chapters": {
+    "https://azorafly.com/series/dare-i-hope/chapter-55": {
+      "name": "55"
+    },
     "https://azorafly.com/series/dare-i-hope/chapter-54": {
       "name": "54"
     },
