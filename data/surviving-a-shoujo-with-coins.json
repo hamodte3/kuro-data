@@ -11,11 +11,14 @@
     "شوجو",
     "فنتازيا",
     "تاريخي",
-    "رومانسي",
-    "دراما"
+    "دراما",
+    "رومانسي"
   ],
   "is_novel": false,
   "chapters": {
+    "https://azorafly.com/series/surviving-a-shoujo-with-coins/chapter-137": {
+      "name": "137"
+    },
     "https://azorafly.com/series/surviving-a-shoujo-with-coins/chapter-136": {
       "name": "136"
     },

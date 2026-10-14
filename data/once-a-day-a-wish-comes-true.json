@@ -10,14 +10,23 @@
   "genres": [
     "هوس",
     "عصري",
-    "مدرسي",
     "بدون تجسيد",
+    "مدرسي",
+    "رومانسي",
     "خيال",
-    "دراما",
-    "رومانسي"
+    "دراما"
   ],
   "is_novel": false,
   "chapters": {
+    "https://azorafly.com/series/once-a-day-a-wish-comes-true/chapter-78": {
+      "name": "78"
+    },
+    "https://azorafly.com/series/once-a-day-a-wish-comes-true/chapter-77": {
+      "name": "77"
+    },
+    "https://azorafly.com/series/once-a-day-a-wish-comes-true/chapter-76": {
+      "name": "76"
+    },
     "https://azorafly.com/series/once-a-day-a-wish-comes-true/chapter-75": {
       "name": "75"
     },

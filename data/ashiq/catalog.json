@@ -1024,23 +1024,6 @@
     ]
   },
   {
-    "id": "kengan-omega",
-    "title": "Kengan Omega",
-    "url": "https://3asq.online/manga/kengan-omega",
-    "cover_url": "https://3asq.online/wp-content/uploads/2025/07/بدون-اسم203-175x238.png",
-    "type": "مانغا",
-    "rating": "4.3",
-    "status": "مستمر",
-    "total_chapters": 378,
-    "genres": [
-      "أكشن",
-      "دراما",
-      "رياضة",
-      "شونين",
-      "فنون قتالية"
-    ]
-  },
-  {
     "id": "one-piece",
     "title": "One Piece",
     "url": "https://3asq.online/manga/one-piece",
@@ -1232,6 +1215,23 @@
       "شونين"
     ],
     "status": "مستمر"
+  },
+  {
+    "id": "kengan-omega",
+    "title": "Kengan Omega",
+    "url": "https://3asq.online/manga/kengan-omega",
+    "cover_url": "https://3asq.online/wp-content/uploads/2025/07/بدون-اسم203-175x238.png",
+    "type": "مانغا",
+    "rating": "4.3",
+    "status": "مستمر",
+    "total_chapters": 379,
+    "genres": [
+      "أكشن",
+      "دراما",
+      "رياضة",
+      "شونين",
+      "فنون قتالية"
+    ]
   },
   {
     "id": "naruto-digital-colored",

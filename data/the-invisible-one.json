@@ -8,12 +8,18 @@
   "last_update": "2026-09-29",
   "rating": "10.0",
   "genres": [
-    "رومانسي",
     "دراما",
+    "رومانسي",
     "فانتازيا"
   ],
   "is_novel": false,
   "chapters": {
+    "https://azorafly.com/series/the-invisible-one/chapter-47": {
+      "name": "47"
+    },
+    "https://azorafly.com/series/the-invisible-one/chapter-46": {
+      "name": "46"
+    },
     "https://azorafly.com/series/the-invisible-one/chapter-45": {
       "name": "45"
     },
