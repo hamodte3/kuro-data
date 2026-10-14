@@ -6,17 +6,29 @@
   "type": "رواية",
   "status": "مستمر",
   "last_update": "2026-10-08",
-  "rating": "10.0",
+  "rating": "7.0",
   "genres": [
     "هوس",
     "من أعداء لأحباء",
     "تجسيد",
-    "رومانسي",
     "كوميدي",
+    "رومانسي",
     "علاقة تعاقدية"
   ],
   "is_novel": false,
   "chapters": {
+    "https://azorafly.com/series/my-husband-needs-to-die-soon/chapter-24": {
+      "name": "24"
+    },
+    "https://azorafly.com/series/my-husband-needs-to-die-soon/chapter-23": {
+      "name": "23"
+    },
+    "https://azorafly.com/series/my-husband-needs-to-die-soon/chapter-22": {
+      "name": "22"
+    },
+    "https://azorafly.com/series/my-husband-needs-to-die-soon/chapter-21": {
+      "name": "21"
+    },
     "https://azorafly.com/series/my-husband-needs-to-die-soon/chapter-20": {
       "name": "20"
     },

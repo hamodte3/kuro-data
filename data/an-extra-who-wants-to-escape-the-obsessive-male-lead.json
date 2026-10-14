@@ -9,14 +9,17 @@
   "rating": "6.2",
   "genres": [
     "سحر",
-    "كوميدي",
     "تاريخي",
+    "كوميدي",
     "خيال",
-    "رومانسي",
-    "دراما"
+    "دراما",
+    "رومانسي"
   ],
   "is_novel": false,
   "chapters": {
+    "https://azorafly.com/series/an-extra-who-wants-to-escape-the-obsessive-male-lead/chapter-49": {
+      "name": "49"
+    },
     "https://azorafly.com/series/an-extra-who-wants-to-escape-the-obsessive-male-lead/chapter-48": {
       "name": "48"
     },

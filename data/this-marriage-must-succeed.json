@@ -10,12 +10,15 @@
   "genres": [
     "انتقام",
     "تاريخي",
-    "رومانسي",
     "دراما",
+    "رومانسي",
     "فانتازيا"
   ],
   "is_novel": false,
   "chapters": {
+    "https://azorafly.com/series/this-marriage-must-succeed/chapter-74": {
+      "name": "74"
+    },
     "https://azorafly.com/series/this-marriage-must-succeed/chapter-73": {
       "name": "73"
     },
