@@ -1,38 +1,5 @@
 [
   {
-    "id": "the-school's-top-student-hides-her-regression",
-    "title": "​The School's Top Student Hides her Regression/",
-    "url": "https://azorafly.com/series/the-school's-top-student-hides-her-regression",
-    "cover_url": "https://storage.azorafly.com/upload/series/featured/oGmL0DQZ16QInTPaeDKwFEK9ryegoy88/b527171b-dc73-4ef7-b887-88c576c718c9.webp",
-    "type": "مانهوا",
-    "status": "مستمر",
-    "rating": "9.8",
-    "total_chapters": 24,
-    "genres": [
-      "رومانسى",
-      "عصرى",
-      "فانتازيا",
-      "كوميدي",
-      "عودة بالزمن"
-    ]
-  },
-  {
-    "id": "the-counts-secret-maid",
-    "title": "The Count's Secret Maid",
-    "url": "https://azorafly.com/series/the-counts-secret-maid",
-    "cover_url": "https://storage.azorafly.com/upload/series/featured/a5vVlSc5huft2AzUyK1VxgKh1ckCWLbZ/80cad67b-9a0e-413a-8217-d3caa458c81a.jpg",
-    "type": "مانهوا",
-    "status": "مستمر",
-    "rating": "9.4",
-    "total_chapters": 110,
-    "genres": [
-      "غموض",
-      "دراما",
-      "رومانسي",
-      "خيال"
-    ]
-  },
-  {
     "id": "cry-or-better-yet-beg",
     "title": "Cry or Better Yet Beg",
     "url": "https://azorafly.com/series/cry-or-better-yet-beg",
@@ -3061,21 +3028,6 @@
     ]
   },
   {
-    "id": "thats-how-i-became-a-villainess",
-    "title": "That’s How I Became a Villainess",
-    "url": "https://azorafly.com/series/thats-how-i-became-a-villainess",
-    "cover_url": "https://storage.azorafly.com/upload/series/featured/6cac1de1-87ae-4a81-9cd1-2abe99fd84d7/1daaa8f5-066e-4458-8db2-3ba88e0518f1.png",
-    "type": "مانهوا",
-    "total_chapters": 14,
-    "genres": [
-      "شوجو",
-      "فنتازيا",
-      "دراما"
-    ],
-    "status": "مستمر",
-    "rating": "10.0"
-  },
-  {
     "id": "the-regressor-and-the-blind-saintess",
     "title": "The Regressor and the Blind Saintess",
     "url": "https://azorafly.com/series/the-regressor-and-the-blind-saintess",
@@ -3194,6 +3146,86 @@
     "genres": [
       "إثارة",
       "رعب"
+    ]
+  },
+  {
+    "id": "dearest-fiance-i-know-you-despise-me",
+    "title": "Dearest fiance i know you despise me",
+    "url": "https://azorafly.com/series/dearest-fiance-i-know-you-despise-me",
+    "cover_url": "https://storage.azorafly.com/upload/series/featured/02408b52-85d5-445d-9e5c-f7dbcd583bf8/d98db37f-aacb-4e94-be04-c142553802f2.jpg",
+    "type": "مانهوا",
+    "status": "مستمر",
+    "rating": "9.5",
+    "total_chapters": 70,
+    "genres": [
+      "تاريخي",
+      "رومانسي"
+    ]
+  },
+  {
+    "id": "thats-how-i-became-a-villainess",
+    "title": "That’s How I Became a Villainess",
+    "url": "https://azorafly.com/series/thats-how-i-became-a-villainess",
+    "cover_url": "https://storage.azorafly.com/upload/series/featured/6cac1de1-87ae-4a81-9cd1-2abe99fd84d7/1daaa8f5-066e-4458-8db2-3ba88e0518f1.png",
+    "type": "مانهوا",
+    "total_chapters": 20,
+    "genres": [
+      "شوجو",
+      "فنتازيا",
+      "دراما"
+    ],
+    "status": "مستمر",
+    "rating": "10.0"
+  },
+  {
+    "id": "how-to-survive-the-horror-novel-i-wrot1e",
+    "title": "How to Survive the Horror Novel I Wrote",
+    "url": "https://azorafly.com/series/how-to-survive-the-horror-novel-i-wrot1e",
+    "cover_url": "https://storage.azorafly.com/upload/series/featured/a5vVlSc5huft2AzUyK1VxgKh1ckCWLbZ/10ec3073-32db-46c5-a205-ebc554b65359.jpg",
+    "type": "رواية",
+    "status": "مستمر",
+    "rating": "8.5",
+    "total_chapters": 30,
+    "genres": [
+      "عصري",
+      "بدون تجسيد",
+      "رومانسي",
+      "دراما",
+      "كوميدي",
+      "رعب"
+    ]
+  },
+  {
+    "id": "the-school's-top-student-hides-her-regression",
+    "title": "​The School's Top Student Hides her Regression/",
+    "url": "https://azorafly.com/series/the-school's-top-student-hides-her-regression",
+    "cover_url": "https://storage.azorafly.com/upload/series/featured/oGmL0DQZ16QInTPaeDKwFEK9ryegoy88/b527171b-dc73-4ef7-b887-88c576c718c9.webp",
+    "type": "مانهوا",
+    "status": "مستمر",
+    "rating": "9.8",
+    "total_chapters": 24,
+    "genres": [
+      "رومانسى",
+      "عصرى",
+      "فانتازيا",
+      "كوميدي",
+      "عودة بالزمن"
+    ]
+  },
+  {
+    "id": "the-counts-secret-maid",
+    "title": "The Count's Secret Maid",
+    "url": "https://azorafly.com/series/the-counts-secret-maid",
+    "cover_url": "https://storage.azorafly.com/upload/series/featured/a5vVlSc5huft2AzUyK1VxgKh1ckCWLbZ/80cad67b-9a0e-413a-8217-d3caa458c81a.jpg",
+    "type": "مانهوا",
+    "status": "مستمر",
+    "rating": "9.4",
+    "total_chapters": 110,
+    "genres": [
+      "غموض",
+      "دراما",
+      "رومانسي",
+      "خيال"
     ]
   },
   {
@@ -4023,20 +4055,6 @@
     "genres": [
       "رومانسي",
       "دراما"
-    ]
-  },
-  {
-    "id": "dearest-fiance-i-know-you-despise-me",
-    "title": "Dearest fiance i know you despise me",
-    "url": "https://azorafly.com/series/dearest-fiance-i-know-you-despise-me",
-    "cover_url": "https://storage.azorafly.com/upload/series/featured/02408b52-85d5-445d-9e5c-f7dbcd583bf8/d98db37f-aacb-4e94-be04-c142553802f2.jpg",
-    "type": "مانهوا",
-    "status": "مستمر",
-    "rating": "9.5",
-    "total_chapters": 69,
-    "genres": [
-      "تاريخي",
-      "رومانسي"
     ]
   },
   {
@@ -6887,24 +6905,6 @@
       "رعب",
       "دراما",
       "نفسي"
-    ]
-  },
-  {
-    "id": "how-to-survive-the-horror-novel-i-wrot1e",
-    "title": "How to Survive the Horror Novel I Wrote",
-    "url": "https://azorafly.com/series/how-to-survive-the-horror-novel-i-wrot1e",
-    "cover_url": "https://storage.azorafly.com/upload/series/featured/a5vVlSc5huft2AzUyK1VxgKh1ckCWLbZ/10ec3073-32db-46c5-a205-ebc554b65359.jpg",
-    "type": "رواية",
-    "status": "مستمر",
-    "rating": "7.5",
-    "total_chapters": 20,
-    "genres": [
-      "عصري",
-      "كوميدي",
-      "بدون تجسيد",
-      "رومانسي",
-      "رعب",
-      "دراما"
     ]
   },
   {

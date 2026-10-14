@@ -6,17 +6,47 @@
   "type": "رواية",
   "status": "مستمر",
   "last_update": "2026-09-26",
-  "rating": "7.5",
+  "rating": "8.5",
   "genres": [
     "عصري",
-    "كوميدي",
     "بدون تجسيد",
     "رومانسي",
-    "رعب",
-    "دراما"
+    "دراما",
+    "كوميدي",
+    "رعب"
   ],
   "is_novel": false,
   "chapters": {
+    "https://azorafly.com/series/how-to-survive-the-horror-novel-i-wrot1e/chapter-30": {
+      "name": "30"
+    },
+    "https://azorafly.com/series/how-to-survive-the-horror-novel-i-wrot1e/chapter-29": {
+      "name": "29"
+    },
+    "https://azorafly.com/series/how-to-survive-the-horror-novel-i-wrot1e/chapter-28": {
+      "name": "28"
+    },
+    "https://azorafly.com/series/how-to-survive-the-horror-novel-i-wrot1e/chapter-27": {
+      "name": "27"
+    },
+    "https://azorafly.com/series/how-to-survive-the-horror-novel-i-wrot1e/chapter-26": {
+      "name": "26"
+    },
+    "https://azorafly.com/series/how-to-survive-the-horror-novel-i-wrot1e/chapter-25": {
+      "name": "25"
+    },
+    "https://azorafly.com/series/how-to-survive-the-horror-novel-i-wrot1e/chapter-24": {
+      "name": "24"
+    },
+    "https://azorafly.com/series/how-to-survive-the-horror-novel-i-wrot1e/chapter-23": {
+      "name": "23"
+    },
+    "https://azorafly.com/series/how-to-survive-the-horror-novel-i-wrot1e/chapter-22": {
+      "name": "22"
+    },
+    "https://azorafly.com/series/how-to-survive-the-horror-novel-i-wrot1e/chapter-21": {
+      "name": "21"
+    },
     "https://azorafly.com/series/how-to-survive-the-horror-novel-i-wrot1e/chapter-20": {
       "name": "20"
     },
