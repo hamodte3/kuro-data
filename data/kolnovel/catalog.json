@@ -660,17 +660,6 @@
     "genres": []
   },
   {
-    "id": "داو الخالد العجيب",
-    "title": "داو الخالد العجيب",
-    "url": "https://kolnovel.com/series/%d8%af%d8%a7%d9%88-%d8%a7%d9%84%d8%ae%d8%a7%d9%84%d8%af-%d8%a7%d9%84%d8%b9%d8%ac%d9%8a%d8%a8",
-    "cover_url": "https://kolnovel.com/wp-content/uploads/2025/11/Picsart_25-11-27_16-28-47-925.jpg",
-    "type": "رواية",
-    "is_novel": true,
-    "rating": "8.0",
-    "total_chapters": 0,
-    "genres": []
-  },
-  {
     "id": "الحظ يفضل السقوط",
     "title": "الحظ يفضل السقوط",
     "url": "https://kolnovel.com/series/%d8%a7%d9%84%d8%ad%d8%b8-%d9%8a%d9%81%d8%b6%d9%84-%d8%a7%d9%84%d8%b3%d9%82%d9%88%d8%b7",
@@ -900,25 +889,6 @@
     "status": "مستمر"
   },
   {
-    "id": "ملك قد لا يعود",
-    "title": "ملك قد لا يعود",
-    "url": "https://kolnovel.com/series/%d9%85%d9%84%d9%83-%d9%82%d8%af-%d9%84%d8%a7-%d9%8a%d8%b9%d9%88%d8%af",
-    "cover_url": "https://kolnovel.com/wp-content/uploads/2026/06/AKMNR_2MG-1.png",
-    "type": "رواية",
-    "is_novel": true,
-    "rating": "8.0",
-    "total_chapters": 37,
-    "genres": [
-      "أكشن",
-      "خيال",
-      "خيال مظلم",
-      "دراما",
-      "سحر",
-      "مغامرة"
-    ],
-    "status": "مستمر"
-  },
-  {
     "id": "مهلة العشر أيام",
     "title": "مهلة العشر أيام",
     "url": "https://kolnovel.com/series/%d9%85%d9%87%d9%84%d8%a9-%d8%a7%d9%84%d8%b9%d8%b4%d8%b1-%d8%a3%d9%8a%d8%a7%d9%85",
@@ -1002,7 +972,7 @@
     "cover_url": "https://kolnovel.com/wp-content/uploads/2025/01/ساني-1.jpg",
     "type": "رواية",
     "is_novel": true,
-    "rating": "4.8",
+    "rating": "8.0",
     "total_chapters": 712,
     "genres": [
       "أكشن",
@@ -1022,7 +992,7 @@
     "cover_url": "https://kolnovel.com/wp-content/uploads/2026/09/cover.png",
     "type": "رواية",
     "is_novel": true,
-    "rating": "",
+    "rating": "7.5",
     "total_chapters": 42,
     "genres": [
       "أكشن",
@@ -1110,45 +1080,6 @@
       "نفسي"
     ],
     "status": "مكتمل"
-  },
-  {
-    "id": "ملحمة سليل الخوف",
-    "title": "ملحمة سليل الخوف",
-    "url": "https://kolnovel.com/series/%d9%85%d9%84%d8%ad%d9%85%d8%a9-%d8%b3%d9%84%d9%8a%d9%84-%d8%a7%d9%84%d8%ae%d9%88%d9%81",
-    "cover_url": "https://kolnovel.com/wp-content/uploads/2025/12/file_000000005ff481f483b5f5169a41cb01.webp",
-    "type": "رواية",
-    "is_novel": true,
-    "rating": "",
-    "total_chapters": 37,
-    "genres": [
-      "خيال علمي",
-      "رعب",
-      "سحر",
-      "غموض",
-      "مغامرة"
-    ],
-    "status": "مستمر"
-  },
-  {
-    "id": "اتضح أنني من عشيرة الأشرار!",
-    "title": "اتضح أنني من عشيرة الأشرار!",
-    "url": "https://kolnovel.com/series/%d8%a7%d8%aa%d8%b6%d8%ad-%d8%a3%d9%86%d9%86%d9%8a-%d9%85%d9%86-%d8%b9%d8%b4%d9%8a%d8%b1%d8%a9-%d8%a7%d9%84%d8%a3%d8%b4%d8%b1%d8%a7%d8%b1",
-    "cover_url": "https://kolnovel.com/wp-content/uploads/2026/05/GIF-260606_171205.gif",
-    "type": "رواية",
-    "is_novel": true,
-    "rating": "4.5",
-    "total_chapters": 358,
-    "genres": [
-      "إنتقام",
-      "بطل شرير",
-      "بناء مملكة",
-      "تدريب",
-      "حروب",
-      "دموي",
-      "مكر و خداع",
-      "نظام"
-    ],
-    "status": "مستمر"
   },
   {
     "id": "بوابة الخلود",
@@ -1383,7 +1314,7 @@
     "type": "رواية",
     "is_novel": true,
     "rating": "",
-    "total_chapters": 257,
+    "total_chapters": 258,
     "genres": [
       "أكشن",
       "حريم",
@@ -1394,6 +1325,82 @@
       "كوميديا",
       "مغامرة",
       "ناضج"
+    ],
+    "status": "مستمر"
+  },
+  {
+    "id": "داو الخالد العجيب",
+    "title": "داو الخالد العجيب",
+    "url": "https://kolnovel.com/series/%d8%af%d8%a7%d9%88-%d8%a7%d9%84%d8%ae%d8%a7%d9%84%d8%af-%d8%a7%d9%84%d8%b9%d8%ac%d9%8a%d8%a8",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2025/11/Picsart_25-11-27_16-28-47-925.jpg",
+    "type": "رواية",
+    "is_novel": true,
+    "rating": "",
+    "total_chapters": 175,
+    "genres": [
+      "خارق للطبيعة",
+      "خيال علمي",
+      "رعب",
+      "شوانهوان",
+      "غموض"
+    ],
+    "status": "مستمر"
+  },
+  {
+    "id": "ملك قد لا يعود",
+    "title": "ملك قد لا يعود",
+    "url": "https://kolnovel.com/series/%d9%85%d9%84%d9%83-%d9%82%d8%af-%d9%84%d8%a7-%d9%8a%d8%b9%d9%88%d8%af",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2026/06/AKMNR_2MG-1.png",
+    "type": "رواية",
+    "is_novel": true,
+    "rating": "",
+    "total_chapters": 38,
+    "genres": [
+      "أكشن",
+      "خيال",
+      "خيال مظلم",
+      "دراما",
+      "سحر",
+      "مغامرة"
+    ],
+    "status": "مستمر"
+  },
+  {
+    "id": "اتضح أنني من عشيرة الأشرار!",
+    "title": "اتضح أنني من عشيرة الأشرار!",
+    "url": "https://kolnovel.com/series/%d8%a7%d8%aa%d8%b6%d8%ad-%d8%a3%d9%86%d9%86%d9%8a-%d9%85%d9%86-%d8%b9%d8%b4%d9%8a%d8%b1%d8%a9-%d8%a7%d9%84%d8%a3%d8%b4%d8%b1%d8%a7%d8%b1",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2026/05/GIF-260606_171205.gif",
+    "type": "رواية",
+    "is_novel": true,
+    "rating": "4.5",
+    "total_chapters": 361,
+    "genres": [
+      "إنتقام",
+      "بطل شرير",
+      "بناء مملكة",
+      "تدريب",
+      "حروب",
+      "دموي",
+      "مكر و خداع",
+      "نظام"
+    ],
+    "status": "مستمر"
+  },
+  {
+    "id": "ملحمة سليل الخوف",
+    "title": "ملحمة سليل الخوف",
+    "url": "https://kolnovel.com/series/%d9%85%d9%84%d8%ad%d9%85%d8%a9-%d8%b3%d9%84%d9%8a%d9%84-%d8%a7%d9%84%d8%ae%d9%88%d9%81",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2025/12/file_000000005ff481f483b5f5169a41cb01.webp",
+    "type": "رواية",
+    "is_novel": true,
+    "rating": "",
+    "total_chapters": 38,
+    "genres": [
+      "خيال علمي",
+      "رعب",
+      "سحر",
+      "غموض",
+      "مغامرة"
     ],
     "status": "مستمر"
   },

@@ -9,11 +9,14 @@
   "rating": "8.9",
   "genres": [
     "رومانسي",
-    "فانتازيا",
-    "دراما"
+    "دراما",
+    "فانتازيا"
   ],
   "is_novel": false,
   "chapters": {
+    "https://azorafly.com/series/lingering-pain/chapter-30": {
+      "name": "30"
+    },
     "https://azorafly.com/series/lingering-pain/chapter-29": {
       "name": "29"
     },
