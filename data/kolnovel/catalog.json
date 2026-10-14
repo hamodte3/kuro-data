@@ -715,23 +715,6 @@
     "genres": []
   },
   {
-    "id": "الوحدة القتالية",
-    "title": "الوحدة القتالية",
-    "url": "https://kolnovel.com/series/the-martial-unity",
-    "cover_url": "https://kolnovel.com/wp-content/uploads/2023/03/95_20231124170026.png",
-    "type": "رواية",
-    "is_novel": true,
-    "rating": "8.8",
-    "total_chapters": 926,
-    "genres": [
-      "أكشن",
-      "إنتقال الى عالم أخر",
-      "فنون القتال",
-      "مغامرة"
-    ],
-    "status": "مستمر"
-  },
-  {
     "id": "المحرر شخصية إضافية في الرواية",
     "title": "المحرر شخصية إضافية في الرواية",
     "url": "https://kolnovel.com/series/%d8%a7%d9%84%d9%85%d8%ad%d8%b1%d8%b1-%d8%b4%d8%ae%d8%b5%d9%8a%d8%a9-%d8%a5%d8%b6%d8%a7%d9%81%d9%8a%d8%a9-%d9%81%d9%8a-%d8%a7%d9%84%d8%b1%d9%88%d8%a7%d9%8a%d8%a9",
@@ -1009,7 +992,7 @@
     "cover_url": "https://kolnovel.com/wp-content/uploads/2026/05/IMG__.jpg",
     "type": "رواية",
     "is_novel": true,
-    "rating": "4.0",
+    "rating": "8.0",
     "total_chapters": 40,
     "genres": [
       "أكشن",
@@ -1018,23 +1001,6 @@
       "رعب",
       "غموض",
       "قوى خارقة",
-      "مغامرة"
-    ],
-    "status": "مستمر"
-  },
-  {
-    "id": "تسلق البرج باستخدام قدرة إيقاف الزمن",
-    "title": "تسلق البرج باستخدام قدرة إيقاف الزمن",
-    "url": "https://kolnovel.com/series/%d8%aa%d8%b3%d9%84%d9%82-%d8%a7%d9%84%d8%a8%d8%b1%d8%ac-%d8%a8%d8%a7%d8%b3%d8%aa%d8%ae%d8%af%d8%a7%d9%85-%d9%82%d8%af%d8%b1%d8%a9-%d8%a5%d9%8a%d9%82%d8%a7%d9%81-%d8%a7%d9%84%d8%b2%d9%85%d9%86",
-    "cover_url": "https://kolnovel.com/wp-content/uploads/2026/07/113225-2.png",
-    "type": "رواية",
-    "is_novel": true,
-    "rating": "4.0",
-    "total_chapters": 40,
-    "genres": [
-      "أكشن",
-      "خيال",
-      "سينين",
       "مغامرة"
     ],
     "status": "مستمر"
@@ -1097,73 +1063,6 @@
       "شيانشيا",
       "مغامرة",
       "ووشيا"
-    ],
-    "status": "مستمر"
-  },
-  {
-    "id": "ملك سمات الفنون القتالية",
-    "title": "ملك سمات الفنون القتالية",
-    "url": "https://kolnovel.com/series/%d9%85%d9%84%d9%83-%d8%b3%d9%85%d8%a7%d8%aa-%d8%a7%d9%84%d9%81%d9%86%d9%88%d9%86-%d8%a7%d9%84%d9%82%d8%aa%d8%a7%d9%84%d9%8a%d8%a9",
-    "cover_url": "https://kolnovel.com/wp-content/uploads/2026/01/GIF-260910_004008.gif",
-    "type": "رواية",
-    "is_novel": true,
-    "rating": "5.0",
-    "total_chapters": 1509,
-    "genres": [
-      "بطل وقح",
-      "خيال",
-      "شيانشيا",
-      "فنون قتال",
-      "مغامرة"
-    ],
-    "status": "مستمر"
-  },
-  {
-    "id": "تاج المصيرين",
-    "title": "تاج المصيرين",
-    "url": "https://kolnovel.com/series/%d8%aa%d8%a7%d8%ac-%d8%a7%d9%84%d9%85%d8%b5%d9%8a%d8%b1%d9%8a%d9%86",
-    "cover_url": "https://kolnovel.com/wp-content/uploads/2026/10/file_00000000cf2882108d93c08f689ab874.png",
-    "type": "رواية",
-    "is_novel": true,
-    "rating": "",
-    "total_chapters": 11,
-    "genres": [
-      "أكشن",
-      "تطور شخصيات",
-      "حروب",
-      "دراما",
-      "صراعات سياسية",
-      "عالم واسع",
-      "عشائر",
-      "غموض",
-      "فانتازيا",
-      "فنون قتالية",
-      "قوى خارقة",
-      "مغامرة"
-    ],
-    "status": "مستمر"
-  },
-  {
-    "id": "صعود شجرة الهاوية",
-    "title": "صعود شجرة الهاوية",
-    "url": "https://kolnovel.com/series/%d8%b5%d8%b9%d9%88%d8%af-%d8%b4%d8%ac%d8%b1%d8%a9-%d8%a7%d9%84%d9%87%d8%a7%d9%88%d9%8a%d8%a9",
-    "cover_url": "https://kolnovel.com/wp-content/uploads/2026/10/Crimson_World_Tree_Showdown.png",
-    "type": "رواية",
-    "is_novel": true,
-    "rating": "",
-    "total_chapters": 86,
-    "genres": [
-      "أعراق",
-      "بطل مضاد",
-      "بناء مملكة",
-      "حرب",
-      "حرب بين النجوم",
-      "زراعة",
-      "سلالة نادرة",
-      "غير بشري",
-      "فضاء",
-      "مأساة",
-      "نظام"
     ],
     "status": "مستمر"
   },
@@ -1400,6 +1299,107 @@
       "رعب",
       "سحر",
       "غموض",
+      "مغامرة"
+    ],
+    "status": "مستمر"
+  },
+  {
+    "id": "صعود شجرة الهاوية",
+    "title": "صعود شجرة الهاوية",
+    "url": "https://kolnovel.com/series/%d8%b5%d8%b9%d9%88%d8%af-%d8%b4%d8%ac%d8%b1%d8%a9-%d8%a7%d9%84%d9%87%d8%a7%d9%88%d9%8a%d8%a9",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2026/10/Crimson_World_Tree_Showdown.png",
+    "type": "رواية",
+    "is_novel": true,
+    "rating": "",
+    "total_chapters": 99,
+    "genres": [
+      "أعراق",
+      "بطل مضاد",
+      "بناء مملكة",
+      "حرب",
+      "حرب بين النجوم",
+      "زراعة",
+      "سلالة نادرة",
+      "غير بشري",
+      "فضاء",
+      "مأساة",
+      "نظام"
+    ],
+    "status": "مستمر"
+  },
+  {
+    "id": "ملك سمات الفنون القتالية",
+    "title": "ملك سمات الفنون القتالية",
+    "url": "https://kolnovel.com/series/%d9%85%d9%84%d9%83-%d8%b3%d9%85%d8%a7%d8%aa-%d8%a7%d9%84%d9%81%d9%86%d9%88%d9%86-%d8%a7%d9%84%d9%82%d8%aa%d8%a7%d9%84%d9%8a%d8%a9",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2026/01/GIF-260910_004008.gif",
+    "type": "رواية",
+    "is_novel": true,
+    "rating": "5.0",
+    "total_chapters": 1512,
+    "genres": [
+      "بطل وقح",
+      "خيال",
+      "شيانشيا",
+      "فنون قتال",
+      "مغامرة"
+    ],
+    "status": "مستمر"
+  },
+  {
+    "id": "تاج المصيرين",
+    "title": "تاج المصيرين",
+    "url": "https://kolnovel.com/series/%d8%aa%d8%a7%d8%ac-%d8%a7%d9%84%d9%85%d8%b5%d9%8a%d8%b1%d9%8a%d9%86",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2026/10/file_00000000cf2882108d93c08f689ab874.png",
+    "type": "رواية",
+    "is_novel": true,
+    "rating": "",
+    "total_chapters": 12,
+    "genres": [
+      "أكشن",
+      "تطور شخصيات",
+      "حروب",
+      "دراما",
+      "صراعات سياسية",
+      "عالم واسع",
+      "عشائر",
+      "غموض",
+      "فانتازيا",
+      "فنون قتالية",
+      "قوى خارقة",
+      "مغامرة"
+    ],
+    "status": "مستمر"
+  },
+  {
+    "id": "تسلق البرج باستخدام قدرة إيقاف الزمن",
+    "title": "تسلق البرج باستخدام قدرة إيقاف الزمن",
+    "url": "https://kolnovel.com/series/%d8%aa%d8%b3%d9%84%d9%82-%d8%a7%d9%84%d8%a8%d8%b1%d8%ac-%d8%a8%d8%a7%d8%b3%d8%aa%d8%ae%d8%af%d8%a7%d9%85-%d9%82%d8%af%d8%b1%d8%a9-%d8%a5%d9%8a%d9%82%d8%a7%d9%81-%d8%a7%d9%84%d8%b2%d9%85%d9%86",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2026/07/113225-2.png",
+    "type": "رواية",
+    "is_novel": true,
+    "rating": "4.0",
+    "total_chapters": 41,
+    "genres": [
+      "أكشن",
+      "خيال",
+      "سينين",
+      "مغامرة"
+    ],
+    "status": "مستمر"
+  },
+  {
+    "id": "الوحدة القتالية",
+    "title": "الوحدة القتالية",
+    "url": "https://kolnovel.com/series/the-martial-unity",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2023/03/95_20231124170026.png",
+    "type": "رواية",
+    "is_novel": true,
+    "rating": "",
+    "total_chapters": 931,
+    "genres": [
+      "أكشن",
+      "إنتقال الى عالم أخر",
+      "فنون القتال",
       "مغامرة"
     ],
     "status": "مستمر"

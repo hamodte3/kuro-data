@@ -8,13 +8,16 @@
   "last_update": "2026-06-06",
   "rating": "10.0",
   "genres": [
+    "رومانسي",
     "فنتازيا",
     "دراما",
-    "كوميدي",
-    "رومانسي"
+    "كوميدي"
   ],
   "is_novel": false,
   "chapters": {
+    "https://azorafly.com/series/i-will-save-my-father/chapter-38": {
+      "name": "38"
+    },
     "https://azorafly.com/series/i-will-save-my-father/chapter-37": {
       "name": "37"
     },

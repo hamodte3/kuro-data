@@ -6,15 +6,18 @@
   "type": "مانهوا",
   "status": "مستمر",
   "last_update": "2026-09-18",
-  "rating": "10.0",
+  "rating": "9.8",
   "genres": [
-    "رومانسى",
     "خيالي",
+    "رومانسى",
     "درما",
     "رعب"
   ],
   "is_novel": false,
   "chapters": {
+    "https://azorafly.com/series/how-to-survive-the-horror-novel-i-wrote/chapter-9": {
+      "name": "9"
+    },
     "https://azorafly.com/series/how-to-survive-the-horror-novel-i-wrote/chapter-8": {
       "name": "8"
     },

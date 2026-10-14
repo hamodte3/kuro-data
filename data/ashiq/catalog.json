@@ -1,31 +1,5 @@
 [
   {
-    "id": "naruto-digital-colored",
-    "title": "Naruto – Digital Colored",
-    "url": "https://3asq.online/manga/naruto-digital-colored",
-    "cover_url": "https://3asq.online/wp-content/uploads/2022/01/IMG_3100-175x238.jpeg",
-    "type": "Hokage Team",
-    "rating": "4.4",
-    "genres": [
-      "أكشن",
-      "خيال",
-      "دراما",
-      "شونين",
-      "فنون قتالية",
-      "قوى خارقة",
-      "كوميديا"
-    ]
-  },
-  {
-    "id": "the-witch-and-the-mercenary",
-    "title": "The Witch and the Mercenary",
-    "url": "https://3asq.online/manga/the-witch-and-the-mercenary",
-    "cover_url": "https://3asq.online/wp-content/uploads/2025/08/imgi_8_2NvQ4k-175x238.jpg",
-    "type": "ICE CREAM",
-    "rating": "4.8",
-    "genres": []
-  },
-  {
     "id": "kaoru-hana-wa-rin-to-saku",
     "title": "Kaoru Hana wa Rin to Saku",
     "url": "https://3asq.online/manga/kaoru-hana-wa-rin-to-saku",
@@ -1231,6 +1205,59 @@
       "كوميديا",
       "مغامرة"
     ]
+  },
+  {
+    "id": "saigo-no-manga-kyoushitsu",
+    "title": "Saigo no Manga Kyoushitsu",
+    "url": "https://3asq.online/manga/saigo-no-manga-kyoushitsu",
+    "cover_url": "https://3asq.online/wp-content/uploads/2026/10/5-175x238.jpg",
+    "type": "مانغا",
+    "rating": "",
+    "total_chapters": 1,
+    "genres": [
+      "سينين"
+    ],
+    "status": "مستمر"
+  },
+  {
+    "id": "island-rock",
+    "title": "Island rock",
+    "url": "https://3asq.online/manga/island-rock",
+    "cover_url": "https://3asq.online/wp-content/uploads/2026/10/i529531-175x238.jpg",
+    "type": "مانغا",
+    "rating": "",
+    "total_chapters": 10,
+    "genres": [
+      "شريحة من الحياة",
+      "شونين"
+    ],
+    "status": "مستمر"
+  },
+  {
+    "id": "naruto-digital-colored",
+    "title": "Naruto – Digital Colored",
+    "url": "https://3asq.online/manga/naruto-digital-colored",
+    "cover_url": "https://3asq.online/wp-content/uploads/2022/01/IMG_3100-175x238.jpeg",
+    "type": "Hokage Team",
+    "rating": "4.4",
+    "genres": [
+      "أكشن",
+      "خيال",
+      "دراما",
+      "شونين",
+      "فنون قتالية",
+      "قوى خارقة",
+      "كوميديا"
+    ]
+  },
+  {
+    "id": "the-witch-and-the-mercenary",
+    "title": "The Witch and the Mercenary",
+    "url": "https://3asq.online/manga/the-witch-and-the-mercenary",
+    "cover_url": "https://3asq.online/wp-content/uploads/2025/08/imgi_8_2NvQ4k-175x238.jpg",
+    "type": "ICE CREAM",
+    "rating": "4.8",
+    "genres": []
   },
   {
     "id": "baki-dou-2018",

@@ -6,17 +6,32 @@
   "type": "رواية",
   "status": "مستمر",
   "last_update": "2026-07-12",
-  "rating": "10.0",
+  "rating": "8.5",
   "genres": [
-    "رومانسي",
-    "تاريخي",
-    "تجسيد",
     "غموض",
+    "تجسيد",
+    "تاريخي",
+    "رومانسي",
     "كوميدي",
     "دراما"
   ],
   "is_novel": false,
   "chapters": {
+    "https://azorafly.com/series/picked-up-the-villain-from-a-ruined-rofan/chapter-40": {
+      "name": "40"
+    },
+    "https://azorafly.com/series/picked-up-the-villain-from-a-ruined-rofan/chapter-39": {
+      "name": "39"
+    },
+    "https://azorafly.com/series/picked-up-the-villain-from-a-ruined-rofan/chapter-38": {
+      "name": "38"
+    },
+    "https://azorafly.com/series/picked-up-the-villain-from-a-ruined-rofan/chapter-37": {
+      "name": "37"
+    },
+    "https://azorafly.com/series/picked-up-the-villain-from-a-ruined-rofan/chapter-36": {
+      "name": "36"
+    },
     "https://azorafly.com/series/picked-up-the-villain-from-a-ruined-rofan/chapter-35": {
       "name": "35"
     },

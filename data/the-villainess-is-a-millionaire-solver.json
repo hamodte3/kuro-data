@@ -9,11 +9,14 @@
   "rating": "8.9",
   "genres": [
     "رومانسي",
-    "خيال",
-    "دراما"
+    "دراما",
+    "خيال"
   ],
   "is_novel": false,
   "chapters": {
+    "https://azorafly.com/series/the-villainess-is-a-millionaire-solver/chapter-45": {
+      "name": "45"
+    },
     "https://azorafly.com/series/the-villainess-is-a-millionaire-solver/chapter-44": {
       "name": "44"
     },
