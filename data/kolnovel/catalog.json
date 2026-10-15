@@ -693,17 +693,6 @@
     "genres": []
   },
   {
-    "id": "بث الرامي العبقري",
-    "title": "بث الرامي العبقري",
-    "url": "https://kolnovel.com/series/%d8%a8%d8%ab-%d8%a7%d9%84%d8%b1%d8%a7%d9%85%d9%8a-%d8%a7%d9%84%d8%b9%d8%a8%d9%82%d8%b1%d9%8a",
-    "cover_url": "https://kolnovel.com/wp-content/uploads/2026/08/morph_9_seconds.gif",
-    "type": "رواية",
-    "is_novel": true,
-    "rating": "",
-    "total_chapters": 0,
-    "genres": []
-  },
-  {
     "id": "المحرر شخصية إضافية في الرواية",
     "title": "المحرر شخصية إضافية في الرواية",
     "url": "https://kolnovel.com/series/%d8%a7%d9%84%d9%85%d8%ad%d8%b1%d8%b1-%d8%b4%d8%ae%d8%b5%d9%8a%d8%a9-%d8%a5%d8%b6%d8%a7%d9%81%d9%8a%d8%a9-%d9%81%d9%8a-%d8%a7%d9%84%d8%b1%d9%88%d8%a7%d9%8a%d8%a9",
@@ -1021,7 +1010,7 @@
     "cover_url": "https://kolnovel.com/wp-content/uploads/2025/01/بدون-اسم72.png",
     "type": "رواية",
     "is_novel": true,
-    "rating": "4.0",
+    "rating": "8.0",
     "total_chapters": 1282,
     "genres": [
       "أكشن",
@@ -1305,30 +1294,6 @@
     "status": "مستمر"
   },
   {
-    "id": "صعود شجرة الهاوية",
-    "title": "صعود شجرة الهاوية",
-    "url": "https://kolnovel.com/series/%d8%b5%d8%b9%d9%88%d8%af-%d8%b4%d8%ac%d8%b1%d8%a9-%d8%a7%d9%84%d9%87%d8%a7%d9%88%d9%8a%d8%a9",
-    "cover_url": "https://kolnovel.com/wp-content/uploads/2026/10/Crimson_World_Tree_Showdown.png",
-    "type": "رواية",
-    "is_novel": true,
-    "rating": "",
-    "total_chapters": 120,
-    "genres": [
-      "أعراق",
-      "بطل مضاد",
-      "بناء مملكة",
-      "حرب",
-      "حرب بين النجوم",
-      "زراعة",
-      "سلالة نادرة",
-      "غير بشري",
-      "فضاء",
-      "مأساة",
-      "نظام"
-    ],
-    "status": "مستمر"
-  },
-  {
     "id": "سلسلة مونوغاتاري",
     "title": "سلسلة مونوغاتاري",
     "url": "https://kolnovel.com/series/%d8%b3%d9%84%d8%b3%d9%84%d8%a9-%d9%85%d9%88%d9%86%d9%88%d8%ba%d8%a7%d8%aa%d8%a7%d8%b1%d9%8a",
@@ -1369,26 +1334,6 @@
     "status": "مستمر"
   },
   {
-    "id": "انبعاث الخوارق",
-    "title": "انبعاث الخوارق",
-    "url": "https://kolnovel.com/series/%d8%a7%d9%86%d8%a8%d8%b9%d8%a7%d8%ab-%d8%a7%d9%84%d8%ae%d9%88%d8%a7%d8%b1%d9%82",
-    "cover_url": "https://kolnovel.com/wp-content/uploads/2026/10/Screenshot_٢٠٢٦-١٠-١٥-٠٨-٣١-٥٠-٢٢٩_com.miui_.gallery-edit.jpg",
-    "type": "رواية",
-    "is_novel": true,
-    "rating": "",
-    "total_chapters": 20,
-    "genres": [
-      "إثارة",
-      "بقاء على قيد الحياة",
-      "خارق للطبيعة",
-      "رعب",
-      "غموض",
-      "قوى خارقة",
-      "نفسي"
-    ],
-    "status": "مستمر"
-  },
-  {
     "id": "تاج المصيرين",
     "title": "تاج المصيرين",
     "url": "https://kolnovel.com/series/%d8%aa%d8%a7%d8%ac-%d8%a7%d9%84%d9%85%d8%b5%d9%8a%d8%b1%d9%8a%d9%86",
@@ -1409,6 +1354,70 @@
       "فانتازيا",
       "فنون قتالية",
       "قوى خارقة",
+      "مغامرة"
+    ],
+    "status": "مستمر"
+  },
+  {
+    "id": "انبعاث الخوارق",
+    "title": "انبعاث الخوارق",
+    "url": "https://kolnovel.com/series/%d8%a7%d9%86%d8%a8%d8%b9%d8%a7%d8%ab-%d8%a7%d9%84%d8%ae%d9%88%d8%a7%d8%b1%d9%82",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2026/10/Screenshot_٢٠٢٦-١٠-١٥-٠٨-٣١-٥٠-٢٢٩_com.miui_.gallery-edit.jpg",
+    "type": "رواية",
+    "is_novel": true,
+    "rating": "",
+    "total_chapters": 10,
+    "genres": [
+      "إثارة",
+      "بقاء على قيد الحياة",
+      "خارق للطبيعة",
+      "رعب",
+      "غموض",
+      "قوى خارقة",
+      "نفسي"
+    ],
+    "status": "مستمر"
+  },
+  {
+    "id": "صعود شجرة الهاوية",
+    "title": "صعود شجرة الهاوية",
+    "url": "https://kolnovel.com/series/%d8%b5%d8%b9%d9%88%d8%af-%d8%b4%d8%ac%d8%b1%d8%a9-%d8%a7%d9%84%d9%87%d8%a7%d9%88%d9%8a%d8%a9",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2026/10/Crimson_World_Tree_Showdown.png",
+    "type": "رواية",
+    "is_novel": true,
+    "rating": "",
+    "total_chapters": 133,
+    "genres": [
+      "أعراق",
+      "بطل مضاد",
+      "بناء مملكة",
+      "حرب",
+      "حرب بين النجوم",
+      "زراعة",
+      "سلالة نادرة",
+      "غير بشري",
+      "فضاء",
+      "مأساة",
+      "نظام"
+    ],
+    "status": "مستمر"
+  },
+  {
+    "id": "بث الرامي العبقري",
+    "title": "بث الرامي العبقري",
+    "url": "https://kolnovel.com/series/%d8%a8%d8%ab-%d8%a7%d9%84%d8%b1%d8%a7%d9%85%d9%8a-%d8%a7%d9%84%d8%b9%d8%a8%d9%82%d8%b1%d9%8a",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2026/08/morph_9_seconds.gif",
+    "type": "رواية",
+    "is_novel": true,
+    "rating": "",
+    "total_chapters": 233,
+    "genres": [
+      "أكشن",
+      "خيال",
+      "دراما",
+      "رياضة",
+      "شونين",
+      "فنون قتال",
       "مغامرة"
     ],
     "status": "مستمر"

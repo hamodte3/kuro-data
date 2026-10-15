@@ -10,15 +10,18 @@
   "genres": [
     "خارق للطبيعة",
     "عائلي",
+    "رعاية أطفال",
     "سحر",
-    "رومانسي",
-    "خيال",
     "كوميدي",
-    "دراما",
-    "رعاية أطفال"
+    "خيال",
+    "رومانسي",
+    "دراما"
   ],
   "is_novel": false,
   "chapters": {
+    "https://azorafly.com/series/the-male-lead-is-obsessed-with-my-health/chapter-83": {
+      "name": "83"
+    },
     "https://azorafly.com/series/the-male-lead-is-obsessed-with-my-health/chapter-82": {
       "name": "82"
     },
