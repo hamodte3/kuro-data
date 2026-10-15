@@ -717,15 +717,6 @@
     "genres": []
   },
   {
-    "id": "the-ravages-of-time-rot",
-    "title": "The Ravages Of Time (ROT)",
-    "url": "https://3asq.online/manga/the-ravages-of-time-rot",
-    "cover_url": "https://3asq.online/wp-content/uploads/2024/04/1-175x238.png",
-    "type": "مانغا",
-    "rating": "4.4",
-    "genres": []
-  },
-  {
     "id": "one-punch-man",
     "title": "One Punch Man",
     "url": "https://3asq.online/manga/one-punch-man",
@@ -981,26 +972,6 @@
     ]
   },
   {
-    "id": "one-piece",
-    "title": "One Piece",
-    "url": "https://3asq.online/manga/one-piece",
-    "cover_url": "https://3asq.online/wp-content/uploads/2019/04/v1-1-175x238.jpg",
-    "type": "مانغا",
-    "rating": "4.7",
-    "status": "مستمر",
-    "total_chapters": 569,
-    "genres": [
-      "100%",
-      "3asq",
-      "أكشن",
-      "خيال",
-      "دراما",
-      "قوى خارقة",
-      "كوميديا",
-      "مغامرة"
-    ]
-  },
-  {
     "id": "lookism_fedaa-chan",
     "title": "Lookism",
     "url": "https://3asq.online/manga/lookism_fedaa-chan",
@@ -1231,6 +1202,45 @@
       "عنف",
       "غموض",
       "فلسفة"
+    ]
+  },
+  {
+    "id": "the-ravages-of-time-rot",
+    "title": "The Ravages Of Time (ROT)",
+    "url": "https://3asq.online/manga/the-ravages-of-time-rot",
+    "cover_url": "https://3asq.online/wp-content/uploads/2024/04/1-175x238.png",
+    "type": "مانها",
+    "rating": "4.4",
+    "genres": [
+      "100%",
+      "أكشن",
+      "تاريخ",
+      "حرب",
+      "دراما",
+      "عسكرية",
+      "فلسفة"
+    ],
+    "status": "مستمر",
+    "total_chapters": 442
+  },
+  {
+    "id": "one-piece",
+    "title": "One Piece",
+    "url": "https://3asq.online/manga/one-piece",
+    "cover_url": "https://3asq.online/wp-content/uploads/2019/04/v1-1-175x238.jpg",
+    "type": "مانغا",
+    "rating": "4.7",
+    "status": "مستمر",
+    "total_chapters": 570,
+    "genres": [
+      "100%",
+      "3asq",
+      "أكشن",
+      "خيال",
+      "دراما",
+      "قوى خارقة",
+      "كوميديا",
+      "مغامرة"
     ]
   },
   {

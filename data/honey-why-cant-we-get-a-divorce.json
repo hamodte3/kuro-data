@@ -9,12 +9,15 @@
   "rating": "9.6",
   "genres": [
     "خيالي",
-    "رومانسي",
+    "شوجو",
     "كوميدي",
-    "شوجو"
+    "رومانسي"
   ],
   "is_novel": false,
   "chapters": {
+    "https://azorafly.com/series/honey-why-cant-we-get-a-divorce/chapter-106": {
+      "name": "106"
+    },
     "https://azorafly.com/series/honey-why-cant-we-get-a-divorce/chapter-105": {
       "name": "105"
     },

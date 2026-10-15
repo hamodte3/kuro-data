@@ -6,7 +6,7 @@
   "type": "مانها",
   "status": "مستمر",
   "rating": "4.4",
-  "favorites": "200",
+  "favorites": "202",
   "genres": [
     "100%",
     "أكشن",
@@ -18,6 +18,9 @@
   ],
   "is_novel": false,
   "chapters": {
+    "https://3asq.online/manga/the-ravages-of-time-rot/636": {
+      "name": "636"
+    },
     "https://3asq.online/manga/the-ravages-of-time-rot/635": {
       "name": "635"
     },
