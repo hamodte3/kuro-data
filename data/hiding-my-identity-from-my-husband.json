@@ -6,15 +6,18 @@
   "type": "مانهوا",
   "status": "مستمر",
   "last_update": "2026-10-11",
-  "rating": "10.0",
+  "rating": "9.7",
   "genres": [
+    "رومانسي",
     "كوميدي",
     "فانتازيا",
-    "رومانسي",
     "دراما"
   ],
   "is_novel": false,
   "chapters": {
+    "https://azorafly.com/series/hiding-my-identity-from-my-husband/chapter-21": {
+      "name": "21"
+    },
     "https://azorafly.com/series/hiding-my-identity-from-my-husband/chapter-20": {
       "name": "20"
     },

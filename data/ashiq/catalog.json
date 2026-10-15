@@ -930,31 +930,6 @@
     ]
   },
   {
-    "id": "enigmatica",
-    "title": "Enigmatica",
-    "url": "https://3asq.online/manga/enigmatica",
-    "cover_url": "https://3asq.online/wp-content/uploads/2026/04/enigmatica_cover_pink-175x238.png",
-    "type": "مانغا",
-    "rating": "4.8",
-    "status": "مستمر",
-    "total_chapters": 28,
-    "genres": [
-      "أكشن",
-      "استراتيجي",
-      "تاريخ",
-      "جريمة",
-      "حرب",
-      "خيال",
-      "دراما",
-      "شونين",
-      "عسكرية",
-      "علم نفس",
-      "عنف",
-      "غموض",
-      "فلسفة"
-    ]
-  },
-  {
     "id": "blades-of-the-guardians",
     "title": "Blades of the Guardians",
     "url": "https://3asq.online/manga/blades-of-the-guardians",
@@ -1232,6 +1207,31 @@
       "شونين"
     ],
     "status": "مستمر"
+  },
+  {
+    "id": "enigmatica",
+    "title": "Enigmatica",
+    "url": "https://3asq.online/manga/enigmatica",
+    "cover_url": "https://3asq.online/wp-content/uploads/2026/04/enigmatica_cover_pink-175x238.png",
+    "type": "مانغا",
+    "rating": "4.8",
+    "status": "مستمر",
+    "total_chapters": 29,
+    "genres": [
+      "أكشن",
+      "استراتيجي",
+      "تاريخ",
+      "جريمة",
+      "حرب",
+      "خيال",
+      "دراما",
+      "شونين",
+      "عسكرية",
+      "علم نفس",
+      "عنف",
+      "غموض",
+      "فلسفة"
+    ]
   },
   {
     "id": "naruto-digital-colored",

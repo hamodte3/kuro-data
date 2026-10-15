@@ -1,16 +1,5 @@
 [
   {
-    "id": "سجلات الحروب البدائية",
-    "title": "سجلات الحروب البدائية",
-    "url": "https://kolnovel.com/series/%d8%b3%d8%ac%d9%84%d8%a7%d8%aa-%d8%a7%d9%84%d8%ad%d8%b1%d9%88%d8%a8-%d8%a7%d9%84%d8%a8%d8%af%d8%a7%d8%a6%d9%8a%d8%a9",
-    "cover_url": "https://kolnovel.com/wp-content/uploads/2025/11/1764141794456.png",
-    "type": "رواية",
-    "is_novel": true,
-    "rating": "8.1",
-    "total_chapters": 0,
-    "genres": []
-  },
-  {
     "id": "ضد الآلهة",
     "title": "ضد الآلهة",
     "url": "https://kolnovel.com/series/against-the-gods",
@@ -1012,7 +1001,7 @@
     "cover_url": "https://kolnovel.com/wp-content/uploads/2020/10/بدون-اسم114_20260804041241.png",
     "type": "رواية",
     "is_novel": true,
-    "rating": "5.0",
+    "rating": "9.0",
     "total_chapters": 2372,
     "genres": [
       "أكشن",
@@ -1077,46 +1066,6 @@
       "غموض",
       "فانتازي",
       "كوميدي"
-    ],
-    "status": "مستمر"
-  },
-  {
-    "id": "محنة الأجناس المتعددة",
-    "title": "محنة الأجناس المتعددة",
-    "url": "https://kolnovel.com/series/%d9%85%d8%ad%d9%86%d8%a9-%d8%a7%d9%84%d8%a3%d8%ac%d9%86%d8%a7%d8%b3-%d8%a7%d9%84%d9%85%d8%aa%d8%b9%d8%af%d8%af%d8%a9",
-    "cover_url": "https://kolnovel.com/wp-content/uploads/2026/07/بدون-اسم97_20260716015333.png",
-    "type": "رواية",
-    "is_novel": true,
-    "rating": "",
-    "total_chapters": 48,
-    "genres": [
-      "أكشن",
-      "زراعة",
-      "فانتازيا",
-      "قوى خارقة",
-      "مدرسية"
-    ],
-    "status": "مستمر"
-  },
-  {
-    "id": "العوالم في السماء",
-    "title": "العوالم في السماء",
-    "url": "https://kolnovel.com/series/%d8%a7%d9%84%d8%b9%d9%88%d8%a7%d9%84%d9%85-%d9%81%d9%8a-%d8%a7%d9%84%d8%b3%d9%85%d8%a7%d8%a1",
-    "cover_url": "https://kolnovel.com/wp-content/uploads/2026/06/file_000000000e487243b1f720c3018a491e.png",
-    "type": "رواية",
-    "is_novel": true,
-    "rating": "",
-    "total_chapters": 258,
-    "genres": [
-      "أكشن",
-      "حريم",
-      "خيال",
-      "رومانسية",
-      "شوانهوان",
-      "فنون قتال",
-      "كوميديا",
-      "مغامرة",
-      "ناضج"
     ],
     "status": "مستمر"
   },
@@ -1403,6 +1352,77 @@
       "نفسي"
     ],
     "status": "مستمر"
+  },
+  {
+    "id": "محنة الأجناس المتعددة",
+    "title": "محنة الأجناس المتعددة",
+    "url": "https://kolnovel.com/series/%d9%85%d8%ad%d9%86%d8%a9-%d8%a7%d9%84%d8%a3%d8%ac%d9%86%d8%a7%d8%b3-%d8%a7%d9%84%d9%85%d8%aa%d8%b9%d8%af%d8%af%d8%a9",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2026/07/بدون-اسم97_20260716015333.png",
+    "type": "رواية",
+    "is_novel": true,
+    "rating": "",
+    "total_chapters": 49,
+    "genres": [
+      "أكشن",
+      "زراعة",
+      "فانتازيا",
+      "قوى خارقة",
+      "مدرسية"
+    ],
+    "status": "مستمر"
+  },
+  {
+    "id": "انبعاث الخوارق",
+    "title": "انبعاث الخوارق",
+    "url": "https://kolnovel.com/series/%d8%a7%d9%86%d8%a8%d8%b9%d8%a7%d8%ab-%d8%a7%d9%84%d8%ae%d9%88%d8%a7%d8%b1%d9%82",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2026/10/Screenshot_٢٠٢٦-١٠-١٥-٠٨-٣١-٥٠-٢٢٩_com.miui_.gallery-edit.jpg",
+    "type": "رواية",
+    "is_novel": true,
+    "rating": "",
+    "total_chapters": 0,
+    "genres": [
+      "إثارة",
+      "بقاء على قيد الحياة",
+      "خارق للطبيعة",
+      "رعب",
+      "غموض",
+      "قوى خارقة",
+      "نفسي"
+    ],
+    "status": "مستمر"
+  },
+  {
+    "id": "العوالم في السماء",
+    "title": "العوالم في السماء",
+    "url": "https://kolnovel.com/series/%d8%a7%d9%84%d8%b9%d9%88%d8%a7%d9%84%d9%85-%d9%81%d9%8a-%d8%a7%d9%84%d8%b3%d9%85%d8%a7%d8%a1",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2026/06/file_000000000e487243b1f720c3018a491e.png",
+    "type": "رواية",
+    "is_novel": true,
+    "rating": "",
+    "total_chapters": 261,
+    "genres": [
+      "أكشن",
+      "حريم",
+      "خيال",
+      "رومانسية",
+      "شوانهوان",
+      "فنون قتال",
+      "كوميديا",
+      "مغامرة",
+      "ناضج"
+    ],
+    "status": "مستمر"
+  },
+  {
+    "id": "سجلات الحروب البدائية",
+    "title": "سجلات الحروب البدائية",
+    "url": "https://kolnovel.com/series/%d8%b3%d8%ac%d9%84%d8%a7%d8%aa-%d8%a7%d9%84%d8%ad%d8%b1%d9%88%d8%a8-%d8%a7%d9%84%d8%a8%d8%af%d8%a7%d8%a6%d9%8a%d8%a9",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2025/11/1764141794456.png",
+    "type": "رواية",
+    "is_novel": true,
+    "rating": "8.1",
+    "total_chapters": 0,
+    "genres": []
   },
   {
     "id": "فصل النخبة كول",
