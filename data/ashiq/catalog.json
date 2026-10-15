@@ -872,24 +872,6 @@
     ]
   },
   {
-    "id": "wistoria-wand-and-sword",
-    "title": "WISTORIA: WAND AND SWORD",
-    "url": "https://3asq.online/manga/wistoria-wand-and-sword",
-    "cover_url": "https://3asq.online/wp-content/uploads/2026/06/AddText_06-16-01.19.28-175x238.jpg",
-    "type": "مانغا",
-    "rating": "4.8",
-    "status": "مستمر",
-    "total_chapters": 33,
-    "genres": [
-      "أكشن",
-      "خيال",
-      "شونين",
-      "كوميديا",
-      "مدرسة",
-      "مغامرة"
-    ]
-  },
-  {
     "id": "tower-of-god-s2",
     "title": "Tower Of God s2",
     "url": "https://3asq.online/manga/tower-of-god-s2",
@@ -1203,20 +1185,6 @@
     "status": "مستمر"
   },
   {
-    "id": "island-rock",
-    "title": "Island rock",
-    "url": "https://3asq.online/manga/island-rock",
-    "cover_url": "https://3asq.online/wp-content/uploads/2026/10/i529531-175x238.jpg",
-    "type": "مانغا",
-    "rating": "",
-    "total_chapters": 10,
-    "genres": [
-      "شريحة من الحياة",
-      "شونين"
-    ],
-    "status": "مستمر"
-  },
-  {
     "id": "kengan-omega",
     "title": "Kengan Omega",
     "url": "https://3asq.online/manga/kengan-omega",
@@ -1232,6 +1200,38 @@
       "شونين",
       "فنون قتالية"
     ]
+  },
+  {
+    "id": "wistoria-wand-and-sword",
+    "title": "WISTORIA: WAND AND SWORD",
+    "url": "https://3asq.online/manga/wistoria-wand-and-sword",
+    "cover_url": "https://3asq.online/wp-content/uploads/2026/06/AddText_06-16-01.19.28-175x238.jpg",
+    "type": "مانغا",
+    "rating": "4.8",
+    "status": "مستمر",
+    "total_chapters": 34,
+    "genres": [
+      "أكشن",
+      "خيال",
+      "شونين",
+      "كوميديا",
+      "مدرسة",
+      "مغامرة"
+    ]
+  },
+  {
+    "id": "island-rock",
+    "title": "Island rock",
+    "url": "https://3asq.online/manga/island-rock",
+    "cover_url": "https://3asq.online/wp-content/uploads/2026/10/i529531-175x238.jpg",
+    "type": "مانغا",
+    "rating": "1.0",
+    "total_chapters": 11,
+    "genres": [
+      "شريحة من الحياة",
+      "شونين"
+    ],
+    "status": "مستمر"
   },
   {
     "id": "naruto-digital-colored",
