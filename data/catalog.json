@@ -1,66 +1,5 @@
 [
   {
-    "id": "how-to-survive-as-the-daughter-of-the-emperor-who-killed-me",
-    "title": "How to Survive as the Daughter of the Emperor Who Killed Me",
-    "url": "https://azorafly.com/series/how-to-survive-as-the-daughter-of-the-emperor-who-killed-me",
-    "cover_url": "https://storage.azorafly.com/upload/series/featured/oGmL0DQZ16QInTPaeDKwFEK9ryegoy88/3bf27164-7e44-4dc3-9bb9-398358a626a5.jpg",
-    "type": "مانهوا",
-    "status": "مستمر",
-    "rating": "8.4",
-    "total_chapters": 47,
-    "genres": [
-      "انتقام",
-      "دراما",
-      "رومانسي",
-      "خيال"
-    ]
-  },
-  {
-    "id": "i-bought-the-villains-with-money",
-    "title": "I Bought the Villains With Money",
-    "url": "https://azorafly.com/series/i-bought-the-villains-with-money",
-    "cover_url": "https://storage.azorafly.com/upload/series/featured/oGmL0DQZ16QInTPaeDKwFEK9ryegoy88/7f0b297e-58ee-4d90-8b19-fcd64a399611.jpg",
-    "type": "مانهوا",
-    "total_chapters": 21,
-    "genres": [
-      "خيالي",
-      "رومانسى",
-      "دراما شوجو"
-    ],
-    "status": "مستمر",
-    "rating": "9.8"
-  },
-  {
-    "id": "the-mansion-awaits-spring1",
-    "title": "The Mansion Awaits Spring",
-    "url": "https://azorafly.com/series/the-mansion-awaits-spring1",
-    "cover_url": "https://storage.azorafly.com/upload/series/featured/oGmL0DQZ16QInTPaeDKwFEK9ryegoy88/0de2c6d0-6cbf-4d9f-91e7-afcf3da209e2.webp",
-    "type": "مانهوا",
-    "status": "مستمر",
-    "rating": "7.6",
-    "total_chapters": 38,
-    "genres": [
-      "انتقام",
-      "شوجو",
-      "رومانسي"
-    ]
-  },
-  {
-    "id": "high-society",
-    "title": "High Society",
-    "url": "https://azorafly.com/series/high-society",
-    "cover_url": "https://storage.azorafly.com/2024/04/DM_20250410223923_001.jpg",
-    "type": "مانهوا",
-    "status": "مستمر",
-    "rating": "4.8",
-    "total_chapters": 101,
-    "genres": [
-      "دراما",
-      "رومانسي",
-      "خيال"
-    ]
-  },
-  {
     "id": "raised-by-villains",
     "title": "Raised by Villains",
     "url": "https://azorafly.com/series/raised-by-villains",
@@ -273,26 +212,6 @@
       "كوميدي",
       "رومانسي",
       "نظام",
-      "خيال"
-    ]
-  },
-  {
-    "id": "the-dark-magician-transmigrates-after-66666-years",
-    "title": "The Dark Magician Transmigrates After 66666 Years",
-    "url": "https://azorafly.com/series/the-dark-magician-transmigrates-after-66666-years",
-    "cover_url": "https://storage.azorafly.com/2021/06/6666666666_dark.png",
-    "type": "مانهوا",
-    "status": "مستمر",
-    "rating": "8.8",
-    "total_chapters": 201,
-    "genres": [
-      "اسبوعي",
-      "إثارة",
-      "سحر",
-      "مميز",
-      "تاريخي",
-      "إعادة إحياء",
-      "أكشن",
       "خيال"
     ]
   },
@@ -1482,28 +1401,6 @@
     ],
     "status": "مستمر",
     "rating": "10.0"
-  },
-  {
-    "id": "i'm-a-young-system-won't-you-raise-m",
-    "title": "I'm a Young system, Won't You Raise Me?",
-    "url": "https://azorafly.com/series/i'm-a-young-system-won't-you-raise-m",
-    "cover_url": "https://storage.azorafly.com/upload/series/featured/a5vVlSc5huft2AzUyK1VxgKh1ckCWLbZ/d835862c-ace4-49d0-be46-73385cb1ad7a.jpg",
-    "type": "رواية",
-    "status": "مستمر",
-    "rating": "10.0",
-    "total_chapters": 176,
-    "genres": [
-      "لعبة",
-      "كواكب",
-      "ذكاء اصطناعي",
-      "بدون تجسيد",
-      "غموض",
-      "نظام",
-      "أكشن",
-      "دراما",
-      "رعب",
-      "خيال"
-    ]
   },
   {
     "id": "the-villains-pure-love",
@@ -3032,10 +2929,10 @@
     "total_chapters": 74,
     "genres": [
       "تاريخي",
+      "انتقام",
       "فانتازيا",
-      "دراما",
       "رومانسي",
-      "انتقام"
+      "دراما"
     ]
   },
   {
@@ -3084,8 +2981,8 @@
       "شوجو",
       "فنتازيا",
       "تاريخي",
-      "دراما",
-      "رومانسي"
+      "رومانسي",
+      "دراما"
     ]
   },
   {
@@ -3098,8 +2995,8 @@
     "rating": "8.4",
     "total_chapters": 68,
     "genres": [
-      "دراما",
-      "رومانسي"
+      "رومانسي",
+      "دراما"
     ]
   },
   {
@@ -3192,8 +3089,175 @@
     "total_chapters": 49,
     "genres": [
       "خيالي",
-      "دراما",
+      "رومانسي",
+      "دراما"
+    ]
+  },
+  {
+    "id": "marquis-maron",
+    "title": "Marquis Maron",
+    "url": "https://azorafly.com/series/marquis-maron",
+    "cover_url": "https://storage.azorafly.com/upload/series/featured/oGmL0DQZ16QInTPaeDKwFEK9ryegoy88/03c07015-1901-4e0f-977c-53fa6413c576.jpg",
+    "type": "مانهوا",
+    "status": "مستمر",
+    "rating": "9.1",
+    "total_chapters": 57,
+    "genres": [
+      "رومانسي",
+      "دراما"
+    ]
+  },
+  {
+    "id": "the-villainss-favourite-is-me",
+    "title": "The Villains's Favourite is Me",
+    "url": "https://azorafly.com/series/the-villainss-favourite-is-me",
+    "cover_url": "https://storage.azorafly.com/upload/series/featured/a5vVlSc5huft2AzUyK1VxgKh1ckCWLbZ/6ab6b6c4-dd46-4a88-9179-f2766bd8fb33.jpg",
+    "type": "مانهوا",
+    "status": "مستمر",
+    "rating": "9.5",
+    "total_chapters": 98,
+    "genres": [
+      "هوس",
+      "عائلي",
+      "سحر",
+      "كوميدي",
+      "خيال",
       "رومانسي"
+    ]
+  },
+  {
+    "id": "my-ancestors-are-watching-me",
+    "title": "My Ancestors Are Watching Me",
+    "url": "https://azorafly.com/series/my-ancestors-are-watching-me",
+    "cover_url": "https://storage.azorafly.com/upload/series/featured/55ecc86a-e082-44c7-bea8-675703397a95/bfac58d4-4382-4500-874d-788cb6f935d9.jpg",
+    "type": "مانهوا",
+    "status": "مستمر",
+    "rating": "10.0",
+    "total_chapters": 19,
+    "genres": [
+      "خارق للطبيعة",
+      "غموض",
+      "فانتازيا",
+      "رومانسي"
+    ]
+  },
+  {
+    "id": "i'm-a-young-system-won't-you-raise-m",
+    "title": "I'm a Young system, Won't You Raise Me?",
+    "url": "https://azorafly.com/series/i'm-a-young-system-won't-you-raise-m",
+    "cover_url": "https://storage.azorafly.com/upload/series/featured/a5vVlSc5huft2AzUyK1VxgKh1ckCWLbZ/d835862c-ace4-49d0-be46-73385cb1ad7a.jpg",
+    "type": "رواية",
+    "status": "مستمر",
+    "rating": "10.0",
+    "total_chapters": 178,
+    "genres": [
+      "لعبة",
+      "كواكب",
+      "ذكاء اصطناعي",
+      "غموض",
+      "بدون تجسيد",
+      "خيال",
+      "نظام",
+      "أكشن",
+      "رعب",
+      "دراما"
+    ]
+  },
+  {
+    "id": "when-i-married-the-impotent-duke-i-wanted-to-protect-the-child",
+    "title": "When I Married The Impotent Duke I Wanted To Protect The Child",
+    "url": "https://azorafly.com/series/when-i-married-the-impotent-duke-i-wanted-to-protect-the-child",
+    "cover_url": "https://storage.azorafly.com/upload/series/featured/02408b52-85d5-445d-9e5c-f7dbcd583bf8/ae2f280b-b6e3-4440-ac53-fd1150ee5d9a.webp",
+    "type": "مانهوا",
+    "status": "مستمر",
+    "rating": "10.0",
+    "total_chapters": 25,
+    "genres": [
+      "رومانسى",
+      "اطفال",
+      "خيال",
+      "دراما"
+    ]
+  },
+  {
+    "id": "the-dark-magician-transmigrates-after-66666-years",
+    "title": "The Dark Magician Transmigrates After 66666 Years",
+    "url": "https://azorafly.com/series/the-dark-magician-transmigrates-after-66666-years",
+    "cover_url": "https://storage.azorafly.com/2021/06/6666666666_dark.png",
+    "type": "مانهوا",
+    "status": "مستمر",
+    "rating": "8.9",
+    "total_chapters": 202,
+    "genres": [
+      "اسبوعي",
+      "إثارة",
+      "مميز",
+      "إعادة إحياء",
+      "سحر",
+      "تاريخي",
+      "خيال",
+      "أكشن"
+    ]
+  },
+  {
+    "id": "how-to-survive-as-the-daughter-of-the-emperor-who-killed-me",
+    "title": "How to Survive as the Daughter of the Emperor Who Killed Me",
+    "url": "https://azorafly.com/series/how-to-survive-as-the-daughter-of-the-emperor-who-killed-me",
+    "cover_url": "https://storage.azorafly.com/upload/series/featured/oGmL0DQZ16QInTPaeDKwFEK9ryegoy88/3bf27164-7e44-4dc3-9bb9-398358a626a5.jpg",
+    "type": "مانهوا",
+    "status": "مستمر",
+    "rating": "8.4",
+    "total_chapters": 47,
+    "genres": [
+      "انتقام",
+      "دراما",
+      "رومانسي",
+      "خيال"
+    ]
+  },
+  {
+    "id": "i-bought-the-villains-with-money",
+    "title": "I Bought the Villains With Money",
+    "url": "https://azorafly.com/series/i-bought-the-villains-with-money",
+    "cover_url": "https://storage.azorafly.com/upload/series/featured/oGmL0DQZ16QInTPaeDKwFEK9ryegoy88/7f0b297e-58ee-4d90-8b19-fcd64a399611.jpg",
+    "type": "مانهوا",
+    "total_chapters": 21,
+    "genres": [
+      "خيالي",
+      "رومانسى",
+      "دراما شوجو"
+    ],
+    "status": "مستمر",
+    "rating": "9.8"
+  },
+  {
+    "id": "the-mansion-awaits-spring1",
+    "title": "The Mansion Awaits Spring",
+    "url": "https://azorafly.com/series/the-mansion-awaits-spring1",
+    "cover_url": "https://storage.azorafly.com/upload/series/featured/oGmL0DQZ16QInTPaeDKwFEK9ryegoy88/0de2c6d0-6cbf-4d9f-91e7-afcf3da209e2.webp",
+    "type": "مانهوا",
+    "status": "مستمر",
+    "rating": "7.6",
+    "total_chapters": 38,
+    "genres": [
+      "انتقام",
+      "شوجو",
+      "رومانسي"
+    ]
+  },
+  {
+    "id": "high-society",
+    "title": "High Society",
+    "url": "https://azorafly.com/series/high-society",
+    "cover_url": "https://storage.azorafly.com/2024/04/DM_20250410223923_001.jpg",
+    "type": "مانهوا",
+    "status": "مستمر",
+    "rating": "4.8",
+    "total_chapters": 101,
+    "genres": [
+      "دراما",
+      "رومانسي",
+      "خيال"
     ]
   },
   {
@@ -4320,22 +4384,6 @@
     ]
   },
   {
-    "id": "when-i-married-the-impotent-duke-i-wanted-to-protect-the-child",
-    "title": "When I Married The Impotent Duke I Wanted To Protect The Child",
-    "url": "https://azorafly.com/series/when-i-married-the-impotent-duke-i-wanted-to-protect-the-child",
-    "cover_url": "https://storage.azorafly.com/upload/series/featured/02408b52-85d5-445d-9e5c-f7dbcd583bf8/ae2f280b-b6e3-4440-ac53-fd1150ee5d9a.webp",
-    "type": "مانهوا",
-    "status": "مستمر",
-    "rating": "10.0",
-    "total_chapters": 24,
-    "genres": [
-      "رومانسى",
-      "اطفال",
-      "خيال",
-      "دراما"
-    ]
-  },
-  {
     "id": "the-101st-love-confession",
     "title": "The 101st Love Confession",
     "url": "https://azorafly.com/series/the-101st-love-confession",
@@ -5110,20 +5158,6 @@
     ]
   },
   {
-    "id": "marquis-maron",
-    "title": "Marquis Maron",
-    "url": "https://azorafly.com/series/marquis-maron",
-    "cover_url": "https://storage.azorafly.com/upload/series/featured/oGmL0DQZ16QInTPaeDKwFEK9ryegoy88/03c07015-1901-4e0f-977c-53fa6413c576.jpg",
-    "type": "مانهوا",
-    "status": "مستمر",
-    "rating": "9.1",
-    "total_chapters": 56,
-    "genres": [
-      "رومانسي",
-      "دراما"
-    ]
-  },
-  {
     "id": "its-a-rabbit-anyone-can-see-that-its-a-beast",
     "title": "It's a rabbit. Anyone can see that it's a beast",
     "url": "https://azorafly.com/series/its-a-rabbit-anyone-can-see-that-its-a-beast",
@@ -5323,24 +5357,6 @@
       "انتقام",
       "رومانسي",
       "دراما"
-    ]
-  },
-  {
-    "id": "the-villainss-favourite-is-me",
-    "title": "The Villains's Favourite is Me",
-    "url": "https://azorafly.com/series/the-villainss-favourite-is-me",
-    "cover_url": "https://storage.azorafly.com/upload/series/featured/a5vVlSc5huft2AzUyK1VxgKh1ckCWLbZ/6ab6b6c4-dd46-4a88-9179-f2766bd8fb33.jpg",
-    "type": "مانهوا",
-    "status": "مستمر",
-    "rating": "9.5",
-    "total_chapters": 97,
-    "genres": [
-      "عائلي",
-      "هوس",
-      "سحر",
-      "كوميدي",
-      "خيال",
-      "رومانسي"
     ]
   },
   {
@@ -36392,23 +36408,6 @@
       "كوميدي",
       "خيال",
       "تجسيد"
-    ]
-  },
-  {
-    "id": "my-ancestors-are-watching-me",
-    "title": "My Ancestors Are Watching Me",
-    "url": "https://azorafly.com/series/my-ancestors-are-watching-me",
-    "cover_url": "https://storage.azorafly.com/upload/series/featured/55ecc86a-e082-44c7-bea8-675703397a95/bfac58d4-4382-4500-874d-788cb6f935d9.jpg",
-    "type": "مانهوا",
-    "status": "مستمر",
-    "rating": "9.5",
-    "total_chapters": 15,
-    "genres": [
-      "أكشن",
-      "خارق للطبيعة",
-      "فانتازيا",
-      "غموض",
-      "رومانسي"
     ]
   },
   {
