@@ -9,11 +9,38 @@
   "rating": "10.0",
   "genres": [
     "رومانسى",
-    "دراما",
-    "كوميدي"
+    "كوميدي",
+    "دراما"
   ],
   "is_novel": false,
   "chapters": {
+    "https://azorafly.com/series/the-imperial-maiden/chapter-42": {
+      "name": "42"
+    },
+    "https://azorafly.com/series/the-imperial-maiden/chapter-41": {
+      "name": "41"
+    },
+    "https://azorafly.com/series/the-imperial-maiden/chapter-40": {
+      "name": "40"
+    },
+    "https://azorafly.com/series/the-imperial-maiden/chapter-39": {
+      "name": "39"
+    },
+    "https://azorafly.com/series/the-imperial-maiden/chapter-38": {
+      "name": "38"
+    },
+    "https://azorafly.com/series/the-imperial-maiden/chapter-37": {
+      "name": "37"
+    },
+    "https://azorafly.com/series/the-imperial-maiden/chapter-36": {
+      "name": "36"
+    },
+    "https://azorafly.com/series/the-imperial-maiden/chapter-35": {
+      "name": "35"
+    },
+    "https://azorafly.com/series/the-imperial-maiden/chapter-34": {
+      "name": "34"
+    },
     "https://azorafly.com/series/the-imperial-maiden/chapter-33": {
       "name": "33"
     },

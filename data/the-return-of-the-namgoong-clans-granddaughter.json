@@ -10,13 +10,16 @@
   "genres": [
     "خيالي",
     "عائلي",
-    "انتقام",
     "مغامرات",
     "تاريخي",
+    "انتقام",
     "رومانسي"
   ],
   "is_novel": false,
   "chapters": {
+    "https://azorafly.com/series/the-return-of-the-namgoong-clans-granddaughter/chapter-59": {
+      "name": "59"
+    },
     "https://azorafly.com/series/the-return-of-the-namgoong-clans-granddaughter/chapter-58": {
       "name": "58"
     },

@@ -987,25 +987,6 @@
     "status": "مكتمل"
   },
   {
-    "id": "خالد العوالم التسعة",
-    "title": "خالد العوالم التسعة",
-    "url": "https://kolnovel.com/series/%d8%ae%d8%a7%d9%84%d8%af-%d8%a7%d9%84%d8%b9%d9%88%d8%a7%d9%84%d9%85-%d8%a7%d9%84%d8%aa%d8%b3%d8%b9%d8%a9",
-    "cover_url": "https://kolnovel.com/wp-content/uploads/2026/05/113296.png",
-    "type": "رواية",
-    "is_novel": true,
-    "rating": "8.5",
-    "total_chapters": 84,
-    "genres": [
-      "أكشن",
-      "خيال",
-      "دراما",
-      "شوانهوان",
-      "شيانشيا",
-      "فنون قتال"
-    ],
-    "status": "مستمر"
-  },
-  {
     "id": "شيريتوري",
     "title": "شيريتوري",
     "url": "https://kolnovel.com/series/%d8%b4%d9%8a%d8%b1%d9%8a%d8%aa%d9%88%d8%b1%d9%8a",
@@ -1029,7 +1010,7 @@
     "cover_url": "https://kolnovel.com/wp-content/uploads/2025/11/Picsart_25-11-27_16-28-47-925.jpg",
     "type": "رواية",
     "is_novel": true,
-    "rating": "",
+    "rating": "8.0",
     "total_chapters": 175,
     "genres": [
       "خارق للطبيعة",
@@ -1112,27 +1093,6 @@
       "عسكرية",
       "كوميديا",
       "مغامرة"
-    ],
-    "status": "مستمر"
-  },
-  {
-    "id": "اتضح أنني من عشيرة الأشرار!",
-    "title": "اتضح أنني من عشيرة الأشرار!",
-    "url": "https://kolnovel.com/series/%d8%a7%d8%aa%d8%b6%d8%ad-%d8%a3%d9%86%d9%86%d9%8a-%d9%85%d9%86-%d8%b9%d8%b4%d9%8a%d8%b1%d8%a9-%d8%a7%d9%84%d8%a3%d8%b4%d8%b1%d8%a7%d8%b1",
-    "cover_url": "https://kolnovel.com/wp-content/uploads/2026/05/GIF-260606_171205.gif",
-    "type": "رواية",
-    "is_novel": true,
-    "rating": "4.5",
-    "total_chapters": 364,
-    "genres": [
-      "إنتقام",
-      "بطل شرير",
-      "بناء مملكة",
-      "تدريب",
-      "حروب",
-      "دموي",
-      "مكر و خداع",
-      "نظام"
     ],
     "status": "مستمر"
   },
@@ -1419,6 +1379,46 @@
       "كوميديا",
       "مغامرة",
       "ناضج"
+    ],
+    "status": "مستمر"
+  },
+  {
+    "id": "خالد العوالم التسعة",
+    "title": "خالد العوالم التسعة",
+    "url": "https://kolnovel.com/series/%d8%ae%d8%a7%d9%84%d8%af-%d8%a7%d9%84%d8%b9%d9%88%d8%a7%d9%84%d9%85-%d8%a7%d9%84%d8%aa%d8%b3%d8%b9%d8%a9",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2026/05/113296.png",
+    "type": "رواية",
+    "is_novel": true,
+    "rating": "4.0",
+    "total_chapters": 85,
+    "genres": [
+      "أكشن",
+      "خيال",
+      "دراما",
+      "شوانهوان",
+      "شيانشيا",
+      "فنون قتال"
+    ],
+    "status": "مستمر"
+  },
+  {
+    "id": "اتضح أنني من عشيرة الأشرار!",
+    "title": "اتضح أنني من عشيرة الأشرار!",
+    "url": "https://kolnovel.com/series/%d8%a7%d8%aa%d8%b6%d8%ad-%d8%a3%d9%86%d9%86%d9%8a-%d9%85%d9%86-%d8%b9%d8%b4%d9%8a%d8%b1%d8%a9-%d8%a7%d9%84%d8%a3%d8%b4%d8%b1%d8%a7%d8%b1",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2026/05/GIF-260606_171205.gif",
+    "type": "رواية",
+    "is_novel": true,
+    "rating": "4.5",
+    "total_chapters": 367,
+    "genres": [
+      "إنتقام",
+      "بطل شرير",
+      "بناء مملكة",
+      "تدريب",
+      "حروب",
+      "دموي",
+      "مكر و خداع",
+      "نظام"
     ],
     "status": "مستمر"
   },
