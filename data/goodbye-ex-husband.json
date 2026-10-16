@@ -9,11 +9,14 @@
   "rating": "10.0",
   "genres": [
     "فنتازيا",
-    "دراما",
-    "رومانسي"
+    "رومانسي",
+    "دراما"
   ],
   "is_novel": false,
   "chapters": {
+    "https://azorafly.com/series/goodbye-ex-husband/chapter-81": {
+      "name": "81"
+    },
     "https://azorafly.com/series/goodbye-ex-husband/chapter-80": {
       "name": "80"
     },

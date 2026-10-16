@@ -6,16 +6,19 @@
   "type": "مانهوا",
   "status": "مستمر",
   "last_update": "2026-09-16",
-  "rating": "9.2",
+  "rating": "9.4",
   "genres": [
     "الحياة اليومية",
     "مغامرات",
-    "كوميدي",
+    "خيال",
     "رومانسي",
-    "خيال"
+    "كوميدي"
   ],
   "is_novel": false,
   "chapters": {
+    "https://azorafly.com/series/surviving-as-a-servant-of-the-sichundang-clan/chapter-49": {
+      "name": "49"
+    },
     "https://azorafly.com/series/surviving-as-a-servant-of-the-sichundang-clan/chapter-48": {
       "name": "48"
     },

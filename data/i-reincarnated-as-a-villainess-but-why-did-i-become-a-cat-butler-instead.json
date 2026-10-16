@@ -9,14 +9,17 @@
   "rating": "8.8",
   "genres": [
     "تجسد",
-    "كوميدي",
+    "إعادة إحياء",
     "شوجو",
-    "رومانسي",
     "خيال",
-    "إعادة إحياء"
+    "رومانسي",
+    "كوميدي"
   ],
   "is_novel": false,
   "chapters": {
+    "https://azorafly.com/series/i-reincarnated-as-a-villainess-but-why-did-i-become-a-cat-butler-instead/chapter-99": {
+      "name": "99"
+    },
     "https://azorafly.com/series/i-reincarnated-as-a-villainess-but-why-did-i-become-a-cat-butler-instead/chapter-98": {
       "name": "98"
     },
