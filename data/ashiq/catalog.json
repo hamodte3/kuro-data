@@ -953,27 +953,6 @@
     ]
   },
   {
-    "id": "kingdom-2",
-    "title": "Kingdom (WAN)",
-    "url": "https://3asq.online/manga/kingdom-2",
-    "cover_url": "https://3asq.online/wp-content/uploads/2024/03/0cover-175x238.jpg",
-    "type": "مانغا",
-    "rating": "4.7",
-    "genres": [
-      "أكشن",
-      "تاريخ",
-      "حرب",
-      "دراما",
-      "سينين",
-      "عسكرية",
-      "عنف",
-      "فنون قتالية",
-      "مأساة"
-    ],
-    "status": "مستمر",
-    "total_chapters": 389
-  },
-  {
     "id": "tower-of-god-s3-2",
     "title": "Tower Of God s3",
     "url": "https://3asq.online/manga/tower-of-god-s3-2",
@@ -1242,6 +1221,27 @@
       "فنون قتالية",
       "مأساة"
     ]
+  },
+  {
+    "id": "kingdom-2",
+    "title": "Kingdom (WAN)",
+    "url": "https://3asq.online/manga/kingdom-2",
+    "cover_url": "https://3asq.online/wp-content/uploads/2024/03/0cover-175x238.jpg",
+    "type": "مانغا",
+    "rating": "4.7",
+    "genres": [
+      "أكشن",
+      "تاريخ",
+      "حرب",
+      "دراما",
+      "سينين",
+      "عسكرية",
+      "عنف",
+      "فنون قتالية",
+      "مأساة"
+    ],
+    "status": "مستمر",
+    "total_chapters": 390
   },
   {
     "id": "naruto-digital-colored",

@@ -10,11 +10,14 @@
   "genres": [
     "اكشن",
     "مغامرات",
-    "غموض",
-    "دراما"
+    "دراما",
+    "غموض"
   ],
   "is_novel": false,
   "chapters": {
+    "https://azorafly.com/series/got-dropped-into-a-horror-story-still-gotta-work/chapter-40": {
+      "name": "40"
+    },
     "https://azorafly.com/series/got-dropped-into-a-horror-story-still-gotta-work/chapter-39": {
       "name": "39"
     },

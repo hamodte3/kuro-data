@@ -1,67 +1,5 @@
 [
   {
-    "id": "a-ghostly-song",
-    "title": "A Ghostly Song",
-    "url": "https://azorafly.com/series/a-ghostly-song",
-    "cover_url": "https://storage.azorafly.com/upload/series/featured/a5vVlSc5huft2AzUyK1VxgKh1ckCWLbZ/795a4dcb-d26d-4359-94cf-ec3ed28285d6.jpg",
-    "type": "مانهوا",
-    "status": "مستمر",
-    "rating": "9.7",
-    "total_chapters": 70,
-    "genres": [
-      "نفسي",
-      "تشويق",
-      "أكشن",
-      "رعب"
-    ]
-  },
-  {
-    "id": "embarrassing-game",
-    "title": "Embarrassing game",
-    "url": "https://azorafly.com/series/embarrassing-game",
-    "cover_url": "https://storage.azorafly.com/upload/series/featured/02408b52-85d5-445d-9e5c-f7dbcd583bf8/fb3c9afe-6674-4259-bd2d-970d402fd27e.jpg",
-    "type": "مانهوا",
-    "status": "مستمر",
-    "rating": "10.0",
-    "total_chapters": 42,
-    "genres": [
-      "حياة مدرسية",
-      "اثارة",
-      "غموض"
-    ]
-  },
-  {
-    "id": "dont-tame-it-carelessly",
-    "title": "Don't Tame It Carelessly!",
-    "url": "https://azorafly.com/series/dont-tame-it-carelessly",
-    "cover_url": "https://storage.azorafly.com/public/upload/2026/01/07/d04960aa-727d-494a-85cb-f49881e5bc9e.webp",
-    "type": "مانهوا",
-    "status": "مستمر",
-    "rating": "9.6",
-    "total_chapters": 47,
-    "genres": [
-      "رومانسي",
-      "خيال"
-    ]
-  },
-  {
-    "id": "black-haze-remake",
-    "title": "Black haze [Remake]",
-    "url": "https://azorafly.com/series/black-haze-remake",
-    "cover_url": "https://storage.azorafly.com/public/upload/2026/01/29/918b2c1a-4978-4715-b901-d51261d368a4.webp",
-    "type": "مانهوا",
-    "status": "مستمر",
-    "rating": "9.6",
-    "total_chapters": 94,
-    "genres": [
-      "مغامرة",
-      "كوميدي",
-      "أكشن",
-      "دراما",
-      "خيال"
-    ]
-  },
-  {
     "id": "now-it's-your-turn-to-regret",
     "title": "Now It’s Your Turn To Regret",
     "url": "https://azorafly.com/series/now-it's-your-turn-to-regret",
@@ -1149,24 +1087,6 @@
       "دراما",
       "رومانسي"
     ]
-  },
-  {
-    "id": "my-husband-needs-to-die-soon",
-    "title": "My Husband Needs To Die Soon",
-    "url": "https://azorafly.com/series/my-husband-needs-to-die-soon",
-    "cover_url": "https://storage.azorafly.com/upload/series/featured/a5vVlSc5huft2AzUyK1VxgKh1ckCWLbZ/4c53190a-8f86-4745-b2df-b08db5c2cbb4.jpg",
-    "type": "رواية",
-    "total_chapters": 24,
-    "genres": [
-      "هوس",
-      "من أعداء لأحباء",
-      "تجسيد",
-      "كوميدي",
-      "رومانسي",
-      "علاقة تعاقدية"
-    ],
-    "status": "مستمر",
-    "rating": "7.0"
   },
   {
     "id": "i-saved-you-but-im-not-responsible",
@@ -2995,10 +2915,10 @@
     "rating": "7.6",
     "total_chapters": 48,
     "genres": [
-      "رومانسي",
       "خيال",
       "انتقام",
-      "دراما"
+      "دراما",
+      "رومانسي"
     ]
   },
   {
@@ -3011,11 +2931,11 @@
     "rating": "10.0",
     "total_chapters": 70,
     "genres": [
-      "بدون تجسيد",
+      "خيال",
+      "دراما",
       "رومانسي",
       "كوميدي",
-      "خيال",
-      "دراما"
+      "بدون تجسيد"
     ]
   },
   {
@@ -3042,11 +2962,11 @@
     "rating": "10.0",
     "total_chapters": 30,
     "genres": [
-      "بدون تجسيد",
-      "رومانسي",
       "تاريخي",
       "كوميدي",
-      "دراما"
+      "دراما",
+      "رومانسي",
+      "بدون تجسيد"
     ]
   },
   {
@@ -3077,8 +2997,8 @@
     "rating": "9.1",
     "total_chapters": 146,
     "genres": [
-      "شوجو",
       "سحر",
+      "شوجو",
       "رومانسي"
     ]
   },
@@ -3140,10 +3060,10 @@
     "genres": [
       "خيالي",
       "شوجو",
-      "كوميدي",
       "تشويق",
       "رومانسي",
-      "دراما"
+      "دراما",
+      "كوميدي"
     ]
   },
   {
@@ -3156,12 +3076,12 @@
     "rating": "8.8",
     "total_chapters": 185,
     "genres": [
-      "رومانسي",
       "تاريخي",
       "خيال",
       "تجسيد",
       "كوميدي",
-      "دراما"
+      "دراما",
+      "رومانسي"
     ]
   },
   {
@@ -3181,12 +3101,60 @@
     ]
   },
   {
+    "id": "the-villainess-captured-the-male-lead",
+    "title": "The Villainess Captured the Male Lead",
+    "url": "https://azorafly.com/series/the-villainess-captured-the-male-lead",
+    "cover_url": "https://storage.azorafly.com/2024/02/The-Villainess-Captured-the-Male-Lead.jpeg",
+    "type": "مانهوا",
+    "status": "مستمر",
+    "rating": "10.0",
+    "total_chapters": 128,
+    "genres": [
+      "شوجو",
+      "خيال",
+      "رومانسي",
+      "كوميدي"
+    ]
+  },
+  {
+    "id": "the-counts-secret-maid",
+    "title": "The Count's Secret Maid",
+    "url": "https://azorafly.com/series/the-counts-secret-maid",
+    "cover_url": "https://storage.azorafly.com/upload/series/featured/a5vVlSc5huft2AzUyK1VxgKh1ckCWLbZ/80cad67b-9a0e-413a-8217-d3caa458c81a.jpg",
+    "type": "مانهوا",
+    "status": "مستمر",
+    "rating": "9.3",
+    "total_chapters": 111,
+    "genres": [
+      "خيال",
+      "رومانسي",
+      "دراما",
+      "غموض"
+    ]
+  },
+  {
+    "id": "got-dropped-into-a-horror-story-still-gotta-work",
+    "title": "Got Dropped into a Horror Story, Still Gotta Work",
+    "url": "https://azorafly.com/series/got-dropped-into-a-horror-story-still-gotta-work",
+    "cover_url": "https://storage.azorafly.com/upload/series/featured/02408b52-85d5-445d-9e5c-f7dbcd583bf8/1f4366f2-5be4-42fa-b794-ecba05839168.jpeg",
+    "type": "مانهوا",
+    "status": "مستمر",
+    "rating": "9.9",
+    "total_chapters": 42,
+    "genres": [
+      "اكشن",
+      "مغامرات",
+      "دراما",
+      "غموض"
+    ]
+  },
+  {
     "id": "im-the-male-leads-biological-daughter-but-i-want-to-live-with-the-second-male-lead",
     "title": "I’m The Male Lead’s Biological Daughter, But I Want To Live With The Second Male Lead!",
     "url": "https://azorafly.com/series/im-the-male-leads-biological-daughter-but-i-want-to-live-with-the-second-male-lead",
     "cover_url": "https://storage.azorafly.com/upload/series/featured/02408b52-85d5-445d-9e5c-f7dbcd583bf8/10e73c4f-b16d-4097-9bd3-4496c646274c.jpg",
     "type": "مانهوا",
-    "total_chapters": 20,
+    "total_chapters": 21,
     "genres": [
       "رومانسى",
       "كوميدي",
@@ -3194,7 +3162,122 @@
       "دراما"
     ],
     "status": "مستمر",
+    "rating": "9.0"
+  },
+  {
+    "id": "i-became-the-daughter-of-a-worthless-duke",
+    "title": "I Became the Daughter of a Worthless Duke",
+    "url": "https://azorafly.com/series/i-became-the-daughter-of-a-worthless-duke",
+    "cover_url": "https://storage.azorafly.com/upload/series/featured/gXgURMWDiDJ221UEUfe7aZFaAE1PF9X1/5daf3369-420f-4336-809d-11893e24460a.jpg",
+    "type": "رواية",
+    "total_chapters": 31,
+    "genres": [
+      "عائلي",
+      "سحر",
+      "غموض",
+      "رومانسي",
+      "رعاية أطفال",
+      "عودة بالزمن",
+      "كوميدي",
+      "بدون تجسيد"
+    ],
+    "status": "مستمر",
     "rating": "10.0"
+  },
+  {
+    "id": "my-husband-needs-to-die-soon",
+    "title": "My Husband Needs To Die Soon",
+    "url": "https://azorafly.com/series/my-husband-needs-to-die-soon",
+    "cover_url": "https://storage.azorafly.com/upload/series/featured/a5vVlSc5huft2AzUyK1VxgKh1ckCWLbZ/4c53190a-8f86-4745-b2df-b08db5c2cbb4.jpg",
+    "type": "رواية",
+    "total_chapters": 28,
+    "genres": [
+      "هوس",
+      "من أعداء لأحباء",
+      "تجسيد",
+      "رومانسي",
+      "كوميدي",
+      "علاقة تعاقدية"
+    ],
+    "status": "مستمر",
+    "rating": "7.0"
+  },
+  {
+    "id": "dont-worry-we-both-agreed-to-this-fraudulent-marriage",
+    "title": "Don’t Worry, We Both Agreed to this Fraudulent Marriage",
+    "url": "https://azorafly.com/series/dont-worry-we-both-agreed-to-this-fraudulent-marriage",
+    "cover_url": "https://storage.azorafly.com/public/upload/2026/01/11/1a49cfa3-8ae9-4046-8b20-6071bfa6a09d.webp",
+    "type": "مانهوا",
+    "status": "مستمر",
+    "rating": "9.9",
+    "total_chapters": 82,
+    "genres": [
+      "رومانسي",
+      "كوميدي",
+      "دراما"
+    ]
+  },
+  {
+    "id": "a-ghostly-song",
+    "title": "A Ghostly Song",
+    "url": "https://azorafly.com/series/a-ghostly-song",
+    "cover_url": "https://storage.azorafly.com/upload/series/featured/a5vVlSc5huft2AzUyK1VxgKh1ckCWLbZ/795a4dcb-d26d-4359-94cf-ec3ed28285d6.jpg",
+    "type": "مانهوا",
+    "status": "مستمر",
+    "rating": "9.7",
+    "total_chapters": 70,
+    "genres": [
+      "نفسي",
+      "تشويق",
+      "أكشن",
+      "رعب"
+    ]
+  },
+  {
+    "id": "embarrassing-game",
+    "title": "Embarrassing game",
+    "url": "https://azorafly.com/series/embarrassing-game",
+    "cover_url": "https://storage.azorafly.com/upload/series/featured/02408b52-85d5-445d-9e5c-f7dbcd583bf8/fb3c9afe-6674-4259-bd2d-970d402fd27e.jpg",
+    "type": "مانهوا",
+    "status": "مستمر",
+    "rating": "10.0",
+    "total_chapters": 42,
+    "genres": [
+      "حياة مدرسية",
+      "اثارة",
+      "غموض"
+    ]
+  },
+  {
+    "id": "dont-tame-it-carelessly",
+    "title": "Don't Tame It Carelessly!",
+    "url": "https://azorafly.com/series/dont-tame-it-carelessly",
+    "cover_url": "https://storage.azorafly.com/public/upload/2026/01/07/d04960aa-727d-494a-85cb-f49881e5bc9e.webp",
+    "type": "مانهوا",
+    "status": "مستمر",
+    "rating": "9.6",
+    "total_chapters": 47,
+    "genres": [
+      "رومانسي",
+      "خيال"
+    ]
+  },
+  {
+    "id": "black-haze-remake",
+    "title": "Black haze [Remake]",
+    "url": "https://azorafly.com/series/black-haze-remake",
+    "cover_url": "https://storage.azorafly.com/public/upload/2026/01/29/918b2c1a-4978-4715-b901-d51261d368a4.webp",
+    "type": "مانهوا",
+    "status": "مستمر",
+    "rating": "9.6",
+    "total_chapters": 94,
+    "genres": [
+      "مغامرة",
+      "كوميدي",
+      "أكشن",
+      "دراما",
+      "خيال"
+    ]
   },
   {
     "id": "i'm-a-sickly-mother-but-i'll-raise-my-villainous-son!",
@@ -4984,38 +5067,6 @@
     ]
   },
   {
-    "id": "the-counts-secret-maid",
-    "title": "The Count's Secret Maid",
-    "url": "https://azorafly.com/series/the-counts-secret-maid",
-    "cover_url": "https://storage.azorafly.com/upload/series/featured/a5vVlSc5huft2AzUyK1VxgKh1ckCWLbZ/80cad67b-9a0e-413a-8217-d3caa458c81a.jpg",
-    "type": "مانهوا",
-    "status": "مستمر",
-    "rating": "9.4",
-    "total_chapters": 110,
-    "genres": [
-      "غموض",
-      "دراما",
-      "رومانسي",
-      "خيال"
-    ]
-  },
-  {
-    "id": "got-dropped-into-a-horror-story-still-gotta-work",
-    "title": "Got Dropped into a Horror Story, Still Gotta Work",
-    "url": "https://azorafly.com/series/got-dropped-into-a-horror-story-still-gotta-work",
-    "cover_url": "https://storage.azorafly.com/upload/series/featured/02408b52-85d5-445d-9e5c-f7dbcd583bf8/1f4366f2-5be4-42fa-b794-ecba05839168.jpeg",
-    "type": "مانهوا",
-    "status": "مستمر",
-    "rating": "9.9",
-    "total_chapters": 41,
-    "genres": [
-      "اكشن",
-      "مغامرات",
-      "غموض",
-      "دراما"
-    ]
-  },
-  {
     "id": "sorry-im-a-face-con",
     "title": "Sorry, I'm a Face Con",
     "url": "https://azorafly.com/series/sorry-im-a-face-con",
@@ -6711,22 +6762,6 @@
     "genres": [
       "رومانسي",
       "فانتازيا"
-    ]
-  },
-  {
-    "id": "the-villainess-captured-the-male-lead",
-    "title": "The Villainess Captured the Male Lead",
-    "url": "https://azorafly.com/series/the-villainess-captured-the-male-lead",
-    "cover_url": "https://storage.azorafly.com/2024/02/The-Villainess-Captured-the-Male-Lead.jpeg",
-    "type": "مانهوا",
-    "status": "مستمر",
-    "rating": "10.0",
-    "total_chapters": 127,
-    "genres": [
-      "خيال",
-      "كوميدي",
-      "شوجو",
-      "رومانسي"
     ]
   },
   {
@@ -36445,22 +36480,6 @@
       "أكشن",
       "اكشن",
       "رعب"
-    ]
-  },
-  {
-    "id": "dont-worry-we-both-agreed-to-this-fraudulent-marriage",
-    "title": "Don’t Worry, We Both Agreed to this Fraudulent Marriage",
-    "url": "https://azorafly.com/series/dont-worry-we-both-agreed-to-this-fraudulent-marriage",
-    "cover_url": "https://storage.azorafly.com/public/upload/2026/01/11/1a49cfa3-8ae9-4046-8b20-6071bfa6a09d.webp",
-    "type": "مانهوا",
-    "status": "مستمر",
-    "rating": "9.5",
-    "total_chapters": 80,
-    "genres": [
-      "أكشن",
-      "دراما",
-      "رومانسي",
-      "كوميدي"
     ]
   },
   {
