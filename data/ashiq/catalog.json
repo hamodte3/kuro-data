@@ -972,21 +972,6 @@
     ]
   },
   {
-    "id": "lookism_fedaa-chan",
-    "title": "Lookism",
-    "url": "https://3asq.online/manga/lookism_fedaa-chan",
-    "cover_url": "https://3asq.online/wp-content/uploads/2026/03/large_Picsart_23-12-24_10-11-07-103-2-175x238.webp",
-    "type": "مانهوا",
-    "rating": "4.5",
-    "status": "مستمر",
-    "total_chapters": 33,
-    "genres": [
-      "أكشن",
-      "فنون قتالية",
-      "مدرسة"
-    ]
-  },
-  {
     "id": "kingdom-2",
     "title": "Kingdom (WAN)",
     "url": "https://3asq.online/manga/kingdom-2",
@@ -1061,24 +1046,6 @@
       "نفسي"
     ],
     "status": "مكتمل"
-  },
-  {
-    "id": "kimi-wa-yotsuba-no-clover",
-    "title": "Kimi wa Yotsuba no Clover",
-    "url": "https://3asq.online/manga/kimi-wa-yotsuba-no-clover",
-    "cover_url": "https://3asq.online/wp-content/uploads/2025/08/HSKYeK8a8AAmWyu-175x238.jpg",
-    "type": "مانغا",
-    "rating": "4.2",
-    "status": "مستمر",
-    "total_chapters": 105,
-    "genres": [
-      "اضطهاد",
-      "دراما",
-      "سينين",
-      "عنف",
-      "غموض",
-      "مأساة"
-    ]
   },
   {
     "id": "baki-rahen",
@@ -1166,20 +1133,6 @@
     ]
   },
   {
-    "id": "island-rock",
-    "title": "Island rock",
-    "url": "https://3asq.online/manga/island-rock",
-    "cover_url": "https://3asq.online/wp-content/uploads/2026/10/i529531-175x238.jpg",
-    "type": "مانغا",
-    "rating": "1.0",
-    "total_chapters": 11,
-    "genres": [
-      "شريحة من الحياة",
-      "شونين"
-    ],
-    "status": "مستمر"
-  },
-  {
     "id": "enigmatica",
     "title": "Enigmatica",
     "url": "https://3asq.online/manga/enigmatica",
@@ -1241,6 +1194,53 @@
       "قوى خارقة",
       "كوميديا",
       "مغامرة"
+    ]
+  },
+  {
+    "id": "lookism_fedaa-chan",
+    "title": "Lookism",
+    "url": "https://3asq.online/manga/lookism_fedaa-chan",
+    "cover_url": "https://3asq.online/wp-content/uploads/2026/03/large_Picsart_23-12-24_10-11-07-103-2-175x238.webp",
+    "type": "مانهوا",
+    "rating": "4.5",
+    "status": "مستمر",
+    "total_chapters": 34,
+    "genres": [
+      "أكشن",
+      "فنون قتالية",
+      "مدرسة"
+    ]
+  },
+  {
+    "id": "island-rock",
+    "title": "Island rock",
+    "url": "https://3asq.online/manga/island-rock",
+    "cover_url": "https://3asq.online/wp-content/uploads/2026/10/i529531-175x238.jpg",
+    "type": "مانغا",
+    "rating": "1.0",
+    "total_chapters": 12,
+    "genres": [
+      "شريحة من الحياة",
+      "شونين"
+    ],
+    "status": "مستمر"
+  },
+  {
+    "id": "kimi-wa-yotsuba-no-clover",
+    "title": "Kimi wa Yotsuba no Clover",
+    "url": "https://3asq.online/manga/kimi-wa-yotsuba-no-clover",
+    "cover_url": "https://3asq.online/wp-content/uploads/2025/08/HSKYeK8a8AAmWyu-175x238.jpg",
+    "type": "مانغا",
+    "rating": "4.2",
+    "status": "مستمر",
+    "total_chapters": 106,
+    "genres": [
+      "اضطهاد",
+      "دراما",
+      "سينين",
+      "عنف",
+      "غموض",
+      "مأساة"
     ]
   },
   {
