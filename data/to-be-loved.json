@@ -8,11 +8,14 @@
   "last_update": "2026-09-09",
   "rating": "9.8",
   "genres": [
-    "رومانسي",
-    "دراما"
+    "دراما",
+    "رومانسي"
   ],
   "is_novel": false,
   "chapters": {
+    "https://azorafly.com/series/to-be-loved/chapter-11": {
+      "name": "11"
+    },
     "https://azorafly.com/series/to-be-loved/chapter-10": {
       "name": "10"
     },
