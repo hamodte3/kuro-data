@@ -16,21 +16,6 @@
     ]
   },
   {
-    "id": "pretty-trash",
-    "title": "Pretty Trash",
-    "url": "https://azorafly.com/series/pretty-trash",
-    "cover_url": "https://storage.azorafly.com/upload/series/featured/02408b52-85d5-445d-9e5c-f7dbcd583bf8/9df99e31-d362-4a7d-bcab-6ebc53d62013.jpg",
-    "type": "مانهوا",
-    "status": "مستمر",
-    "rating": "10.0",
-    "total_chapters": 27,
-    "genres": [
-      "دراما",
-      "رومانسي",
-      "كوميدي"
-    ]
-  },
-  {
     "id": "serim's-iron-rule",
     "title": "Serim’s Iron Rule",
     "url": "https://azorafly.com/series/serim's-iron-rule",
@@ -2474,22 +2459,6 @@
     ]
   },
   {
-    "id": "how-to-turn-you-around",
-    "title": "How to Turn You Around",
-    "url": "https://azorafly.com/series/how-to-turn-you-around",
-    "cover_url": "https://storage.azorafly.com/upload/series/featured/02408b52-85d5-445d-9e5c-f7dbcd583bf8/f2d85348-9e25-4829-80ab-79d8234a4fda.png",
-    "type": "مانهوا",
-    "status": "مستمر",
-    "rating": "10.0",
-    "total_chapters": 47,
-    "genres": [
-      "رومانسى",
-      "الحياة المدرسية",
-      "شوجو",
-      "كوميدي"
-    ]
-  },
-  {
     "id": "my-contract-husband-resembles-the-male-protagonist",
     "title": "My Contract Husband Resembles the Male Protagonist",
     "url": "https://azorafly.com/series/my-contract-husband-resembles-the-male-protagonist",
@@ -2930,11 +2899,11 @@
     "total_chapters": 99,
     "genres": [
       "تجسد",
+      "كوميدي",
       "إعادة إحياء",
       "شوجو",
       "خيال",
-      "رومانسي",
-      "كوميدي"
+      "رومانسي"
     ]
   },
   {
@@ -2976,9 +2945,9 @@
     "rating": "10.0",
     "total_chapters": 81,
     "genres": [
+      "دراما",
       "فنتازيا",
-      "رومانسي",
-      "دراما"
+      "رومانسي"
     ]
   },
   {
@@ -2992,10 +2961,10 @@
     "total_chapters": 49,
     "genres": [
       "الحياة اليومية",
+      "كوميدي",
       "مغامرات",
       "خيال",
-      "رومانسي",
-      "كوميدي"
+      "رومانسي"
     ]
   },
   {
@@ -3009,10 +2978,10 @@
     "total_chapters": 45,
     "genres": [
       "خيالي",
+      "دراما",
       "شوجو",
       "تشويق",
       "رومانسي",
-      "دراما",
       "كوميدي"
     ]
   },
@@ -3026,11 +2995,11 @@
     "rating": "8.8",
     "total_chapters": 185,
     "genres": [
+      "دراما",
+      "كوميدي",
       "تاريخي",
       "خيال",
       "تجسيد",
-      "كوميدي",
-      "دراما",
       "رومانسي"
     ]
   },
@@ -3060,10 +3029,10 @@
     "rating": "10.0",
     "total_chapters": 128,
     "genres": [
+      "كوميدي",
       "شوجو",
       "خيال",
-      "رومانسي",
-      "كوميدي"
+      "رومانسي"
     ]
   },
   {
@@ -3076,9 +3045,9 @@
     "rating": "9.3",
     "total_chapters": 111,
     "genres": [
+      "دراما",
       "خيال",
       "رومانسي",
-      "دراما",
       "غموض"
     ]
   },
@@ -3093,8 +3062,8 @@
     "total_chapters": 42,
     "genres": [
       "اكشن",
-      "مغامرات",
       "دراما",
+      "مغامرات",
       "غموض"
     ]
   },
@@ -3107,9 +3076,9 @@
     "total_chapters": 21,
     "genres": [
       "رومانسى",
-      "كوميدي",
+      "دراما",
       "فانتازيا",
-      "دراما"
+      "كوميدي"
     ],
     "status": "مستمر",
     "rating": "9.0"
@@ -3132,7 +3101,7 @@
       "بدون تجسيد"
     ],
     "status": "مستمر",
-    "rating": "10.0"
+    "rating": "9.0"
   },
   {
     "id": "my-husband-needs-to-die-soon",
@@ -3144,9 +3113,9 @@
     "genres": [
       "هوس",
       "من أعداء لأحباء",
+      "كوميدي",
       "تجسيد",
       "رومانسي",
-      "كوميدي",
       "علاقة تعاقدية"
     ],
     "status": "مستمر",
@@ -3162,9 +3131,9 @@
     "rating": "9.9",
     "total_chapters": 82,
     "genres": [
-      "رومانسي",
+      "دراما",
       "كوميدي",
-      "دراما"
+      "رومانسي"
     ]
   },
   {
@@ -3179,9 +3148,9 @@
     "genres": [
       "هوس",
       "عصري",
+      "دراما",
       "مدرسي",
       "خيال",
-      "دراما",
       "رومانسي",
       "بدون تجسيد"
     ]
@@ -3207,13 +3176,44 @@
     "cover_url": "https://storage.azorafly.com/public/upload/series/featured/02408b52-85d5-445d-9e5c-f7dbcd583bf8/576a5732-164a-4bd3-a483-b02014e8eeb1.jpg",
     "type": "مانهوا",
     "status": "مستمر",
-    "rating": "10.0",
+    "rating": "9.8",
     "total_chapters": 27,
     "genres": [
-      "فانتازيا",
-      "رومانسي",
+      "دراما",
       "كوميدي",
-      "دراما"
+      "فانتازيا",
+      "رومانسي"
+    ]
+  },
+  {
+    "id": "how-to-turn-you-around",
+    "title": "How to Turn You Around",
+    "url": "https://azorafly.com/series/how-to-turn-you-around",
+    "cover_url": "https://storage.azorafly.com/upload/series/featured/02408b52-85d5-445d-9e5c-f7dbcd583bf8/f2d85348-9e25-4829-80ab-79d8234a4fda.png",
+    "type": "مانهوا",
+    "status": "مستمر",
+    "rating": "10.0",
+    "total_chapters": 48,
+    "genres": [
+      "الحياة المدرسية",
+      "رومانسى",
+      "شوجو",
+      "كوميدي"
+    ]
+  },
+  {
+    "id": "pretty-trash",
+    "title": "Pretty Trash",
+    "url": "https://azorafly.com/series/pretty-trash",
+    "cover_url": "https://storage.azorafly.com/upload/series/featured/02408b52-85d5-445d-9e5c-f7dbcd583bf8/9df99e31-d362-4a7d-bcab-6ebc53d62013.jpg",
+    "type": "مانهوا",
+    "status": "مستمر",
+    "rating": "10.0",
+    "total_chapters": 28,
+    "genres": [
+      "دراما",
+      "رومانسي",
+      "كوميدي"
     ]
   },
   {

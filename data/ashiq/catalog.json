@@ -690,15 +690,6 @@
     ]
   },
   {
-    "id": "orb-on-the-movements-of-the-earth",
-    "title": "Orb: On the Movements of the Earth",
-    "url": "https://3asq.online/manga/orb-on-the-movements-of-the-earth",
-    "cover_url": "https://3asq.online/wp-content/uploads/2025/02/orb-cover-arabic-175x238.jpg",
-    "type": "NayefTranslations",
-    "rating": "4.5",
-    "genres": []
-  },
-  {
     "id": "metaphor-refantazio",
     "title": "Metaphor: ReFantazio",
     "url": "https://3asq.online/manga/metaphor-refantazio",
@@ -1240,7 +1231,7 @@
     "url": "https://3asq.online/manga/the-nito-exorcists",
     "cover_url": "https://3asq.online/wp-content/uploads/2026/10/Picsart_26-10-04_16-18-26-455-175x238.png",
     "type": "Nito no Joreishi",
-    "rating": "",
+    "rating": "2.0",
     "total_chapters": 0,
     "genres": [
       "خارق للطبيعة",
@@ -1253,6 +1244,32 @@
       "نفسي"
     ],
     "status": "مكتمل"
+  },
+  {
+    "id": "orb-on-the-movements-of-the-earth",
+    "title": "Orb: On the Movements of the Earth",
+    "url": "https://3asq.online/manga/orb-on-the-movements-of-the-earth",
+    "cover_url": "https://3asq.online/wp-content/uploads/2025/02/orb-cover-arabic-175x238.jpg",
+    "type": "مانغا",
+    "rating": "4.5",
+    "genres": [
+      "100%",
+      "أكشن",
+      "اضطهاد",
+      "تاريخ",
+      "خيال",
+      "دراما",
+      "رعب",
+      "سينين",
+      "عسكرية",
+      "علم نفس",
+      "عنف",
+      "غموض",
+      "فلسفة",
+      "مأساة"
+    ],
+    "status": "مكتمل",
+    "total_chapters": 12
   },
   {
     "id": "kaoru-hana-wa-rin-to-saku",
