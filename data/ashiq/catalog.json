@@ -334,7 +334,7 @@
     "url": "https://3asq.online/manga/yuukoku-no-moriarty",
     "cover_url": "https://3asq.online/wp-content/uploads/2025/11/image-1-175x238.jpg",
     "type": "Milou",
-    "rating": "4.4",
+    "rating": "4.5",
     "genres": []
   },
   {
@@ -1226,26 +1226,6 @@
     "total_chapters": 390
   },
   {
-    "id": "the-nito-exorcists",
-    "title": "The Nito Exorcists",
-    "url": "https://3asq.online/manga/the-nito-exorcists",
-    "cover_url": "https://3asq.online/wp-content/uploads/2026/10/Picsart_26-10-04_16-18-26-455-175x238.png",
-    "type": "Nito no Joreishi",
-    "rating": "2.0",
-    "total_chapters": 0,
-    "genres": [
-      "خارق للطبيعة",
-      "دراما",
-      "رعب",
-      "سينين",
-      "عنف",
-      "غموض",
-      "مأساة",
-      "نفسي"
-    ],
-    "status": "مكتمل"
-  },
-  {
     "id": "orb-on-the-movements-of-the-earth",
     "title": "Orb: On the Movements of the Earth",
     "url": "https://3asq.online/manga/orb-on-the-movements-of-the-earth",
@@ -1270,6 +1250,26 @@
     ],
     "status": "مكتمل",
     "total_chapters": 12
+  },
+  {
+    "id": "the-nito-exorcists",
+    "title": "The Nito Exorcists",
+    "url": "https://3asq.online/manga/the-nito-exorcists",
+    "cover_url": "https://3asq.online/wp-content/uploads/2026/10/Picsart_26-10-04_16-18-26-455-175x238.png",
+    "type": "Nito no Joreishi",
+    "rating": "3.5",
+    "total_chapters": 2,
+    "genres": [
+      "خارق للطبيعة",
+      "دراما",
+      "رعب",
+      "سينين",
+      "عنف",
+      "غموض",
+      "مأساة",
+      "نفسي"
+    ],
+    "status": "مكتمل"
   },
   {
     "id": "kaoru-hana-wa-rin-to-saku",

@@ -6,20 +6,26 @@
   "type": "مانهوا",
   "status": "مستمر",
   "last_update": "2026-09-08",
-  "rating": "9.8",
+  "rating": "9.6",
   "genres": [
-    "مانهوا",
     "خيالي",
-    "عودة بالزمن",
-    "فانتازيا",
+    "مانهوا",
+    "سحر",
+    "دراما",
     "كوميدي",
     "خيال",
+    "فانتازيا",
     "رومانسي",
-    "سحر",
-    "دراما"
+    "عودة بالزمن"
   ],
   "is_novel": false,
   "chapters": {
+    "https://azorafly.com/series/a-strange-but-effective-villainess-life/chapter-36": {
+      "name": "36"
+    },
+    "https://azorafly.com/series/a-strange-but-effective-villainess-life/chapter-35": {
+      "name": "35"
+    },
     "https://azorafly.com/series/a-strange-but-effective-villainess-life/chapter-34": {
       "name": "34"
     },
