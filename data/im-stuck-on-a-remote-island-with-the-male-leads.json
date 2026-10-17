@@ -6,15 +6,18 @@
   "type": "مانهوا",
   "status": "مستمر",
   "last_update": "2026-05-07",
-  "rating": "9.3",
+  "rating": "9.1",
   "genres": [
-    "مغامرة",
+    "كوميدي",
     "رومانسي",
-    "خيال",
-    "كوميدي"
+    "مغامرة",
+    "خيال"
   ],
   "is_novel": false,
   "chapters": {
+    "https://azorafly.com/series/im-stuck-on-a-remote-island-with-the-male-leads/chapter-51": {
+      "name": "51"
+    },
     "https://azorafly.com/series/im-stuck-on-a-remote-island-with-the-male-leads/chapter-50": {
       "name": "50"
     },

@@ -9,12 +9,15 @@
   "rating": "9.7",
   "genres": [
     "نفسي",
+    "رعب",
     "تشويق",
-    "أكشن",
-    "رعب"
+    "أكشن"
   ],
   "is_novel": false,
   "chapters": {
+    "https://azorafly.com/series/a-ghostly-song/chapter-71": {
+      "name": "71"
+    },
     "https://azorafly.com/series/a-ghostly-song/chapter-70": {
       "name": "70"
     },
