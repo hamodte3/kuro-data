@@ -1,36 +1,5 @@
 [
   {
-    "id": "now-it's-your-turn-to-regret",
-    "title": "Now It’s Your Turn To Regret",
-    "url": "https://azorafly.com/series/now-it's-your-turn-to-regret",
-    "cover_url": "https://storage.azorafly.com/upload/series/featured/02408b52-85d5-445d-9e5c-f7dbcd583bf8/813664c5-a10b-472c-abb8-c722b3dfe167.png",
-    "type": "مانهوا",
-    "status": "مستمر",
-    "rating": "9.7",
-    "total_chapters": 17,
-    "genres": [
-      "انتقام",
-      "فانتازيا",
-      "رومانسي",
-      "دراما"
-    ]
-  },
-  {
-    "id": "the-duchess-lives-only-for-this-day",
-    "title": "The Duchess Lives Only for This Day",
-    "url": "https://azorafly.com/series/the-duchess-lives-only-for-this-day",
-    "cover_url": "https://storage.azorafly.com/upload/series/featured/a5vVlSc5huft2AzUyK1VxgKh1ckCWLbZ/8863d240-394b-4232-89e6-cdd7382ee56e.png",
-    "type": "مانهوا",
-    "status": "مستمر",
-    "rating": "9.5",
-    "total_chapters": 40,
-    "genres": [
-      "فانتازيا",
-      "رومانسي",
-      "دراما"
-    ]
-  },
-  {
     "id": "the-reason-the-villainess-took-up-the-sword",
     "title": "The Reason the Villainess Took Up the Sword",
     "url": "https://azorafly.com/series/the-reason-the-villainess-took-up-the-sword",
@@ -1339,25 +1308,6 @@
       "دراما",
       "رومانسي",
       "فانتازيا"
-    ]
-  },
-  {
-    "id": "once-a-day-a-wish-comes-true",
-    "title": "Once a day, a wish comes true",
-    "url": "https://azorafly.com/series/once-a-day-a-wish-comes-true",
-    "cover_url": "https://storage.azorafly.com/upload/series/featured/a5vVlSc5huft2AzUyK1VxgKh1ckCWLbZ/b5dad099-8250-49f6-82da-059115abb7e7.jpg",
-    "type": "رواية",
-    "status": "مستمر",
-    "rating": "9.3",
-    "total_chapters": 78,
-    "genres": [
-      "هوس",
-      "عصري",
-      "بدون تجسيد",
-      "مدرسي",
-      "رومانسي",
-      "خيال",
-      "دراما"
     ]
   },
   {
@@ -3218,6 +3168,86 @@
     ]
   },
   {
+    "id": "once-a-day-a-wish-comes-true",
+    "title": "Once a day, a wish comes true",
+    "url": "https://azorafly.com/series/once-a-day-a-wish-comes-true",
+    "cover_url": "https://storage.azorafly.com/upload/series/featured/a5vVlSc5huft2AzUyK1VxgKh1ckCWLbZ/b5dad099-8250-49f6-82da-059115abb7e7.jpg",
+    "type": "رواية",
+    "status": "مستمر",
+    "rating": "9.3",
+    "total_chapters": 81,
+    "genres": [
+      "هوس",
+      "عصري",
+      "مدرسي",
+      "خيال",
+      "دراما",
+      "رومانسي",
+      "بدون تجسيد"
+    ]
+  },
+  {
+    "id": "dont-tame-it-carelessly",
+    "title": "Don't Tame It Carelessly!",
+    "url": "https://azorafly.com/series/dont-tame-it-carelessly",
+    "cover_url": "https://storage.azorafly.com/public/upload/2026/01/07/d04960aa-727d-494a-85cb-f49881e5bc9e.webp",
+    "type": "مانهوا",
+    "status": "مستمر",
+    "rating": "9.6",
+    "total_chapters": 48,
+    "genres": [
+      "خيال",
+      "رومانسي"
+    ]
+  },
+  {
+    "id": "chat-with-me",
+    "title": "Chat with Me",
+    "url": "https://azorafly.com/series/chat-with-me",
+    "cover_url": "https://storage.azorafly.com/public/upload/series/featured/02408b52-85d5-445d-9e5c-f7dbcd583bf8/576a5732-164a-4bd3-a483-b02014e8eeb1.jpg",
+    "type": "مانهوا",
+    "status": "مستمر",
+    "rating": "10.0",
+    "total_chapters": 27,
+    "genres": [
+      "فانتازيا",
+      "رومانسي",
+      "كوميدي",
+      "دراما"
+    ]
+  },
+  {
+    "id": "now-it's-your-turn-to-regret",
+    "title": "Now It’s Your Turn To Regret",
+    "url": "https://azorafly.com/series/now-it's-your-turn-to-regret",
+    "cover_url": "https://storage.azorafly.com/upload/series/featured/02408b52-85d5-445d-9e5c-f7dbcd583bf8/813664c5-a10b-472c-abb8-c722b3dfe167.png",
+    "type": "مانهوا",
+    "status": "مستمر",
+    "rating": "9.7",
+    "total_chapters": 17,
+    "genres": [
+      "انتقام",
+      "فانتازيا",
+      "رومانسي",
+      "دراما"
+    ]
+  },
+  {
+    "id": "the-duchess-lives-only-for-this-day",
+    "title": "The Duchess Lives Only for This Day",
+    "url": "https://azorafly.com/series/the-duchess-lives-only-for-this-day",
+    "cover_url": "https://storage.azorafly.com/upload/series/featured/a5vVlSc5huft2AzUyK1VxgKh1ckCWLbZ/8863d240-394b-4232-89e6-cdd7382ee56e.png",
+    "type": "مانهوا",
+    "status": "مستمر",
+    "rating": "9.5",
+    "total_chapters": 40,
+    "genres": [
+      "فانتازيا",
+      "رومانسي",
+      "دراما"
+    ]
+  },
+  {
     "id": "a-ghostly-song",
     "title": "A Ghostly Song",
     "url": "https://azorafly.com/series/a-ghostly-song",
@@ -3246,20 +3276,6 @@
       "حياة مدرسية",
       "اثارة",
       "غموض"
-    ]
-  },
-  {
-    "id": "dont-tame-it-carelessly",
-    "title": "Don't Tame It Carelessly!",
-    "url": "https://azorafly.com/series/dont-tame-it-carelessly",
-    "cover_url": "https://storage.azorafly.com/public/upload/2026/01/07/d04960aa-727d-494a-85cb-f49881e5bc9e.webp",
-    "type": "مانهوا",
-    "status": "مستمر",
-    "rating": "9.6",
-    "total_chapters": 47,
-    "genres": [
-      "رومانسي",
-      "خيال"
     ]
   },
   {
@@ -36316,23 +36332,6 @@
       "مدرسي",
       "كوميدي",
       "مغامرة"
-    ]
-  },
-  {
-    "id": "chat-with-me",
-    "title": "Chat with Me",
-    "url": "https://azorafly.com/series/chat-with-me",
-    "cover_url": "https://storage.azorafly.com/public/upload/series/featured/02408b52-85d5-445d-9e5c-f7dbcd583bf8/576a5732-164a-4bd3-a483-b02014e8eeb1.jpg",
-    "type": "مانهوا",
-    "status": "مستمر",
-    "rating": "9.5",
-    "total_chapters": 26,
-    "genres": [
-      "أكشن",
-      "فانتازيا",
-      "دراما",
-      "رومانسي",
-      "كوميدي"
     ]
   },
   {

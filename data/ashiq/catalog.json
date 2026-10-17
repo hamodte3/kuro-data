@@ -1,14 +1,5 @@
 [
   {
-    "id": "kaoru-hana-wa-rin-to-saku",
-    "title": "Kaoru Hana wa Rin to Saku",
-    "url": "https://3asq.online/manga/kaoru-hana-wa-rin-to-saku",
-    "cover_url": "https://3asq.online/wp-content/uploads/2025/09/IMG_9200-175x238.jpeg",
-    "type": "كورو",
-    "rating": "4.8",
-    "genres": []
-  },
-  {
     "id": "my-home-hero",
     "title": "My Home Hero",
     "url": "https://3asq.online/manga/my-home-hero",
@@ -83,7 +74,7 @@
     "id": "blooming-love",
     "title": "Blooming Love",
     "url": "https://3asq.online/manga/blooming-love",
-    "cover_url": "https://3asq.online/wp-content/uploads/2024/10/IMG_20250708_115315-175x238.jpg",
+    "cover_url": "https://3asq.online/wp-content/uploads/2024/10/Picsart_26-10-17_01-10-02-595-175x238.png",
     "type": "A-Y-OKOSO ",
     "rating": "4.3",
     "genres": []
@@ -92,7 +83,7 @@
     "id": "mad",
     "title": "MAD",
     "url": "https://3asq.online/manga/mad",
-    "cover_url": "https://3asq.online/wp-content/uploads/2024/12/Picsart_25-11-06_17-13-38-174-175x238.jpg",
+    "cover_url": "https://3asq.online/wp-content/uploads/2024/12/Picsart_26-10-17_01-04-55-530-175x238.jpg",
     "type": "A-Y-OKOSO ",
     "rating": "4.1",
     "genres": []
@@ -1242,6 +1233,35 @@
     ],
     "status": "مستمر",
     "total_chapters": 390
+  },
+  {
+    "id": "the-nito-exorcists",
+    "title": "The Nito Exorcists",
+    "url": "https://3asq.online/manga/the-nito-exorcists",
+    "cover_url": "https://3asq.online/wp-content/uploads/2026/10/Picsart_26-10-04_16-18-26-455-175x238.png",
+    "type": "Nito no Joreishi",
+    "rating": "",
+    "total_chapters": 0,
+    "genres": [
+      "خارق للطبيعة",
+      "دراما",
+      "رعب",
+      "سينين",
+      "عنف",
+      "غموض",
+      "مأساة",
+      "نفسي"
+    ],
+    "status": "مكتمل"
+  },
+  {
+    "id": "kaoru-hana-wa-rin-to-saku",
+    "title": "Kaoru Hana wa Rin to Saku",
+    "url": "https://3asq.online/manga/kaoru-hana-wa-rin-to-saku",
+    "cover_url": "https://3asq.online/wp-content/uploads/2025/09/IMG_9200-175x238.jpeg",
+    "type": "كورو",
+    "rating": "4.8",
+    "genres": []
   },
   {
     "id": "naruto-digital-colored",
