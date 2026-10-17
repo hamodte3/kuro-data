@@ -947,26 +947,6 @@
     "status": "متوقف مؤقتاً"
   },
   {
-    "id": "سيد التمنّي",
-    "title": "سيد التمنّي",
-    "url": "https://kolnovel.com/series/%d8%b3%d9%8a%d8%af-%d8%a7%d9%84%d8%aa%d9%85%d9%86%d9%91%d9%8a",
-    "cover_url": "https://kolnovel.com/wp-content/uploads/2026/05/cover_author_name_lowered.png",
-    "type": "رواية",
-    "is_novel": true,
-    "rating": "8.0",
-    "total_chapters": 40,
-    "genres": [
-      "أكشن",
-      "خيال",
-      "دراما",
-      "رعب",
-      "غموض",
-      "قوى خارقة",
-      "مغامرة"
-    ],
-    "status": "مستمر"
-  },
-  {
     "id": "القس المجنون",
     "title": "القس المجنون",
     "url": "https://kolnovel.com/series/%d8%a7%d9%84%d9%82%d8%b3-%d8%a7%d9%84%d9%85%d8%ac%d9%86%d9%88%d9%86",
@@ -1028,7 +1008,7 @@
     "cover_url": "https://kolnovel.com/wp-content/uploads/2026/06/AKMNR_2MG-1.png",
     "type": "رواية",
     "is_novel": true,
-    "rating": "",
+    "rating": "8.0",
     "total_chapters": 38,
     "genres": [
       "أكشن",
@@ -1095,26 +1075,6 @@
       "فانتازيا",
       "فنون قتالية",
       "قوى خارقة",
-      "مغامرة"
-    ],
-    "status": "مستمر"
-  },
-  {
-    "id": "بث الرامي العبقري",
-    "title": "بث الرامي العبقري",
-    "url": "https://kolnovel.com/series/%d8%a8%d8%ab-%d8%a7%d9%84%d8%b1%d8%a7%d9%85%d9%8a-%d8%a7%d9%84%d8%b9%d8%a8%d9%82%d8%b1%d9%8a",
-    "cover_url": "https://kolnovel.com/wp-content/uploads/2026/08/morph_9_seconds.gif",
-    "type": "رواية",
-    "is_novel": true,
-    "rating": "",
-    "total_chapters": 233,
-    "genres": [
-      "أكشن",
-      "خيال",
-      "دراما",
-      "رياضة",
-      "شونين",
-      "فنون قتال",
       "مغامرة"
     ],
     "status": "مستمر"
@@ -1189,24 +1149,6 @@
       "شوانهوان",
       "شيانشيا",
       "فنون قتال"
-    ],
-    "status": "مستمر"
-  },
-  {
-    "id": "ملك سمات الفنون القتالية",
-    "title": "ملك سمات الفنون القتالية",
-    "url": "https://kolnovel.com/series/%d9%85%d9%84%d9%83-%d8%b3%d9%85%d8%a7%d8%aa-%d8%a7%d9%84%d9%81%d9%86%d9%88%d9%86-%d8%a7%d9%84%d9%82%d8%aa%d8%a7%d9%84%d9%8a%d8%a9",
-    "cover_url": "https://kolnovel.com/wp-content/uploads/2026/01/GIF-260910_004008.gif",
-    "type": "رواية",
-    "is_novel": true,
-    "rating": "5.0",
-    "total_chapters": 1518,
-    "genres": [
-      "بطل وقح",
-      "خيال",
-      "شيانشيا",
-      "فنون قتال",
-      "مغامرة"
     ],
     "status": "مستمر"
   },
@@ -1419,6 +1361,64 @@
       "دموي",
       "مكر و خداع",
       "نظام"
+    ],
+    "status": "مستمر"
+  },
+  {
+    "id": "سيد التمنّي",
+    "title": "سيد التمنّي",
+    "url": "https://kolnovel.com/series/%d8%b3%d9%8a%d8%af-%d8%a7%d9%84%d8%aa%d9%85%d9%86%d9%91%d9%8a",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2026/05/cover_author_name_lowered.png",
+    "type": "رواية",
+    "is_novel": true,
+    "rating": "4.0",
+    "total_chapters": 41,
+    "genres": [
+      "أكشن",
+      "خيال",
+      "دراما",
+      "رعب",
+      "غموض",
+      "قوى خارقة",
+      "مغامرة"
+    ],
+    "status": "مستمر"
+  },
+  {
+    "id": "ملك سمات الفنون القتالية",
+    "title": "ملك سمات الفنون القتالية",
+    "url": "https://kolnovel.com/series/%d9%85%d9%84%d9%83-%d8%b3%d9%85%d8%a7%d8%aa-%d8%a7%d9%84%d9%81%d9%86%d9%88%d9%86-%d8%a7%d9%84%d9%82%d8%aa%d8%a7%d9%84%d9%8a%d8%a9",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2026/01/GIF-260910_004008.gif",
+    "type": "رواية",
+    "is_novel": true,
+    "rating": "5.0",
+    "total_chapters": 1521,
+    "genres": [
+      "بطل وقح",
+      "خيال",
+      "شيانشيا",
+      "فنون قتال",
+      "مغامرة"
+    ],
+    "status": "مستمر"
+  },
+  {
+    "id": "بث الرامي العبقري",
+    "title": "بث الرامي العبقري",
+    "url": "https://kolnovel.com/series/%d8%a8%d8%ab-%d8%a7%d9%84%d8%b1%d8%a7%d9%85%d9%8a-%d8%a7%d9%84%d8%b9%d8%a8%d9%82%d8%b1%d9%8a",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2026/08/morph_9_seconds.gif",
+    "type": "رواية",
+    "is_novel": true,
+    "rating": "",
+    "total_chapters": 264,
+    "genres": [
+      "أكشن",
+      "خيال",
+      "دراما",
+      "رياضة",
+      "شونين",
+      "فنون قتال",
+      "مغامرة"
     ],
     "status": "مستمر"
   },

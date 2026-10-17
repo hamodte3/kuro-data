@@ -6,14 +6,17 @@
   "type": "مانهوا",
   "status": "مستمر",
   "last_update": "2026-09-14",
-  "rating": "8.2",
+  "rating": "8.3",
   "genres": [
     "عائلي",
-    "رومانسي",
-    "دراما"
+    "دراما",
+    "رومانسي"
   ],
   "is_novel": false,
   "chapters": {
+    "https://azorafly.com/series/i'm-trying-to-become-part-of-the-dark-duke's-family/chapter-38": {
+      "name": "38"
+    },
     "https://azorafly.com/series/i'm-trying-to-become-part-of-the-dark-duke's-family/chapter-37": {
       "name": "37"
     },
