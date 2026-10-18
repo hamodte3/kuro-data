@@ -10,16 +10,19 @@
   "genres": [
     "زمكاني",
     "اسبوعي",
+    "دراما",
     "إثارة",
     "شونين",
     "إعادة إحياء",
-    "أكشن",
-    "دراما",
     "خيال",
+    "أكشن",
     "فنون قتالية"
   ],
   "is_novel": false,
   "chapters": {
+    "https://azorafly.com/series/doctor-reborn/chapter-247": {
+      "name": "247"
+    },
     "https://azorafly.com/series/doctor-reborn/chapter-246": {
       "name": "246"
     },
