@@ -6,17 +6,20 @@
   "type": "مانهوا",
   "status": "مستمر",
   "last_update": "2026-05-07",
-  "rating": "9.7",
+  "rating": "9.8",
   "genres": [
     "اسبوعي",
     "ويبتون",
+    "كوميدي",
     "مميز",
     "مغامرات",
-    "كوميدي",
     "أكشن"
   ],
   "is_novel": false,
   "chapters": {
+    "https://azorafly.com/series/overgeared-12/chapter-344": {
+      "name": "344"
+    },
     "https://azorafly.com/series/overgeared-12/chapter-343": {
       "name": "343"
     },

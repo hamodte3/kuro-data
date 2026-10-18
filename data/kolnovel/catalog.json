@@ -1314,30 +1314,6 @@
     "status": "مستمر"
   },
   {
-    "id": "صعود شجرة الهاوية",
-    "title": "صعود شجرة الهاوية",
-    "url": "https://kolnovel.com/series/%d8%b5%d8%b9%d9%88%d8%af-%d8%b4%d8%ac%d8%b1%d8%a9-%d8%a7%d9%84%d9%87%d8%a7%d9%88%d9%8a%d8%a9",
-    "cover_url": "https://kolnovel.com/wp-content/uploads/2026/10/Crimson_World_Tree_Showdown.png",
-    "type": "رواية",
-    "is_novel": true,
-    "rating": "",
-    "total_chapters": 265,
-    "genres": [
-      "أعراق",
-      "بطل مضاد",
-      "بناء مملكة",
-      "حرب",
-      "حرب بين النجوم",
-      "زراعة",
-      "سلالة نادرة",
-      "غير بشري",
-      "فضاء",
-      "مأساة",
-      "نظام"
-    ],
-    "status": "مستمر"
-  },
-  {
     "id": "بوابة الخلود",
     "title": "بوابة الخلود",
     "url": "https://kolnovel.com/series/%d8%a8%d9%88%d8%a7%d8%a8%d8%a9-%d8%a7%d9%84%d8%ae%d9%84%d9%88%d8%af",
@@ -1430,6 +1406,30 @@
       "كوميدي",
       "ما بعد الكارثة",
       "مغامرة"
+    ],
+    "status": "مستمر"
+  },
+  {
+    "id": "صعود شجرة الهاوية",
+    "title": "صعود شجرة الهاوية",
+    "url": "https://kolnovel.com/series/%d8%b5%d8%b9%d9%88%d8%af-%d8%b4%d8%ac%d8%b1%d8%a9-%d8%a7%d9%84%d9%87%d8%a7%d9%88%d9%8a%d8%a9",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2026/10/Crimson_World_Tree_Showdown.png",
+    "type": "رواية",
+    "is_novel": true,
+    "rating": "",
+    "total_chapters": 266,
+    "genres": [
+      "أعراق",
+      "بطل مضاد",
+      "بناء مملكة",
+      "حرب",
+      "حرب بين النجوم",
+      "زراعة",
+      "سلالة نادرة",
+      "غير بشري",
+      "فضاء",
+      "مأساة",
+      "نظام"
     ],
     "status": "مستمر"
   },
