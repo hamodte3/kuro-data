@@ -1145,30 +1145,6 @@
     "status": "مستمر"
   },
   {
-    "id": "ما نسيه العالم",
-    "title": "ما نسيه العالم",
-    "url": "https://kolnovel.com/series/%d9%85%d8%a7-%d9%86%d8%b3%d9%8a%d9%87-%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85",
-    "cover_url": "https://kolnovel.com/wp-content/uploads/2026/09/Gemini_Generated_Image_38s0mf38s0mf38s0.jpg",
-    "type": "رواية",
-    "is_novel": true,
-    "rating": "",
-    "total_chapters": 41,
-    "genres": [
-      "إثارة",
-      "استراتيجي",
-      "بطل رمادي",
-      "خيال مظلم",
-      "دراما",
-      "سحر",
-      "سياسية",
-      "غموض",
-      "مؤامرة",
-      "ماساة",
-      "نفسي"
-    ],
-    "status": "مستمر"
-  },
-  {
     "id": "العوالم في السماء",
     "title": "العوالم في السماء",
     "url": "https://kolnovel.com/series/%d8%a7%d9%84%d8%b9%d9%88%d8%a7%d9%84%d9%85-%d9%81%d9%8a-%d8%a7%d9%84%d8%b3%d9%85%d8%a7%d8%a1",
@@ -1424,6 +1400,30 @@
       "شريحة من الحياة",
       "غموض تدريجي",
       "كوميديا"
+    ],
+    "status": "مستمر"
+  },
+  {
+    "id": "ما نسيه العالم",
+    "title": "ما نسيه العالم",
+    "url": "https://kolnovel.com/series/%d9%85%d8%a7-%d9%86%d8%b3%d9%8a%d9%87-%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2026/09/Gemini_Generated_Image_38s0mf38s0mf38s0.jpg",
+    "type": "رواية",
+    "is_novel": true,
+    "rating": "",
+    "total_chapters": 43,
+    "genres": [
+      "إثارة",
+      "استراتيجي",
+      "بطل رمادي",
+      "خيال مظلم",
+      "دراما",
+      "سحر",
+      "سياسية",
+      "غموض",
+      "مؤامرة",
+      "ماساة",
+      "نفسي"
     ],
     "status": "مستمر"
   },
