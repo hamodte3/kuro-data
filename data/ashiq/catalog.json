@@ -919,22 +919,6 @@
     ]
   },
   {
-    "id": "sangeki",
-    "title": "Sangeki",
-    "url": "https://3asq.online/manga/sangeki",
-    "cover_url": "https://3asq.online/wp-content/uploads/2026/04/6cfbaeb6-59ae-4971-bfaa-3b026b6c9ad9-175x238.jpg",
-    "type": "مانغا",
-    "rating": "3.9",
-    "status": "مستمر",
-    "total_chapters": 22,
-    "genres": [
-      "دراما",
-      "سينين",
-      "غموض",
-      "مأساة"
-    ]
-  },
-  {
     "id": "tower-of-god-s3-2",
     "title": "Tower Of God s3",
     "url": "https://3asq.online/manga/tower-of-god-s3-2",
@@ -1269,6 +1253,22 @@
       "عنف",
       "غموض",
       "فلسفة"
+    ]
+  },
+  {
+    "id": "sangeki",
+    "title": "Sangeki",
+    "url": "https://3asq.online/manga/sangeki",
+    "cover_url": "https://3asq.online/wp-content/uploads/2026/04/6cfbaeb6-59ae-4971-bfaa-3b026b6c9ad9-175x238.jpg",
+    "type": "مانغا",
+    "rating": "3.9",
+    "status": "مستمر",
+    "total_chapters": 24,
+    "genres": [
+      "دراما",
+      "سينين",
+      "غموض",
+      "مأساة"
     ]
   },
   {
