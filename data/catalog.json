@@ -1,61 +1,5 @@
 [
   {
-    "id": "the-youngest-has-many-secrets",
-    "title": "The Youngest Has Many Secrets",
-    "url": "https://azorafly.com/series/the-youngest-has-many-secrets",
-    "cover_url": "https://storage.azorafly.com/upload/series/featured/oGmL0DQZ16QInTPaeDKwFEK9ryegoy88/98646369-4370-4463-b46a-ce92569f3813.jpg",
-    "type": "مانهوا",
-    "status": "مستمر",
-    "rating": "9.1",
-    "total_chapters": 52,
-    "genres": []
-  },
-  {
-    "id": "when-a-k-eldest-daughter-possesses-a-childcare-novel",
-    "title": "When a K-Eldest Daughter Possesses a Childcare Novel",
-    "url": "https://azorafly.com/series/when-a-k-eldest-daughter-possesses-a-childcare-novel",
-    "cover_url": "https://storage.azorafly.com/upload/series/featured/b00a38e1-1b46-478b-80f0-5d1a7feed33f/ce8dc2c8-ca40-4588-9c8a-199662811589.jpg",
-    "type": "مانهوا",
-    "status": "مستمر",
-    "rating": "7.5",
-    "total_chapters": 65,
-    "genres": [
-      "رومانسي",
-      "دراما",
-      "خيال"
-    ]
-  },
-  {
-    "id": "i-hate-this-kind-of-reverse-harem",
-    "title": "‏I Hate This Kind of Reverse Harem",
-    "url": "https://azorafly.com/series/i-hate-this-kind-of-reverse-harem",
-    "cover_url": "https://storage.azorafly.com/upload/series/featured/f1fef4cc-ebcb-4b26-90b6-b65fe212f932/854fab98-7d45-4fad-9904-41205d9ee1aa.jpg",
-    "type": "مانهوا",
-    "status": "مستمر",
-    "rating": "8.2",
-    "total_chapters": 53,
-    "genres": [
-      "رومانسي",
-      "دراما",
-      "فانتازيا"
-    ]
-  },
-  {
-    "id": "my-husband-possessed-the-protagonist",
-    "title": "My Husband Possessed the Protagonist",
-    "url": "https://azorafly.com/series/my-husband-possessed-the-protagonist",
-    "cover_url": "https://storage.azorafly.com/upload/series/featured/f1fef4cc-ebcb-4b26-90b6-b65fe212f932/e8fbfa2d-f0a3-4bf1-abdf-905b68551ee4.jpg",
-    "type": "مانهوا",
-    "status": "مستمر",
-    "rating": "7.7",
-    "total_chapters": 54,
-    "genres": [
-      "خيالي",
-      "تجسيد",
-      "رومانسي"
-    ]
-  },
-  {
     "id": "the-tyrant-brother-is-a-bonus",
     "title": "The Tyrant Brother is A Bonus",
     "url": "https://azorafly.com/series/the-tyrant-brother-is-a-bonus",
@@ -1286,24 +1230,6 @@
     "genres": [
       "فانتازيا",
       "رومانسي",
-      "دراما"
-    ]
-  },
-  {
-    "id": "my-husband-and-i-are-in-different-genres",
-    "title": "My Husband and I Are in Different Genres",
-    "url": "https://azorafly.com/series/my-husband-and-i-are-in-different-genres",
-    "cover_url": "https://storage.azorafly.com/upload/series/featured/a5vVlSc5huft2AzUyK1VxgKh1ckCWLbZ/aaa74cdb-969b-41df-b098-c659cba7bbb5.jpg",
-    "type": "رواية",
-    "status": "مستمر",
-    "rating": "9.9",
-    "total_chapters": 92,
-    "genres": [
-      "بدون تجسيد",
-      "رومانسي",
-      "سوء فهم",
-      "كوميدي",
-      "خيال",
       "دراما"
     ]
   },
@@ -3229,6 +3155,152 @@
     ]
   },
   {
+    "id": "reborn-as-the-enemy-prince",
+    "title": "Reborn as the Enemy Prince",
+    "url": "https://azorafly.com/series/reborn-as-the-enemy-prince",
+    "cover_url": "https://storage.azorafly.com/upload/series/featured/oGmL0DQZ16QInTPaeDKwFEK9ryegoy88/362a985e-9cb7-439d-b40a-f694954cc099.jpg",
+    "type": "مانهوا",
+    "status": "مستمر",
+    "rating": "10.0",
+    "total_chapters": 124,
+    "genres": [
+      "دموي",
+      "سحر",
+      "دراما",
+      "إثارة",
+      "خيال",
+      "أكشن",
+      "غموض"
+    ]
+  },
+  {
+    "id": "the-terminally-ill-wife-wants-a-divorce",
+    "title": "The Terminally Ill Wife Wants a Divorce",
+    "url": "https://azorafly.com/series/the-terminally-ill-wife-wants-a-divorce",
+    "cover_url": "https://storage.azorafly.com/upload/series/featured/a5vVlSc5huft2AzUyK1VxgKh1ckCWLbZ/efcade56-3cc0-4e94-b0a6-86091242f8ab.jpg",
+    "type": "رواية",
+    "status": "مستمر",
+    "rating": "10.0",
+    "total_chapters": 20,
+    "genres": [
+      "هوس",
+      "ندم",
+      "رجل نادم",
+      "دراما",
+      "تاريخي",
+      "رومانسي",
+      "عودة بالزمن"
+    ]
+  },
+  {
+    "id": "i-will-protect-my-tyrant-dad",
+    "title": "I Will Protect My Tyrant Dad!",
+    "url": "https://azorafly.com/series/i-will-protect-my-tyrant-dad",
+    "cover_url": "https://storage.azorafly.com/public/upload/2026/03/23/f827c986-c573-4b94-bdaf-97959b5bf544.webp",
+    "type": "مانهوا",
+    "status": "مستمر",
+    "rating": "9.7",
+    "total_chapters": 58,
+    "genres": [
+      "أيتام",
+      "رعاية اطفال",
+      "خيالي",
+      "دراما",
+      "كوميدي",
+      "رومانسي"
+    ]
+  },
+  {
+    "id": "park-sujin-and-baek-seojeong",
+    "title": "Park sujin and baek seojeong",
+    "url": "https://azorafly.com/series/park-sujin-and-baek-seojeong",
+    "cover_url": "https://storage.azorafly.com/upload/series/featured/02408b52-85d5-445d-9e5c-f7dbcd583bf8/86eb9d40-152b-4893-8abc-bd7acb38cf32.jpg",
+    "type": "مانهوا",
+    "total_chapters": 6,
+    "genres": [
+      "اكشن",
+      "دراما",
+      "نفسي",
+      "غموض"
+    ],
+    "status": "مستمر",
+    "rating": "7.0"
+  },
+  {
+    "id": "my-husband-and-i-are-in-different-genres",
+    "title": "My Husband and I Are in Different Genres",
+    "url": "https://azorafly.com/series/my-husband-and-i-are-in-different-genres",
+    "cover_url": "https://storage.azorafly.com/upload/series/featured/a5vVlSc5huft2AzUyK1VxgKh1ckCWLbZ/aaa74cdb-969b-41df-b098-c659cba7bbb5.jpg",
+    "type": "رواية",
+    "status": "مستمر",
+    "rating": "9.9",
+    "total_chapters": 96,
+    "genres": [
+      "دراما",
+      "سوء فهم",
+      "خيال",
+      "رومانسي",
+      "كوميدي",
+      "بدون تجسيد"
+    ]
+  },
+  {
+    "id": "the-youngest-has-many-secrets",
+    "title": "The Youngest Has Many Secrets",
+    "url": "https://azorafly.com/series/the-youngest-has-many-secrets",
+    "cover_url": "https://storage.azorafly.com/upload/series/featured/oGmL0DQZ16QInTPaeDKwFEK9ryegoy88/98646369-4370-4463-b46a-ce92569f3813.jpg",
+    "type": "مانهوا",
+    "status": "مستمر",
+    "rating": "9.1",
+    "total_chapters": 52,
+    "genres": []
+  },
+  {
+    "id": "when-a-k-eldest-daughter-possesses-a-childcare-novel",
+    "title": "When a K-Eldest Daughter Possesses a Childcare Novel",
+    "url": "https://azorafly.com/series/when-a-k-eldest-daughter-possesses-a-childcare-novel",
+    "cover_url": "https://storage.azorafly.com/upload/series/featured/b00a38e1-1b46-478b-80f0-5d1a7feed33f/ce8dc2c8-ca40-4588-9c8a-199662811589.jpg",
+    "type": "مانهوا",
+    "status": "مستمر",
+    "rating": "7.5",
+    "total_chapters": 65,
+    "genres": [
+      "رومانسي",
+      "دراما",
+      "خيال"
+    ]
+  },
+  {
+    "id": "i-hate-this-kind-of-reverse-harem",
+    "title": "‏I Hate This Kind of Reverse Harem",
+    "url": "https://azorafly.com/series/i-hate-this-kind-of-reverse-harem",
+    "cover_url": "https://storage.azorafly.com/upload/series/featured/f1fef4cc-ebcb-4b26-90b6-b65fe212f932/854fab98-7d45-4fad-9904-41205d9ee1aa.jpg",
+    "type": "مانهوا",
+    "status": "مستمر",
+    "rating": "8.2",
+    "total_chapters": 53,
+    "genres": [
+      "رومانسي",
+      "دراما",
+      "فانتازيا"
+    ]
+  },
+  {
+    "id": "my-husband-possessed-the-protagonist",
+    "title": "My Husband Possessed the Protagonist",
+    "url": "https://azorafly.com/series/my-husband-possessed-the-protagonist",
+    "cover_url": "https://storage.azorafly.com/upload/series/featured/f1fef4cc-ebcb-4b26-90b6-b65fe212f932/e8fbfa2d-f0a3-4bf1-abdf-905b68551ee4.jpg",
+    "type": "مانهوا",
+    "status": "مستمر",
+    "rating": "7.7",
+    "total_chapters": 54,
+    "genres": [
+      "خيالي",
+      "تجسيد",
+      "رومانسي"
+    ]
+  },
+  {
     "id": "thats-how-i-became-a-villainess",
     "title": "That’s How I Became a Villainess",
     "url": "https://azorafly.com/series/thats-how-i-became-a-villainess",
@@ -4802,25 +4874,6 @@
     ]
   },
   {
-    "id": "reborn-as-the-enemy-prince",
-    "title": "Reborn as the Enemy Prince",
-    "url": "https://azorafly.com/series/reborn-as-the-enemy-prince",
-    "cover_url": "https://storage.azorafly.com/upload/series/featured/oGmL0DQZ16QInTPaeDKwFEK9ryegoy88/362a985e-9cb7-439d-b40a-f694954cc099.jpg",
-    "type": "مانهوا",
-    "status": "مستمر",
-    "rating": "10.0",
-    "total_chapters": 123,
-    "genres": [
-      "دموي",
-      "إثارة",
-      "سحر",
-      "غموض",
-      "أكشن",
-      "دراما",
-      "خيال"
-    ]
-  },
-  {
     "id": "30-years-since-the-prologue",
     "title": "30 Years Since the Prologue",
     "url": "https://azorafly.com/series/30-years-since-the-prologue",
@@ -5244,22 +5297,6 @@
       "غموض",
       "دراما"
     ]
-  },
-  {
-    "id": "park-sujin-and-baek-seojeong",
-    "title": "Park sujin and baek seojeong",
-    "url": "https://azorafly.com/series/park-sujin-and-baek-seojeong",
-    "cover_url": "https://storage.azorafly.com/upload/series/featured/02408b52-85d5-445d-9e5c-f7dbcd583bf8/86eb9d40-152b-4893-8abc-bd7acb38cf32.jpg",
-    "type": "مانهوا",
-    "total_chapters": 6,
-    "genres": [
-      "اكشن",
-      "نفسي",
-      "غموض",
-      "دراما"
-    ],
-    "status": "مستمر",
-    "rating": "7.0"
   },
   {
     "id": "the-empire's-villainess",
@@ -7086,24 +7123,6 @@
       "مانهوا",
       "الحياة اليومية",
       "رومانسي"
-    ]
-  },
-  {
-    "id": "i-will-protect-my-tyrant-dad",
-    "title": "I Will Protect My Tyrant Dad!",
-    "url": "https://azorafly.com/series/i-will-protect-my-tyrant-dad",
-    "cover_url": "https://storage.azorafly.com/public/upload/2026/03/23/f827c986-c573-4b94-bdaf-97959b5bf544.webp",
-    "type": "مانهوا",
-    "status": "مستمر",
-    "rating": "9.6",
-    "total_chapters": 56,
-    "genres": [
-      "أيتام",
-      "رعاية اطفال",
-      "خيالي",
-      "كوميدي",
-      "رومانسي",
-      "دراما"
     ]
   },
   {
@@ -28906,25 +28925,6 @@
       "دراما",
       "رومانسي",
       "شوجو"
-    ]
-  },
-  {
-    "id": "the-terminally-ill-wife-wants-a-divorce",
-    "title": "The Terminally Ill Wife Wants a Divorce",
-    "url": "https://azorafly.com/series/the-terminally-ill-wife-wants-a-divorce",
-    "cover_url": "https://storage.azorafly.com/upload/series/featured/a5vVlSc5huft2AzUyK1VxgKh1ckCWLbZ/efcade56-3cc0-4e94-b0a6-86091242f8ab.jpg",
-    "type": "رواية",
-    "status": "مستمر",
-    "rating": "9.5",
-    "total_chapters": 15,
-    "genres": [
-      "أكشن",
-      "هوس",
-      "رجل نادم",
-      "ندم",
-      "عودة بالزمن",
-      "تاريخي",
-      "دراما"
     ]
   },
   {

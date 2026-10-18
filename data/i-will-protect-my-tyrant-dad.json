@@ -6,17 +6,23 @@
   "type": "مانهوا",
   "status": "مستمر",
   "last_update": "2026-08-27",
-  "rating": "9.6",
+  "rating": "9.7",
   "genres": [
     "أيتام",
     "رعاية اطفال",
     "خيالي",
+    "دراما",
     "كوميدي",
-    "رومانسي",
-    "دراما"
+    "رومانسي"
   ],
   "is_novel": false,
   "chapters": {
+    "https://azorafly.com/series/i-will-protect-my-tyrant-dad/chapter-58": {
+      "name": "58"
+    },
+    "https://azorafly.com/series/i-will-protect-my-tyrant-dad/chapter-57": {
+      "name": "57"
+    },
     "https://azorafly.com/series/i-will-protect-my-tyrant-dad/chapter-56": {
       "name": "56"
     },
