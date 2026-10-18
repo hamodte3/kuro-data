@@ -9,12 +9,15 @@
   "rating": "7.2",
   "genres": [
     "عائلي",
-    "شوجو",
     "كوميدي",
+    "شوجو",
     "رومانسي"
   ],
   "is_novel": false,
   "chapters": {
+    "https://azorafly.com/series/raised-by-villains/chapter-161": {
+      "name": "161"
+    },
     "https://azorafly.com/series/raised-by-villains/chapter-160": {
       "name": "160"
     },

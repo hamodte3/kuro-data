@@ -9,13 +9,16 @@
   "rating": "9.8",
   "genres": [
     "سحر",
-    "ايسيكاي",
     "دراما",
     "رومانسي",
+    "ايسيكاي",
     "خيال"
   ],
   "is_novel": false,
   "chapters": {
+    "https://azorafly.com/series/black-killer-whale-baby/chapter-126": {
+      "name": "126"
+    },
     "https://azorafly.com/series/black-killer-whale-baby/chapter-125": {
       "name": "125"
     },
