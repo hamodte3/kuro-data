@@ -9,12 +9,15 @@
   "rating": "9.6",
   "genres": [
     "تناسخ",
-    "انتقام",
     "رومانسي",
-    "خيال"
+    "خيال",
+    "انتقام"
   ],
   "is_novel": false,
   "chapters": {
+    "https://azorafly.com/series/the-reason-the-villainess-took-up-the-sword/chapter-81": {
+      "name": "81"
+    },
     "https://azorafly.com/series/the-reason-the-villainess-took-up-the-sword/chapter-80": {
       "name": "80"
     },

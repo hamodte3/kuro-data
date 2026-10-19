@@ -8,11 +8,14 @@
   "last_update": "2026-08-18",
   "rating": "5.9",
   "genres": [
-    "رومانسي",
-    "دراما"
+    "دراما",
+    "رومانسي"
   ],
   "is_novel": false,
   "chapters": {
+    "https://azorafly.com/series/the-serpent-of-paradise1/chapter-27": {
+      "name": "27"
+    },
     "https://azorafly.com/series/the-serpent-of-paradise1/chapter-26": {
       "name": "26"
     },

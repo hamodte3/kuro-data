@@ -10,11 +10,14 @@
   "genres": [
     "رومانسى",
     "اطفال",
-    "كوميدي",
-    "فانتازيا"
+    "فانتازيا",
+    "كوميدي"
   ],
   "is_novel": false,
   "chapters": {
+    "https://azorafly.com/series/the-villainess-duke-lady-hides-her-identity/chapter-24": {
+      "name": "24"
+    },
     "https://azorafly.com/series/the-villainess-duke-lady-hides-her-identity/chapter-23": {
       "name": "23"
     },

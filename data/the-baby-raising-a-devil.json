@@ -10,18 +10,21 @@
   "genres": [
     "ايسكاي",
     "الحياة اليومية",
-    "إثارة",
     "سحر",
+    "دراما",
+    "شوجو",
+    "إثارة",
+    "رومانسي",
     "مغامرات",
     "تاريخي",
-    "غموض",
-    "شوجو",
-    "رومانسي",
-    "دراما",
-    "خيال"
+    "خيال",
+    "غموض"
   ],
   "is_novel": false,
   "chapters": {
+    "https://azorafly.com/series/the-baby-raising-a-devil/chapter-58": {
+      "name": "58"
+    },
     "https://azorafly.com/series/the-baby-raising-a-devil/chapter-57": {
       "name": "57"
     },
@@ -172,10 +175,10 @@
     "https://azorafly.com/series/the-baby-raising-a-devil/chapter-8": {
       "name": "8"
     },
-    "https://azorafly.com/series/the-baby-raising-a-devil/chapter-7_01": {
+    "https://azorafly.com/series/the-baby-raising-a-devil/chapter-7": {
       "name": "7"
     },
-    "https://azorafly.com/series/the-baby-raising-a-devil/chapter-7": {
+    "https://azorafly.com/series/the-baby-raising-a-devil/chapter-7_01": {
       "name": "7"
     },
     "https://azorafly.com/series/the-baby-raising-a-devil/chapter-6": {

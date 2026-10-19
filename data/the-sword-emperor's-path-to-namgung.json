@@ -9,11 +9,17 @@
   "rating": "10.0",
   "genres": [
     "اكشن",
-    "شونين",
-    "فنون قتالية"
+    "فنون قتالية",
+    "شونين"
   ],
   "is_novel": false,
   "chapters": {
+    "https://azorafly.com/series/the-sword-emperor's-path-to-namgung/chapter-31": {
+      "name": "31"
+    },
+    "https://azorafly.com/series/the-sword-emperor's-path-to-namgung/chapter-30": {
+      "name": "30"
+    },
     "https://azorafly.com/series/the-sword-emperor's-path-to-namgung/chapter-29": {
       "name": "29"
     },
