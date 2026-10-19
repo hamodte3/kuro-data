@@ -6,13 +6,16 @@
   "type": "مانهوا",
   "status": "مستمر",
   "last_update": "2026-05-07",
-  "rating": "8.9",
+  "rating": "9.0",
   "genres": [
-    "رومانسي",
-    "دراما"
+    "دراما",
+    "رومانسي"
   ],
   "is_novel": false,
   "chapters": {
+    "https://azorafly.com/series/becoming-a-family-with-the-duke-and-his-dear-son/chapter-73": {
+      "name": "73"
+    },
     "https://azorafly.com/series/becoming-a-family-with-the-duke-and-his-dear-son/chapter-72": {
       "name": "72"
     },
