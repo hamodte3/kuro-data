@@ -572,17 +572,6 @@
     "genres": []
   },
   {
-    "id": "سليل المملكة",
-    "title": "سليل المملكة",
-    "url": "https://kolnovel.com/series/kingdoms-bloodline",
-    "cover_url": "https://kolnovel.com/wp-content/uploads/2022/10/سليل-المملكة_20250918_161202_٠٠٠٠.png",
-    "type": "رواية",
-    "is_novel": true,
-    "rating": "9.0",
-    "total_chapters": 0,
-    "genres": []
-  },
-  {
     "id": "المئة عهد",
     "title": "المئة عهد",
     "url": "https://kolnovel.com/series/%d8%a7%d9%84%d9%85%d8%a6%d8%a9-%d8%b9%d9%87%d8%af",
@@ -997,31 +986,6 @@
     "status": "مستمر"
   },
   {
-    "id": "تاج المصيرين",
-    "title": "تاج المصيرين",
-    "url": "https://kolnovel.com/series/%d8%aa%d8%a7%d8%ac-%d8%a7%d9%84%d9%85%d8%b5%d9%8a%d8%b1%d9%8a%d9%86",
-    "cover_url": "https://kolnovel.com/wp-content/uploads/2026/10/file_00000000cf2882108d93c08f689ab874.png",
-    "type": "رواية",
-    "is_novel": true,
-    "rating": "7.5",
-    "total_chapters": 14,
-    "genres": [
-      "أكشن",
-      "تطور شخصيات",
-      "حروب",
-      "دراما",
-      "صراعات سياسية",
-      "عالم واسع",
-      "عشائر",
-      "غموض",
-      "فانتازيا",
-      "فنون قتالية",
-      "قوى خارقة",
-      "مغامرة"
-    ],
-    "status": "مستمر"
-  },
-  {
     "id": "المُتَحَرِّر",
     "title": "المُتَحَرِّر",
     "url": "https://kolnovel.com/series/%d8%a7%d9%84%d9%85%d9%8f%d8%aa%d9%8e%d8%ad%d9%8e%d8%b1%d9%90%d9%91%d8%b1",
@@ -1045,7 +1009,7 @@
     "cover_url": "https://kolnovel.com/wp-content/uploads/2026/07/بدون-اسم97_20260716015333.png",
     "type": "رواية",
     "is_novel": true,
-    "rating": "",
+    "rating": "7.5",
     "total_chapters": 50,
     "genres": [
       "أكشن",
@@ -1063,7 +1027,7 @@
     "cover_url": "https://kolnovel.com/wp-content/uploads/2026/05/cover_author_name_lowered.png",
     "type": "رواية",
     "is_novel": true,
-    "rating": "4.0",
+    "rating": "8.0",
     "total_chapters": 41,
     "genres": [
       "أكشن",
@@ -1168,30 +1132,6 @@
       "شريحة من الحياة",
       "غموض تدريجي",
       "كوميديا"
-    ],
-    "status": "مستمر"
-  },
-  {
-    "id": "ما نسيه العالم",
-    "title": "ما نسيه العالم",
-    "url": "https://kolnovel.com/series/%d9%85%d8%a7-%d9%86%d8%b3%d9%8a%d9%87-%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85",
-    "cover_url": "https://kolnovel.com/wp-content/uploads/2026/09/Gemini_Generated_Image_38s0mf38s0mf38s0.jpg",
-    "type": "رواية",
-    "is_novel": true,
-    "rating": "",
-    "total_chapters": 43,
-    "genres": [
-      "إثارة",
-      "استراتيجي",
-      "بطل رمادي",
-      "خيال مظلم",
-      "دراما",
-      "سحر",
-      "سياسية",
-      "غموض",
-      "مؤامرة",
-      "ماساة",
-      "نفسي"
     ],
     "status": "مستمر"
   },
@@ -1430,6 +1370,75 @@
       "فضاء",
       "مأساة",
       "نظام"
+    ],
+    "status": "مستمر"
+  },
+  {
+    "id": "سليل المملكة",
+    "title": "سليل المملكة",
+    "url": "https://kolnovel.com/series/kingdoms-bloodline",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2022/10/سليل-المملكة_20250918_161202_٠٠٠٠.png",
+    "type": "رواية",
+    "is_novel": true,
+    "rating": "5.0",
+    "total_chapters": 514,
+    "genres": [
+      "أكشن",
+      "خيال",
+      "دراما",
+      "سحر",
+      "فنون قتال",
+      "قوى خارقة",
+      "مغامرة"
+    ],
+    "status": "مستمر"
+  },
+  {
+    "id": "ما نسيه العالم",
+    "title": "ما نسيه العالم",
+    "url": "https://kolnovel.com/series/%d9%85%d8%a7-%d9%86%d8%b3%d9%8a%d9%87-%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2026/09/Gemini_Generated_Image_38s0mf38s0mf38s0.jpg",
+    "type": "رواية",
+    "is_novel": true,
+    "rating": "",
+    "total_chapters": 45,
+    "genres": [
+      "إثارة",
+      "استراتيجي",
+      "بطل رمادي",
+      "خيال مظلم",
+      "دراما",
+      "سحر",
+      "سياسية",
+      "غموض",
+      "مؤامرة",
+      "ماساة",
+      "نفسي"
+    ],
+    "status": "مستمر"
+  },
+  {
+    "id": "تاج المصيرين",
+    "title": "تاج المصيرين",
+    "url": "https://kolnovel.com/series/%d8%aa%d8%a7%d8%ac-%d8%a7%d9%84%d9%85%d8%b5%d9%8a%d8%b1%d9%8a%d9%86",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2026/10/file_00000000cf2882108d93c08f689ab874.png",
+    "type": "رواية",
+    "is_novel": true,
+    "rating": "",
+    "total_chapters": 15,
+    "genres": [
+      "أكشن",
+      "تطور شخصيات",
+      "حروب",
+      "دراما",
+      "صراعات سياسية",
+      "عالم واسع",
+      "عشائر",
+      "غموض",
+      "فانتازيا",
+      "فنون قتالية",
+      "قوى خارقة",
+      "مغامرة"
     ],
     "status": "مستمر"
   },

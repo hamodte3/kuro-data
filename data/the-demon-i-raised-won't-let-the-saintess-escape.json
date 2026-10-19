@@ -9,11 +9,14 @@
   "rating": "9.5",
   "genres": [
     "رومانسى",
-    "فنتازيا",
-    "دراما"
+    "دراما",
+    "فنتازيا"
   ],
   "is_novel": false,
   "chapters": {
+    "https://azorafly.com/series/the-demon-i-raised-won't-let-the-saintess-escape/chapter-19": {
+      "name": "19"
+    },
     "https://azorafly.com/series/the-demon-i-raised-won't-let-the-saintess-escape/chapter-18": {
       "name": "18"
     },
