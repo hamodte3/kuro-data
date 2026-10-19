@@ -6,17 +6,20 @@
   "type": "مانهوا",
   "status": "مستمر",
   "last_update": "2026-08-25",
-  "rating": "9.4",
+  "rating": "9.5",
   "genres": [
-    "تجسد",
     "مانهوا",
+    "تجسد",
+    "دراما",
     "كوميدي",
     "شوجو",
-    "رومانسي",
-    "دراما"
+    "رومانسي"
   ],
   "is_novel": false,
   "chapters": {
+    "https://azorafly.com/series/im-the-brave-puppy-that-will-save-the-villainess-2/chapter-48": {
+      "name": "48"
+    },
     "https://azorafly.com/series/im-the-brave-puppy-that-will-save-the-villainess-2/chapter-47": {
       "name": "47"
     },
