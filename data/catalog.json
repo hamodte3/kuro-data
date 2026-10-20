@@ -1,42 +1,5 @@
 [
   {
-    "id": "the-necromancer-of-a-swordsmanship-family",
-    "title": "The Necromancer of a Swordsmanship Family",
-    "url": "https://azorafly.com/series/the-necromancer-of-a-swordsmanship-family",
-    "cover_url": "https://storage.azorafly.com/upload/series/featured/6cac1de1-87ae-4a81-9cd1-2abe99fd84d7/af1811c5-ff09-4852-94a2-5494b120a0e7.jpg",
-    "type": "مانهوا",
-    "status": "مستمر",
-    "rating": "10.0",
-    "total_chapters": 32,
-    "genres": [
-      "اكشن",
-      "منافسين",
-      "خيال اكشن",
-      "تناسخ الارواح",
-      "نبلاء",
-      "شونين",
-      "ملوك",
-      "فنتازيا",
-      "خيال"
-    ]
-  },
-  {
-    "id": "the-seventh-prince-wants-to-bail",
-    "title": "The Seventh Prince Wants to Bail",
-    "url": "https://azorafly.com/series/the-seventh-prince-wants-to-bail",
-    "cover_url": "https://storage.azorafly.com/upload/series/featured/6cac1de1-87ae-4a81-9cd1-2abe99fd84d7/320675bd-1988-459d-ac60-ce44c8a7f055.jpg",
-    "type": "مانهوا",
-    "status": "مستمر",
-    "rating": "9.7",
-    "total_chapters": 26,
-    "genres": [
-      "اكشن",
-      "غموض",
-      "مغامرات",
-      "فنتازيا"
-    ]
-  },
-  {
     "id": "trash-of-the-counts-family",
     "title": "Trash of the Count's Family",
     "url": "https://azorafly.com/series/trash-of-the-counts-family",
@@ -3055,8 +3018,8 @@
     "genres": [
       "دراما",
       "كوميدي",
-      "رومانسي",
       "فنتازيا",
+      "رومانسي",
       "إعادة إحياء"
     ]
   },
@@ -3127,12 +3090,12 @@
     "rating": "10.0",
     "total_chapters": 52,
     "genres": [
+      "رعاية اطفال",
       "عائلي",
       "أيتام",
       "مانهوا",
-      "رعاية اطفال",
-      "فانتازيا",
       "دراما",
+      "فانتازيا",
       "رومانسي"
     ]
   },
@@ -3166,8 +3129,8 @@
       "خيالي",
       "دراما",
       "كوميدي",
-      "رومانسي",
-      "مغامرات"
+      "مغامرات",
+      "رومانسي"
     ]
   },
   {
@@ -3180,9 +3143,9 @@
     "rating": "9.9",
     "total_chapters": 31,
     "genres": [
-      "فانتازيا",
       "دراما",
       "كوميدي",
+      "فانتازيا",
       "رومانسي"
     ]
   },
@@ -3197,8 +3160,8 @@
     "total_chapters": 42,
     "genres": [
       "دراما",
-      "رومانسي",
-      "فنتازيا"
+      "فنتازيا",
+      "رومانسي"
     ]
   },
   {
@@ -3215,6 +3178,74 @@
       "تراجع",
       "مأساة",
       "مغامرة",
+      "فنتازيا"
+    ]
+  },
+  {
+    "id": "the-abandoned-princess-monopolizes-the-grand-duke's-favor",
+    "title": "The Abandoned Princess Monopolizes the Grand Duke's Favor",
+    "url": "https://azorafly.com/series/the-abandoned-princess-monopolizes-the-grand-duke's-favor",
+    "cover_url": "https://storage.azorafly.com/upload/series/featured/02408b52-85d5-445d-9e5c-f7dbcd583bf8/d4c0457d-16b9-4f6e-8c79-58e5fcd8335c.png",
+    "type": "مانهوا",
+    "status": "مستمر",
+    "rating": "10.0",
+    "total_chapters": 29,
+    "genres": [
+      "رومانسى",
+      "خيالي",
+      "انتقام"
+    ]
+  },
+  {
+    "id": "do-you-need-salvation",
+    "title": "Do you need salvation?",
+    "url": "https://azorafly.com/series/do-you-need-salvation",
+    "cover_url": "https://storage.azorafly.com/upload/series/featured/36b5afed-dad7-4e85-86ee-7629e1388021/ae0340c4-a271-4daa-89db-01058cba9cc7.jpeg",
+    "type": "مانهوا",
+    "status": "مستمر",
+    "rating": "10.0",
+    "total_chapters": 82,
+    "genres": [
+      "دراما",
+      "فنتازيا",
+      "رومانسي",
+      "تجسيد"
+    ]
+  },
+  {
+    "id": "the-necromancer-of-a-swordsmanship-family",
+    "title": "The Necromancer of a Swordsmanship Family",
+    "url": "https://azorafly.com/series/the-necromancer-of-a-swordsmanship-family",
+    "cover_url": "https://storage.azorafly.com/upload/series/featured/6cac1de1-87ae-4a81-9cd1-2abe99fd84d7/af1811c5-ff09-4852-94a2-5494b120a0e7.jpg",
+    "type": "مانهوا",
+    "status": "مستمر",
+    "rating": "10.0",
+    "total_chapters": 32,
+    "genres": [
+      "اكشن",
+      "منافسين",
+      "خيال اكشن",
+      "تناسخ الارواح",
+      "نبلاء",
+      "شونين",
+      "ملوك",
+      "فنتازيا",
+      "خيال"
+    ]
+  },
+  {
+    "id": "the-seventh-prince-wants-to-bail",
+    "title": "The Seventh Prince Wants to Bail",
+    "url": "https://azorafly.com/series/the-seventh-prince-wants-to-bail",
+    "cover_url": "https://storage.azorafly.com/upload/series/featured/6cac1de1-87ae-4a81-9cd1-2abe99fd84d7/320675bd-1988-459d-ac60-ce44c8a7f055.jpg",
+    "type": "مانهوا",
+    "status": "مستمر",
+    "rating": "9.7",
+    "total_chapters": 26,
+    "genres": [
+      "اكشن",
+      "غموض",
+      "مغامرات",
       "فنتازيا"
     ]
   },
@@ -5357,21 +5388,6 @@
     ]
   },
   {
-    "id": "the-abandoned-princess-monopolizes-the-grand-duke's-favor",
-    "title": "The Abandoned Princess Monopolizes the Grand Duke's Favor",
-    "url": "https://azorafly.com/series/the-abandoned-princess-monopolizes-the-grand-duke's-favor",
-    "cover_url": "https://storage.azorafly.com/upload/series/featured/02408b52-85d5-445d-9e5c-f7dbcd583bf8/d4c0457d-16b9-4f6e-8c79-58e5fcd8335c.png",
-    "type": "مانهوا",
-    "status": "مستمر",
-    "rating": "10.0",
-    "total_chapters": 28,
-    "genres": [
-      "خيالي",
-      "رومانسى",
-      "انتقام"
-    ]
-  },
-  {
     "id": "the-noble-man",
     "title": "The noble man",
     "url": "https://azorafly.com/series/the-noble-man",
@@ -6871,22 +6887,6 @@
       "مانهوا",
       "شوجو",
       "رومانسي"
-    ]
-  },
-  {
-    "id": "do-you-need-salvation",
-    "title": "Do you need salvation?",
-    "url": "https://azorafly.com/series/do-you-need-salvation",
-    "cover_url": "https://storage.azorafly.com/upload/series/featured/36b5afed-dad7-4e85-86ee-7629e1388021/ae0340c4-a271-4daa-89db-01058cba9cc7.jpeg",
-    "type": "مانهوا",
-    "status": "مستمر",
-    "rating": "10.0",
-    "total_chapters": 81,
-    "genres": [
-      "رومانسي",
-      "دراما",
-      "فنتازيا",
-      "تجسيد"
     ]
   },
   {

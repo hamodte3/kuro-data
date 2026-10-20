@@ -1135,30 +1135,6 @@
     "status": "مستمر"
   },
   {
-    "id": "ما نسيه العالم",
-    "title": "ما نسيه العالم",
-    "url": "https://kolnovel.com/series/%d9%85%d8%a7-%d9%86%d8%b3%d9%8a%d9%87-%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85",
-    "cover_url": "https://kolnovel.com/wp-content/uploads/2026/09/Gemini_Generated_Image_38s0mf38s0mf38s0.jpg",
-    "type": "رواية",
-    "is_novel": true,
-    "rating": "",
-    "total_chapters": 45,
-    "genres": [
-      "إثارة",
-      "استراتيجي",
-      "بطل رمادي",
-      "خيال مظلم",
-      "دراما",
-      "سحر",
-      "سياسية",
-      "غموض",
-      "مؤامرة",
-      "ماساة",
-      "نفسي"
-    ],
-    "status": "مستمر"
-  },
-  {
     "id": "العوالم في السماء",
     "title": "العوالم في السماء",
     "url": "https://kolnovel.com/series/%d8%a7%d9%84%d8%b9%d9%88%d8%a7%d9%84%d9%85-%d9%81%d9%8a-%d8%a7%d9%84%d8%b3%d9%85%d8%a7%d8%a1",
@@ -1258,26 +1234,6 @@
       "بطل وقح",
       "خيال",
       "شيانشيا",
-      "فنون قتال",
-      "مغامرة"
-    ],
-    "status": "مستمر"
-  },
-  {
-    "id": "أسرار سيد الدمى الخالد",
-    "title": "أسرار سيد الدمى الخالد",
-    "url": "https://kolnovel.com/series/%d8%a3%d8%b3%d8%b1%d8%a7%d8%b1-%d8%b3%d9%8a%d8%af-%d8%a7%d9%84%d8%af%d9%85%d9%89-%d8%a7%d9%84%d8%ae%d8%a7%d9%84%d8%af",
-    "cover_url": "https://kolnovel.com/wp-content/uploads/2025/07/بدون-اسم67_20260622033133.png",
-    "type": "رواية",
-    "is_novel": true,
-    "rating": "5.0",
-    "total_chapters": 183,
-    "genres": [
-      "أكشن",
-      "خيال",
-      "سينن",
-      "شيانشيا",
-      "غموض",
       "فنون قتال",
       "مغامرة"
     ],
@@ -1439,6 +1395,50 @@
       "فضاء",
       "مأساة",
       "نظام"
+    ],
+    "status": "مستمر"
+  },
+  {
+    "id": "ما نسيه العالم",
+    "title": "ما نسيه العالم",
+    "url": "https://kolnovel.com/series/%d9%85%d8%a7-%d9%86%d8%b3%d9%8a%d9%87-%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2026/09/Gemini_Generated_Image_38s0mf38s0mf38s0.jpg",
+    "type": "رواية",
+    "is_novel": true,
+    "rating": "",
+    "total_chapters": 47,
+    "genres": [
+      "إثارة",
+      "استراتيجي",
+      "بطل رمادي",
+      "خيال مظلم",
+      "دراما",
+      "سحر",
+      "سياسية",
+      "غموض",
+      "مؤامرة",
+      "ماساة",
+      "نفسي"
+    ],
+    "status": "مستمر"
+  },
+  {
+    "id": "أسرار سيد الدمى الخالد",
+    "title": "أسرار سيد الدمى الخالد",
+    "url": "https://kolnovel.com/series/%d8%a3%d8%b3%d8%b1%d8%a7%d8%b1-%d8%b3%d9%8a%d8%af-%d8%a7%d9%84%d8%af%d9%85%d9%89-%d8%a7%d9%84%d8%ae%d8%a7%d9%84%d8%af",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2025/07/بدون-اسم67_20260622033133.png",
+    "type": "رواية",
+    "is_novel": true,
+    "rating": "5.0",
+    "total_chapters": 184,
+    "genres": [
+      "أكشن",
+      "خيال",
+      "سينن",
+      "شيانشيا",
+      "غموض",
+      "فنون قتال",
+      "مغامرة"
     ],
     "status": "مستمر"
   },
