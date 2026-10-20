@@ -9,13 +9,16 @@
   "rating": "10.0",
   "genres": [
     "موريم",
-    "تاريخي",
+    "فنون قتالية",
     "أكشن",
-    "دراما",
-    "فنون قتالية"
+    "تاريخي",
+    "دراما"
   ],
   "is_novel": false,
   "chapters": {
+    "https://azorafly.com/series/the-youngest-son-of-the-eunhae-merchant-group/chapter-81": {
+      "name": "81"
+    },
     "https://azorafly.com/series/the-youngest-son-of-the-eunhae-merchant-group/chapter-80": {
       "name": "80"
     },
