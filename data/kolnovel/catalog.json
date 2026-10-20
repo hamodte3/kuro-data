@@ -1135,28 +1135,6 @@
     "status": "مستمر"
   },
   {
-    "id": "العوالم في السماء",
-    "title": "العوالم في السماء",
-    "url": "https://kolnovel.com/series/%d8%a7%d9%84%d8%b9%d9%88%d8%a7%d9%84%d9%85-%d9%81%d9%8a-%d8%a7%d9%84%d8%b3%d9%85%d8%a7%d8%a1",
-    "cover_url": "https://kolnovel.com/wp-content/uploads/2026/06/file_000000000e487243b1f720c3018a491e.png",
-    "type": "رواية",
-    "is_novel": true,
-    "rating": "",
-    "total_chapters": 273,
-    "genres": [
-      "أكشن",
-      "حريم",
-      "خيال",
-      "رومانسية",
-      "شوانهوان",
-      "فنون قتال",
-      "كوميديا",
-      "مغامرة",
-      "ناضج"
-    ],
-    "status": "مستمر"
-  },
-  {
     "id": "تاج المصيرين",
     "title": "تاج المصيرين",
     "url": "https://kolnovel.com/series/%d8%aa%d8%a7%d8%ac-%d8%a7%d9%84%d9%85%d8%b5%d9%8a%d8%b1%d9%8a%d9%86",
@@ -1260,23 +1238,6 @@
     "status": "متوقف مؤقتاً"
   },
   {
-    "id": "غوامض النبلاء",
-    "title": "غوامض النبلاء",
-    "url": "https://kolnovel.com/series/%d8%ba%d9%88%d8%a7%d9%85%d8%b6-%d8%a7%d9%84%d9%86%d8%a8%d9%84%d8%a7%d8%a1",
-    "cover_url": "https://kolnovel.com/wp-content/uploads/2026/09/بدون-اسم151_20260929090619.png",
-    "type": "رواية",
-    "is_novel": true,
-    "rating": "",
-    "total_chapters": 25,
-    "genres": [
-      "أكشن",
-      "خيال",
-      "دراما",
-      "غموض"
-    ],
-    "status": "مستمر"
-  },
-  {
     "id": "امبراطور الخيمياء في العالم السماوي",
     "title": "امبراطور الخيمياء في العالم السماوي",
     "url": "https://kolnovel.com/series/elchamy-ambarar-af-tha-divina-dea",
@@ -1310,27 +1271,6 @@
       "رعب",
       "غموض",
       "قوى خارقة",
-      "نفسي"
-    ],
-    "status": "مستمر"
-  },
-  {
-    "id": "ري: زيرو – بداية الحياة في عالم آخر",
-    "title": "ري: زيرو – بداية الحياة في عالم آخر",
-    "url": "https://kolnovel.com/series/%d8%b1%d9%8a-%d8%b2%d9%8a%d8%b1%d9%88-%d8%a8%d8%af%d8%a7%d9%8a%d8%a9-%d8%a7%d9%84%d8%ad%d9%8a%d8%a7%d8%a9-%d9%81%d9%8a-%d8%b9%d8%a7%d9%84%d9%85-%d8%a2%d8%ae%d8%b1",
-    "cover_url": "https://kolnovel.com/wp-content/uploads/2026/10/a826e405f732171c.webp",
-    "type": "رواية",
-    "is_novel": true,
-    "rating": "",
-    "total_chapters": 19,
-    "genres": [
-      "إثارة",
-      "إيسيكاي",
-      "خيال مظلم",
-      "دراما",
-      "رومانسية",
-      "غموض",
-      "مغامرة",
       "نفسي"
     ],
     "status": "مستمر"
@@ -1375,30 +1315,6 @@
     "status": "مستمر"
   },
   {
-    "id": "صعود شجرة الهاوية",
-    "title": "صعود شجرة الهاوية",
-    "url": "https://kolnovel.com/series/%d8%b5%d8%b9%d9%88%d8%af-%d8%b4%d8%ac%d8%b1%d8%a9-%d8%a7%d9%84%d9%87%d8%a7%d9%88%d9%8a%d8%a9",
-    "cover_url": "https://kolnovel.com/wp-content/uploads/2026/10/Crimson_World_Tree_Showdown.png",
-    "type": "رواية",
-    "is_novel": true,
-    "rating": "",
-    "total_chapters": 268,
-    "genres": [
-      "أعراق",
-      "بطل مضاد",
-      "بناء مملكة",
-      "حرب",
-      "حرب بين النجوم",
-      "زراعة",
-      "سلالة نادرة",
-      "غير بشري",
-      "فضاء",
-      "مأساة",
-      "نظام"
-    ],
-    "status": "مستمر"
-  },
-  {
     "id": "ما نسيه العالم",
     "title": "ما نسيه العالم",
     "url": "https://kolnovel.com/series/%d9%85%d8%a7-%d9%86%d8%b3%d9%8a%d9%87-%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85",
@@ -1439,6 +1355,90 @@
       "غموض",
       "فنون قتال",
       "مغامرة"
+    ],
+    "status": "مستمر"
+  },
+  {
+    "id": "غوامض النبلاء",
+    "title": "غوامض النبلاء",
+    "url": "https://kolnovel.com/series/%d8%ba%d9%88%d8%a7%d9%85%d8%b6-%d8%a7%d9%84%d9%86%d8%a8%d9%84%d8%a7%d8%a1",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2026/09/بدون-اسم151_20260929090619.png",
+    "type": "رواية",
+    "is_novel": true,
+    "rating": "",
+    "total_chapters": 26,
+    "genres": [
+      "أكشن",
+      "خيال",
+      "دراما",
+      "غموض"
+    ],
+    "status": "مستمر"
+  },
+  {
+    "id": "العوالم في السماء",
+    "title": "العوالم في السماء",
+    "url": "https://kolnovel.com/series/%d8%a7%d9%84%d8%b9%d9%88%d8%a7%d9%84%d9%85-%d9%81%d9%8a-%d8%a7%d9%84%d8%b3%d9%85%d8%a7%d8%a1",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2026/06/file_000000000e487243b1f720c3018a491e.png",
+    "type": "رواية",
+    "is_novel": true,
+    "rating": "",
+    "total_chapters": 276,
+    "genres": [
+      "أكشن",
+      "حريم",
+      "خيال",
+      "رومانسية",
+      "شوانهوان",
+      "فنون قتال",
+      "كوميديا",
+      "مغامرة",
+      "ناضج"
+    ],
+    "status": "مستمر"
+  },
+  {
+    "id": "صعود شجرة الهاوية",
+    "title": "صعود شجرة الهاوية",
+    "url": "https://kolnovel.com/series/%d8%b5%d8%b9%d9%88%d8%af-%d8%b4%d8%ac%d8%b1%d8%a9-%d8%a7%d9%84%d9%87%d8%a7%d9%88%d9%8a%d8%a9",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2026/10/Crimson_World_Tree_Showdown.png",
+    "type": "رواية",
+    "is_novel": true,
+    "rating": "",
+    "total_chapters": 269,
+    "genres": [
+      "أعراق",
+      "بطل مضاد",
+      "بناء مملكة",
+      "حرب",
+      "حرب بين النجوم",
+      "زراعة",
+      "سلالة نادرة",
+      "غير بشري",
+      "فضاء",
+      "مأساة",
+      "نظام"
+    ],
+    "status": "مستمر"
+  },
+  {
+    "id": "ري: زيرو – بداية الحياة في عالم آخر",
+    "title": "ري: زيرو – بداية الحياة في عالم آخر",
+    "url": "https://kolnovel.com/series/%d8%b1%d9%8a-%d8%b2%d9%8a%d8%b1%d9%88-%d8%a8%d8%af%d8%a7%d9%8a%d8%a9-%d8%a7%d9%84%d8%ad%d9%8a%d8%a7%d8%a9-%d9%81%d9%8a-%d8%b9%d8%a7%d9%84%d9%85-%d8%a2%d8%ae%d8%b1",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2026/10/a826e405f732171c.webp",
+    "type": "رواية",
+    "is_novel": true,
+    "rating": "",
+    "total_chapters": 20,
+    "genres": [
+      "إثارة",
+      "إيسيكاي",
+      "خيال مظلم",
+      "دراما",
+      "رومانسية",
+      "غموض",
+      "مغامرة",
+      "نفسي"
     ],
     "status": "مستمر"
   },
