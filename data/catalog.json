@@ -1,94 +1,5 @@
 [
   {
-    "id": "i-picked-up-a-framed-prince",
-    "title": "I Picked Up a Framed Prince",
-    "url": "https://azorafly.com/series/i-picked-up-a-framed-prince",
-    "cover_url": "https://storage.azorafly.com/upload/series/featured/a5vVlSc5huft2AzUyK1VxgKh1ckCWLbZ/b182a342-f0b5-4d57-b5a4-3299f15b1540.jpg",
-    "type": "رواية",
-    "status": "مستمر",
-    "rating": "9.4",
-    "total_chapters": 20,
-    "genres": [
-      "بدون تجسيد",
-      "رومانسي",
-      "تاريخي",
-      "كوميدي",
-      "خيال",
-      "دراما"
-    ]
-  },
-  {
-    "id": "i'm-entering-a-contract-marriage-with-my-child's-father",
-    "title": "I’m Entering a Contract Marriage with My Child’s Father",
-    "url": "https://azorafly.com/series/i'm-entering-a-contract-marriage-with-my-child's-father",
-    "cover_url": "https://storage.azorafly.com/public/upload/2026/02/24/b0112174-0707-42a4-b8f5-8f113e6e804b.webp",
-    "type": "رواية",
-    "status": "مستمر",
-    "rating": "10.0",
-    "total_chapters": 45,
-    "genres": [
-      "عائلي",
-      "رعاية أطفال",
-      "غموض",
-      "رومانسي",
-      "تاريخي",
-      "كوميدي",
-      "خيال"
-    ]
-  },
-  {
-    "id": "the-obsessive-maniacs-is-trying-to-confine",
-    "title": "The Obsessive Maniacs is Trying to Confine",
-    "url": "https://azorafly.com/series/the-obsessive-maniacs-is-trying-to-confine",
-    "cover_url": "https://storage.azorafly.com/upload/series/featured/ba3ee2b7-9312-4e67-8389-a607e6837edf/8d896583-0799-4aa4-befa-cc8a9c8a0b65.png",
-    "type": "مانهوا",
-    "status": "مستمر",
-    "rating": "7.8",
-    "total_chapters": 40,
-    "genres": [
-      "رومانسي",
-      "دراما"
-    ]
-  },
-  {
-    "id": "the-forgotten-fields",
-    "title": "The Forgotten Fields",
-    "url": "https://azorafly.com/series/the-forgotten-fields",
-    "cover_url": "https://storage.azorafly.com/upload/series/featured/gXgURMWDiDJ221UEUfe7aZFaAE1PF9X1/51afaa77-bf26-4041-b8ee-038f818330ba.jpg",
-    "type": "رواية",
-    "status": "مستمر",
-    "rating": "9.6",
-    "total_chapters": 308,
-    "genres": [
-      "كراهية",
-      "رجل نادم",
-      "زواج مرتب",
-      "عصور وسطى",
-      "مأساة",
-      "رومانسي",
-      "تاريخي",
-      "دراما"
-    ]
-  },
-  {
-    "id": "the-return-of-the-namgoong-clans-granddaughter",
-    "title": "The Return of the Namgoong Clan’s Granddaughter",
-    "url": "https://azorafly.com/series/the-return-of-the-namgoong-clans-granddaughter",
-    "cover_url": "https://storage.azorafly.com/upload/series/featured/f1fef4cc-ebcb-4b26-90b6-b65fe212f932/98fd9d63-1171-4f57-a679-ce7297027a9f.jpg",
-    "type": "مانهوا",
-    "status": "مستمر",
-    "rating": "9.5",
-    "total_chapters": 60,
-    "genres": [
-      "خيالي",
-      "عائلي",
-      "مغامرات",
-      "تاريخي",
-      "انتقام",
-      "رومانسي"
-    ]
-  },
-  {
     "id": "return-of-the-apocalypse-class-death-knight",
     "title": "Return of the Apocalypse-Class Death Knight",
     "url": "https://azorafly.com/series/return-of-the-apocalypse-class-death-knight",
@@ -2372,22 +2283,6 @@
     ]
   },
   {
-    "id": "i-saved-you-but-im-not-responsible",
-    "title": "I Saved You, But I'm Not Responsible",
-    "url": "https://azorafly.com/series/i-saved-you-but-im-not-responsible",
-    "cover_url": "https://storage.azorafly.com/upload/series/featured/f1fef4cc-ebcb-4b26-90b6-b65fe212f932/f4b0110c-dfc1-4d02-b4e3-c51da122650a.jpg",
-    "type": "مانهوا",
-    "status": "مستمر",
-    "rating": "8.9",
-    "total_chapters": 84,
-    "genres": [
-      "مانهوا",
-      "فانتازيا",
-      "دراما",
-      "رومانسي"
-    ]
-  },
-  {
     "id": "the-eldest-daughter's-flower-path",
     "title": "The Eldest Daughter’s Flower path",
     "url": "https://azorafly.com/series/the-eldest-daughter's-flower-path",
@@ -2553,21 +2448,6 @@
       "مغامرات",
       "فنتازيا",
       "أكشن"
-    ]
-  },
-  {
-    "id": "the-imperial-maiden",
-    "title": "The Imperial Maiden",
-    "url": "https://azorafly.com/series/the-imperial-maiden",
-    "cover_url": "https://storage.azorafly.com/upload/series/featured/02408b52-85d5-445d-9e5c-f7dbcd583bf8/b89faad3-0939-420e-aa19-6a394e5fea02.jpg",
-    "type": "مانهوا",
-    "status": "مستمر",
-    "rating": "10.0",
-    "total_chapters": 45,
-    "genres": [
-      "رومانسى",
-      "دراما",
-      "كوميدي"
     ]
   },
   {
@@ -3008,10 +2888,10 @@
     "rating": "9.8",
     "total_chapters": 59,
     "genres": [
-      "دراما",
       "كوميدي",
-      "رومانسي",
       "خيال",
+      "دراما",
+      "رومانسي",
       "عودة بالزمن"
     ]
   },
@@ -3026,9 +2906,9 @@
     "total_chapters": 56,
     "genres": [
       "خيالي",
-      "دراما",
       "كوميدي",
       "مغامرات",
+      "دراما",
       "رومانسي"
     ]
   },
@@ -3042,10 +2922,10 @@
     "rating": "9.9",
     "total_chapters": 31,
     "genres": [
-      "دراما",
       "كوميدي",
-      "فانتازيا",
-      "رومانسي"
+      "رومانسي",
+      "دراما",
+      "فانتازيا"
     ]
   },
   {
@@ -3058,8 +2938,8 @@
     "rating": "10.0",
     "total_chapters": 42,
     "genres": [
-      "دراما",
       "فنتازيا",
+      "دراما",
       "رومانسي"
     ]
   },
@@ -3102,28 +2982,12 @@
     "cover_url": "https://storage.azorafly.com/upload/series/featured/36b5afed-dad7-4e85-86ee-7629e1388021/ae0340c4-a271-4daa-89db-01058cba9cc7.jpeg",
     "type": "مانهوا",
     "status": "مستمر",
-    "rating": "10.0",
+    "rating": "9.9",
     "total_chapters": 82,
     "genres": [
+      "فنتازيا",
+      "تجسيد",
       "دراما",
-      "فنتازيا",
-      "رومانسي",
-      "تجسيد"
-    ]
-  },
-  {
-    "id": "how-i-became-a-married-man-in-another-world",
-    "title": "How I Became a Married Man in Another World",
-    "url": "https://azorafly.com/series/how-i-became-a-married-man-in-another-world",
-    "cover_url": "https://storage.azorafly.com/upload/series/featured/6cac1de1-87ae-4a81-9cd1-2abe99fd84d7/63515a2c-9822-4b80-bc61-048d1b2e9df7.webp",
-    "type": "مانهوا",
-    "status": "مستمر",
-    "rating": "9.8",
-    "total_chapters": 32,
-    "genres": [
-      "سينين",
-      "شوجو",
-      "فنتازيا",
       "رومانسي"
     ]
   },
@@ -3181,10 +3045,10 @@
     "total_chapters": 239,
     "genres": [
       "اسبوعي",
-      "دراما",
       "شوجو",
-      "رومانسي",
-      "خيال"
+      "خيال",
+      "دراما",
+      "رومانسي"
     ]
   },
   {
@@ -3197,9 +3061,229 @@
     "rating": "10.0",
     "total_chapters": 28,
     "genres": [
+      "خيال",
+      "دراما",
+      "رومانسي"
+    ]
+  },
+  {
+    "id": "how-i-became-a-married-man-in-another-world",
+    "title": "How I Became a Married Man in Another World",
+    "url": "https://azorafly.com/series/how-i-became-a-married-man-in-another-world",
+    "cover_url": "https://storage.azorafly.com/upload/series/featured/6cac1de1-87ae-4a81-9cd1-2abe99fd84d7/63515a2c-9822-4b80-bc61-048d1b2e9df7.webp",
+    "type": "مانهوا",
+    "status": "مستمر",
+    "rating": "9.8",
+    "total_chapters": 32,
+    "genres": [
+      "سينين",
+      "شوجو",
+      "فنتازيا",
+      "رومانسي"
+    ]
+  },
+  {
+    "id": "the-imperial-maiden",
+    "title": "The Imperial Maiden",
+    "url": "https://azorafly.com/series/the-imperial-maiden",
+    "cover_url": "https://storage.azorafly.com/upload/series/featured/02408b52-85d5-445d-9e5c-f7dbcd583bf8/b89faad3-0939-420e-aa19-6a394e5fea02.jpg",
+    "type": "مانهوا",
+    "status": "مستمر",
+    "rating": "10.0",
+    "total_chapters": 50,
+    "genres": [
+      "رومانسى",
+      "كوميدي",
+      "دراما"
+    ]
+  },
+  {
+    "id": "why-are-you-obsessed-even-though-youre-dead",
+    "title": "Why Are You Obsessed? Even Though You're Dead",
+    "url": "https://azorafly.com/series/why-are-you-obsessed-even-though-youre-dead",
+    "cover_url": "https://storage.azorafly.com/upload/series/featured/02408b52-85d5-445d-9e5c-f7dbcd583bf8/37047630-3742-45a7-b056-7f7c7c2e54bc.jpg",
+    "type": "مانهوا",
+    "status": "مستمر",
+    "rating": "9.2",
+    "total_chapters": 52,
+    "genres": [
+      "خيال",
+      "دراما",
+      "رومانسي"
+    ]
+  },
+  {
+    "id": "please-take-care-of-the-baby",
+    "title": "Please Take Care of the Baby!",
+    "url": "https://azorafly.com/series/please-take-care-of-the-baby",
+    "cover_url": "https://storage.azorafly.com/upload/series/featured/a5vVlSc5huft2AzUyK1VxgKh1ckCWLbZ/fb2ad0f0-b1c2-4481-89b2-9d2c3b117219.jpg",
+    "type": "رواية",
+    "status": "مستمر",
+    "rating": "10.0",
+    "total_chapters": 25,
+    "genres": [
+      "تسوندري",
+      "سحر",
+      "خيال",
+      "كوميدي",
+      "تاريخي",
       "دراما",
       "رومانسي",
+      "أكاديمية",
+      "رعاية أطفال",
+      "بدون تجسيد"
+    ]
+  },
+  {
+    "id": "i-saved-you-but-im-not-responsible",
+    "title": "I Saved You, But I'm Not Responsible",
+    "url": "https://azorafly.com/series/i-saved-you-but-im-not-responsible",
+    "cover_url": "https://storage.azorafly.com/upload/series/featured/f1fef4cc-ebcb-4b26-90b6-b65fe212f932/f4b0110c-dfc1-4d02-b4e3-c51da122650a.jpg",
+    "type": "مانهوا",
+    "status": "مستمر",
+    "rating": "8.9",
+    "total_chapters": 85,
+    "genres": [
+      "مانهوا",
+      "دراما",
+      "رومانسي",
+      "فانتازيا"
+    ]
+  },
+  {
+    "id": "darling-why-do-you-regret-it",
+    "title": "Darling, Why Do You Regret It?",
+    "url": "https://azorafly.com/series/darling-why-do-you-regret-it",
+    "cover_url": "https://storage.azorafly.com/2024/10/DM_20250819090519_001.jpg",
+    "type": "مانهوا",
+    "status": "مستمر",
+    "rating": "9.6",
+    "total_chapters": 72,
+    "genres": [
+      "شوجو",
+      "انتقام",
+      "رومانسي",
+      "فانتازيا"
+    ]
+  },
+  {
+    "id": "is-it-bad-that-the-main-character's-a-roleplayer",
+    "title": "Is It Bad That the Main Character’s a Roleplayer?",
+    "url": "https://azorafly.com/series/is-it-bad-that-the-main-character's-a-roleplayer",
+    "cover_url": "https://storage.azorafly.com/upload/series/featured/6cac1de1-87ae-4a81-9cd1-2abe99fd84d7/18e900ac-2a87-4457-a930-57c5f3edf42e.jpg",
+    "type": "مانهوا",
+    "status": "مستمر",
+    "rating": "10.0",
+    "total_chapters": 36,
+    "genres": [
+      "اكشن",
+      "خيال",
+      "دراما"
+    ]
+  },
+  {
+    "id": "i-will-pay-the-price-for-deceiving-you-with-my-life",
+    "title": "I Will Pay the Price for Deceiving You With My Life",
+    "url": "https://azorafly.com/series/i-will-pay-the-price-for-deceiving-you-with-my-life",
+    "cover_url": "https://storage.azorafly.com/2025/06/photo_5972233045807319435_y.jpg",
+    "type": "مانهوا",
+    "status": "مستمر",
+    "rating": "9.7",
+    "total_chapters": 67,
+    "genres": [
+      "انتقام",
+      "رومانسي",
+      "فانتازيا",
+      "عودة بالزمن"
+    ]
+  },
+  {
+    "id": "i-picked-up-a-framed-prince",
+    "title": "I Picked Up a Framed Prince",
+    "url": "https://azorafly.com/series/i-picked-up-a-framed-prince",
+    "cover_url": "https://storage.azorafly.com/upload/series/featured/a5vVlSc5huft2AzUyK1VxgKh1ckCWLbZ/b182a342-f0b5-4d57-b5a4-3299f15b1540.jpg",
+    "type": "رواية",
+    "status": "مستمر",
+    "rating": "9.4",
+    "total_chapters": 20,
+    "genres": [
+      "بدون تجسيد",
+      "رومانسي",
+      "تاريخي",
+      "كوميدي",
+      "خيال",
+      "دراما"
+    ]
+  },
+  {
+    "id": "i'm-entering-a-contract-marriage-with-my-child's-father",
+    "title": "I’m Entering a Contract Marriage with My Child’s Father",
+    "url": "https://azorafly.com/series/i'm-entering-a-contract-marriage-with-my-child's-father",
+    "cover_url": "https://storage.azorafly.com/public/upload/2026/02/24/b0112174-0707-42a4-b8f5-8f113e6e804b.webp",
+    "type": "رواية",
+    "status": "مستمر",
+    "rating": "10.0",
+    "total_chapters": 45,
+    "genres": [
+      "عائلي",
+      "رعاية أطفال",
+      "غموض",
+      "رومانسي",
+      "تاريخي",
+      "كوميدي",
       "خيال"
+    ]
+  },
+  {
+    "id": "the-obsessive-maniacs-is-trying-to-confine",
+    "title": "The Obsessive Maniacs is Trying to Confine",
+    "url": "https://azorafly.com/series/the-obsessive-maniacs-is-trying-to-confine",
+    "cover_url": "https://storage.azorafly.com/upload/series/featured/ba3ee2b7-9312-4e67-8389-a607e6837edf/8d896583-0799-4aa4-befa-cc8a9c8a0b65.png",
+    "type": "مانهوا",
+    "status": "مستمر",
+    "rating": "7.8",
+    "total_chapters": 40,
+    "genres": [
+      "رومانسي",
+      "دراما"
+    ]
+  },
+  {
+    "id": "the-forgotten-fields",
+    "title": "The Forgotten Fields",
+    "url": "https://azorafly.com/series/the-forgotten-fields",
+    "cover_url": "https://storage.azorafly.com/upload/series/featured/gXgURMWDiDJ221UEUfe7aZFaAE1PF9X1/51afaa77-bf26-4041-b8ee-038f818330ba.jpg",
+    "type": "رواية",
+    "status": "مستمر",
+    "rating": "9.6",
+    "total_chapters": 308,
+    "genres": [
+      "كراهية",
+      "رجل نادم",
+      "زواج مرتب",
+      "عصور وسطى",
+      "مأساة",
+      "رومانسي",
+      "تاريخي",
+      "دراما"
+    ]
+  },
+  {
+    "id": "the-return-of-the-namgoong-clans-granddaughter",
+    "title": "The Return of the Namgoong Clan’s Granddaughter",
+    "url": "https://azorafly.com/series/the-return-of-the-namgoong-clans-granddaughter",
+    "cover_url": "https://storage.azorafly.com/upload/series/featured/f1fef4cc-ebcb-4b26-90b6-b65fe212f932/98fd9d63-1171-4f57-a679-ce7297027a9f.jpg",
+    "type": "مانهوا",
+    "status": "مستمر",
+    "rating": "9.5",
+    "total_chapters": 60,
+    "genres": [
+      "خيالي",
+      "عائلي",
+      "مغامرات",
+      "تاريخي",
+      "انتقام",
+      "رومانسي"
     ]
   },
   {
@@ -4527,22 +4611,6 @@
     ]
   },
   {
-    "id": "darling-why-do-you-regret-it",
-    "title": "Darling, Why Do You Regret It?",
-    "url": "https://azorafly.com/series/darling-why-do-you-regret-it",
-    "cover_url": "https://storage.azorafly.com/2024/10/DM_20250819090519_001.jpg",
-    "type": "مانهوا",
-    "status": "مستمر",
-    "rating": "9.6",
-    "total_chapters": 70,
-    "genres": [
-      "شوجو",
-      "انتقام",
-      "رومانسي",
-      "فانتازيا"
-    ]
-  },
-  {
     "id": "the-forgotten-field",
     "title": "The Forgotten Field",
     "url": "https://azorafly.com/series/the-forgotten-field",
@@ -4911,21 +4979,6 @@
     ],
     "status": "مستمر",
     "rating": "10.0"
-  },
-  {
-    "id": "is-it-bad-that-the-main-character's-a-roleplayer",
-    "title": "Is It Bad That the Main Character’s a Roleplayer?",
-    "url": "https://azorafly.com/series/is-it-bad-that-the-main-character's-a-roleplayer",
-    "cover_url": "https://storage.azorafly.com/upload/series/featured/6cac1de1-87ae-4a81-9cd1-2abe99fd84d7/18e900ac-2a87-4457-a930-57c5f3edf42e.jpg",
-    "type": "مانهوا",
-    "status": "مستمر",
-    "rating": "10.0",
-    "total_chapters": 35,
-    "genres": [
-      "اكشن",
-      "خيال",
-      "دراما"
-    ]
   },
   {
     "id": "the-maid-will-kill-her-master-again-today",
@@ -6347,22 +6400,6 @@
       "خيالي",
       "رومانسي",
       "دراما"
-    ]
-  },
-  {
-    "id": "i-will-pay-the-price-for-deceiving-you-with-my-life",
-    "title": "I Will Pay the Price for Deceiving You With My Life",
-    "url": "https://azorafly.com/series/i-will-pay-the-price-for-deceiving-you-with-my-life",
-    "cover_url": "https://storage.azorafly.com/2025/06/photo_5972233045807319435_y.jpg",
-    "type": "مانهوا",
-    "status": "مستمر",
-    "rating": "9.6",
-    "total_chapters": 66,
-    "genres": [
-      "عودة بالزمن",
-      "انتقام",
-      "رومانسي",
-      "فانتازيا"
     ]
   },
   {
@@ -34086,25 +34123,6 @@
     ]
   },
   {
-    "id": "please-take-care-of-the-baby",
-    "title": "Please Take Care of the Baby!",
-    "url": "https://azorafly.com/series/please-take-care-of-the-baby",
-    "cover_url": "https://storage.azorafly.com/upload/series/featured/a5vVlSc5huft2AzUyK1VxgKh1ckCWLbZ/fb2ad0f0-b1c2-4481-89b2-9d2c3b117219.jpg",
-    "type": "رواية",
-    "status": "مستمر",
-    "rating": "9.5",
-    "total_chapters": 20,
-    "genres": [
-      "أكشن",
-      "تسوندري",
-      "سحر",
-      "تاريخي",
-      "دراما",
-      "كوميدي",
-      "خيال"
-    ]
-  },
-  {
     "id": "until-the-fake-ideal-type-becomes-real",
     "title": "Until the Fake Ideal Type Becomes Real",
     "url": "https://azorafly.com/series/until-the-fake-ideal-type-becomes-real",
@@ -36343,22 +36361,6 @@
     "total_chapters": 181,
     "genres": [
       "أكشن"
-    ]
-  },
-  {
-    "id": "why-are-you-obsessed-even-though-youre-dead",
-    "title": "Why Are You Obsessed? Even Though You're Dead",
-    "url": "https://azorafly.com/series/why-are-you-obsessed-even-though-youre-dead",
-    "cover_url": "https://storage.azorafly.com/upload/series/featured/02408b52-85d5-445d-9e5c-f7dbcd583bf8/37047630-3742-45a7-b056-7f7c7c2e54bc.jpg",
-    "type": "مانهوا",
-    "status": "مستمر",
-    "rating": "9.5",
-    "total_chapters": 51,
-    "genres": [
-      "أكشن",
-      "دراما",
-      "خيال",
-      "رومانسي"
     ]
   },
   {

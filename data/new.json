@@ -1,5 +1,96 @@
 [
   {
+    "id": "صعود شجرة الهاوية",
+    "title": "صعود شجرة الهاوية",
+    "chapter": "الفصل 270",
+    "type": "رواية",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2026/10/Crimson_World_Tree_Showdown.png"
+  },
+  {
+    "id": "ملك سمات الفنون القتالية",
+    "title": "ملك سمات الفنون القتالية",
+    "chapter": "الفصل 1530",
+    "type": "رواية",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2026/01/GIF-260910_004008.gif"
+  },
+  {
+    "id": "خالد العوالم التسعة",
+    "title": "خالد العوالم التسعة",
+    "chapter": "الفصل 87",
+    "type": "رواية",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2026/05/113296.png"
+  },
+  {
+    "id": "محنة الأجناس المتعددة",
+    "title": "محنة الأجناس المتعددة",
+    "chapter": "الفصل 54",
+    "type": "رواية",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2026/07/بدون-اسم97_20260716015333.png"
+  },
+  {
+    "id": "اتضح أنني من عشيرة الأشرار!",
+    "title": "اتضح أنني من عشيرة الأشرار!",
+    "chapter": "الفصل 379",
+    "type": "رواية",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2026/05/GIF-260606_171205.gif"
+  },
+  {
+    "id": "ملك قد لا يعود",
+    "title": "ملك قد لا يعود",
+    "chapter": "الفصل 39",
+    "type": "رواية",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2026/06/AKMNR_2MG-1.png"
+  },
+  {
+    "id": "i-will-pay-the-price-for-deceiving-you-with-my-life",
+    "title": "I Will Pay the Price for Deceiving You With My Life",
+    "chapter": "الفصل 67",
+    "type": "مانهوا",
+    "cover_url": "https://storage.azorafly.com/2025/06/photo_5972233045807319435_y.jpg"
+  },
+  {
+    "id": "is-it-bad-that-the-main-character's-a-roleplayer",
+    "title": "Is It Bad That the Main Character’s a Roleplayer?",
+    "chapter": "الفصل 36",
+    "type": "مانهوا",
+    "cover_url": "https://storage.azorafly.com/upload/series/featured/6cac1de1-87ae-4a81-9cd1-2abe99fd84d7/18e900ac-2a87-4457-a930-57c5f3edf42e.jpg"
+  },
+  {
+    "id": "darling-why-do-you-regret-it",
+    "title": "Darling, Why Do You Regret It?",
+    "chapter": "الفصل 72",
+    "type": "مانهوا",
+    "cover_url": "https://storage.azorafly.com/2024/10/DM_20250819090519_001.jpg"
+  },
+  {
+    "id": "i-saved-you-but-im-not-responsible",
+    "title": "I Saved You, But I'm Not Responsible",
+    "chapter": "الفصل 85",
+    "type": "مانهوا",
+    "cover_url": "https://storage.azorafly.com/upload/series/featured/f1fef4cc-ebcb-4b26-90b6-b65fe212f932/f4b0110c-dfc1-4d02-b4e3-c51da122650a.jpg"
+  },
+  {
+    "id": "please-take-care-of-the-baby",
+    "title": "Please Take Care of the Baby!",
+    "chapter": "الفصل 25",
+    "type": "رواية",
+    "cover_url": "https://storage.azorafly.com/upload/series/featured/a5vVlSc5huft2AzUyK1VxgKh1ckCWLbZ/fb2ad0f0-b1c2-4481-89b2-9d2c3b117219.jpg"
+  },
+  {
+    "id": "why-are-you-obsessed-even-though-youre-dead",
+    "title": "Why Are You Obsessed? Even Though You're Dead",
+    "chapter": "الفصل 52",
+    "type": "مانهوا",
+    "cover_url": "https://storage.azorafly.com/upload/series/featured/02408b52-85d5-445d-9e5c-f7dbcd583bf8/37047630-3742-45a7-b056-7f7c7c2e54bc.jpg"
+  },
+  {
+    "id": "the-imperial-maiden",
+    "title": "The Imperial Maiden",
+    "chapter": "الفصل 50",
+    "type": "مانهوا",
+    "cover_url": "https://storage.azorafly.com/upload/series/featured/02408b52-85d5-445d-9e5c-f7dbcd583bf8/b89faad3-0939-420e-aa19-6a394e5fea02.jpg"
+  },
+  {
     "id": "ري: زيرو – بداية الحياة في عالم آخر",
     "title": "ري: زيرو – بداية الحياة في عالم آخر",
     "chapter": "الفصل 20",
@@ -12,96 +103,5 @@
     "chapter": "الفصل 269",
     "type": "رواية",
     "cover_url": "https://kolnovel.com/wp-content/uploads/2026/10/Crimson_World_Tree_Showdown.png"
-  },
-  {
-    "id": "العوالم في السماء",
-    "title": "العوالم في السماء",
-    "chapter": "الفصل 276",
-    "type": "رواية",
-    "cover_url": "https://kolnovel.com/wp-content/uploads/2026/06/file_000000000e487243b1f720c3018a491e.png"
-  },
-  {
-    "id": "غوامض النبلاء",
-    "title": "غوامض النبلاء",
-    "chapter": "الفصل 26",
-    "type": "رواية",
-    "cover_url": "https://kolnovel.com/wp-content/uploads/2026/09/بدون-اسم151_20260929090619.png"
-  },
-  {
-    "id": "the-duchess's-secret-dressing-room",
-    "title": "The Duchess's Secret Dressing Room",
-    "chapter": "الفصل 28",
-    "type": "مانهوا",
-    "cover_url": "https://storage.azorafly.com/upload/series/featured/02408b52-85d5-445d-9e5c-f7dbcd583bf8/32b5d370-9555-413e-8490-628c73e41a57.jpg"
-  },
-  {
-    "id": "in-this-life-i-will-be-the-lord",
-    "title": "In This Life, I Will Be The Lord",
-    "chapter": "الفصل 239",
-    "type": "مانهوا",
-    "cover_url": "https://storage.azorafly.com/public/upload/2026/03/02/95664fc5-40fb-42ea-9e06-43c8539bb26a.webp"
-  },
-  {
-    "id": "how-to-turn-you-around",
-    "title": "How to Turn You Around",
-    "chapter": "الفصل 51",
-    "type": "مانهوا",
-    "cover_url": "https://storage.azorafly.com/upload/series/featured/02408b52-85d5-445d-9e5c-f7dbcd583bf8/f2d85348-9e25-4829-80ab-79d8234a4fda.png"
-  },
-  {
-    "id": "ovcharka",
-    "title": "Ovcharka",
-    "chapter": "الفصل 40",
-    "type": "مانهوا",
-    "cover_url": "https://storage.azorafly.com/upload/series/featured/2f0d0885-cadf-4561-bf7f-fef4221bfcec/b8303d2a-9abe-4121-9906-3191e95b4286.png"
-  },
-  {
-    "id": "the-villains-pure-love",
-    "title": "The Villain’s Pure Love",
-    "chapter": "الفصل 49",
-    "type": "مانهوا",
-    "cover_url": "https://storage.azorafly.com/public/upload/series/featured/02408b52-85d5-445d-9e5c-f7dbcd583bf8/a7861367-cefa-4ec2-b8f2-a8a0e032335d.jpg"
-  },
-  {
-    "id": "how-i-became-a-married-man-in-another-world",
-    "title": "How I Became a Married Man in Another World",
-    "chapter": "الفصل 32",
-    "type": "مانهوا",
-    "cover_url": "https://storage.azorafly.com/upload/series/featured/6cac1de1-87ae-4a81-9cd1-2abe99fd84d7/63515a2c-9822-4b80-bc61-048d1b2e9df7.webp"
-  },
-  {
-    "id": "أسرار سيد الدمى الخالد",
-    "title": "أسرار سيد الدمى الخالد",
-    "chapter": "الفصل 184",
-    "type": "رواية",
-    "cover_url": "https://kolnovel.com/wp-content/uploads/2025/07/بدون-اسم67_20260622033133.png"
-  },
-  {
-    "id": "ما نسيه العالم",
-    "title": "ما نسيه العالم",
-    "chapter": "الفصل 47",
-    "type": "رواية",
-    "cover_url": "https://kolnovel.com/wp-content/uploads/2026/09/Gemini_Generated_Image_38s0mf38s0mf38s0.jpg"
-  },
-  {
-    "id": "island-rock",
-    "title": "Island rock",
-    "chapter": "الفصل 14",
-    "type": "مانغا",
-    "cover_url": "https://3asq.online/wp-content/uploads/2026/10/i529531-175x238.jpg"
-  },
-  {
-    "id": "do-you-need-salvation",
-    "title": "Do you need salvation?",
-    "chapter": "الفصل 82",
-    "type": "مانهوا",
-    "cover_url": "https://storage.azorafly.com/upload/series/featured/36b5afed-dad7-4e85-86ee-7629e1388021/ae0340c4-a271-4daa-89db-01058cba9cc7.jpeg"
-  },
-  {
-    "id": "the-abandoned-princess-monopolizes-the-grand-duke's-favor",
-    "title": "The Abandoned Princess Monopolizes the Grand Duke's Favor",
-    "chapter": "الفصل 29",
-    "type": "مانهوا",
-    "cover_url": "https://storage.azorafly.com/upload/series/featured/02408b52-85d5-445d-9e5c-f7dbcd583bf8/d4c0457d-16b9-4f6e-8c79-58e5fcd8335c.png"
   }
 ]
