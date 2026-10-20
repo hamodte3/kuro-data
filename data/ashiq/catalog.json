@@ -628,15 +628,6 @@
     "genres": []
   },
   {
-    "id": "vanitas-no-carte",
-    "title": "Vanitas no Carte",
-    "url": "https://3asq.online/manga/vanitas-no-carte",
-    "cover_url": "https://3asq.online/wp-content/uploads/2020/07/2-175x238.jpg",
-    "type": "PandoraRevival",
-    "rating": "4.5",
-    "genres": []
-  },
-  {
     "id": "detective-conan",
     "title": "Detective Conan",
     "url": "https://3asq.online/manga/detective-conan",
@@ -944,7 +935,7 @@
     "url": "https://3asq.online/manga/anne-shirley",
     "cover_url": "https://3asq.online/wp-content/uploads/2025/04/anne-arabic-cover-final-175x238.jpg",
     "type": "مانغا",
-    "rating": "3.5",
+    "rating": "3.6",
     "genres": [
       "تاريخ",
       "دراما",
@@ -1270,6 +1261,22 @@
       "شونين"
     ],
     "status": "مستمر"
+  },
+  {
+    "id": "vanitas-no-carte",
+    "title": "Vanitas no Carte",
+    "url": "https://3asq.online/manga/vanitas-no-carte",
+    "cover_url": "https://3asq.online/wp-content/uploads/2020/07/2-175x238.jpg",
+    "type": "مانغا",
+    "rating": "4.5",
+    "genres": [
+      "خارق للطبيعة",
+      "خيال",
+      "غموض",
+      "مأساة"
+    ],
+    "status": "مستمر",
+    "total_chapters": 7
   },
   {
     "id": "kaoru-hana-wa-rin-to-saku",
