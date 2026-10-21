@@ -6,15 +6,21 @@
   "type": "مانهوا",
   "status": "مستمر",
   "last_update": "2026-09-17",
-  "rating": "9.0",
+  "rating": "8.6",
   "genres": [
     "جوسي",
     "تاريخي",
-    "رومانسي",
-    "دراما"
+    "دراما",
+    "رومانسي"
   ],
   "is_novel": false,
   "chapters": {
+    "https://azorafly.com/series/surviving-as-the-crown-princes-childhood-friend/chapter-19": {
+      "name": "19"
+    },
+    "https://azorafly.com/series/surviving-as-the-crown-princes-childhood-friend/chapter-18": {
+      "name": "18"
+    },
     "https://azorafly.com/series/surviving-as-the-crown-princes-childhood-friend/chapter-17": {
       "name": "17"
     },

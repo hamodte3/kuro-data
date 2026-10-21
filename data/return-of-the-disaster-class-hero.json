@@ -6,18 +6,21 @@
   "type": "مانهوا",
   "status": "مستمر",
   "last_update": "2026-05-07",
-  "rating": "9.8",
+  "rating": "9.9",
   "genres": [
     "اسبوعي",
     "مميز",
-    "مغامرات",
     "شونين",
-    "خيال",
+    "فنون قتالية",
+    "مغامرات",
     "أكشن",
-    "فنون قتالية"
+    "خيال"
   ],
   "is_novel": false,
   "chapters": {
+    "https://azorafly.com/series/return-of-the-disaster-class-hero/chapter-193": {
+      "name": "193"
+    },
     "https://azorafly.com/series/return-of-the-disaster-class-hero/chapter-192": {
       "name": "192"
     },
