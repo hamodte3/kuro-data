@@ -1,5 +1,47 @@
 [
   {
+    "id": "island-rock",
+    "title": "Island rock",
+    "chapter": "الفصل 15",
+    "type": "مانغا",
+    "cover_url": "https://3asq.online/wp-content/uploads/2026/10/8586-175x238.jpg"
+  },
+  {
+    "id": "picked-up-the-villain-from-a-ruined-rofan",
+    "title": "I Picked up the Villain from a Ruined RofanI",
+    "chapter": "الفصل 45",
+    "type": "رواية",
+    "cover_url": "https://storage.azorafly.com/public/upload/2026/03/18/15215cbe-468c-4cc4-af68-13d6b8bc5365.webp"
+  },
+  {
+    "id": "spoiler",
+    "title": "Spoiler",
+    "chapter": "الفصل 22",
+    "type": "مانهوا",
+    "cover_url": "https://storage.azorafly.com/public/upload/2026/04/01/6582f8fc-c350-439e-8779-dd1de1aeae5d.webp"
+  },
+  {
+    "id": "unofficia-campus-couple",
+    "title": "Unofficia Campus Couple",
+    "chapter": "الفصل 25",
+    "type": "مانهوا",
+    "cover_url": "https://storage.azorafly.com/upload/series/featured/6cac1de1-87ae-4a81-9cd1-2abe99fd84d7/d4cadd68-486b-4928-9430-2e990cb1b80a.jpg"
+  },
+  {
+    "id": "kneel-your-grace",
+    "title": "Kneel, Your Grace!",
+    "chapter": "الفصل 46",
+    "type": "مانهوا",
+    "cover_url": "https://storage.azorafly.com/upload/series/featured/36b5afed-dad7-4e85-86ee-7629e1388021/f411342b-281a-48a4-b979-40a937c83c24.jpg"
+  },
+  {
+    "id": "i-only-need-the-duke's-child1",
+    "title": "I Only Need the Duke's Child",
+    "chapter": "الفصل 33",
+    "type": "مانهوا",
+    "cover_url": "https://storage.azorafly.com/public/upload/series/featured/a5vVlSc5huft2AzUyK1VxgKh1ckCWLbZ/73f74805-6825-4bdf-9b58-de756a705173.png"
+  },
+  {
     "id": "صعود شجرة الهاوية",
     "title": "صعود شجرة الهاوية",
     "chapter": "الفصل 271",
@@ -61,47 +103,5 @@
     "chapter": "الفصل 71",
     "type": "مانهوا",
     "cover_url": "https://storage.azorafly.com/upload/series/featured/02408b52-85d5-445d-9e5c-f7dbcd583bf8/d98db37f-aacb-4e94-be04-c142553802f2.jpg"
-  },
-  {
-    "id": "a-monodrama-for-carolyn-august",
-    "title": "A Monodrama for Carolyn August",
-    "chapter": "الفصل 76",
-    "type": "رواية",
-    "cover_url": "https://storage.azorafly.com/upload/series/featured/a5vVlSc5huft2AzUyK1VxgKh1ckCWLbZ/ce5d5c38-91c4-418c-9262-b2f677cca55c.jpg"
-  },
-  {
-    "id": "to-you-who-have-forgotten-the-night",
-    "title": "To you, who have forgotten the night",
-    "chapter": "الفصل 60",
-    "type": "رواية",
-    "cover_url": "https://storage.azorafly.com/upload/series/featured/a5vVlSc5huft2AzUyK1VxgKh1ckCWLbZ/d640a844-ca6a-4d7b-aa8c-043c792c98f6.jpg"
-  },
-  {
-    "id": "on-a-perfect-revenge",
-    "title": "On a Perfect Revenge",
-    "chapter": "الفصل 35",
-    "type": "مانهوا",
-    "cover_url": "https://storage.azorafly.com/upload/series/featured/6cac1de1-87ae-4a81-9cd1-2abe99fd84d7/eda58526-9a19-47b7-b718-2c14d11a6c3f.jpg"
-  },
-  {
-    "id": "the-poisonous-princess-who-successfully-infiltrated-the-enemy-as-an-employee",
-    "title": "The Poisonous Princess Who Successfully Infiltrated the Enemy as an Employee",
-    "chapter": "الفصل 15",
-    "type": "رواية",
-    "cover_url": "https://storage.azorafly.com/upload/series/featured/a5vVlSc5huft2AzUyK1VxgKh1ckCWLbZ/11364856-10fd-4b65-810d-913f41ac7f15.jpg"
-  },
-  {
-    "id": "my-husband-and-i-are-in-different-genres",
-    "title": "My Husband and I Are in Different Genres",
-    "chapter": "الفصل 100",
-    "type": "رواية",
-    "cover_url": "https://storage.azorafly.com/upload/series/featured/a5vVlSc5huft2AzUyK1VxgKh1ckCWLbZ/aaa74cdb-969b-41df-b098-c659cba7bbb5.jpg"
-  },
-  {
-    "id": "the-terminally-ill-wife-wants-a-divorce",
-    "title": "The Terminally Ill Wife Wants a Divorce",
-    "chapter": "الفصل 25",
-    "type": "رواية",
-    "cover_url": "https://storage.azorafly.com/upload/series/featured/a5vVlSc5huft2AzUyK1VxgKh1ckCWLbZ/efcade56-3cc0-4e94-b0a6-86091242f8ab.jpg"
   }
 ]

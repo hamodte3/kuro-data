@@ -1249,20 +1249,6 @@
     ]
   },
   {
-    "id": "island-rock",
-    "title": "Island rock",
-    "url": "https://3asq.online/manga/island-rock",
-    "cover_url": "https://3asq.online/wp-content/uploads/2026/10/8586-175x238.jpg",
-    "type": "مانغا",
-    "rating": "3.0",
-    "total_chapters": 14,
-    "genres": [
-      "شريحة من الحياة",
-      "شونين"
-    ],
-    "status": "مستمر"
-  },
-  {
     "id": "vanitas-no-carte",
     "title": "Vanitas no Carte",
     "url": "https://3asq.online/manga/vanitas-no-carte",
@@ -1277,6 +1263,20 @@
     ],
     "status": "مستمر",
     "total_chapters": 7
+  },
+  {
+    "id": "island-rock",
+    "title": "Island rock",
+    "url": "https://3asq.online/manga/island-rock",
+    "cover_url": "https://3asq.online/wp-content/uploads/2026/10/8586-175x238.jpg",
+    "type": "مانغا",
+    "rating": "3.0",
+    "total_chapters": 15,
+    "genres": [
+      "شريحة من الحياة",
+      "شونين"
+    ],
+    "status": "مستمر"
   },
   {
     "id": "kaoru-hana-wa-rin-to-saku",

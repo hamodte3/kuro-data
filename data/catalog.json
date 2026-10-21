@@ -1,90 +1,5 @@
 [
   {
-    "id": "chat-with-me",
-    "title": "Chat with Me",
-    "url": "https://azorafly.com/series/chat-with-me",
-    "cover_url": "https://storage.azorafly.com/public/upload/series/featured/02408b52-85d5-445d-9e5c-f7dbcd583bf8/576a5732-164a-4bd3-a483-b02014e8eeb1.jpg",
-    "type": "مانهوا",
-    "status": "مستمر",
-    "rating": "9.8",
-    "total_chapters": 27,
-    "genres": [
-      "فانتازيا",
-      "دراما",
-      "كوميدي",
-      "رومانسي"
-    ]
-  },
-  {
-    "id": "a-strange-but-effective-villainess-life",
-    "title": "A Strange But Effective Villainess Life",
-    "url": "https://azorafly.com/series/a-strange-but-effective-villainess-life",
-    "cover_url": "https://storage.azorafly.com/2025/01/Untitled21_20250107215928.png",
-    "type": "مانهوا",
-    "status": "مستمر",
-    "rating": "9.6",
-    "total_chapters": 36,
-    "genres": [
-      "مانهوا",
-      "خيالي",
-      "سحر",
-      "فانتازيا",
-      "دراما",
-      "كوميدي",
-      "رومانسي",
-      "خيال",
-      "عودة بالزمن"
-    ]
-  },
-  {
-    "id": "counterattack-marriage",
-    "title": "Counterattack Marriage",
-    "url": "https://azorafly.com/series/counterattack-marriage",
-    "cover_url": "https://storage.azorafly.com/upload/series/featured/oGmL0DQZ16QInTPaeDKwFEK9ryegoy88/e483c9c3-af44-4f3d-887b-b1ce33e1818c.webp",
-    "type": "مانهوا",
-    "total_chapters": 8,
-    "genres": [
-      "عصرى",
-      "رومانسى",
-      "اثاره",
-      "دراما",
-      "انتقام"
-    ],
-    "status": "مستمر",
-    "rating": "5.8"
-  },
-  {
-    "id": "regression-of-the-yong-clan-heir",
-    "title": "Regression of the Yong Clan Heir",
-    "url": "https://azorafly.com/series/regression-of-the-yong-clan-heir",
-    "cover_url": "https://storage.azorafly.com/2024/12/A21.webp",
-    "type": "مانهوا",
-    "status": "مستمر",
-    "rating": "9.0",
-    "total_chapters": 64,
-    "genres": [
-      "زمكاني",
-      "خيال",
-      "أكشن",
-      "فنون قتالية"
-    ]
-  },
-  {
-    "id": "the-evil-ring",
-    "title": "The evil ring",
-    "url": "https://azorafly.com/series/the-evil-ring",
-    "cover_url": "https://storage.azorafly.com/2025/06/aad.webp",
-    "type": "مانهوا",
-    "status": "مستمر",
-    "rating": "10.0",
-    "total_chapters": 96,
-    "genres": [
-      "دراما",
-      "خيال",
-      "أكشن"
-    ]
-  },
-  {
     "id": "the-scorched-desert's-sand-mage",
     "title": "Sand Mage of the Scorched Desert",
     "url": "https://azorafly.com/series/the-scorched-desert's-sand-mage",
@@ -2999,7 +2914,7 @@
     "cover_url": "https://storage.azorafly.com/public/upload/series/featured/02408b52-85d5-445d-9e5c-f7dbcd583bf8/762c91d9-cd23-49c7-bbd4-95b7d9ed3f18.jpg",
     "type": "مانهوا",
     "status": "مستمر",
-    "rating": "9.8",
+    "rating": "9.4",
     "total_chapters": 79,
     "genres": [
       "دراما",
@@ -3175,6 +3090,168 @@
     ],
     "status": "مستمر",
     "rating": "9.0"
+  },
+  {
+    "id": "i-only-need-the-duke's-child1",
+    "title": "I Only Need the Duke's Child",
+    "url": "https://azorafly.com/series/i-only-need-the-duke's-child1",
+    "cover_url": "https://storage.azorafly.com/public/upload/series/featured/a5vVlSc5huft2AzUyK1VxgKh1ckCWLbZ/73f74805-6825-4bdf-9b58-de756a705173.png",
+    "type": "مانهوا",
+    "status": "مستمر",
+    "rating": "8.4",
+    "total_chapters": 33,
+    "genres": [
+      "رومانسي",
+      "دراما",
+      "فانتازيا"
+    ]
+  },
+  {
+    "id": "kneel-your-grace",
+    "title": "Kneel, Your Grace!",
+    "url": "https://azorafly.com/series/kneel-your-grace",
+    "cover_url": "https://storage.azorafly.com/upload/series/featured/36b5afed-dad7-4e85-86ee-7629e1388021/f411342b-281a-48a4-b979-40a937c83c24.jpg",
+    "type": "مانهوا",
+    "status": "مستمر",
+    "rating": "9.9",
+    "total_chapters": 46,
+    "genres": []
+  },
+  {
+    "id": "unofficia-campus-couple",
+    "title": "Unofficia Campus Couple",
+    "url": "https://azorafly.com/series/unofficia-campus-couple",
+    "cover_url": "https://storage.azorafly.com/upload/series/featured/6cac1de1-87ae-4a81-9cd1-2abe99fd84d7/d4cadd68-486b-4928-9430-2e990cb1b80a.jpg",
+    "type": "مانهوا",
+    "status": "مستمر",
+    "rating": "6.3",
+    "total_chapters": 25,
+    "genres": [
+      "حياة مدرسية",
+      "فنتازيا",
+      "رومانسي",
+      "دراما"
+    ]
+  },
+  {
+    "id": "spoiler",
+    "title": "Spoiler",
+    "url": "https://azorafly.com/series/spoiler",
+    "cover_url": "https://storage.azorafly.com/public/upload/2026/04/01/6582f8fc-c350-439e-8779-dd1de1aeae5d.webp",
+    "type": "مانهوا",
+    "status": "مستمر",
+    "rating": "10.0",
+    "total_chapters": 22,
+    "genres": [
+      "حياة مدرسية",
+      "خارق للطبيعة",
+      "جريمة",
+      "إثارة",
+      "غموض"
+    ]
+  },
+  {
+    "id": "picked-up-the-villain-from-a-ruined-rofan",
+    "title": "I Picked up the Villain from a Ruined RofanI",
+    "url": "https://azorafly.com/series/picked-up-the-villain-from-a-ruined-rofan",
+    "cover_url": "https://storage.azorafly.com/public/upload/2026/03/18/15215cbe-468c-4cc4-af68-13d6b8bc5365.webp",
+    "type": "رواية",
+    "status": "مستمر",
+    "rating": "8.8",
+    "total_chapters": 45,
+    "genres": [
+      "كوميدي",
+      "تجسيد",
+      "رومانسي",
+      "تاريخي",
+      "دراما",
+      "غموض"
+    ]
+  },
+  {
+    "id": "chat-with-me",
+    "title": "Chat with Me",
+    "url": "https://azorafly.com/series/chat-with-me",
+    "cover_url": "https://storage.azorafly.com/public/upload/series/featured/02408b52-85d5-445d-9e5c-f7dbcd583bf8/576a5732-164a-4bd3-a483-b02014e8eeb1.jpg",
+    "type": "مانهوا",
+    "status": "مستمر",
+    "rating": "9.8",
+    "total_chapters": 27,
+    "genres": [
+      "فانتازيا",
+      "دراما",
+      "كوميدي",
+      "رومانسي"
+    ]
+  },
+  {
+    "id": "a-strange-but-effective-villainess-life",
+    "title": "A Strange But Effective Villainess Life",
+    "url": "https://azorafly.com/series/a-strange-but-effective-villainess-life",
+    "cover_url": "https://storage.azorafly.com/2025/01/Untitled21_20250107215928.png",
+    "type": "مانهوا",
+    "status": "مستمر",
+    "rating": "9.6",
+    "total_chapters": 36,
+    "genres": [
+      "مانهوا",
+      "خيالي",
+      "سحر",
+      "فانتازيا",
+      "دراما",
+      "كوميدي",
+      "رومانسي",
+      "خيال",
+      "عودة بالزمن"
+    ]
+  },
+  {
+    "id": "counterattack-marriage",
+    "title": "Counterattack Marriage",
+    "url": "https://azorafly.com/series/counterattack-marriage",
+    "cover_url": "https://storage.azorafly.com/upload/series/featured/oGmL0DQZ16QInTPaeDKwFEK9ryegoy88/e483c9c3-af44-4f3d-887b-b1ce33e1818c.webp",
+    "type": "مانهوا",
+    "total_chapters": 8,
+    "genres": [
+      "عصرى",
+      "رومانسى",
+      "اثاره",
+      "دراما",
+      "انتقام"
+    ],
+    "status": "مستمر",
+    "rating": "5.8"
+  },
+  {
+    "id": "regression-of-the-yong-clan-heir",
+    "title": "Regression of the Yong Clan Heir",
+    "url": "https://azorafly.com/series/regression-of-the-yong-clan-heir",
+    "cover_url": "https://storage.azorafly.com/2024/12/A21.webp",
+    "type": "مانهوا",
+    "status": "مستمر",
+    "rating": "9.0",
+    "total_chapters": 64,
+    "genres": [
+      "زمكاني",
+      "خيال",
+      "أكشن",
+      "فنون قتالية"
+    ]
+  },
+  {
+    "id": "the-evil-ring",
+    "title": "The evil ring",
+    "url": "https://azorafly.com/series/the-evil-ring",
+    "cover_url": "https://storage.azorafly.com/2025/06/aad.webp",
+    "type": "مانهوا",
+    "status": "مستمر",
+    "rating": "10.0",
+    "total_chapters": 96,
+    "genres": [
+      "دراما",
+      "خيال",
+      "أكشن"
+    ]
   },
   {
     "id": "i-became-the-daughter-of-a-worthless-duke",
@@ -4271,21 +4348,6 @@
     ]
   },
   {
-    "id": "i-only-need-the-duke's-child1",
-    "title": "I Only Need the Duke's Child",
-    "url": "https://azorafly.com/series/i-only-need-the-duke's-child1",
-    "cover_url": "https://storage.azorafly.com/public/upload/series/featured/a5vVlSc5huft2AzUyK1VxgKh1ckCWLbZ/73f74805-6825-4bdf-9b58-de756a705173.png",
-    "type": "مانهوا",
-    "status": "مستمر",
-    "rating": "8.4",
-    "total_chapters": 32,
-    "genres": [
-      "رومانسي",
-      "فانتازيا",
-      "دراما"
-    ]
-  },
-  {
     "id": "my-ancestors-are-watching-me",
     "title": "My Ancestors Are Watching Me",
     "url": "https://azorafly.com/series/my-ancestors-are-watching-me",
@@ -4533,24 +4595,6 @@
       "جوسي",
       "تاريخي",
       "رومانسي",
-      "دراما"
-    ]
-  },
-  {
-    "id": "picked-up-the-villain-from-a-ruined-rofan",
-    "title": "I Picked up the Villain from a Ruined RofanI",
-    "url": "https://azorafly.com/series/picked-up-the-villain-from-a-ruined-rofan",
-    "cover_url": "https://storage.azorafly.com/public/upload/2026/03/18/15215cbe-468c-4cc4-af68-13d6b8bc5365.webp",
-    "type": "رواية",
-    "status": "مستمر",
-    "rating": "8.5",
-    "total_chapters": 40,
-    "genres": [
-      "غموض",
-      "تجسيد",
-      "تاريخي",
-      "رومانسي",
-      "كوميدي",
       "دراما"
     ]
   },
@@ -5501,22 +5545,6 @@
     ]
   },
   {
-    "id": "unofficia-campus-couple",
-    "title": "Unofficia Campus Couple",
-    "url": "https://azorafly.com/series/unofficia-campus-couple",
-    "cover_url": "https://storage.azorafly.com/upload/series/featured/6cac1de1-87ae-4a81-9cd1-2abe99fd84d7/d4cadd68-486b-4928-9430-2e990cb1b80a.jpg",
-    "type": "مانهوا",
-    "status": "مستمر",
-    "rating": "6.3",
-    "total_chapters": 24,
-    "genres": [
-      "حياة مدرسية",
-      "رومانسي",
-      "دراما",
-      "فنتازيا"
-    ]
-  },
-  {
     "id": "as-your-heart-leads-you",
     "title": "As Your Heart Leads You",
     "url": "https://azorafly.com/series/as-your-heart-leads-you",
@@ -5934,17 +5962,6 @@
       "رومانسى",
       "موريم"
     ]
-  },
-  {
-    "id": "kneel-your-grace",
-    "title": "Kneel, Your Grace!",
-    "url": "https://azorafly.com/series/kneel-your-grace",
-    "cover_url": "https://storage.azorafly.com/upload/series/featured/36b5afed-dad7-4e85-86ee-7629e1388021/f411342b-281a-48a4-b979-40a937c83c24.jpg",
-    "type": "مانهوا",
-    "status": "مستمر",
-    "rating": "9.9",
-    "total_chapters": 45,
-    "genres": []
   },
   {
     "id": "lucid-lucy",
@@ -34893,24 +34910,6 @@
       "دراما",
       "رومانسي",
       "شوجو"
-    ]
-  },
-  {
-    "id": "spoiler",
-    "title": "Spoiler",
-    "url": "https://azorafly.com/series/spoiler",
-    "cover_url": "https://storage.azorafly.com/public/upload/2026/04/01/6582f8fc-c350-439e-8779-dd1de1aeae5d.webp",
-    "type": "مانهوا",
-    "status": "مستمر",
-    "rating": "9.5",
-    "total_chapters": 21,
-    "genres": [
-      "أكشن",
-      "خارق للطبيعة",
-      "حياة مدرسية",
-      "جريمة",
-      "إثارة",
-      "غموض"
     ]
   },
   {
