@@ -9,11 +9,14 @@
   "rating": "9.8",
   "genres": [
     "رومانسى",
-    "دراما شوجو",
-    "خيالي"
+    "خيالي",
+    "دراما شوجو"
   ],
   "is_novel": false,
   "chapters": {
+    "https://azorafly.com/series/i-bought-the-villains-with-money/chapter-23": {
+      "name": "23"
+    },
     "https://azorafly.com/series/i-bought-the-villains-with-money/chapter-22": {
       "name": "22"
     },

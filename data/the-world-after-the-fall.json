@@ -9,14 +9,17 @@
   "rating": "8.2",
   "genres": [
     "مميز",
-    "مغامرات",
     "شونين",
+    "فنون قتالية",
+    "مغامرات",
     "خيال",
-    "أكشن",
-    "فنون قتالية"
+    "أكشن"
   ],
   "is_novel": false,
   "chapters": {
+    "https://azorafly.com/series/the-world-after-the-fall/chapter-257": {
+      "name": "257"
+    },
     "https://azorafly.com/series/the-world-after-the-fall/chapter-256": {
       "name": "256"
     },

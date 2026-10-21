@@ -8,13 +8,19 @@
   "last_update": "2026-09-16",
   "rating": "8.4",
   "genres": [
-    "خيالي",
     "اكشن",
+    "خيالي",
     "فنتازيا",
     "دراما"
   ],
   "is_novel": false,
   "chapters": {
+    "https://azorafly.com/series/world-destruction-war/chapter-14": {
+      "name": "14"
+    },
+    "https://azorafly.com/series/world-destruction-war/chapter-13": {
+      "name": "13"
+    },
     "https://azorafly.com/series/world-destruction-war/chapter-12": {
       "name": "12"
     },

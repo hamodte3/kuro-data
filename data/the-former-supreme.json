@@ -8,12 +8,15 @@
   "last_update": "2026-08-08",
   "rating": "9.4",
   "genres": [
+    "فنون قتالية",
     "مغامرات",
-    "أكشن",
-    "فنون قتالية"
+    "أكشن"
   ],
   "is_novel": false,
   "chapters": {
+    "https://azorafly.com/series/the-former-supreme/chapter-21": {
+      "name": "21"
+    },
     "https://azorafly.com/series/the-former-supreme/chapter-20": {
       "name": "20"
     },
