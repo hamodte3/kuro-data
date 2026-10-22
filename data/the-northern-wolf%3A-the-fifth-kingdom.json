@@ -11,15 +11,21 @@
     "حروب",
     "سياسة",
     "رواية مؤلفة",
-    "دراما",
     "سحر",
-    "خيال",
     "فانتازيا",
+    "خيال",
+    "دراما",
     "أكشن",
     "كوميدي"
   ],
   "is_novel": false,
   "chapters": {
+    "https://azorafly.com/series/the-northern-wolf%3A-the-fifth-kingdom/chapter-121": {
+      "name": "121"
+    },
+    "https://azorafly.com/series/the-northern-wolf%3A-the-fifth-kingdom/chapter-120": {
+      "name": "120"
+    },
     "https://azorafly.com/series/the-northern-wolf%3A-the-fifth-kingdom/chapter-119": {
       "name": "119"
     },

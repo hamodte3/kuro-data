@@ -9,12 +9,15 @@
   "rating": "8.8",
   "genres": [
     "شريحة من الحياة",
+    "دراما",
     "رومانسي",
-    "كوميدي",
-    "دراما"
+    "كوميدي"
   ],
   "is_novel": false,
   "chapters": {
+    "https://azorafly.com/series/the-debtor's-lover/chapter-27": {
+      "name": "27"
+    },
     "https://azorafly.com/series/the-debtor's-lover/chapter-26": {
       "name": "26"
     },

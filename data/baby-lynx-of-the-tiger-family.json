@@ -9,10 +9,71 @@
   "rating": "9.5",
   "genres": [
     "رومانسى",
-    "دراما",
     "فنتازيا",
-    "كوميدي"
+    "كوميدي",
+    "دراما"
   ],
   "is_novel": false,
-  "chapters": {}
+  "chapters": {
+    "https://azorafly.com/series/baby-lynx-of-the-tiger-family/chapter-20": {
+      "name": "20"
+    },
+    "https://azorafly.com/series/baby-lynx-of-the-tiger-family/chapter-19": {
+      "name": "19"
+    },
+    "https://azorafly.com/series/baby-lynx-of-the-tiger-family/chapter-18": {
+      "name": "18"
+    },
+    "https://azorafly.com/series/baby-lynx-of-the-tiger-family/chapter-17": {
+      "name": "17"
+    },
+    "https://azorafly.com/series/baby-lynx-of-the-tiger-family/chapter-16": {
+      "name": "16"
+    },
+    "https://azorafly.com/series/baby-lynx-of-the-tiger-family/chapter-15": {
+      "name": "15"
+    },
+    "https://azorafly.com/series/baby-lynx-of-the-tiger-family/chapter-14": {
+      "name": "14"
+    },
+    "https://azorafly.com/series/baby-lynx-of-the-tiger-family/chapter-13": {
+      "name": "13"
+    },
+    "https://azorafly.com/series/baby-lynx-of-the-tiger-family/chapter-12": {
+      "name": "12"
+    },
+    "https://azorafly.com/series/baby-lynx-of-the-tiger-family/chapter-11": {
+      "name": "11"
+    },
+    "https://azorafly.com/series/baby-lynx-of-the-tiger-family/chapter-10": {
+      "name": "10"
+    },
+    "https://azorafly.com/series/baby-lynx-of-the-tiger-family/chapter-9": {
+      "name": "9"
+    },
+    "https://azorafly.com/series/baby-lynx-of-the-tiger-family/chapter-8": {
+      "name": "8"
+    },
+    "https://azorafly.com/series/baby-lynx-of-the-tiger-family/chapter-7": {
+      "name": "7"
+    },
+    "https://azorafly.com/series/baby-lynx-of-the-tiger-family/chapter-6": {
+      "name": "6"
+    },
+    "https://azorafly.com/series/baby-lynx-of-the-tiger-family/chapter-5": {
+      "name": "5"
+    },
+    "https://azorafly.com/series/baby-lynx-of-the-tiger-family/chapter-4": {
+      "name": "4"
+    },
+    "https://azorafly.com/series/baby-lynx-of-the-tiger-family/chapter-3": {
+      "name": "3"
+    },
+    "https://azorafly.com/series/baby-lynx-of-the-tiger-family/chapter-2": {
+      "name": "2"
+    },
+    "https://azorafly.com/series/baby-lynx-of-the-tiger-family/chapter-1": {
+      "name": "1"
+    }
+  }
 }
