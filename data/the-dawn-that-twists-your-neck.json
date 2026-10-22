@@ -9,12 +9,15 @@
   "rating": "9.6",
   "genres": [
     "خيالي",
-    "دراما",
+    "انتقام",
     "تاريخي",
-    "انتقام"
+    "دراما"
   ],
   "is_novel": false,
   "chapters": {
+    "https://azorafly.com/series/the-dawn-that-twists-your-neck/chapter-69": {
+      "name": "69"
+    },
     "https://azorafly.com/series/the-dawn-that-twists-your-neck/chapter-68": {
       "name": "68"
     },

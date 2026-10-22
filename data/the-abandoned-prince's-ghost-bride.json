@@ -6,14 +6,17 @@
   "type": "مانهوا",
   "status": "مستمر",
   "last_update": "2026-07-12",
-  "rating": "8.2",
+  "rating": "7.9",
   "genres": [
-    "خيالي",
     "رعاية اطفال",
+    "خيالي",
     "رومانسي"
   ],
   "is_novel": false,
   "chapters": {
+    "https://azorafly.com/series/the-abandoned-prince's-ghost-bride/chapter-36": {
+      "name": "36"
+    },
     "https://azorafly.com/series/the-abandoned-prince's-ghost-bride/chapter-35": {
       "name": "35"
     },

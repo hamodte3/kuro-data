@@ -6,13 +6,16 @@
   "type": "مانهوا",
   "status": "مستمر",
   "last_update": "2026-10-07",
-  "rating": "9.8",
+  "rating": "9.7",
   "genres": [
     "دراما",
     "رومانسي"
   ],
   "is_novel": false,
   "chapters": {
+    "https://azorafly.com/series/the-eldest-daughter's-flower-path/chapter-44": {
+      "name": "44"
+    },
     "https://azorafly.com/series/the-eldest-daughter's-flower-path/chapter-43": {
       "name": "43"
     },

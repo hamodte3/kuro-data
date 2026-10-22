@@ -10,13 +10,16 @@
   "genres": [
     "شريحة من الحياة",
     "تجسد",
-    "كوميدي",
-    "خيال",
     "رومانسي",
-    "دراما"
+    "دراما",
+    "كوميدي",
+    "خيال"
   ],
   "is_novel": false,
   "chapters": {
+    "https://azorafly.com/series/celebrity-lady/chapter-93": {
+      "name": "93"
+    },
     "https://azorafly.com/series/celebrity-lady/chapter-92": {
       "name": "92"
     },

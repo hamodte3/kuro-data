@@ -964,26 +964,6 @@
     ]
   },
   {
-    "id": "shangri-la-frontier",
-    "title": "Shangri-La Frontier",
-    "url": "https://3asq.online/manga/shangri-la-frontier",
-    "cover_url": "https://3asq.online/wp-content/themes/madara/images/dflazy.jpg",
-    "type": "مانغا",
-    "rating": "4.5",
-    "status": "مستمر",
-    "total_chapters": 50,
-    "genres": [
-      "أكشن",
-      "إيسيكاي",
-      "العاب",
-      "خيال",
-      "خيال علمي",
-      "شونين",
-      "كوميديا",
-      "مغامرة"
-    ]
-  },
-  {
     "id": "kengan-omega",
     "title": "Kengan Omega",
     "url": "https://3asq.online/manga/kengan-omega",
@@ -1271,12 +1251,32 @@
     "url": "https://3asq.online/manga/saigo-no-manga-kyoushitsu",
     "cover_url": "https://3asq.online/wp-content/themes/madara/images/dflazy.jpg",
     "type": "مانغا",
-    "rating": "",
+    "rating": "4.0",
     "total_chapters": 2,
     "genres": [
       "سينين"
     ],
     "status": "مستمر"
+  },
+  {
+    "id": "shangri-la-frontier",
+    "title": "Shangri-La Frontier",
+    "url": "https://3asq.online/manga/shangri-la-frontier",
+    "cover_url": "https://3asq.online/wp-content/themes/madara/images/dflazy.jpg",
+    "type": "مانغا",
+    "rating": "4.5",
+    "status": "مستمر",
+    "total_chapters": 50,
+    "genres": [
+      "أكشن",
+      "إيسيكاي",
+      "العاب",
+      "خيال",
+      "خيال علمي",
+      "شونين",
+      "كوميديا",
+      "مغامرة"
+    ]
   },
   {
     "id": "kaoru-hana-wa-rin-to-saku",

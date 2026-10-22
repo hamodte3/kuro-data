@@ -9,13 +9,16 @@
   "rating": "10.0",
   "genres": [
     "ويبتون",
-    "خيال",
     "رومانسي",
+    "دراما",
     "كوميدي",
-    "دراما"
+    "خيال"
   ],
   "is_novel": false,
   "chapters": {
+    "https://azorafly.com/series/the-heroine-wants-me-as-her-sister-in-law/chapter-113": {
+      "name": "113"
+    },
     "https://azorafly.com/series/the-heroine-wants-me-as-her-sister-in-law/chapter-112": {
       "name": "112"
     },

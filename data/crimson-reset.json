@@ -8,14 +8,17 @@
   "last_update": "2026-05-07",
   "rating": "9.2",
   "genres": [
+    "شونين",
     "غموض",
     "مغامرات",
-    "شونين",
-    "أكشن",
-    "فانتازيا"
+    "فانتازيا",
+    "أكشن"
   ],
   "is_novel": false,
   "chapters": {
+    "https://azorafly.com/series/crimson-reset/chapter-66": {
+      "name": "66"
+    },
     "https://azorafly.com/series/crimson-reset/chapter-65": {
       "name": "65"
     },
