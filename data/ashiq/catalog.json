@@ -984,19 +984,6 @@
     ]
   },
   {
-    "id": "saigo-no-manga-kyoushitsu",
-    "title": "Saigo no Manga Kyoushitsu",
-    "url": "https://3asq.online/manga/saigo-no-manga-kyoushitsu",
-    "cover_url": "https://3asq.online/wp-content/themes/madara/images/dflazy.jpg",
-    "type": "مانغا",
-    "rating": "",
-    "total_chapters": 1,
-    "genres": [
-      "سينين"
-    ],
-    "status": "مستمر"
-  },
-  {
     "id": "kengan-omega",
     "title": "Kengan Omega",
     "url": "https://3asq.online/manga/kengan-omega",
@@ -1238,7 +1225,7 @@
     "url": "https://3asq.online/manga/sangeki",
     "cover_url": "https://3asq.online/wp-content/themes/madara/images/dflazy.jpg",
     "type": "مانغا",
-    "rating": "3.7",
+    "rating": "3.5",
     "status": "مستمر",
     "total_chapters": 24,
     "genres": [
@@ -1275,6 +1262,19 @@
     "genres": [
       "شريحة من الحياة",
       "شونين"
+    ],
+    "status": "مستمر"
+  },
+  {
+    "id": "saigo-no-manga-kyoushitsu",
+    "title": "Saigo no Manga Kyoushitsu",
+    "url": "https://3asq.online/manga/saigo-no-manga-kyoushitsu",
+    "cover_url": "https://3asq.online/wp-content/themes/madara/images/dflazy.jpg",
+    "type": "مانغا",
+    "rating": "",
+    "total_chapters": 2,
+    "genres": [
+      "سينين"
     ],
     "status": "مستمر"
   },

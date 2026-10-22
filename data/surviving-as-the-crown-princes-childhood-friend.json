@@ -9,12 +9,15 @@
   "rating": "8.6",
   "genres": [
     "جوسي",
-    "رومانسي",
     "دراما",
+    "رومانسي",
     "تاريخي"
   ],
   "is_novel": false,
   "chapters": {
+    "https://azorafly.com/series/surviving-as-the-crown-princes-childhood-friend/chapter-20": {
+      "name": "20"
+    },
     "https://azorafly.com/series/surviving-as-the-crown-princes-childhood-friend/chapter-19": {
       "name": "19"
     },
