@@ -10,14 +10,17 @@
   "genres": [
     "شريحة من الحياة",
     "مانها",
-    "شوجو",
-    "خيال",
     "رومانسي",
+    "شوجو",
+    "دراما",
     "كوميدي",
-    "دراما"
+    "خيال"
   ],
   "is_novel": false,
   "chapters": {
+    "https://azorafly.com/series/back-to-spring/chapter-86.5": {
+      "name": "86.5"
+    },
     "https://azorafly.com/series/back-to-spring/chapter-86": {
       "name": "86"
     },

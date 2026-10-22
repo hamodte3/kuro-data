@@ -1,5 +1,40 @@
 [
   {
+    "id": "island-rock",
+    "title": "Island rock",
+    "chapter": "الفصل 16",
+    "type": "مانغا",
+    "cover_url": "https://3asq.online/wp-content/uploads/2026/10/8586-175x238.jpg"
+  },
+  {
+    "id": "i-wont-pick-up-the-trash-i-throw-away",
+    "title": "I won't pick up the trash i throw away",
+    "chapter": "الفصل 150",
+    "type": "مانهوا",
+    "cover_url": "https://storage.azorafly.com/2022/09/resource-3.jpg"
+  },
+  {
+    "id": "the-northern-wolf%3A-the-fifth-kingdom",
+    "title": "The Northern Wolf: The Fifth Kingdom",
+    "chapter": "الفصل 122",
+    "type": "رواية",
+    "cover_url": "https://storage.azorafly.com/upload/series/featured/qDBhftKEK8Ctpq92bQYqxU9KMqxhsqeB/dd26c888-cc34-4690-8c55-25b07b45f019.png"
+  },
+  {
+    "id": "back-to-spring",
+    "title": "Back to Spring",
+    "chapter": "الفصل 109",
+    "type": "مانها",
+    "cover_url": "https://storage.azorafly.com/2024/08/Untitled3912_20240808150818.jpg"
+  },
+  {
+    "id": "the-villainous-family-is-against-independence",
+    "title": "The Villainous Family Is Against Independence",
+    "chapter": "الفصل 106",
+    "type": "مانهوا",
+    "cover_url": "https://storage.azorafly.com/2023/10/photo_٢٠٢٥-٠٥-٠٨_١٨-٠٢-٠٩.jpg"
+  },
+  {
     "id": "صعود شجرة الهاوية",
     "title": "صعود شجرة الهاوية",
     "chapter": "الفصل 272",
@@ -68,40 +103,5 @@
     "chapter": "الفصل 20",
     "type": "مانهوا",
     "cover_url": "https://storage.azorafly.com/upload/series/featured/02408b52-85d5-445d-9e5c-f7dbcd583bf8/fd91dd7c-0464-4fcc-91af-813b7a128dc9.jpg"
-  },
-  {
-    "id": "the-well-mannered-husband's-motive-for-marriage-is-suspicious",
-    "title": "The Well-Mannered Husband's Motive for Marriage Is Suspicious",
-    "chapter": "الفصل 31",
-    "type": "مانهوا",
-    "cover_url": "https://storage.azorafly.com/upload/series/featured/a5vVlSc5huft2AzUyK1VxgKh1ckCWLbZ/10df96c4-73c6-46d8-988c-0e24c9c60026.jpg"
-  },
-  {
-    "id": "lord-blackwood-is-responsible-for-the-maids-death",
-    "title": "Lord Blackwood Is Responsible For The Maid's Death",
-    "chapter": "الفصل 13",
-    "type": "مانهوا",
-    "cover_url": "https://storage.azorafly.com/upload/series/featured/02408b52-85d5-445d-9e5c-f7dbcd583bf8/d05cec67-9dcd-4878-a92a-82e2d5cdec8d.jpg"
-  },
-  {
-    "id": "return-of-the-scandal-maker",
-    "title": "Return of The Scandal Maker",
-    "chapter": "الفصل 36",
-    "type": "مانهوا",
-    "cover_url": "https://storage.azorafly.com/public/upload/2026/03/25/66d53a2b-3c99-4c82-9f1d-cffbc3535e5c.webp"
-  },
-  {
-    "id": "the-world-after-the-fall",
-    "title": "The World After the Fall",
-    "chapter": "الفصل 258",
-    "type": "مانهوا",
-    "cover_url": "https://storage.azorafly.com/2022/02/mir-posle-padeniya.jpg"
-  },
-  {
-    "id": "i-bought-the-villains-with-money",
-    "title": "I Bought the Villains With Money",
-    "chapter": "الفصل 23",
-    "type": "مانهوا",
-    "cover_url": "https://storage.azorafly.com/upload/series/featured/oGmL0DQZ16QInTPaeDKwFEK9ryegoy88/7f0b297e-58ee-4d90-8b19-fcd64a399611.jpg"
   }
 ]
