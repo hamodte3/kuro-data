@@ -6,19 +6,22 @@
   "type": "مانهوا",
   "status": "مستمر",
   "last_update": "2026-06-25",
-  "rating": "8.9",
+  "rating": "9.0",
   "genres": [
     "اسبوعي",
-    "إثارة",
     "مميز",
+    "تاريخي",
     "إعادة إحياء",
     "سحر",
-    "تاريخي",
     "خيال",
+    "إثارة",
     "أكشن"
   ],
   "is_novel": false,
   "chapters": {
+    "https://azorafly.com/series/the-dark-magician-transmigrates-after-66666-years/chapter-203": {
+      "name": "203"
+    },
     "https://azorafly.com/series/the-dark-magician-transmigrates-after-66666-years/chapter-202": {
       "name": "202"
     },

@@ -637,15 +637,6 @@
     "genres": []
   },
   {
-    "id": "tengoku-daimakyou-2",
-    "title": "Tengoku Daimakyou",
-    "url": "https://3asq.online/manga/tengoku-daimakyou-2",
-    "cover_url": "https://3asq.online/wp-content/themes/madara/images/dflazy.jpg",
-    "type": "18+",
-    "rating": "4.0",
-    "genres": []
-  },
-  {
     "id": "watashi-no-shiawase-na-kekkon",
     "title": "Watashi no Shiawase na Kekkon",
     "url": "https://3asq.online/manga/watashi-no-shiawase-na-kekkon",
@@ -1038,21 +1029,6 @@
     ]
   },
   {
-    "id": "lookism_fedaa-chan",
-    "title": "Lookism",
-    "url": "https://3asq.online/manga/lookism_fedaa-chan",
-    "cover_url": "https://3asq.online/wp-content/themes/madara/images/dflazy.jpg",
-    "type": "مانهوا",
-    "rating": "4.5",
-    "status": "مستمر",
-    "total_chapters": 34,
-    "genres": [
-      "أكشن",
-      "فنون قتالية",
-      "مدرسة"
-    ]
-  },
-  {
     "id": "kimi-wa-yotsuba-no-clover",
     "title": "Kimi wa Yotsuba no Clover",
     "url": "https://3asq.online/manga/kimi-wa-yotsuba-no-clover",
@@ -1232,20 +1208,6 @@
     "total_chapters": 7
   },
   {
-    "id": "island-rock",
-    "title": "Island rock",
-    "url": "https://3asq.online/manga/island-rock",
-    "cover_url": "https://3asq.online/wp-content/themes/madara/images/dflazy.jpg",
-    "type": "مانغا",
-    "rating": "3.6",
-    "total_chapters": 16,
-    "genres": [
-      "شريحة من الحياة",
-      "شونين"
-    ],
-    "status": "مستمر"
-  },
-  {
     "id": "saigo-no-manga-kyoushitsu",
     "title": "Saigo no Manga Kyoushitsu",
     "url": "https://3asq.online/manga/saigo-no-manga-kyoushitsu",
@@ -1276,6 +1238,58 @@
       "شونين",
       "كوميديا",
       "مغامرة"
+    ]
+  },
+  {
+    "id": "tengoku-daimakyou-2",
+    "title": "Tengoku Daimakyou",
+    "url": "https://3asq.online/manga/tengoku-daimakyou-2",
+    "cover_url": "https://3asq.online/wp-content/themes/madara/images/dflazy.jpg",
+    "type": "مانغا",
+    "rating": "4.0",
+    "genres": [
+      "خيال علمي",
+      "دراما",
+      "رعب",
+      "سينين",
+      "علم نفس",
+      "عنف",
+      "غموض",
+      "فلسفة",
+      "قوى خارقة",
+      "كوميديا",
+      "مأساة"
+    ],
+    "status": "مستمر",
+    "total_chapters": 50
+  },
+  {
+    "id": "island-rock",
+    "title": "Island rock",
+    "url": "https://3asq.online/manga/island-rock",
+    "cover_url": "https://3asq.online/wp-content/themes/madara/images/dflazy.jpg",
+    "type": "مانغا",
+    "rating": "3.6",
+    "total_chapters": 17,
+    "genres": [
+      "شريحة من الحياة",
+      "شونين"
+    ],
+    "status": "مستمر"
+  },
+  {
+    "id": "lookism_fedaa-chan",
+    "title": "Lookism",
+    "url": "https://3asq.online/manga/lookism_fedaa-chan",
+    "cover_url": "https://3asq.online/wp-content/themes/madara/images/dflazy.jpg",
+    "type": "مانهوا",
+    "rating": "4.5",
+    "status": "مستمر",
+    "total_chapters": 35,
+    "genres": [
+      "أكشن",
+      "فنون قتالية",
+      "مدرسة"
     ]
   },
   {

@@ -1,69 +1,5 @@
 [
   {
-    "id": "lord-preston's-secret-tutor",
-    "title": "Lord Preston’s Secret Tutor",
-    "url": "https://azorafly.com/series/lord-preston's-secret-tutor",
-    "cover_url": "https://storage.azorafly.com/public/upload/2026/03/29/1ce95648-e97c-4da6-9457-fbd9f24ddef6.webp",
-    "type": "مانهوا",
-    "status": "مستمر",
-    "rating": "9.2",
-    "total_chapters": 36,
-    "genres": []
-  },
-  {
-    "id": "i-am-in-a-secret-relationship-with-the-emperor-but-i-don't-know-it",
-    "title": "I Am in a Secret Relationship With the Emperor, But I Don't Know it",
-    "url": "https://azorafly.com/series/i-am-in-a-secret-relationship-with-the-emperor-but-i-don't-know-it",
-    "cover_url": "https://storage.azorafly.com/upload/series/featured/632cc673-8bbd-4b05-b075-99a73e64d204/7bb2be7c-7306-48c2-9b76-05957ca77c5d.jpg",
-    "type": "مانهوا",
-    "status": "مستمر",
-    "rating": "9.3",
-    "total_chapters": 41,
-    "genres": [
-      "خيالي",
-      "شوجو",
-      "تجسيد",
-      "رومانسي",
-      "كوميدي"
-    ]
-  },
-  {
-    "id": "the-great-mage-returns-after-4000-year-s",
-    "title": "The Great Mage Returns After 4000 Years",
-    "url": "https://azorafly.com/series/the-great-mage-returns-after-4000-year-s",
-    "cover_url": "https://storage.azorafly.com/2020/04/resource-1.jpeg",
-    "type": "مانهوا",
-    "status": "مستمر",
-    "rating": "8.3",
-    "total_chapters": 280,
-    "genres": [
-      "قوة خارقة",
-      "اسبوعي",
-      "ويبتون",
-      "وحوش",
-      "إثارة",
-      "مميز",
-      "مغامرات",
-      "أكشن"
-    ]
-  },
-  {
-    "id": "a-ghostly-song",
-    "title": "A Ghostly Song",
-    "url": "https://azorafly.com/series/a-ghostly-song",
-    "cover_url": "https://storage.azorafly.com/upload/series/featured/a5vVlSc5huft2AzUyK1VxgKh1ckCWLbZ/795a4dcb-d26d-4359-94cf-ec3ed28285d6.jpg",
-    "type": "مانهوا",
-    "status": "مستمر",
-    "rating": "9.7",
-    "total_chapters": 71,
-    "genres": [
-      "نفسي",
-      "رعب",
-      "تشويق",
-      "أكشن"
-    ]
-  },
-  {
     "id": "clockwork-lovers",
     "title": "Clockwork Lovers",
     "url": "https://azorafly.com/series/clockwork-lovers",
@@ -1717,22 +1653,6 @@
     "rating": "10.0"
   },
   {
-    "id": "a-monster-lives-at-36-poster-street",
-    "title": "A Monster Lives at 36 Poster Street",
-    "url": "https://azorafly.com/series/a-monster-lives-at-36-poster-street",
-    "cover_url": "https://storage.azorafly.com/upload/series/featured/gXgURMWDiDJ221UEUfe7aZFaAE1PF9X1/4143163f-e72c-4551-bf44-52ab7d009059.jpg",
-    "type": "رواية",
-    "total_chapters": 0,
-    "genres": [
-      "غموض",
-      "إثارة",
-      "رعب",
-      "أكشن"
-    ],
-    "status": "مستمر",
-    "rating": "9.0"
-  },
-  {
     "id": "world-destruction-war",
     "title": "World Destruction War",
     "url": "https://azorafly.com/series/world-destruction-war",
@@ -3028,7 +2948,7 @@
       "خيال"
     ],
     "status": "مستمر",
-    "rating": "10.0"
+    "rating": "9.5"
   },
   {
     "id": "my-husband-needs-to-die-soon",
@@ -3187,6 +3107,154 @@
       "خيال",
       "دراما",
       "رعاية أطفال"
+    ]
+  },
+  {
+    "id": "the-substitute-bride-is-doted-on-by-the-cold-blooded-emperor",
+    "title": "The Substitute Bride Is Doted on by the Cold-Blooded Emperor",
+    "url": "https://azorafly.com/series/the-substitute-bride-is-doted-on-by-the-cold-blooded-emperor",
+    "cover_url": "https://storage.azorafly.com/public/upload/series/featured/cmjkgwd7t0000ld63nf9eiyz6/eff6d1c6-6231-4dec-9d30-e22c9b79362d.webp",
+    "type": "مانهوا",
+    "status": "مستمر",
+    "rating": "7.6",
+    "total_chapters": 49,
+    "genres": [
+      "انتقام",
+      "خيال",
+      "دراما",
+      "رومانسي"
+    ]
+  },
+  {
+    "id": "the-dark-magician-transmigrates-after-66666-years",
+    "title": "The Dark Magician Transmigrates After 66666 Years",
+    "url": "https://azorafly.com/series/the-dark-magician-transmigrates-after-66666-years",
+    "cover_url": "https://storage.azorafly.com/2021/06/6666666666_dark.png",
+    "type": "مانهوا",
+    "status": "مستمر",
+    "rating": "9.0",
+    "total_chapters": 203,
+    "genres": [
+      "اسبوعي",
+      "مميز",
+      "تاريخي",
+      "إعادة إحياء",
+      "سحر",
+      "خيال",
+      "إثارة",
+      "أكشن"
+    ]
+  },
+  {
+    "id": "when-i-married-the-impotent-duke-i-wanted-to-protect-the-child",
+    "title": "When I Married The Impotent Duke I Wanted To Protect The Child",
+    "url": "https://azorafly.com/series/when-i-married-the-impotent-duke-i-wanted-to-protect-the-child",
+    "cover_url": "https://storage.azorafly.com/upload/series/featured/02408b52-85d5-445d-9e5c-f7dbcd583bf8/ae2f280b-b6e3-4440-ac53-fd1150ee5d9a.webp",
+    "type": "مانهوا",
+    "status": "مستمر",
+    "rating": "9.5",
+    "total_chapters": 26,
+    "genres": [
+      "رومانسى",
+      "اطفال",
+      "خيال",
+      "دراما"
+    ]
+  },
+  {
+    "id": "a-monster-lives-at-36-poster-street",
+    "title": "A Monster Lives at 36 Poster Street",
+    "url": "https://azorafly.com/series/a-monster-lives-at-36-poster-street",
+    "cover_url": "https://storage.azorafly.com/upload/series/featured/gXgURMWDiDJ221UEUfe7aZFaAE1PF9X1/4143163f-e72c-4551-bf44-52ab7d009059.jpg",
+    "type": "رواية",
+    "total_chapters": 2,
+    "genres": [
+      "رعب",
+      "غموض",
+      "إثارة",
+      "أكشن"
+    ],
+    "status": "مستمر",
+    "rating": "9.0"
+  },
+  {
+    "id": "the-counts-secret-maid",
+    "title": "The Count's Secret Maid",
+    "url": "https://azorafly.com/series/the-counts-secret-maid",
+    "cover_url": "https://storage.azorafly.com/upload/series/featured/a5vVlSc5huft2AzUyK1VxgKh1ckCWLbZ/80cad67b-9a0e-413a-8217-d3caa458c81a.jpg",
+    "type": "مانهوا",
+    "status": "مستمر",
+    "rating": "9.3",
+    "total_chapters": 112,
+    "genres": [
+      "غموض",
+      "رومانسي",
+      "خيال",
+      "دراما"
+    ]
+  },
+  {
+    "id": "lord-preston's-secret-tutor",
+    "title": "Lord Preston’s Secret Tutor",
+    "url": "https://azorafly.com/series/lord-preston's-secret-tutor",
+    "cover_url": "https://storage.azorafly.com/public/upload/2026/03/29/1ce95648-e97c-4da6-9457-fbd9f24ddef6.webp",
+    "type": "مانهوا",
+    "status": "مستمر",
+    "rating": "9.2",
+    "total_chapters": 36,
+    "genres": []
+  },
+  {
+    "id": "i-am-in-a-secret-relationship-with-the-emperor-but-i-don't-know-it",
+    "title": "I Am in a Secret Relationship With the Emperor, But I Don't Know it",
+    "url": "https://azorafly.com/series/i-am-in-a-secret-relationship-with-the-emperor-but-i-don't-know-it",
+    "cover_url": "https://storage.azorafly.com/upload/series/featured/632cc673-8bbd-4b05-b075-99a73e64d204/7bb2be7c-7306-48c2-9b76-05957ca77c5d.jpg",
+    "type": "مانهوا",
+    "status": "مستمر",
+    "rating": "9.3",
+    "total_chapters": 41,
+    "genres": [
+      "خيالي",
+      "شوجو",
+      "تجسيد",
+      "رومانسي",
+      "كوميدي"
+    ]
+  },
+  {
+    "id": "the-great-mage-returns-after-4000-year-s",
+    "title": "The Great Mage Returns After 4000 Years",
+    "url": "https://azorafly.com/series/the-great-mage-returns-after-4000-year-s",
+    "cover_url": "https://storage.azorafly.com/2020/04/resource-1.jpeg",
+    "type": "مانهوا",
+    "status": "مستمر",
+    "rating": "8.3",
+    "total_chapters": 280,
+    "genres": [
+      "قوة خارقة",
+      "اسبوعي",
+      "ويبتون",
+      "وحوش",
+      "إثارة",
+      "مميز",
+      "مغامرات",
+      "أكشن"
+    ]
+  },
+  {
+    "id": "a-ghostly-song",
+    "title": "A Ghostly Song",
+    "url": "https://azorafly.com/series/a-ghostly-song",
+    "cover_url": "https://storage.azorafly.com/upload/series/featured/a5vVlSc5huft2AzUyK1VxgKh1ckCWLbZ/795a4dcb-d26d-4359-94cf-ec3ed28285d6.jpg",
+    "type": "مانهوا",
+    "status": "مستمر",
+    "rating": "9.7",
+    "total_chapters": 71,
+    "genres": [
+      "نفسي",
+      "رعب",
+      "تشويق",
+      "أكشن"
     ]
   },
   {
@@ -3439,22 +3507,6 @@
       "دراما",
       "رومانسي",
       "كوميدي"
-    ]
-  },
-  {
-    "id": "the-counts-secret-maid",
-    "title": "The Count's Secret Maid",
-    "url": "https://azorafly.com/series/the-counts-secret-maid",
-    "cover_url": "https://storage.azorafly.com/upload/series/featured/a5vVlSc5huft2AzUyK1VxgKh1ckCWLbZ/80cad67b-9a0e-413a-8217-d3caa458c81a.jpg",
-    "type": "مانهوا",
-    "status": "مستمر",
-    "rating": "9.3",
-    "total_chapters": 111,
-    "genres": [
-      "دراما",
-      "رومانسي",
-      "خيال",
-      "غموض"
     ]
   },
   {
@@ -4046,22 +4098,6 @@
     ]
   },
   {
-    "id": "the-substitute-bride-is-doted-on-by-the-cold-blooded-emperor",
-    "title": "The Substitute Bride Is Doted on by the Cold-Blooded Emperor",
-    "url": "https://azorafly.com/series/the-substitute-bride-is-doted-on-by-the-cold-blooded-emperor",
-    "cover_url": "https://storage.azorafly.com/public/upload/series/featured/cmjkgwd7t0000ld63nf9eiyz6/eff6d1c6-6231-4dec-9d30-e22c9b79362d.webp",
-    "type": "مانهوا",
-    "status": "مستمر",
-    "rating": "7.6",
-    "total_chapters": 48,
-    "genres": [
-      "خيال",
-      "انتقام",
-      "دراما",
-      "رومانسي"
-    ]
-  },
-  {
     "id": "i-reincarnated-as-a-villainess-but-why-did-i-become-a-cat-butler-instead",
     "title": "I Reincarnated As A Villainess, But Why Did I Become A Cat Butler Instead?",
     "url": "https://azorafly.com/series/i-reincarnated-as-a-villainess-but-why-did-i-become-a-cat-butler-instead",
@@ -4434,42 +4470,6 @@
       "كوميدي",
       "خيال",
       "رومانسي"
-    ]
-  },
-  {
-    "id": "when-i-married-the-impotent-duke-i-wanted-to-protect-the-child",
-    "title": "When I Married The Impotent Duke I Wanted To Protect The Child",
-    "url": "https://azorafly.com/series/when-i-married-the-impotent-duke-i-wanted-to-protect-the-child",
-    "cover_url": "https://storage.azorafly.com/upload/series/featured/02408b52-85d5-445d-9e5c-f7dbcd583bf8/ae2f280b-b6e3-4440-ac53-fd1150ee5d9a.webp",
-    "type": "مانهوا",
-    "status": "مستمر",
-    "rating": "9.5",
-    "total_chapters": 25,
-    "genres": [
-      "رومانسى",
-      "اطفال",
-      "خيال",
-      "دراما"
-    ]
-  },
-  {
-    "id": "the-dark-magician-transmigrates-after-66666-years",
-    "title": "The Dark Magician Transmigrates After 66666 Years",
-    "url": "https://azorafly.com/series/the-dark-magician-transmigrates-after-66666-years",
-    "cover_url": "https://storage.azorafly.com/2021/06/6666666666_dark.png",
-    "type": "مانهوا",
-    "status": "مستمر",
-    "rating": "8.9",
-    "total_chapters": 202,
-    "genres": [
-      "اسبوعي",
-      "إثارة",
-      "مميز",
-      "إعادة إحياء",
-      "سحر",
-      "تاريخي",
-      "خيال",
-      "أكشن"
     ]
   },
   {
