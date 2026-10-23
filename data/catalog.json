@@ -1,20 +1,5 @@
 [
   {
-    "id": "clockwork-lovers",
-    "title": "Clockwork Lovers",
-    "url": "https://azorafly.com/series/clockwork-lovers",
-    "cover_url": "https://storage.azorafly.com/upload/series/featured/6cac1de1-87ae-4a81-9cd1-2abe99fd84d7/a06f17b1-0196-461c-a4c8-e57f6406df2a.png",
-    "type": "مانهوا",
-    "status": "مستمر",
-    "rating": "10.0",
-    "total_chapters": 11,
-    "genres": [
-      "رومانسى",
-      "فنتازيا",
-      "دراما"
-    ]
-  },
-  {
     "id": "after-the-possessor-left1",
     "title": "After The Possessor Left",
     "url": "https://azorafly.com/series/after-the-possessor-left1",
@@ -1900,23 +1885,6 @@
     ]
   },
   {
-    "id": "i-live-with-my-evil-uncle",
-    "title": "I Live With My Evil Uncle",
-    "url": "https://azorafly.com/series/i-live-with-my-evil-uncle",
-    "cover_url": "https://storage.azorafly.com/upload/series/featured/oGmL0DQZ16QInTPaeDKwFEK9ryegoy88/af5bd815-e812-4073-953c-c99a216b95da.png",
-    "type": "مانهوا",
-    "status": "مستمر",
-    "rating": "10.0",
-    "total_chapters": 61,
-    "genres": [
-      "عائلي",
-      "كوميدي",
-      "دراما",
-      "رومانسي",
-      "خيال"
-    ]
-  },
-  {
     "id": "hiding-my-identity-from-my-husband",
     "title": "Hiding My Identity From My Husband",
     "url": "https://azorafly.com/series/hiding-my-identity-from-my-husband",
@@ -3190,6 +3158,56 @@
       "غموض",
       "رومانسي",
       "خيال",
+      "دراما"
+    ]
+  },
+  {
+    "id": "has-our-father-changed",
+    "title": "Has Our Father Changed؟!",
+    "url": "https://azorafly.com/series/has-our-father-changed",
+    "cover_url": "https://storage.azorafly.com/public/upload/2026/04/01/5da30127-065f-4afc-a8de-91884eff6ad6.webp",
+    "type": "رواية",
+    "status": "مستمر",
+    "rating": "10.0",
+    "total_chapters": 11,
+    "genres": [
+      "رواية مؤلفة",
+      "سوء فهم",
+      "تاريخي",
+      "رومانسي",
+      "خيال",
+      "رعاية أطفال"
+    ]
+  },
+  {
+    "id": "i-live-with-my-evil-uncle",
+    "title": "I Live With My Evil Uncle",
+    "url": "https://azorafly.com/series/i-live-with-my-evil-uncle",
+    "cover_url": "https://storage.azorafly.com/upload/series/featured/oGmL0DQZ16QInTPaeDKwFEK9ryegoy88/af5bd815-e812-4073-953c-c99a216b95da.png",
+    "type": "مانهوا",
+    "status": "مستمر",
+    "rating": "10.0",
+    "total_chapters": 63,
+    "genres": [
+      "عائلي",
+      "كوميدي",
+      "رومانسي",
+      "خيال",
+      "دراما"
+    ]
+  },
+  {
+    "id": "clockwork-lovers",
+    "title": "Clockwork Lovers",
+    "url": "https://azorafly.com/series/clockwork-lovers",
+    "cover_url": "https://storage.azorafly.com/upload/series/featured/6cac1de1-87ae-4a81-9cd1-2abe99fd84d7/a06f17b1-0196-461c-a4c8-e57f6406df2a.png",
+    "type": "مانهوا",
+    "status": "مستمر",
+    "rating": "10.0",
+    "total_chapters": 11,
+    "genres": [
+      "رومانسى",
+      "فنتازيا",
       "دراما"
     ]
   },
@@ -33448,25 +33466,6 @@
       "دراما",
       "رومانسي",
       "نفسي"
-    ]
-  },
-  {
-    "id": "has-our-father-changed",
-    "title": "Has Our Father Changed؟!",
-    "url": "https://azorafly.com/series/has-our-father-changed",
-    "cover_url": "https://storage.azorafly.com/public/upload/2026/04/01/5da30127-065f-4afc-a8de-91884eff6ad6.webp",
-    "type": "رواية",
-    "status": "مستمر",
-    "rating": "9.5",
-    "total_chapters": 10,
-    "genres": [
-      "أكشن",
-      "رواية مؤلفة",
-      "سوء فهم",
-      "تاريخي",
-      "خيال",
-      "رعاية أطفال",
-      "رومانسي"
     ]
   },
   {
