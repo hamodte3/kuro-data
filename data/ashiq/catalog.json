@@ -720,30 +720,6 @@
     ]
   },
   {
-    "id": "tenkaichi-nihon-saikyou-bugeisha-ketteisen",
-    "title": "Tenkaichi: Nihon Saikyou Bugeisha Ketteisen",
-    "url": "https://3asq.online/manga/tenkaichi-nihon-saikyou-bugeisha-ketteisen",
-    "cover_url": "https://3asq.online/wp-content/themes/madara/images/dflazy.jpg",
-    "type": "مانغا",
-    "rating": "4.5",
-    "status": "مستمر",
-    "total_chapters": 68,
-    "genres": [
-      "أكشن",
-      "تاريخ",
-      "حرب",
-      "دراما",
-      "رعب",
-      "ساموراي",
-      "سينين",
-      "شونين",
-      "عنف",
-      "غموض",
-      "فنون قتالية",
-      "نينجا"
-    ]
-  },
-  {
     "id": "pokemon-adventures",
     "title": "Pokémon Adventures",
     "url": "https://3asq.online/manga/pokemon-adventures",
@@ -1133,24 +1109,6 @@
     "status": "مكتمل"
   },
   {
-    "id": "haha-to-iu-jubaku-musume-to-iu-rougoku",
-    "title": "Haha to Iu Jubaku Musume to Iu Rougoku",
-    "url": "https://3asq.online/manga/haha-to-iu-jubaku-musume-to-iu-rougoku",
-    "cover_url": "https://3asq.online/wp-content/themes/madara/images/dflazy.jpg",
-    "type": "مانغا",
-    "rating": "5.0",
-    "total_chapters": 8,
-    "genres": [
-      "جريمة",
-      "دراما",
-      "سينين",
-      "غموض",
-      "مأساة",
-      "نفسي"
-    ],
-    "status": "مكتمل"
-  },
-  {
     "id": "enigmatica",
     "title": "Enigmatica",
     "url": "https://3asq.online/manga/enigmatica",
@@ -1290,6 +1248,48 @@
       "أكشن",
       "فنون قتالية",
       "مدرسة"
+    ]
+  },
+  {
+    "id": "haha-to-iu-jubaku-musume-to-iu-rougoku",
+    "title": "Haha to Iu Jubaku Musume to Iu Rougoku",
+    "url": "https://3asq.online/manga/haha-to-iu-jubaku-musume-to-iu-rougoku",
+    "cover_url": "https://3asq.online/wp-content/themes/madara/images/dflazy.jpg",
+    "type": "مانغا",
+    "rating": "5.0",
+    "total_chapters": 10,
+    "genres": [
+      "جريمة",
+      "دراما",
+      "سينين",
+      "غموض",
+      "مأساة",
+      "نفسي"
+    ],
+    "status": "مكتمل"
+  },
+  {
+    "id": "tenkaichi-nihon-saikyou-bugeisha-ketteisen",
+    "title": "Tenkaichi: Nihon Saikyou Bugeisha Ketteisen",
+    "url": "https://3asq.online/manga/tenkaichi-nihon-saikyou-bugeisha-ketteisen",
+    "cover_url": "https://3asq.online/wp-content/themes/madara/images/dflazy.jpg",
+    "type": "مانغا",
+    "rating": "4.5",
+    "status": "مستمر",
+    "total_chapters": 50,
+    "genres": [
+      "أكشن",
+      "تاريخ",
+      "حرب",
+      "دراما",
+      "رعب",
+      "ساموراي",
+      "سينين",
+      "شونين",
+      "عنف",
+      "غموض",
+      "فنون قتالية",
+      "نينجا"
     ]
   },
   {

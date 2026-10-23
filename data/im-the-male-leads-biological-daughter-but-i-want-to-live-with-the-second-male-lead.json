@@ -6,15 +6,18 @@
   "type": "مانهوا",
   "status": "مستمر",
   "last_update": "2026-10-17",
-  "rating": "9.4",
+  "rating": "9.5",
   "genres": [
     "رومانسى",
-    "دراما",
     "فانتازيا",
+    "دراما",
     "كوميدي"
   ],
   "is_novel": false,
   "chapters": {
+    "https://azorafly.com/series/im-the-male-leads-biological-daughter-but-i-want-to-live-with-the-second-male-lead/chapter-22": {
+      "name": "22"
+    },
     "https://azorafly.com/series/im-the-male-leads-biological-daughter-but-i-want-to-live-with-the-second-male-lead/chapter-21": {
       "name": "21"
     },

@@ -10,13 +10,16 @@
   "genres": [
     "اكشن",
     "موريم",
-    "فانتازيا",
+    "غموض",
     "مغامرات",
-    "فنون قتالية",
-    "غموض"
+    "فانتازيا",
+    "فنون قتالية"
   ],
   "is_novel": false,
   "chapters": {
+    "https://azorafly.com/series/the-tale-of-cultivation-and-demon-extermination/chapter-19": {
+      "name": "19"
+    },
     "https://azorafly.com/series/the-tale-of-cultivation-and-demon-extermination/chapter-18": {
       "name": "18"
     },

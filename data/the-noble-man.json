@@ -9,11 +9,17 @@
   "rating": "10.0",
   "genres": [
     "شونين",
-    "انتقام",
-    "دراما"
+    "دراما",
+    "انتقام"
   ],
   "is_novel": false,
   "chapters": {
+    "https://azorafly.com/series/the-noble-man/chapter-21": {
+      "name": "21"
+    },
+    "https://azorafly.com/series/the-noble-man/chapter-20": {
+      "name": "20"
+    },
     "https://azorafly.com/series/the-noble-man/chapter-19": {
       "name": "19"
     },

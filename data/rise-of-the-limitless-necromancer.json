@@ -10,11 +10,20 @@
   "genres": [
     "اكشن",
     "مستحضر ارواح",
-    "عالم اخر",
-    "فانتازيا"
+    "فانتازيا",
+    "عالم اخر"
   ],
   "is_novel": false,
   "chapters": {
+    "https://azorafly.com/series/rise-of-the-limitless-necromancer/chapter-47": {
+      "name": "47"
+    },
+    "https://azorafly.com/series/rise-of-the-limitless-necromancer/chapter-46": {
+      "name": "46"
+    },
+    "https://azorafly.com/series/rise-of-the-limitless-necromancer/chapter-45": {
+      "name": "45"
+    },
     "https://azorafly.com/series/rise-of-the-limitless-necromancer/chapter-44": {
       "name": "44"
     },

@@ -10,11 +10,14 @@
   "genres": [
     "مانهوا",
     "ويبتون",
-    "شوجو",
-    "رومانسي"
+    "رومانسي",
+    "شوجو"
   ],
   "is_novel": false,
   "chapters": {
+    "https://azorafly.com/series/my-pirate-prince/chapter-49": {
+      "name": "49"
+    },
     "https://azorafly.com/series/my-pirate-prince/chapter-48": {
       "name": "48"
     },

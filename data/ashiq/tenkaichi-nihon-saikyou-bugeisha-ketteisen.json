@@ -1,11 +1,11 @@
 {
   "id": "tenkaichi-nihon-saikyou-bugeisha-ketteisen",
   "title": "Tenkaichi: Nihon Saikyou Bugeisha Ketteisen",
-  "cover_url": "https://3asq.online/wp-content/uploads/2026/02/Picsart_26-08-15_16-14-08-619-scaled.jpg",
+  "cover_url": "https://3asq.online/wp-content/themes/madara/images/dflazy.jpg",
   "description": "السنة 1600، وقد مرّت عشر سنوات منذ أن تمكّن أودا نوبوناغا من توحيد اليابان بأكملها، لكن حين أدرك نوبوناغا أن الموت يقترب منه، أطلق إعلانًا صادمًا: سيسلّم البلاد لمن ينجح في إنجاب أقوى المحاربين.\n\nوهكذا… تحطّمت أحلام أمراء الحرب الذين كانوا يطمحون إلى توحيد البلاد، واختار كلٌّ منهم أقوى محاربيه، ودفع بهم إلى ساحة المعركة.\n\nووضعوا نُصْبَ أعينهم أن يصبح أحدُهم ملكًا على هذا البلد.",
   "type": "مانغا",
   "status": "مستمر",
-  "rating": "4.4",
+  "rating": "4.5",
   "favorites": "27",
   "genres": [
     "أكشن",
@@ -23,6 +23,9 @@
   ],
   "is_novel": false,
   "chapters": {
+    "https://3asq.online/manga/tenkaichi-nihon-saikyou-bugeisha-ketteisen/66": {
+      "name": "66"
+    },
     "https://3asq.online/manga/tenkaichi-nihon-saikyou-bugeisha-ketteisen/65-2": {
       "name": "65.2"
     },
@@ -169,63 +172,6 @@
     },
     "https://3asq.online/manga/tenkaichi-nihon-saikyou-bugeisha-ketteisen/18": {
       "name": "18"
-    },
-    "https://3asq.online/manga/tenkaichi-nihon-saikyou-bugeisha-ketteisen/17": {
-      "name": "17"
-    },
-    "https://3asq.online/manga/tenkaichi-nihon-saikyou-bugeisha-ketteisen/16-2": {
-      "name": "16.2"
-    },
-    "https://3asq.online/manga/tenkaichi-nihon-saikyou-bugeisha-ketteisen/16": {
-      "name": "16"
-    },
-    "https://3asq.online/manga/tenkaichi-nihon-saikyou-bugeisha-ketteisen/15-2": {
-      "name": "15.2"
-    },
-    "https://3asq.online/manga/tenkaichi-nihon-saikyou-bugeisha-ketteisen/15": {
-      "name": "15"
-    },
-    "https://3asq.online/manga/tenkaichi-nihon-saikyou-bugeisha-ketteisen/14": {
-      "name": "14"
-    },
-    "https://3asq.online/manga/tenkaichi-nihon-saikyou-bugeisha-ketteisen/13": {
-      "name": "13"
-    },
-    "https://3asq.online/manga/tenkaichi-nihon-saikyou-bugeisha-ketteisen/12": {
-      "name": "12"
-    },
-    "https://3asq.online/manga/tenkaichi-nihon-saikyou-bugeisha-ketteisen/11": {
-      "name": "11"
-    },
-    "https://3asq.online/manga/tenkaichi-nihon-saikyou-bugeisha-ketteisen/10": {
-      "name": "10"
-    },
-    "https://3asq.online/manga/tenkaichi-nihon-saikyou-bugeisha-ketteisen/9": {
-      "name": "9"
-    },
-    "https://3asq.online/manga/tenkaichi-nihon-saikyou-bugeisha-ketteisen/8": {
-      "name": "8"
-    },
-    "https://3asq.online/manga/tenkaichi-nihon-saikyou-bugeisha-ketteisen/7": {
-      "name": "7"
-    },
-    "https://3asq.online/manga/tenkaichi-nihon-saikyou-bugeisha-ketteisen/6": {
-      "name": "6"
-    },
-    "https://3asq.online/manga/tenkaichi-nihon-saikyou-bugeisha-ketteisen/5": {
-      "name": "5"
-    },
-    "https://3asq.online/manga/tenkaichi-nihon-saikyou-bugeisha-ketteisen/4": {
-      "name": "4"
-    },
-    "https://3asq.online/manga/tenkaichi-nihon-saikyou-bugeisha-ketteisen/3": {
-      "name": "3"
-    },
-    "https://3asq.online/manga/tenkaichi-nihon-saikyou-bugeisha-ketteisen/2": {
-      "name": "2"
-    },
-    "https://3asq.online/manga/tenkaichi-nihon-saikyou-bugeisha-ketteisen/1": {
-      "name": "1"
     }
   }
 }
