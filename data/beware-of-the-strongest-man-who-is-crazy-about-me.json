@@ -6,15 +6,18 @@
   "type": "مانهوا",
   "status": "مستمر",
   "last_update": "2026-05-07",
-  "rating": "7.7",
+  "rating": "7.8",
   "genres": [
     "شوجو",
-    "تجسيد",
     "رومانسي",
-    "كوميدي"
+    "كوميدي",
+    "تجسيد"
   ],
   "is_novel": false,
   "chapters": {
+    "https://azorafly.com/series/beware-of-the-strongest-man-who-is-crazy-about-me/chapter-85": {
+      "name": "85"
+    },
     "https://azorafly.com/series/beware-of-the-strongest-man-who-is-crazy-about-me/chapter-84": {
       "name": "84"
     },

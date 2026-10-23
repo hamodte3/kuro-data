@@ -10,12 +10,15 @@
   "genres": [
     "موريم",
     "نفسي",
-    "مغامرة",
     "أكشن",
-    "فنون قتالية"
+    "فنون قتالية",
+    "مغامرة"
   ],
   "is_novel": false,
   "chapters": {
+    "https://azorafly.com/series/murim-psychopath/chapter-48": {
+      "name": "48"
+    },
     "https://azorafly.com/series/murim-psychopath/chapter-47": {
       "name": "47"
     },

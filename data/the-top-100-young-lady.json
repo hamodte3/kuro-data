@@ -8,11 +8,14 @@
   "last_update": "2026-05-07",
   "rating": "8.9",
   "genres": [
-    "رومانسي",
-    "دراما"
+    "دراما",
+    "رومانسي"
   ],
   "is_novel": false,
   "chapters": {
+    "https://azorafly.com/series/the-top-100-young-lady/chapter-63": {
+      "name": "63"
+    },
     "https://azorafly.com/series/the-top-100-young-lady/chapter-62": {
       "name": "62"
     },

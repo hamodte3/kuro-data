@@ -6,18 +6,37 @@
   "type": "رواية",
   "status": "مستمر",
   "last_update": "2026-10-21",
-  "rating": "10.0",
+  "rating": "9.5",
   "genres": [
     "من أصدقاء لأحباء",
     "حب  غير متبادل",
     "أصدقاء طفولة",
     "هوس",
     "عودة بالزمن",
-    "غموض",
+    "دراما",
     "رومانسي",
     "تجسيد",
-    "دراما"
+    "غموض"
   ],
   "is_novel": false,
-  "chapters": {}
+  "chapters": {
+    "https://azorafly.com/series/my-first-love-who-became-the-empress-has-returned-to-my-field/chapter-5": {
+      "name": "5"
+    },
+    "https://azorafly.com/series/my-first-love-who-became-the-empress-has-returned-to-my-field/chapter-4": {
+      "name": "4"
+    },
+    "https://azorafly.com/series/my-first-love-who-became-the-empress-has-returned-to-my-field/chapter-3": {
+      "name": "3"
+    },
+    "https://azorafly.com/series/my-first-love-who-became-the-empress-has-returned-to-my-field/chapter-2": {
+      "name": "2"
+    },
+    "https://azorafly.com/series/my-first-love-who-became-the-empress-has-returned-to-my-field/chapter-1": {
+      "name": "1"
+    },
+    "https://azorafly.com/series/my-first-love-who-became-the-empress-has-returned-to-my-field/chapter-0": {
+      "name": "0"
+    }
+  }
 }

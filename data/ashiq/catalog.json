@@ -766,29 +766,6 @@
     "genres": []
   },
   {
-    "id": "noisering",
-    "title": "Noisering",
-    "url": "https://3asq.online/manga/noisering",
-    "cover_url": "https://3asq.online/wp-content/themes/madara/images/dflazy.jpg",
-    "type": "مانغا",
-    "rating": "5.0",
-    "status": "مستمر",
-    "total_chapters": 1,
-    "genres": [
-      "أكشن",
-      "جريمة",
-      "خارق للطبيعة",
-      "خيال علمي",
-      "دراما",
-      "رعب",
-      "عسكرية",
-      "علم نفس",
-      "عنف",
-      "غموض",
-      "فلسفة"
-    ]
-  },
-  {
     "id": "yoru-no-namae-wo-yonde",
     "title": "Yoru no Namae wo Yonde",
     "url": "https://3asq.online/manga/yoru-no-namae-wo-yonde",
@@ -1023,25 +1000,6 @@
     ]
   },
   {
-    "id": "blades-of-the-guardians",
-    "title": "Blades of the Guardians",
-    "url": "https://3asq.online/manga/blades-of-the-guardians",
-    "cover_url": "https://3asq.online/wp-content/themes/madara/images/dflazy.jpg",
-    "type": "مانها",
-    "rating": "4.8",
-    "status": "مستمر",
-    "total_chapters": 22,
-    "genres": [
-      "أكشن",
-      "تاريخ",
-      "حرب",
-      "دراما",
-      "عنف",
-      "فنون قتالية",
-      "مأساة"
-    ]
-  },
-  {
     "id": "kingdom-2",
     "title": "Kingdom (WAN)",
     "url": "https://3asq.online/manga/kingdom-2",
@@ -1107,31 +1065,6 @@
       "نفسي"
     ],
     "status": "مكتمل"
-  },
-  {
-    "id": "enigmatica",
-    "title": "Enigmatica",
-    "url": "https://3asq.online/manga/enigmatica",
-    "cover_url": "https://3asq.online/wp-content/themes/madara/images/dflazy.jpg",
-    "type": "مانغا",
-    "rating": "4.8",
-    "status": "مستمر",
-    "total_chapters": 30,
-    "genres": [
-      "أكشن",
-      "استراتيجي",
-      "تاريخ",
-      "جريمة",
-      "حرب",
-      "خيال",
-      "دراما",
-      "شونين",
-      "عسكرية",
-      "علم نفس",
-      "عنف",
-      "غموض",
-      "فلسفة"
-    ]
   },
   {
     "id": "sangeki",
@@ -1290,6 +1223,73 @@
       "غموض",
       "فنون قتالية",
       "نينجا"
+    ]
+  },
+  {
+    "id": "blades-of-the-guardians",
+    "title": "Blades of the Guardians",
+    "url": "https://3asq.online/manga/blades-of-the-guardians",
+    "cover_url": "https://3asq.online/wp-content/themes/madara/images/dflazy.jpg",
+    "type": "مانها",
+    "rating": "4.8",
+    "status": "مستمر",
+    "total_chapters": 23,
+    "genres": [
+      "أكشن",
+      "تاريخ",
+      "حرب",
+      "دراما",
+      "عنف",
+      "فنون قتالية",
+      "مأساة"
+    ]
+  },
+  {
+    "id": "noisering",
+    "title": "Noisering",
+    "url": "https://3asq.online/manga/noisering",
+    "cover_url": "https://3asq.online/wp-content/themes/madara/images/dflazy.jpg",
+    "type": "مانغا",
+    "rating": "5.0",
+    "status": "مستمر",
+    "total_chapters": 2,
+    "genres": [
+      "أكشن",
+      "جريمة",
+      "خارق للطبيعة",
+      "خيال علمي",
+      "دراما",
+      "رعب",
+      "عسكرية",
+      "علم نفس",
+      "عنف",
+      "غموض",
+      "فلسفة"
+    ]
+  },
+  {
+    "id": "enigmatica",
+    "title": "Enigmatica",
+    "url": "https://3asq.online/manga/enigmatica",
+    "cover_url": "https://3asq.online/wp-content/themes/madara/images/dflazy.jpg",
+    "type": "مانغا",
+    "rating": "4.8",
+    "status": "مستمر",
+    "total_chapters": 31,
+    "genres": [
+      "أكشن",
+      "استراتيجي",
+      "تاريخ",
+      "جريمة",
+      "حرب",
+      "خيال",
+      "دراما",
+      "شونين",
+      "عسكرية",
+      "علم نفس",
+      "عنف",
+      "غموض",
+      "فلسفة"
     ]
   },
   {

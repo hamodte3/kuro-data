@@ -9,15 +9,18 @@
   "rating": "10.0",
   "genres": [
     "دموي",
-    "سحر",
     "دراما",
-    "إثارة",
     "خيال",
-    "أكشن",
-    "غموض"
+    "سحر",
+    "غموض",
+    "إثارة",
+    "أكشن"
   ],
   "is_novel": false,
   "chapters": {
+    "https://azorafly.com/series/reborn-as-the-enemy-prince/chapter-124": {
+      "name": "124"
+    },
     "https://azorafly.com/series/reborn-as-the-enemy-prince/chapter-123": {
       "name": "123"
     },
