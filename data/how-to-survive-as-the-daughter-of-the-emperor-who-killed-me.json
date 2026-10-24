@@ -9,12 +9,15 @@
   "rating": "8.4",
   "genres": [
     "انتقام",
-    "دراما",
     "رومانسي",
-    "خيال"
+    "خيال",
+    "دراما"
   ],
   "is_novel": false,
   "chapters": {
+    "https://azorafly.com/series/how-to-survive-as-the-daughter-of-the-emperor-who-killed-me/chapter-48": {
+      "name": "48"
+    },
     "https://azorafly.com/series/how-to-survive-as-the-daughter-of-the-emperor-who-killed-me/chapter-47": {
       "name": "47"
     },
