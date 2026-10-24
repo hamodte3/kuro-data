@@ -2565,56 +2565,6 @@
     ]
   },
   {
-    "id": "how-to-turn-you-around",
-    "title": "How to Turn You Around",
-    "url": "https://azorafly.com/series/how-to-turn-you-around",
-    "cover_url": "https://storage.azorafly.com/upload/series/featured/02408b52-85d5-445d-9e5c-f7dbcd583bf8/f2d85348-9e25-4829-80ab-79d8234a4fda.png",
-    "type": "مانهوا",
-    "status": "مستمر",
-    "rating": "10.0",
-    "total_chapters": 54,
-    "genres": [
-      "الحياة المدرسية",
-      "رومانسى",
-      "شوجو",
-      "كوميدي"
-    ]
-  },
-  {
-    "id": "surviving-as-a-pd-idol",
-    "title": "Surviving as a PD Idol",
-    "url": "https://azorafly.com/series/surviving-as-a-pd-idol",
-    "cover_url": "https://storage.azorafly.com/2025/03/resource-4.webp",
-    "type": "مانهوا",
-    "status": "مستمر",
-    "rating": "10.0",
-    "total_chapters": 46,
-    "genres": [
-      "موسيقي",
-      "دراما",
-      "كوميدي",
-      "خيال",
-      "تجسيد"
-    ]
-  },
-  {
-    "id": "murim-psychopath",
-    "title": "Murim Psychopath",
-    "url": "https://azorafly.com/series/murim-psychopath",
-    "cover_url": "https://storage.azorafly.com/2025/12/01KDQX23G3TC2676XJXA08ZBZ1-optimized-scaled.webp",
-    "type": "مانهوا",
-    "status": "مستمر",
-    "rating": "9.9",
-    "total_chapters": 49,
-    "genres": [
-      "موريم",
-      "نفسي",
-      "أكشن",
-      "فنون قتالية",
-      "مغامرة"
-    ]
-  },
-  {
     "id": "i-live-with-my-evil-uncle",
     "title": "I Live With My Evil Uncle",
     "url": "https://azorafly.com/series/i-live-with-my-evil-uncle",
@@ -2651,6 +2601,22 @@
     ]
   },
   {
+    "id": "how-to-turn-you-around",
+    "title": "How to Turn You Around",
+    "url": "https://azorafly.com/series/how-to-turn-you-around",
+    "cover_url": "https://storage.azorafly.com/upload/series/featured/02408b52-85d5-445d-9e5c-f7dbcd583bf8/f2d85348-9e25-4829-80ab-79d8234a4fda.png",
+    "type": "مانهوا",
+    "status": "مستمر",
+    "rating": "10.0",
+    "total_chapters": 54,
+    "genres": [
+      "الحياة المدرسية",
+      "رومانسى",
+      "شوجو",
+      "كوميدي"
+    ]
+  },
+  {
     "id": "things-i-didnt-know-because-it-was-the-first-time",
     "title": "Things I Didn’t Know Because It Was The First TIME",
     "url": "https://azorafly.com/series/things-i-didnt-know-because-it-was-the-first-time",
@@ -2663,6 +2629,22 @@
       "رومانسي",
       "تاريخي",
       "فانتازيا"
+    ]
+  },
+  {
+    "id": "ever-after",
+    "title": "ever after",
+    "url": "https://azorafly.com/series/ever-after",
+    "cover_url": "https://storage.azorafly.com/upload/series/featured/oGmL0DQZ16QInTPaeDKwFEK9ryegoy88/ed26a916-2017-4cf0-b668-5f8efc2f6588.webp",
+    "type": "مانهوا",
+    "status": "مستمر",
+    "rating": "9.0",
+    "total_chapters": 24,
+    "genres": [
+      "رومانسى",
+      "عصرى",
+      "شفاء",
+      "غموض"
     ]
   },
   {
@@ -2847,6 +2829,23 @@
     ]
   },
   {
+    "id": "surviving-as-a-pd-idol",
+    "title": "Surviving as a PD Idol",
+    "url": "https://azorafly.com/series/surviving-as-a-pd-idol",
+    "cover_url": "https://storage.azorafly.com/2025/03/resource-4.webp",
+    "type": "مانهوا",
+    "status": "مستمر",
+    "rating": "10.0",
+    "total_chapters": 46,
+    "genres": [
+      "موسيقي",
+      "دراما",
+      "كوميدي",
+      "خيال",
+      "تجسيد"
+    ]
+  },
+  {
     "id": "rise-of-the-limitless-necromancer",
     "title": "Rise of the Limitless Necromancer",
     "url": "https://azorafly.com/series/rise-of-the-limitless-necromancer",
@@ -2941,6 +2940,23 @@
     "genres": [
       "رومانسي",
       "دراما"
+    ]
+  },
+  {
+    "id": "murim-psychopath",
+    "title": "Murim Psychopath",
+    "url": "https://azorafly.com/series/murim-psychopath",
+    "cover_url": "https://storage.azorafly.com/2025/12/01KDQX23G3TC2676XJXA08ZBZ1-optimized-scaled.webp",
+    "type": "مانهوا",
+    "status": "مستمر",
+    "rating": "9.9",
+    "total_chapters": 49,
+    "genres": [
+      "موريم",
+      "نفسي",
+      "أكشن",
+      "فنون قتالية",
+      "مغامرة"
     ]
   },
   {
@@ -3140,20 +3156,6 @@
     ]
   },
   {
-    "id": "i-became-the-caretaker-of-the-stepdaughter-who-will-become-a-villain",
-    "title": "I Became the Caretaker of the Stepdaughter Who Will Become a Villain!",
-    "url": "https://azorafly.com/series/i-became-the-caretaker-of-the-stepdaughter-who-will-become-a-villain",
-    "cover_url": "https://storage.azorafly.com/upload/series/featured/02408b52-85d5-445d-9e5c-f7dbcd583bf8/e64776d2-915f-4391-b9d4-de11fe03b019.jpg",
-    "type": "مانهوا",
-    "total_chapters": 31,
-    "genres": [
-      "رومانسى",
-      "فانتازيا"
-    ],
-    "status": "مستمر",
-    "rating": "9.0"
-  },
-  {
     "id": "the-seventh-prince-wants-to-bail",
     "title": "The Seventh Prince Wants to Bail",
     "url": "https://azorafly.com/series/the-seventh-prince-wants-to-bail",
@@ -3168,22 +3170,6 @@
       "غموض",
       "مغامرات"
     ]
-  },
-  {
-    "id": "i-will-become-the-ex-wife-of-the-beast",
-    "title": "I Will Become the Ex-Wife of the Beast",
-    "url": "https://azorafly.com/series/i-will-become-the-ex-wife-of-the-beast",
-    "cover_url": "https://storage.azorafly.com/upload/series/featured/6cac1de1-87ae-4a81-9cd1-2abe99fd84d7/5bfcd93e-ec41-43d9-a6d6-247ab68a01d0.webp",
-    "type": "مانهوا",
-    "total_chapters": 12,
-    "genres": [
-      "رومانسى",
-      "فنتازيا",
-      "كوميدي",
-      "دراما"
-    ],
-    "status": "مستمر",
-    "rating": "10.0"
   },
   {
     "id": "read-reformation-of-the-deadbeat-noble",
@@ -3204,20 +3190,34 @@
     ]
   },
   {
-    "id": "ever-after",
-    "title": "ever after",
-    "url": "https://azorafly.com/series/ever-after",
-    "cover_url": "https://storage.azorafly.com/upload/series/featured/oGmL0DQZ16QInTPaeDKwFEK9ryegoy88/ed26a916-2017-4cf0-b668-5f8efc2f6588.webp",
+    "id": "i-became-the-caretaker-of-the-stepdaughter-who-will-become-a-villain",
+    "title": "I Became the Caretaker of the Stepdaughter Who Will Become a Villain!",
+    "url": "https://azorafly.com/series/i-became-the-caretaker-of-the-stepdaughter-who-will-become-a-villain",
+    "cover_url": "https://storage.azorafly.com/upload/series/featured/02408b52-85d5-445d-9e5c-f7dbcd583bf8/e64776d2-915f-4391-b9d4-de11fe03b019.jpg",
     "type": "مانهوا",
-    "status": "مستمر",
-    "rating": "9.0",
-    "total_chapters": 24,
+    "total_chapters": 36,
     "genres": [
       "رومانسى",
-      "عصرى",
-      "شفاء",
-      "غموض"
-    ]
+      "فانتازيا"
+    ],
+    "status": "مستمر",
+    "rating": "9.0"
+  },
+  {
+    "id": "i-will-become-the-ex-wife-of-the-beast",
+    "title": "I Will Become the Ex-Wife of the Beast",
+    "url": "https://azorafly.com/series/i-will-become-the-ex-wife-of-the-beast",
+    "cover_url": "https://storage.azorafly.com/upload/series/featured/6cac1de1-87ae-4a81-9cd1-2abe99fd84d7/5bfcd93e-ec41-43d9-a6d6-247ab68a01d0.webp",
+    "type": "مانهوا",
+    "total_chapters": 20,
+    "genres": [
+      "رومانسى",
+      "فنتازيا",
+      "كوميدي",
+      "دراما"
+    ],
+    "status": "مستمر",
+    "rating": "9.5"
   },
   {
     "id": "please-take-care-of-the-baby",
