@@ -6,13 +6,22 @@
   "type": "مانهوا",
   "status": "مستمر",
   "last_update": "2026-09-14",
-  "rating": "9.6",
+  "rating": "9.7",
   "genres": [
     "رومانسى",
     "دراما"
   ],
   "is_novel": false,
   "chapters": {
+    "https://azorafly.com/series/my-love-advisor/chapter-23": {
+      "name": "23"
+    },
+    "https://azorafly.com/series/my-love-advisor/chapter-22": {
+      "name": "22"
+    },
+    "https://azorafly.com/series/my-love-advisor/chapter-21": {
+      "name": "21"
+    },
     "https://azorafly.com/series/my-love-advisor/chapter-20": {
       "name": "20"
     },
