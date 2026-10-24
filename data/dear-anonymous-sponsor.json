@@ -9,11 +9,17 @@
   "rating": "9.8",
   "genres": [
     "غموض",
-    "رومانسي",
-    "خيال"
+    "خيال",
+    "رومانسي"
   ],
   "is_novel": false,
   "chapters": {
+    "https://azorafly.com/series/dear-anonymous-sponsor/chapter-73": {
+      "name": "73"
+    },
+    "https://azorafly.com/series/dear-anonymous-sponsor/chapter-72": {
+      "name": "72"
+    },
     "https://azorafly.com/series/dear-anonymous-sponsor/chapter-71": {
       "name": "71"
     },

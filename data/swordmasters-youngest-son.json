@@ -9,14 +9,17 @@
   "rating": "9.4",
   "genres": [
     "مميز",
-    "مغامرات",
-    "إعادة إحياء",
     "خيال",
+    "إعادة إحياء",
+    "مغامرات",
     "أكشن",
     "فنون قتالية"
   ],
   "is_novel": false,
   "chapters": {
+    "https://azorafly.com/series/swordmasters-youngest-son/chapter-218": {
+      "name": "218"
+    },
     "https://azorafly.com/series/swordmasters-youngest-son/chapter-217": {
       "name": "217"
     },

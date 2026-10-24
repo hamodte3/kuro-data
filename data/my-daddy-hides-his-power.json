@@ -9,11 +9,14 @@
   "rating": "9.7",
   "genres": [
     "شوجو",
-    "رومانسي",
-    "خيال"
+    "خيال",
+    "رومانسي"
   ],
   "is_novel": false,
   "chapters": {
+    "https://azorafly.com/series/my-daddy-hides-his-power/chapter-92": {
+      "name": "92"
+    },
     "https://azorafly.com/series/my-daddy-hides-his-power/chapter-91": {
       "name": "91"
     },

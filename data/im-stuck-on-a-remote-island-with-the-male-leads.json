@@ -9,12 +9,15 @@
   "rating": "9.1",
   "genres": [
     "كوميدي",
+    "خيال",
     "رومانسي",
-    "مغامرة",
-    "خيال"
+    "مغامرة"
   ],
   "is_novel": false,
   "chapters": {
+    "https://azorafly.com/series/im-stuck-on-a-remote-island-with-the-male-leads/chapter-52": {
+      "name": "52"
+    },
     "https://azorafly.com/series/im-stuck-on-a-remote-island-with-the-male-leads/chapter-51": {
       "name": "51"
     },

@@ -8,12 +8,15 @@
   "last_update": "2026-05-07",
   "rating": "9.5",
   "genres": [
-    "فانتازيا",
+    "دراما",
     "رومانسي",
-    "دراما"
+    "فانتازيا"
   ],
   "is_novel": false,
   "chapters": {
+    "https://azorafly.com/series/the-duchess-lives-only-for-this-day/chapter-40.1": {
+      "name": "40.1"
+    },
     "https://azorafly.com/series/the-duchess-lives-only-for-this-day/chapter-40": {
       "name": "40"
     },

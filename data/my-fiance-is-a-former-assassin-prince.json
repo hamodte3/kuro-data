@@ -9,13 +9,19 @@
   "rating": "9.7",
   "genres": [
     "انتقام",
+    "رومانسي",
     "دراما",
     "فانتازيا",
-    "رومانسي",
     "تشويق"
   ],
   "is_novel": false,
   "chapters": {
+    "https://azorafly.com/series/my-fiance-is-a-former-assassin-prince/chapter-44": {
+      "name": "44"
+    },
+    "https://azorafly.com/series/my-fiance-is-a-former-assassin-prince/chapter-43": {
+      "name": "43"
+    },
     "https://azorafly.com/series/my-fiance-is-a-former-assassin-prince/chapter-42": {
       "name": "42"
     },
