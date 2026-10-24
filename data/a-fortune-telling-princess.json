@@ -8,12 +8,15 @@
   "last_update": "2026-08-08",
   "rating": "9.7",
   "genres": [
-    "كوميدي",
     "شوجو",
-    "فنتازيا"
+    "فنتازيا",
+    "كوميدي"
   ],
   "is_novel": false,
   "chapters": {
+    "https://azorafly.com/series/a-fortune-telling-princess/chapter-175": {
+      "name": "175"
+    },
     "https://azorafly.com/series/a-fortune-telling-princess/chapter-174": {
       "name": "174"
     },
