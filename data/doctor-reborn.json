@@ -6,20 +6,23 @@
   "type": "مانهوا",
   "status": "مستمر",
   "last_update": "2026-05-07",
-  "rating": "9.2",
+  "rating": "9.3",
   "genres": [
-    "زمكاني",
     "اسبوعي",
-    "دراما",
-    "إثارة",
-    "شونين",
-    "إعادة إحياء",
+    "زمكاني",
     "خيال",
+    "شونين",
+    "دراما",
+    "إعادة إحياء",
+    "إثارة",
     "أكشن",
     "فنون قتالية"
   ],
   "is_novel": false,
   "chapters": {
+    "https://azorafly.com/series/doctor-reborn/chapter-248": {
+      "name": "248"
+    },
     "https://azorafly.com/series/doctor-reborn/chapter-247": {
       "name": "247"
     },

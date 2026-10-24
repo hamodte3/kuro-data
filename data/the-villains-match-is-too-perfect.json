@@ -8,12 +8,15 @@
   "last_update": "2026-09-20",
   "rating": "9.1",
   "genres": [
-    "سحر",
     "شوجو",
-    "رومانسي"
+    "رومانسي",
+    "سحر"
   ],
   "is_novel": false,
   "chapters": {
+    "https://azorafly.com/series/the-villains-match-is-too-perfect/chapter-147": {
+      "name": "147"
+    },
     "https://azorafly.com/series/the-villains-match-is-too-perfect/chapter-146": {
       "name": "146"
     },
