@@ -12,13 +12,16 @@
     "رعاية اطفال",
     "سحر",
     "نظام",
-    "خيال",
-    "تجسيد",
     "كوميدي",
-    "رومانسي"
+    "خيال",
+    "رومانسي",
+    "تجسيد"
   ],
   "is_novel": false,
   "chapters": {
+    "https://azorafly.com/series/this-reincarnation-is-paid/chapter-45": {
+      "name": "45"
+    },
     "https://azorafly.com/series/this-reincarnation-is-paid/chapter-44": {
       "name": "44"
     },

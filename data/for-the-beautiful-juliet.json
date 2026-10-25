@@ -8,13 +8,19 @@
   "last_update": "2026-05-07",
   "rating": "9.6",
   "genres": [
-    "شوجو",
-    "رومانسي",
     "خيال",
-    "دراما"
+    "رومانسي",
+    "دراما",
+    "شوجو"
   ],
   "is_novel": false,
   "chapters": {
+    "https://azorafly.com/series/for-the-beautiful-juliet/chapter-101": {
+      "name": "101"
+    },
+    "https://azorafly.com/series/for-the-beautiful-juliet/chapter-100": {
+      "name": "100"
+    },
     "https://azorafly.com/series/for-the-beautiful-juliet/chapter-99": {
       "name": "99"
     },
