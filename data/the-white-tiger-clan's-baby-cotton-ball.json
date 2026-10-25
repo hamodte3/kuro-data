@@ -8,14 +8,20 @@
   "last_update": "2026-06-23",
   "rating": "9.3",
   "genres": [
-    "كوميدي",
     "شوجو",
-    "فانتازيا",
     "رومانسي",
-    "دراما"
+    "دراما",
+    "فانتازيا",
+    "كوميدي"
   ],
   "is_novel": false,
   "chapters": {
+    "https://azorafly.com/series/the-white-tiger-clan's-baby-cotton-ball/chapter-41": {
+      "name": "41"
+    },
+    "https://azorafly.com/series/the-white-tiger-clan's-baby-cotton-ball/chapter-40": {
+      "name": "40"
+    },
     "https://azorafly.com/series/the-white-tiger-clan's-baby-cotton-ball/chapter-39": {
       "name": "39"
     },
