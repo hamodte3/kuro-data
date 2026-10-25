@@ -16,18 +16,21 @@
     "زمنكاني",
     "عصور وسطى",
     "طبي",
+    "شوجو",
+    "انتقام",
+    "فنتازيا",
+    "عالم اخر",
+    "غموض",
+    "تاريخي",
     "دراما",
     "كوميدي",
-    "شوجو",
-    "رومانسي",
-    "عالم اخر",
-    "فنتازيا",
-    "تاريخي",
-    "انتقام",
-    "غموض"
+    "رومانسي"
   ],
   "is_novel": false,
   "chapters": {
+    "https://azorafly.com/series/my-body-has-been-possessed-by-someone/chapter-104": {
+      "name": "104"
+    },
     "https://azorafly.com/series/my-body-has-been-possessed-by-someone/chapter-103": {
       "name": "103"
     },
