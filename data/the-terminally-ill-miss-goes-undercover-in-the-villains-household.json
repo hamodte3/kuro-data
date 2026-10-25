@@ -9,11 +9,14 @@
   "rating": "9.0",
   "genres": [
     "خيالي",
-    "رومانسي",
-    "دراما"
+    "دراما",
+    "رومانسي"
   ],
   "is_novel": false,
   "chapters": {
+    "https://azorafly.com/series/the-terminally-ill-miss-goes-undercover-in-the-villains-household/chapter-55": {
+      "name": "55"
+    },
     "https://azorafly.com/series/the-terminally-ill-miss-goes-undercover-in-the-villains-household/chapter-54": {
       "name": "54"
     },

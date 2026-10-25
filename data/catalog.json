@@ -1,155 +1,5 @@
 [
   {
-    "id": "only-i-have-an-ex-grade-summon",
-    "title": "Only I Have an EX-Grade Summon",
-    "url": "https://azorafly.com/series/only-i-have-an-ex-grade-summon",
-    "cover_url": "https://storage.azorafly.com/public/upload/series/featured/6cac1de1-87ae-4a81-9cd1-2abe99fd84d7/bee021f8-fc15-4bb0-a8ad-7c82b51ef923.jpg",
-    "type": "مانهوا",
-    "status": "مستمر",
-    "rating": "9.2",
-    "total_chapters": 44,
-    "genres": [
-      "مانهوا",
-      "ويبتون",
-      "أكشن"
-    ]
-  },
-  {
-    "id": "picked-up-the-villain-from-a-ruined-rofan",
-    "title": "I Picked up the Villain from a Ruined RofanI",
-    "url": "https://azorafly.com/series/picked-up-the-villain-from-a-ruined-rofan",
-    "cover_url": "https://storage.azorafly.com/public/upload/2026/03/18/15215cbe-468c-4cc4-af68-13d6b8bc5365.webp",
-    "type": "رواية",
-    "status": "مستمر",
-    "rating": "8.8",
-    "total_chapters": 50,
-    "genres": [
-      "تجسيد",
-      "تاريخي",
-      "دراما",
-      "كوميدي",
-      "غموض",
-      "رومانسي"
-    ]
-  },
-  {
-    "id": "the-knight-of-the-falling-star",
-    "title": "The Knight of the Falling Star",
-    "url": "https://azorafly.com/series/the-knight-of-the-falling-star",
-    "cover_url": "https://storage.azorafly.com/2025/09/234345346.webp",
-    "type": "مانهوا",
-    "status": "مستمر",
-    "rating": "10.0",
-    "total_chapters": 31,
-    "genres": [
-      "قوى خارقه",
-      "رومانسي",
-      "كوميدي",
-      "سحر",
-      "خيال"
-    ]
-  },
-  {
-    "id": "i-regressed-so-im-faking-an-engagement-with-my-favorite-grand",
-    "title": "I Regressed So I'm Faking an Engagement with My Favorite Grand",
-    "url": "https://azorafly.com/series/i-regressed-so-im-faking-an-engagement-with-my-favorite-grand",
-    "cover_url": "https://storage.azorafly.com/upload/series/featured/02408b52-85d5-445d-9e5c-f7dbcd583bf8/a16d9ac4-4600-4df6-b907-6fc7ce5544f1.jpg",
-    "type": "مانهوا",
-    "total_chapters": 6,
-    "genres": [
-      "رومانسى",
-      "فانتازيا",
-      "دراما"
-    ],
-    "status": "مستمر",
-    "rating": "8.5"
-  },
-  {
-    "id": "the-male-lead-is-obsessed-with-the-villainess-at-the-aristocratic-school1",
-    "title": "The male lead is obsessed with the Villainess at the aristocratic school",
-    "url": "https://azorafly.com/series/the-male-lead-is-obsessed-with-the-villainess-at-the-aristocratic-school1",
-    "cover_url": "https://storage.azorafly.com/public/upload/2026/02/21/64faf949-d3ee-475d-9adb-8b78274a8807.webp",
-    "type": "رواية",
-    "status": "مستمر",
-    "rating": "10.0",
-    "total_chapters": 58,
-    "genres": [
-      "الحياة المدرسية",
-      "تجسيد",
-      "مدرسي",
-      "دراما",
-      "كوميدي",
-      "أكاديمية",
-      "خيال",
-      "رومانسي"
-    ]
-  },
-  {
-    "id": "i-will-stop-my-one-sided-love-and-break-off-the-engagement",
-    "title": "I Will Stop My One-Sided Love and Break Off the Engagement",
-    "url": "https://azorafly.com/series/i-will-stop-my-one-sided-love-and-break-off-the-engagement",
-    "cover_url": "https://storage.azorafly.com/upload/series/featured/a5vVlSc5huft2AzUyK1VxgKh1ckCWLbZ/cf6fb13e-d6d8-470a-bfc3-77d821ef94df.jpg",
-    "type": "رواية",
-    "status": "مستمر",
-    "rating": "10.0",
-    "total_chapters": 80,
-    "genres": [
-      "تجسيد",
-      "تاريخي",
-      "دراما",
-      "خيال",
-      "رومانسي"
-    ]
-  },
-  {
-    "id": "crimson-reset",
-    "title": "Crimson Reset",
-    "url": "https://azorafly.com/series/crimson-reset",
-    "cover_url": "https://storage.azorafly.com/2025/12/Untitled-1.webp",
-    "type": "مانهوا",
-    "status": "مستمر",
-    "rating": "9.2",
-    "total_chapters": 66,
-    "genres": [
-      "شونين",
-      "غموض",
-      "مغامرات",
-      "فانتازيا",
-      "أكشن"
-    ]
-  },
-  {
-    "id": "vengeance-begins-with-marriage",
-    "title": "Vengeance Begins with Marriage",
-    "url": "https://azorafly.com/series/vengeance-begins-with-marriage",
-    "cover_url": "https://storage.azorafly.com/public/upload/2026/03/19/71666fa0-54f3-4b4b-aea5-a5ca55e52fe7.webp",
-    "type": "مانهوا",
-    "status": "مستمر",
-    "rating": "5.1",
-    "total_chapters": 50,
-    "genres": [
-      "دراما",
-      "رومانسي"
-    ]
-  },
-  {
-    "id": "love-obsession-syndrome",
-    "title": "Love Obsession Syndrome",
-    "url": "https://azorafly.com/series/love-obsession-syndrome",
-    "cover_url": "https://storage.azorafly.com/2025/08/2025-08-01-20.00.15.webp",
-    "type": "مانهوا",
-    "status": "مستمر",
-    "rating": "10.0",
-    "total_chapters": 56,
-    "genres": [
-      "مأساوي",
-      "عصري",
-      "هوس",
-      "تشويق",
-      "رومانسي"
-    ]
-  },
-  {
     "id": "transcendence-due-to-a-system-error",
     "title": "Transcendence Due To A System Error",
     "url": "https://azorafly.com/series/transcendence-due-to-a-system-error",
@@ -1432,22 +1282,6 @@
     ],
     "status": "مستمر",
     "rating": "9.0"
-  },
-  {
-    "id": "park-sujin-and-baek-seojeong",
-    "title": "Park sujin and baek seojeong",
-    "url": "https://azorafly.com/series/park-sujin-and-baek-seojeong",
-    "cover_url": "https://storage.azorafly.com/upload/series/featured/02408b52-85d5-445d-9e5c-f7dbcd583bf8/86eb9d40-152b-4893-8abc-bd7acb38cf32.jpg",
-    "type": "مانهوا",
-    "total_chapters": 7,
-    "genres": [
-      "اكشن",
-      "غموض",
-      "دراما",
-      "نفسي"
-    ],
-    "status": "مستمر",
-    "rating": "7.0"
   },
   {
     "id": "operation-name-pure-love",
@@ -3103,12 +2937,12 @@
     "genres": [
       "عائلي",
       "رعاية اطفال",
+      "كوميدي",
       "سحر",
       "نظام",
-      "كوميدي",
       "خيال",
-      "رومانسي",
-      "تجسيد"
+      "تجسيد",
+      "رومانسي"
     ]
   },
   {
@@ -3122,10 +2956,10 @@
     "total_chapters": 42,
     "genres": [
       "خيالي",
-      "شوجو",
       "تجسيد",
       "رومانسي",
-      "كوميدي"
+      "كوميدي",
+      "شوجو"
     ]
   },
   {
@@ -3159,9 +2993,9 @@
     "total_chapters": 101,
     "genres": [
       "خيال",
-      "رومانسي",
       "دراما",
-      "شوجو"
+      "شوجو",
+      "رومانسي"
     ]
   },
   {
@@ -3189,8 +3023,8 @@
     "rating": "9.1",
     "total_chapters": 46,
     "genres": [
-      "نظام",
       "كوميدي",
+      "نظام",
       "خيال",
       "رومانسي"
     ]
@@ -3207,8 +3041,8 @@
     "genres": [
       "خيالي",
       "نفسي",
-      "رومانسي",
-      "دراما"
+      "دراما",
+      "رومانسي"
     ]
   },
   {
@@ -3223,6 +3057,313 @@
     "genres": [
       "فانتازيا",
       "دراما",
+      "رومانسي"
+    ]
+  },
+  {
+    "id": "absolute-sword-sense",
+    "title": "Absolute Sword Sense",
+    "url": "https://azorafly.com/series/absolute-sword-sense",
+    "cover_url": "https://storage.azorafly.com/2022/06/Absolute-Sword-Sense-1-21.jpg",
+    "type": "مانهوا",
+    "status": "مستمر",
+    "rating": "10.0",
+    "total_chapters": 208,
+    "genres": [
+      "أكشن"
+    ]
+  },
+  {
+    "id": "the-terminally-ill-miss-goes-undercover-in-the-villains-household",
+    "title": "The Terminally Ill Miss Goes Undercover in the Villain’s Household",
+    "url": "https://azorafly.com/series/the-terminally-ill-miss-goes-undercover-in-the-villains-household",
+    "cover_url": "https://storage.azorafly.com/2025/09/resource-3.webp",
+    "type": "مانهوا",
+    "status": "مستمر",
+    "rating": "9.0",
+    "total_chapters": 55,
+    "genres": [
+      "خيالي",
+      "دراما",
+      "رومانسي"
+    ]
+  },
+  {
+    "id": "please-give-me-the-pacifier",
+    "title": "Please Give Me The Pacifier",
+    "url": "https://azorafly.com/series/please-give-me-the-pacifier",
+    "cover_url": "https://storage.azorafly.com/public/upload/series/featured/02408b52-85d5-445d-9e5c-f7dbcd583bf8/633fd5b1-cf03-401c-ae75-db63778a4b02.jpg",
+    "type": "مانهوا",
+    "status": "مستمر",
+    "rating": "10.0",
+    "total_chapters": 144,
+    "genres": [
+      "مانهوا",
+      "سحر",
+      "خيال",
+      "دراما",
+      "إثارة",
+      "شوجو",
+      "رومانسي"
+    ]
+  },
+  {
+    "id": "the-vampires-sons",
+    "title": "The Vampire’s Sons",
+    "url": "https://azorafly.com/series/the-vampires-sons",
+    "cover_url": "https://storage.azorafly.com/2025/07/2025-07-17-12.11.36.webp",
+    "type": "مانهوا",
+    "status": "مستمر",
+    "rating": "9.3",
+    "total_chapters": 67,
+    "genres": [
+      "مصاصي الدماء",
+      "دراما",
+      "رومانسي"
+    ]
+  },
+  {
+    "id": "thats-not-what-my-will-said",
+    "title": "That's Not What My Will Said",
+    "url": "https://azorafly.com/series/thats-not-what-my-will-said",
+    "cover_url": "https://storage.azorafly.com/public/upload/series/featured/02408b52-85d5-445d-9e5c-f7dbcd583bf8/3e97fe65-b467-4035-8bca-dd8b70fffbfd.jpg",
+    "type": "مانهوا",
+    "status": "مستمر",
+    "rating": "8.7",
+    "total_chapters": 60,
+    "genres": [
+      "خيال",
+      "فانتازيا",
+      "رومانسي"
+    ]
+  },
+  {
+    "id": "park-sujin-and-baek-seojeong",
+    "title": "Park sujin and baek seojeong",
+    "url": "https://azorafly.com/series/park-sujin-and-baek-seojeong",
+    "cover_url": "https://storage.azorafly.com/upload/series/featured/02408b52-85d5-445d-9e5c-f7dbcd583bf8/86eb9d40-152b-4893-8abc-bd7acb38cf32.jpg",
+    "type": "مانهوا",
+    "total_chapters": 8,
+    "genres": [
+      "اكشن",
+      "غموض",
+      "نفسي",
+      "دراما"
+    ],
+    "status": "مستمر",
+    "rating": "7.0"
+  },
+  {
+    "id": "this-young-lady-hates-being-productive",
+    "title": "This Young Lady Hates Being Productive",
+    "url": "https://azorafly.com/series/this-young-lady-hates-being-productive",
+    "cover_url": "https://storage.azorafly.com/upload/series/featured/6cac1de1-87ae-4a81-9cd1-2abe99fd84d7/ffebdfac-798e-4f1f-9d9b-3a0acf323e9d.jpg",
+    "type": "مانهوا",
+    "total_chapters": 1,
+    "genres": [
+      "خيالي",
+      "كوميدي",
+      "شوجو",
+      "رومانسي",
+      "تاريخي"
+    ],
+    "status": "مستمر",
+    "rating": "10.0"
+  },
+  {
+    "id": "regression-of-the-yong-clan-heir",
+    "title": "Regression of the Yong Clan Heir",
+    "url": "https://azorafly.com/series/regression-of-the-yong-clan-heir",
+    "cover_url": "https://storage.azorafly.com/2024/12/A21.webp",
+    "type": "مانهوا",
+    "status": "مستمر",
+    "rating": "9.0",
+    "total_chapters": 65,
+    "genres": [
+      "زمكاني",
+      "خيال",
+      "أكشن",
+      "فنون قتالية"
+    ]
+  },
+  {
+    "id": "im-a-phantom-thief-but-i-ended-up-in-a-fake-marriage-with-a-detective",
+    "title": "I’m a phantom thief, but I ended up in a fake marriage with a detective",
+    "url": "https://azorafly.com/series/im-a-phantom-thief-but-i-ended-up-in-a-fake-marriage-with-a-detective",
+    "cover_url": "https://storage.azorafly.com/upload/series/featured/cd41a42a-76fd-4c3a-a5f3-c71c3784dd7b/b3ac45a7-5293-4938-b1e0-76cfcb2e32e8.webp",
+    "type": "مانهوا",
+    "status": "مستمر",
+    "rating": "8.3",
+    "total_chapters": 53,
+    "genres": [
+      "شوجو",
+      "رومانسي"
+    ]
+  },
+  {
+    "id": "the-flower-with-a-sword",
+    "title": "The Flower With a Sword",
+    "url": "https://azorafly.com/series/the-flower-with-a-sword",
+    "cover_url": "https://storage.azorafly.com/public/upload/2026/04/03/85f99085-fac0-4b13-97b8-5990ae2a751d.webp",
+    "type": "مانهوا",
+    "status": "مستمر",
+    "rating": "10.0",
+    "total_chapters": 64,
+    "genres": [
+      "خيالي",
+      "كوميدي",
+      "سحر",
+      "مغامرات",
+      "رومانسي"
+    ]
+  },
+  {
+    "id": "only-i-have-an-ex-grade-summon",
+    "title": "Only I Have an EX-Grade Summon",
+    "url": "https://azorafly.com/series/only-i-have-an-ex-grade-summon",
+    "cover_url": "https://storage.azorafly.com/public/upload/series/featured/6cac1de1-87ae-4a81-9cd1-2abe99fd84d7/bee021f8-fc15-4bb0-a8ad-7c82b51ef923.jpg",
+    "type": "مانهوا",
+    "status": "مستمر",
+    "rating": "9.2",
+    "total_chapters": 44,
+    "genres": [
+      "مانهوا",
+      "ويبتون",
+      "أكشن"
+    ]
+  },
+  {
+    "id": "picked-up-the-villain-from-a-ruined-rofan",
+    "title": "I Picked up the Villain from a Ruined RofanI",
+    "url": "https://azorafly.com/series/picked-up-the-villain-from-a-ruined-rofan",
+    "cover_url": "https://storage.azorafly.com/public/upload/2026/03/18/15215cbe-468c-4cc4-af68-13d6b8bc5365.webp",
+    "type": "رواية",
+    "status": "مستمر",
+    "rating": "8.8",
+    "total_chapters": 50,
+    "genres": [
+      "تجسيد",
+      "تاريخي",
+      "دراما",
+      "كوميدي",
+      "غموض",
+      "رومانسي"
+    ]
+  },
+  {
+    "id": "the-knight-of-the-falling-star",
+    "title": "The Knight of the Falling Star",
+    "url": "https://azorafly.com/series/the-knight-of-the-falling-star",
+    "cover_url": "https://storage.azorafly.com/2025/09/234345346.webp",
+    "type": "مانهوا",
+    "status": "مستمر",
+    "rating": "10.0",
+    "total_chapters": 31,
+    "genres": [
+      "قوى خارقه",
+      "رومانسي",
+      "كوميدي",
+      "سحر",
+      "خيال"
+    ]
+  },
+  {
+    "id": "i-regressed-so-im-faking-an-engagement-with-my-favorite-grand",
+    "title": "I Regressed So I'm Faking an Engagement with My Favorite Grand",
+    "url": "https://azorafly.com/series/i-regressed-so-im-faking-an-engagement-with-my-favorite-grand",
+    "cover_url": "https://storage.azorafly.com/upload/series/featured/02408b52-85d5-445d-9e5c-f7dbcd583bf8/a16d9ac4-4600-4df6-b907-6fc7ce5544f1.jpg",
+    "type": "مانهوا",
+    "total_chapters": 6,
+    "genres": [
+      "رومانسى",
+      "فانتازيا",
+      "دراما"
+    ],
+    "status": "مستمر",
+    "rating": "8.5"
+  },
+  {
+    "id": "the-male-lead-is-obsessed-with-the-villainess-at-the-aristocratic-school1",
+    "title": "The male lead is obsessed with the Villainess at the aristocratic school",
+    "url": "https://azorafly.com/series/the-male-lead-is-obsessed-with-the-villainess-at-the-aristocratic-school1",
+    "cover_url": "https://storage.azorafly.com/public/upload/2026/02/21/64faf949-d3ee-475d-9adb-8b78274a8807.webp",
+    "type": "رواية",
+    "status": "مستمر",
+    "rating": "10.0",
+    "total_chapters": 58,
+    "genres": [
+      "الحياة المدرسية",
+      "تجسيد",
+      "مدرسي",
+      "دراما",
+      "كوميدي",
+      "أكاديمية",
+      "خيال",
+      "رومانسي"
+    ]
+  },
+  {
+    "id": "i-will-stop-my-one-sided-love-and-break-off-the-engagement",
+    "title": "I Will Stop My One-Sided Love and Break Off the Engagement",
+    "url": "https://azorafly.com/series/i-will-stop-my-one-sided-love-and-break-off-the-engagement",
+    "cover_url": "https://storage.azorafly.com/upload/series/featured/a5vVlSc5huft2AzUyK1VxgKh1ckCWLbZ/cf6fb13e-d6d8-470a-bfc3-77d821ef94df.jpg",
+    "type": "رواية",
+    "status": "مستمر",
+    "rating": "10.0",
+    "total_chapters": 80,
+    "genres": [
+      "تجسيد",
+      "تاريخي",
+      "دراما",
+      "خيال",
+      "رومانسي"
+    ]
+  },
+  {
+    "id": "crimson-reset",
+    "title": "Crimson Reset",
+    "url": "https://azorafly.com/series/crimson-reset",
+    "cover_url": "https://storage.azorafly.com/2025/12/Untitled-1.webp",
+    "type": "مانهوا",
+    "status": "مستمر",
+    "rating": "9.2",
+    "total_chapters": 66,
+    "genres": [
+      "شونين",
+      "غموض",
+      "مغامرات",
+      "فانتازيا",
+      "أكشن"
+    ]
+  },
+  {
+    "id": "vengeance-begins-with-marriage",
+    "title": "Vengeance Begins with Marriage",
+    "url": "https://azorafly.com/series/vengeance-begins-with-marriage",
+    "cover_url": "https://storage.azorafly.com/public/upload/2026/03/19/71666fa0-54f3-4b4b-aea5-a5ca55e52fe7.webp",
+    "type": "مانهوا",
+    "status": "مستمر",
+    "rating": "5.1",
+    "total_chapters": 50,
+    "genres": [
+      "دراما",
+      "رومانسي"
+    ]
+  },
+  {
+    "id": "love-obsession-syndrome",
+    "title": "Love Obsession Syndrome",
+    "url": "https://azorafly.com/series/love-obsession-syndrome",
+    "cover_url": "https://storage.azorafly.com/2025/08/2025-08-01-20.00.15.webp",
+    "type": "مانهوا",
+    "status": "مستمر",
+    "rating": "10.0",
+    "total_chapters": 56,
+    "genres": [
+      "مأساوي",
+      "عصري",
+      "هوس",
+      "تشويق",
       "رومانسي"
     ]
   },
@@ -3607,20 +3748,6 @@
       "اكشن",
       "خيال",
       "دراما"
-    ]
-  },
-  {
-    "id": "im-a-phantom-thief-but-i-ended-up-in-a-fake-marriage-with-a-detective",
-    "title": "I’m a phantom thief, but I ended up in a fake marriage with a detective",
-    "url": "https://azorafly.com/series/im-a-phantom-thief-but-i-ended-up-in-a-fake-marriage-with-a-detective",
-    "cover_url": "https://storage.azorafly.com/upload/series/featured/cd41a42a-76fd-4c3a-a5f3-c71c3784dd7b/b3ac45a7-5293-4938-b1e0-76cfcb2e32e8.webp",
-    "type": "مانهوا",
-    "status": "مستمر",
-    "rating": "8.6",
-    "total_chapters": 51,
-    "genres": [
-      "شوجو",
-      "رومانسي"
     ]
   },
   {
@@ -4802,19 +4929,6 @@
     "rating": "10.0"
   },
   {
-    "id": "absolute-sword-sense",
-    "title": "Absolute Sword Sense",
-    "url": "https://azorafly.com/series/absolute-sword-sense",
-    "cover_url": "https://storage.azorafly.com/2022/06/Absolute-Sword-Sense-1-21.jpg",
-    "type": "مانهوا",
-    "status": "مستمر",
-    "rating": "10.0",
-    "total_chapters": 207,
-    "genres": [
-      "أكشن"
-    ]
-  },
-  {
     "id": "the-eldest-daughter-of-the-tang-clan-of-sacheon-protects-the-family",
     "title": "The Eldest Daughter of the Tang Clan of Sacheon Protects the Family",
     "url": "https://azorafly.com/series/the-eldest-daughter-of-the-tang-clan-of-sacheon-protects-the-family",
@@ -4983,21 +5097,6 @@
       "شوجو",
       "فانتازيا",
       "كوميدي"
-    ]
-  },
-  {
-    "id": "thats-not-what-my-will-said",
-    "title": "That's Not What My Will Said",
-    "url": "https://azorafly.com/series/thats-not-what-my-will-said",
-    "cover_url": "https://storage.azorafly.com/public/upload/series/featured/02408b52-85d5-445d-9e5c-f7dbcd583bf8/3e97fe65-b467-4035-8bca-dd8b70fffbfd.jpg",
-    "type": "مانهوا",
-    "status": "مستمر",
-    "rating": "8.6",
-    "total_chapters": 58,
-    "genres": [
-      "فانتازيا",
-      "رومانسي",
-      "خيال"
     ]
   },
   {
@@ -5634,22 +5733,6 @@
       "رومانسي",
       "خيال",
       "عودة بالزمن"
-    ]
-  },
-  {
-    "id": "regression-of-the-yong-clan-heir",
-    "title": "Regression of the Yong Clan Heir",
-    "url": "https://azorafly.com/series/regression-of-the-yong-clan-heir",
-    "cover_url": "https://storage.azorafly.com/2024/12/A21.webp",
-    "type": "مانهوا",
-    "status": "مستمر",
-    "rating": "9.0",
-    "total_chapters": 64,
-    "genres": [
-      "زمكاني",
-      "خيال",
-      "أكشن",
-      "فنون قتالية"
     ]
   },
   {
@@ -6514,25 +6597,6 @@
     "rating": "10.0"
   },
   {
-    "id": "please-give-me-the-pacifier",
-    "title": "Please Give Me The Pacifier",
-    "url": "https://azorafly.com/series/please-give-me-the-pacifier",
-    "cover_url": "https://storage.azorafly.com/public/upload/series/featured/02408b52-85d5-445d-9e5c-f7dbcd583bf8/633fd5b1-cf03-401c-ae75-db63778a4b02.jpg",
-    "type": "مانهوا",
-    "status": "مستمر",
-    "rating": "10.0",
-    "total_chapters": 143,
-    "genres": [
-      "مانهوا",
-      "إثارة",
-      "سحر",
-      "شوجو",
-      "رومانسي",
-      "دراما",
-      "خيال"
-    ]
-  },
-  {
     "id": "parenting-with-a-madman",
     "title": "Parenting with a Madman",
     "url": "https://azorafly.com/series/parenting-with-a-madman",
@@ -6643,23 +6707,6 @@
       "رومانسي",
       "دراما",
       "عودة بالزمن"
-    ]
-  },
-  {
-    "id": "the-flower-with-a-sword",
-    "title": "The Flower With a Sword",
-    "url": "https://azorafly.com/series/the-flower-with-a-sword",
-    "cover_url": "https://storage.azorafly.com/public/upload/2026/04/03/85f99085-fac0-4b13-97b8-5990ae2a751d.webp",
-    "type": "مانهوا",
-    "status": "مستمر",
-    "rating": "10.0",
-    "total_chapters": 63,
-    "genres": [
-      "خيالي",
-      "سحر",
-      "مغامرات",
-      "كوميدي",
-      "رومانسي"
     ]
   },
   {
@@ -7213,36 +7260,6 @@
     ],
     "status": "مستمر",
     "rating": "9.0"
-  },
-  {
-    "id": "the-vampires-sons",
-    "title": "The Vampire’s Sons",
-    "url": "https://azorafly.com/series/the-vampires-sons",
-    "cover_url": "https://storage.azorafly.com/2025/07/2025-07-17-12.11.36.webp",
-    "type": "مانهوا",
-    "status": "مستمر",
-    "rating": "9.2",
-    "total_chapters": 66,
-    "genres": [
-      "مصاصي الدماء",
-      "رومانسي",
-      "دراما"
-    ]
-  },
-  {
-    "id": "the-terminally-ill-miss-goes-undercover-in-the-villains-household",
-    "title": "The Terminally Ill Miss Goes Undercover in the Villain’s Household",
-    "url": "https://azorafly.com/series/the-terminally-ill-miss-goes-undercover-in-the-villains-household",
-    "cover_url": "https://storage.azorafly.com/2025/09/resource-3.webp",
-    "type": "مانهوا",
-    "status": "مستمر",
-    "rating": "9.0",
-    "total_chapters": 54,
-    "genres": [
-      "خيالي",
-      "رومانسي",
-      "دراما"
-    ]
   },
   {
     "id": "and-so-one-hundred-years-later-the-magician-noi-galenee-becomes-a-bride",

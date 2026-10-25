@@ -10,11 +10,14 @@
   "genres": [
     "اكشن",
     "غموض",
-    "دراما",
-    "نفسي"
+    "نفسي",
+    "دراما"
   ],
   "is_novel": false,
   "chapters": {
+    "https://azorafly.com/series/park-sujin-and-baek-seojeong/chapter-8": {
+      "name": "8"
+    },
     "https://azorafly.com/series/park-sujin-and-baek-seojeong/chapter-7": {
       "name": "7"
     },
