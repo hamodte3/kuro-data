@@ -12,11 +12,14 @@
     "عبقري",
     "موريم",
     "مغامرات",
-    "فنون قتالية",
-    "كوميدي"
+    "كوميدي",
+    "فنون قتالية"
   ],
   "is_novel": false,
   "chapters": {
+    "https://azorafly.com/series/the-martial-genius-who-remembers-everything/chapter-32": {
+      "name": "32"
+    },
     "https://azorafly.com/series/the-martial-genius-who-remembers-everything/chapter-31": {
       "name": "31"
     },

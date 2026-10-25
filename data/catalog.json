@@ -1,40 +1,5 @@
 [
   {
-    "id": "nano-machine-s",
-    "title": "Nano machine",
-    "url": "https://azorafly.com/series/nano-machine-s",
-    "cover_url": "https://storage.azorafly.com/2020/03/nano-1.jpg",
-    "type": "مانهوا",
-    "status": "مستمر",
-    "rating": "9.7",
-    "total_chapters": 337,
-    "genres": [
-      "مانهوا",
-      "اسبوعي",
-      "خارق للطبيعة",
-      "غموض",
-      "مميز",
-      "مغامرات",
-      "إثارة",
-      "أكشن"
-    ]
-  },
-  {
-    "id": "the-former-supreme",
-    "title": "The Former Supreme",
-    "url": "https://azorafly.com/series/the-former-supreme",
-    "cover_url": "https://storage.azorafly.com/upload/series/featured/6cac1de1-87ae-4a81-9cd1-2abe99fd84d7/bd9744ac-0c31-45e9-84d3-ac64d530947e.png",
-    "type": "مانهوا",
-    "status": "مستمر",
-    "rating": "9.4",
-    "total_chapters": 21,
-    "genres": [
-      "فنون قتالية",
-      "مغامرات",
-      "أكشن"
-    ]
-  },
-  {
     "id": "the-villainous-family-is-against-independence",
     "title": "The Villainous Family Is Against Independence",
     "url": "https://azorafly.com/series/the-villainous-family-is-against-independence",
@@ -2035,22 +2000,6 @@
     ]
   },
   {
-    "id": "how-to-turn-you-around",
-    "title": "How to Turn You Around",
-    "url": "https://azorafly.com/series/how-to-turn-you-around",
-    "cover_url": "https://storage.azorafly.com/upload/series/featured/02408b52-85d5-445d-9e5c-f7dbcd583bf8/f2d85348-9e25-4829-80ab-79d8234a4fda.png",
-    "type": "مانهوا",
-    "status": "مستمر",
-    "rating": "10.0",
-    "total_chapters": 55,
-    "genres": [
-      "الحياة المدرسية",
-      "رومانسى",
-      "شوجو",
-      "كوميدي"
-    ]
-  },
-  {
     "id": "a-strange-phenomenon",
     "title": "A strange phenomenon",
     "url": "https://azorafly.com/series/a-strange-phenomenon",
@@ -2723,26 +2672,6 @@
     ]
   },
   {
-    "id": "this-reincarnation-is-paid",
-    "title": "This  Reincarnation is Paid",
-    "url": "https://azorafly.com/series/this-reincarnation-is-paid",
-    "cover_url": "https://storage.azorafly.com/upload/series/featured/a5vVlSc5huft2AzUyK1VxgKh1ckCWLbZ/dfb0dd31-1dd9-418e-9219-761c2c18a05d.jpg",
-    "type": "مانهوا",
-    "status": "مستمر",
-    "rating": "9.5",
-    "total_chapters": 43,
-    "genres": [
-      "عائلي",
-      "رعاية اطفال",
-      "تجسيد",
-      "سحر",
-      "نظام",
-      "كوميدي",
-      "خيال",
-      "رومانسي"
-    ]
-  },
-  {
     "id": "pretty-trash",
     "title": "Pretty Trash",
     "url": "https://azorafly.com/series/pretty-trash",
@@ -3186,22 +3115,6 @@
     ]
   },
   {
-    "id": "empress's-will-love",
-    "title": "Empress's Will Love",
-    "url": "https://azorafly.com/series/empress's-will-love",
-    "cover_url": "https://storage.azorafly.com/upload/series/featured/02408b52-85d5-445d-9e5c-f7dbcd583bf8/5026b5a2-044f-4482-a97e-b70c2c44c7e2.jpg",
-    "type": "مانها",
-    "status": "مستمر",
-    "rating": "10.0",
-    "total_chapters": 15,
-    "genres": [
-      "رومانسى",
-      "تاريخي",
-      "دراما",
-      "كوميدي"
-    ]
-  },
-  {
     "id": "the-low-ranking-civil-servant-wants-to-achieve-success",
     "title": "The Low-Ranking Civil Servant Wants to Achieve Success",
     "url": "https://azorafly.com/series/the-low-ranking-civil-servant-wants-to-achieve-success",
@@ -3218,6 +3131,38 @@
     ]
   },
   {
+    "id": "empress's-will-love",
+    "title": "Empress's Will Love",
+    "url": "https://azorafly.com/series/empress's-will-love",
+    "cover_url": "https://storage.azorafly.com/upload/series/featured/02408b52-85d5-445d-9e5c-f7dbcd583bf8/5026b5a2-044f-4482-a97e-b70c2c44c7e2.jpg",
+    "type": "مانها",
+    "status": "مستمر",
+    "rating": "10.0",
+    "total_chapters": 15,
+    "genres": [
+      "رومانسى",
+      "تاريخي",
+      "دراما",
+      "كوميدي"
+    ]
+  },
+  {
+    "id": "how-to-turn-you-around",
+    "title": "How to Turn You Around",
+    "url": "https://azorafly.com/series/how-to-turn-you-around",
+    "cover_url": "https://storage.azorafly.com/upload/series/featured/02408b52-85d5-445d-9e5c-f7dbcd583bf8/f2d85348-9e25-4829-80ab-79d8234a4fda.png",
+    "type": "مانهوا",
+    "status": "مستمر",
+    "rating": "10.0",
+    "total_chapters": 56,
+    "genres": [
+      "الحياة المدرسية",
+      "رومانسى",
+      "شوجو",
+      "كوميدي"
+    ]
+  },
+  {
     "id": "marked-as-the-tyrant's-daughter-in-law",
     "title": "Marked as the Tyrant’s Daughter-in-law",
     "url": "https://azorafly.com/series/marked-as-the-tyrant's-daughter-in-law",
@@ -3225,12 +3170,101 @@
     "type": "مانهوا",
     "status": "مستمر",
     "rating": "9.8",
-    "total_chapters": 30,
+    "total_chapters": 31,
     "genres": [
       "رومانسى",
       "شوجو",
       "دراما",
       "فانتازيا"
+    ]
+  },
+  {
+    "id": "this-reincarnation-is-paid",
+    "title": "This  Reincarnation is Paid",
+    "url": "https://azorafly.com/series/this-reincarnation-is-paid",
+    "cover_url": "https://storage.azorafly.com/upload/series/featured/a5vVlSc5huft2AzUyK1VxgKh1ckCWLbZ/dfb0dd31-1dd9-418e-9219-761c2c18a05d.jpg",
+    "type": "مانهوا",
+    "status": "مستمر",
+    "rating": "9.5",
+    "total_chapters": 44,
+    "genres": [
+      "عائلي",
+      "رعاية اطفال",
+      "سحر",
+      "نظام",
+      "خيال",
+      "تجسيد",
+      "كوميدي",
+      "رومانسي"
+    ]
+  },
+  {
+    "id": "paradise-on-earth",
+    "title": "Paradise on Earth",
+    "url": "https://azorafly.com/series/paradise-on-earth",
+    "cover_url": "https://storage.azorafly.com/upload/series/featured/55ecc86a-e082-44c7-bea8-675703397a95/bfca4867-9336-4967-9f79-bdbdb91dfd41.png",
+    "type": "مانهوا",
+    "status": "مستمر",
+    "rating": "10.0",
+    "total_chapters": 50,
+    "genres": [
+      "دموي",
+      "خارق للطبيعة",
+      "رعب",
+      "رومانسي"
+    ]
+  },
+  {
+    "id": "the-martial-genius-who-remembers-everything",
+    "title": "The Martial Genius Who Remembers Everything",
+    "url": "https://azorafly.com/series/the-martial-genius-who-remembers-everything",
+    "cover_url": "https://storage.azorafly.com/upload/series/featured/6cac1de1-87ae-4a81-9cd1-2abe99fd84d7/03c313a7-b286-4bf4-81ac-3f0300b24117.jpg",
+    "type": "مانهوا",
+    "status": "مستمر",
+    "rating": "9.8",
+    "total_chapters": 32,
+    "genres": [
+      "اكشن",
+      "عبقري",
+      "موريم",
+      "مغامرات",
+      "كوميدي",
+      "فنون قتالية"
+    ]
+  },
+  {
+    "id": "nano-machine-s",
+    "title": "Nano machine",
+    "url": "https://azorafly.com/series/nano-machine-s",
+    "cover_url": "https://storage.azorafly.com/2020/03/nano-1.jpg",
+    "type": "مانهوا",
+    "status": "مستمر",
+    "rating": "9.7",
+    "total_chapters": 337,
+    "genres": [
+      "مانهوا",
+      "اسبوعي",
+      "خارق للطبيعة",
+      "غموض",
+      "مميز",
+      "مغامرات",
+      "إثارة",
+      "أكشن"
+    ]
+  },
+  {
+    "id": "the-former-supreme",
+    "title": "The Former Supreme",
+    "url": "https://azorafly.com/series/the-former-supreme",
+    "cover_url": "https://storage.azorafly.com/upload/series/featured/6cac1de1-87ae-4a81-9cd1-2abe99fd84d7/bd9744ac-0c31-45e9-84d3-ac64d530947e.png",
+    "type": "مانهوا",
+    "status": "مستمر",
+    "rating": "9.4",
+    "total_chapters": 21,
+    "genres": [
+      "فنون قتالية",
+      "مغامرات",
+      "أكشن"
     ]
   },
   {
@@ -4925,24 +4959,6 @@
       "حياة مدرسية",
       "عصري",
       "رومانسي"
-    ]
-  },
-  {
-    "id": "the-martial-genius-who-remembers-everything",
-    "title": "The Martial Genius Who Remembers Everything",
-    "url": "https://azorafly.com/series/the-martial-genius-who-remembers-everything",
-    "cover_url": "https://storage.azorafly.com/upload/series/featured/6cac1de1-87ae-4a81-9cd1-2abe99fd84d7/03c313a7-b286-4bf4-81ac-3f0300b24117.jpg",
-    "type": "مانهوا",
-    "status": "مستمر",
-    "rating": "9.8",
-    "total_chapters": 31,
-    "genres": [
-      "اكشن",
-      "عبقري",
-      "موريم",
-      "مغامرات",
-      "فنون قتالية",
-      "كوميدي"
     ]
   },
   {
@@ -27696,22 +27712,6 @@
       "نمو",
       "نظام",
       "دراما"
-    ]
-  },
-  {
-    "id": "paradise-on-earth",
-    "title": "Paradise on Earth",
-    "url": "https://azorafly.com/series/paradise-on-earth",
-    "cover_url": "https://storage.azorafly.com/2025/08/بدون-اسم6_20250802091740-scaled.png",
-    "type": "مانهوا",
-    "status": "مستمر",
-    "rating": "9.5",
-    "total_chapters": 49,
-    "genres": [
-      "أكشن",
-      "دموي",
-      "رعب",
-      "رومانسي"
     ]
   },
   {

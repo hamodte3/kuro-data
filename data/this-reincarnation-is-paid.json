@@ -10,15 +10,18 @@
   "genres": [
     "عائلي",
     "رعاية اطفال",
-    "تجسيد",
     "سحر",
     "نظام",
-    "كوميدي",
     "خيال",
+    "تجسيد",
+    "كوميدي",
     "رومانسي"
   ],
   "is_novel": false,
   "chapters": {
+    "https://azorafly.com/series/this-reincarnation-is-paid/chapter-44": {
+      "name": "44"
+    },
     "https://azorafly.com/series/this-reincarnation-is-paid/chapter-43": {
       "name": "43"
     },
