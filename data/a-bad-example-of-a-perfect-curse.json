@@ -9,11 +9,14 @@
   "rating": "5.8",
   "genres": [
     "فانتازيا",
-    "دراما",
-    "رومانسي"
+    "رومانسي",
+    "دراما"
   ],
   "is_novel": false,
   "chapters": {
+    "https://azorafly.com/series/a-bad-example-of-a-perfect-curse/chapter-45": {
+      "name": "45"
+    },
     "https://azorafly.com/series/a-bad-example-of-a-perfect-curse/chapter-44": {
       "name": "44"
     },

@@ -10,13 +10,16 @@
   "genres": [
     "اسبوعي",
     "ويبتون",
-    "كوميدي",
     "مميز",
+    "كوميدي",
     "مغامرات",
     "أكشن"
   ],
   "is_novel": false,
   "chapters": {
+    "https://azorafly.com/series/overgeared-12/chapter-345": {
+      "name": "345"
+    },
     "https://azorafly.com/series/overgeared-12/chapter-344": {
       "name": "344"
     },

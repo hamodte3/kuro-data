@@ -8,12 +8,15 @@
   "last_update": "2026-05-07",
   "rating": "4.8",
   "genres": [
-    "دراما",
+    "خيال",
     "رومانسي",
-    "خيال"
+    "دراما"
   ],
   "is_novel": false,
   "chapters": {
+    "https://azorafly.com/series/high-society/chapter-103": {
+      "name": "103"
+    },
     "https://azorafly.com/series/high-society/chapter-102": {
       "name": "102"
     },

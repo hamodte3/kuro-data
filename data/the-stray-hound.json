@@ -9,11 +9,14 @@
   "rating": "9.7",
   "genres": [
     "اكشن",
-    "شونين",
-    "انتقام"
+    "انتقام",
+    "شونين"
   ],
   "is_novel": false,
   "chapters": {
+    "https://azorafly.com/series/the-stray-hound/chapter-6.1": {
+      "name": "6.1"
+    },
     "https://azorafly.com/series/the-stray-hound/chapter-6": {
       "name": "6"
     },

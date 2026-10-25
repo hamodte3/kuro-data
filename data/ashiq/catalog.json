@@ -1067,22 +1067,6 @@
     "status": "مكتمل"
   },
   {
-    "id": "sangeki",
-    "title": "Sangeki",
-    "url": "https://3asq.online/manga/sangeki",
-    "cover_url": "https://3asq.online/wp-content/themes/madara/images/dflazy.jpg",
-    "type": "مانغا",
-    "rating": "3.5",
-    "status": "مستمر",
-    "total_chapters": 24,
-    "genres": [
-      "دراما",
-      "سينين",
-      "غموض",
-      "مأساة"
-    ]
-  },
-  {
     "id": "vanitas-no-carte",
     "title": "Vanitas no Carte",
     "url": "https://3asq.online/manga/vanitas-no-carte",
@@ -1290,6 +1274,22 @@
       "عنف",
       "غموض",
       "فلسفة"
+    ]
+  },
+  {
+    "id": "sangeki",
+    "title": "Sangeki",
+    "url": "https://3asq.online/manga/sangeki",
+    "cover_url": "https://3asq.online/wp-content/themes/madara/images/dflazy.jpg",
+    "type": "مانغا",
+    "rating": "3.5",
+    "status": "مستمر",
+    "total_chapters": 25,
+    "genres": [
+      "دراما",
+      "سينين",
+      "غموض",
+      "مأساة"
     ]
   },
   {
