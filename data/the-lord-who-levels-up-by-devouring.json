@@ -5,15 +5,18 @@
   "description": "قدرتي التي تسمح لي باستيعاب مواهب وقوى كائن كامل. ولكن بين الحين والآخر... ينتهي بي الأمر باكتساب شيء لم أتخيله قط.",
   "type": "مانهوا",
   "status": "مستمر",
-  "last_update": "2026-09-01",
+  "last_update": "2026-10-21",
   "rating": "9.2",
   "genres": [
-    "مغامرات",
     "فنتازيا",
+    "مغامرات",
     "أكشن"
   ],
   "is_novel": false,
   "chapters": {
+    "https://azorafly.com/series/the-lord-who-levels-up-by-devouring/chapter-27": {
+      "name": "27"
+    },
     "https://azorafly.com/series/the-lord-who-levels-up-by-devouring/chapter-26": {
       "name": "26"
     },

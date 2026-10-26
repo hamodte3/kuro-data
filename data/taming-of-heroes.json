@@ -1,20 +1,23 @@
 {
   "id": "taming-of-heroes",
   "title": "Taming of Heroes",
-  "cover_url": "https://storage.azorafly.com/2025/04/20250430_055510.webp",
+  "cover_url": "https://storage.azorafly.com/upload/series/featured/55ecc86a-e082-44c7-bea8-675703397a95/ddcc53f4-7902-43dc-a590-9e2c788fb413.png",
   "description": "لكي تتمكن من تربية ابنتها، تحتاج الأميرة الشريرة إلى الولاء من الأبطال!.\n\nحُكم على \"الأميرة المتعطشة للدماء\" مارتينا بالنفي في حياتها السابقة، و تم تسميم \"ابنتها\" حتى الموت . لقد بذلت كل ما لديها للحصول على فرصة جديدة.\n\nفي هذه الحياة، من أجل حماية ابنتها، يجب على مارتينا ترويض الأبطال و الحصول على ولائهم !\n\nما الأحداث القادمة و ما هي خطة أميرتنا لحماية إبنتها؟!!",
   "type": "مانهوا",
   "status": "مستمر",
-  "last_update": "2026-05-07",
+  "last_update": "2026-10-20",
   "rating": "10.0",
   "genres": [
     "رعاية اطفال",
-    "انتقام",
     "رومانسي",
-    "فانتازيا"
+    "فانتازيا",
+    "انتقام"
   ],
   "is_novel": false,
   "chapters": {
+    "https://azorafly.com/series/taming-of-heroes/chapter-46": {
+      "name": "46"
+    },
     "https://azorafly.com/series/taming-of-heroes/chapter-45": {
       "name": "45"
     },

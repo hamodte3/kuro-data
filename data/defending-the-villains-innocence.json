@@ -6,16 +6,40 @@
   "type": "مانهوا",
   "status": "مستمر",
   "last_update": "2026-10-24",
-  "rating": "9.3",
+  "rating": "9.5",
   "genres": [
-    "رومانسى",
     "خيالي",
+    "رومانسى",
     "تجسد",
     "غموض",
     "كوميدي"
   ],
   "is_novel": false,
   "chapters": {
+    "https://azorafly.com/series/defending-the-villains-innocence/chapter-14": {
+      "name": "14"
+    },
+    "https://azorafly.com/series/defending-the-villains-innocence/chapter-13": {
+      "name": "13"
+    },
+    "https://azorafly.com/series/defending-the-villains-innocence/chapter-12": {
+      "name": "12"
+    },
+    "https://azorafly.com/series/defending-the-villains-innocence/chapter-11": {
+      "name": "11"
+    },
+    "https://azorafly.com/series/defending-the-villains-innocence/chapter-10": {
+      "name": "10"
+    },
+    "https://azorafly.com/series/defending-the-villains-innocence/chapter-9": {
+      "name": "9"
+    },
+    "https://azorafly.com/series/defending-the-villains-innocence/chapter-8": {
+      "name": "8"
+    },
+    "https://azorafly.com/series/defending-the-villains-innocence/chapter-7": {
+      "name": "7"
+    },
     "https://azorafly.com/series/defending-the-villains-innocence/chapter-6": {
       "name": "6"
     },

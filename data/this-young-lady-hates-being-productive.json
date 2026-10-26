@@ -6,16 +6,19 @@
   "type": "مانهوا",
   "status": "مستمر",
   "last_update": "2026-10-25",
-  "rating": "10.0",
+  "rating": "9.8",
   "genres": [
     "خيالي",
-    "كوميدي",
     "رومانسي",
-    "شوجو",
-    "تاريخي"
+    "تاريخي",
+    "كوميدي",
+    "شوجو"
   ],
   "is_novel": false,
   "chapters": {
+    "https://azorafly.com/series/this-young-lady-hates-being-productive/chapter-2": {
+      "name": "2"
+    },
     "https://azorafly.com/series/this-young-lady-hates-being-productive/chapter-1": {
       "name": "1"
     }

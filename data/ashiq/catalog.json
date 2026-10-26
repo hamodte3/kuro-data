@@ -478,7 +478,7 @@
     "url": "https://3asq.online/manga/sensou-kyoushitsu",
     "cover_url": "https://3asq.online/wp-content/themes/madara/images/dflazy.jpg",
     "type": "BLACK DRAGONS ",
-    "rating": "4.7",
+    "rating": "4.5",
     "genres": []
   },
   {
@@ -1000,27 +1000,6 @@
     ]
   },
   {
-    "id": "kingdom-2",
-    "title": "Kingdom (WAN)",
-    "url": "https://3asq.online/manga/kingdom-2",
-    "cover_url": "https://3asq.online/wp-content/themes/madara/images/dflazy.jpg",
-    "type": "مانغا",
-    "rating": "4.7",
-    "genres": [
-      "أكشن",
-      "تاريخ",
-      "حرب",
-      "دراما",
-      "سينين",
-      "عسكرية",
-      "عنف",
-      "فنون قتالية",
-      "مأساة"
-    ],
-    "status": "مستمر",
-    "total_chapters": 50
-  },
-  {
     "id": "orb-on-the-movements-of-the-earth",
     "title": "Orb: On the Movements of the Earth",
     "url": "https://3asq.online/manga/orb-on-the-movements-of-the-earth",
@@ -1291,6 +1270,27 @@
       "شونين"
     ],
     "status": "مستمر"
+  },
+  {
+    "id": "kingdom-2",
+    "title": "Kingdom (WAN)",
+    "url": "https://3asq.online/manga/kingdom-2",
+    "cover_url": "https://3asq.online/wp-content/themes/madara/images/dflazy.jpg",
+    "type": "مانغا",
+    "rating": "4.7",
+    "genres": [
+      "أكشن",
+      "تاريخ",
+      "حرب",
+      "دراما",
+      "سينين",
+      "عسكرية",
+      "عنف",
+      "فنون قتالية",
+      "مأساة"
+    ],
+    "status": "مستمر",
+    "total_chapters": 50
   },
   {
     "id": "kaoru-hana-wa-rin-to-saku",

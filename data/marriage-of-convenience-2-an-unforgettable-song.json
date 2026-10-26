@@ -8,14 +8,17 @@
   "last_update": "2026-08-16",
   "rating": "9.8",
   "genres": [
-    "كوميدي",
-    "خيال",
-    "دراما",
     "رومانسي",
-    "عودة بالزمن"
+    "عودة بالزمن",
+    "كوميدي",
+    "دراما",
+    "خيال"
   ],
   "is_novel": false,
   "chapters": {
+    "https://azorafly.com/series/marriage-of-convenience-2-an-unforgettable-song/chapter-60": {
+      "name": "60"
+    },
     "https://azorafly.com/series/marriage-of-convenience-2-an-unforgettable-song/chapter-59": {
       "name": "59"
     },
