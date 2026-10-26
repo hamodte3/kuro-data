@@ -1,14 +1,5 @@
 [
   {
-    "id": "my-home-hero",
-    "title": "My Home Hero",
-    "url": "https://3asq.online/manga/my-home-hero",
-    "cover_url": "https://3asq.online/wp-content/themes/madara/images/dflazy.jpg",
-    "type": "BlackHaTeam",
-    "rating": "4.4",
-    "genres": []
-  },
-  {
     "id": "clevatess-the-devil-beast-king-the-baby-and-the-corpse-hero",
     "title": "Clevatess: The Devil Beast King, The Baby, & The Corpse Hero",
     "url": "https://3asq.online/manga/clevatess-the-devil-beast-king-the-baby-and-the-corpse-hero",
@@ -1291,6 +1282,32 @@
     ],
     "status": "مستمر",
     "total_chapters": 50
+  },
+  {
+    "id": "bleach",
+    "title": "Bleach",
+    "url": "https://3asq.online/manga/bleach",
+    "cover_url": "https://3asq.online/wp-content/themes/madara/images/dflazy.jpg",
+    "type": "مانغا",
+    "rating": "4.5",
+    "genres": [
+      "أكشن",
+      "خارق للطبيعة",
+      "شونين",
+      "قوى خارقة",
+      "مغامرة"
+    ],
+    "status": "مكتمل",
+    "total_chapters": 50
+  },
+  {
+    "id": "my-home-hero",
+    "title": "My Home Hero",
+    "url": "https://3asq.online/manga/my-home-hero",
+    "cover_url": "https://3asq.online/wp-content/themes/madara/images/dflazy.jpg",
+    "type": "BlackHaTeam",
+    "rating": "4.4",
+    "genres": []
   },
   {
     "id": "kaoru-hana-wa-rin-to-saku",
@@ -3268,21 +3285,6 @@
     "type": "3asq",
     "rating": "4.3",
     "genres": []
-  },
-  {
-    "id": "bleach",
-    "title": "Bleach",
-    "url": "https://3asq.online/manga/bleach",
-    "cover_url": "https://3asq.online/wp-content/uploads/2019/04/cover_250x350-5-175x238.jpg",
-    "type": "3asq",
-    "rating": "4.5",
-    "genres": [
-      "أكشن",
-      "خارق للطبيعة",
-      "شونين",
-      "قوى خارقة",
-      "مغامرة"
-    ]
   },
   {
     "id": "golden-kamuy-colored",

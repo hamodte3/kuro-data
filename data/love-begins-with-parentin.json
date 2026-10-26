@@ -9,11 +9,14 @@
   "rating": "9.9",
   "genres": [
     "رعاية اطفال",
-    "كوميدي",
-    "رومانسي"
+    "رومانسي",
+    "كوميدي"
   ],
   "is_novel": false,
   "chapters": {
+    "https://azorafly.com/series/love-begins-with-parentin/chapter-38": {
+      "name": "38"
+    },
     "https://azorafly.com/series/love-begins-with-parentin/chapter-37": {
       "name": "37"
     },

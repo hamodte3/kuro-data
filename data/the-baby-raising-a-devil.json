@@ -11,17 +11,20 @@
     "ايسكاي",
     "الحياة اليومية",
     "سحر",
-    "دراما",
-    "شوجو",
-    "إثارة",
-    "رومانسي",
-    "مغامرات",
     "تاريخي",
+    "إثارة",
+    "دراما",
+    "غموض",
+    "مغامرات",
+    "رومانسي",
     "خيال",
-    "غموض"
+    "شوجو"
   ],
   "is_novel": false,
   "chapters": {
+    "https://azorafly.com/series/the-baby-raising-a-devil/chapter-59": {
+      "name": "59"
+    },
     "https://azorafly.com/series/the-baby-raising-a-devil/chapter-58": {
       "name": "58"
     },

@@ -9,11 +9,17 @@
   "rating": "9.5",
   "genres": [
     "جوسي",
-    "خيال",
-    "رومانسي"
+    "رومانسي",
+    "خيال"
   ],
   "is_novel": false,
   "chapters": {
+    "https://azorafly.com/series/the-mermaid-trapped-in-my-lake/chapter-39": {
+      "name": "39"
+    },
+    "https://azorafly.com/series/the-mermaid-trapped-in-my-lake/chapter-38": {
+      "name": "38"
+    },
     "https://azorafly.com/series/the-mermaid-trapped-in-my-lake/chapter-37": {
       "name": "37"
     },
