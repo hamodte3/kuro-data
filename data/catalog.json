@@ -1,74 +1,5 @@
 [
   {
-    "id": "transcendence-due-to-a-system-error",
-    "title": "Transcendence Due To A System Error",
-    "url": "https://azorafly.com/series/transcendence-due-to-a-system-error",
-    "cover_url": "https://storage.azorafly.com/upload/series/featured/6cac1de1-87ae-4a81-9cd1-2abe99fd84d7/a767d147-a46e-4172-ab8e-c6a7b518901e.png",
-    "type": "مانهوا",
-    "status": "مستمر",
-    "rating": "9.7",
-    "total_chapters": 16,
-    "genres": [
-      "اكشن",
-      "فنتازيا",
-      "نظام"
-    ]
-  },
-  {
-    "id": "sss-class-suicide-hunter",
-    "title": "SSS-Class Suicide Hunter",
-    "url": "https://azorafly.com/series/sss-class-suicide-hunter",
-    "cover_url": "https://storage.azorafly.com/2020/03/cover.jpg",
-    "type": "مانهوا",
-    "status": "مستمر",
-    "rating": "8.5",
-    "total_chapters": 155,
-    "genres": [
-      "اسبوعي",
-      "إعادة إحياء",
-      "سحر",
-      "إثارة",
-      "أكشن"
-    ]
-  },
-  {
-    "id": "trash-of-the-counts-family",
-    "title": "Trash of the Count's Family",
-    "url": "https://azorafly.com/series/trash-of-the-counts-family",
-    "cover_url": "https://storage.azorafly.com/upload/series/featured/632cc673-8bbd-4b05-b075-99a73e64d204/8f801a42-6d48-439d-952b-35e3698cc715.jpg",
-    "type": "مانهوا",
-    "status": "مستمر",
-    "rating": "9.2",
-    "total_chapters": 194,
-    "genres": [
-      "مانهوا",
-      "اسبوعي",
-      "خارق للطبيعة",
-      "مميز",
-      "سحر",
-      "إثارة",
-      "أكشن"
-    ]
-  },
-  {
-    "id": "the-ruler-of-darkness",
-    "title": "The Ruler Of Darkness",
-    "url": "https://azorafly.com/series/the-ruler-of-darkness",
-    "cover_url": "https://storage.azorafly.com/upload/series/featured/6cac1de1-87ae-4a81-9cd1-2abe99fd84d7/469f8c11-6b03-4788-87d2-ca9e37e266b2.png",
-    "type": "مانهوا",
-    "status": "مستمر",
-    "rating": "10.0",
-    "total_chapters": 36,
-    "genres": [
-      "اكشن",
-      "جنون",
-      "موريم",
-      "انتقام",
-      "مغامرة",
-      "فنون قتالية"
-    ]
-  },
-  {
     "id": "face-genius-0-year-old-top-star",
     "title": "Face Genius, 0-Year-Old Top Star",
     "url": "https://azorafly.com/series/face-genius-0-year-old-top-star",
@@ -2642,6 +2573,270 @@
     ]
   },
   {
+    "id": "everlasting-longing",
+    "title": "‏Everlasting Longing",
+    "url": "https://azorafly.com/series/everlasting-longing",
+    "cover_url": "https://storage.azorafly.com/public/upload/series/featured/02408b52-85d5-445d-9e5c-f7dbcd583bf8/23be1b66-ad9e-4665-a085-8a2985da979a.jpeg",
+    "type": "مانهوا",
+    "status": "مستمر",
+    "rating": "6.5",
+    "total_chapters": 32,
+    "genres": [
+      "حياة مدرسية",
+      "عصري",
+      "رومانسي"
+    ]
+  },
+  {
+    "id": "rise-of-the-limitless-necromancer",
+    "title": "Rise of the Limitless Necromancer",
+    "url": "https://azorafly.com/series/rise-of-the-limitless-necromancer",
+    "cover_url": "https://storage.azorafly.com/upload/series/featured/02408b52-85d5-445d-9e5c-f7dbcd583bf8/de3f404a-de03-439e-bdc0-110e94de1cbe.jpg",
+    "type": "مانهوا",
+    "status": "مستمر",
+    "rating": "7.9",
+    "total_chapters": 47,
+    "genres": [
+      "اكشن",
+      "مستحضر ارواح",
+      "عالم اخر",
+      "فانتازيا"
+    ]
+  },
+  {
+    "id": "black-killer-whale-baby",
+    "title": "Black Killer Whale Baby",
+    "url": "https://azorafly.com/series/black-killer-whale-baby",
+    "cover_url": "https://storage.azorafly.com/public/upload/series/featured/02408b52-85d5-445d-9e5c-f7dbcd583bf8/f7e5fb4d-5e15-4715-8edc-f05b241f5a3a.jpg",
+    "type": "مانهوا",
+    "status": "مستمر",
+    "rating": "9.8",
+    "total_chapters": 127,
+    "genres": [
+      "سحر",
+      "ايسيكاي",
+      "خيال",
+      "رومانسي",
+      "دراما"
+    ]
+  },
+  {
+    "id": "lingering-pain",
+    "title": "Lingering Pain",
+    "url": "https://azorafly.com/series/lingering-pain",
+    "cover_url": "https://storage.azorafly.com/upload/series/featured/02408b52-85d5-445d-9e5c-f7dbcd583bf8/cadf28e9-dd50-4ce6-ad23-5c70681ec3df.jpg",
+    "type": "مانهوا",
+    "status": "مستمر",
+    "rating": "8.9",
+    "total_chapters": 31,
+    "genres": [
+      "فانتازيا",
+      "دراما",
+      "رومانسي"
+    ]
+  },
+  {
+    "id": "ever-after",
+    "title": "ever after",
+    "url": "https://azorafly.com/series/ever-after",
+    "cover_url": "https://storage.azorafly.com/upload/series/featured/oGmL0DQZ16QInTPaeDKwFEK9ryegoy88/ed26a916-2017-4cf0-b668-5f8efc2f6588.webp",
+    "type": "مانهوا",
+    "status": "مستمر",
+    "rating": "9.0",
+    "total_chapters": 25,
+    "genres": [
+      "رومانسى",
+      "عصرى",
+      "شفاء",
+      "غموض"
+    ]
+  },
+  {
+    "id": "wasn't-i-the-female-lead-of-a-regret-novel",
+    "title": "Wasn't I the Female Lead of a Regret Novel?",
+    "url": "https://azorafly.com/series/wasn't-i-the-female-lead-of-a-regret-novel",
+    "cover_url": "https://storage.azorafly.com/upload/series/featured/a5vVlSc5huft2AzUyK1VxgKh1ckCWLbZ/5f84467c-bc81-4f6a-9853-b19d57a26b3d.jpg",
+    "type": "مانهوا",
+    "status": "مستمر",
+    "rating": "9.9",
+    "total_chapters": 30,
+    "genres": [
+      "مثلث حب",
+      "حريم عكسي",
+      "علاقة تعاقدية",
+      "سوء فهم",
+      "خيال",
+      "دراما",
+      "تجسيد",
+      "رومانسي",
+      "كوميدي"
+    ]
+  },
+  {
+    "id": "this-reincarnation-is-paid",
+    "title": "This  Reincarnation is Paid",
+    "url": "https://azorafly.com/series/this-reincarnation-is-paid",
+    "cover_url": "https://storage.azorafly.com/upload/series/featured/a5vVlSc5huft2AzUyK1VxgKh1ckCWLbZ/dfb0dd31-1dd9-418e-9219-761c2c18a05d.jpg",
+    "type": "مانهوا",
+    "status": "مستمر",
+    "rating": "9.5",
+    "total_chapters": 45,
+    "genres": [
+      "عائلي",
+      "رعاية اطفال",
+      "كوميدي",
+      "سحر",
+      "نظام",
+      "خيال",
+      "تجسيد",
+      "رومانسي"
+    ]
+  },
+  {
+    "id": "chronicles-of-the-demon-faction",
+    "title": "Chronicles of the Demon Faction",
+    "url": "https://azorafly.com/series/chronicles-of-the-demon-faction",
+    "cover_url": "https://storage.azorafly.com/2023/03/unnamed-file.jpg",
+    "type": "مانهوا",
+    "status": "مستمر",
+    "rating": "9.9",
+    "total_chapters": 194,
+    "genres": [
+      "شونين",
+      "مغامرة",
+      "أكشن"
+    ]
+  },
+  {
+    "id": "that-trash-was-me",
+    "title": "That Trash Was Me",
+    "url": "https://azorafly.com/series/that-trash-was-me",
+    "cover_url": "https://storage.azorafly.com/upload/series/featured/oGmL0DQZ16QInTPaeDKwFEK9ryegoy88/2f1ffec2-643a-4c73-b6c8-539030612b7d.jpg",
+    "type": "مانهوا",
+    "status": "مستمر",
+    "rating": "9.1",
+    "total_chapters": 46,
+    "genres": [
+      "كوميدي",
+      "نظام",
+      "خيال",
+      "رومانسي"
+    ]
+  },
+  {
+    "id": "please-give-me-the-pacifier",
+    "title": "Please Give Me The Pacifier",
+    "url": "https://azorafly.com/series/please-give-me-the-pacifier",
+    "cover_url": "https://storage.azorafly.com/public/upload/series/featured/02408b52-85d5-445d-9e5c-f7dbcd583bf8/633fd5b1-cf03-401c-ae75-db63778a4b02.jpg",
+    "type": "مانهوا",
+    "status": "مستمر",
+    "rating": "10.0",
+    "total_chapters": 144,
+    "genres": [
+      "مانهوا",
+      "سحر",
+      "خيال",
+      "دراما",
+      "إثارة",
+      "شوجو",
+      "رومانسي"
+    ]
+  },
+  {
+    "id": "the-vampires-sons",
+    "title": "The Vampire’s Sons",
+    "url": "https://azorafly.com/series/the-vampires-sons",
+    "cover_url": "https://storage.azorafly.com/2025/07/2025-07-17-12.11.36.webp",
+    "type": "مانهوا",
+    "status": "مستمر",
+    "rating": "9.3",
+    "total_chapters": 67,
+    "genres": [
+      "مصاصي الدماء",
+      "دراما",
+      "رومانسي"
+    ]
+  },
+  {
+    "id": "thats-not-what-my-will-said",
+    "title": "That's Not What My Will Said",
+    "url": "https://azorafly.com/series/thats-not-what-my-will-said",
+    "cover_url": "https://storage.azorafly.com/public/upload/series/featured/02408b52-85d5-445d-9e5c-f7dbcd583bf8/3e97fe65-b467-4035-8bca-dd8b70fffbfd.jpg",
+    "type": "مانهوا",
+    "status": "مستمر",
+    "rating": "8.7",
+    "total_chapters": 60,
+    "genres": [
+      "خيال",
+      "فانتازيا",
+      "رومانسي"
+    ]
+  },
+  {
+    "id": "regression-of-the-yong-clan-heir",
+    "title": "Regression of the Yong Clan Heir",
+    "url": "https://azorafly.com/series/regression-of-the-yong-clan-heir",
+    "cover_url": "https://storage.azorafly.com/2024/12/A21.webp",
+    "type": "مانهوا",
+    "status": "مستمر",
+    "rating": "9.0",
+    "total_chapters": 65,
+    "genres": [
+      "زمكاني",
+      "خيال",
+      "أكشن",
+      "فنون قتالية"
+    ]
+  },
+  {
+    "id": "the-flower-with-a-sword",
+    "title": "The Flower With a Sword",
+    "url": "https://azorafly.com/series/the-flower-with-a-sword",
+    "cover_url": "https://storage.azorafly.com/public/upload/2026/04/03/85f99085-fac0-4b13-97b8-5990ae2a751d.webp",
+    "type": "مانهوا",
+    "status": "مستمر",
+    "rating": "10.0",
+    "total_chapters": 64,
+    "genres": [
+      "خيالي",
+      "كوميدي",
+      "سحر",
+      "مغامرات",
+      "رومانسي"
+    ]
+  },
+  {
+    "id": "the-demon-i-raised-won't-let-the-saintess-escape",
+    "title": "The Demon I Raised Won’t Let the Saintess Escape",
+    "url": "https://azorafly.com/series/the-demon-i-raised-won't-let-the-saintess-escape",
+    "cover_url": "https://storage.azorafly.com/upload/series/featured/6cac1de1-87ae-4a81-9cd1-2abe99fd84d7/85744870-32e1-4a77-8e9e-ae1ae512b848.png",
+    "type": "مانهوا",
+    "status": "مستمر",
+    "rating": "9.5",
+    "total_chapters": 19,
+    "genres": [
+      "رومانسى",
+      "دراما",
+      "فنتازيا"
+    ]
+  },
+  {
+    "id": "since-i'm-a-time-limited-princess-who-has-no-tomorrow",
+    "title": "Since I’m a Time-Limited Princess Who Has No Tomorrow",
+    "url": "https://azorafly.com/series/since-i'm-a-time-limited-princess-who-has-no-tomorrow",
+    "cover_url": "https://storage.azorafly.com/upload/series/featured/oGmL0DQZ16QInTPaeDKwFEK9ryegoy88/85e13c01-61f0-4825-9615-ab85de468f4a.webp",
+    "type": "مانهوا",
+    "status": "مستمر",
+    "rating": "10.0",
+    "total_chapters": 36,
+    "genres": [
+      "تارخي",
+      "رومانسي",
+      "دراما",
+      "فانتازيا"
+    ]
+  },
+  {
     "id": "the-youngest-son-of-the-eunhae-merchant-group",
     "title": "The Youngest Son of the Eunhae Merchant Group",
     "url": "https://azorafly.com/series/the-youngest-son-of-the-eunhae-merchant-group",
@@ -2656,21 +2851,6 @@
       "أكشن",
       "تاريخي",
       "دراما"
-    ]
-  },
-  {
-    "id": "everlasting-longing",
-    "title": "‏Everlasting Longing",
-    "url": "https://azorafly.com/series/everlasting-longing",
-    "cover_url": "https://storage.azorafly.com/public/upload/series/featured/02408b52-85d5-445d-9e5c-f7dbcd583bf8/23be1b66-ad9e-4665-a085-8a2985da979a.jpeg",
-    "type": "مانهوا",
-    "status": "مستمر",
-    "rating": "6.5",
-    "total_chapters": 32,
-    "genres": [
-      "حياة مدرسية",
-      "عصري",
-      "رومانسي"
     ]
   },
   {
@@ -2729,11 +2909,11 @@
     "type": "مانهوا",
     "status": "مستمر",
     "rating": "9.3",
-    "total_chapters": 47,
+    "total_chapters": 54,
     "genres": [
       "رومانسى",
-      "فانتازيا",
-      "دراما"
+      "دراما",
+      "فانتازيا"
     ]
   },
   {
@@ -2763,8 +2943,8 @@
     "total_chapters": 64,
     "genres": [
       "كوميدي",
-      "فانتازيا",
       "رومانسي",
+      "فانتازيا",
       "شوجو"
     ]
   },
@@ -2780,39 +2960,6 @@
     "genres": []
   },
   {
-    "id": "rise-of-the-limitless-necromancer",
-    "title": "Rise of the Limitless Necromancer",
-    "url": "https://azorafly.com/series/rise-of-the-limitless-necromancer",
-    "cover_url": "https://storage.azorafly.com/upload/series/featured/02408b52-85d5-445d-9e5c-f7dbcd583bf8/de3f404a-de03-439e-bdc0-110e94de1cbe.jpg",
-    "type": "مانهوا",
-    "status": "مستمر",
-    "rating": "7.9",
-    "total_chapters": 47,
-    "genres": [
-      "اكشن",
-      "مستحضر ارواح",
-      "عالم اخر",
-      "فانتازيا"
-    ]
-  },
-  {
-    "id": "black-killer-whale-baby",
-    "title": "Black Killer Whale Baby",
-    "url": "https://azorafly.com/series/black-killer-whale-baby",
-    "cover_url": "https://storage.azorafly.com/public/upload/series/featured/02408b52-85d5-445d-9e5c-f7dbcd583bf8/f7e5fb4d-5e15-4715-8edc-f05b241f5a3a.jpg",
-    "type": "مانهوا",
-    "status": "مستمر",
-    "rating": "9.8",
-    "total_chapters": 127,
-    "genres": [
-      "سحر",
-      "ايسيكاي",
-      "خيال",
-      "رومانسي",
-      "دراما"
-    ]
-  },
-  {
     "id": "lord-preston's-secret-tutor",
     "title": "Lord Preston’s Secret Tutor",
     "url": "https://azorafly.com/series/lord-preston's-secret-tutor",
@@ -2822,21 +2969,6 @@
     "rating": "9.2",
     "total_chapters": 37,
     "genres": []
-  },
-  {
-    "id": "lingering-pain",
-    "title": "Lingering Pain",
-    "url": "https://azorafly.com/series/lingering-pain",
-    "cover_url": "https://storage.azorafly.com/upload/series/featured/02408b52-85d5-445d-9e5c-f7dbcd583bf8/cadf28e9-dd50-4ce6-ad23-5c70681ec3df.jpg",
-    "type": "مانهوا",
-    "status": "مستمر",
-    "rating": "8.9",
-    "total_chapters": 31,
-    "genres": [
-      "فانتازيا",
-      "دراما",
-      "رومانسي"
-    ]
   },
   {
     "id": "counterattack-marriage",
@@ -2849,8 +2981,8 @@
       "رومانسى",
       "عصرى",
       "اثاره",
-      "انتقام",
-      "دراما"
+      "دراما",
+      "انتقام"
     ],
     "status": "مستمر",
     "rating": "5.8"
@@ -2866,24 +2998,8 @@
     "total_chapters": 26,
     "genres": [
       "رومانسى",
-      "فنتازيا",
-      "دراما"
-    ]
-  },
-  {
-    "id": "ever-after",
-    "title": "ever after",
-    "url": "https://azorafly.com/series/ever-after",
-    "cover_url": "https://storage.azorafly.com/upload/series/featured/oGmL0DQZ16QInTPaeDKwFEK9ryegoy88/ed26a916-2017-4cf0-b668-5f8efc2f6588.webp",
-    "type": "مانهوا",
-    "status": "مستمر",
-    "rating": "9.0",
-    "total_chapters": 25,
-    "genres": [
-      "رومانسى",
-      "عصرى",
-      "شفاء",
-      "غموض"
+      "دراما",
+      "فنتازيا"
     ]
   },
   {
@@ -2902,47 +3018,6 @@
       "خيال",
       "أكشن",
       "فنون قتالية"
-    ]
-  },
-  {
-    "id": "wasn't-i-the-female-lead-of-a-regret-novel",
-    "title": "Wasn't I the Female Lead of a Regret Novel?",
-    "url": "https://azorafly.com/series/wasn't-i-the-female-lead-of-a-regret-novel",
-    "cover_url": "https://storage.azorafly.com/upload/series/featured/a5vVlSc5huft2AzUyK1VxgKh1ckCWLbZ/5f84467c-bc81-4f6a-9853-b19d57a26b3d.jpg",
-    "type": "مانهوا",
-    "status": "مستمر",
-    "rating": "9.9",
-    "total_chapters": 30,
-    "genres": [
-      "مثلث حب",
-      "حريم عكسي",
-      "علاقة تعاقدية",
-      "سوء فهم",
-      "خيال",
-      "دراما",
-      "تجسيد",
-      "رومانسي",
-      "كوميدي"
-    ]
-  },
-  {
-    "id": "this-reincarnation-is-paid",
-    "title": "This  Reincarnation is Paid",
-    "url": "https://azorafly.com/series/this-reincarnation-is-paid",
-    "cover_url": "https://storage.azorafly.com/upload/series/featured/a5vVlSc5huft2AzUyK1VxgKh1ckCWLbZ/dfb0dd31-1dd9-418e-9219-761c2c18a05d.jpg",
-    "type": "مانهوا",
-    "status": "مستمر",
-    "rating": "9.5",
-    "total_chapters": 45,
-    "genres": [
-      "عائلي",
-      "رعاية اطفال",
-      "كوميدي",
-      "سحر",
-      "نظام",
-      "خيال",
-      "تجسيد",
-      "رومانسي"
     ]
   },
   {
@@ -2992,41 +3067,10 @@
     "rating": "9.6",
     "total_chapters": 101,
     "genres": [
-      "خيال",
       "دراما",
-      "شوجو",
-      "رومانسي"
-    ]
-  },
-  {
-    "id": "chronicles-of-the-demon-faction",
-    "title": "Chronicles of the Demon Faction",
-    "url": "https://azorafly.com/series/chronicles-of-the-demon-faction",
-    "cover_url": "https://storage.azorafly.com/2023/03/unnamed-file.jpg",
-    "type": "مانهوا",
-    "status": "مستمر",
-    "rating": "9.9",
-    "total_chapters": 194,
-    "genres": [
-      "شونين",
-      "مغامرة",
-      "أكشن"
-    ]
-  },
-  {
-    "id": "that-trash-was-me",
-    "title": "That Trash Was Me",
-    "url": "https://azorafly.com/series/that-trash-was-me",
-    "cover_url": "https://storage.azorafly.com/upload/series/featured/oGmL0DQZ16QInTPaeDKwFEK9ryegoy88/2f1ffec2-643a-4c73-b6c8-539030612b7d.jpg",
-    "type": "مانهوا",
-    "status": "مستمر",
-    "rating": "9.1",
-    "total_chapters": 46,
-    "genres": [
-      "كوميدي",
-      "نظام",
+      "رومانسي",
       "خيال",
-      "رومانسي"
+      "شوجو"
     ]
   },
   {
@@ -3040,9 +3084,9 @@
     "total_chapters": 65,
     "genres": [
       "خيالي",
-      "نفسي",
       "دراما",
-      "رومانسي"
+      "رومانسي",
+      "نفسي"
     ]
   },
   {
@@ -3055,8 +3099,8 @@
     "rating": "8.6",
     "total_chapters": 28,
     "genres": [
-      "فانتازيا",
       "دراما",
+      "فانتازيا",
       "رومانسي"
     ]
   },
@@ -3089,55 +3133,6 @@
     ]
   },
   {
-    "id": "please-give-me-the-pacifier",
-    "title": "Please Give Me The Pacifier",
-    "url": "https://azorafly.com/series/please-give-me-the-pacifier",
-    "cover_url": "https://storage.azorafly.com/public/upload/series/featured/02408b52-85d5-445d-9e5c-f7dbcd583bf8/633fd5b1-cf03-401c-ae75-db63778a4b02.jpg",
-    "type": "مانهوا",
-    "status": "مستمر",
-    "rating": "10.0",
-    "total_chapters": 144,
-    "genres": [
-      "مانهوا",
-      "سحر",
-      "خيال",
-      "دراما",
-      "إثارة",
-      "شوجو",
-      "رومانسي"
-    ]
-  },
-  {
-    "id": "the-vampires-sons",
-    "title": "The Vampire’s Sons",
-    "url": "https://azorafly.com/series/the-vampires-sons",
-    "cover_url": "https://storage.azorafly.com/2025/07/2025-07-17-12.11.36.webp",
-    "type": "مانهوا",
-    "status": "مستمر",
-    "rating": "9.3",
-    "total_chapters": 67,
-    "genres": [
-      "مصاصي الدماء",
-      "دراما",
-      "رومانسي"
-    ]
-  },
-  {
-    "id": "thats-not-what-my-will-said",
-    "title": "That's Not What My Will Said",
-    "url": "https://azorafly.com/series/thats-not-what-my-will-said",
-    "cover_url": "https://storage.azorafly.com/public/upload/series/featured/02408b52-85d5-445d-9e5c-f7dbcd583bf8/3e97fe65-b467-4035-8bca-dd8b70fffbfd.jpg",
-    "type": "مانهوا",
-    "status": "مستمر",
-    "rating": "8.7",
-    "total_chapters": 60,
-    "genres": [
-      "خيال",
-      "فانتازيا",
-      "رومانسي"
-    ]
-  },
-  {
     "id": "park-sujin-and-baek-seojeong",
     "title": "Park sujin and baek seojeong",
     "url": "https://azorafly.com/series/park-sujin-and-baek-seojeong",
@@ -3146,9 +3141,9 @@
     "total_chapters": 8,
     "genres": [
       "اكشن",
+      "دراما",
       "غموض",
-      "نفسي",
-      "دراما"
+      "نفسي"
     ],
     "status": "مستمر",
     "rating": "7.0"
@@ -3163,28 +3158,12 @@
     "genres": [
       "خيالي",
       "كوميدي",
-      "شوجو",
       "رومانسي",
+      "شوجو",
       "تاريخي"
     ],
     "status": "مستمر",
     "rating": "10.0"
-  },
-  {
-    "id": "regression-of-the-yong-clan-heir",
-    "title": "Regression of the Yong Clan Heir",
-    "url": "https://azorafly.com/series/regression-of-the-yong-clan-heir",
-    "cover_url": "https://storage.azorafly.com/2024/12/A21.webp",
-    "type": "مانهوا",
-    "status": "مستمر",
-    "rating": "9.0",
-    "total_chapters": 65,
-    "genres": [
-      "زمكاني",
-      "خيال",
-      "أكشن",
-      "فنون قتالية"
-    ]
   },
   {
     "id": "im-a-phantom-thief-but-i-ended-up-in-a-fake-marriage-with-a-detective",
@@ -3196,25 +3175,108 @@
     "rating": "8.3",
     "total_chapters": 53,
     "genres": [
-      "شوجو",
-      "رومانسي"
+      "رومانسي",
+      "شوجو"
     ]
   },
   {
-    "id": "the-flower-with-a-sword",
-    "title": "The Flower With a Sword",
-    "url": "https://azorafly.com/series/the-flower-with-a-sword",
-    "cover_url": "https://storage.azorafly.com/public/upload/2026/04/03/85f99085-fac0-4b13-97b8-5990ae2a751d.webp",
+    "id": "the-abandoned-princess-monopolizes-the-grand-duke's-favor",
+    "title": "The Abandoned Princess Monopolizes the Grand Duke's Favor",
+    "url": "https://azorafly.com/series/the-abandoned-princess-monopolizes-the-grand-duke's-favor",
+    "cover_url": "https://storage.azorafly.com/upload/series/featured/02408b52-85d5-445d-9e5c-f7dbcd583bf8/d4c0457d-16b9-4f6e-8c79-58e5fcd8335c.png",
     "type": "مانهوا",
     "status": "مستمر",
     "rating": "10.0",
-    "total_chapters": 64,
+    "total_chapters": 30,
     "genres": [
+      "رومانسى",
       "خيالي",
-      "كوميدي",
+      "انتقام"
+    ]
+  },
+  {
+    "id": "the-price-is-your-everything",
+    "title": "The Price Is Your Everything",
+    "url": "https://azorafly.com/series/the-price-is-your-everything",
+    "cover_url": "https://storage.azorafly.com/2025/03/AddText_06-23-09.43.22.webp",
+    "type": "مانهوا",
+    "status": "مستمر",
+    "rating": "9.3",
+    "total_chapters": 127,
+    "genres": [
+      "دراما",
+      "انتقام",
+      "خيال",
+      "فانتازيا"
+    ]
+  },
+  {
+    "id": "transcendence-due-to-a-system-error",
+    "title": "Transcendence Due To A System Error",
+    "url": "https://azorafly.com/series/transcendence-due-to-a-system-error",
+    "cover_url": "https://storage.azorafly.com/upload/series/featured/6cac1de1-87ae-4a81-9cd1-2abe99fd84d7/a767d147-a46e-4172-ab8e-c6a7b518901e.png",
+    "type": "مانهوا",
+    "status": "مستمر",
+    "rating": "9.7",
+    "total_chapters": 16,
+    "genres": [
+      "اكشن",
+      "فنتازيا",
+      "نظام"
+    ]
+  },
+  {
+    "id": "sss-class-suicide-hunter",
+    "title": "SSS-Class Suicide Hunter",
+    "url": "https://azorafly.com/series/sss-class-suicide-hunter",
+    "cover_url": "https://storage.azorafly.com/2020/03/cover.jpg",
+    "type": "مانهوا",
+    "status": "مستمر",
+    "rating": "8.5",
+    "total_chapters": 155,
+    "genres": [
+      "اسبوعي",
+      "إعادة إحياء",
       "سحر",
-      "مغامرات",
-      "رومانسي"
+      "إثارة",
+      "أكشن"
+    ]
+  },
+  {
+    "id": "trash-of-the-counts-family",
+    "title": "Trash of the Count's Family",
+    "url": "https://azorafly.com/series/trash-of-the-counts-family",
+    "cover_url": "https://storage.azorafly.com/upload/series/featured/632cc673-8bbd-4b05-b075-99a73e64d204/8f801a42-6d48-439d-952b-35e3698cc715.jpg",
+    "type": "مانهوا",
+    "status": "مستمر",
+    "rating": "9.2",
+    "total_chapters": 194,
+    "genres": [
+      "مانهوا",
+      "اسبوعي",
+      "خارق للطبيعة",
+      "مميز",
+      "سحر",
+      "إثارة",
+      "أكشن"
+    ]
+  },
+  {
+    "id": "the-ruler-of-darkness",
+    "title": "The Ruler Of Darkness",
+    "url": "https://azorafly.com/series/the-ruler-of-darkness",
+    "cover_url": "https://storage.azorafly.com/upload/series/featured/6cac1de1-87ae-4a81-9cd1-2abe99fd84d7/469f8c11-6b03-4788-87d2-ca9e37e266b2.png",
+    "type": "مانهوا",
+    "status": "مستمر",
+    "rating": "10.0",
+    "total_chapters": 36,
+    "genres": [
+      "اكشن",
+      "جنون",
+      "موريم",
+      "انتقام",
+      "مغامرة",
+      "فنون قتالية"
     ]
   },
   {
@@ -4995,21 +5057,6 @@
     ]
   },
   {
-    "id": "the-abandoned-princess-monopolizes-the-grand-duke's-favor",
-    "title": "The Abandoned Princess Monopolizes the Grand Duke's Favor",
-    "url": "https://azorafly.com/series/the-abandoned-princess-monopolizes-the-grand-duke's-favor",
-    "cover_url": "https://storage.azorafly.com/upload/series/featured/02408b52-85d5-445d-9e5c-f7dbcd583bf8/d4c0457d-16b9-4f6e-8c79-58e5fcd8335c.png",
-    "type": "مانهوا",
-    "status": "مستمر",
-    "rating": "10.0",
-    "total_chapters": 29,
-    "genres": [
-      "رومانسى",
-      "خيالي",
-      "انتقام"
-    ]
-  },
-  {
     "id": "do-you-need-salvation",
     "title": "Do you need salvation?",
     "url": "https://azorafly.com/series/do-you-need-salvation",
@@ -5392,21 +5439,6 @@
       "كوميدي",
       "شوجو",
       "رومانسي"
-    ]
-  },
-  {
-    "id": "the-demon-i-raised-won't-let-the-saintess-escape",
-    "title": "The Demon I Raised Won’t Let the Saintess Escape",
-    "url": "https://azorafly.com/series/the-demon-i-raised-won't-let-the-saintess-escape",
-    "cover_url": "https://storage.azorafly.com/upload/series/featured/6cac1de1-87ae-4a81-9cd1-2abe99fd84d7/85744870-32e1-4a77-8e9e-ae1ae512b848.png",
-    "type": "مانهوا",
-    "status": "مستمر",
-    "rating": "9.5",
-    "total_chapters": 19,
-    "genres": [
-      "رومانسى",
-      "دراما",
-      "فنتازيا"
     ]
   },
   {
@@ -6976,22 +7008,6 @@
     "genres": []
   },
   {
-    "id": "since-i'm-a-time-limited-princess-who-has-no-tomorrow",
-    "title": "Since I’m a Time-Limited Princess Who Has No Tomorrow",
-    "url": "https://azorafly.com/series/since-i'm-a-time-limited-princess-who-has-no-tomorrow",
-    "cover_url": "https://storage.azorafly.com/upload/series/featured/oGmL0DQZ16QInTPaeDKwFEK9ryegoy88/85e13c01-61f0-4825-9615-ab85de468f4a.webp",
-    "type": "مانهوا",
-    "status": "مستمر",
-    "rating": "10.0",
-    "total_chapters": 36,
-    "genres": [
-      "تارخي",
-      "رومانسي",
-      "دراما",
-      "فانتازيا"
-    ]
-  },
-  {
     "id": "the-white-tiger-princess-is-not-in-danger",
     "title": "The White Tiger Princess is Not in Danger",
     "url": "https://azorafly.com/series/the-white-tiger-princess-is-not-in-danger",
@@ -7946,23 +7962,6 @@
     "genres": [
       "رومانسي",
       "غموض"
-    ]
-  },
-  {
-    "id": "the-price-is-your-everything",
-    "title": "The Price Is Your Everything",
-    "url": "https://azorafly.com/series/the-price-is-your-everything",
-    "cover_url": "https://storage.azorafly.com/2025/03/AddText_06-23-09.43.22.webp",
-    "type": "مانهوا",
-    "status": "مستمر",
-    "rating": "9.5",
-    "total_chapters": 127,
-    "genres": [
-      "أكشن",
-      "فانتازيا",
-      "انتقام",
-      "دراما",
-      "خيال"
     ]
   },
   {

@@ -1,5 +1,26 @@
 [
   {
+    "id": "island-rock",
+    "title": "Island rock",
+    "chapter": "الفصل 18",
+    "type": "مانغا",
+    "cover_url": "https://3asq.online/wp-content/themes/madara/images/dflazy.jpg"
+  },
+  {
+    "id": "the-abandoned-princess-monopolizes-the-grand-duke's-favor",
+    "title": "The Abandoned Princess Monopolizes the Grand Duke's Favor",
+    "chapter": "الفصل 30",
+    "type": "مانهوا",
+    "cover_url": "https://storage.azorafly.com/upload/series/featured/02408b52-85d5-445d-9e5c-f7dbcd583bf8/d4c0457d-16b9-4f6e-8c79-58e5fcd8335c.png"
+  },
+  {
+    "id": "country-life-with-his-sexy-majesty",
+    "title": "Country life with his sexy majesty",
+    "chapter": "الفصل 54",
+    "type": "مانهوا",
+    "cover_url": "https://storage.azorafly.com/upload/series/featured/02408b52-85d5-445d-9e5c-f7dbcd583bf8/be7e04ba-99ac-46c8-9093-6b3e6e5c588b.jpg"
+  },
+  {
     "id": "the-flower-with-a-sword",
     "title": "The Flower With a Sword",
     "chapter": "الفصل 64",
@@ -82,26 +103,5 @@
     "chapter": "الفصل 65",
     "type": "مانهوا",
     "cover_url": "https://storage.azorafly.com/upload/series/featured/91ea3547-3659-4e09-af7a-f6944a2f3654/e9afb718-1d0f-4451-9615-c83703220495.png"
-  },
-  {
-    "id": "that-trash-was-me",
-    "title": "That Trash Was Me",
-    "chapter": "الفصل 46",
-    "type": "مانهوا",
-    "cover_url": "https://storage.azorafly.com/upload/series/featured/oGmL0DQZ16QInTPaeDKwFEK9ryegoy88/2f1ffec2-643a-4c73-b6c8-539030612b7d.jpg"
-  },
-  {
-    "id": "chronicles-of-the-demon-faction",
-    "title": "Chronicles of the Demon Faction",
-    "chapter": "الفصل 194",
-    "type": "مانهوا",
-    "cover_url": "https://storage.azorafly.com/2023/03/unnamed-file.jpg"
-  },
-  {
-    "id": "for-the-beautiful-juliet",
-    "title": "For the Beautiful Juliet",
-    "chapter": "الفصل 101",
-    "type": "مانهوا",
-    "cover_url": "https://storage.azorafly.com/public/upload/series/featured/3756896d-0197-40a3-99a5-2043c71add77/46ad73ca-1b89-4968-a17b-527873e41eb5.jpg"
   }
 ]
