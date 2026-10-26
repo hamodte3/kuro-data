@@ -8,13 +8,16 @@
   "last_update": "2026-09-27",
   "rating": "9.7",
   "genres": [
-    "نفسي",
+    "أكشن",
     "رعب",
-    "تشويق",
-    "أكشن"
+    "نفسي",
+    "تشويق"
   ],
   "is_novel": false,
   "chapters": {
+    "https://azorafly.com/series/a-ghostly-song/chapter-72": {
+      "name": "72"
+    },
     "https://azorafly.com/series/a-ghostly-song/chapter-71": {
       "name": "71"
     },
