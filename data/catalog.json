@@ -1,40 +1,5 @@
 [
   {
-    "id": "reborn-as-the-enemy-prince",
-    "title": "Reborn as the Enemy Prince",
-    "url": "https://azorafly.com/series/reborn-as-the-enemy-prince",
-    "cover_url": "https://storage.azorafly.com/upload/series/featured/oGmL0DQZ16QInTPaeDKwFEK9ryegoy88/362a985e-9cb7-439d-b40a-f694954cc099.jpg",
-    "type": "مانهوا",
-    "status": "مستمر",
-    "rating": "10.0",
-    "total_chapters": 125,
-    "genres": [
-      "دموي",
-      "خيال",
-      "سحر",
-      "دراما",
-      "غموض",
-      "إثارة",
-      "أكشن"
-    ]
-  },
-  {
-    "id": "beware-of-the-strongest-man-who-is-crazy-about-me",
-    "title": "Beware of the Strongest Man Who is Crazy About Me",
-    "url": "https://azorafly.com/series/beware-of-the-strongest-man-who-is-crazy-about-me",
-    "cover_url": "https://storage.azorafly.com/2024/09/1e62946e-4007-4f90-9b95-0cb8172c39ca.png",
-    "type": "مانهوا",
-    "status": "مستمر",
-    "rating": "7.8",
-    "total_chapters": 85,
-    "genres": [
-      "شوجو",
-      "رومانسي",
-      "تجسيد",
-      "كوميدي"
-    ]
-  },
-  {
     "id": "husband-thief",
     "title": "Husband Thief",
     "url": "https://azorafly.com/series/husband-thief",
@@ -1229,7 +1194,7 @@
     "id": "the-kidnapping-and-marriage-of-the-empress-who-returned-time",
     "title": "The Kidnapping and Marriage of the Empress who Returned Time",
     "url": "https://azorafly.com/series/the-kidnapping-and-marriage-of-the-empress-who-returned-time",
-    "cover_url": "https://storage.azorafly.com/upload/series/featured/91ea3547-3659-4e09-af7a-f6944a2f3654/e9afb718-1d0f-4451-9615-c83703220495.png",
+    "cover_url": "https://storage.azorafly.com/upload/series/featured/02408b52-85d5-445d-9e5c-f7dbcd583bf8/1cefd14d-cc0f-4714-83c9-86193fc49957.png",
     "type": "مانهوا",
     "status": "مستمر",
     "rating": "9.3",
@@ -2764,7 +2729,7 @@
     "id": "the-arranged-suitor-was-the-kidnapper",
     "title": "The Arranged Suitor Was the Kidnapper",
     "url": "https://azorafly.com/series/the-arranged-suitor-was-the-kidnapper",
-    "cover_url": "https://storage.azorafly.com/2025/10/resource-1.webp",
+    "cover_url": "https://storage.azorafly.com/upload/series/featured/02408b52-85d5-445d-9e5c-f7dbcd583bf8/ae0bc0ee-8596-4f41-96cc-8893a76ff93d.webp",
     "type": "مانهوا",
     "status": "مستمر",
     "rating": "9.5",
@@ -2925,9 +2890,9 @@
       "رعب",
       "مأساة",
       "رومانسي",
-      "دراما",
       "غموض",
-      "خيال"
+      "خيال",
+      "دراما"
     ]
   },
   {
@@ -2940,8 +2905,8 @@
     "rating": "9.8",
     "total_chapters": 44,
     "genres": [
-      "دراما",
       "انتقام",
+      "دراما",
       "رومانسي"
     ]
   },
@@ -2996,8 +2961,8 @@
     "genres": [
       "إعادة إحياء",
       "فنتازيا",
-      "دراما",
       "كوميدي",
+      "دراما",
       "رومانسي"
     ]
   },
@@ -3015,9 +2980,9 @@
       "نظام",
       "كوميدي",
       "رومانسي",
-      "دراما",
       "بدون تجسيد",
-      "خيال"
+      "خيال",
+      "دراما"
     ]
   },
   {
@@ -3045,8 +3010,8 @@
     "total_chapters": 39,
     "genres": [
       "جوسي",
-      "رومانسي",
-      "خيال"
+      "خيال",
+      "رومانسي"
     ]
   },
   {
@@ -3092,8 +3057,8 @@
     "genres": [
       "تجسيد",
       "كوميدي",
-      "رومانسي",
-      "خيال"
+      "خيال",
+      "رومانسي"
     ]
   },
   {
@@ -3192,6 +3157,59 @@
     "rating": "10.0",
     "total_chapters": 26,
     "genres": []
+  },
+  {
+    "id": "has-our-father-changed",
+    "title": "Has Our Father Changed؟!",
+    "url": "https://azorafly.com/series/has-our-father-changed",
+    "cover_url": "https://storage.azorafly.com/public/upload/2026/04/01/5da30127-065f-4afc-a8de-91884eff6ad6.webp",
+    "type": "رواية",
+    "status": "مستمر",
+    "rating": "10.0",
+    "total_chapters": 12,
+    "genres": [
+      "رواية مؤلفة",
+      "تاريخي",
+      "سوء فهم",
+      "خيال",
+      "رومانسي",
+      "رعاية أطفال"
+    ]
+  },
+  {
+    "id": "reborn-as-the-enemy-prince",
+    "title": "Reborn as the Enemy Prince",
+    "url": "https://azorafly.com/series/reborn-as-the-enemy-prince",
+    "cover_url": "https://storage.azorafly.com/upload/series/featured/oGmL0DQZ16QInTPaeDKwFEK9ryegoy88/362a985e-9cb7-439d-b40a-f694954cc099.jpg",
+    "type": "مانهوا",
+    "status": "مستمر",
+    "rating": "10.0",
+    "total_chapters": 125,
+    "genres": [
+      "دموي",
+      "خيال",
+      "سحر",
+      "دراما",
+      "غموض",
+      "إثارة",
+      "أكشن"
+    ]
+  },
+  {
+    "id": "beware-of-the-strongest-man-who-is-crazy-about-me",
+    "title": "Beware of the Strongest Man Who is Crazy About Me",
+    "url": "https://azorafly.com/series/beware-of-the-strongest-man-who-is-crazy-about-me",
+    "cover_url": "https://storage.azorafly.com/2024/09/1e62946e-4007-4f90-9b95-0cb8172c39ca.png",
+    "type": "مانهوا",
+    "status": "مستمر",
+    "rating": "7.8",
+    "total_chapters": 85,
+    "genres": [
+      "شوجو",
+      "رومانسي",
+      "تجسيد",
+      "كوميدي"
+    ]
   },
   {
     "id": "when-i-married-the-impotent-duke-i-wanted-to-protect-the-child",
@@ -3997,24 +4015,6 @@
     ],
     "status": "مستمر",
     "rating": "9.0"
-  },
-  {
-    "id": "has-our-father-changed",
-    "title": "Has Our Father Changed؟!",
-    "url": "https://azorafly.com/series/has-our-father-changed",
-    "cover_url": "https://storage.azorafly.com/public/upload/2026/04/01/5da30127-065f-4afc-a8de-91884eff6ad6.webp",
-    "type": "رواية",
-    "status": "مستمر",
-    "rating": "10.0",
-    "total_chapters": 11,
-    "genres": [
-      "رواية مؤلفة",
-      "سوء فهم",
-      "تاريخي",
-      "رومانسي",
-      "خيال",
-      "رعاية أطفال"
-    ]
   },
   {
     "id": "the-strongest-family-has-arrived!",

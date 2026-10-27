@@ -9,14 +9,17 @@
   "rating": "10.0",
   "genres": [
     "رواية مؤلفة",
-    "سوء فهم",
     "تاريخي",
-    "رومانسي",
+    "سوء فهم",
     "خيال",
+    "رومانسي",
     "رعاية أطفال"
   ],
   "is_novel": false,
   "chapters": {
+    "https://azorafly.com/series/has-our-father-changed/chapter-12": {
+      "name": "12"
+    },
     "https://azorafly.com/series/has-our-father-changed/chapter-11": {
       "name": "11"
     },

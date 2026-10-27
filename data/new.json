@@ -1,5 +1,12 @@
 [
   {
+    "id": "has-our-father-changed",
+    "title": "Has Our Father Changed؟!",
+    "chapter": "الفصل 12",
+    "type": "رواية",
+    "cover_url": "https://storage.azorafly.com/public/upload/2026/04/01/5da30127-065f-4afc-a8de-91884eff6ad6.webp"
+  },
+  {
     "id": "island-rock",
     "title": "Island rock",
     "chapter": "الفصل 19",
@@ -96,12 +103,5 @@
     "chapter": "الفصل 93",
     "type": "مانهوا",
     "cover_url": "https://storage.azorafly.com/upload/series/featured/b00a38e1-1b46-478b-80f0-5d1a7feed33f/65097ddf-48b3-4a0f-be80-9fed715b5c55.jpeg"
-  },
-  {
-    "id": "this-wasn't-in-my-adoption-plan!",
-    "title": "This Wasn’t in My Adoption Plan!",
-    "chapter": "الفصل 33",
-    "type": "مانهوا",
-    "cover_url": "https://storage.azorafly.com/upload/series/featured/02408b52-85d5-445d-9e5c-f7dbcd583bf8/44d3b16c-725a-43ed-9ffe-322dbc0c1319.jpg"
   }
 ]
