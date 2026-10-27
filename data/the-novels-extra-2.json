@@ -6,13 +6,16 @@
   "type": "مانهوا",
   "status": "مستمر",
   "last_update": "2026-10-19",
-  "rating": "9.0",
+  "rating": "9.1",
   "genres": [
-    "أكشن",
-    "شونين"
+    "شونين",
+    "أكشن"
   ],
   "is_novel": false,
   "chapters": {
+    "https://azorafly.com/series/the-novels-extra-2/chapter-177": {
+      "name": "177"
+    },
     "https://azorafly.com/series/the-novels-extra-2/chapter-176": {
       "name": "176"
     },

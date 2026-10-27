@@ -1249,20 +1249,6 @@
     ]
   },
   {
-    "id": "island-rock",
-    "title": "Island rock",
-    "url": "https://3asq.online/manga/island-rock",
-    "cover_url": "https://3asq.online/wp-content/themes/madara/images/dflazy.jpg",
-    "type": "مانغا",
-    "rating": "3.6",
-    "total_chapters": 18,
-    "genres": [
-      "شريحة من الحياة",
-      "شونين"
-    ],
-    "status": "مستمر"
-  },
-  {
     "id": "kingdom-2",
     "title": "Kingdom (WAN)",
     "url": "https://3asq.online/manga/kingdom-2",
@@ -1299,6 +1285,20 @@
     ],
     "status": "مكتمل",
     "total_chapters": 50
+  },
+  {
+    "id": "island-rock",
+    "title": "Island rock",
+    "url": "https://3asq.online/manga/island-rock",
+    "cover_url": "https://3asq.online/wp-content/themes/madara/images/dflazy.jpg",
+    "type": "مانغا",
+    "rating": "3.6",
+    "total_chapters": 19,
+    "genres": [
+      "شريحة من الحياة",
+      "شونين"
+    ],
+    "status": "مستمر"
   },
   {
     "id": "my-home-hero",

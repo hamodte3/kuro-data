@@ -1,5 +1,54 @@
 [
   {
+    "id": "island-rock",
+    "title": "Island rock",
+    "chapter": "الفصل 19",
+    "type": "مانغا",
+    "cover_url": "https://3asq.online/wp-content/themes/madara/images/dflazy.jpg"
+  },
+  {
+    "id": "my-wife-is-a-fox-spirit",
+    "title": "My wife is a fox spirit",
+    "chapter": "الفصل 26",
+    "type": "مانهوا",
+    "cover_url": "https://storage.azorafly.com/2020/03/received_721655841571647.jpeg"
+  },
+  {
+    "id": "i-will-buy-divine-power-with-money",
+    "title": "I Will Buy Divine Power With Money!",
+    "chapter": "الفصل 51",
+    "type": "مانهوا",
+    "cover_url": "https://storage.azorafly.com/upload/series/featured/36b5afed-dad7-4e85-86ee-7629e1388021/8c1a8253-7d04-4d69-9f3a-99c86c8b876a.png"
+  },
+  {
+    "id": "the-world-after-the-fall",
+    "title": "The World After the Fall",
+    "chapter": "الفصل 259",
+    "type": "مانهوا",
+    "cover_url": "https://storage.azorafly.com/2022/02/mir-posle-padeniya.jpg"
+  },
+  {
+    "id": "the-max-leveled-hero-will-return",
+    "title": "The MAX leveled hero will return!",
+    "chapter": "الفصل 252",
+    "type": "مانهوا",
+    "cover_url": "https://storage.azorafly.com/public/upload/2026/01/20/c28fc823-beb6-46fe-84d9-bbaf419116d1.webp"
+  },
+  {
+    "id": "the-novels-extra-2",
+    "title": "The Novel’s Extra",
+    "chapter": "الفصل 177",
+    "type": "مانهوا",
+    "cover_url": "https://storage.azorafly.com/public/upload/2026/02/09/97dc6735-4bb6-4bde-ab91-b2fc8d2f358d.webp"
+  },
+  {
+    "id": "i-married-the-dragon-i-killed",
+    "title": "I Married the Dragon I Killed",
+    "chapter": "الفصل 21",
+    "type": "مانهوا",
+    "cover_url": "https://storage.azorafly.com/upload/series/featured/6cac1de1-87ae-4a81-9cd1-2abe99fd84d7/d0651972-78ff-434a-aa5a-7baefc7ed754.png"
+  },
+  {
     "id": "bleach",
     "title": "Bleach",
     "chapter": "الفصل 50",
@@ -54,54 +103,5 @@
     "chapter": "الفصل 33",
     "type": "مانهوا",
     "cover_url": "https://storage.azorafly.com/upload/series/featured/02408b52-85d5-445d-9e5c-f7dbcd583bf8/44d3b16c-725a-43ed-9ffe-322dbc0c1319.jpg"
-  },
-  {
-    "id": "the-crown-princes-fiancee",
-    "title": "The Crown Prince’s Fiancée",
-    "chapter": "الفصل 53",
-    "type": "مانهوا",
-    "cover_url": "https://storage.azorafly.com/2022/10/20221031_144231.jpg"
-  },
-  {
-    "id": "my-sister-who-was-my-enemy-loves-me",
-    "title": "My sister, who was my enemy, loves me",
-    "chapter": "الفصل 56",
-    "type": "مانهوا",
-    "cover_url": "https://storage.azorafly.com/2025/05/My-sister.webp"
-  },
-  {
-    "id": "i'll-change-my-husband-through-a-plundered-marriage",
-    "title": "I’ll Change My Husband Through a Plundered Marriage",
-    "chapter": "الفصل 44",
-    "type": "مانهوا",
-    "cover_url": "https://storage.azorafly.com/upload/series/featured/f1fef4cc-ebcb-4b26-90b6-b65fe212f932/6c223177-ce5f-496a-95d6-45503d6e9131.jpg"
-  },
-  {
-    "id": "if-you-pass-through-the-revolving-door-13-times-you'll-enter-a-musical-world",
-    "title": "If you pass through the revolving door 13 times, you'll enter a musical world",
-    "chapter": "الفصل 31",
-    "type": "رواية",
-    "cover_url": "https://storage.azorafly.com/upload/series/featured/a5vVlSc5huft2AzUyK1VxgKh1ckCWLbZ/56b9382e-fb62-48c4-b019-624fa970dd67.jpg"
-  },
-  {
-    "id": "the-grand-duke's-new-daughter-in-law-is-a-little-fierce",
-    "title": "The Grand Duke’s New Daughter-In-law is a Little Fierce",
-    "chapter": "الفصل 25",
-    "type": "مانهوا",
-    "cover_url": "https://storage.azorafly.com/upload/series/featured/02408b52-85d5-445d-9e5c-f7dbcd583bf8/b733f3b5-9882-4fa9-bff9-af003d42e73f.jpg"
-  },
-  {
-    "id": "love-begins-with-parentin",
-    "title": "Love Begins with Parentin",
-    "chapter": "الفصل 38",
-    "type": "مانهوا",
-    "cover_url": "https://storage.azorafly.com/public/upload/2026/03/29/09fbafda-2f83-4aa3-bd0f-943d14b14d5c.webp"
-  },
-  {
-    "id": "everyone's-job-transfer%3A-shadow-lord-i'm-invincible-you-can-do-whatever-you-want",
-    "title": "Everyone's Job Transfer: Shadow Lord, I'm Invincible, You Can Do Whatever You Want",
-    "chapter": "الفصل 5",
-    "type": "مانهوا",
-    "cover_url": "https://storage.azorafly.com/upload/series/featured/ba3ee2b7-9312-4e67-8389-a607e6837edf/ba654052-5f26-48ae-9b3c-908003e845d7.jpg"
   }
 ]
