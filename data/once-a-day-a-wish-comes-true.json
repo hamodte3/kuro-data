@@ -8,16 +8,25 @@
   "last_update": "2026-10-22",
   "rating": "9.3",
   "genres": [
-    "عصري",
     "هوس",
+    "عصري",
     "رومانسي",
-    "دراما",
+    "بدون تجسيد",
     "خيال",
     "مدرسي",
-    "بدون تجسيد"
+    "دراما"
   ],
   "is_novel": false,
   "chapters": {
+    "https://azorafly.com/series/once-a-day-a-wish-comes-true/chapter-95": {
+      "name": "95"
+    },
+    "https://azorafly.com/series/once-a-day-a-wish-comes-true/chapter-94": {
+      "name": "94"
+    },
+    "https://azorafly.com/series/once-a-day-a-wish-comes-true/chapter-93": {
+      "name": "93"
+    },
     "https://azorafly.com/series/once-a-day-a-wish-comes-true/chapter-92": {
       "name": "92"
     },

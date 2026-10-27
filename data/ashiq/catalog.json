@@ -1066,26 +1066,6 @@
     "status": "مستمر"
   },
   {
-    "id": "shangri-la-frontier",
-    "title": "Shangri-La Frontier",
-    "url": "https://3asq.online/manga/shangri-la-frontier",
-    "cover_url": "https://3asq.online/wp-content/themes/madara/images/dflazy.jpg",
-    "type": "مانغا",
-    "rating": "4.5",
-    "status": "مستمر",
-    "total_chapters": 50,
-    "genres": [
-      "أكشن",
-      "إيسيكاي",
-      "العاب",
-      "خيال",
-      "خيال علمي",
-      "شونين",
-      "كوميديا",
-      "مغامرة"
-    ]
-  },
-  {
     "id": "tengoku-daimakyou-2",
     "title": "Tengoku Daimakyou",
     "url": "https://3asq.online/manga/tengoku-daimakyou-2",
@@ -1293,12 +1273,32 @@
     "cover_url": "https://3asq.online/wp-content/themes/madara/images/dflazy.jpg",
     "type": "مانغا",
     "rating": "3.6",
-    "total_chapters": 19,
+    "total_chapters": 21,
     "genres": [
       "شريحة من الحياة",
       "شونين"
     ],
     "status": "مستمر"
+  },
+  {
+    "id": "shangri-la-frontier",
+    "title": "Shangri-La Frontier",
+    "url": "https://3asq.online/manga/shangri-la-frontier",
+    "cover_url": "https://3asq.online/wp-content/themes/madara/images/dflazy.jpg",
+    "type": "مانغا",
+    "rating": "4.5",
+    "status": "مستمر",
+    "total_chapters": 50,
+    "genres": [
+      "أكشن",
+      "إيسيكاي",
+      "العاب",
+      "خيال",
+      "خيال علمي",
+      "شونين",
+      "كوميديا",
+      "مغامرة"
+    ]
   },
   {
     "id": "my-home-hero",
