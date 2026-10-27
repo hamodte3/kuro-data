@@ -9,11 +9,14 @@
   "rating": "9.8",
   "genres": [
     "خيال",
-    "دراما",
-    "رومانسي"
+    "رومانسي",
+    "دراما"
   ],
   "is_novel": false,
   "chapters": {
+    "https://azorafly.com/series/i-am-the-heiress-of-the-villain-family/chapter-48": {
+      "name": "48"
+    },
     "https://azorafly.com/series/i-am-the-heiress-of-the-villain-family/chapter-47": {
       "name": "47"
     },

@@ -10,11 +10,14 @@
   "genres": [
     "انتقام",
     "خيال",
-    "دراما",
-    "فانتازيا"
+    "فانتازيا",
+    "دراما"
   ],
   "is_novel": false,
   "chapters": {
+    "https://azorafly.com/series/the-price-is-your-everything/chapter-128": {
+      "name": "128"
+    },
     "https://azorafly.com/series/the-price-is-your-everything/chapter-127": {
       "name": "127"
     },
