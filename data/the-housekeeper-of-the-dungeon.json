@@ -6,15 +6,21 @@
   "type": "مانهوا",
   "status": "مستمر",
   "last_update": "2026-09-14",
-  "rating": "9.4",
+  "rating": "9.5",
   "genres": [
     "رومانسى",
-    "خيال",
     "جوسى",
+    "خيال",
     "كوميدى"
   ],
   "is_novel": false,
   "chapters": {
+    "https://azorafly.com/series/the-housekeeper-of-the-dungeon/chapter-37": {
+      "name": "37"
+    },
+    "https://azorafly.com/series/the-housekeeper-of-the-dungeon/chapter-36": {
+      "name": "36"
+    },
     "https://azorafly.com/series/the-housekeeper-of-the-dungeon/chapter-35": {
       "name": "35"
     },

@@ -9,11 +9,14 @@
   "rating": "10.0",
   "genres": [
     "مانهوا",
-    "شوجو",
-    "رومانسي"
+    "رومانسي",
+    "شوجو"
   ],
   "is_novel": false,
   "chapters": {
+    "https://azorafly.com/series/let's-pretend-we-don't-know-each-other/chapter-40": {
+      "name": "40"
+    },
     "https://azorafly.com/series/let's-pretend-we-don't-know-each-other/chapter-39": {
       "name": "39"
     },

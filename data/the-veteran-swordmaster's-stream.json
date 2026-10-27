@@ -6,15 +6,21 @@
   "type": "مانهوا",
   "status": "مستمر",
   "last_update": "2026-07-12",
-  "rating": "9.3",
+  "rating": "9.4",
   "genres": [
     "اكشن",
-    "مغامرات",
+    "نظام",
     "شونين",
-    "نظام"
+    "مغامرات"
   ],
   "is_novel": false,
   "chapters": {
+    "https://azorafly.com/series/the-veteran-swordmaster's-stream/chapter-42": {
+      "name": "42"
+    },
+    "https://azorafly.com/series/the-veteran-swordmaster's-stream/chapter-41": {
+      "name": "41"
+    },
     "https://azorafly.com/series/the-veteran-swordmaster's-stream/chapter-40": {
       "name": "40"
     },
