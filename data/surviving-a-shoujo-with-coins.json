@@ -8,14 +8,17 @@
   "last_update": "2026-10-07",
   "rating": "9.8",
   "genres": [
+    "تاريخي",
     "دراما",
     "فنتازيا",
     "شوجو",
-    "رومانسي",
-    "تاريخي"
+    "رومانسي"
   ],
   "is_novel": false,
   "chapters": {
+    "https://azorafly.com/series/surviving-a-shoujo-with-coins/chapter-139": {
+      "name": "139"
+    },
     "https://azorafly.com/series/surviving-a-shoujo-with-coins/chapter-138": {
       "name": "138"
     },

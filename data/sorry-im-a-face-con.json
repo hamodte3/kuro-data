@@ -1,19 +1,22 @@
 {
   "id": "sorry-im-a-face-con",
   "title": "Sorry, I'm a Face Con",
-  "cover_url": "https://storage.azorafly.com/2025/02/Sans_titre_361_20251220233348.jpg",
+  "cover_url": "https://storage.azorafly.com/upload/series/featured/02408b52-85d5-445d-9e5c-f7dbcd583bf8/839ecbee-5c5a-446f-a119-4025255dbd24.jpg",
   "description": "تدور القصة حول \"ليا وودسكال\"، التي تحاول الهروب من زواج مرتب، لكن يتم القبض عليها من قبل \"ميكلوك\"، ملك \"فريتان\" الملقب بـ \"الوحش المسعور في الحرب\". رغم سمعته المرعبة إلا أن ليا تكتشف أنه وسيم للغاية، و هذا ما أثار اهتمامها نحوه لتتطور الأحداث بينهما في إطار من الكوميديا والرومانسية.",
   "type": "مانهوا",
   "status": "مستمر",
-  "last_update": "2026-05-07",
-  "rating": "10.0",
+  "last_update": "2026-10-10",
+  "rating": "9.9",
   "genres": [
     "كوميدي",
-    "رومانسي",
-    "خيال"
+    "خيال",
+    "رومانسي"
   ],
   "is_novel": false,
   "chapters": {
+    "https://azorafly.com/series/sorry-im-a-face-con/chapter-95": {
+      "name": "95"
+    },
     "https://azorafly.com/series/sorry-im-a-face-con/chapter-94": {
       "name": "94"
     },
