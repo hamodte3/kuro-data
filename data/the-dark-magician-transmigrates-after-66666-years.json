@@ -5,20 +5,23 @@
   "description": "يتجسد الساحر \"العظيم ديابلو فولفير\" كالابن الأكبر لإيرل \"ويلتون\".\n\nبعد أن كان مختوما من قبل الآلهة الاثنى عشر. وقد مرت 66666 سنة\n\nمنذ ذلك الحين!",
   "type": "مانهوا",
   "status": "مستمر",
-  "last_update": "2026-06-25",
+  "last_update": "2026-10-26",
   "rating": "9.0",
   "genres": [
     "اسبوعي",
-    "مميز",
-    "تاريخي",
-    "إعادة إحياء",
     "سحر",
-    "خيال",
+    "تاريخي",
     "إثارة",
+    "إعادة إحياء",
+    "مميز",
+    "خيال",
     "أكشن"
   ],
   "is_novel": false,
   "chapters": {
+    "https://azorafly.com/series/the-dark-magician-transmigrates-after-66666-years/chapter-204": {
+      "name": "204"
+    },
     "https://azorafly.com/series/the-dark-magician-transmigrates-after-66666-years/chapter-203": {
       "name": "203"
     },

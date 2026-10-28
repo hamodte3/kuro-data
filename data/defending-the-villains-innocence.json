@@ -8,14 +8,17 @@
   "last_update": "2026-10-24",
   "rating": "9.5",
   "genres": [
-    "خيالي",
     "رومانسى",
+    "خيالي",
     "تجسد",
     "غموض",
     "كوميدي"
   ],
   "is_novel": false,
   "chapters": {
+    "https://azorafly.com/series/defending-the-villains-innocence/chapter-15": {
+      "name": "15"
+    },
     "https://azorafly.com/series/defending-the-villains-innocence/chapter-14": {
       "name": "14"
     },

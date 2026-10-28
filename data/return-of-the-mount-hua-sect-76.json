@@ -8,9 +8,9 @@
   "last_update": "2026-07-08",
   "rating": "9.8",
   "genres": [
-    "مانهوا",
-    "قوة خارقة",
     "اسبوعي",
+    "قوة خارقة",
+    "مانهوا",
     "دموي",
     "سينين",
     "إثارة",
@@ -20,6 +20,9 @@
   ],
   "is_novel": false,
   "chapters": {
+    "https://azorafly.com/series/return-of-the-mount-hua-sect-76/chapter-185": {
+      "name": "185"
+    },
     "https://azorafly.com/series/return-of-the-mount-hua-sect-76/chapter-184": {
       "name": "184"
     },
