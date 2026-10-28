@@ -6,16 +6,32 @@
   "type": "رواية",
   "status": "مستمر",
   "last_update": "2026-10-13",
-  "rating": "10.0",
+  "rating": "9.0",
   "genres": [
     "عائلي",
-    "رعاية أطفال",
-    "تاريخي",
-    "خيال",
     "دراما",
     "كوميدي",
+    "خيال",
+    "تاريخي",
+    "رعاية أطفال",
     "رومانسي"
   ],
   "is_novel": false,
-  "chapters": {}
+  "chapters": {
+    "https://azorafly.com/series/surviving-as-a-fated-to-die-heiress/chapter-5": {
+      "name": "5"
+    },
+    "https://azorafly.com/series/surviving-as-a-fated-to-die-heiress/chapter-4": {
+      "name": "4"
+    },
+    "https://azorafly.com/series/surviving-as-a-fated-to-die-heiress/chapter-3": {
+      "name": "3"
+    },
+    "https://azorafly.com/series/surviving-as-a-fated-to-die-heiress/chapter-2": {
+      "name": "2"
+    },
+    "https://azorafly.com/series/surviving-as-a-fated-to-die-heiress/chapter-1": {
+      "name": "1"
+    }
+  }
 }

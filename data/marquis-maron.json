@@ -8,11 +8,14 @@
   "last_update": "2026-10-15",
   "rating": "9.1",
   "genres": [
-    "رومانسي",
-    "دراما"
+    "دراما",
+    "رومانسي"
   ],
   "is_novel": false,
   "chapters": {
+    "https://azorafly.com/series/marquis-maron/chapter-58": {
+      "name": "58"
+    },
     "https://azorafly.com/series/marquis-maron/chapter-57": {
       "name": "57"
     },

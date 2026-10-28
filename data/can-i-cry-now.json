@@ -6,14 +6,17 @@
   "type": "مانهوا",
   "status": "مستمر",
   "last_update": "2026-05-07",
-  "rating": "10.0",
+  "rating": "9.9",
   "genres": [
-    "فانتازيا",
     "دراما",
+    "فانتازيا",
     "رومانسي"
   ],
   "is_novel": false,
   "chapters": {
+    "https://azorafly.com/series/can-i-cry-now/chapter-63": {
+      "name": "63"
+    },
     "https://azorafly.com/series/can-i-cry-now/chapter-62": {
       "name": "62"
     },

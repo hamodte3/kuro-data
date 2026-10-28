@@ -6,17 +6,33 @@
   "type": "رواية",
   "status": "مستمر",
   "last_update": "2026-10-13",
-  "rating": "10.0",
+  "rating": "9.5",
   "genres": [
     "هوس",
     "مأساة",
-    "انتقام",
-    "نفسي",
     "بدون تجسيد",
-    "خيال",
     "دراما",
-    "رومانسي"
+    "رومانسي",
+    "خيال",
+    "انتقام",
+    "نفسي"
   ],
   "is_novel": false,
-  "chapters": {}
+  "chapters": {
+    "https://azorafly.com/series/there-is-a-price-for-transferring/chapter-5": {
+      "name": "5"
+    },
+    "https://azorafly.com/series/there-is-a-price-for-transferring/chapter-4": {
+      "name": "4"
+    },
+    "https://azorafly.com/series/there-is-a-price-for-transferring/chapter-3": {
+      "name": "3"
+    },
+    "https://azorafly.com/series/there-is-a-price-for-transferring/chapter-2": {
+      "name": "2"
+    },
+    "https://azorafly.com/series/there-is-a-price-for-transferring/chapter-1": {
+      "name": "1"
+    }
+  }
 }
