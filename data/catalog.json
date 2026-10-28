@@ -2415,21 +2415,6 @@
     ]
   },
   {
-    "id": "i-will-buy-divine-power-with-money",
-    "title": "I Will Buy Divine Power With Money!",
-    "url": "https://azorafly.com/series/i-will-buy-divine-power-with-money",
-    "cover_url": "https://storage.azorafly.com/upload/series/featured/36b5afed-dad7-4e85-86ee-7629e1388021/8c1a8253-7d04-4d69-9f3a-99c86c8b876a.png",
-    "type": "مانهوا",
-    "status": "مستمر",
-    "rating": "10.0",
-    "total_chapters": 51,
-    "genres": [
-      "خيالي",
-      "دراما",
-      "رومانسي"
-    ]
-  },
-  {
     "id": "my-wife-is-a-fox-spirit",
     "title": "My wife is a fox spirit",
     "url": "https://azorafly.com/series/my-wife-is-a-fox-spirit",
@@ -2924,7 +2909,7 @@
     "cover_url": "https://storage.azorafly.com/upload/series/featured/4fcea9ae-b6d4-4cdd-8dd2-3ead92b657e7/e620e410-9793-4c7f-818c-70a05b5cfde6.jpg",
     "type": "رواية",
     "status": "مستمر",
-    "rating": "9.9",
+    "rating": "9.8",
     "total_chapters": 120,
     "genres": [
       "عودة بالزمن",
@@ -3109,7 +3094,7 @@
       "رومانسي"
     ],
     "status": "مستمر",
-    "rating": "8.5"
+    "rating": "7.3"
   },
   {
     "id": "once-a-day-a-wish-comes-true",
@@ -3204,7 +3189,7 @@
     "url": "https://azorafly.com/series/the-good-daughter-in-law-is-gone",
     "cover_url": "https://storage.azorafly.com/upload/series/featured/6cac1de1-87ae-4a81-9cd1-2abe99fd84d7/6cf09a16-5335-481c-ac63-11ec49d7494b.png",
     "type": "مانهوا",
-    "total_chapters": 19,
+    "total_chapters": 20,
     "genres": [
       "رومانسى",
       "فنتازيا",
@@ -3212,6 +3197,21 @@
     ],
     "status": "مستمر",
     "rating": "10.0"
+  },
+  {
+    "id": "i-will-buy-divine-power-with-money",
+    "title": "I Will Buy Divine Power With Money!",
+    "url": "https://azorafly.com/series/i-will-buy-divine-power-with-money",
+    "cover_url": "https://storage.azorafly.com/upload/series/featured/36b5afed-dad7-4e85-86ee-7629e1388021/8c1a8253-7d04-4d69-9f3a-99c86c8b876a.png",
+    "type": "مانهوا",
+    "status": "مستمر",
+    "rating": "10.0",
+    "total_chapters": 54,
+    "genres": [
+      "خيالي",
+      "رومانسي",
+      "دراما"
+    ]
   },
   {
     "id": "serim's-iron-rule",
