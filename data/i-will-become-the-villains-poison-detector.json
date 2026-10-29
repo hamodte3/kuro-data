@@ -8,13 +8,16 @@
   "last_update": "2026-05-07",
   "rating": "9.4",
   "genres": [
-    "رومانسي",
-    "شوجو",
     "كوميدي",
-    "خيال"
+    "خيال",
+    "رومانسي",
+    "شوجو"
   ],
   "is_novel": false,
   "chapters": {
+    "https://azorafly.com/series/i-will-become-the-villains-poison-detector/chapter-119": {
+      "name": "119"
+    },
     "https://azorafly.com/series/i-will-become-the-villains-poison-detector/chapter-118": {
       "name": "118"
     },

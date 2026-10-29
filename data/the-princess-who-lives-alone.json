@@ -9,11 +9,14 @@
   "rating": "10.0",
   "genres": [
     "خيال",
-    "رومانسي",
-    "دراما"
+    "دراما",
+    "رومانسي"
   ],
   "is_novel": false,
   "chapters": {
+    "https://azorafly.com/series/the-princess-who-lives-alone/chapter-50": {
+      "name": "50"
+    },
     "https://azorafly.com/series/the-princess-who-lives-alone/chapter-49": {
       "name": "49"
     },

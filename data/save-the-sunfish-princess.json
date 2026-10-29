@@ -1,0 +1,37 @@
+{
+  "id": "save-the-sunfish-princess",
+  "title": "Save the Sunfish Princess!",
+  "cover_url": "https://storage.azorafly.com/upload/series/featured/6cac1de1-87ae-4a81-9cd1-2abe99fd84d7/6b5e657d-46b7-4e35-809b-c7db90a51943.png",
+  "description": "بامبييتا، المستشارة التي طُعِنت وقُتِلت بسيف لوسلي—الحاكم نفسه الذي أوصلته بيديها إلى العرش. وعند عتبة الموت، تُبرم عقداً مع وحوش غامضة وتعود بالزمن 10 سنوات إلى الوراء.يتضمن العقد شرطاً واحداً فقط: تنصيب نينيا، الفتاة العادية، على عرش إمبراطورية كاريا.ومع ذلك، إذا ماتت نينيا، ستُجبر بامبييتا على العودة بالزمن إلى الماضي مجدداً.طموحها الذي كان واثقاً في السابق أصبح الآن...(ملاحظة: \"سمكة الشمس\" في الأعمال الكورية تشير مجازياً إلى شخص شديد الحساسية والهشاشة وسريع الموت لأتفه الأسباب).",
+  "type": "مانهوا",
+  "status": "مستمر",
+  "last_update": "2026-10-29",
+  "rating": "10.0",
+  "genres": [
+    "اكشن",
+    "رومانسى",
+    "كوميدي",
+    "فنتازيا"
+  ],
+  "is_novel": false,
+  "chapters": {
+    "https://azorafly.com/series/save-the-sunfish-princess/chapter-6": {
+      "name": "6"
+    },
+    "https://azorafly.com/series/save-the-sunfish-princess/chapter-5": {
+      "name": "5"
+    },
+    "https://azorafly.com/series/save-the-sunfish-princess/chapter-4": {
+      "name": "4"
+    },
+    "https://azorafly.com/series/save-the-sunfish-princess/chapter-3": {
+      "name": "3"
+    },
+    "https://azorafly.com/series/save-the-sunfish-princess/chapter-2": {
+      "name": "2"
+    },
+    "https://azorafly.com/series/save-the-sunfish-princess/chapter-1": {
+      "name": "1"
+    }
+  }
+}

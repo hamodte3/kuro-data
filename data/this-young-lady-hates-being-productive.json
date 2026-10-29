@@ -9,13 +9,19 @@
   "rating": "9.6",
   "genres": [
     "خيالي",
-    "تاريخي",
     "كوميدي",
+    "رومانسي",
     "شوجو",
-    "رومانسي"
+    "تاريخي"
   ],
   "is_novel": false,
   "chapters": {
+    "https://azorafly.com/series/this-young-lady-hates-being-productive/chapter-6": {
+      "name": "6"
+    },
+    "https://azorafly.com/series/this-young-lady-hates-being-productive/chapter-5": {
+      "name": "5"
+    },
     "https://azorafly.com/series/this-young-lady-hates-being-productive/chapter-4": {
       "name": "4"
     },

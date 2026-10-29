@@ -6,7 +6,7 @@
   "type": "مانهوا",
   "status": "مستمر",
   "last_update": "2026-09-06",
-  "rating": "9.5",
+  "rating": "9.3",
   "genres": [
     "هوس",
     "عائلي",
@@ -17,6 +17,9 @@
   ],
   "is_novel": false,
   "chapters": {
+    "https://azorafly.com/series/the-villainss-favourite-is-me/chapter-99": {
+      "name": "99"
+    },
     "https://azorafly.com/series/the-villainss-favourite-is-me/chapter-98": {
       "name": "98"
     },

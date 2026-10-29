@@ -6625,25 +6625,10 @@
     "cover_url": "https://3asq.online/wp-content/uploads/2026/10/8586-asq-hero-480-v2.webp",
     "type": "مانغا",
     "rating": "3.6",
-    "total_chapters": 22,
+    "total_chapters": 23,
     "genres": [
       "شريحة من الحياة",
       "شونين"
-    ],
-    "status": "مستمر"
-  },
-  {
-    "id": "lookism_fedaa-chan",
-    "title": "Lookism",
-    "url": "https://3asq.online/manga/lookism_fedaa-chan",
-    "cover_url": "https://3asq.online/wp-content/uploads/2026/03/large_Picsart_23-12-24_10-11-07-103-2-asq-grid-350-v2.webp",
-    "type": "مانهوا",
-    "rating": "4.5",
-    "total_chapters": 35,
-    "genres": [
-      "أكشن",
-      "فنون قتالية",
-      "مدرسة"
     ],
     "status": "مستمر"
   },
@@ -6731,5 +6716,20 @@
       "نفسي"
     ],
     "status": "مكتمل"
+  },
+  {
+    "id": "lookism_fedaa-chan",
+    "title": "Lookism",
+    "url": "https://3asq.online/manga/lookism_fedaa-chan",
+    "cover_url": "https://3asq.online/wp-content/uploads/2026/03/large_Picsart_23-12-24_10-11-07-103-2-asq-grid-350-v2.webp",
+    "type": "مانهوا",
+    "rating": "4.5",
+    "total_chapters": 36,
+    "genres": [
+      "أكشن",
+      "فنون قتالية",
+      "مدرسة"
+    ],
+    "status": "مستمر"
   }
 ]
