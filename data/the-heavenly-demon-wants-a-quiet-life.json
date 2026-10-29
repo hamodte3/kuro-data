@@ -9,12 +9,15 @@
   "rating": "9.1",
   "genres": [
     "تناسخ",
-    "فنون قتالية",
+    "أكشن",
     "فانتازيا",
-    "أكشن"
+    "فنون قتالية"
   ],
   "is_novel": false,
   "chapters": {
+    "https://azorafly.com/series/the-heavenly-demon-wants-a-quiet-life/chapter-103": {
+      "name": "103"
+    },
     "https://azorafly.com/series/the-heavenly-demon-wants-a-quiet-life/chapter-102": {
       "name": "102"
     },
