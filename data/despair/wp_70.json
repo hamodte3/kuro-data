@@ -648,16 +648,6 @@
         "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_70/wp_ch_394/020.webp"
       ]
     },
-    "wp_ch_587": {
-      "name": "34.5",
-      "title": "komi-san-wa-komyushou-desu - الفصل 34.5",
-      "pages": [
-        "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_70/wp_ch_587/001.webp",
-        "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_70/wp_ch_587/002.webp",
-        "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_70/wp_ch_587/003.webp",
-        "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_70/wp_ch_587/004.webp"
-      ]
-    },
     "wp_ch_396": {
       "name": "34.5",
       "title": "komi-san-wa-komyushou-desu - الفصل 34.5",
@@ -666,6 +656,16 @@
         "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_70/wp_ch_396/002.webp",
         "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_70/wp_ch_396/003.webp",
         "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_70/wp_ch_396/004.webp"
+      ]
+    },
+    "wp_ch_587": {
+      "name": "34.5",
+      "title": "komi-san-wa-komyushou-desu - الفصل 34.5",
+      "pages": [
+        "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_70/wp_ch_587/001.webp",
+        "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_70/wp_ch_587/002.webp",
+        "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_70/wp_ch_587/003.webp",
+        "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_70/wp_ch_587/004.webp"
       ]
     },
     "wp_ch_398": {

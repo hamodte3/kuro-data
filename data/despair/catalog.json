@@ -353,56 +353,6 @@
     ]
   },
   {
-    "id": "wp_9761",
-    "title": "لكي لا أموت",
-    "url": "https://despair-world.com/series/manga/to-not-die",
-    "cover_url": "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_9761/cover.png",
-    "type": "مانهوا",
-    "status": "مستمر",
-    "total_chapters": 180,
-    "genres": [
-      "أكشن",
-      "مغامرة",
-      "دراما",
-      "شونين",
-      "كوميديا",
-      "مانهوا",
-      "فنون قتالية"
-    ]
-  },
-  {
-    "id": "wp_39035",
-    "title": "I'm in Love with the Older Girl Next Door",
-    "url": "https://despair-world.com/series/manga/i-m-in-love-with-the-older-girl-next-door",
-    "cover_url": "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_39035/cover.jpg",
-    "type": "مانغا",
-    "status": "مستمر",
-    "total_chapters": 2,
-    "genres": [
-      "رومانسي",
-      "كوميديا",
-      "شريحة من الحياة",
-      "الحياة المدرسيه",
-      "حياة يومية"
-    ]
-  },
-  {
-    "id": "wp_27451",
-    "title": "Naruto – Digital Colored",
-    "url": "https://despair-world.com/series/manga/naruto-digital-colored",
-    "cover_url": "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_27451/cover.jpeg",
-    "type": "مانغا",
-    "status": "مستمر",
-    "total_chapters": 586,
-    "genres": [
-      "مغامرة",
-      "دراما",
-      "خيال",
-      "شونين",
-      "كوميدى"
-    ]
-  },
-  {
     "id": "wp_20966",
     "title": "الهجوم على العمالقة , attack on titan",
     "url": "https://despair-world.com/series/manga/shingeki-no-kyojin",
@@ -420,34 +370,19 @@
     ]
   },
   {
-    "id": "wp_16098",
-    "title": "براءة يونوو",
-    "url": "https://despair-world.com/series/manga/yeonwoo-s-innocence",
-    "cover_url": "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_16098/cover.jpg",
-    "type": "مانهوا",
-    "status": "مستمر",
-    "total_chapters": 189,
-    "genres": [
-      "دراما",
-      "رومانسي",
-      "كوميديا",
-      "مدرسي",
-      "شريحة من الحياة",
-      "نفسي",
-      "مانهوا"
-    ]
-  },
-  {
-    "id": "wp_27417",
-    "title": "Apotheosis",
-    "url": "https://despair-world.com/series/manga/apotheosis",
-    "cover_url": "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_27417/cover.jpg",
+    "id": "wp_39035",
+    "title": "I'm in Love with the Older Girl Next Door",
+    "url": "https://despair-world.com/series/manga/i-m-in-love-with-the-older-girl-next-door",
+    "cover_url": "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_39035/cover.jpg",
     "type": "مانغا",
     "status": "مستمر",
-    "total_chapters": 1116,
+    "total_chapters": 2,
     "genres": [
-      "خيال",
-      "شونين"
+      "رومانسي",
+      "كوميديا",
+      "شريحة من الحياة",
+      "الحياة المدرسيه",
+      "حياة يومية"
     ]
   },
   {
@@ -500,263 +435,73 @@
     ]
   },
   {
-    "id": "wp_27454",
-    "title": "Oyasumi Punpun",
-    "url": "https://despair-world.com/series/manga/oyasumi-punpun",
-    "cover_url": "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_27454/cover.jpg",
+    "id": "wp_27461",
+    "title": "one piece",
+    "url": "https://despair-world.com/series/manga/one-piece",
+    "cover_url": "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_27461/cover.jpg",
     "type": "مانغا",
     "status": "مستمر",
-    "total_chapters": 146,
+    "total_chapters": 993,
     "genres": [
-      "دراما",
-      "سينين",
-      "كوميدى",
-      "الحياة اليومية",
-      "راشد"
-    ]
-  },
-  {
-    "id": "wp_714",
-    "title": "bastard",
-    "url": "https://despair-world.com/series/manga/bastard",
-    "cover_url": "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_714/cover.jpg",
-    "type": "مانهوا",
-    "status": "مكتمل",
-    "total_chapters": 127,
-    "genres": [
-      "رومانسي",
-      "رعب",
-      "نفسي",
-      "مانهوا"
-    ]
-  },
-  {
-    "id": "wp_6518",
-    "title": "فاغابوند",
-    "url": "https://despair-world.com/series/manga/vagabond",
-    "cover_url": "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_6518/cover.jpg",
-    "type": "مانغا",
-    "status": "مستمر",
-    "total_chapters": 308,
-    "genres": [
-      "أكشن",
-      "تاريخي",
-      "سينين",
-      "ساموراي",
-      "فنون قتالية"
-    ]
-  },
-  {
-    "id": "wp_14999",
-    "title": "lookism",
-    "url": "https://despair-world.com/series/manga/lookism",
-    "cover_url": "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_14999/cover.webp",
-    "type": "مانهوا",
-    "status": "مستمر",
-    "total_chapters": 553,
-    "genres": [
-      "أكشن",
       "مغامرة",
-      "مدرسي",
-      "شريحة من الحياة",
-      "رياضي",
-      "فنون قتالية"
-    ]
-  },
-  {
-    "id": "wp_10704",
-    "title": "وجهة نظر القارئ",
-    "url": "https://despair-world.com/series/manga/omniscient-reader-s-viewpoint",
-    "cover_url": "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_10704/cover.jpg",
-    "type": "مانهوا",
-    "status": "مستمر",
-    "total_chapters": 257,
-    "genres": [
-      "أكشن",
-      "خيال",
-      "مانهوا",
-      "خارق للطبيعة",
-      "سحر",
-      "شياطين",
-      "فنون قتالية",
-      "قوة خارقة"
-    ]
-  },
-  {
-    "id": "wp_7141",
-    "title": "Tomodachi Game",
-    "url": "https://despair-world.com/series/manga/tomodachi-game",
-    "cover_url": "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_7141/cover.jpg",
-    "type": "مانغا",
-    "status": "مكتمل",
-    "total_chapters": 130,
-    "genres": [
-      "شونين",
-      "نفسي",
-      "ألعاب",
-      "غموض"
-    ]
-  },
-  {
-    "id": "wp_27407",
-    "title": "Gachiakuta",
-    "url": "https://despair-world.com/series/manga/gachiakuta",
-    "cover_url": "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_27407/cover.jpg",
-    "type": "مانغا",
-    "status": "مستمر",
-    "total_chapters": 175,
-    "genres": [
-      "خيال",
-      "وحوش",
-      "تراجيدي"
-    ]
-  },
-  {
-    "id": "wp_27437",
-    "title": "Juujika no Rokunin",
-    "url": "https://despair-world.com/series/manga/juujika-no-rokunin",
-    "cover_url": "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_27437/cover.jpg",
-    "type": "مانغا",
-    "status": "مستمر",
-    "total_chapters": 228,
-    "genres": [
-      "دراما",
-      "شونين",
-      "رعب",
-      "تراجيدي",
-      "عنف",
-      "حياة مدرسية"
-    ]
-  },
-  {
-    "id": "wp_8839",
-    "title": "بيرسيرك , الهائج",
-    "url": "https://despair-world.com/series/manga/berserk",
-    "cover_url": "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_8839/cover.jpg",
-    "type": "مانغا",
-    "status": "مستمر",
-    "total_chapters": 373,
-    "genres": [
-      "أكشن",
-      "مغامرة",
-      "دراما",
-      "خيال",
-      "تاريخي",
-      "سينين",
-      "رعب",
-      "خارق للطبيعة",
-      "رعب نفسي",
-      "شياطين",
-      "غموض"
-    ]
-  },
-  {
-    "id": "wp_13296",
-    "title": "فنلاند ساغا, ملحمة فنلاند",
-    "url": "https://despair-world.com/series/manga/vinland-saga",
-    "cover_url": "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_13296/cover.jpg",
-    "type": "مانغا",
-    "status": "مستمر",
-    "total_chapters": 218,
-    "genres": [
-      "أكشن",
-      "مغامرة",
-      "تاريخي",
-      "سينين"
-    ]
-  },
-  {
-    "id": "wp_5633",
-    "title": "جوجيتسو كايسن",
-    "url": "https://despair-world.com/series/manga/jujutsu-kaisen",
-    "cover_url": "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_5633/cover.jpg",
-    "type": "مانغا",
-    "status": "مكتمل",
-    "total_chapters": 275,
-    "genres": [
-      "أكشن",
-      "دراما",
       "خيال",
       "شونين",
-      "خارق للطبيعة",
-      "فنون قتالية"
-    ]
-  },
-  {
-    "id": "wp_27457",
-    "title": "Shangri-La Frontier ~ Kusoge Hunter, Kamige ni Idoman to su",
-    "url": "https://despair-world.com/series/manga/shangri-la-frontier-kusoge-hunter-kamige-ni-idoman-to-su",
-    "cover_url": "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_27457/cover.jpg",
-    "type": "مانغا",
-    "status": "مستمر",
-    "total_chapters": 147,
-    "genres": [
-      "العاب تقليدية"
-    ]
-  },
-  {
-    "id": "wp_5495",
-    "title": "نيفرلاند الموعودة",
-    "url": "https://despair-world.com/series/manga/yakusoku-no-neverland",
-    "cover_url": "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_5495/cover.jpg",
-    "type": "مانغا",
-    "status": "مكتمل",
-    "total_chapters": 190,
-    "genres": [
-      "شونين",
-      "رعب",
-      "نفسي",
       "غموض",
-      "خيال علمي"
+      "قوة خارقة",
+      "كوميدى"
     ]
   },
   {
-    "id": "wp_23414",
-    "title": "الزوجان المؤقتان في متجر الأسماك الذهبية",
-    "url": "https://despair-world.com/series/manga/kingyoya-san-no-karisome-fuufu",
-    "cover_url": "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_23414/cover.webp",
-    "type": "مانغا",
-    "status": "مستمر",
-    "total_chapters": 20,
-    "genres": [
-      "دراما",
-      "رومانسي",
-      "كوميديا",
-      "شريحة من الحياة",
-      "شوجو"
-    ]
-  },
-  {
-    "id": "wp_11532",
-    "title": "كاسر الرياح",
-    "url": "https://despair-world.com/series/manga/wind-breaker",
-    "cover_url": "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_11532/cover.jpg",
+    "id": "wp_19455",
+    "title": "free in dreams",
+    "url": "https://despair-world.com/series/manga/free-in-dreams",
+    "cover_url": "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_19455/cover.webp",
     "type": "مانهوا",
     "status": "مستمر",
-    "total_chapters": 528,
+    "total_chapters": 123,
     "genres": [
-      "دراما",
       "رومانسي",
-      "كوميديا",
-      "مدرسي",
-      "شريحة من الحياة",
-      "رياضي"
+      "رعب",
+      "مانهوا",
+      "رعب نفسي",
+      "قوة خارقة",
+      "جوسي"
     ]
   },
   {
-    "id": "wp_27415",
-    "title": "Akatsuki no Yona",
-    "url": "https://despair-world.com/series/manga/akatsuki-no-yona",
-    "cover_url": "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_27415/cover.jpg",
+    "id": "wp_39351",
+    "title": "The Ravages of Time",
+    "url": "https://despair-world.com/series/manga/the-ravages-of-time",
+    "cover_url": "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_39351/cover.png",
     "type": "مانغا",
     "status": "مستمر",
-    "total_chapters": 278,
+    "total_chapters": 635,
+    "genres": [
+      "أكشن",
+      "مغامرة",
+      "دراما",
+      "تاريخي",
+      "سينين",
+      "فنون قتالية"
+    ]
+  },
+  {
+    "id": "wp_27433",
+    "title": "D.Gray-Man",
+    "url": "https://despair-world.com/series/manga/d-gray-man",
+    "cover_url": "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_27433/cover.jpg",
+    "type": "مانغا",
+    "status": "مستمر",
+    "total_chapters": 261,
     "genres": [
       "مغامرة",
       "دراما",
       "خيال",
-      "شوجو",
-      "حريم",
+      "شونين",
+      "غموض",
+      "قوة خارقة",
+      "وحوش",
+      "تراجيدي",
       "كوميدى"
     ]
   },
@@ -777,13 +522,86 @@
     ]
   },
   {
+    "id": "wp_27457",
+    "title": "Shangri-La Frontier ~ Kusoge Hunter, Kamige ni Idoman to su",
+    "url": "https://despair-world.com/series/manga/shangri-la-frontier-kusoge-hunter-kamige-ni-idoman-to-su",
+    "cover_url": "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_27457/cover.jpg",
+    "type": "مانغا",
+    "status": "مستمر",
+    "total_chapters": 148,
+    "genres": [
+      "العاب تقليدية"
+    ]
+  },
+  {
+    "id": "wp_13296",
+    "title": "فنلاند ساغا, ملحمة فنلاند",
+    "url": "https://despair-world.com/series/manga/vinland-saga",
+    "cover_url": "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_13296/cover.jpg",
+    "type": "مانغا",
+    "status": "مستمر",
+    "total_chapters": 218,
+    "genres": [
+      "أكشن",
+      "مغامرة",
+      "تاريخي",
+      "سينين"
+    ]
+  },
+  {
+    "id": "wp_5495",
+    "title": "نيفرلاند الموعودة",
+    "url": "https://despair-world.com/series/manga/yakusoku-no-neverland",
+    "cover_url": "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_5495/cover.jpg",
+    "type": "مانغا",
+    "status": "مكتمل",
+    "total_chapters": 190,
+    "genres": [
+      "شونين",
+      "رعب",
+      "نفسي",
+      "غموض",
+      "خيال علمي"
+    ]
+  },
+  {
+    "id": "wp_27407",
+    "title": "Gachiakuta",
+    "url": "https://despair-world.com/series/manga/gachiakuta",
+    "cover_url": "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_27407/cover.jpg",
+    "type": "مانغا",
+    "status": "مستمر",
+    "total_chapters": 175,
+    "genres": [
+      "خيال",
+      "وحوش",
+      "تراجيدي"
+    ]
+  },
+  {
+    "id": "wp_6518",
+    "title": "فاغابوند",
+    "url": "https://despair-world.com/series/manga/vagabond",
+    "cover_url": "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_6518/cover.jpg",
+    "type": "مانغا",
+    "status": "مستمر",
+    "total_chapters": 308,
+    "genres": [
+      "أكشن",
+      "تاريخي",
+      "سينين",
+      "ساموراي",
+      "فنون قتالية"
+    ]
+  },
+  {
     "id": "wp_27022",
     "title": "Usogui",
     "url": "https://despair-world.com/series/manga/usogui",
     "cover_url": "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_27022/cover.jpeg",
     "type": "مانغا",
     "status": "مستمر",
-    "total_chapters": 224,
+    "total_chapters": 227,
     "genres": [
       "أكشن",
       "دراما",
@@ -796,35 +614,18 @@
     ]
   },
   {
-    "id": "wp_37361",
-    "title": "Claymore",
-    "url": "https://despair-world.com/series/manga/claymore",
-    "cover_url": "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_37361/cover.jpg",
-    "type": "مانغا",
-    "status": "مستمر",
-    "total_chapters": 148,
+    "id": "wp_714",
+    "title": "bastard",
+    "url": "https://despair-world.com/series/manga/bastard",
+    "cover_url": "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_714/cover.jpg",
+    "type": "مانهوا",
+    "status": "مكتمل",
+    "total_chapters": 127,
     "genres": [
-      "أكشن",
-      "خيال",
+      "رومانسي",
       "رعب",
-      "خارق للطبيعة",
-      "وحوش",
-      "تراجيدي"
-    ]
-  },
-  {
-    "id": "wp_27439",
-    "title": "Kaguya-sama wa Kokurasetai: Tensai-tachi no Renai Zunousen",
-    "url": "https://despair-world.com/series/manga/kaguya-sama-wa-kokurasetai-tensai-tachi-no-renai-zunousen",
-    "cover_url": "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_27439/cover.jpg",
-    "type": "مانغا",
-    "status": "مستمر",
-    "total_chapters": 287,
-    "genres": [
-      "دراما",
-      "سينين",
-      "كوميدى",
-      "الحياة المدرسيه"
+      "نفسي",
+      "مانهوا"
     ]
   },
   {
@@ -887,23 +688,16 @@
     ]
   },
   {
-    "id": "wp_27433",
-    "title": "D.Gray-Man",
-    "url": "https://despair-world.com/series/manga/d-gray-man",
-    "cover_url": "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_27433/cover.jpg",
+    "id": "wp_27417",
+    "title": "Apotheosis",
+    "url": "https://despair-world.com/series/manga/apotheosis",
+    "cover_url": "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_27417/cover.jpg",
     "type": "مانغا",
     "status": "مستمر",
-    "total_chapters": 261,
+    "total_chapters": 1116,
     "genres": [
-      "مغامرة",
-      "دراما",
       "خيال",
-      "شونين",
-      "غموض",
-      "قوة خارقة",
-      "وحوش",
-      "تراجيدي",
-      "كوميدى"
+      "شونين"
     ]
   },
   {
@@ -970,20 +764,1312 @@
     ]
   },
   {
-    "id": "wp_39351",
-    "title": "The Ravages of Time",
-    "url": "https://despair-world.com/series/manga/the-ravages-of-time",
-    "cover_url": "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_39351/cover.png",
+    "id": "wp_17808",
+    "title": "لعبة الكاذب",
+    "url": "https://despair-world.com/series/manga/liar-game",
+    "cover_url": "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_17808/cover.jpg",
+    "type": "مانغا",
+    "status": "مكتمل",
+    "total_chapters": 201,
+    "genres": [
+      "دراما",
+      "سينين",
+      "نفسي",
+      "رعب نفسي",
+      "ألعاب",
+      "غموض"
+    ]
+  },
+  {
+    "id": "wp_3123",
+    "title": "البداية بعد النهاية",
+    "url": "https://despair-world.com/series/manga/the-beginning-after-the-end",
+    "cover_url": "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_3123/cover.jpg",
+    "type": "مانهوا",
+    "status": "مستمر",
+    "total_chapters": 215,
+    "genres": [
+      "أكشن",
+      "خيال",
+      "مانهوا",
+      "خارق للطبيعة",
+      "تناسخ",
+      "سحر",
+      "فنون قتالية"
+    ]
+  },
+  {
+    "id": "wp_27459",
+    "title": "The S-Class Hunter Doesn’t Want to Be a Villainous Princess",
+    "url": "https://despair-world.com/series/manga/the-s-class-hunter-doesn-t-want-to-be-a-villainous-princess",
+    "cover_url": "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_27459/cover.jpg",
     "type": "مانغا",
     "status": "مستمر",
-    "total_chapters": 635,
+    "total_chapters": 69,
+    "genres": [
+      "دراما",
+      "خيال",
+      "تناسخ",
+      "شياطين",
+      "قوة خارقة",
+      "نظام",
+      "ويب تون",
+      "فنتازيا"
+    ]
+  },
+  {
+    "id": "wp_27423",
+    "title": "Captain tsubasa 1981",
+    "url": "https://despair-world.com/series/manga/captain-tsubasa-1981",
+    "cover_url": "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_27423/cover.png",
+    "type": "مانغا",
+    "status": "مستمر",
+    "total_chapters": 117,
+    "genres": [
+      "دراما",
+      "شونين"
+    ]
+  },
+  {
+    "id": "wp_27430",
+    "title": "captain tsubasa rising sun the final",
+    "url": "https://despair-world.com/series/manga/captain-tsubasa-rising-sun-the-final",
+    "cover_url": "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_27430/cover.webp",
+    "type": "مانغا",
+    "status": "مستمر",
+    "total_chapters": 4,
+    "genres": [
+      "سينين"
+    ]
+  },
+  {
+    "id": "wp_2949",
+    "title": "solo leveling",
+    "url": "https://despair-world.com/series/manga/solo-leveling",
+    "cover_url": "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_2949/cover.jpg",
+    "type": "مانهوا",
+    "status": "مكتمل",
+    "total_chapters": 202,
+    "genres": [
+      "أكشن",
+      "مغامرة",
+      "خيال",
+      "شونين",
+      "مانهوا",
+      "سحر",
+      "شياطين"
+    ]
+  },
+  {
+    "id": "wp_10281",
+    "title": "أسطورة النصل الشمالي",
+    "url": "https://despair-world.com/series/manga/legend-of-the-northern-blade",
+    "cover_url": "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_10281/cover.jpg",
+    "type": "مانهوا",
+    "status": "مكتمل",
+    "total_chapters": 206,
+    "genres": [
+      "دراما",
+      "خيال",
+      "شونين",
+      "تاريخي",
+      "مانهوا",
+      "فنون قتالية"
+    ]
+  },
+  {
+    "id": "wp_27422",
+    "title": "Can’t See Can’t Hear But Love",
+    "url": "https://despair-world.com/series/manga/can-t-see-can-t-hear-but-love",
+    "cover_url": "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_27422/cover.jpg",
+    "type": "مانغا",
+    "status": "مستمر",
+    "total_chapters": 84,
+    "genres": [
+      "دراما",
+      "تراجيدي",
+      "كوميدى",
+      "ويب تون"
+    ]
+  },
+  {
+    "id": "wp_27435",
+    "title": "Hectopascals",
+    "url": "https://despair-world.com/series/manga/hectopascals",
+    "cover_url": "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_27435/cover.webp",
+    "type": "مانغا",
+    "status": "مستمر",
+    "total_chapters": 59,
+    "genres": [
+      "دراما",
+      "خيال",
+      "شونين",
+      "الحياة المدرسيه",
+      "عنف",
+      "إنتقام",
+      "الحياة اليومية",
+      "راشد"
+    ]
+  },
+  {
+    "id": "wp_22011",
+    "title": "The blooming baby boss lady او the little lady makes flowers bloom",
+    "url": "https://despair-world.com/series/manga/the-blooming-flower-baby-lord",
+    "cover_url": "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_22011/cover.webp",
+    "type": "مانهوا",
+    "status": "مستمر",
+    "total_chapters": 33,
+    "genres": [
+      "دراما",
+      "رومانسي",
+      "كوميديا",
+      "تاريخي",
+      "مانهوا",
+      "سحر"
+    ]
+  },
+  {
+    "id": "wp_23412",
+    "title": "Oshitai shite Orimasu.",
+    "url": "https://despair-world.com/series/manga/oshitai-shite-orimasu",
+    "cover_url": "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_23412/cover.webp",
+    "type": "مانغا",
+    "status": "مستمر",
+    "total_chapters": 2,
+    "genres": [
+      "رومانسي",
+      "كوميديا",
+      "شوجو"
+    ]
+  },
+  {
+    "id": "wp_18212",
+    "title": "الملاكم",
+    "url": "https://despair-world.com/series/manga/the-boxer",
+    "cover_url": "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_18212/cover.jpg",
+    "type": "مانغا",
+    "status": "مكتمل",
+    "total_chapters": 119,
+    "genres": [
+      "أكشن",
+      "رياضي",
+      "فنون قتالية"
+    ]
+  },
+  {
+    "id": "wp_20487",
+    "title": "أحرق الوحش",
+    "url": "https://despair-world.com/series/manga/beast-burn",
+    "cover_url": "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_20487/cover.jpeg",
+    "type": "مانهوا",
+    "status": "مستمر",
+    "total_chapters": 14,
+    "genres": [
+      "أكشن",
+      "دراما",
+      "سينين",
+      "خارق للطبيعة",
+      "شياطين",
+      "خيال علمي"
+    ]
+  },
+  {
+    "id": "wp_21641",
+    "title": "بطلي الذكر هو دوق الشمال ذو الشعر الاسود",
+    "url": "https://despair-world.com/series/manga/my-male-hero-is-the-black-haired-duke-of-the-north",
+    "cover_url": "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_21641/cover.webp",
+    "type": "مانهوا",
+    "status": "مستمر",
+    "total_chapters": 15,
+    "genres": [
+      "رومانسي",
+      "كوميديا",
+      "مانهوا"
+    ]
+  },
+  {
+    "id": "wp_19177",
+    "title": "بوروتو: الدوامتان الزرقاوتان",
+    "url": "https://despair-world.com/series/manga/boruto-two-blue-vortex",
+    "cover_url": "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_19177/cover.webp",
+    "type": "مانغا",
+    "status": "مستمر",
+    "total_chapters": 5,
+    "genres": [
+      "دراما",
+      "شونين",
+      "رومانسي",
+      "قوة خارقة"
+    ]
+  },
+  {
+    "id": "wp_27456",
+    "title": "Sakamoto Days",
+    "url": "https://despair-world.com/series/manga/sakamoto-days",
+    "cover_url": "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_27456/cover.webp",
+    "type": "مانغا",
+    "status": "مستمر",
+    "total_chapters": 264,
+    "genres": [
+      "شونين",
+      "كوميديا"
+    ]
+  },
+  {
+    "id": "wp_38386",
+    "title": "Kaiju No. 8",
+    "url": "https://despair-world.com/series/manga/kaiju-no-8",
+    "cover_url": "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_38386/cover.jpg",
+    "type": "مانغا",
+    "status": "مكتمل",
+    "total_chapters": 128,
+    "genres": [
+      "أكشن",
+      "شونين",
+      "كوميديا",
+      "خارق للطبيعة",
+      "خيال علمي",
+      "قوة خارقة"
+    ]
+  },
+  {
+    "id": "wp_27458",
+    "title": "The Friendly Winter",
+    "url": "https://despair-world.com/series/manga/the-friendly-winter",
+    "cover_url": "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_27458/cover.jpg",
+    "type": "مانغا",
+    "status": "مستمر",
+    "total_chapters": 60,
+    "genres": [
+      "دراما",
+      "سينين",
+      "كوميدى",
+      "ويب تون"
+    ]
+  },
+  {
+    "id": "wp_27440",
+    "title": "Kaichou wa Maid-sama!",
+    "url": "https://despair-world.com/series/manga/kaichou-wa-maid-sama",
+    "cover_url": "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_27440/cover.jpg",
+    "type": "مانغا",
+    "status": "مستمر",
+    "total_chapters": 101,
+    "genres": [
+      "دراما",
+      "شوجو",
+      "كوميدى",
+      "الحياة المدرسيه"
+    ]
+  },
+  {
+    "id": "wp_27449",
+    "title": "Nan Hao & Shang Feng the Odd",
+    "url": "https://despair-world.com/series/manga/nan-hao-shang-feng-the-odd",
+    "cover_url": "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_27449/cover.jpg",
+    "type": "مانغا",
+    "status": "مستمر",
+    "total_chapters": 136,
+    "genres": [
+      "سينين",
+      "كوميدى",
+      "ويب تون",
+      "حياة مدرسية",
+      "حياة يومية"
+    ]
+  },
+  {
+    "id": "wp_37702",
+    "title": "Ajin",
+    "url": "https://despair-world.com/series/manga/ajin",
+    "cover_url": "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_37702/cover.webp",
+    "type": "مانغا",
+    "status": "مستمر",
+    "total_chapters": 97,
+    "genres": [
+      "أكشن",
+      "دراما",
+      "سينين",
+      "رعب",
+      "خارق للطبيعة",
+      "غموض",
+      "قوة خارقة",
+      "إثارة"
+    ]
+  },
+  {
+    "id": "wp_7403",
+    "title": "المهندس الأفضل",
+    "url": "https://despair-world.com/series/manga/the-world-best-engineer",
+    "cover_url": "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_7403/cover.jpg",
+    "type": "مانهوا",
+    "status": "مستمر",
+    "total_chapters": 184,
+    "genres": [
+      "خيال",
+      "كوميديا",
+      "مانهوا",
+      "تناسخ",
+      "سحر"
+    ]
+  },
+  {
+    "id": "wp_12612",
+    "title": "داندادان",
+    "url": "https://despair-world.com/series/manga/dandadan",
+    "cover_url": "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_12612/cover.jpg",
+    "type": "مانغا",
+    "status": "مستمر",
+    "total_chapters": 183,
+    "genres": [
+      "أكشن",
+      "خيال",
+      "شونين",
+      "رومانسي",
+      "كوميديا",
+      "رعب",
+      "خارق للطبيعة",
+      "خيال علمي",
+      "قوة خارقة"
+    ]
+  },
+  {
+    "id": "wp_37983",
+    "title": "Dr. Stone",
+    "url": "https://despair-world.com/series/manga/dr-stone",
+    "cover_url": "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_37983/cover.jpg",
+    "type": "مانغا",
+    "status": "مستمر",
+    "total_chapters": 231,
+    "genres": [
+      "أكشن",
+      "مغامرة",
+      "خيال",
+      "كوميديا",
+      "خارق للطبيعة"
+    ]
+  },
+  {
+    "id": "wp_4426",
+    "title": "sweet home",
+    "url": "https://despair-world.com/series/manga/sweet-home",
+    "cover_url": "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_4426/cover.jpg",
+    "type": "مانهوا",
+    "status": "مكتمل",
+    "total_chapters": 141,
+    "genres": [
+      "أكشن",
+      "دراما",
+      "رعب",
+      "خارق للطبيعة",
+      "غموض"
+    ]
+  },
+  {
+    "id": "wp_39044",
+    "title": "One Punch Man",
+    "url": "https://despair-world.com/series/manga/one-punch-man",
+    "cover_url": "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_39044/cover.png",
+    "type": "مانغا",
+    "status": "مستمر",
+    "total_chapters": 305,
+    "genres": [
+      "أكشن",
+      "كوميديا",
+      "سينين",
+      "خارق للطبيعة",
+      "فنون قتالية",
+      "وحوش"
+    ]
+  },
+  {
+    "id": "wp_27443",
+    "title": "Killer Pietro",
+    "url": "https://despair-world.com/series/manga/killer-pietro",
+    "cover_url": "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_27443/cover.png",
+    "type": "مانغا",
+    "status": "مستمر",
+    "total_chapters": 83,
+    "genres": [
+      "دراما",
+      "فنتازيا"
+    ]
+  },
+  {
+    "id": "wp_27434",
+    "title": "Horimiya",
+    "url": "https://despair-world.com/series/manga/horimiya",
+    "cover_url": "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_27434/cover.jpg",
+    "type": "مانغا",
+    "status": "مستمر",
+    "total_chapters": 130,
+    "genres": [
+      "دراما",
+      "شونين",
+      "شوجو",
+      "كوميدى",
+      "الحياة المدرسيه"
+    ]
+  },
+  {
+    "id": "wp_22005",
+    "title": "سندريلا لم تكن انا",
+    "url": "https://despair-world.com/series/manga/cinderella-wasn-t-me",
+    "cover_url": "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_22005/cover.jpg",
+    "type": "مانهوا",
+    "status": "مستمر",
+    "total_chapters": 69,
+    "genres": [
+      "دراما",
+      "رومانسي",
+      "مانهوا",
+      "سحر"
+    ]
+  },
+  {
+    "id": "wp_20617",
+    "title": "توريكو",
+    "url": "https://despair-world.com/series/manga/toriko",
+    "cover_url": "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_20617/cover.jpg",
+    "type": "مانغا",
+    "status": "مستمر",
+    "total_chapters": 97,
+    "genres": [
+      "أكشن",
+      "مغامرة",
+      "خيال",
+      "شونين",
+      "كوميديا"
+    ]
+  },
+  {
+    "id": "wp_3432",
+    "title": "billy bat",
+    "url": "https://despair-world.com/series/manga/billy-bat",
+    "cover_url": "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_3432/cover.jpg",
+    "type": "مانغا",
+    "status": "مكتمل",
+    "total_chapters": 165,
+    "genres": [
+      "دراما",
+      "تاريخي",
+      "سينين",
+      "نفسي",
+      "غموض"
+    ]
+  },
+  {
+    "id": "wp_87",
+    "title": "green blood",
+    "url": "https://despair-world.com/series/manga/green-blood",
+    "cover_url": "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_87/cover.jpg",
+    "type": "مانغا",
+    "status": "مكتمل",
+    "total_chapters": 49,
+    "genres": [
+      "أكشن",
+      "دراما",
+      "تاريخي",
+      "سينين"
+    ]
+  },
+  {
+    "id": "wp_17169",
+    "title": "Mercenary Enrollment",
+    "url": "https://despair-world.com/series/manga/mercenary-enrollment",
+    "cover_url": "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_17169/cover.jpg",
+    "type": "مانهوا",
+    "status": "مستمر",
+    "total_chapters": 235,
     "genres": [
       "أكشن",
       "مغامرة",
       "دراما",
+      "مدرسي",
+      "شريحة من الحياة",
+      "مانهوا",
+      "عسكري"
+    ]
+  },
+  {
+    "id": "wp_18684",
+    "title": "على طريقة رب المنزل",
+    "url": "https://despair-world.com/series/manga/gokushufudou-the-way-of-the-house-husband",
+    "cover_url": "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_18684/cover.jpg",
+    "type": "مانغا",
+    "status": "مستمر",
+    "total_chapters": 100,
+    "genres": [
+      "رومانسي",
+      "كوميديا",
+      "شريحة من الحياة"
+    ]
+  },
+  {
+    "id": "wp_12971",
+    "title": "My Home Hero",
+    "url": "https://despair-world.com/series/manga/my-home-hero",
+    "cover_url": "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_12971/cover.jpg",
+    "type": "مانغا",
+    "status": "مكتمل",
+    "total_chapters": 169,
+    "genres": [
+      "أكشن",
+      "دراما",
+      "سينين",
+      "نفسي",
+      "بوليسي"
+    ]
+  },
+  {
+    "id": "wp_2130",
+    "title": "21st Century boys",
+    "url": "https://despair-world.com/series/manga/21st-century-boys",
+    "cover_url": "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_2130/cover.jpg",
+    "type": "مانغا",
+    "status": "مكتمل",
+    "total_chapters": 16,
+    "genres": [
+      "أكشن",
+      "دراما",
+      "نفسي",
+      "غموض"
+    ]
+  },
+  {
+    "id": "wp_9585",
+    "title": "Pandora Hearts",
+    "url": "https://despair-world.com/series/manga/pandora-hearts",
+    "cover_url": "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_9585/cover.jpg",
+    "type": "مانغا",
+    "status": "مكتمل",
+    "total_chapters": 110,
+    "genres": [
+      "أكشن",
+      "مغامرة",
+      "دراما",
+      "خيال",
+      "شونين",
+      "رومانسي",
+      "قوة خارقة"
+    ]
+  },
+  {
+    "id": "wp_27405",
+    "title": "Fumetsu no Anata e",
+    "url": "https://despair-world.com/series/manga/fumetsu-no-anata-e",
+    "cover_url": "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_27405/cover.jpg",
+    "type": "مانغا",
+    "status": "مستمر",
+    "total_chapters": 276,
+    "genres": [
+      "مغامرة",
+      "دراما",
+      "خيال",
+      "شونين",
+      "قوة خارقة",
+      "تراجيدي"
+    ]
+  },
+  {
+    "id": "wp_14479",
+    "title": "الأب منقطع النظير",
+    "url": "https://despair-world.com/series/manga/peerless-dad",
+    "cover_url": "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_14479/cover.webp",
+    "type": "مانهوا",
+    "status": "مكتمل",
+    "total_chapters": 277,
+    "genres": [
+      "مغامرة",
+      "دراما",
+      "خيال",
+      "كوميديا",
+      "شريحة من الحياة",
+      "فنون قتالية"
+    ]
+  },
+  {
+    "id": "wp_7775",
+    "title": "قاتل الشياطين , كيميتسو نو يايبا",
+    "url": "https://despair-world.com/series/manga/kimetsu-no-yaiba",
+    "cover_url": "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_7775/cover.jpg",
+    "type": "مانغا",
+    "status": "مستمر",
+    "total_chapters": 216,
+    "genres": [
+      "أكشن",
+      "مغامرة",
+      "دراما",
+      "خيال",
+      "شونين",
+      "كوميديا",
+      "تاريخي",
+      "خارق للطبيعة"
+    ]
+  },
+  {
+    "id": "wp_27445",
+    "title": "Leviathan",
+    "url": "https://despair-world.com/series/manga/leviathan",
+    "cover_url": "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_27445/cover.jpg",
+    "type": "مانغا",
+    "status": "مستمر",
+    "total_chapters": 214,
+    "genres": [
+      "مغامرة",
+      "خيال",
+      "شونين",
+      "غموض",
+      "ويب تون"
+    ]
+  },
+  {
+    "id": "wp_27432",
+    "title": "Chainsaw Man",
+    "url": "https://despair-world.com/series/manga/chainsaw-man",
+    "cover_url": "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_27432/cover.jpg",
+    "type": "مانغا",
+    "status": "مستمر",
+    "total_chapters": 231,
+    "genres": [
+      "دراما",
+      "شونين",
+      "رعب",
+      "غموض",
+      "قوة خارقة",
+      "تراجيدي",
+      "كوميدى",
+      "عنف"
+    ]
+  },
+  {
+    "id": "wp_27448",
+    "title": "My Love Story with Yamada-kun at level 999",
+    "url": "https://despair-world.com/series/manga/my-love-story-with-yamada-kun-at-level-999",
+    "cover_url": "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_27448/cover.jpg",
+    "type": "مانغا",
+    "status": "مستمر",
+    "total_chapters": 92,
+    "genres": [
+      "شريحة من الحياة",
+      "شوجو",
+      "العاب"
+    ]
+  },
+  {
+    "id": "wp_27426",
+    "title": "captain tsubasa: golden dream",
+    "url": "https://despair-world.com/series/manga/captain-tsubasa-golden-dream",
+    "cover_url": "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_27426/cover.webp",
+    "type": "مانغا",
+    "status": "مستمر",
+    "total_chapters": 0,
+    "genres": [
+      "دراما",
+      "سينين",
+      "كوميدى",
+      "الحياة المدرسيه"
+    ]
+  },
+  {
+    "id": "wp_27419",
+    "title": "Boku no Hero Academia",
+    "url": "https://despair-world.com/series/manga/boku-no-hero-academia",
+    "cover_url": "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_27419/cover.jpg",
+    "type": "مانغا",
+    "status": "مستمر",
+    "total_chapters": 435,
+    "genres": [
+      "خيال",
+      "شونين",
+      "كوميدى",
+      "الحياة المدرسيه"
+    ]
+  },
+  {
+    "id": "wp_27455",
+    "title": "Reality Quest",
+    "url": "https://despair-world.com/series/manga/reality-quest",
+    "cover_url": "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_27455/cover.jpg",
+    "type": "مانغا",
+    "status": "مستمر",
+    "total_chapters": 220,
+    "genres": [
+      "خيال",
+      "ويب تون",
+      "عنف",
+      "العاب الكترونية",
+      "الواقع الافتراضي"
+    ]
+  },
+  {
+    "id": "wp_27450",
+    "title": "Nano machine",
+    "url": "https://despair-world.com/series/manga/nano-machine",
+    "cover_url": "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_27450/cover.jpg",
+    "type": "مانغا",
+    "status": "مستمر",
+    "total_chapters": 322,
+    "genres": [
+      "مغامرة",
+      "مانهوا",
+      "غموض"
+    ]
+  },
+  {
+    "id": "wp_27453",
+    "title": "One Day I Became a Princess",
+    "url": "https://despair-world.com/series/manga/one-day-i-became-a-princess",
+    "cover_url": "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_27453/cover.png",
+    "type": "مانغا",
+    "status": "مستمر",
+    "total_chapters": 144,
+    "genres": [
+      "خيال",
+      "شوجو",
+      "سحر",
+      "زمكانى"
+    ]
+  },
+  {
+    "id": "wp_27452",
+    "title": "No Home",
+    "url": "https://despair-world.com/series/manga/no-home",
+    "cover_url": "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_27452/cover.jpg",
+    "type": "مانغا",
+    "status": "مستمر",
+    "total_chapters": 0,
+    "genres": [
+      "دراما",
+      "كوميدى",
+      "حياة يومية"
+    ]
+  },
+  {
+    "id": "wp_21282",
+    "title": "Ouroboros",
+    "url": "https://despair-world.com/series/manga/ouroboros",
+    "cover_url": "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_21282/cover.jpg",
+    "type": "مانغا",
+    "status": "مستمر",
+    "total_chapters": 77,
+    "genres": [
+      "أكشن",
+      "دراما",
+      "سينين",
+      "بوليسي",
+      "غموض"
+    ]
+  },
+  {
+    "id": "wp_3383",
+    "title": "noragami",
+    "url": "https://despair-world.com/series/manga/noragami",
+    "cover_url": "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_3383/cover.jpg",
+    "type": "مانغا",
+    "status": "مكتمل",
+    "total_chapters": 138,
+    "genres": [
+      "أكشن",
+      "مغامرة",
+      "شونين",
+      "كوميديا",
+      "خارق للطبيعة"
+    ]
+  },
+  {
+    "id": "wp_24571",
+    "title": "Shotgun Boy",
+    "url": "https://despair-world.com/series/manga/shotgun-boy",
+    "cover_url": "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_24571/cover.webp",
+    "type": "مانهوا",
+    "status": "مكتمل",
+    "total_chapters": 68,
+    "genres": [
+      "أكشن",
+      "مدرسي",
+      "رعب",
+      "نفسي",
+      "مانهوا",
+      "رعب نفسي",
+      "غموض",
+      "إثارة"
+    ]
+  },
+  {
+    "id": "wp_25122",
+    "title": "Pigpen",
+    "url": "https://despair-world.com/series/manga/pigpen",
+    "cover_url": "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_25122/cover.png",
+    "type": "مانهوا",
+    "status": "مستمر",
+    "total_chapters": 68,
+    "genres": [
+      "أكشن",
+      "سينين",
+      "رعب",
+      "نفسي",
+      "غموض",
+      "إثارة"
+    ]
+  },
+  {
+    "id": "wp_18978",
+    "title": "لمحقق الشيطاني نوغامي نيورو",
+    "url": "https://despair-world.com/series/manga/majin-tantei-nougami-neuro",
+    "cover_url": "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_18978/cover.jpg",
+    "type": "مانغا",
+    "status": "مستمر",
+    "total_chapters": 202,
+    "genres": [
+      "أكشن",
+      "شونين",
+      "كوميديا",
+      "رعب",
+      "نفسي",
+      "خارق للطبيعة",
+      "رعب نفسي",
+      "شياطين",
+      "غموض"
+    ]
+  },
+  {
+    "id": "wp_38218",
+    "title": "SPY×FAMILY",
+    "url": "https://despair-world.com/series/manga/spy-family",
+    "cover_url": "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_38218/cover.jpg",
+    "type": "مانغا",
+    "status": "مستمر",
+    "total_chapters": 166,
+    "genres": [
+      "أكشن",
+      "كوميديا",
+      "مدرسي",
+      "شريحة من الحياة",
+      "الحياة المدرسيه"
+    ]
+  },
+  {
+    "id": "wp_38969",
+    "title": "Homunculus",
+    "url": "https://despair-world.com/series/manga/homunculus",
+    "cover_url": "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_38969/cover.jpg",
+    "type": "مانغا",
+    "status": "مستمر",
+    "total_chapters": 64,
+    "genres": [
+      "دراما",
+      "سينين",
+      "رعب",
+      "نفسي",
+      "تراجيدي"
+    ]
+  },
+  {
+    "id": "wp_27460",
+    "title": "True Education",
+    "url": "https://despair-world.com/series/manga/true-education",
+    "cover_url": "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_27460/cover.png",
+    "type": "مانغا",
+    "status": "مستمر",
+    "total_chapters": 156,
+    "genres": [
+      "شريحة من الحياة",
+      "الحياة المدرسيه",
+      "ويب تون"
+    ]
+  },
+  {
+    "id": "wp_10706",
+    "title": "The Climber , المتسلق",
+    "url": "https://despair-world.com/series/manga/kokou-no-hito",
+    "cover_url": "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_10706/cover.jpg",
+    "type": "مانغا",
+    "status": "مكتمل",
+    "total_chapters": 153,
+    "genres": [
+      "دراما",
+      "سينين",
+      "نفسي",
+      "رياضي"
+    ]
+  },
+  {
+    "id": "wp_23416",
+    "title": "أنت لي وأنا ملاكك الحارس",
+    "url": "https://despair-world.com/series/manga/you-are-my-i-am-your-guardian-angel",
+    "cover_url": "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_23416/cover.webp",
+    "type": "مانهوا",
+    "status": "مستمر",
+    "total_chapters": 4,
+    "genres": [
+      "دراما",
+      "خيال",
+      "رومانسي",
+      "كوميديا",
+      "مدرسي",
+      "شريحة من الحياة",
+      "مانهوا",
+      "شوجو"
+    ]
+  },
+  {
+    "id": "wp_19414",
+    "title": "Kagurabachi",
+    "url": "https://despair-world.com/series/manga/kagurabachi",
+    "cover_url": "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_19414/cover.jpg",
+    "type": "مانغا",
+    "status": "مستمر",
+    "total_chapters": 11,
+    "genres": [
+      "أكشن",
+      "شونين",
+      "ساموراي",
+      "فنون قتالية"
+    ]
+  },
+  {
+    "id": "wp_27436",
+    "title": "Hope You’re Happy, Lemon",
+    "url": "https://despair-world.com/series/manga/hope-you-re-happy-lemon",
+    "cover_url": "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_27436/cover.png",
+    "type": "مانغا",
+    "status": "مستمر",
+    "total_chapters": 24,
+    "genres": [
+      "دراما",
+      "شونين",
+      "مدرسي",
+      "شريحة من الحياة",
+      "كوميدى"
+    ]
+  },
+  {
+    "id": "wp_7141",
+    "title": "Tomodachi Game",
+    "url": "https://despair-world.com/series/manga/tomodachi-game",
+    "cover_url": "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_7141/cover.jpg",
+    "type": "مانغا",
+    "status": "مكتمل",
+    "total_chapters": 130,
+    "genres": [
+      "شونين",
+      "نفسي",
+      "ألعاب",
+      "غموض"
+    ]
+  },
+  {
+    "id": "wp_2166",
+    "title": "akame ga kill",
+    "url": "https://despair-world.com/series/manga/akame-ga-kill",
+    "cover_url": "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_2166/cover.jpg",
+    "type": "مانغا",
+    "status": "مكتمل",
+    "total_chapters": 83,
+    "genres": [
+      "أكشن",
+      "خيال",
+      "شونين",
+      "كوميديا",
+      "رعب"
+    ]
+  },
+  {
+    "id": "wp_27415",
+    "title": "Akatsuki no Yona",
+    "url": "https://despair-world.com/series/manga/akatsuki-no-yona",
+    "cover_url": "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_27415/cover.jpg",
+    "type": "مانغا",
+    "status": "مستمر",
+    "total_chapters": 278,
+    "genres": [
+      "مغامرة",
+      "دراما",
+      "خيال",
+      "شوجو",
+      "حريم",
+      "كوميدى"
+    ]
+  },
+  {
+    "id": "wp_10704",
+    "title": "وجهة نظر القارئ",
+    "url": "https://despair-world.com/series/manga/omniscient-reader-s-viewpoint",
+    "cover_url": "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_10704/cover.jpg",
+    "type": "مانهوا",
+    "status": "مستمر",
+    "total_chapters": 257,
+    "genres": [
+      "أكشن",
+      "خيال",
+      "مانهوا",
+      "خارق للطبيعة",
+      "سحر",
+      "شياطين",
+      "فنون قتالية",
+      "قوة خارقة"
+    ]
+  },
+  {
+    "id": "wp_36848",
+    "title": "البرسيم الأسود ; ブラッククローバー; 黑色五叶草; Black Five Leaf Grass",
+    "url": "https://despair-world.com/series/manga/black-clover",
+    "cover_url": "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_36848/cover.jpg",
+    "type": "مانغا",
+    "status": "مكتمل",
+    "total_chapters": 397,
+    "genres": [
+      "أكشن",
+      "دراما",
+      "خيال",
+      "كوميديا",
+      "سحر"
+    ]
+  },
+  {
+    "id": "wp_11532",
+    "title": "كاسر الرياح",
+    "url": "https://despair-world.com/series/manga/wind-breaker",
+    "cover_url": "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_11532/cover.jpg",
+    "type": "مانهوا",
+    "status": "مستمر",
+    "total_chapters": 528,
+    "genres": [
+      "دراما",
+      "رومانسي",
+      "كوميديا",
+      "مدرسي",
+      "شريحة من الحياة",
+      "رياضي"
+    ]
+  },
+  {
+    "id": "wp_8839",
+    "title": "بيرسيرك , الهائج",
+    "url": "https://despair-world.com/series/manga/berserk",
+    "cover_url": "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_8839/cover.jpg",
+    "type": "مانغا",
+    "status": "مستمر",
+    "total_chapters": 373,
+    "genres": [
+      "أكشن",
+      "مغامرة",
+      "دراما",
+      "خيال",
       "تاريخي",
       "سينين",
+      "رعب",
+      "خارق للطبيعة",
+      "رعب نفسي",
+      "شياطين",
+      "غموض"
+    ]
+  },
+  {
+    "id": "wp_14999",
+    "title": "lookism",
+    "url": "https://despair-world.com/series/manga/lookism",
+    "cover_url": "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_14999/cover.webp",
+    "type": "مانهوا",
+    "status": "مستمر",
+    "total_chapters": 553,
+    "genres": [
+      "أكشن",
+      "مغامرة",
+      "مدرسي",
+      "شريحة من الحياة",
+      "رياضي",
       "فنون قتالية"
+    ]
+  },
+  {
+    "id": "wp_27454",
+    "title": "Oyasumi Punpun",
+    "url": "https://despair-world.com/series/manga/oyasumi-punpun",
+    "cover_url": "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_27454/cover.jpg",
+    "type": "مانغا",
+    "status": "مستمر",
+    "total_chapters": 146,
+    "genres": [
+      "دراما",
+      "سينين",
+      "كوميدى",
+      "الحياة اليومية",
+      "راشد"
+    ]
+  },
+  {
+    "id": "wp_27451",
+    "title": "Naruto – Digital Colored",
+    "url": "https://despair-world.com/series/manga/naruto-digital-colored",
+    "cover_url": "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_27451/cover.jpeg",
+    "type": "مانغا",
+    "status": "مستمر",
+    "total_chapters": 586,
+    "genres": [
+      "مغامرة",
+      "دراما",
+      "خيال",
+      "شونين",
+      "كوميدى"
+    ]
+  },
+  {
+    "id": "wp_9761",
+    "title": "لكي لا أموت",
+    "url": "https://despair-world.com/series/manga/to-not-die",
+    "cover_url": "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_9761/cover.png",
+    "type": "مانهوا",
+    "status": "مستمر",
+    "total_chapters": 180,
+    "genres": [
+      "أكشن",
+      "مغامرة",
+      "دراما",
+      "شونين",
+      "كوميديا",
+      "مانهوا",
+      "فنون قتالية"
+    ]
+  },
+  {
+    "id": "wp_27403",
+    "title": "Evolution Begins With A Big Tree",
+    "url": "https://despair-world.com/series/manga/evolution-begins-with-a-big-tree",
+    "cover_url": "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_27403/cover.jpg",
+    "type": "مانغا",
+    "status": "مستمر",
+    "total_chapters": 460,
+    "genres": [
+      "مغامرة",
+      "خيال",
+      "سحر",
+      "شياطين",
+      "غموض",
+      "قوة خارقة",
+      "بطل غير اعتيادي",
+      "خارق",
+      "صقل",
+      "نظام",
+      "وحوش"
+    ]
+  },
+  {
+    "id": "wp_25360",
+    "title": "master of gu",
+    "url": "https://despair-world.com/series/manga/master-of-gu",
+    "cover_url": "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_25360/cover.png",
+    "type": "مانهوا",
+    "status": "مستمر",
+    "total_chapters": 97,
+    "genres": [
+      "أكشن",
+      "خيال",
+      "فنون قتالية",
+      "غموض",
+      "إثارة",
+      "دموي"
+    ]
+  },
+  {
+    "id": "wp_27439",
+    "title": "Kaguya-sama wa Kokurasetai: Tensai-tachi no Renai Zunousen",
+    "url": "https://despair-world.com/series/manga/kaguya-sama-wa-kokurasetai-tensai-tachi-no-renai-zunousen",
+    "cover_url": "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_27439/cover.jpg",
+    "type": "مانغا",
+    "status": "مستمر",
+    "total_chapters": 287,
+    "genres": [
+      "دراما",
+      "سينين",
+      "كوميدى",
+      "الحياة المدرسيه"
+    ]
+  },
+  {
+    "id": "wp_37361",
+    "title": "Claymore",
+    "url": "https://despair-world.com/series/manga/claymore",
+    "cover_url": "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_37361/cover.jpg",
+    "type": "مانغا",
+    "status": "مستمر",
+    "total_chapters": 148,
+    "genres": [
+      "أكشن",
+      "خيال",
+      "رعب",
+      "خارق للطبيعة",
+      "وحوش",
+      "تراجيدي"
+    ]
+  },
+  {
+    "id": "wp_23414",
+    "title": "الزوجان المؤقتان في متجر الأسماك الذهبية",
+    "url": "https://despair-world.com/series/manga/kingyoya-san-no-karisome-fuufu",
+    "cover_url": "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_23414/cover.webp",
+    "type": "مانغا",
+    "status": "مستمر",
+    "total_chapters": 20,
+    "genres": [
+      "دراما",
+      "رومانسي",
+      "كوميديا",
+      "شريحة من الحياة",
+      "شوجو"
+    ]
+  },
+  {
+    "id": "wp_5633",
+    "title": "جوجيتسو كايسن",
+    "url": "https://despair-world.com/series/manga/jujutsu-kaisen",
+    "cover_url": "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_5633/cover.jpg",
+    "type": "مانغا",
+    "status": "مكتمل",
+    "total_chapters": 275,
+    "genres": [
+      "أكشن",
+      "دراما",
+      "خيال",
+      "شونين",
+      "خارق للطبيعة",
+      "فنون قتالية"
+    ]
+  },
+  {
+    "id": "wp_27437",
+    "title": "Juujika no Rokunin",
+    "url": "https://despair-world.com/series/manga/juujika-no-rokunin",
+    "cover_url": "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_27437/cover.jpg",
+    "type": "مانغا",
+    "status": "مستمر",
+    "total_chapters": 228,
+    "genres": [
+      "دراما",
+      "شونين",
+      "رعب",
+      "تراجيدي",
+      "عنف",
+      "حياة مدرسية"
+    ]
+  },
+  {
+    "id": "wp_16098",
+    "title": "براءة يونوو",
+    "url": "https://despair-world.com/series/manga/yeonwoo-s-innocence",
+    "cover_url": "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_16098/cover.jpg",
+    "type": "مانهوا",
+    "status": "مستمر",
+    "total_chapters": 189,
+    "genres": [
+      "دراما",
+      "رومانسي",
+      "كوميديا",
+      "مدرسي",
+      "شريحة من الحياة",
+      "نفسي",
+      "مانهوا"
     ]
   }
 ]

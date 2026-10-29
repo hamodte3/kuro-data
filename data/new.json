@@ -1,5 +1,26 @@
 [
   {
+    "id": "wp_27457",
+    "title": "Shangri-La Frontier ~ Kusoge Hunter, Kamige ni Idoman to su",
+    "chapter": "الفصل 148",
+    "type": "مانغا",
+    "cover_url": "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_27457/cover.jpg"
+  },
+  {
+    "id": "wp_27022",
+    "title": "Usogui",
+    "chapter": "الفصل 227",
+    "type": "مانغا",
+    "cover_url": "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_27022/cover.jpeg"
+  },
+  {
+    "id": "wp_27436",
+    "title": "Hope You’re Happy, Lemon",
+    "chapter": "الفصل 24",
+    "type": "مانغا",
+    "cover_url": "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_27436/cover.png"
+  },
+  {
     "id": "how-to-rewrite",
     "title": "كيفية إعادة كتابة قصص الأشباح",
     "chapter": "رواية جديدة",
@@ -82,26 +103,5 @@
     "chapter": "الفصل 741",
     "type": "رواية",
     "cover_url": "https://realmnovel.com/img/novel/69eb1127d53949a7ab03b895.jpg"
-  },
-  {
-    "id": "690557fdcc7a2812b6166de0",
-    "title": "إعادة اليقظة: أصعد بصف أسطوري",
-    "chapter": "الفصل 851",
-    "type": "رواية",
-    "cover_url": "https://realmnovel.com/img/novel/690557fdcc7a2812b6166de0.jpg"
-  },
-  {
-    "id": "6a24df98977e6e9d3a66d046",
-    "title": "النصل المشع للبرية",
-    "chapter": "الفصل 277",
-    "type": "رواية",
-    "cover_url": "https://realmnovel.com/img/novel/6a24df98977e6e9d3a66d046.jpg"
-  },
-  {
-    "id": "69e5e479d53949a7ab86e152",
-    "title": "سحب سمة واحدة في السنة، حتى عمليات المحاكاة تُحتسب.",
-    "chapter": "الفصل 534",
-    "type": "رواية",
-    "cover_url": "https://realmnovel.com/img/novel/69e5e479d53949a7ab86e152.jpg"
   }
 ]

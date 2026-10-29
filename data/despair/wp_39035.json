@@ -1,0 +1,57 @@
+{
+  "id": "wp_39035",
+  "title": "I'm in Love with the Older Girl Next Door",
+  "cover_url": "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_39035/cover.jpg",
+  "description": "هناك تلك الفتاة الجميلة، الشامبانيا، المحبة للسينما والتي تكبرني بثلاث سنوات: اسمها شيعة، وتعيش في البيت المجاور! أنا أحبها بجنون، وأحتاج إلى طريقة ما لرؤيتها! لقد استقريت على سؤالها عن توصيات الأفلام، والآن يمكنني مقابلتها كل يوم أربعاء! أريد أن أعرف المزيد عنها، وأخبرها بما أشعر به... لكني لا أستطيع إيصال الرسالة! استمتع بهذا الفيلم الرومنسي غير المتوازن الذي قدمه لك مؤلف \"الفتاة التي أحبها، نسيت نظاراتها\" و\"الورق الشجاع\"، كومي فوجيتشيكا!",
+  "type": "مانغا",
+  "status": "مستمر",
+  "last_update": "2026-09-25",
+  "rating": "0.0",
+  "favorites": "",
+  "genres": [
+    "رومانسي",
+    "كوميديا",
+    "شريحة من الحياة",
+    "الحياة المدرسيه",
+    "حياة يومية"
+  ],
+  "is_novel": false,
+  "chapters": {
+    "wp_ch_39041": {
+      "name": "1",
+      "title": "I'm in Love with the Older Girl Next Door - Chapter 1",
+      "pages": [
+        "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_39035/wp_ch_39041/001.webp",
+        "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_39035/wp_ch_39041/002.webp",
+        "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_39035/wp_ch_39041/003.webp",
+        "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_39035/wp_ch_39041/004.webp",
+        "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_39035/wp_ch_39041/005.webp",
+        "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_39035/wp_ch_39041/006.webp",
+        "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_39035/wp_ch_39041/007.webp",
+        "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_39035/wp_ch_39041/008.webp",
+        "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_39035/wp_ch_39041/009.webp",
+        "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_39035/wp_ch_39041/010.webp",
+        "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_39035/wp_ch_39041/011.webp",
+        "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_39035/wp_ch_39041/012.webp"
+      ]
+    },
+    "wp_ch_39042": {
+      "name": "2",
+      "title": "I'm in Love with the Older Girl Next Door - Chapter 2",
+      "pages": [
+        "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_39035/wp_ch_39042/001.webp",
+        "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_39035/wp_ch_39042/002.webp",
+        "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_39035/wp_ch_39042/003.webp",
+        "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_39035/wp_ch_39042/004.webp",
+        "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_39035/wp_ch_39042/005.webp",
+        "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_39035/wp_ch_39042/006.webp",
+        "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_39035/wp_ch_39042/007.webp",
+        "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_39035/wp_ch_39042/008.webp",
+        "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_39035/wp_ch_39042/009.webp",
+        "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_39035/wp_ch_39042/010.webp",
+        "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_39035/wp_ch_39042/011.webp",
+        "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_39035/wp_ch_39042/012.webp"
+      ]
+    }
+  }
+}

@@ -1,0 +1,1221 @@
+{
+  "id": "wp_10035",
+  "title": "The girl I like forgot her glasses , الفتاة التي أحبها نسيت نظاراتها",
+  "cover_url": "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_10035/cover.jpg",
+  "description": "كومورا-كن هو فتى في المرحلة المتوسطة يحب الفتاة التي تجلس بجانبه مي-سان ، مي-سان ذات بصر سيء واعتادت على نسيان حمل نظارتها أو تركها في المنزل أو كسرها عن طريق الخطأ. كومورا-كن يختار مساعدتها على قدر استطاعته ، ومن خلال تلك الجهود ، تبدأ مي-سان في التعرف على لطفه والتقرب منه",
+  "type": "مانغا",
+  "status": "مكتمل",
+  "last_update": "2026-09-25",
+  "rating": "10.0",
+  "favorites": "",
+  "genres": [
+    "رومانسي",
+    "كوميديا",
+    "مدرسي",
+    "شريحة من الحياة"
+  ],
+  "is_novel": false,
+  "chapters": {
+    "wp_ch_25749": {
+      "name": "1",
+      "title": "Sukinako ga Megane wo Wasureta - الفصل 1",
+      "pages": [
+        "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_10035/wp_ch_25749/001.webp",
+        "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_10035/wp_ch_25749/002.webp"
+      ]
+    },
+    "wp_ch_25751": {
+      "name": "2",
+      "title": "Sukinako ga Megane wo Wasureta - الفصل 2",
+      "pages": [
+        "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_10035/wp_ch_25751/001.webp",
+        "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_10035/wp_ch_25751/002.webp"
+      ]
+    },
+    "wp_ch_25759": {
+      "name": "3",
+      "title": "Sukinako ga Megane wo Wasureta - الفصل 3",
+      "pages": [
+        "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_10035/wp_ch_25759/001.webp"
+      ]
+    },
+    "wp_ch_25761": {
+      "name": "4",
+      "title": "Sukinako ga Megane wo Wasureta - الفصل 4",
+      "pages": [
+        "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_10035/wp_ch_25761/001.webp",
+        "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_10035/wp_ch_25761/002.webp"
+      ]
+    },
+    "wp_ch_25763": {
+      "name": "5",
+      "title": "Sukinako ga Megane wo Wasureta - الفصل 5",
+      "pages": [
+        "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_10035/wp_ch_25763/001.webp",
+        "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_10035/wp_ch_25763/002.webp"
+      ]
+    },
+    "wp_ch_25765": {
+      "name": "6",
+      "title": "Sukinako ga Megane wo Wasureta - الفصل 6",
+      "pages": [
+        "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_10035/wp_ch_25765/001.webp"
+      ]
+    },
+    "wp_ch_25767": {
+      "name": "7",
+      "title": "Sukinako ga Megane wo Wasureta - الفصل 7",
+      "pages": [
+        "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_10035/wp_ch_25767/001.webp"
+      ]
+    },
+    "wp_ch_25769": {
+      "name": "8",
+      "title": "Sukinako ga Megane wo Wasureta - الفصل 8",
+      "pages": [
+        "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_10035/wp_ch_25769/001.webp"
+      ]
+    },
+    "wp_ch_25773": {
+      "name": "9",
+      "title": "Sukinako ga Megane wo Wasureta - الفصل 9",
+      "pages": [
+        "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_10035/wp_ch_25773/001.webp"
+      ]
+    },
+    "wp_ch_25779": {
+      "name": "10",
+      "title": "Sukinako ga Megane wo Wasureta - الفصل 10",
+      "pages": [
+        "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_10035/wp_ch_25779/001.webp"
+      ]
+    },
+    "wp_ch_25781": {
+      "name": "10.5",
+      "title": "Sukinako ga Megane wo Wasureta - الفصل 10.5",
+      "pages": [
+        "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_10035/wp_ch_25781/001.webp",
+        "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_10035/wp_ch_25781/002.webp"
+      ]
+    },
+    "wp_ch_25783": {
+      "name": "11",
+      "title": "Sukinako ga Megane wo Wasureta - الفصل 11",
+      "pages": [
+        "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_10035/wp_ch_25783/001.webp"
+      ]
+    },
+    "wp_ch_25785": {
+      "name": "12",
+      "title": "Sukinako ga Megane wo Wasureta - الفصل 12",
+      "pages": [
+        "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_10035/wp_ch_25785/001.webp"
+      ]
+    },
+    "wp_ch_25787": {
+      "name": "13",
+      "title": "Sukinako ga Megane wo Wasureta - الفصل 13",
+      "pages": [
+        "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_10035/wp_ch_25787/001.webp"
+      ]
+    },
+    "wp_ch_25789": {
+      "name": "14",
+      "title": "Sukinako ga Megane wo Wasureta - الفصل 14",
+      "pages": [
+        "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_10035/wp_ch_25789/001.webp"
+      ]
+    },
+    "wp_ch_25791": {
+      "name": "14.5",
+      "title": "Sukinako ga Megane wo Wasureta - الفصل 14.5",
+      "pages": [
+        "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_10035/wp_ch_25791/001.webp"
+      ]
+    },
+    "wp_ch_25793": {
+      "name": "15",
+      "title": "Sukinako ga Megane wo Wasureta - الفصل 15",
+      "pages": [
+        "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_10035/wp_ch_25793/001.webp"
+      ]
+    },
+    "wp_ch_25795": {
+      "name": "16",
+      "title": "Sukinako ga Megane wo Wasureta - الفصل 16",
+      "pages": [
+        "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_10035/wp_ch_25795/001.webp"
+      ]
+    },
+    "wp_ch_25797": {
+      "name": "17",
+      "title": "Sukinako ga Megane wo Wasureta - الفصل 17",
+      "pages": [
+        "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_10035/wp_ch_25797/001.webp",
+        "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_10035/wp_ch_25797/002.webp"
+      ]
+    },
+    "wp_ch_25799": {
+      "name": "18",
+      "title": "Sukinako ga Megane wo Wasureta - الفصل 18",
+      "pages": [
+        "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_10035/wp_ch_25799/001.webp"
+      ]
+    },
+    "wp_ch_25801": {
+      "name": "19",
+      "title": "Sukinako ga Megane wo Wasureta - الفصل 19",
+      "pages": [
+        "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_10035/wp_ch_25801/001.webp"
+      ]
+    },
+    "wp_ch_25803": {
+      "name": "20",
+      "title": "Sukinako ga Megane wo Wasureta - الفصل 20",
+      "pages": [
+        "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_10035/wp_ch_25803/001.webp"
+      ]
+    },
+    "wp_ch_25805": {
+      "name": "21",
+      "title": "Sukinako ga Megane wo Wasureta - الفصل 21",
+      "pages": [
+        "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_10035/wp_ch_25805/001.webp",
+        "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_10035/wp_ch_25805/002.webp"
+      ]
+    },
+    "wp_ch_25807": {
+      "name": "22",
+      "title": "Sukinako ga Megane wo Wasureta - الفصل 22",
+      "pages": [
+        "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_10035/wp_ch_25807/001.webp",
+        "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_10035/wp_ch_25807/002.webp"
+      ]
+    },
+    "wp_ch_25809": {
+      "name": "23",
+      "title": "Sukinako ga Megane wo Wasureta - الفصل 23",
+      "pages": [
+        "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_10035/wp_ch_25809/001.webp"
+      ]
+    },
+    "wp_ch_25811": {
+      "name": "24",
+      "title": "Sukinako ga Megane wo Wasureta - الفصل 24",
+      "pages": [
+        "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_10035/wp_ch_25811/001.webp"
+      ]
+    },
+    "wp_ch_25813": {
+      "name": "24.5",
+      "title": "Sukinako ga Megane wo Wasureta - الفصل 24.5",
+      "pages": [
+        "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_10035/wp_ch_25813/001.webp",
+        "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_10035/wp_ch_25813/002.webp"
+      ]
+    },
+    "wp_ch_25815": {
+      "name": "25",
+      "title": "Sukinako ga Megane wo Wasureta - الفصل 25",
+      "pages": [
+        "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_10035/wp_ch_25815/001.webp"
+      ]
+    },
+    "wp_ch_25817": {
+      "name": "26",
+      "title": "Sukinako ga Megane wo Wasureta - الفصل 26",
+      "pages": [
+        "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_10035/wp_ch_25817/001.webp"
+      ]
+    },
+    "wp_ch_25819": {
+      "name": "27",
+      "title": "Sukinako ga Megane wo Wasureta - الفصل 27",
+      "pages": [
+        "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_10035/wp_ch_25819/001.webp",
+        "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_10035/wp_ch_25819/002.webp"
+      ]
+    },
+    "wp_ch_25821": {
+      "name": "28",
+      "title": "Sukinako ga Megane wo Wasureta - الفصل 28",
+      "pages": [
+        "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_10035/wp_ch_25821/001.webp"
+      ]
+    },
+    "wp_ch_25823": {
+      "name": "28.5",
+      "title": "Sukinako ga Megane wo Wasureta - الفصل 28.5",
+      "pages": [
+        "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_10035/wp_ch_25823/001.webp"
+      ]
+    },
+    "wp_ch_25825": {
+      "name": "29",
+      "title": "Sukinako ga Megane wo Wasureta - الفصل 29",
+      "pages": [
+        "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_10035/wp_ch_25825/001.webp",
+        "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_10035/wp_ch_25825/002.webp"
+      ]
+    },
+    "wp_ch_25827": {
+      "name": "30",
+      "title": "Sukinako ga Megane wo Wasureta - الفصل 30",
+      "pages": [
+        "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_10035/wp_ch_25827/001.webp",
+        "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_10035/wp_ch_25827/002.webp"
+      ]
+    },
+    "wp_ch_25829": {
+      "name": "30.5",
+      "title": "Sukinako ga Megane wo Wasureta - الفصل 30.5",
+      "pages": [
+        "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_10035/wp_ch_25829/001.webp"
+      ]
+    },
+    "wp_ch_25831": {
+      "name": "31",
+      "title": "Sukinako ga Megane wo Wasureta - الفصل 31",
+      "pages": [
+        "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_10035/wp_ch_25831/001.webp"
+      ]
+    },
+    "wp_ch_25833": {
+      "name": "32",
+      "title": "Sukinako ga Megane wo Wasureta - الفصل 32",
+      "pages": [
+        "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_10035/wp_ch_25833/001.webp"
+      ]
+    },
+    "wp_ch_25835": {
+      "name": "33",
+      "title": "Sukinako ga Megane wo Wasureta - الفصل 33",
+      "pages": [
+        "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_10035/wp_ch_25835/001.webp"
+      ]
+    },
+    "wp_ch_25837": {
+      "name": "34",
+      "title": "Sukinako ga Megane wo Wasureta - الفصل 34",
+      "pages": [
+        "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_10035/wp_ch_25837/001.webp"
+      ]
+    },
+    "wp_ch_25839": {
+      "name": "35",
+      "title": "Sukinako ga Megane wo Wasureta - الفصل 35",
+      "pages": [
+        "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_10035/wp_ch_25839/001.webp",
+        "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_10035/wp_ch_25839/002.webp"
+      ]
+    },
+    "wp_ch_25841": {
+      "name": "36",
+      "title": "Sukinako ga Megane wo Wasureta - الفصل 36",
+      "pages": [
+        "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_10035/wp_ch_25841/001.webp"
+      ]
+    },
+    "wp_ch_25843": {
+      "name": "37",
+      "title": "Sukinako ga Megane wo Wasureta - الفصل 37",
+      "pages": [
+        "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_10035/wp_ch_25843/001.webp"
+      ]
+    },
+    "wp_ch_25845": {
+      "name": "38",
+      "title": "Sukinako ga Megane wo Wasureta - الفصل 38",
+      "pages": [
+        "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_10035/wp_ch_25845/001.webp"
+      ]
+    },
+    "wp_ch_25847": {
+      "name": "39",
+      "title": "Sukinako ga Megane wo Wasureta - الفصل 39",
+      "pages": [
+        "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_10035/wp_ch_25847/001.webp"
+      ]
+    },
+    "wp_ch_25849": {
+      "name": "40",
+      "title": "Sukinako ga Megane wo Wasureta - الفصل 40",
+      "pages": [
+        "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_10035/wp_ch_25849/001.webp"
+      ]
+    },
+    "wp_ch_25853": {
+      "name": "41",
+      "title": "Sukinako ga Megane wo Wasureta - الفصل 41",
+      "pages": [
+        "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_10035/wp_ch_25853/001.webp"
+      ]
+    },
+    "wp_ch_25855": {
+      "name": "42",
+      "title": "Sukinako ga Megane wo Wasureta - الفصل 42",
+      "pages": [
+        "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_10035/wp_ch_25855/001.webp"
+      ]
+    },
+    "wp_ch_25857": {
+      "name": "43",
+      "title": "Sukinako ga Megane wo Wasureta - الفصل 43",
+      "pages": [
+        "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_10035/wp_ch_25857/001.webp"
+      ]
+    },
+    "wp_ch_25861": {
+      "name": "44",
+      "title": "Sukinako ga Megane wo Wasureta - الفصل 44",
+      "pages": [
+        "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_10035/wp_ch_25861/001.webp"
+      ]
+    },
+    "wp_ch_25863": {
+      "name": "45",
+      "title": "Sukinako ga Megane wo Wasureta - الفصل 45",
+      "pages": [
+        "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_10035/wp_ch_25863/001.webp"
+      ]
+    },
+    "wp_ch_25865": {
+      "name": "46",
+      "title": "Sukinako ga Megane wo Wasureta - الفصل 46",
+      "pages": [
+        "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_10035/wp_ch_25865/001.webp"
+      ]
+    },
+    "wp_ch_25867": {
+      "name": "47",
+      "title": "Sukinako ga Megane wo Wasureta - الفصل 47",
+      "pages": [
+        "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_10035/wp_ch_25867/001.webp"
+      ]
+    },
+    "wp_ch_25869": {
+      "name": "48",
+      "title": "Sukinako ga Megane wo Wasureta - الفصل 48",
+      "pages": [
+        "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_10035/wp_ch_25869/001.webp",
+        "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_10035/wp_ch_25869/002.webp"
+      ]
+    },
+    "wp_ch_25871": {
+      "name": "49",
+      "title": "Sukinako ga Megane wo Wasureta - الفصل 49",
+      "pages": [
+        "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_10035/wp_ch_25871/001.webp",
+        "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_10035/wp_ch_25871/002.webp"
+      ]
+    },
+    "wp_ch_25873": {
+      "name": "50",
+      "title": "Sukinako ga Megane wo Wasureta - الفصل 50",
+      "pages": [
+        "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_10035/wp_ch_25873/001.webp"
+      ]
+    },
+    "wp_ch_25875": {
+      "name": "51",
+      "title": "Sukinako ga Megane wo Wasureta - الفصل 51",
+      "pages": [
+        "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_10035/wp_ch_25875/001.webp"
+      ]
+    },
+    "wp_ch_25877": {
+      "name": "52",
+      "title": "Sukinako ga Megane wo Wasureta - الفصل 52",
+      "pages": [
+        "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_10035/wp_ch_25877/001.webp"
+      ]
+    },
+    "wp_ch_25879": {
+      "name": "53",
+      "title": "Sukinako ga Megane wo Wasureta - الفصل 53",
+      "pages": [
+        "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_10035/wp_ch_25879/001.webp"
+      ]
+    },
+    "wp_ch_25881": {
+      "name": "54",
+      "title": "Sukinako ga Megane wo Wasureta - الفصل 54",
+      "pages": [
+        "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_10035/wp_ch_25881/001.webp"
+      ]
+    },
+    "wp_ch_25883": {
+      "name": "55",
+      "title": "Sukinako ga Megane wo Wasureta - الفصل 55",
+      "pages": [
+        "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_10035/wp_ch_25883/001.webp"
+      ]
+    },
+    "wp_ch_25885": {
+      "name": "56",
+      "title": "Sukinako ga Megane wo Wasureta - الفصل 56",
+      "pages": [
+        "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_10035/wp_ch_25885/001.webp"
+      ]
+    },
+    "wp_ch_25887": {
+      "name": "57",
+      "title": "Sukinako ga Megane wo Wasureta - الفصل 57",
+      "pages": [
+        "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_10035/wp_ch_25887/001.webp",
+        "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_10035/wp_ch_25887/002.webp"
+      ]
+    },
+    "wp_ch_25889": {
+      "name": "58",
+      "title": "Sukinako ga Megane wo Wasureta - الفصل 58",
+      "pages": [
+        "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_10035/wp_ch_25889/001.webp"
+      ]
+    },
+    "wp_ch_25891": {
+      "name": "59",
+      "title": "Sukinako ga Megane wo Wasureta - الفصل 59",
+      "pages": [
+        "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_10035/wp_ch_25891/001.webp"
+      ]
+    },
+    "wp_ch_25893": {
+      "name": "60",
+      "title": "Sukinako ga Megane wo Wasureta - الفصل 60",
+      "pages": [
+        "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_10035/wp_ch_25893/001.webp",
+        "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_10035/wp_ch_25893/002.webp"
+      ]
+    },
+    "wp_ch_25895": {
+      "name": "60.5",
+      "title": "Sukinako ga Megane wo Wasureta - الفصل 60.5",
+      "pages": [
+        "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_10035/wp_ch_25895/001.webp"
+      ]
+    },
+    "wp_ch_25897": {
+      "name": "61",
+      "title": "Sukinako ga Megane wo Wasureta - الفصل 61",
+      "pages": [
+        "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_10035/wp_ch_25897/001.webp"
+      ]
+    },
+    "wp_ch_25899": {
+      "name": "61.5",
+      "title": "Sukinako ga Megane wo Wasureta - الفصل 61.5",
+      "pages": [
+        "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_10035/wp_ch_25899/001.webp"
+      ]
+    },
+    "wp_ch_25901": {
+      "name": "62",
+      "title": "Sukinako ga Megane wo Wasureta - الفصل 62",
+      "pages": [
+        "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_10035/wp_ch_25901/001.webp"
+      ]
+    },
+    "wp_ch_25903": {
+      "name": "62.5",
+      "title": "Sukinako ga Megane wo Wasureta - الفصل 62.5",
+      "pages": [
+        "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_10035/wp_ch_25903/001.webp"
+      ]
+    },
+    "wp_ch_25905": {
+      "name": "63",
+      "title": "Sukinako ga Megane wo Wasureta - الفصل 63",
+      "pages": [
+        "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_10035/wp_ch_25905/001.webp"
+      ]
+    },
+    "wp_ch_25907": {
+      "name": "63.5",
+      "title": "Sukinako ga Megane wo Wasureta - الفصل 63.5",
+      "pages": [
+        "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_10035/wp_ch_25907/001.webp",
+        "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_10035/wp_ch_25907/002.webp"
+      ]
+    },
+    "wp_ch_25909": {
+      "name": "64",
+      "title": "Sukinako ga Megane wo Wasureta - الفصل 64",
+      "pages": [
+        "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_10035/wp_ch_25909/001.webp",
+        "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_10035/wp_ch_25909/002.webp",
+        "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_10035/wp_ch_25909/003.webp"
+      ]
+    },
+    "wp_ch_25911": {
+      "name": "64.5",
+      "title": "Sukinako ga Megane wo Wasureta - الفصل 64.5",
+      "pages": [
+        "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_10035/wp_ch_25911/001.webp"
+      ]
+    },
+    "wp_ch_25913": {
+      "name": "65",
+      "title": "Sukinako ga Megane wo Wasureta - الفصل 65",
+      "pages": [
+        "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_10035/wp_ch_25913/001.webp",
+        "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_10035/wp_ch_25913/002.webp"
+      ]
+    },
+    "wp_ch_25915": {
+      "name": "65.5",
+      "title": "Sukinako ga Megane wo Wasureta - الفصل 65.5",
+      "pages": [
+        "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_10035/wp_ch_25915/001.webp",
+        "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_10035/wp_ch_25915/002.webp"
+      ]
+    },
+    "wp_ch_25917": {
+      "name": "66",
+      "title": "Sukinako ga Megane wo Wasureta - الفصل 66",
+      "pages": [
+        "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_10035/wp_ch_25917/001.webp",
+        "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_10035/wp_ch_25917/002.webp"
+      ]
+    },
+    "wp_ch_25919": {
+      "name": "66.5",
+      "title": "Sukinako ga Megane wo Wasureta - الفصل 66.5",
+      "pages": [
+        "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_10035/wp_ch_25919/001.webp"
+      ]
+    },
+    "wp_ch_25921": {
+      "name": "67",
+      "title": "Sukinako ga Megane wo Wasureta - الفصل 67",
+      "pages": [
+        "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_10035/wp_ch_25921/001.webp",
+        "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_10035/wp_ch_25921/002.webp"
+      ]
+    },
+    "wp_ch_25923": {
+      "name": "67.5",
+      "title": "Sukinako ga Megane wo Wasureta - الفصل 67.5",
+      "pages": [
+        "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_10035/wp_ch_25923/001.webp",
+        "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_10035/wp_ch_25923/002.webp"
+      ]
+    },
+    "wp_ch_25925": {
+      "name": "68",
+      "title": "Sukinako ga Megane wo Wasureta - الفصل 68",
+      "pages": [
+        "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_10035/wp_ch_25925/001.webp",
+        "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_10035/wp_ch_25925/002.webp"
+      ]
+    },
+    "wp_ch_25927": {
+      "name": "68.5",
+      "title": "Sukinako ga Megane wo Wasureta - الفصل 68.5",
+      "pages": [
+        "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_10035/wp_ch_25927/001.webp"
+      ]
+    },
+    "wp_ch_25929": {
+      "name": "69",
+      "title": "Sukinako ga Megane wo Wasureta - الفصل 69",
+      "pages": [
+        "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_10035/wp_ch_25929/001.webp",
+        "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_10035/wp_ch_25929/002.webp"
+      ]
+    },
+    "wp_ch_25931": {
+      "name": "70",
+      "title": "Sukinako ga Megane wo Wasureta - الفصل 70",
+      "pages": [
+        "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_10035/wp_ch_25931/001.webp",
+        "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_10035/wp_ch_25931/002.webp"
+      ]
+    },
+    "wp_ch_25933": {
+      "name": "71",
+      "title": "Sukinako ga Megane wo Wasureta - الفصل 71",
+      "pages": [
+        "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_10035/wp_ch_25933/001.webp",
+        "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_10035/wp_ch_25933/002.webp"
+      ]
+    },
+    "wp_ch_25935": {
+      "name": "72",
+      "title": "Sukinako ga Megane wo Wasureta - الفصل 72",
+      "pages": [
+        "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_10035/wp_ch_25935/001.webp",
+        "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_10035/wp_ch_25935/002.webp"
+      ]
+    },
+    "wp_ch_25937": {
+      "name": "73",
+      "title": "Sukinako ga Megane wo Wasureta - الفصل 73",
+      "pages": [
+        "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_10035/wp_ch_25937/001.webp",
+        "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_10035/wp_ch_25937/002.webp",
+        "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_10035/wp_ch_25937/003.webp"
+      ]
+    },
+    "wp_ch_25939": {
+      "name": "74",
+      "title": "Sukinako ga Megane wo Wasureta - الفصل 74",
+      "pages": [
+        "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_10035/wp_ch_25939/001.webp",
+        "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_10035/wp_ch_25939/002.webp",
+        "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_10035/wp_ch_25939/003.webp"
+      ]
+    },
+    "wp_ch_25941": {
+      "name": "75",
+      "title": "Sukinako ga Megane wo Wasureta - الفصل 75",
+      "pages": [
+        "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_10035/wp_ch_25941/001.webp",
+        "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_10035/wp_ch_25941/002.webp",
+        "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_10035/wp_ch_25941/003.webp"
+      ]
+    },
+    "wp_ch_25943": {
+      "name": "76",
+      "title": "Sukinako ga Megane wo Wasureta - الفصل 76",
+      "pages": [
+        "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_10035/wp_ch_25943/001.webp",
+        "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_10035/wp_ch_25943/002.webp",
+        "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_10035/wp_ch_25943/003.webp"
+      ]
+    },
+    "wp_ch_25945": {
+      "name": "77",
+      "title": "Sukinako ga Megane wo Wasureta - الفصل 77",
+      "pages": [
+        "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_10035/wp_ch_25945/001.webp",
+        "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_10035/wp_ch_25945/002.webp"
+      ]
+    },
+    "wp_ch_25947": {
+      "name": "78",
+      "title": "Sukinako ga Megane wo Wasureta - الفصل 78",
+      "pages": [
+        "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_10035/wp_ch_25947/001.webp",
+        "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_10035/wp_ch_25947/002.webp"
+      ]
+    },
+    "wp_ch_25949": {
+      "name": "79",
+      "title": "Sukinako ga Megane wo Wasureta - الفصل 79",
+      "pages": [
+        "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_10035/wp_ch_25949/001.webp",
+        "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_10035/wp_ch_25949/002.webp"
+      ]
+    },
+    "wp_ch_25951": {
+      "name": "80",
+      "title": "Sukinako ga Megane wo Wasureta - الفصل 80",
+      "pages": [
+        "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_10035/wp_ch_25951/001.webp",
+        "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_10035/wp_ch_25951/002.webp"
+      ]
+    },
+    "wp_ch_25953": {
+      "name": "81",
+      "title": "Sukinako ga Megane wo Wasureta - الفصل 81",
+      "pages": [
+        "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_10035/wp_ch_25953/001.webp",
+        "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_10035/wp_ch_25953/002.webp"
+      ]
+    },
+    "wp_ch_25955": {
+      "name": "81.5",
+      "title": "Sukinako ga Megane wo Wasureta - الفصل 81.5",
+      "pages": [
+        "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_10035/wp_ch_25955/001.webp",
+        "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_10035/wp_ch_25955/002.webp"
+      ]
+    },
+    "wp_ch_25957": {
+      "name": "82",
+      "title": "Sukinako ga Megane wo Wasureta - الفصل 82",
+      "pages": [
+        "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_10035/wp_ch_25957/001.webp",
+        "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_10035/wp_ch_25957/002.webp"
+      ]
+    },
+    "wp_ch_25959": {
+      "name": "83",
+      "title": "Sukinako ga Megane wo Wasureta - الفصل 83",
+      "pages": [
+        "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_10035/wp_ch_25959/001.webp",
+        "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_10035/wp_ch_25959/002.webp"
+      ]
+    },
+    "wp_ch_25961": {
+      "name": "84",
+      "title": "Sukinako ga Megane wo Wasureta - الفصل 84",
+      "pages": [
+        "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_10035/wp_ch_25961/001.webp",
+        "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_10035/wp_ch_25961/002.webp"
+      ]
+    },
+    "wp_ch_25963": {
+      "name": "85",
+      "title": "Sukinako ga Megane wo Wasureta - الفصل 85",
+      "pages": [
+        "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_10035/wp_ch_25963/001.webp",
+        "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_10035/wp_ch_25963/002.webp"
+      ]
+    },
+    "wp_ch_25965": {
+      "name": "86",
+      "title": "Sukinako ga Megane wo Wasureta - الفصل 86",
+      "pages": [
+        "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_10035/wp_ch_25965/001.webp",
+        "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_10035/wp_ch_25965/002.webp",
+        "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_10035/wp_ch_25965/003.webp"
+      ]
+    },
+    "wp_ch_25967": {
+      "name": "87",
+      "title": "Sukinako ga Megane wo Wasureta - الفصل 87",
+      "pages": [
+        "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_10035/wp_ch_25967/001.webp",
+        "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_10035/wp_ch_25967/002.webp"
+      ]
+    },
+    "wp_ch_25969": {
+      "name": "87.5",
+      "title": "Sukinako ga Megane wo Wasureta - الفصل 87.5",
+      "pages": [
+        "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_10035/wp_ch_25969/001.webp"
+      ]
+    },
+    "wp_ch_25971": {
+      "name": "88",
+      "title": "Sukinako ga Megane wo Wasureta - الفصل 88",
+      "pages": [
+        "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_10035/wp_ch_25971/001.webp",
+        "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_10035/wp_ch_25971/002.webp"
+      ]
+    },
+    "wp_ch_25973": {
+      "name": "89",
+      "title": "Sukinako ga Megane wo Wasureta - الفصل 89",
+      "pages": [
+        "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_10035/wp_ch_25973/001.webp",
+        "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_10035/wp_ch_25973/002.webp"
+      ]
+    },
+    "wp_ch_25975": {
+      "name": "90",
+      "title": "Sukinako ga Megane wo Wasureta - الفصل 90",
+      "pages": [
+        "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_10035/wp_ch_25975/001.webp",
+        "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_10035/wp_ch_25975/002.webp"
+      ]
+    },
+    "wp_ch_25977": {
+      "name": "91",
+      "title": "Sukinako ga Megane wo Wasureta - الفصل 91",
+      "pages": [
+        "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_10035/wp_ch_25977/001.webp",
+        "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_10035/wp_ch_25977/002.webp"
+      ]
+    },
+    "wp_ch_25979": {
+      "name": "92",
+      "title": "Sukinako ga Megane wo Wasureta - الفصل 92",
+      "pages": [
+        "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_10035/wp_ch_25979/001.webp",
+        "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_10035/wp_ch_25979/002.webp"
+      ]
+    },
+    "wp_ch_25981": {
+      "name": "93",
+      "title": "Sukinako ga Megane wo Wasureta - الفصل 93",
+      "pages": [
+        "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_10035/wp_ch_25981/001.webp",
+        "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_10035/wp_ch_25981/002.webp"
+      ]
+    },
+    "wp_ch_25983": {
+      "name": "94",
+      "title": "Sukinako ga Megane wo Wasureta - الفصل 94",
+      "pages": [
+        "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_10035/wp_ch_25983/001.webp",
+        "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_10035/wp_ch_25983/002.webp",
+        "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_10035/wp_ch_25983/003.webp"
+      ]
+    },
+    "wp_ch_25985": {
+      "name": "95",
+      "title": "Sukinako ga Megane wo Wasureta - الفصل 95",
+      "pages": [
+        "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_10035/wp_ch_25985/001.webp",
+        "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_10035/wp_ch_25985/002.webp"
+      ]
+    },
+    "wp_ch_25987": {
+      "name": "96",
+      "title": "Sukinako ga Megane wo Wasureta - الفصل 96",
+      "pages": [
+        "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_10035/wp_ch_25987/001.webp",
+        "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_10035/wp_ch_25987/002.webp",
+        "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_10035/wp_ch_25987/003.webp"
+      ]
+    },
+    "wp_ch_25989": {
+      "name": "97",
+      "title": "Sukinako ga Megane wo Wasureta - الفصل 97",
+      "pages": [
+        "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_10035/wp_ch_25989/001.webp",
+        "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_10035/wp_ch_25989/002.webp",
+        "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_10035/wp_ch_25989/003.webp"
+      ]
+    },
+    "wp_ch_25991": {
+      "name": "98",
+      "title": "Sukinako ga Megane wo Wasureta - الفصل 98",
+      "pages": [
+        "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_10035/wp_ch_25991/001.webp",
+        "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_10035/wp_ch_25991/002.webp",
+        "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_10035/wp_ch_25991/003.webp"
+      ]
+    },
+    "wp_ch_25993": {
+      "name": "99",
+      "title": "Sukinako ga Megane wo Wasureta - الفصل 99",
+      "pages": [
+        "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_10035/wp_ch_25993/001.webp",
+        "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_10035/wp_ch_25993/002.webp",
+        "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_10035/wp_ch_25993/003.webp"
+      ]
+    },
+    "wp_ch_10267": {
+      "name": "100",
+      "title": "sukinako-ga-megane-wo-wasureta - الفصل 100",
+      "pages": [
+        "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_10035/wp_ch_10267/001.webp",
+        "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_10035/wp_ch_10267/002.webp",
+        "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_10035/wp_ch_10267/003.webp",
+        "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_10035/wp_ch_10267/004.webp",
+        "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_10035/wp_ch_10267/005.webp",
+        "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_10035/wp_ch_10267/006.webp",
+        "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_10035/wp_ch_10267/007.webp",
+        "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_10035/wp_ch_10267/008.webp",
+        "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_10035/wp_ch_10267/009.webp",
+        "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_10035/wp_ch_10267/010.webp",
+        "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_10035/wp_ch_10267/011.webp",
+        "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_10035/wp_ch_10267/012.webp",
+        "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_10035/wp_ch_10267/013.webp",
+        "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_10035/wp_ch_10267/014.webp",
+        "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_10035/wp_ch_10267/015.webp",
+        "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_10035/wp_ch_10267/016.webp",
+        "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_10035/wp_ch_10267/017.webp",
+        "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_10035/wp_ch_10267/018.webp",
+        "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_10035/wp_ch_10267/019.webp",
+        "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_10035/wp_ch_10267/020.webp",
+        "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_10035/wp_ch_10267/021.webp",
+        "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_10035/wp_ch_10267/022.webp",
+        "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_10035/wp_ch_10267/023.webp"
+      ]
+    },
+    "wp_ch_10269": {
+      "name": "101",
+      "title": "sukinako-ga-megane-wo-wasureta - الفصل 101",
+      "pages": [
+        "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_10035/wp_ch_10269/001.webp",
+        "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_10035/wp_ch_10269/002.webp",
+        "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_10035/wp_ch_10269/003.webp",
+        "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_10035/wp_ch_10269/004.webp",
+        "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_10035/wp_ch_10269/005.webp",
+        "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_10035/wp_ch_10269/006.webp",
+        "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_10035/wp_ch_10269/007.webp",
+        "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_10035/wp_ch_10269/008.webp",
+        "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_10035/wp_ch_10269/009.webp",
+        "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_10035/wp_ch_10269/010.webp",
+        "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_10035/wp_ch_10269/011.webp",
+        "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_10035/wp_ch_10269/012.webp",
+        "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_10035/wp_ch_10269/013.webp",
+        "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_10035/wp_ch_10269/014.webp",
+        "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_10035/wp_ch_10269/015.webp",
+        "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_10035/wp_ch_10269/016.webp",
+        "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_10035/wp_ch_10269/017.webp",
+        "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_10035/wp_ch_10269/018.webp",
+        "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_10035/wp_ch_10269/019.webp",
+        "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_10035/wp_ch_10269/020.webp",
+        "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_10035/wp_ch_10269/021.webp",
+        "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_10035/wp_ch_10269/022.webp",
+        "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_10035/wp_ch_10269/023.webp",
+        "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_10035/wp_ch_10269/024.webp",
+        "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_10035/wp_ch_10269/025.webp"
+      ]
+    },
+    "wp_ch_10271": {
+      "name": "102",
+      "title": "sukinako-ga-megane-wo-wasureta - الفصل 102",
+      "pages": [
+        "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_10035/wp_ch_10271/001.webp",
+        "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_10035/wp_ch_10271/002.webp",
+        "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_10035/wp_ch_10271/003.webp",
+        "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_10035/wp_ch_10271/004.webp",
+        "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_10035/wp_ch_10271/005.webp",
+        "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_10035/wp_ch_10271/006.webp",
+        "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_10035/wp_ch_10271/007.webp",
+        "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_10035/wp_ch_10271/008.webp",
+        "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_10035/wp_ch_10271/009.webp",
+        "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_10035/wp_ch_10271/010.webp",
+        "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_10035/wp_ch_10271/011.webp",
+        "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_10035/wp_ch_10271/012.webp",
+        "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_10035/wp_ch_10271/013.webp",
+        "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_10035/wp_ch_10271/014.webp",
+        "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_10035/wp_ch_10271/015.webp",
+        "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_10035/wp_ch_10271/016.webp",
+        "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_10035/wp_ch_10271/017.webp",
+        "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_10035/wp_ch_10271/018.webp",
+        "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_10035/wp_ch_10271/019.webp",
+        "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_10035/wp_ch_10271/020.webp",
+        "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_10035/wp_ch_10271/021.webp",
+        "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_10035/wp_ch_10271/022.webp"
+      ]
+    },
+    "wp_ch_10273": {
+      "name": "103",
+      "title": "sukinako-ga-megane-wo-wasureta - الفصل 103",
+      "pages": [
+        "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_10035/wp_ch_10273/001.webp",
+        "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_10035/wp_ch_10273/002.webp",
+        "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_10035/wp_ch_10273/003.webp",
+        "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_10035/wp_ch_10273/004.webp",
+        "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_10035/wp_ch_10273/005.webp",
+        "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_10035/wp_ch_10273/006.webp",
+        "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_10035/wp_ch_10273/007.webp",
+        "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_10035/wp_ch_10273/008.webp",
+        "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_10035/wp_ch_10273/009.webp",
+        "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_10035/wp_ch_10273/010.webp",
+        "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_10035/wp_ch_10273/011.webp",
+        "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_10035/wp_ch_10273/012.webp",
+        "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_10035/wp_ch_10273/013.webp",
+        "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_10035/wp_ch_10273/014.webp",
+        "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_10035/wp_ch_10273/015.webp",
+        "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_10035/wp_ch_10273/016.webp",
+        "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_10035/wp_ch_10273/017.webp",
+        "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_10035/wp_ch_10273/018.webp",
+        "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_10035/wp_ch_10273/019.webp"
+      ]
+    },
+    "wp_ch_10275": {
+      "name": "104",
+      "title": "sukinako-ga-megane-wo-wasureta - الفصل 104",
+      "pages": [
+        "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_10035/wp_ch_10275/001.webp",
+        "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_10035/wp_ch_10275/002.webp",
+        "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_10035/wp_ch_10275/003.webp",
+        "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_10035/wp_ch_10275/004.webp",
+        "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_10035/wp_ch_10275/005.webp",
+        "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_10035/wp_ch_10275/006.webp",
+        "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_10035/wp_ch_10275/007.webp",
+        "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_10035/wp_ch_10275/008.webp",
+        "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_10035/wp_ch_10275/009.webp",
+        "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_10035/wp_ch_10275/010.webp",
+        "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_10035/wp_ch_10275/011.webp",
+        "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_10035/wp_ch_10275/012.webp",
+        "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_10035/wp_ch_10275/013.webp",
+        "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_10035/wp_ch_10275/014.webp",
+        "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_10035/wp_ch_10275/015.webp",
+        "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_10035/wp_ch_10275/016.webp",
+        "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_10035/wp_ch_10275/017.webp",
+        "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_10035/wp_ch_10275/018.webp",
+        "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_10035/wp_ch_10275/019.webp",
+        "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_10035/wp_ch_10275/020.webp",
+        "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_10035/wp_ch_10275/021.webp"
+      ]
+    },
+    "wp_ch_10277": {
+      "name": "105",
+      "title": "sukinako-ga-megane-wo-wasureta - الفصل 105",
+      "pages": [
+        "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_10035/wp_ch_10277/001.webp",
+        "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_10035/wp_ch_10277/002.webp",
+        "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_10035/wp_ch_10277/003.webp",
+        "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_10035/wp_ch_10277/004.webp",
+        "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_10035/wp_ch_10277/005.webp",
+        "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_10035/wp_ch_10277/006.webp",
+        "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_10035/wp_ch_10277/007.webp",
+        "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_10035/wp_ch_10277/008.webp",
+        "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_10035/wp_ch_10277/009.webp",
+        "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_10035/wp_ch_10277/010.webp",
+        "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_10035/wp_ch_10277/011.webp",
+        "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_10035/wp_ch_10277/012.webp",
+        "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_10035/wp_ch_10277/013.webp",
+        "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_10035/wp_ch_10277/014.webp",
+        "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_10035/wp_ch_10277/015.webp",
+        "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_10035/wp_ch_10277/016.webp",
+        "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_10035/wp_ch_10277/017.webp",
+        "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_10035/wp_ch_10277/018.webp",
+        "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_10035/wp_ch_10277/019.webp",
+        "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_10035/wp_ch_10277/020.webp",
+        "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_10035/wp_ch_10277/021.webp"
+      ]
+    },
+    "wp_ch_20095": {
+      "name": "106",
+      "title": "Sukinako ga Megane wo Wasureta - الفصل 106",
+      "pages": [
+        "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_10035/wp_ch_20095/001.webp",
+        "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_10035/wp_ch_20095/002.webp",
+        "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_10035/wp_ch_20095/003.webp",
+        "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_10035/wp_ch_20095/004.webp",
+        "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_10035/wp_ch_20095/005.webp",
+        "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_10035/wp_ch_20095/006.webp",
+        "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_10035/wp_ch_20095/007.webp",
+        "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_10035/wp_ch_20095/008.webp",
+        "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_10035/wp_ch_20095/009.webp",
+        "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_10035/wp_ch_20095/010.webp",
+        "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_10035/wp_ch_20095/011.webp",
+        "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_10035/wp_ch_20095/012.webp",
+        "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_10035/wp_ch_20095/013.webp",
+        "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_10035/wp_ch_20095/014.webp",
+        "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_10035/wp_ch_20095/015.webp",
+        "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_10035/wp_ch_20095/016.webp",
+        "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_10035/wp_ch_20095/017.webp",
+        "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_10035/wp_ch_20095/018.webp",
+        "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_10035/wp_ch_20095/019.webp",
+        "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_10035/wp_ch_20095/020.webp",
+        "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_10035/wp_ch_20095/021.webp",
+        "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_10035/wp_ch_20095/022.webp",
+        "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_10035/wp_ch_20095/023.webp",
+        "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_10035/wp_ch_20095/024.webp"
+      ]
+    },
+    "wp_ch_20408": {
+      "name": "106.5",
+      "title": "Sukinako ga Megane wo Wasureta - الفصل 106.5 الجانبي",
+      "pages": [
+        "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_10035/wp_ch_20408/001.webp",
+        "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_10035/wp_ch_20408/002.webp",
+        "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_10035/wp_ch_20408/003.webp",
+        "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_10035/wp_ch_20408/004.webp",
+        "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_10035/wp_ch_20408/005.webp",
+        "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_10035/wp_ch_20408/006.webp",
+        "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_10035/wp_ch_20408/007.webp",
+        "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_10035/wp_ch_20408/008.webp",
+        "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_10035/wp_ch_20408/009.webp"
+      ]
+    },
+    "wp_ch_20604": {
+      "name": "107",
+      "title": "Sukinako ga Megane wo Wasureta - الفصل 107",
+      "pages": [
+        "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_10035/wp_ch_20604/001.webp",
+        "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_10035/wp_ch_20604/002.webp",
+        "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_10035/wp_ch_20604/003.webp",
+        "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_10035/wp_ch_20604/004.webp",
+        "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_10035/wp_ch_20604/005.webp",
+        "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_10035/wp_ch_20604/006.webp",
+        "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_10035/wp_ch_20604/007.webp",
+        "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_10035/wp_ch_20604/008.webp",
+        "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_10035/wp_ch_20604/009.webp",
+        "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_10035/wp_ch_20604/010.webp",
+        "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_10035/wp_ch_20604/011.webp",
+        "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_10035/wp_ch_20604/012.webp",
+        "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_10035/wp_ch_20604/013.webp",
+        "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_10035/wp_ch_20604/014.webp",
+        "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_10035/wp_ch_20604/015.webp",
+        "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_10035/wp_ch_20604/016.webp",
+        "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_10035/wp_ch_20604/017.webp",
+        "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_10035/wp_ch_20604/018.webp",
+        "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_10035/wp_ch_20604/019.webp",
+        "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_10035/wp_ch_20604/020.webp",
+        "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_10035/wp_ch_20604/021.webp",
+        "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_10035/wp_ch_20604/022.webp",
+        "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_10035/wp_ch_20604/023.webp",
+        "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_10035/wp_ch_20604/024.webp"
+      ]
+    },
+    "wp_ch_20606": {
+      "name": "108",
+      "title": "Sukinako ga Megane wo Wasureta - الفصل 108",
+      "pages": [
+        "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_10035/wp_ch_20606/001.webp",
+        "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_10035/wp_ch_20606/002.webp",
+        "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_10035/wp_ch_20606/003.webp",
+        "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_10035/wp_ch_20606/004.webp",
+        "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_10035/wp_ch_20606/005.webp",
+        "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_10035/wp_ch_20606/006.webp",
+        "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_10035/wp_ch_20606/007.webp",
+        "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_10035/wp_ch_20606/008.webp",
+        "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_10035/wp_ch_20606/009.webp",
+        "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_10035/wp_ch_20606/010.webp",
+        "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_10035/wp_ch_20606/011.webp",
+        "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_10035/wp_ch_20606/012.webp",
+        "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_10035/wp_ch_20606/013.webp",
+        "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_10035/wp_ch_20606/014.webp",
+        "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_10035/wp_ch_20606/015.webp",
+        "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_10035/wp_ch_20606/016.webp",
+        "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_10035/wp_ch_20606/017.webp",
+        "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_10035/wp_ch_20606/018.webp",
+        "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_10035/wp_ch_20606/019.webp"
+      ]
+    },
+    "wp_ch_20855": {
+      "name": "109",
+      "title": "Sukinako ga Megane wo Wasureta - الفصل 109",
+      "pages": [
+        "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_10035/wp_ch_20855/001.jpg",
+        "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_10035/wp_ch_20855/002.webp",
+        "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_10035/wp_ch_20855/003.webp",
+        "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_10035/wp_ch_20855/004.webp",
+        "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_10035/wp_ch_20855/005.webp",
+        "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_10035/wp_ch_20855/006.webp",
+        "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_10035/wp_ch_20855/007.webp",
+        "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_10035/wp_ch_20855/008.webp",
+        "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_10035/wp_ch_20855/009.webp",
+        "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_10035/wp_ch_20855/010.webp",
+        "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_10035/wp_ch_20855/011.webp",
+        "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_10035/wp_ch_20855/012.webp",
+        "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_10035/wp_ch_20855/013.webp",
+        "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_10035/wp_ch_20855/014.webp",
+        "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_10035/wp_ch_20855/015.webp",
+        "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_10035/wp_ch_20855/016.webp",
+        "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_10035/wp_ch_20855/017.webp",
+        "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_10035/wp_ch_20855/018.webp",
+        "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_10035/wp_ch_20855/019.webp",
+        "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_10035/wp_ch_20855/020.webp",
+        "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_10035/wp_ch_20855/021.webp",
+        "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_10035/wp_ch_20855/022.webp",
+        "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_10035/wp_ch_20855/023.webp",
+        "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_10035/wp_ch_20855/024.webp",
+        "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_10035/wp_ch_20855/025.webp"
+      ]
+    },
+    "wp_ch_20963": {
+      "name": "110",
+      "title": "Sukinako ga Megane wo Wasureta - الفصل 110",
+      "pages": [
+        "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_10035/wp_ch_20963/001.webp",
+        "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_10035/wp_ch_20963/002.webp",
+        "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_10035/wp_ch_20963/003.webp",
+        "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_10035/wp_ch_20963/004.webp",
+        "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_10035/wp_ch_20963/005.webp",
+        "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_10035/wp_ch_20963/006.webp",
+        "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_10035/wp_ch_20963/007.webp",
+        "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_10035/wp_ch_20963/008.webp",
+        "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_10035/wp_ch_20963/009.webp",
+        "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_10035/wp_ch_20963/010.webp",
+        "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_10035/wp_ch_20963/011.webp",
+        "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_10035/wp_ch_20963/012.webp",
+        "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_10035/wp_ch_20963/013.webp",
+        "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_10035/wp_ch_20963/014.webp",
+        "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_10035/wp_ch_20963/015.webp",
+        "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_10035/wp_ch_20963/016.webp",
+        "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_10035/wp_ch_20963/017.webp",
+        "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_10035/wp_ch_20963/018.webp",
+        "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_10035/wp_ch_20963/019.webp",
+        "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_10035/wp_ch_20963/020.webp",
+        "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_10035/wp_ch_20963/021.webp",
+        "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_10035/wp_ch_20963/022.webp",
+        "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_10035/wp_ch_20963/023.webp",
+        "https://test.despair-world.com/supabase-api/storage/v1/object/public/manga-content/manga/wp_10035/wp_ch_20963/024.webp"
+      ]
+    }
+  }
+}
