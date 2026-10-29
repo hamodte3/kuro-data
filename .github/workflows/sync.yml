@@ -17,7 +17,6 @@ on:
           - all
           - azora
           - ashiq
-          - despair
           - kolnovel
 
 jobs:
@@ -49,11 +48,6 @@ jobs:
         if: ${{ github.event_name == 'schedule' || inputs.target_source == 'all' || inputs.target_source == 'ashiq' }}
         continue-on-error: true
         run: python sync_ashiq.py
-
-      - name: Sync Despair
-        if: ${{ github.event_name == 'schedule' || inputs.target_source == 'all' || inputs.target_source == 'despair' }}
-        continue-on-error: true
-        run: python sync_despair.py
 
       - name: Sync KolNovel
         if: ${{ github.event_name == 'schedule' || inputs.target_source == 'all' || inputs.target_source == 'kolnovel' }}
