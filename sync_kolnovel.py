@@ -1,6 +1,7 @@
 import json
 import os
 import re
+import subprocess
 import time
 import urllib.parse
 from bs4 import BeautifulSoup
@@ -11,14 +12,14 @@ DATA_DIR = os.path.join("data", "kolnovel")
 CATALOG_FILE = os.path.join(DATA_DIR, "catalog.json")
 GLOBAL_NEW_FILE = os.path.join("data", "new.json")
 
-DETAILS_SYNC_LIMIT = 20    # تجهيز أحدث 20 رواية طرأ عليها تحديث
-MAX_DELTA_PAGES = 5        # فحص أول 5 صفحات فقط كل ساعة بدلاً من 1000
+DETAILS_SYNC_LIMIT = 20    # فحص أحدث 20 رواية طرأ عليها تحديث
+MAX_DELTA_PAGES = 5        # فحص أول 5 صفحات فقط دورياً
 
 os.makedirs(DATA_DIR, exist_ok=True)
 os.makedirs("data", exist_ok=True)
 
 HEADERS = {
-    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
+    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36",
     "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8",
     "Accept-Language": "ar,en-US;q=0.9,en;q=0.8",
     "Referer": f"{BASE_URL}/",
@@ -42,6 +43,7 @@ def clean_title_text(raw: str) -> str:
         .replace("&quot;", '"')
         .replace("&#8217;", "'")
         .replace("&#8216;", "'")
+        .replace("&#8230;", "...")
     )
     text = re.sub(r"[*_%@^<>\[\]]", " ", text)
     text = re.sub(r"\s+", " ", text)
@@ -62,47 +64,59 @@ def format_status(raw_status: str) -> str:
     if any(k in s for k in ["hiatus", "متوقف"]): return "متوقف مؤقتاً"
     return "مستمر"
 
+def extract_cover_image(container) -> str:
+    """استخراج رابط الغلاف بأعلى دقة ممكنة وتخطي الصور الرمزية"""
+    if not container:
+        return ""
+    img = container if container.name == "img" else container.select_one("img")
+    if not img:
+        return ""
+
+    srcset = img.get("srcset", "").strip() or img.get("data-srcset", "").strip()
+    if srcset:
+        candidates = [s.strip().split(" ")[0] for s in srcset.split(",") if s.strip()]
+        for c in reversed(candidates):
+            if c and not c.startswith("data:") and "default" not in c:
+                return normalize_url(c)
+
+    for attr in ["data-src", "data-lazy-src", "src"]:
+        val = img.get(attr, "").strip()
+        if val and not val.startswith("data:") and "default" not in val:
+            return normalize_url(val)
+
+    return ""
+
 def clean_and_rename_old_files():
-    """فحص مجلد الروايات وإعادة تسمية الملفات ذات الأسماء المشفرة أو المشوهة إلى الاسم العربي الصريح"""
     if not os.path.exists(DATA_DIR):
         return
 
-    print("🧹 جاري فحص الملفات القديمة وتنظيف الأسماء المشفرة...")
     renamed_count = 0
-
     for filename in os.listdir(DATA_DIR):
         if filename == "catalog.json" or not filename.endswith(".json"):
             continue
 
         name_without_ext = filename[:-5]
-        
         if "%" in name_without_ext or "25" in name_without_ext:
             try:
                 decoded_name = name_without_ext
                 for _ in range(2):
                     if "%" in decoded_name:
                         decoded_name = urllib.parse.unquote(decoded_name)
-                
+
                 clean_name = clean_title_text(decoded_name)
-                
                 if clean_name and clean_name != name_without_ext:
                     old_path = os.path.join(DATA_DIR, filename)
                     new_path = os.path.join(DATA_DIR, f"{clean_name}.json")
-                    
                     if not os.path.exists(new_path):
                         os.rename(old_path, new_path)
-                        print(f"جاري تعديل اسم الملف: {filename} -> {clean_name}.json")
                         renamed_count += 1
-            except Exception as e:
-                print(f"فشل تعديل اسم الملف {filename}: {e}")
+            except Exception:
+                pass
 
     if renamed_count > 0:
-        print(f"✨ تم تصحيح وإعادة تسمية {renamed_count} ملف بنجاح!\n")
-    else:
-        print("✔️ جميع أسماء الملفات نظيفة ولا تحتاج لتعديل.\n")
+        print(f"✨ تم تصحيح أسماء {renamed_count} ملف قديم.")
 
 def update_global_new_releases(new_releases: list):
-    """دمج الإشعارات الجديدة في data/new.json دون مسح تحديثات المصادر الأخرى"""
     if not new_releases:
         return
 
@@ -127,57 +141,85 @@ def update_global_new_releases(new_releases: list):
         json.dump(deduped[:15], f, ensure_ascii=False, indent=2)
     print(f"🔔 تم تسجيل {len(new_releases)} تحديث جديد لملوك الروايات في {GLOBAL_NEW_FILE}")
 
-def extract_chapters_kolnovel(soup: BeautifulSoup) -> dict:
+def parse_and_add_chapter(node, chapters_map: dict):
+    a = node if node.name == "a" else node.select_one("a")
+    if not a:
+        return
+    raw_href = a.get("href", "").strip()
+    if not raw_href or "/pdf/" in raw_href or raw_href.startswith("#"):
+        return
+
+    ch_url = normalize_url(raw_href)
+    if ch_url in chapters_map:
+        return
+
+    num_node = a.select_one("[data-kol-chapter-number], .kol-chapter-number, .epl-num")
+    title_node = a.select_one("[data-kol-chapter-title], .kol-chapter-title, .epl-title")
+
+    raw_num_text = num_node.text.strip() if num_node else ""
+    raw_title_text = title_node.text.strip() if title_node else a.text.strip()
+
+    num_match = re.search(r"الفصل\s*(\d+(?:\.\d+)?)", raw_num_text or raw_title_text)
+    if num_match:
+        clean_num = num_match.group(1)
+    else:
+        all_nums = re.findall(r"\d+(?:\.\d+)?", raw_num_text or raw_title_text)
+        clean_num = all_nums[-1] if all_nums else ""
+
+    formatted_num = ""
+    if clean_num:
+        try:
+            v = float(clean_num)
+            formatted_num = str(int(v)) if v.is_integer() else str(v)
+        except ValueError:
+            formatted_num = clean_num
+
+    sub_title = re.sub(r"^الفصل\s*\d+[:\s·-]*", "", raw_title_text).strip()
+
+    if formatted_num and sub_title and sub_title != formatted_num:
+        display_name = f"الفصل {formatted_num}: {sub_title}"
+    elif formatted_num:
+        display_name = f"الفصل {formatted_num}"
+    elif raw_title_text:
+        display_name = raw_title_text
+    else:
+        display_name = "فصل"
+
+    chapters_map[ch_url] = {"name": clean_title_text(display_name)}
+
+def extract_chapters_kolnovel(session, soup: BeautifulSoup, novel_url: str) -> dict:
     chapters_map = {}
-    chapter_num_pattern = re.compile(r"الفصل\s*(\d+(?:\.\d+)?)")
-    any_number_pattern = re.compile(r"\d+(?:\.\d+)?")
 
-    for li in soup.select(".eplister ul li"):
-        a_node = li.select_one("a:not(.dlpdf):not([href*='/pdf/'])")
-        if not a_node:
-            continue
+    # 1. فحص العناصر إذا كانت موجودة بالصفحة الرئيسية
+    for el in soup.select("ul[data-kol-chapter-volume-content] li, .eplister ul li, .kol-series-editorial__volume-scroll li"):
+        parse_and_add_chapter(el, chapters_map)
 
-        raw_href = a_node.get("href", "").strip()
-        if not raw_href or "/pdf/" in raw_href:
-            continue
-
-        ch_url = normalize_url(raw_href)
-        if ch_url in chapters_map:
-            continue
-
-        raw_num = a_node.select_one(".epl-num")
-        raw_num_text = raw_num.text.strip() if raw_num else ""
-        raw_title = a_node.select_one(".epl-title")
-        raw_title_text = raw_title.text.strip() if raw_title else ""
-
-        ch_match = chapter_num_pattern.search(raw_num_text)
-        if ch_match:
-            clean_num = ch_match.group(1)
-        else:
-            all_nums = any_number_pattern.findall(raw_num_text)
-            clean_num = all_nums[-1] if all_nums else ""
-
-        if clean_num:
+    # 2. في حال كانت فارغة بالقالب الجديد، جلب صفحة الفصول المباشرة
+    if not chapters_map:
+        vol_details = soup.select_one(".kol-series-editorial__volume[data-kol-volume-pages]")
+        total_vol_pages = 1
+        if vol_details:
             try:
-                v = float(clean_num)
-                formatted_num = str(int(v)) if v.is_integer() else str(v)
+                total_vol_pages = int(vol_details.get("data-kol-volume-pages", 1))
             except ValueError:
-                formatted_num = clean_num
-        else:
-            formatted_num = ""
+                total_vol_pages = 1
 
-        sub_title = re.sub(r"^الفصل\s*\d+[:\s-]*", "", raw_title_text).strip()
+        for vpage in range(1, total_vol_pages + 1):
+            fallback_vurl = f"{novel_url}/?chapter_volume&chapter_page={vpage}#chapters"
+            try:
+                res = session.get(fallback_vurl, timeout=15)
+                if res.status_code == 200:
+                    vsoup = BeautifulSoup(res.text, "html.parser")
+                    page_items = vsoup.select("ul[data-kol-chapter-volume-content] li, .kol-series-editorial__volume-scroll li, a[data-kol-chapter-transition-link]")
+                    for node in page_items:
+                        parse_and_add_chapter(node, chapters_map)
+            except Exception:
+                break
 
-        if formatted_num and sub_title:
-            display_name = f"الفصل {formatted_num}: {sub_title}"
-        elif formatted_num:
-            display_name = f"الفصل {formatted_num}"
-        elif raw_title_text:
-            display_name = raw_title_text
-        else:
-            display_name = "فصل"
-
-        chapters_map[ch_url] = {"name": clean_title_text(display_name)}
+    # 3. محاولة الروابط المختصرة (الفصل الأول والأخير) كاحتياط
+    if not chapters_map:
+        for sc in soup.select(".kol-series-editorial__chapter-shortcuts a"):
+            parse_and_add_chapter(sc, chapters_map)
 
     return chapters_map
 
@@ -193,34 +235,39 @@ def scrape_novel_details_kolnovel(session, novel_url: str):
     res = session.get(cache_url, headers=custom_headers, timeout=25)
     soup = BeautifulSoup(res.text, "html.parser")
 
-    title_el = soup.select_one("h1.entry-title, h1[itemprop=name]")
+    title_el = soup.select_one("h1.kol-series-editorial__title, h1.entry-title, h1[itemprop=name]")
     raw_title = title_el.text.strip() if title_el else "بدون عنوان"
     title = clean_title_text(raw_title)
 
-    img_node = soup.select_one(".sertothumb img, .sertocover-col img")
-    cover = img_node.get("src", "").strip() if img_node else ""
-    cover_url = normalize_url(cover) if cover else ""
+    img_node = soup.select_one(".kol-series-editorial__cover, .sertothumb, .sertocover-col")
+    cover_url = extract_cover_image(img_node) if img_node else ""
 
-    status_el = soup.select_one(".sertostat span")
+    status_el = soup.select_one(".kol-series-editorial__status, .sertostat span")
     status = format_status(status_el.text.strip() if status_el else "مستمرة")
 
-    desc_el = soup.select_one(".sersys.entry-content, .sersysn .sersys")
-    description = desc_el.text.strip() if desc_el else "لا يوجد وصف."
+    desc_el = soup.select_one(".kol-series-editorial__prose, .sersys.entry-content, .sersysn .sersys")
+    if desc_el:
+        desc_soup = BeautifulSoup(str(desc_el), "html.parser")
+        for bad in desc_soup.select(".shola-widget, style, script, .shola-progress-wrap, .shola-modal-overlay"):
+            bad.decompose()
+        paragraphs = [p.text.strip() for p in desc_soup.select("p") if p.text.strip()]
+        description = "\n\n".join(paragraphs) if paragraphs else desc_soup.text.strip()
+    else:
+        description = "لا يوجد وصف."
 
-    genres = [a.text.strip().lstrip("#").strip() for a in soup.select(".sertogenre a") if a.text.strip()]
+    genres = [a.text.strip().lstrip("#").strip() for a in soup.select(".kol-series-editorial__genres a, .sertogenre a") if a.text.strip()]
 
-    rate_el = soup.select_one("#kol-series-rating .custom-rating-value, .numscore")
-    raw_rating = rate_el.text.split("/")[0].strip() if rate_el else ""
-    rating = format_rating(raw_rating)
+    rate_el = soup.select_one(".kol-series-archive__rating b, #kol-series-rating .custom-rating-value, .numscore")
+    rating = format_rating(rate_el.text.split("/")[0].strip() if rate_el else "")
 
     fav_el = soup.select_one(".kol-library-btn__count, .bookmark-count")
     fav_match = re.search(r"\d+", fav_el.text) if fav_el else None
     favorites = fav_match.group(0) if fav_match else ""
 
-    update_el = soup.select_one(".epl-date, .updated")
+    update_el = soup.select_one(".updated, .epl-date")
     last_update = update_el.text.strip() if update_el else ""
 
-    chapters_map = extract_chapters_kolnovel(soup)
+    chapters_map = extract_chapters_kolnovel(session, soup, clean_url)
     slug = title
 
     return {
@@ -249,6 +296,25 @@ def load_existing_catalog() -> dict:
         print(f"خطأ أثناء قراءة الفهرس القديم: {e}")
         return {}
 
+def git_commit_and_push():
+    """رفع تحديثات ملوك الروايات تلقائياً إلى GitHub"""
+    try:
+        status = subprocess.run(["git", "status", "--porcelain", "data/"], capture_output=True, text=True, check=True)
+        if not status.stdout.strip():
+            print("📁 لا توجد تغييرات جديدة لرفعها.")
+            return
+
+        print("\n🚀 جاري رفع التحديثات إلى مستودع GitHub...")
+        subprocess.run(["git", "add", "data/"], check=True)
+        subprocess.run(["git", "commit", "-m", "Auto update: kolnovel sync [skip ci]"], check=True)
+        subprocess.run(["git", "pull", "--rebase"], check=True)
+        subprocess.run(["git", "push"], check=True)
+        print("✅ تم رفع تحديثات ملوك الروايات بنجاح!")
+    except subprocess.CalledProcessError as e:
+        print(f"❌ تعذر الرفع عبر Git: {e}")
+    except Exception as e:
+        print(f"❌ خطأ غير متوقع أثناء الرفع: {e}")
+
 def sync_kolnovel_fast():
     clean_and_rename_old_files()
 
@@ -256,44 +322,43 @@ def sync_kolnovel_fast():
     catalog_dict = load_existing_catalog()
     recent_targets = []
 
-    print(f"جاري مراقبة التحديثات من أول {MAX_DELTA_PAGES} صفحات...")
+    print(f"⚡ جاري فحص أول {MAX_DELTA_PAGES} صفحات من ملوك الروايات...")
 
     for page in range(1, MAX_DELTA_PAGES + 1):
-        url = f"{BASE_URL}/series/?order=update" if page == 1 else f"{BASE_URL}/series/?page={page}&order=update"
+        url = f"{BASE_URL}/series/?order=update" if page == 1 else f"{BASE_URL}/series/page/{page}/?order=update"
         try:
             res = session.get(url, timeout=20)
+            if res.status_code != 200:
+                break
+
             soup = BeautifulSoup(res.text, "html.parser")
-            cards = soup.select("div.listupd article.maindet, div.listupd article.bs")
+            cards = soup.select("article.kol-series-archive__item, div.listupd article.maindet, div.listupd article.bs")
 
             if not cards:
                 break
 
             for card in cards:
-                link_node = card.select_one("h2 a, .mdthumb a, .bsx a")
+                link_node = card.select_one("h3 a[data-kol-series-title-source], h3 a, a.kol-series-archive__cover, h2 a")
                 if not link_node:
                     continue
 
                 novel_url = normalize_url(link_node.get("href", ""))
-
-                title_el = card.select_one("h2 a, h2, .ntitle")
+                title_el = card.select_one("h3 a, [data-kol-series-title-source], h2 a, h2")
                 raw_title = title_el.text.strip() if title_el else link_node.get("title", "").strip()
                 title = clean_title_text(raw_title)
                 if not title:
                     continue
 
                 slug = title
+                cover_url = extract_cover_image(card.select_one(".kol-series-archive__cover-column, .kol-ui-cover, .mdthumb, .bsx"))
 
-                img_node = card.select_one("img.ts-post-image, img")
-                raw_cover = ""
-                if img_node:
-                    raw_cover = img_node.get("src", "").strip()
-                    if not raw_cover or "data:image" in raw_cover:
-                        raw_cover = img_node.get("data-src", "").strip()
-                cover_url = normalize_url(raw_cover) if raw_cover else ""
+                rate_el = card.select_one(".kol-series-archive__rating b, .mdminf, .numscore")
+                rating = format_rating(rate_el.text.strip() if rate_el else "")
 
-                score_el = card.select_one(".mdminf, .numscore")
-                raw_score = re.sub(r"[^0-9.]", "", score_el.text).strip() if score_el else ""
-                rating = format_rating(raw_score)
+                status_el = card.select_one(".kol-series-archive__status, .sertostat")
+                status = format_status(status_el.text.strip() if status_el else "مستمرة")
+
+                genres = [s.text.strip() for s in card.select(".kol-series-archive__genres-list span") if s.text.strip() and s.text.strip() != "·"]
 
                 if slug in catalog_dict:
                     catalog_dict[slug]["title"] = title
@@ -302,6 +367,8 @@ def sync_kolnovel_fast():
                         catalog_dict[slug]["cover_url"] = cover_url
                     if rating:
                         catalog_dict[slug]["rating"] = rating
+                    if genres:
+                        catalog_dict[slug]["genres"] = genres
                     item_ref = catalog_dict.pop(slug)
                     catalog_dict = {slug: item_ref, **catalog_dict}
                 else:
@@ -312,10 +379,11 @@ def sync_kolnovel_fast():
                             "url": novel_url,
                             "cover_url": cover_url,
                             "type": "رواية",
+                            "status": status,
                             "is_novel": True,
                             "rating": rating,
                             "total_chapters": 0,
-                            "genres": []
+                            "genres": genres
                         },
                         **catalog_dict
                     }
@@ -347,8 +415,10 @@ def sync_kolnovel_fast():
             item["rating"] = details["rating"]
             item["total_chapters"] = current_chaps
             item["genres"] = details.get("genres", [])
+            if details.get("cover_url"):
+                item["cover_url"] = details["cover_url"]
 
-            print(f"✓ [{index}/{len(sync_targets)}] تم تحديث الرواية: {slug} ({current_chaps} فصل)")
+            print(f"✓ [{index}/{len(sync_targets)}] تم تحديث: {slug} ({current_chaps} فصل)")
 
             if current_chaps > prev_chaps and current_chaps > 0:
                 new_releases.append({
@@ -370,7 +440,10 @@ def sync_kolnovel_fast():
     if new_releases:
         update_global_new_releases(new_releases)
 
-    print(f"\n⚡ اكتملت مزامنة ملوك الروايات التراكمية! إجمالي الأعمال في الفهرس: {len(full_catalog)}")
+    print(f"\n⚡ اكتملت مزامنة ملوك الروايات! إجمالي الروايات: {len(full_catalog)}")
+    
+    # الرفع التلقائي إلى GitHub
+    git_commit_and_push()
 
 if __name__ == "__main__":
     sync_kolnovel_fast()
