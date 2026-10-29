@@ -8,17 +8,20 @@
   "last_update": "2026-09-14",
   "rating": "9.7",
   "genres": [
-    "مانهوا",
     "اسبوعي",
+    "مانهوا",
     "خارق للطبيعة",
-    "غموض",
-    "مميز",
-    "مغامرات",
     "إثارة",
+    "مميز",
+    "غموض",
+    "مغامرات",
     "أكشن"
   ],
   "is_novel": false,
   "chapters": {
+    "https://azorafly.com/series/nano-machine-s/chapter-336": {
+      "name": "336"
+    },
     "https://azorafly.com/series/nano-machine-s/chapter-335": {
       "name": "335"
     },

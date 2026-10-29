@@ -1,5 +1,19 @@
 [
   {
+    "id": "island-rock",
+    "title": "Island rock",
+    "chapter": "الفصل 22",
+    "type": "مانغا",
+    "cover_url": "https://3asq.online/wp-content/themes/madara/images/dflazy.jpg"
+  },
+  {
+    "id": "nano-machine-s",
+    "title": "Nano machine",
+    "chapter": "الفصل 338",
+    "type": "مانهوا",
+    "cover_url": "https://storage.azorafly.com/2020/03/nano-1.jpg"
+  },
+  {
     "id": "leaving-for-my-younger-husband's-future%3A-a-divorce-decision",
     "title": "Leaving for My Younger Husband’s Future: A Divorce Decision",
     "chapter": "الفصل 61",
@@ -89,19 +103,5 @@
     "chapter": "الفصل 199",
     "type": "مانهوا",
     "cover_url": "https://storage.azorafly.com/2021/11/resource-1.jpeg"
-  },
-  {
-    "id": "for-the-beautiful-juliet",
-    "title": "For the Beautiful Juliet",
-    "chapter": "الفصل 102",
-    "type": "مانهوا",
-    "cover_url": "https://storage.azorafly.com/public/upload/series/featured/3756896d-0197-40a3-99a5-2043c71add77/46ad73ca-1b89-4968-a17b-527873e41eb5.jpg"
-  },
-  {
-    "id": "the-regressed-son-of-a-duke-is-an-assassin",
-    "title": "The Regressed Son of a Duke Is an Assassin",
-    "chapter": "الفصل 150",
-    "type": "مانهوا",
-    "cover_url": "https://storage.azorafly.com/2024/02/New.webp"
   }
 ]

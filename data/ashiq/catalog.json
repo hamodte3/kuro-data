@@ -1267,20 +1267,6 @@
     "total_chapters": 50
   },
   {
-    "id": "island-rock",
-    "title": "Island rock",
-    "url": "https://3asq.online/manga/island-rock",
-    "cover_url": "https://3asq.online/wp-content/themes/madara/images/dflazy.jpg",
-    "type": "مانغا",
-    "rating": "3.6",
-    "total_chapters": 21,
-    "genres": [
-      "شريحة من الحياة",
-      "شونين"
-    ],
-    "status": "مستمر"
-  },
-  {
     "id": "shangri-la-frontier",
     "title": "Shangri-La Frontier",
     "url": "https://3asq.online/manga/shangri-la-frontier",
@@ -1299,6 +1285,20 @@
       "كوميديا",
       "مغامرة"
     ]
+  },
+  {
+    "id": "island-rock",
+    "title": "Island rock",
+    "url": "https://3asq.online/manga/island-rock",
+    "cover_url": "https://3asq.online/wp-content/themes/madara/images/dflazy.jpg",
+    "type": "مانغا",
+    "rating": "3.6",
+    "total_chapters": 22,
+    "genres": [
+      "شريحة من الحياة",
+      "شونين"
+    ],
+    "status": "مستمر"
   },
   {
     "id": "my-home-hero",
