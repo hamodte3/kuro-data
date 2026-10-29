@@ -1,7 +1,8 @@
 import json
 import os
+import subprocess
 import time
-import requests
+from curl_cffi import requests
 
 BASE_API = "https://despair-world.com/supabase-api/rest/v1"
 API_KEY = (
@@ -14,8 +15,8 @@ DATA_DIR = os.path.join("data", "despair")
 CATALOG_FILE = os.path.join(DATA_DIR, "catalog.json")
 GLOBAL_NEW_FILE = os.path.join("data", "new.json")
 
-DETAILS_SYNC_LIMIT = 20    # تحديث تفاصيل وفصول أحدث 20 عملاً
-FETCH_LIMIT = 60           # عدد الأعمال المسحوبة للمزامنة الدورية (يعادل 5 صفحات قديمة)
+DETAILS_SYNC_LIMIT = 1000    # تحديث تفاصيل وفصول أحدث 20 عملاً
+FETCH_LIMIT = 1000           # عدد الأعمال المسحوبة للمزامنة الدورية
 
 os.makedirs(DATA_DIR, exist_ok=True)
 os.makedirs("data", exist_ok=True)
@@ -30,9 +31,8 @@ HEADERS = {
 }
 
 def get_session():
-    s = requests.Session()
-    s.headers.update(HEADERS)
-    return s
+    # استخدام محاكاة بصمة كروم لتفادي حظر كلاودفلير
+    return requests.Session(impersonate="chrome120", headers=HEADERS)
 
 def format_type(raw_type: str) -> str:
     if not raw_type:
@@ -89,7 +89,6 @@ def update_global_new_releases(new_releases: list):
     print(f"🔔 تم تسجيل {len(new_releases)} تحديث جديد لديسبير في {GLOBAL_NEW_FILE}")
 
 def fetch_work_chapters(session, work_id: str) -> dict:
-    """جلب فصول العمل مباشرة مع روابط صفحات WebP"""
     url = (
         f"{BASE_API}/chapters"
         f"?work_id=eq.{work_id}"
@@ -104,8 +103,6 @@ def fetch_work_chapters(session, work_id: str) -> dict:
     for ch in res.json():
         num = ch.get("chapter_number", 0)
         clean_num = str(int(num)) if float(num).is_integer() else str(num)
-        
-        # نستخدم معرف الفصل كـ Key ونحفظ تفاصيله وصفحاته
         chapters_map[ch["id"]] = {
             "name": clean_num,
             "title": ch.get("title") or f"الفصل {clean_num}",
@@ -113,13 +110,31 @@ def fetch_work_chapters(session, work_id: str) -> dict:
         }
     return chapters_map
 
+def git_commit_and_push():
+    """فحص مجلد data ورفع أي تغييرات تلقائياً إلى GitHub"""
+    try:
+        status = subprocess.run(["git", "status", "--porcelain", "data/"], capture_output=True, text=True, check=True)
+        if not status.stdout.strip():
+            print("📁 لا توجد تغييرات جديدة لرفعها إلى المستودع.")
+            return
+
+        print("\n🚀 جاري رفع التحديثات الجديدة إلى المستودع (Git Push)...")
+        subprocess.run(["git", "add", "data/"], check=True)
+        subprocess.run(["git", "commit", "-m", "Auto update: despair sync [skip ci]"], check=True)
+        subprocess.run(["git", "pull", "--rebase"], check=True)
+        subprocess.run(["git", "push"], check=True)
+        print("✅ تم رفع التحديثات إلى GitHub بنجاح!")
+    except subprocess.CalledProcessError as e:
+        print(f"❌ تعذر الرفع عبر Git: {e}")
+    except Exception as e:
+        print(f"❌ خطأ غير متوقع أثناء الرفع: {e}")
+
 def sync_despair_fast():
     session = get_session()
-    print("⚡ بدء المزامنة السحابية فائقة السرعة لديسبير عبر API مباشر...")
+    print("⚡ بدء المزامنة السحابية فائقة السرعة لديسبير...")
 
     catalog_dict = load_existing_catalog()
     
-    # 1. جلب أحدث الأعمال مباشرة من Supabase بطلب JSON واحد
     url = (
         f"{BASE_API}/manga_works"
         f"?select=id,title_ar,title_en,slug,cover_url,type,status,genres,synopsis,chapters_count,rating_avg,updated_at"
@@ -146,7 +161,6 @@ def sync_despair_fast():
         genres = item.get("genres", [])
         chapters_count = item.get("chapters_count", 0)
 
-        # الحفاظ على الهيكل المتوافق مع التطبيق
         if work_id in catalog_dict:
             catalog_dict[work_id]["title"] = title
             catalog_dict[work_id]["cover_url"] = cover_url
@@ -167,7 +181,6 @@ def sync_despair_fast():
 
         ordered_recent_ids.append(work_id)
 
-    # 2. تحديث فصول وتفاصيل أحدث 20 عملاً وكشف التحديثات للإشعارات
     targets_ids = ordered_recent_ids[:DETAILS_SYNC_LIMIT]
     new_releases = []
 
@@ -204,7 +217,6 @@ def sync_despair_fast():
             catalog_dict[work_id]["total_chapters"] = current_chaps
             print(f"✓ [{index}/{len(targets_ids)}] تم تحديث ديسبير: {work_id} ({current_chaps} فصل)")
 
-            # فحص نزول فصول جديدة لتوليد التنبيه
             if current_chaps > prev_chaps and current_chaps > 0:
                 new_releases.append({
                     "id": work_id,
@@ -218,7 +230,6 @@ def sync_despair_fast():
         except Exception as e:
             print(f"خطأ أثناء تحديث فصول {work_id}: {e}")
 
-    # 3. بناء وحفظ الفهرس المدمج النهائي (Catalog)
     seen_ids = set(ordered_recent_ids)
     final_merged_catalog = [catalog_dict[i] for i in ordered_recent_ids if i in catalog_dict] + [
         item for i, item in catalog_dict.items() if i not in seen_ids
@@ -227,11 +238,13 @@ def sync_despair_fast():
     with open(CATALOG_FILE, "w", encoding="utf-8") as f:
         json.dump(final_merged_catalog, f, ensure_ascii=False, indent=2)
 
-    # 4. حفظ إشعارات التحديثات
     if new_releases:
         update_global_new_releases(new_releases)
 
-    print(f"\n⚡ اكتملت المزامنة السحابية بنجاح! إجمالي الأعمال في الكاتلوج: {len(final_merged_catalog)}")
+    print(f"\n⚡ اكتملت المزامنة المحلية! إجمالي الأعمال: {len(final_merged_catalog)}")
+
+    # الرفع التلقائي إلى GitHub فور انتهاء التحديثات
+    git_commit_and_push()
 
 if __name__ == "__main__":
     sync_despair_fast()
