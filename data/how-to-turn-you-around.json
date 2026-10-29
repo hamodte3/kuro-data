@@ -4,17 +4,23 @@
   "cover_url": "https://storage.azorafly.com/upload/series/featured/02408b52-85d5-445d-9e5c-f7dbcd583bf8/f2d85348-9e25-4829-80ab-79d8234a4fda.png",
   "description": "توقف عن الاهتمام بي! يو أون سول هو أبرع شخص في الاختباء، وكل ما يحلم به هو حياة مدرسية هادئة في المرحلة الثانوية. لكن كل شيء ينهار بسبب را جي سو، الفتاة الشهيرة!",
   "type": "مانهوا",
-  "status": "مستمر",
-  "last_update": "2026-08-31",
+  "status": "مكتمل",
+  "last_update": "2026-10-29",
   "rating": "10.0",
   "genres": [
-    "الحياة المدرسية",
     "رومانسى",
+    "الحياة المدرسية",
     "كوميدي",
     "شوجو"
   ],
   "is_novel": false,
   "chapters": {
+    "https://azorafly.com/series/how-to-turn-you-around/chapter-59.5": {
+      "name": "59.5"
+    },
+    "https://azorafly.com/series/how-to-turn-you-around/chapter-59": {
+      "name": "59"
+    },
     "https://azorafly.com/series/how-to-turn-you-around/chapter-58": {
       "name": "58"
     },
