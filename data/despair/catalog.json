@@ -1987,7 +1987,7 @@
     "type": "مانغا",
     "status": "مستمر",
     "rating": "7.5",
-    "total_chapters": 225,
+    "total_chapters": 227,
     "genres": [
       "أكشن",
       "إثارة",
@@ -2000,10 +2000,10 @@
     ]
   },
   {
-    "id": "hope-youre-happy-lemon",
-    "title": "Hope You’re Happy, Lemon",
-    "url": "https://despair-manga.net/manga/hope-youre-happy-lemon/",
-    "cover_url": "https://i3.wp.com/despair-world.com/wp-content/uploads/2026/07/hope-youre-happy-lemon.png",
+    "id": "kaoru-hana-wa-rin-to-saku",
+    "title": "kaoru hana wa rin to saku",
+    "url": "https://despair-manga.net/manga/kaoru-hana-wa-rin-to-saku/",
+    "cover_url": "https://i2.wp.com/despair-world.com/wp-content/uploads/2025/01/Untitled1133_20260827124643.png",
     "type": "مانغا",
     "status": "مستمر",
     "rating": "7.5",
@@ -2015,7 +2015,8 @@
       "شونين",
       "كوميديا",
       "مدرسي"
-    ]
+    ],
+    "rating": "7.5"
   },
   {
     "id": "war-of-adults",

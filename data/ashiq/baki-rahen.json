@@ -1,7 +1,7 @@
 {
   "id": "baki-rahen",
   "title": "Baki Rahen",
-  "cover_url": "https://3asq.online/wp-content/uploads/2025/07/Baki-Rahen.jpg",
+  "cover_url": "https://3asq.online/wp-content/themes/madara/images/dflazy.jpg",
   "description": "تكملة المانجا الاسطورية لسلسلة باكي هانما بالجزء السادس",
   "type": "مانغا",
   "status": "مستمر",
@@ -16,6 +16,9 @@
   ],
   "is_novel": false,
   "chapters": {
+    "https://3asq.online/manga/baki-rahen/70": {
+      "name": "70"
+    },
     "https://3asq.online/manga/baki-rahen/69": {
       "name": "69"
     },
@@ -162,69 +165,6 @@
     },
     "https://3asq.online/manga/baki-rahen/22": {
       "name": "22"
-    },
-    "https://3asq.online/manga/baki-rahen/21": {
-      "name": "21"
-    },
-    "https://3asq.online/manga/baki-rahen/20": {
-      "name": "20"
-    },
-    "https://3asq.online/manga/baki-rahen/19": {
-      "name": "19"
-    },
-    "https://3asq.online/manga/baki-rahen/18": {
-      "name": "18"
-    },
-    "https://3asq.online/manga/baki-rahen/17": {
-      "name": "17"
-    },
-    "https://3asq.online/manga/baki-rahen/16": {
-      "name": "16"
-    },
-    "https://3asq.online/manga/baki-rahen/15": {
-      "name": "15"
-    },
-    "https://3asq.online/manga/baki-rahen/14": {
-      "name": "14"
-    },
-    "https://3asq.online/manga/baki-rahen/13": {
-      "name": "13"
-    },
-    "https://3asq.online/manga/baki-rahen/12": {
-      "name": "12"
-    },
-    "https://3asq.online/manga/baki-rahen/11": {
-      "name": "11"
-    },
-    "https://3asq.online/manga/baki-rahen/10": {
-      "name": "10"
-    },
-    "https://3asq.online/manga/baki-rahen/9": {
-      "name": "9"
-    },
-    "https://3asq.online/manga/baki-rahen/8": {
-      "name": "8"
-    },
-    "https://3asq.online/manga/baki-rahen/7": {
-      "name": "7"
-    },
-    "https://3asq.online/manga/baki-rahen/6": {
-      "name": "6"
-    },
-    "https://3asq.online/manga/baki-rahen/5": {
-      "name": "5"
-    },
-    "https://3asq.online/manga/baki-rahen/4": {
-      "name": "4"
-    },
-    "https://3asq.online/manga/baki-rahen/3": {
-      "name": "3"
-    },
-    "https://3asq.online/manga/baki-rahen/2": {
-      "name": "2"
-    },
-    "https://3asq.online/manga/baki-rahen/1": {
-      "name": "1"
     }
   }
 }

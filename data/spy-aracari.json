@@ -1,0 +1,57 @@
+{
+  "id": "spy-aracari",
+  "title": "Spy Aracari",
+  "cover_url": "https://storage.azorafly.com/2025/11/IMG_20251119_140240_435.webp",
+  "description": "منظمة سرية تُدعى \"كروكودايل\"، وهي وكالة استخبارات خاصة تابعة لجهاز المخابرات الوطني (NIS).\n\nيعمل هناك جاسوس مستقل يُدعى \"طائر التمساح\".\n\nحارب جهاز المخابرات الوطني الذي يسعى لقتل والدك وابتلاع المنظمة!",
+  "type": "مانهوا",
+  "status": "مستمر",
+  "last_update": "2026-05-07",
+  "rating": "10.0",
+  "genres": [
+    "أكشن",
+    "دراما",
+    "غموض"
+  ],
+  "is_novel": false,
+  "chapters": {
+    "https://azorafly.com/series/spy-aracari/chapter-13": {
+      "name": "13"
+    },
+    "https://azorafly.com/series/spy-aracari/chapter-12": {
+      "name": "12"
+    },
+    "https://azorafly.com/series/spy-aracari/chapter-11": {
+      "name": "11"
+    },
+    "https://azorafly.com/series/spy-aracari/chapter-10": {
+      "name": "10"
+    },
+    "https://azorafly.com/series/spy-aracari/chapter-9": {
+      "name": "9"
+    },
+    "https://azorafly.com/series/spy-aracari/chapter-8": {
+      "name": "8"
+    },
+    "https://azorafly.com/series/spy-aracari/chapter-7": {
+      "name": "7"
+    },
+    "https://azorafly.com/series/spy-aracari/chapter-6": {
+      "name": "6"
+    },
+    "https://azorafly.com/series/spy-aracari/chapter-5": {
+      "name": "5"
+    },
+    "https://azorafly.com/series/spy-aracari/chapter-4": {
+      "name": "4"
+    },
+    "https://azorafly.com/series/spy-aracari/chapter-3": {
+      "name": "3"
+    },
+    "https://azorafly.com/series/spy-aracari/chapter-2": {
+      "name": "2"
+    },
+    "https://azorafly.com/series/spy-aracari/chapter-1": {
+      "name": "1"
+    }
+  }
+}

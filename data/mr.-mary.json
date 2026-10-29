@@ -1,0 +1,55 @@
+{
+  "id": "mr.-mary",
+  "title": "Mr. Mary",
+  "cover_url": "https://storage.azorafly.com/upload/series/featured/a5vVlSc5huft2AzUyK1VxgKh1ckCWLbZ/0025b59e-cf86-49d4-9e18-a9b1823ea805.jpg",
+  "description": "[مرحبًا، أنا ماري. سأصعد إلى الطابق الخامس الآن.] في يومٍ ما، تلقيتُ رسالةً مع تقييد هوية المرسل، كما هو الحال في قصة \"شبحُ ماري\". اعتقدتُ أنها كانت مزحة لئيمة من أحد الأصدقاء، لذلك قمتُ بالرد.[بالتوفيق، لا تنسى إحضار ميلونا.][مرحبًا، أنا ماري. سأنزلُ إلى الطابق الأول الآن.] … هل تعتقدُ أن هذا ظريفٌ نوعًا ما؟ عندما يهمسُ شخصٌ ما بقصة شبح جديدة منسية، قد تتحولُ إلى قصة حقيقية وتجدُ طريقها إليك.(تظهرُ العديد من الأشباح. بما في ذلك شبح القناع الأحمر، وشبح الجدة هونغ كونغ)",
+  "type": "رواية",
+  "status": "مستمر",
+  "last_update": "2026-09-20",
+  "rating": "10.0",
+  "genres": [
+    "رومانسى",
+    "خارق للطبيعة",
+    "عصري",
+    "أشباح",
+    "إثارة",
+    "دراما",
+    "خيال",
+    "رعب",
+    "غموض",
+    "كوميدي"
+  ],
+  "is_novel": false,
+  "chapters": {
+    "https://azorafly.com/series/mr.-mary/chapter-10": {
+      "name": "10"
+    },
+    "https://azorafly.com/series/mr.-mary/chapter-9": {
+      "name": "9"
+    },
+    "https://azorafly.com/series/mr.-mary/chapter-8": {
+      "name": "8"
+    },
+    "https://azorafly.com/series/mr.-mary/chapter-7": {
+      "name": "7"
+    },
+    "https://azorafly.com/series/mr.-mary/chapter-6": {
+      "name": "6"
+    },
+    "https://azorafly.com/series/mr.-mary/chapter-5": {
+      "name": "5"
+    },
+    "https://azorafly.com/series/mr.-mary/chapter-4": {
+      "name": "4"
+    },
+    "https://azorafly.com/series/mr.-mary/chapter-3": {
+      "name": "3"
+    },
+    "https://azorafly.com/series/mr.-mary/chapter-2": {
+      "name": "2"
+    },
+    "https://azorafly.com/series/mr.-mary/chapter-1": {
+      "name": "1"
+    }
+  }
+}

@@ -1,12 +1,12 @@
 {
   "id": "wistoria-wand-and-sword",
   "title": "WISTORIA: WAND AND SWORD",
-  "cover_url": "https://3asq.online/wp-content/uploads/2026/06/AddText_06-16-01.19.28-scaled.jpg",
+  "cover_url": "https://3asq.online/wp-content/themes/madara/images/dflazy.jpg",
   "description": "سلسلة الخيال الجديدة المليئة بالمغامرات والمغامرات السحرية من تأليف مؤلف كتاب “هل من الخطأ محاولة التقاط الفتيات في الزنزانة؟”. في محاولة للوفاء بوعد قطعه لصديق طفولته، يلتحق ويل سيرفورت بأكاديمية ريجاردن السحرية بهدف الوصول إلى قمة العالم السحري. ولكن هناك مشكلة واحدة فقط: فهو لا يستطيع استخدام السحر! فهل ستكون مهاراته في استخدام السيف هي المفتاح لإطلاق العنان لإمكاناته الحقيقية؟",
   "type": "مانغا",
   "status": "مستمر",
   "rating": "4.8",
-  "favorites": "13",
+  "favorites": "17",
   "genres": [
     "أكشن",
     "خيال",
@@ -17,6 +17,9 @@
   ],
   "is_novel": false,
   "chapters": {
+    "https://3asq.online/manga/wistoria-wand-and-sword/69": {
+      "name": "69"
+    },
     "https://3asq.online/manga/wistoria-wand-and-sword/68": {
       "name": "68"
     },

@@ -1,0 +1,37 @@
+{
+  "id": "my-boyfriends-wedding",
+  "title": "My Boyfriend’s Wedding",
+  "cover_url": "https://storage.azorafly.com/upload/series/featured/02408b52-85d5-445d-9e5c-f7dbcd583bf8/1090be5b-3b4d-4229-8294-03fd80984b12.webp",
+  "description": "في اليوم الذي كان يُفترض أن يكون حفل زفاف حبيبها، ظهر أمامها ذلك الرجل الذي لا تكفّ الشائعات عن ملاحقته... لي جيهي؛ رجل تحيط به الفضائح، وتطارده نظرات الريبة، وكأن الاقتراب منه خطيئة لا تُغتفر. رجلٌ لا يبدو، في نظر الجميع، سوى شخصٍ يجدر بها الابتعاد عنه. لكن، ولسببٍ لا تفهمه، تجد نفسها تتشابك معه مرةً تلو الأخرى، وكأن الأقدار تُصرّ على جمعهما رغم كل ما يدعو إلى الفراق. فهل كان لقاؤهما مجرّد مصادفة عابرة، أم أن خلف تلك الشائعات حكايةً لم تُروَ بعد؟",
+  "type": "مانهوا",
+  "status": "مستمر",
+  "last_update": "2026-10-24",
+  "rating": "9.7",
+  "genres": [
+    "الحياة اليومية",
+    "رومانسى",
+    "غموض",
+    "دراما"
+  ],
+  "is_novel": false,
+  "chapters": {
+    "https://azorafly.com/series/my-boyfriends-wedding/chapter-6": {
+      "name": "6"
+    },
+    "https://azorafly.com/series/my-boyfriends-wedding/chapter-5": {
+      "name": "5"
+    },
+    "https://azorafly.com/series/my-boyfriends-wedding/chapter-4": {
+      "name": "4"
+    },
+    "https://azorafly.com/series/my-boyfriends-wedding/chapter-3": {
+      "name": "3"
+    },
+    "https://azorafly.com/series/my-boyfriends-wedding/chapter-2": {
+      "name": "2"
+    },
+    "https://azorafly.com/series/my-boyfriends-wedding/chapter-1": {
+      "name": "1"
+    }
+  }
+}

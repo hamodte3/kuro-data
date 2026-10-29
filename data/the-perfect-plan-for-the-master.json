@@ -1,0 +1,33 @@
+{
+  "id": "the-perfect-plan-for-the-master",
+  "title": "The Perfect Plan for the Master",
+  "cover_url": "https://storage.azorafly.com/public/upload/2026/02/02/9cf2f6b2-2715-4e8a-9360-ba6a732a6857.webp",
+  "description": "لقد قررتُ أن أموت بدلًا عن معلّمي.في القصة الأصلية، كان معلّمي هو الشخصية الثانوية المخلِصة التي ضحّت بنفسها لعلاج البطلة من مرضها القاتل.وبما أنه أنقذ حياتي، فسأُسدّد الدَّيْن بحياتي أنا، لذا أرجوك، يا معلّمي، فقط اذهب وابحث عن سعادتك مع مَن تحب!كانت خطتي مثالية تمامًا.…ذلك، حتى تغيّر معلّمي فجأة.\"هل أصبح ذلك الرجل أهمّ مني الآن؟\"",
+  "type": "رواية",
+  "status": "مستمر",
+  "last_update": "2026-05-07",
+  "rating": "10.0",
+  "genres": [
+    "رومانسي",
+    "خيال",
+    "دراما"
+  ],
+  "is_novel": false,
+  "chapters": {
+    "https://azorafly.com/series/the-perfect-plan-for-the-master/chapter-4": {
+      "name": "4"
+    },
+    "https://azorafly.com/series/the-perfect-plan-for-the-master/chapter-3": {
+      "name": "3"
+    },
+    "https://azorafly.com/series/the-perfect-plan-for-the-master/chapter-2": {
+      "name": "2"
+    },
+    "https://azorafly.com/series/the-perfect-plan-for-the-master/chapter-1": {
+      "name": "1"
+    },
+    "https://azorafly.com/series/the-perfect-plan-for-the-master/chapter-0": {
+      "name": "0"
+    }
+  }
+}

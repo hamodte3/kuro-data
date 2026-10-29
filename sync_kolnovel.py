@@ -2,6 +2,7 @@ import json
 import os
 import re
 import time
+import urllib.parse
 from bs4 import BeautifulSoup
 from curl_cffi import requests
 
@@ -10,8 +11,8 @@ DATA_DIR = os.path.join("data", "kolnovel")
 CATALOG_FILE = os.path.join(DATA_DIR, "catalog.json")
 GLOBAL_NEW_FILE = os.path.join("data", "new.json")
 
-DETAILS_SYNC_LIMIT = 20   # تجهيز أحدث 20 رواية طرأ عليها تحديث
-MAX_DELTA_PAGES = 5       # فحص أول 5 صفحات فقط كل ساعة بدلاً من 1000
+DETAILS_SYNC_LIMIT = 20    # تجهيز أحدث 20 رواية طرأ عليها تحديث
+MAX_DELTA_PAGES = 5        # فحص أول 5 صفحات فقط كل ساعة بدلاً من 1000
 
 os.makedirs(DATA_DIR, exist_ok=True)
 os.makedirs("data", exist_ok=True)
@@ -60,6 +61,45 @@ def format_status(raw_status: str) -> str:
     if any(k in s for k in ["completed", "مكتمل", "مكتملة"]): return "مكتمل"
     if any(k in s for k in ["hiatus", "متوقف"]): return "متوقف مؤقتاً"
     return "مستمر"
+
+def clean_and_rename_old_files():
+    """فحص مجلد الروايات وإعادة تسمية الملفات ذات الأسماء المشفرة أو المشوهة إلى الاسم العربي الصريح"""
+    if not os.path.exists(DATA_DIR):
+        return
+
+    print("🧹 جاري فحص الملفات القديمة وتنظيف الأسماء المشفرة...")
+    renamed_count = 0
+
+    for filename in os.listdir(DATA_DIR):
+        if filename == "catalog.json" or not filename.endswith(".json"):
+            continue
+
+        name_without_ext = filename[:-5]
+        
+        if "%" in name_without_ext or "25" in name_without_ext:
+            try:
+                decoded_name = name_without_ext
+                for _ in range(2):
+                    if "%" in decoded_name:
+                        decoded_name = urllib.parse.unquote(decoded_name)
+                
+                clean_name = clean_title_text(decoded_name)
+                
+                if clean_name and clean_name != name_without_ext:
+                    old_path = os.path.join(DATA_DIR, filename)
+                    new_path = os.path.join(DATA_DIR, f"{clean_name}.json")
+                    
+                    if not os.path.exists(new_path):
+                        os.rename(old_path, new_path)
+                        print(f"جاري تعديل اسم الملف: {filename} -> {clean_name}.json")
+                        renamed_count += 1
+            except Exception as e:
+                print(f"فشل تعديل اسم الملف {filename}: {e}")
+
+    if renamed_count > 0:
+        print(f"✨ تم تصحيح وإعادة تسمية {renamed_count} ملف بنجاح!\n")
+    else:
+        print("✔️ جميع أسماء الملفات نظيفة ولا تحتاج لتعديل.\n")
 
 def update_global_new_releases(new_releases: list):
     """دمج الإشعارات الجديدة في data/new.json دون مسح تحديثات المصادر الأخرى"""
@@ -167,7 +207,6 @@ def scrape_novel_details_kolnovel(session, novel_url: str):
     desc_el = soup.select_one(".sersys.entry-content, .sersysn .sersys")
     description = desc_el.text.strip() if desc_el else "لا يوجد وصف."
 
-    # استخراج التصنيفات الحقيقية
     genres = [a.text.strip().lstrip("#").strip() for a in soup.select(".sertogenre a") if a.text.strip()]
 
     rate_el = soup.select_one("#kol-series-rating .custom-rating-value, .numscore")
@@ -182,7 +221,7 @@ def scrape_novel_details_kolnovel(session, novel_url: str):
     last_update = update_el.text.strip() if update_el else ""
 
     chapters_map = extract_chapters_kolnovel(soup)
-    slug = clean_url.rstrip("/").split("/")[-1]
+    slug = title
 
     return {
         "id": slug,
@@ -211,6 +250,8 @@ def load_existing_catalog() -> dict:
         return {}
 
 def sync_kolnovel_fast():
+    clean_and_rename_old_files()
+
     session = get_session()
     catalog_dict = load_existing_catalog()
     recent_targets = []
@@ -233,13 +274,14 @@ def sync_kolnovel_fast():
                     continue
 
                 novel_url = normalize_url(link_node.get("href", ""))
-                slug = novel_url.rstrip("/").split("/")[-1]
 
                 title_el = card.select_one("h2 a, h2, .ntitle")
                 raw_title = title_el.text.strip() if title_el else link_node.get("title", "").strip()
                 title = clean_title_text(raw_title)
                 if not title:
                     continue
+
+                slug = title
 
                 img_node = card.select_one("img.ts-post-image, img")
                 raw_cover = ""
@@ -253,7 +295,6 @@ def sync_kolnovel_fast():
                 raw_score = re.sub(r"[^0-9.]", "", score_el.text).strip() if score_el else ""
                 rating = format_rating(raw_score)
 
-                # تحديث ورفع الرواية إلى رأس القائمة مع الحفاظ على الفصول والتصنيفات
                 if slug in catalog_dict:
                     catalog_dict[slug]["title"] = title
                     catalog_dict[slug]["url"] = novel_url
@@ -274,7 +315,7 @@ def sync_kolnovel_fast():
                             "is_novel": True,
                             "rating": rating,
                             "total_chapters": 0,
-                            "genres": []  # تهيئة حقل التصنيفات دائماً
+                            "genres": []
                         },
                         **catalog_dict
                     }
@@ -287,7 +328,6 @@ def sync_kolnovel_fast():
             print(f"خطأ أثناء فحص صفحة {page}: {e}")
             break
 
-    # تحديث تفاصيل الفصول والتصنيفات للروايات الحديثة فقط
     sync_targets = recent_targets[:DETAILS_SYNC_LIMIT]
     new_releases = []
 
@@ -306,13 +346,10 @@ def sync_kolnovel_fast():
             item["status"] = details["status"]
             item["rating"] = details["rating"]
             item["total_chapters"] = current_chaps
-            
-            # حفظ التصنيفات الحقيقية في الكاتلوج
             item["genres"] = details.get("genres", [])
 
-            print(f"✓ [{index}/{len(sync_targets)}] تم تحديث الرواية: {slug} ({current_chaps} فصل) - تصنيفات: {item['genres']}")
+            print(f"✓ [{index}/{len(sync_targets)}] تم تحديث الرواية: {slug} ({current_chaps} فصل)")
 
-            # رصد التحديثات الجديدة لملف new.json
             if current_chaps > prev_chaps and current_chaps > 0:
                 new_releases.append({
                     "id": slug,
@@ -326,12 +363,10 @@ def sync_kolnovel_fast():
         except Exception as e:
             print(f"خطأ أثناء معالجة تفاصيل {slug}: {e}")
 
-    # حفظ الفهرس التراكمي الشامل بالتصنيفات
     full_catalog = list(catalog_dict.values())
     with open(CATALOG_FILE, "w", encoding="utf-8") as f:
         json.dump(full_catalog, f, ensure_ascii=False, indent=2)
 
-    # تحديث الإشعارات المشتركة
     if new_releases:
         update_global_new_releases(new_releases)
 

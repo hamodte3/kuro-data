@@ -10,16 +10,17 @@ DATA_DIR = "data"
 CATALOG_FILE = os.path.join(DATA_DIR, "catalog.json")
 GLOBAL_NEW_FILE = os.path.join(DATA_DIR, "new.json")
 
-DETAILS_SYNC_LIMIT = 20  # سحب تفاصيل وفصول أحدث 20 عملاً تم تحديثها
-MAX_DELTA_PAGES = 5      # فحص أول 5 صفحات فقط كل ساعة
+DETAILS_SYNC_LIMIT = 20  # تحديث تفاصيل وفصول أحدث 20 عملاً
+MAX_DELTA_PAGES = 5      # فحص أول 5 صفحات فقط من الكاتلوج
 
 os.makedirs(DATA_DIR, exist_ok=True)
 
 HEADERS = {
     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36",
-    "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8",
+    "Accept": "application/json, text/html, */*",
     "Accept-Language": "ar-SA,ar;q=0.9,en-US;q=0.8,en;q=0.7",
     "Referer": f"{BASE_URL}/",
+    "Origin": BASE_URL,
     "Connection": "keep-alive"
 }
 
@@ -37,8 +38,16 @@ def normalize_url(url: str) -> str:
         .strip()
     )
 
+def format_chapter_number(raw_num) -> str:
+    """تنسيق رقم الفصل مع الحفاظ التام على الأرقام العشرية (مثل 89.5 و 3.5)"""
+    try:
+        val = float(raw_num)
+        return str(int(val)) if val.is_integer() else str(val)
+    except (ValueError, TypeError):
+        return str(raw_num).strip()
+
 def format_type(raw_type: str) -> str:
-    t = raw_type.strip().lower()
+    t = (raw_type or "").strip().lower()
     if any(k in t for k in ["novel", "رواية"]): return "رواية"
     if any(k in t for k in ["manhwa", "مانهوا"]): return "مانهوا"
     if any(k in t for k in ["manhua", "مانها"]): return "مانها"
@@ -48,34 +57,22 @@ def format_type(raw_type: str) -> str:
     return raw_type if raw_type else "مانهوا"
 
 def format_status(raw_status: str) -> str:
-    s = raw_status.strip().lower()
+    s = (raw_status or "").strip().lower()
     if any(k in s for k in ["ongoing", "مستمر", "مستمرة"]): return "مستمر"
     if any(k in s for k in ["completed", "مكتمل", "مكتملة"]): return "مكتمل"
     if any(k in s for k in ["hiatus", "متوقف", "متوقفة"]): return "متوقف مؤقتاً"
     return "مستمر"
 
-def format_rating(raw_rating: str) -> str:
-    clean = raw_rating.replace("★", "").replace("–", "").replace("-", "").strip()
-    try:
-        val = float(clean)
-        return f"{val:.1f}" if val > 0 else ""
-    except ValueError:
-        return ""
-
-def clean_html_text(text: str) -> str:
-    if not text: return ""
-    soup = BeautifulSoup(text, "html.parser")
-    for tag in soup.select("script, style, iframe, .ads, .watermark, .c-tabs-item, .post-title, .manga-action, .list-chapters, .chapters-list, ul, li, h1, h2, h3, h4, .post-status, .manga-info"):
-        tag.decompose()
-    return soup.get_text().strip()
-
 def clean_description(raw_desc: str, title: str) -> str:
-    cleaned = clean_html_text(raw_desc)
-    lines = [l.strip() for l in cleaned.splitlines()]
+    if not raw_desc:
+        return "لا يوجد وصف."
+    soup = BeautifulSoup(raw_desc, "html.parser")
+    text = soup.get_text().strip()
+    lines = [l.strip() for l in text.splitlines()]
     clean_lines = [
         l for l in lines 
         if l and l.lower() != title.lower() 
-        and not any(bad in l.lower() for bad in ["تحديث:", "اجعل الكل مقروء", "أوضع علامة", "الفصول"])
+        and not any(bad in l.lower() for bad in ["تحديث:", "اجعل الكل مقروء", "الفصول"])
     ]
     return "\n\n".join(clean_lines).strip() if clean_lines else "لا يوجد وصف."
 
@@ -87,13 +84,12 @@ def load_existing_catalog() -> dict:
             data = json.load(f)
             return {item["id"]: item for item in data if "id" in item}
     except Exception as e:
-        print(f"خطأ أثناء قراءة الكاتلوج القديم: {e}")
+        print(f"خطأ قراءة الكاتلوج القديم: {e}")
         return {}
 
 def update_global_new_releases(new_releases: list):
     if not new_releases:
         return
-
     existing = []
     if os.path.exists(GLOBAL_NEW_FILE):
         try:
@@ -113,97 +109,91 @@ def update_global_new_releases(new_releases: list):
 
     with open(GLOBAL_NEW_FILE, "w", encoding="utf-8") as f:
         json.dump(deduped[:15], f, ensure_ascii=False, indent=2)
-    print(f"🔔 تم تسجيل {len(new_releases)} تحديث جديد لأزورا في {GLOBAL_NEW_FILE}")
+    print(f"🔔 تم تسجيل {len(new_releases)} تحديث جديد في {GLOBAL_NEW_FILE}")
 
+# 🎯 جلب التفاصيل والفصول بالـ Pure API مع دعم الترقيم لما فوق الـ 200 فصل
 def scrape_manga_details(session, manga_url: str):
     clean_url = normalize_url(manga_url).rstrip("/")
-    cache_url = f"{clean_url}?_t={int(time.time())}"
-    custom_headers = {
-        **HEADERS,
-        "Cache-Control": "no-cache, no-store, must-revalidate",
-        "Pragma": "no-cache"
-    }
+    series_slug = clean_url.split("/")[-1]
 
-    res = session.get(cache_url, headers=custom_headers, timeout=25)
-    html = res.text
-    soup = BeautifulSoup(html, "html.parser")
+    # 1. طلب تفاصيل العمل عبر postSlug
+    post_api_url = f"https://api.azorafly.com/api/post?postSlug={series_slug}"
+    res = session.get(post_api_url, timeout=20)
+    
+    if res.status_code != 200:
+        raise Exception(f"فشل جلب تفاصيل {series_slug} من الـ API: كود {res.status_code}")
 
-    title_el = soup.select_one("h1[itemprop=name]") or soup.select_one("h1")
-    title = title_el.text.strip() if title_el else "بدون عنوان"
+    data = res.json()
+    post = data.get("post", {})
+    post_id = post.get("id")
 
-    cover_el = soup.select_one("img[itemprop=image]")
-    cover_url = cover_el.get("src", "").strip() if cover_el else ""
-    if not cover_url:
-        meta_img = soup.select_one("meta[property='og:image']")
-        cover_url = meta_img.get("content", "").strip() if meta_img else ""
-    if cover_url and not cover_url.startswith("http"): 
+    title = post.get("postTitle") or series_slug
+    cover_url = post.get("featuredImage") or ""
+    if cover_url and not cover_url.startswith("http"):
         cover_url = f"{BASE_URL}{cover_url}"
     cover_url = cover_url.replace("http://", "https://")
 
-    status_el = soup.select_one('.post-content_item:-soup-contains("الحالة"), .post-status')
-    status = format_status(status_el.text if status_el else "")
+    description = clean_description(post.get("postContent") or "", title)
+    genres = [g.get("name").strip() for g in post.get("genres", []) if g.get("name")]
+    manga_type = format_type(post.get("seriesType") or "مانهوا")
+    status = format_status(post.get("seriesStatus") or "مستمر")
 
-    time_el = soup.find(lambda tag: tag.name in ["span", "div", "p"] and "منذ" in tag.text)
-    last_update = time_el.text.strip() if time_el else ""
+    avg_rate = post.get("averageRating") or data.get("averageRating")
+    rating = f"{float(avg_rate):.1f}" if avg_rate and float(avg_rate) > 0 else ""
+    last_update = post.get("updatedAt", "").split("T")[0]
 
-    novel_badge = any("رواية" in s.text.strip() for s in soup.select("span.blue, span.bg-blue"))
-    is_novel = novel_badge or ("رواية" in title) or ("/novel/" in clean_url)
-    
-    type_el = soup.select_one('div:has(h1:-soup-contains("النوع")) div.inline span')
-    manga_type = format_type("رواية" if is_novel else (type_el.text.strip() if type_el else "مانهوا"))
-
-    # استخراج التصنيفات الحقيقية
-    genres = [a.text.strip() for a in soup.select(".genres-content a, .manga-tags a") if a.text.strip()]
-    desc_el = soup.select_one(".review-content p, div.summary__content p, div[itemprop=description] p")
-    final_desc = clean_description(str(desc_el) if desc_el else "", title)
-
-    rate_el = soup.select_one(".score.font-bold, .post-total-rating .score")
-    rating = format_rating(rate_el.text if rate_el else "")
-
-    series_slug = clean_url.split("/")[-1]
+    # 2. طلب مصفوفة الفصول كاملة بنظام الدفعات (skip) حتى لو تجاوزت 1000 فصل
     chapters_map = {}
+    if post_id:
+        skip = 0
+        batch_size = 200
+        while True:
+            ch_api_url = f"https://api.azorafly.com/api/chapters?postId={post_id}&take={batch_size}&skip={skip}"
+            ch_res = session.get(ch_api_url, timeout=20)
+            
+            if ch_res.status_code == 200:
+                chapters_list = ch_res.json().get("post", {}).get("chapters", [])
+                if not chapters_list:
+                    break
+                
+                for ch in chapters_list:
+                    slug = ch.get("slug")
+                    num_val = ch.get("number")
+                    if slug and num_val is not None:
+                        clean_name = format_chapter_number(num_val)
+                        full_url = f"{BASE_URL}/series/{series_slug}/{slug}"
+                        chapters_map[full_url] = {"name": clean_name}
 
-    for a in soup.select("a[href*='/chapter-'], a[href*='/chapter_']"):
-        href = a.get("href", "").strip()
-        if href:
-            full_url = normalize_url(href if href.startswith("http") else f"{BASE_URL}{href}")
-            slug = full_url.rstrip("/").split("/")[-1].split("?")[0]
-            raw_num = slug.lower().replace("chapter-", "").replace("chapter_", "").replace("_", ".").replace("-", ".")
-            num_match = re.search(r"\d+(\.\d+)?", raw_num)
-            clean_name = num_match.group(0) if num_match else raw_num
-            chapters_map[full_url] = {"name": clean_name}
-
-    for match in re.finditer(r"chapter-[0-9]+(?:[-._][0-9a-zA-Z]+)*", html, re.IGNORECASE):
-        slug = match.group(0)
-        full_url = f"{BASE_URL}/series/{series_slug}/{slug}"
-        if full_url not in chapters_map:
-            raw_num = slug.lower().replace("chapter-", "").replace("_", ".").replace("-", ".")
-            num_match = re.search(r"\d+(\.\d+)?", raw_num)
-            clean_name = num_match.group(0) if num_match else raw_num
-            chapters_map[full_url] = {"name": clean_name}
+                # إذا كانت الدفعة المسترجعة أقل من الحد الأقصى فهذا يعني وصولنا للنهاية
+                if len(chapters_list) < batch_size:
+                    break
+                skip += batch_size
+                time.sleep(0.05)  # فاصل زمني خفيف جداً بين الدفعات
+            else:
+                break
 
     return {
         "id": series_slug,
         "title": title,
         "cover_url": cover_url,
-        "description": final_desc,
+        "description": description,
         "type": manga_type,
         "status": status,
         "last_update": last_update,
         "rating": rating,
         "genres": genres,
-        "is_novel": is_novel,
+        "is_novel": False,
         "chapters": chapters_map
     }
 
 def sync_fast():
     session = get_session()
-    print(f"بدء المزامنة الذكية لأزورا (فحص أول {MAX_DELTA_PAGES} صفحات)...")
+    print(f"🚀 بدء المزامنة السحابية لأزورا (فحص أول {MAX_DELTA_PAGES} صفحات)...")
     
     catalog_dict = load_existing_catalog()
     recent_targets = []
 
-    # 1. سحب أول 5 صفحات
+    # 1. فحص الصفحات الأولى من الكاتلوج لالتقاط الأعمال المحدثة
     for page in range(1, MAX_DELTA_PAGES + 1):
         url = f"{BASE_URL}/series" if page == 1 else f"{BASE_URL}/series?page={page}"
         try:
@@ -227,13 +217,11 @@ def sync_fast():
                 if cover and not cover.startswith("http"): cover = f"{BASE_URL}{cover}"
                 cover_url = cover.replace("http://", "https://")
 
-                # الدمج الآمن مع الحفاظ على التصنيفات المسجلة مسبقاً
                 if slug in catalog_dict:
                     catalog_dict[slug]["title"] = title
                     catalog_dict[slug]["url"] = manga_url
                     if cover_url:
                         catalog_dict[slug]["cover_url"] = cover_url
-                    # إعادة رفع العمل لرأس القائمة
                     item_ref = catalog_dict.pop(slug)
                     catalog_dict = {slug: item_ref, **catalog_dict}
                 else:
@@ -245,7 +233,7 @@ def sync_fast():
                             "cover_url": cover_url,
                             "type": "مانهوا",
                             "total_chapters": 0,
-                            "genres": []  # تهيئة الحقل
+                            "genres": []
                         },
                         **catalog_dict
                     }
@@ -256,12 +244,12 @@ def sync_fast():
                 new_in_page += 1
 
             if new_in_page == 0: break
-            time.sleep(0.2)
+            time.sleep(0.1)
         except Exception as e:
             print(f"خطأ في صفحة {page}: {e}")
             break
 
-    # 2. جلب تفاصيل وفهرس فصول أحدث 20 عملاً
+    # 2. تحديث تفاصيل وفصول أحدث 20 عملاً بالـ API النظيف
     targets_to_scrape = recent_targets[:DETAILS_SYNC_LIMIT]
     new_releases = []
 
@@ -280,13 +268,10 @@ def sync_fast():
             item["status"] = details["status"]
             item["rating"] = details["rating"]
             item["total_chapters"] = current_chaps
-            
-            # حفظ التصنيفات الحقيقية في الكاتلوج
             item["genres"] = details.get("genres", [])
             
-            print(f"✓ تم تجهيز: {slug} ({current_chaps} فصل) - تصنيفات: {item['genres']}")
+            print(f"✓ تم تجهيز: {slug} ({current_chaps} فصل) - التصنيفات: {item['genres']}")
 
-            # التحقق من وجود فصل جديد لتوليد الإشعار
             if current_chaps > prev_chaps and current_chaps > 0:
                 new_releases.append({
                     "id": slug,
@@ -296,20 +281,20 @@ def sync_fast():
                     "cover_url": item.get("cover_url", "")
                 })
 
-            time.sleep(0.3)
+            time.sleep(0.2)
         except Exception as e:
             print(f"خطأ مع {slug}: {e}")
 
-    # 3. حفظ الفهرس التراكمي الشامل بالتصنيفات
+    # 3. حفظ الكاتلوج المحدث
     final_merged_catalog = list(catalog_dict.values())
     with open(CATALOG_FILE, "w", encoding="utf-8") as f:
         json.dump(final_merged_catalog, f, ensure_ascii=False, indent=2)
 
-    # 4. تحديث إشعارات new.json
+    # 4. تحديث سجل الإشعارات
     if new_releases:
         update_global_new_releases(new_releases)
 
-    print(f"\n⚡ اكتملت المزامنة الخاطفة! الكاتلوج يحتوي {len(final_merged_catalog)} عملاً محفوظاً.")
+    print(f"\n⚡ اكتملت المزامنة بنجاح! الكاتلوج يضم {len(final_merged_catalog)} عملاً.")
 
 if __name__ == "__main__":
     sync_fast()

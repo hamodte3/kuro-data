@@ -1,7 +1,7 @@
 {
   "id": "noisering",
   "title": "Noisering",
-  "cover_url": "https://3asq.online/wp-content/uploads/2026/09/noisering-scaled.jpg",
+  "cover_url": "https://3asq.online/wp-content/themes/madara/images/dflazy.jpg",
   "description": "لا يوجد وصف",
   "type": "مانغا",
   "status": "مستمر",
@@ -22,6 +22,9 @@
   ],
   "is_novel": false,
   "chapters": {
+    "https://3asq.online/manga/noisering/2": {
+      "name": "2"
+    },
     "https://3asq.online/manga/noisering/1": {
       "name": "1"
     }

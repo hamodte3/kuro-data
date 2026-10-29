@@ -1,7 +1,7 @@
 {
   "id": "vanitas-no-carte",
   "title": "Vanitas no Carte",
-  "cover_url": "https://3asq.online/wp-content/uploads/2020/07/2.jpg",
+  "cover_url": "https://3asq.online/wp-content/themes/madara/images/dflazy.jpg",
   "description": "لا يوجد وصف",
   "type": "مانغا",
   "status": "مستمر",
@@ -15,6 +15,9 @@
   ],
   "is_novel": false,
   "chapters": {
+    "https://3asq.online/manga/vanitas-no-carte/%d8%a7%d9%84%d9%85%d8%b0%d9%83%d8%b1%d8%a9-69": {
+      "name": "69"
+    },
     "https://3asq.online/manga/vanitas-no-carte/%d8%a7%d9%84%d9%85%d8%b0%d9%83%d8%b1%d8%a9-68": {
       "name": "68"
     },

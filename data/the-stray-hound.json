@@ -1,0 +1,45 @@
+{
+  "id": "the-stray-hound",
+  "title": "The Stray Hound",
+  "cover_url": "https://storage.azorafly.com/upload/series/featured/oGmL0DQZ16QInTPaeDKwFEK9ryegoy88/087e2aa7-c526-43a5-98c3-322ded35a0f9.webp",
+  "description": "‏عندما يتحول البديل إلى صياد، فمن هو الفريسة الحقيقية؟ ‏‏​في الماضي، استخدموه كـ \"بديل\" ليتحمل المسؤولية بدلاً من أحد أثرياء النفوذ (التشيبول). واليوم، عاد حاملاً نفس الوجه لينتقم. ‏‏ظن \"كيم ميونغ وو\" أن \"لي سونغ آن\" ليس سوى كلب ضال يمكن التخلص منه بعد استخدامه.‏لكن حتى الكلاب الضالة يمكنها أن تعض.‏عندما يرتدي البديل جلد سيده، وعندما يتحول السجين إلى صياد، فإن لعبة \"عض الكلاب لبعضها\" قد بدأت للتو.",
+  "type": "مانهوا",
+  "status": "مستمر",
+  "last_update": "2026-08-24",
+  "rating": "9.7",
+  "genres": [
+    "اكشن",
+    "انتقام",
+    "شونين"
+  ],
+  "is_novel": false,
+  "chapters": {
+    "https://azorafly.com/series/the-stray-hound/chapter-6.1": {
+      "name": "6.1"
+    },
+    "https://azorafly.com/series/the-stray-hound/chapter-6": {
+      "name": "6"
+    },
+    "https://azorafly.com/series/the-stray-hound/chapter-5": {
+      "name": "5"
+    },
+    "https://azorafly.com/series/the-stray-hound/chapter-4": {
+      "name": "4"
+    },
+    "https://azorafly.com/series/the-stray-hound/chapter-3.1": {
+      "name": "3.1"
+    },
+    "https://azorafly.com/series/the-stray-hound/chapter-3": {
+      "name": "3"
+    },
+    "https://azorafly.com/series/the-stray-hound/chapter-2": {
+      "name": "2"
+    },
+    "https://azorafly.com/series/the-stray-hound/chapter-1": {
+      "name": "1"
+    },
+    "https://azorafly.com/series/the-stray-hound/chapter-0": {
+      "name": "0"
+    }
+  }
+}

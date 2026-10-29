@@ -1,0 +1,64 @@
+{
+  "id": "star-coin",
+  "title": "Star coin",
+  "cover_url": "https://storage.azorafly.com/upload/series/featured/02408b52-85d5-445d-9e5c-f7dbcd583bf8/e4b8e296-f8d8-442e-81d7-927feec6edbc.png",
+  "description": "في عصرٍ تُقاس فيه قيمة النجوم بالعملات الرقمية، تلقى نجمة الأيدول \"لي بيول\" حتفها في ظروفٍ غامضة عشية ترسيمها الفني. ولإماطة اللثام عن الحقيقة المظلمة وراء مقتل صديقتها، تندفع \"مون لي سول\" لخوض غمار برنامج البقاء للأيدول \"BUY ME\"؛ لتجد نفسها وجهًا لوجه أمام أسرارٍ صادمة تتوارى خلف بريق المسرح وستائره الأنيقة.",
+  "type": "مانهوا",
+  "status": "مستمر",
+  "last_update": "2026-08-08",
+  "rating": "9.2",
+  "genres": [
+    "موسيقي",
+    "صداقة",
+    "انتقام",
+    "دراما"
+  ],
+  "is_novel": false,
+  "chapters": {
+    "https://azorafly.com/series/star-coin/chapter-15": {
+      "name": "15"
+    },
+    "https://azorafly.com/series/star-coin/chapter-14": {
+      "name": "14"
+    },
+    "https://azorafly.com/series/star-coin/chapter-13": {
+      "name": "13"
+    },
+    "https://azorafly.com/series/star-coin/chapter-12": {
+      "name": "12"
+    },
+    "https://azorafly.com/series/star-coin/chapter-11": {
+      "name": "11"
+    },
+    "https://azorafly.com/series/star-coin/chapter-10": {
+      "name": "10"
+    },
+    "https://azorafly.com/series/star-coin/chapter-9": {
+      "name": "9"
+    },
+    "https://azorafly.com/series/star-coin/chapter-8": {
+      "name": "8"
+    },
+    "https://azorafly.com/series/star-coin/chapter-7": {
+      "name": "7"
+    },
+    "https://azorafly.com/series/star-coin/chapter-6": {
+      "name": "6"
+    },
+    "https://azorafly.com/series/star-coin/chapter-5": {
+      "name": "5"
+    },
+    "https://azorafly.com/series/star-coin/chapter-4": {
+      "name": "4"
+    },
+    "https://azorafly.com/series/star-coin/chapter-3": {
+      "name": "3"
+    },
+    "https://azorafly.com/series/star-coin/chapter-2": {
+      "name": "2"
+    },
+    "https://azorafly.com/series/star-coin/chapter-1": {
+      "name": "1"
+    }
+  }
+}

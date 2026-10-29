@@ -1,12 +1,12 @@
 {
   "id": "enigmatica",
   "title": "Enigmatica",
-  "cover_url": "https://3asq.online/wp-content/uploads/2026/04/enigmatica_cover_pink.png",
+  "cover_url": "https://3asq.online/wp-content/themes/madara/images/dflazy.jpg",
   "description": "لا يوجد وصف",
   "type": "مانغا",
   "status": "مستمر",
   "rating": "4.8",
-  "favorites": "21",
+  "favorites": "22",
   "genres": [
     "أكشن",
     "استراتيجي",
@@ -24,6 +24,21 @@
   ],
   "is_novel": false,
   "chapters": {
+    "https://3asq.online/manga/enigmatica/32": {
+      "name": "32"
+    },
+    "https://3asq.online/manga/enigmatica/31": {
+      "name": "31"
+    },
+    "https://3asq.online/manga/enigmatica/30": {
+      "name": "30"
+    },
+    "https://3asq.online/manga/enigmatica/29": {
+      "name": "29"
+    },
+    "https://3asq.online/manga/enigmatica/28": {
+      "name": "28"
+    },
     "https://3asq.online/manga/enigmatica/27": {
       "name": "27"
     },

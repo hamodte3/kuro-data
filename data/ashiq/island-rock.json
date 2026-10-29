@@ -1,0 +1,83 @@
+{
+  "id": "island-rock",
+  "title": "Island rock",
+  "cover_url": "https://3asq.online/wp-content/themes/madara/images/dflazy.jpg",
+  "description": "موسيقى الروك أند رول البسيطة للقلب المعقد! يسدل الستار على هذه الجزيرة النائية، حيث تبدأ حكاية حياة فرقة موسيقية شابة.",
+  "type": "مانغا",
+  "status": "مستمر",
+  "rating": "3.6",
+  "favorites": "2",
+  "genres": [
+    "شريحة من الحياة",
+    "شونين"
+  ],
+  "is_novel": false,
+  "chapters": {
+    "https://3asq.online/manga/island-rock/21": {
+      "name": "21"
+    },
+    "https://3asq.online/manga/island-rock/20-5": {
+      "name": "20.5"
+    },
+    "https://3asq.online/manga/island-rock/20": {
+      "name": "20"
+    },
+    "https://3asq.online/manga/island-rock/19": {
+      "name": "19"
+    },
+    "https://3asq.online/manga/island-rock/18": {
+      "name": "18"
+    },
+    "https://3asq.online/manga/island-rock/17": {
+      "name": "17"
+    },
+    "https://3asq.online/manga/island-rock/16": {
+      "name": "16"
+    },
+    "https://3asq.online/manga/island-rock/15": {
+      "name": "15"
+    },
+    "https://3asq.online/manga/island-rock/14": {
+      "name": "14"
+    },
+    "https://3asq.online/manga/island-rock/13": {
+      "name": "13"
+    },
+    "https://3asq.online/manga/island-rock/12": {
+      "name": "12"
+    },
+    "https://3asq.online/manga/island-rock/11": {
+      "name": "11"
+    },
+    "https://3asq.online/manga/island-rock/10": {
+      "name": "10"
+    },
+    "https://3asq.online/manga/island-rock/9": {
+      "name": "9"
+    },
+    "https://3asq.online/manga/island-rock/8": {
+      "name": "8"
+    },
+    "https://3asq.online/manga/island-rock/7": {
+      "name": "7"
+    },
+    "https://3asq.online/manga/island-rock/6": {
+      "name": "6"
+    },
+    "https://3asq.online/manga/island-rock/5": {
+      "name": "5"
+    },
+    "https://3asq.online/manga/island-rock/4": {
+      "name": "4"
+    },
+    "https://3asq.online/manga/island-rock/3": {
+      "name": "3"
+    },
+    "https://3asq.online/manga/island-rock/2": {
+      "name": "2"
+    },
+    "https://3asq.online/manga/island-rock/1": {
+      "name": "1"
+    }
+  }
+}

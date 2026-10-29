@@ -1,0 +1,63 @@
+{
+  "id": "the-hero's-ballad",
+  "title": "The Hero’s Ballad",
+  "cover_url": "https://storage.azorafly.com/upload/series/featured/6cac1de1-87ae-4a81-9cd1-2abe99fd84d7/ee39c5b3-9eee-4b33-a68e-5a656517d1f4.png",
+  "description": "من إنتاج استوديو \"Redice Studio\" —الذي قدم لكم أعمالاً مثل <Myst, Might, Mayhem> و<Nano Machine> و<The Wandering Knight’s Survival Manual> وغيرها الكثير!وحدها الروح النقية يمكنها أن تغدو النجم الأكثر سطوعاً، وكان ذلك النجم الأكثر سطوعاً هو نفسه المُقدَّر له أن يكون الأكثر تدميراً. ربما لم يكن \"ملك الشياطين\" و\"البطل\" مختلفين كثيراً في نهاية المطاف.",
+  "type": "مانهوا",
+  "status": "مستمر",
+  "last_update": "2026-09-16",
+  "rating": "10.0",
+  "genres": [
+    "اكشن",
+    "فنتازيا",
+    "دراما"
+  ],
+  "is_novel": false,
+  "chapters": {
+    "https://azorafly.com/series/the-hero's-ballad/chapter-13": {
+      "name": "13"
+    },
+    "https://azorafly.com/series/the-hero's-ballad/chapter-12": {
+      "name": "12"
+    },
+    "https://azorafly.com/series/the-hero's-ballad/chapter-11": {
+      "name": "11"
+    },
+    "https://azorafly.com/series/the-hero's-ballad/chapter-10": {
+      "name": "10"
+    },
+    "https://azorafly.com/series/the-hero's-ballad/chapter-9": {
+      "name": "9"
+    },
+    "https://azorafly.com/series/the-hero's-ballad/chapter-8": {
+      "name": "8"
+    },
+    "https://azorafly.com/series/the-hero's-ballad/chapter-7": {
+      "name": "7"
+    },
+    "https://azorafly.com/series/the-hero's-ballad/chapter-6": {
+      "name": "6"
+    },
+    "https://azorafly.com/series/the-hero's-ballad/chapter-5": {
+      "name": "5"
+    },
+    "https://azorafly.com/series/the-hero's-ballad/chapter-4": {
+      "name": "4"
+    },
+    "https://azorafly.com/series/the-hero's-ballad/chapter-3": {
+      "name": "3"
+    },
+    "https://azorafly.com/series/the-hero's-ballad/chapter-2": {
+      "name": "2"
+    },
+    "https://azorafly.com/series/the-hero's-ballad/chapter-1": {
+      "name": "1"
+    },
+    "https://azorafly.com/series/the-hero's-ballad/chapter-0.5": {
+      "name": "0.5"
+    },
+    "https://azorafly.com/series/the-hero's-ballad/chapter-0": {
+      "name": "0"
+    }
+  }
+}
