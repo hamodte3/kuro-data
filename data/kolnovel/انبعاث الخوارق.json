@@ -2,10 +2,10 @@
   "id": "انبعاث الخوارق",
   "title": "انبعاث الخوارق",
   "cover_url": "https://kolnovel.com/wp-content/uploads/2026/10/Screenshot_٢٠٢٦-١٠-١٥-٠٨-٣١-٥٠-٢٢٩_com.miui_.gallery-edit.jpg",
-  "description": "«اسمي يانغ جيان، وحين تقرأ هذه الكلمات، سأكون قد متُّ بالفعل…»\n \nرقعة من جلد بشري تحمل سرًّا مريبًا. عينٌ تترصّد من قلب الظلام. وعالمٌ لم تعد فيه الأشباح مجرّد حكايات.\n \nلقد عادت الأشباح، ولكلٍّ منها قاعدة لا يمكن تجاهلها. من يفهمها قد ينجو، ومن يجهلها قد لا يجد حتى فرصةً ليروي ما رآه.\n \nلكن في عالمٍ كهذا، النجاة ليست نهاية الكابوس… بل قد تكون بدايته.\n \nفحين يخرج المرء حيًّا من مواجهة شبح، يبقى السؤال: هل نجا منه حقًّا، أم أن شيئًا منه قد خرج معه؟",
+  "description": "«اسمي يانغ جيان، وحين تقرأ هذه الكلمات، سأكون قد متُّ بالفعل…»\n\nرقعة من جلد بشري تحمل سرًّا مريبًا. عينٌ تترصّد من قلب الظلام. وعالمٌ لم تعد فيه الأشباح مجرّد حكايات.\n\nلقد عادت الأشباح، ولكلٍّ منها قاعدة لا يمكن تجاهلها. من يفهمها قد ينجو، ومن يجهلها قد لا يجد حتى فرصةً ليروي ما رآه.\n\nلكن في عالمٍ كهذا، النجاة ليست نهاية الكابوس… بل قد تكون بدايته.\n\nفحين يخرج المرء حيًّا من مواجهة شبح، يبقى السؤال: هل نجا منه حقًّا، أم أن شيئًا منه قد خرج معه؟",
   "type": "رواية",
   "status": "مستمر",
-  "last_update": "أكتوبر 21, 2026",
+  "last_update": "",
   "rating": "",
   "favorites": "",
   "genres": [
@@ -19,6 +19,69 @@
   ],
   "is_novel": true,
   "chapters": {
+    "https://kolnovel.com/shaag24%d8%a7%d9%86%d8%a8%d8%b9%d8%a7%d8%ab-%d8%a7%d9%84%d8%ae%d9%88%d8%a7%d8%b1%d9%82z435ggye-298131": {
+      "name": "ابدأ القراءة ←"
+    },
+    "https://kolnovel.com/shaag24%d8%a7%d9%86%d8%a8%d8%b9%d8%a7%d8%ab-%d8%a7%d9%84%d8%ae%d9%88%d8%a7%d8%b1%d9%82z435ggye-301287": {
+      "name": "الفصل 80: آخر فصلالفصل 80 · حوّلي المال"
+    },
+    "https://kolnovel.com/shaag24%d8%a7%d9%86%d8%a8%d8%b9%d8%a7%d8%ab-%d8%a7%d9%84%d8%ae%d9%88%d8%a7%d8%b1%d9%82z435ggye-301286": {
+      "name": "الفصل 79: الشرط الإضافي"
+    },
+    "https://kolnovel.com/shaag24%d8%a7%d9%86%d8%a8%d8%b9%d8%a7%d8%ab-%d8%a7%d9%84%d8%ae%d9%88%d8%a7%d8%b1%d9%82z435ggye-301285": {
+      "name": "الفصل 78: نادي شياو تشيانغ"
+    },
+    "https://kolnovel.com/shaag24%d8%a7%d9%86%d8%a8%d8%b9%d8%a7%d8%ab-%d8%a7%d9%84%d8%ae%d9%88%d8%a7%d8%b1%d9%82z435ggye-301284": {
+      "name": "الفصل 77: في الحقيقة أنا إنسان طيب"
+    },
+    "https://kolnovel.com/shaag24%d8%a7%d9%86%d8%a8%d8%b9%d8%a7%d8%ab-%d8%a7%d9%84%d8%ae%d9%88%d8%a7%d8%b1%d9%82z435ggye-301283": {
+      "name": "الفصل 76: قواعد النادي"
+    },
+    "https://kolnovel.com/shaag24%d8%a7%d9%86%d8%a8%d8%b9%d8%a7%d8%ab-%d8%a7%d9%84%d8%ae%d9%88%d8%a7%d8%b1%d9%82z435ggye-300871": {
+      "name": "الفصل 75: بفعل إنسان"
+    },
+    "https://kolnovel.com/shaag24%d8%a7%d9%86%d8%a8%d8%b9%d8%a7%d8%ab-%d8%a7%d9%84%d8%ae%d9%88%d8%a7%d8%b1%d9%82z435ggye-300870": {
+      "name": "الفصل 74: الانتقام"
+    },
+    "https://kolnovel.com/shaag24%d8%a7%d9%86%d8%a8%d8%b9%d8%a7%d8%ab-%d8%a7%d9%84%d8%ae%d9%88%d8%a7%d8%b1%d9%82z435ggye-300869": {
+      "name": "الفصل 73: وسيلة النجاة"
+    },
+    "https://kolnovel.com/shaag24%d8%a7%d9%86%d8%a8%d8%b9%d8%a7%d8%ab-%d8%a7%d9%84%d8%ae%d9%88%d8%a7%d8%b1%d9%82z435ggye-300868": {
+      "name": "الفصل 72: المواجهة والتحدي"
+    },
+    "https://kolnovel.com/shaag24%d8%a7%d9%86%d8%a8%d8%b9%d8%a7%d8%ab-%d8%a7%d9%84%d8%ae%d9%88%d8%a7%d8%b1%d9%82z435ggye-300867": {
+      "name": "الفصل 71: العد التنازلي"
+    },
+    "https://kolnovel.com/shaag24%d8%a7%d9%86%d8%a8%d8%b9%d8%a7%d8%ab-%d8%a7%d9%84%d8%ae%d9%88%d8%a7%d8%b1%d9%82z435ggye-300661": {
+      "name": "الفصل 70: هل هناك من يتحدث عني؟"
+    },
+    "https://kolnovel.com/shaag24%d8%a7%d9%86%d8%a8%d8%b9%d8%a7%d8%ab-%d8%a7%d9%84%d8%ae%d9%88%d8%a7%d8%b1%d9%82z435ggye-300660": {
+      "name": "الفصل 69: خدعتك مرة أخرى"
+    },
+    "https://kolnovel.com/shaag24%d8%a7%d9%86%d8%a8%d8%b9%d8%a7%d8%ab-%d8%a7%d9%84%d8%ae%d9%88%d8%a7%d8%b1%d9%82z435ggye-300657": {
+      "name": "الفصل 68: رسالة يان لي النصية"
+    },
+    "https://kolnovel.com/shaag24%d8%a7%d9%86%d8%a8%d8%b9%d8%a7%d8%ab-%d8%a7%d9%84%d8%ae%d9%88%d8%a7%d8%b1%d9%82z435ggye-300656": {
+      "name": "الفصل 67: لقد بالغْتَ في التفكير"
+    },
+    "https://kolnovel.com/shaag24%d8%a7%d9%86%d8%a8%d8%b9%d8%a7%d8%ab-%d8%a7%d9%84%d8%ae%d9%88%d8%a7%d8%b1%d9%82z435ggye-300655": {
+      "name": "الفصل 66: أريد أن أعيش"
+    },
+    "https://kolnovel.com/shaag24%d8%a7%d9%86%d8%a8%d8%b9%d8%a7%d8%ab-%d8%a7%d9%84%d8%ae%d9%88%d8%a7%d8%b1%d9%82z435ggye-300605": {
+      "name": "الفصل 65: مجرد عابر"
+    },
+    "https://kolnovel.com/shaag24%d8%a7%d9%86%d8%a8%d8%b9%d8%a7%d8%ab-%d8%a7%d9%84%d8%ae%d9%88%d8%a7%d8%b1%d9%82z435ggye-300604": {
+      "name": "الفصل 64: الاستفسار"
+    },
+    "https://kolnovel.com/shaag24%d8%a7%d9%86%d8%a8%d8%b9%d8%a7%d8%ab-%d8%a7%d9%84%d8%ae%d9%88%d8%a7%d8%b1%d9%82z435ggye-300603": {
+      "name": "الفصل 63: المغادرة"
+    },
+    "https://kolnovel.com/shaag24%d8%a7%d9%86%d8%a8%d8%b9%d8%a7%d8%ab-%d8%a7%d9%84%d8%ae%d9%88%d8%a7%d8%b1%d9%82z435ggye-300602": {
+      "name": "الفصل 62: تعاونٌ ممتع"
+    },
+    "https://kolnovel.com/shaag24%d8%a7%d9%86%d8%a8%d8%b9%d8%a7%d8%ab-%d8%a7%d9%84%d8%ae%d9%88%d8%a7%d8%b1%d9%82z435ggye-300601": {
+      "name": "الفصل 61: الاحتجاز الناجح"
+    },
     "https://kolnovel.com/shaag24%d8%a7%d9%86%d8%a8%d8%b9%d8%a7%d8%ab-%d8%a7%d9%84%d8%ae%d9%88%d8%a7%d8%b1%d9%82z435ggye-300089": {
       "name": "الفصل 60: التقبّض"
     },
@@ -108,96 +171,6 @@
     },
     "https://kolnovel.com/shaag24%d8%a7%d9%86%d8%a8%d8%b9%d8%a7%d8%ab-%d8%a7%d9%84%d8%ae%d9%88%d8%a7%d8%b1%d9%82z435ggye-299255": {
       "name": "الفصل 31: أغنية «البرود القاتل» إهداءٌ لك"
-    },
-    "https://kolnovel.com/shaag24%d8%a7%d9%86%d8%a8%d8%b9%d8%a7%d8%ab-%d8%a7%d9%84%d8%ae%d9%88%d8%a7%d8%b1%d9%82z435ggye-298938": {
-      "name": "الفصل 30: تاجر جشع"
-    },
-    "https://kolnovel.com/shaag24%d8%a7%d9%86%d8%a8%d8%b9%d8%a7%d8%ab-%d8%a7%d9%84%d8%ae%d9%88%d8%a7%d8%b1%d9%82z435ggye-298937": {
-      "name": "الفصل 29: طبعات اليد في الحمام"
-    },
-    "https://kolnovel.com/shaag24%d8%a7%d9%86%d8%a8%d8%b9%d8%a7%d8%ab-%d8%a7%d9%84%d8%ae%d9%88%d8%a7%d8%b1%d9%82z435ggye-298936": {
-      "name": "الفصل 28: اقتراض مال"
-    },
-    "https://kolnovel.com/shaag24%d8%a7%d9%86%d8%a8%d8%b9%d8%a7%d8%ab-%d8%a7%d9%84%d8%ae%d9%88%d8%a7%d8%b1%d9%82z435ggye-298935": {
-      "name": "الفصل 27: الورق الأحمر يحجب العين"
-    },
-    "https://kolnovel.com/shaag24%d8%a7%d9%86%d8%a8%d8%b9%d8%a7%d8%ab-%d8%a7%d9%84%d8%ae%d9%88%d8%a7%d8%b1%d9%82z435ggye-298934": {
-      "name": "الفصل 26: شخص لا وجود له في الذاكرة"
-    },
-    "https://kolnovel.com/shaag24%d8%a7%d9%86%d8%a8%d8%b9%d8%a7%d8%ab-%d8%a7%d9%84%d8%ae%d9%88%d8%a7%d8%b1%d9%82z435ggye-298933": {
-      "name": "الفصل 25: من أين أتى أبوك؟"
-    },
-    "https://kolnovel.com/shaag24%d8%a7%d9%86%d8%a8%d8%b9%d8%a7%d8%ab-%d8%a7%d9%84%d8%ae%d9%88%d8%a7%d8%b1%d9%82z435ggye-298932": {
-      "name": "الفصل 24: تسجيل الدخول إلى الموقع"
-    },
-    "https://kolnovel.com/shaag24%d8%a7%d9%86%d8%a8%d8%b9%d8%a7%d8%ab-%d8%a7%d9%84%d8%ae%d9%88%d8%a7%d8%b1%d9%82z435ggye-298931": {
-      "name": "الفصل 23: مستحيل في هذه الحياة"
-    },
-    "https://kolnovel.com/shaag24%d8%a7%d9%86%d8%a8%d8%b9%d8%a7%d8%ab-%d8%a7%d9%84%d8%ae%d9%88%d8%a7%d8%b1%d9%82z435ggye-298930": {
-      "name": "الفصل 22: الاسم الرمزي"
-    },
-    "https://kolnovel.com/shaag24%d8%a7%d9%86%d8%a8%d8%b9%d8%a7%d8%ab-%d8%a7%d9%84%d8%ae%d9%88%d8%a7%d8%b1%d9%82z435ggye-298929": {
-      "name": "الفصل 21: عاملة المقسم"
-    },
-    "https://kolnovel.com/shaag24%d8%a7%d9%86%d8%a8%d8%b9%d8%a7%d8%ab-%d8%a7%d9%84%d8%ae%d9%88%d8%a7%d8%b1%d9%82z435ggye-298711": {
-      "name": "الفصل 20: الشارع"
-    },
-    "https://kolnovel.com/shaag24%d8%a7%d9%86%d8%a8%d8%b9%d8%a7%d8%ab-%d8%a7%d9%84%d8%ae%d9%88%d8%a7%d8%b1%d9%82z435ggye-298710": {
-      "name": "الفصل 19: الثمانية الذين غادروا"
-    },
-    "https://kolnovel.com/shaag24%d8%a7%d9%86%d8%a8%d8%b9%d8%a7%d8%ab-%d8%a7%d9%84%d8%ae%d9%88%d8%a7%d8%b1%d9%82z435ggye-298709": {
-      "name": "الفصل 18: الموت يقترب"
-    },
-    "https://kolnovel.com/shaag24%d8%a7%d9%86%d8%a8%d8%b9%d8%a7%d8%ab-%d8%a7%d9%84%d8%ae%d9%88%d8%a7%d8%b1%d9%82z435ggye-298708": {
-      "name": "الفصل 17: الهاتف المرعب"
-    },
-    "https://kolnovel.com/shaag24%d8%a7%d9%86%d8%a8%d8%b9%d8%a7%d8%ab-%d8%a7%d9%84%d8%ae%d9%88%d8%a7%d8%b1%d9%82z435ggye-298707": {
-      "name": "الفصل 16: المكالمة المجابة"
-    },
-    "https://kolnovel.com/shaag24%d8%a7%d9%86%d8%a8%d8%b9%d8%a7%d8%ab-%d8%a7%d9%84%d8%ae%d9%88%d8%a7%d8%b1%d9%82z435ggye-298706": {
-      "name": "الفصل 15: شرط ظهور العجوز"
-    },
-    "https://kolnovel.com/shaag24%d8%a7%d9%86%d8%a8%d8%b9%d8%a7%d8%ab-%d8%a7%d9%84%d8%ae%d9%88%d8%a7%d8%b1%d9%82z435ggye-298705": {
-      "name": "الفصل 14: الورقة الغريبة"
-    },
-    "https://kolnovel.com/shaag24%d8%a7%d9%86%d8%a8%d8%b9%d8%a7%d8%ab-%d8%a7%d9%84%d8%ae%d9%88%d8%a7%d8%b1%d9%82z435ggye-298704": {
-      "name": "الفصل 13: رقعة الجلد"
-    },
-    "https://kolnovel.com/shaag24%d8%a7%d9%86%d8%a8%d8%b9%d8%a7%d8%ab-%d8%a7%d9%84%d8%ae%d9%88%d8%a7%d8%b1%d9%82z435ggye-298703": {
-      "name": "الفصل 12: صمت مطبق في الأرجاء"
-    },
-    "https://kolnovel.com/shaag24%d8%a7%d9%86%d8%a8%d8%b9%d8%a7%d8%ab-%d8%a7%d9%84%d8%ae%d9%88%d8%a7%d8%b1%d9%82z435ggye-298702": {
-      "name": "الفصل 11: انبعاث تدريجي"
-    },
-    "https://kolnovel.com/shaag24%d8%a7%d9%86%d8%a8%d8%b9%d8%a7%d8%ab-%d8%a7%d9%84%d8%ae%d9%88%d8%a7%d8%b1%d9%82z435ggye-298140": {
-      "name": "الفصل 10: العد التنازلي للحياة"
-    },
-    "https://kolnovel.com/shaag24%d8%a7%d9%86%d8%a8%d8%b9%d8%a7%d8%ab-%d8%a7%d9%84%d8%ae%d9%88%d8%a7%d8%b1%d9%82z435ggye-298139": {
-      "name": "الفصل 9: تشو تشنغ"
-    },
-    "https://kolnovel.com/shaag24%d8%a7%d9%86%d8%a8%d8%b9%d8%a7%d8%ab-%d8%a7%d9%84%d8%ae%d9%88%d8%a7%d8%b1%d9%82z435ggye-298138": {
-      "name": "الفصل 8: الشجرة الغريبة"
-    },
-    "https://kolnovel.com/shaag24%d8%a7%d9%86%d8%a8%d8%b9%d8%a7%d8%ab-%d8%a7%d9%84%d8%ae%d9%88%d8%a7%d8%b1%d9%82z435ggye-298137": {
-      "name": "الفصل 7: وقع الأقدام في الخلف"
-    },
-    "https://kolnovel.com/shaag24%d8%a7%d9%86%d8%a8%d8%b9%d8%a7%d8%ab-%d8%a7%d9%84%d8%ae%d9%88%d8%a7%d8%b1%d9%82z435ggye-298136": {
-      "name": "الفصل 6: اليد في دورة المياه"
-    },
-    "https://kolnovel.com/shaag24%d8%a7%d9%86%d8%a8%d8%b9%d8%a7%d8%ab-%d8%a7%d9%84%d8%ae%d9%88%d8%a7%d8%b1%d9%82z435ggye-298135": {
-      "name": "الفصل 5: الضلال"
-    },
-    "https://kolnovel.com/shaag24%d8%a7%d9%86%d8%a8%d8%b9%d8%a7%d8%ab-%d8%a7%d9%84%d8%ae%d9%88%d8%a7%d8%b1%d9%82z435ggye-298134": {
-      "name": "الفصل 4: طرق الباب"
-    },
-    "https://kolnovel.com/shaag24%d8%a7%d9%86%d8%a8%d8%b9%d8%a7%d8%ab-%d8%a7%d9%84%d8%ae%d9%88%d8%a7%d8%b1%d9%82z435ggye-298133": {
-      "name": "الفصل 3: العجوز"
-    },
-    "https://kolnovel.com/shaag24%d8%a7%d9%86%d8%a8%d8%b9%d8%a7%d8%ab-%d8%a7%d9%84%d8%ae%d9%88%d8%a7%d8%b1%d9%82z435ggye-298132": {
-      "name": "الفصل 2: محاضرة مؤقته"
-    },
-    "https://kolnovel.com/shaag24%d8%a7%d9%86%d8%a8%d8%b9%d8%a7%d8%ab-%d8%a7%d9%84%d8%ae%d9%88%d8%a7%d8%b1%d9%82z435ggye-298131": {
-      "name": "الفصل 1: قصة في المنتدى"
     }
   }
 }

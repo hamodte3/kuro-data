@@ -1,58 +1,3092 @@
 [
   {
+    "id": "ولادة جديدة على أبواب مكتب الشؤون المدنية",
+    "title": "ولادة جديدة على أبواب مكتب الشؤون المدنية",
+    "url": "https://kolnovel.com/series/%d9%88%d9%84%d8%a7%d8%af%d8%a9-%d8%ac%d8%af%d9%8a%d8%af%d8%a9-%d8%b9%d9%84%d9%89-%d8%a3%d8%a8%d9%88%d8%a7%d8%a8-%d9%85%d9%83%d8%aa%d8%a8-%d8%a7%d9%84%d8%b4%d8%a4%d9%88%d9%86-%d8%a7%d9%84%d9%85%d8%af",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2025/07/file_000000004bcc61f490604557b107536c.png",
+    "type": "رواية",
+    "status": "مكتمل",
+    "is_novel": true,
+    "rating": "",
+    "total_chapters": 51,
+    "genres": [
+      "دراما",
+      "رومانسية",
+      "شريحة من الحياة",
+      "كوميديا"
+    ]
+  },
+  {
+    "id": "الشبح الباكي",
+    "title": "الشبح الباكي",
+    "url": "https://kolnovel.com/series/%d8%a7%d9%84%d8%b4%d8%a8%d8%ad-%d8%a7%d9%84%d8%a8%d8%a7%d9%83%d9%8a",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2025/05/boy.png",
+    "type": "رواية",
+    "status": "مكتمل",
+    "is_novel": true,
+    "rating": "",
+    "total_chapters": 3,
+    "genres": [
+      "أشباح",
+      "رعب"
+    ]
+  },
+  {
+    "id": "ذاكرة للبيع",
+    "title": "ذاكرة للبيع",
+    "url": "https://kolnovel.com/series/%d8%b0%d8%a7%d9%83%d8%b1%d8%a9-%d9%84%d9%84%d8%a8%d9%8a%d8%b9",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2025/06/ChatGPT_Image_May_24_2025_01_13_50_AM-1.png",
+    "type": "رواية",
+    "status": "مكتمل",
+    "is_novel": true,
+    "rating": "",
+    "total_chapters": 10,
+    "genres": [
+      "خارق للطبيعة",
+      "دراما",
+      "عموض"
+    ]
+  },
+  {
+    "id": "الغزو الفضائي",
+    "title": "الغزو الفضائي",
+    "url": "https://kolnovel.com/series/%d8%a7%d9%84%d8%ba%d8%b2%d9%88-%d8%a7%d9%84%d9%81%d8%b6%d8%a7%d8%a6%d9%8a",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2025/05/Picsart_25-05-20_00-15-06-599.jpg",
+    "type": "رواية",
+    "status": "متوقف مؤقتاً",
+    "is_novel": true,
+    "rating": "",
+    "total_chapters": 2,
+    "genres": [
+      "إثارة",
+      "خيال علمي",
+      "دراما",
+      "ما بعد الكارثة",
+      "مغامرات"
+    ]
+  },
+  {
+    "id": "مذكرات مسافر",
+    "title": "مذكرات مسافر",
+    "url": "https://kolnovel.com/series/%d9%85%d8%b0%d9%83%d8%b1%d8%a7%d8%aa-%d9%85%d8%b3%d8%a7%d9%81%d8%b1",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2025/05/Gemini_Generated_Image_s3c05zs3c05zs3c0.jpg",
+    "type": "رواية",
+    "status": "مكتمل",
+    "is_novel": true,
+    "rating": "",
+    "total_chapters": 5,
+    "genres": [
+      "دراما",
+      "شريحة من الحياة",
+      "غموض",
+      "مغامرة"
+    ]
+  },
+  {
+    "id": "لست سيّد الدراما",
+    "title": "لست سيّد الدراما",
+    "url": "https://kolnovel.com/series/%d9%84%d8%b3%d8%aa-%d8%b3%d9%8a%d9%91%d8%af-%d8%a7%d9%84%d8%af%d8%b1%d8%a7%d9%85%d8%a7",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2025/05/بدون-اسم75_20250508202903.png",
+    "type": "رواية",
+    "status": "متوقف مؤقتاً",
+    "is_novel": true,
+    "rating": "",
+    "total_chapters": 2,
+    "genres": [
+      "أكشن",
+      "حل الألغاز",
+      "خارق للطبيعة",
+      "خيال",
+      "دراما",
+      "رعب",
+      "نفسي"
+    ]
+  },
+  {
+    "id": "سجلات قاتل الملك",
+    "title": "سجلات قاتل الملك",
+    "url": "https://kolnovel.com/series/%d8%b3%d8%ac%d9%84%d8%a7%d8%aa-%d9%82%d8%a7%d8%aa%d9%84-%d8%a7%d9%84%d9%85%d9%84%d9%83",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2025/04/سجلات-قاتل-الملك-100x150.png",
+    "type": "رواية",
+    "status": "متوقف مؤقتاً",
+    "is_novel": true,
+    "rating": "",
+    "total_chapters": 2,
+    "genres": [
+      "دراما",
+      "سحر",
+      "شعر",
+      "غموض",
+      "فانتازيا"
+    ]
+  },
+  {
+    "id": "أبناء الإمبراطور المقدس",
+    "title": "أبناء الإمبراطور المقدس",
+    "url": "https://kolnovel.com/series/%d8%a3%d8%a8%d9%86%d8%a7%d8%a1-%d8%a7%d9%84%d8%a5%d9%85%d8%a8%d8%b1%d8%a7%d8%b7%d9%88%d8%b1-%d8%a7%d9%84%d9%85%d9%82%d8%af%d8%b3",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2025/05/IMG_20250501_004916_180.jpg",
+    "type": "رواية",
+    "status": "متوقف مؤقتاً",
+    "is_novel": true,
+    "rating": "",
+    "total_chapters": 7,
+    "genres": [
+      "أكشن",
+      "خيال",
+      "غموض",
+      "قوى خارقة",
+      "كوميديا",
+      "مغامرة"
+    ]
+  },
+  {
+    "id": "حتى العناكب تختنق هنا",
+    "title": "حتى العناكب تختنق هنا",
+    "url": "https://kolnovel.com/series/%d8%ad%d8%aa%d9%89-%d8%a7%d9%84%d8%b9%d9%86%d8%a7%d9%83%d8%a8-%d8%aa%d8%ae%d8%aa%d9%86%d9%82-%d9%87%d9%86%d8%a7",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2025/04/3e04a3b3641808b1fdeb81fc0b5f8769-113x150.jpg",
+    "type": "رواية",
+    "status": "مكتمل",
+    "is_novel": true,
+    "rating": "",
+    "total_chapters": 1,
+    "genres": [
+      "غموض",
+      "نفسي"
+    ]
+  },
+  {
+    "id": "المسار المثالي",
+    "title": "المسار المثالي",
+    "url": "https://kolnovel.com/series/the-perfect-run",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2024/12/11111111111111111.jpg",
+    "type": "رواية",
+    "status": "متوقف مؤقتاً",
+    "is_novel": true,
+    "rating": "",
+    "total_chapters": 2,
+    "genres": [
+      "خيال",
+      "خيال علمي",
+      "سفر عبر الزمن",
+      "قوة خارقة",
+      "كوميدية",
+      "ما بعد نهاية العالم"
+    ]
+  },
+  {
+    "id": "الجحيم المعكوس",
+    "title": "الجحيم المعكوس",
+    "url": "https://kolnovel.com/series/%d8%a7%d9%84%d8%ac%d8%ad%d9%8a%d9%85-%d8%a7%d9%84%d9%85%d8%b9%d9%83%d9%88%d8%b3",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2024/12/839D15FE-1CD1-435A-91A9-3D48E83E45DD.jpeg",
+    "type": "رواية",
+    "status": "مكتمل",
+    "is_novel": true,
+    "rating": "",
+    "total_chapters": 1,
+    "genres": [
+      "رعب كوني",
+      "رعب نفسي",
+      "ظواهر خارقة للطبيعة",
+      "غموض"
+    ]
+  },
+  {
+    "id": "عقاقير الظلام",
+    "title": "عقاقير الظلام",
+    "url": "https://kolnovel.com/series/akakir-adalam",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2024/09/148_20240909182842.png",
+    "type": "رواية",
+    "status": "مكتمل",
+    "is_novel": true,
+    "rating": "",
+    "total_chapters": 1,
+    "genres": [
+      "أكشن",
+      "سحر",
+      "سفر عبر الزمن"
+    ]
+  },
+  {
+    "id": "عودة الدم والحديد",
+    "title": "عودة الدم والحديد",
+    "url": "https://kolnovel.com/series/%d8%b9%d9%88%d8%af%d8%a9-%d8%a7%d9%84%d8%af%d9%85-%d9%88%d8%a7%d9%84%d8%ad%d8%af%d9%8a%d8%af",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2024/10/Screenshot_20241014_090607_com.hihonor.photos.jpg",
+    "type": "رواية",
+    "status": "متوقف مؤقتاً",
+    "is_novel": true,
+    "rating": "",
+    "total_chapters": 48,
+    "genres": [
+      "أكشن",
+      "بناء مملكة",
+      "تناسخ",
+      "مضاد البطل"
+    ]
+  },
+  {
+    "id": "متجر نبيذ الخالد",
+    "title": "متجر نبيذ الخالد",
+    "url": "https://kolnovel.com/series/%d9%85%d8%aa%d8%ac%d8%b1-%d9%86%d8%a8%d9%8a%d8%b0-%d8%a7%d9%84%d8%ae%d8%a7%d9%84%d8%af",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2024/10/IMG_5637.jpg",
+    "type": "رواية",
+    "status": "متوقف مؤقتاً",
+    "is_novel": true,
+    "rating": "",
+    "total_chapters": 50,
+    "genres": [
+      "تناسخ",
+      "خيال",
+      "كوميديا"
+    ]
+  },
+  {
+    "id": "ظهور الكوارث الثلاث",
+    "title": "ظهور الكوارث الثلاث",
+    "url": "https://kolnovel.com/series/advent-of-the-three-calamities",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2024/07/تصميم4-ظهور-الكوارث-الثلاثة.jpg",
+    "type": "رواية",
+    "status": "متوقف مؤقتاً",
+    "is_novel": true,
+    "rating": "",
+    "total_chapters": 2,
+    "genres": [
+      "أكشن",
+      "ألعاب",
+      "رومانسي",
+      "شريحة من الحياة",
+      "كوميدي"
+    ]
+  },
+  {
+    "id": "اللعبة في كاروسيل: فيلم رعب",
+    "title": "اللعبة في كاروسيل: فيلم رعب",
+    "url": "https://kolnovel.com/series/%d8%a7%d9%84%d9%84%d8%b9%d8%a8%d8%a9-%d9%81%d9%8a-%d9%83%d8%a7%d8%b1%d9%88%d8%b3%d9%8a%d9%84-%d9%81%d9%8a%d9%84%d9%85-%d8%b1%d8%b9%d8%a8",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2024/07/65629-the-game-at-carousel-a-horror-movie-litrpg-100x150.jpg",
+    "type": "رواية",
+    "status": "متوقف مؤقتاً",
+    "is_novel": true,
+    "rating": "",
+    "total_chapters": 51,
+    "genres": [
+      "خارق للطبيعة",
+      "خيال",
+      "رعب",
+      "سحر",
+      "غموض",
+      "مغامرة"
+    ]
+  },
+  {
+    "id": "المتراجع الأحمق",
+    "title": "المتراجع الأحمق",
+    "url": "https://kolnovel.com/series/m-f-kol",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2024/09/Picsart_24-09-04_22-48-15-172.jpeg",
+    "type": "رواية",
+    "status": "مكتمل",
+    "is_novel": true,
+    "rating": "",
+    "total_chapters": 2,
+    "genres": [
+      "الخيال العلمي",
+      "دراما",
+      "رعب",
+      "غموض",
+      "فانتازيا",
+      "قوى خارقة",
+      "مغامرة"
+    ]
+  },
+  {
+    "id": "محادثة صامتة",
+    "title": "محادثة صامتة",
+    "url": "https://kolnovel.com/series/%d9%85%d8%ad%d8%a7%d8%af%d8%ab%d8%a9-%d8%b5%d8%a7%d9%85%d8%aa%d8%a9",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2024/08/IMG-20240828-WA0013.jpg",
+    "type": "رواية",
+    "status": "مكتمل",
+    "is_novel": true,
+    "rating": "",
+    "total_chapters": 1,
+    "genres": [
+      "شريحة من الحياة",
+      "كوميدي",
+      "نفسي",
+      "ون شوت"
+    ]
+  },
+  {
+    "id": "غزو العالم: الولادة لأصبح متساميًا",
+    "title": "غزو العالم: الولادة لأصبح متساميًا",
+    "url": "https://kolnovel.com/series/twc-g-b-t-b-a-g",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2024/07/26220878606677005-113x150.webp",
+    "type": "رواية",
+    "status": "متوقف مؤقتاً",
+    "is_novel": true,
+    "rating": "",
+    "total_chapters": 25,
+    "genres": [
+      "بناء مملكة",
+      "تناسخ",
+      "حريم",
+      "سحر",
+      "شريحة من الحياة",
+      "نظام"
+    ]
+  },
+  {
+    "id": "the dominating",
+    "title": "the dominating",
+    "url": "https://kolnovel.com/series/the-dominating",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2024/06/3497ea4a04c5cbd9-109x150.png",
+    "type": "رواية",
+    "status": "متوقف مؤقتاً",
+    "is_novel": true,
+    "rating": "",
+    "total_chapters": 2,
+    "genres": [
+      "أكشن",
+      "فنون القتال",
+      "مؤامرة",
+      "مغامرة"
+    ]
+  },
+  {
+    "id": "القس المجنون: الأرك الأخير (نسخة الفان)",
+    "title": "القس المجنون: الأرك الأخير (نسخة الفان)",
+    "url": "https://kolnovel.com/series/%d8%a7%d9%84%d9%82%d8%b3-%d8%a7%d9%84%d9%85%d8%ac%d9%86%d9%88%d9%86-%d8%a7%d9%84%d8%a3%d8%b1%d9%83-%d8%a7%d9%84%d8%a3%d8%ae%d9%8a%d8%b1-%d9%86%d8%b3%d8%ae%d8%a9-%d8%a7%d9%84%d9%81%d8%a7%d9%86",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2024/01/qk9nqqsmrb471-90x150.webp",
+    "type": "رواية",
+    "status": "متوقف مؤقتاً",
+    "is_novel": true,
+    "rating": "",
+    "total_chapters": 51,
+    "genres": [
+      "أكشن",
+      "غموض",
+      "مأساوي",
+      "مغامرة",
+      "ناضج",
+      "نفسي"
+    ]
+  },
+  {
+    "id": "مذكـرات أم عـدنـان",
+    "title": "مذكـرات أم عـدنـان",
+    "url": "https://kolnovel.com/series/um-adnans-diary",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2024/05/3_20240510225314.jpeg",
+    "type": "رواية",
+    "status": "مكتمل",
+    "is_novel": true,
+    "rating": "",
+    "total_chapters": 13,
+    "genres": [
+      "إسلامي",
+      "شريحة من الحياة",
+      "عائلي"
+    ]
+  },
+  {
+    "id": "رحـلـة سـاحـر",
+    "title": "رحـلـة سـاحـر",
+    "url": "https://kolnovel.com/series/a-sorcerers-journey",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2024/05/Picsart_24-06-21_09-56-27-964-768x768.png",
+    "type": "رواية",
+    "status": "متوقف مؤقتاً",
+    "is_novel": true,
+    "rating": "",
+    "total_chapters": 2,
+    "genres": [
+      "أكشن",
+      "انتقام",
+      "تناسخ",
+      "حياة مدرسية",
+      "دراما",
+      "رعب",
+      "غموض",
+      "قوى خارقة",
+      "مأساوي"
+    ]
+  },
+  {
+    "id": "أنا مجرد NPC",
+    "title": "أنا مجرد NPC",
+    "url": "https://kolnovel.com/series/%d8%a3%d9%86%d8%a7-%d9%85%d8%ac%d8%b1%d8%af-npc",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2023/11/93_20231123222555.png",
+    "type": "رواية",
+    "status": "مكتمل",
+    "is_novel": true,
+    "rating": "",
+    "total_chapters": 1,
+    "genres": [
+      "جوسي",
+      "دراما",
+      "رومانسي",
+      "فانتازيا",
+      "مغامرة"
+    ]
+  },
+  {
+    "id": "العيش في الظلام",
+    "title": "العيش في الظلام",
+    "url": "https://kolnovel.com/series/%d8%a7%d9%84%d8%b9%d9%8a%d8%b4-%d9%81%d9%8a-%d8%a7%d9%84%d8%b8%d9%84%d8%a7%d9%85",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2023/11/IMG_0684-scaled.jpg",
+    "type": "رواية",
+    "status": "مكتمل",
+    "is_novel": true,
+    "rating": "",
+    "total_chapters": 1,
+    "genres": [
+      "أكشن",
+      "دراما",
+      "فانتازيا",
+      "قوى خارقة"
+    ]
+  },
+  {
+    "id": "الحياة كشبح",
+    "title": "الحياة كشبح",
+    "url": "https://kolnovel.com/series/%d8%a7%d9%84%d8%ad%d9%8a%d8%a7%d8%a9-%d9%83%d8%b4%d8%a8%d8%ad",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2023/11/IMG_0558-scaled.jpg",
+    "type": "رواية",
+    "status": "مكتمل",
+    "is_novel": true,
+    "rating": "",
+    "total_chapters": 1,
+    "genres": [
+      "دراما",
+      "رعب",
+      "فانتازيا",
+      "قصة قصيرة",
+      "كوميدي",
+      "ون شوت"
+    ]
+  },
+  {
+    "id": "بحر الأرض المغمور",
+    "title": "بحر الأرض المغمور",
+    "url": "https://kolnovel.com/series/shrouded-seascape",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2023/09/75.png",
+    "type": "رواية",
+    "status": "متوقف مؤقتاً",
+    "is_novel": true,
+    "rating": "",
+    "total_chapters": 2,
+    "genres": [
+      "رعب",
+      "غموض",
+      "مغامرة"
+    ]
+  },
+  {
+    "id": "أنا حقًا لست خادم حاكم الشياطين",
+    "title": "أنا حقًا لست خادم حاكم الشياطين",
+    "url": "https://kolnovel.com/series/%d8%a3%d9%86%d8%a7-%d8%ad%d9%82%d9%8b%d8%a7-%d9%84%d8%b3%d8%aa-%d8%ae%d8%a7%d8%af%d9%85-%d8%ad%d8%a7%d9%83%d9%85-%d8%a7%d9%84%d8%b4%d9%8a%d8%a7%d8%b7%d9%8a%d9%86",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2023/09/Im-Really-Not-The-Demon-Gods-Lackey-107x150.jpg",
+    "type": "رواية",
+    "status": "متوقف مؤقتاً",
+    "is_novel": true,
+    "rating": "",
+    "total_chapters": 51,
+    "genres": [
+      "أكشن",
+      "رعب",
+      "ظواهر خارقة للطبيعة",
+      "كوميدي",
+      "نفسي"
+    ]
+  },
+  {
+    "id": "القطة والتنين",
+    "title": "القطة والتنين",
+    "url": "https://kolnovel.com/series/%d8%a7%d9%84%d9%82%d8%b7%d8%a9-%d9%88%d8%a7%d9%84%d8%aa%d9%86%d9%8a%d9%86",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2023/08/IMG_0195-1-scaled.jpg",
+    "type": "رواية",
+    "status": "مكتمل",
+    "is_novel": true,
+    "rating": "",
+    "total_chapters": 1,
+    "genres": [
+      "مغامرة"
+    ]
+  },
+  {
+    "id": "تحت إيقاع الشر",
+    "title": "تحت إيقاع الشر",
+    "url": "https://kolnovel.com/series/under-the-spell-of-evil",
+    "cover_url": "https://kolnovel.com/wp-content/themes/starless/assets/images/noimg165px.png",
+    "type": "رواية",
+    "status": "مكتمل",
+    "is_novel": true,
+    "rating": "",
+    "total_chapters": 5,
+    "genres": [
+      "قوى خارقة",
+      "مغامرة"
+    ]
+  },
+  {
+    "id": "بعد عشرة آلف سنة في الجحيم",
+    "title": "بعد عشرة آلف سنة في الجحيم",
+    "url": "https://kolnovel.com/series/%d8%a8%d8%b9%d8%af-%d8%b9%d8%b4%d8%b1%d8%a9-%d8%a2%d9%84%d9%81-%d8%b3%d9%86%d8%a9-%d9%81%d9%8a-%d8%a7%d9%84%d8%ac%d8%ad%d9%8a%d9%85",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2023/08/65_20230825144111-e1692967264306.png",
+    "type": "رواية",
+    "status": "متوقف مؤقتاً",
+    "is_novel": true,
+    "rating": "",
+    "total_chapters": 3,
+    "genres": [
+      "أكشن",
+      "حريم",
+      "رومانسي",
+      "كوميدي",
+      "مغامرة"
+    ]
+  },
+  {
+    "id": "ما وراء الزمن",
+    "title": "ما وراء الزمن",
+    "url": "https://kolnovel.com/series/outside-of-time",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2023/07/48_20230803175606-1-e1691080388302.png",
+    "type": "رواية",
+    "status": "متوقف مؤقتاً",
+    "is_novel": true,
+    "rating": "",
+    "total_chapters": 2,
+    "genres": [
+      "أكشن",
+      "مغامرة"
+    ]
+  },
+  {
+    "id": "عرش الحالم",
+    "title": "عرش الحالم",
+    "url": "https://kolnovel.com/series/dreamers-throne",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2023/05/25_20230618192405.png",
+    "type": "رواية",
+    "status": "متوقف مؤقتاً",
+    "is_novel": true,
+    "rating": "",
+    "total_chapters": 2,
+    "genres": [
+      "أكشن",
+      "رعب",
+      "غموض"
+    ]
+  },
+  {
+    "id": "دعوني ألعب بسلام",
+    "title": "دعوني ألعب بسلام",
+    "url": "https://kolnovel.com/series/let-me-game-in-peace",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2023/03/68_20230304163317-e1678179272649.png",
+    "type": "رواية",
+    "status": "متوقف مؤقتاً",
+    "is_novel": true,
+    "rating": "",
+    "total_chapters": 51,
+    "genres": [
+      "أكشن",
+      "الخيال العلمي",
+      "حياة مدرسية",
+      "غموض",
+      "مغامرة"
+    ]
+  },
+  {
+    "id": "لاعبي العالم السفلي",
+    "title": "لاعبي العالم السفلي",
+    "url": "https://kolnovel.com/series/gamers-of-the-underworld",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2023/01/42_20230117213828-113x150.png",
+    "type": "رواية",
+    "status": "مكتمل",
+    "is_novel": true,
+    "rating": "",
+    "total_chapters": 2,
+    "genres": [
+      "أكشن",
+      "كوميدي"
+    ]
+  },
+  {
+    "id": "سيادي الحكم",
+    "title": "سيادي الحكم",
+    "url": "https://kolnovel.com/series/sovereign-of-judgment",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2023/01/71_20230307005733-113x150.png",
+    "type": "رواية",
+    "status": "مكتمل",
+    "is_novel": true,
+    "rating": "",
+    "total_chapters": 2,
+    "genres": [
+      "أكشن",
+      "الخيال العلمي",
+      "سينن",
+      "فنون القتال",
+      "مأساوي",
+      "مغامرة",
+      "ميكا",
+      "ناضج"
+    ]
+  },
+  {
+    "id": "ساكنة المنزل الواحد والعشرين",
+    "title": "ساكنة المنزل الواحد والعشرين",
+    "url": "https://kolnovel.com/series/%d8%b3%d8%a7%d9%83%d9%86%d8%a9-%d8%a7%d9%84%d9%85%d9%86%d8%b2%d9%84-%d8%a7%d9%84%d9%88%d8%a7%d8%ad%d8%af-%d9%88%d8%a7%d9%84%d8%b9%d8%b4%d8%b1%d9%8a%d9%86",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2023/01/ساكنة-1-83x150.jpg",
+    "type": "رواية",
+    "status": "مكتمل",
+    "is_novel": true,
+    "rating": "",
+    "total_chapters": 0,
+    "genres": [
+      "تحقيقات",
+      "جريمة",
+      "حياة مدرسية",
+      "رعب",
+      "غموض"
+    ]
+  },
+  {
+    "id": "صعود الدودة الى السيادة",
+    "title": "صعود الدودة الى السيادة",
+    "url": "https://kolnovel.com/series/rise-of-the-worm-sovereign",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2022/12/cover_new12333-e1672487704530.jpg",
+    "type": "رواية",
+    "status": "متوقف مؤقتاً",
+    "is_novel": true,
+    "rating": "",
+    "total_chapters": 2,
+    "genres": [
+      "أكشن",
+      "كوميدي"
+    ]
+  },
+  {
+    "id": "تناسخت كشريرة، لكني أصبحت غوريلا وتجنبت الزواج",
+    "title": "تناسخت كشريرة، لكني أصبحت غوريلا وتجنبت الزواج",
+    "url": "https://kolnovel.com/series/%d8%aa%d9%86%d8%a7%d8%b3%d8%ae%d8%aa-%d9%83%d8%b4%d8%b1%d9%8a%d8%b1%d8%a9%d8%8c-%d9%84%d9%83%d9%86%d9%8a-%d8%a3%d8%b5%d8%a8%d8%ad%d8%aa-%d8%ba%d9%88%d8%b1%d9%8a%d9%84%d8%a7-%d9%88%d8%aa%d8%ac%d9%86",
+    "cover_url": "https://kolnovel.com/wp-content/themes/starless/assets/images/noimg165px.png",
+    "type": "رواية",
+    "status": "مكتمل",
+    "is_novel": true,
+    "rating": "",
+    "total_chapters": 6,
+    "genres": [
+      "إنتقال الى عالم أخر",
+      "الخيال العلمي",
+      "دراما",
+      "رومانسي",
+      "شوجو",
+      "كوميدي"
+    ]
+  },
+  {
+    "id": "عن فتاة متهور ظلت تتحدى رجلا ولد مجددا مثلي",
+    "title": "عن فتاة متهور ظلت تتحدى رجلا ولد مجددا مثلي",
+    "url": "https://kolnovel.com/series/about-the-reckless-girl-who-kept-challenging-a-reborn-man-like-me",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2022/08/muboyubo1_shoei.jpg",
+    "type": "رواية",
+    "status": "مكتمل",
+    "is_novel": true,
+    "rating": "",
+    "total_chapters": 1,
+    "genres": [
+      "حياة مدرسية",
+      "دراما",
+      "رومانسي",
+      "سينن",
+      "شريحة من الحياة",
+      "نفسي"
+    ]
+  },
+  {
+    "id": "المختلف في مدرسة السحر الثانوية",
+    "title": "المختلف في مدرسة السحر الثانوية",
+    "url": "https://kolnovel.com/series/mahouka-koukou-no-rettousei",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2022/08/IMG_2988.jpg",
+    "type": "رواية",
+    "status": "متوقف مؤقتاً",
+    "is_novel": true,
+    "rating": "",
+    "total_chapters": 2,
+    "genres": [
+      "أكشن",
+      "الخيال العلمي",
+      "حياة مدرسية",
+      "رومانسي",
+      "سحر",
+      "شونين",
+      "ظواهر خارقة للطبيعة"
+    ]
+  },
+  {
+    "id": "مرافقتكِ لثلاثة عشر عامًا",
+    "title": "مرافقتكِ لثلاثة عشر عامًا",
+    "url": "https://kolnovel.com/series/with-you-for-thirteen-years",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2022/09/bac5cb2052eafe0ca5aebd98b5a1777d-104x150.jpg",
+    "type": "رواية",
+    "status": "مكتمل",
+    "is_novel": true,
+    "rating": "",
+    "total_chapters": 15,
+    "genres": [
+      "شريحة من الحياة",
+      "كوميدي"
+    ]
+  },
+  {
+    "id": "مدينة اللاعودة",
+    "title": "مدينة اللاعودة",
+    "url": "https://kolnovel.com/series/%d9%85%d8%af%d9%8a%d9%86%d8%a9-%d8%a7%d9%84%d9%84%d8%a7%d8%b9%d9%88%d8%af%d8%a9",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2022/08/png_20220809_011427_-e1660257789570.jpg",
+    "type": "رواية",
+    "status": "مكتمل",
+    "is_novel": true,
+    "rating": "",
+    "total_chapters": 1,
+    "genres": [
+      "رعب",
+      "ظواهر خارقة للطبيعة",
+      "غموض",
+      "نفسي"
+    ]
+  },
+  {
+    "id": "خلال الليل أصبح وحشًا",
+    "title": "خلال الليل أصبح وحشًا",
+    "url": "https://kolnovel.com/series/%d8%ae%d9%84%d8%a7%d9%84-%d8%a7%d9%84%d9%84%d9%8a%d9%84-%d8%a3%d8%b5%d8%a8%d8%ad-%d9%88%d8%ad%d8%b4%d9%8b%d8%a7",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2022/07/At-Night_-I-Become-a-Monster.ar-cover-1-107x150.jpg",
+    "type": "رواية",
+    "status": "مكتمل",
+    "is_novel": true,
+    "rating": "",
+    "total_chapters": 20,
+    "genres": [
+      "حياة مدرسية",
+      "دراما",
+      "سينن",
+      "نفسي"
+    ]
+  },
+  {
+    "id": "الصندوق الفارغ و ماريا الصفرية",
+    "title": "الصندوق الفارغ و ماريا الصفرية",
+    "url": "https://kolnovel.com/series/the-empty-box-and-zeroth-maria",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2022/07/UtsuroNoHako7_1.jpg",
+    "type": "رواية",
+    "status": "مكتمل",
+    "is_novel": true,
+    "rating": "",
+    "total_chapters": 2,
+    "genres": [
+      "أكشن",
+      "حياة مدرسية",
+      "دراما",
+      "رعب",
+      "سينن",
+      "غموض",
+      "مأساوي",
+      "نفسي"
+    ]
+  },
+  {
+    "id": "الشطرنج الأبدي",
+    "title": "الشطرنج الأبدي",
+    "url": "https://kolnovel.com/series/%d8%a7%d9%84%d8%b4%d8%b7%d8%b1%d9%86%d8%ac-%d8%a7%d9%84%d8%a3%d8%a8%d8%af%d9%8a",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2022/05/ELCHES.jpg",
+    "type": "رواية",
+    "status": "متوقف مؤقتاً",
+    "is_novel": true,
+    "rating": "",
+    "total_chapters": 2,
+    "genres": [
+      "أكشن",
+      "الخيال العلمي",
+      "سحر",
+      "غموض",
+      "مأساوي",
+      "مغامرة"
+    ]
+  },
+  {
+    "id": "العالم أون لاين",
+    "title": "العالم أون لاين",
+    "url": "https://kolnovel.com/series/the-world-online",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2022/01/1643731268810-e1647036356342.jpg",
+    "type": "رواية",
+    "status": "مكتمل",
+    "is_novel": true,
+    "rating": "",
+    "total_chapters": 2,
+    "genres": [
+      "أكشن",
+      "الخيال العلمي",
+      "فنون القتال",
+      "مغامرة",
+      "ناضج"
+    ]
+  },
+  {
+    "id": "أسطورة النصل الشمالي",
+    "title": "أسطورة النصل الشمالي",
+    "url": "https://kolnovel.com/series/the-legend-of-the-northern-blade",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2022/05/242_20220511191410-103x150.png",
+    "type": "رواية",
+    "status": "متوقف مؤقتاً",
+    "is_novel": true,
+    "rating": "",
+    "total_chapters": 2,
+    "genres": [
+      "أكشن",
+      "شريحة من الحياة",
+      "فنون القتال",
+      "مغامرة"
+    ]
+  },
+  {
+    "id": "النظام الأول كول",
+    "title": "النظام الأول كول",
+    "url": "https://kolnovel.com/series/tha-forest-tender-kol",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2022/03/The_First_Order_a733d3afb2-113x150.webp",
+    "type": "رواية",
+    "status": "مكتمل",
+    "is_novel": true,
+    "rating": "",
+    "total_chapters": 51,
+    "genres": [
+      "أكشن",
+      "الخيال العلمي",
+      "شونين",
+      "كوميدي",
+      "مأساوي",
+      "مغامرة"
+    ]
+  },
+  {
+    "id": "الساحرة وقرع القصص",
+    "title": "الساحرة وقرع القصص",
+    "url": "https://kolnovel.com/series/the-witch-and-the-gourd-of-stories",
+    "cover_url": "https://kolnovel.com/wp-content/themes/starless/assets/images/noimg165px.png",
+    "type": "رواية",
+    "status": "مكتمل",
+    "is_novel": true,
+    "rating": "",
+    "total_chapters": 1,
+    "genres": [
+      "دراما"
+    ]
+  },
+  {
+    "id": "السعي وراء الحقيقة",
+    "title": "السعي وراء الحقيقة",
+    "url": "https://kolnovel.com/series/pursuit-of-the-truth",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2021/12/img_1678208893860-e1678211335965.jpg",
+    "type": "رواية",
+    "status": "مكتمل",
+    "is_novel": true,
+    "rating": "",
+    "total_chapters": 2,
+    "genres": [
+      "أكشن",
+      "مأساوي",
+      "مغامرة"
+    ]
+  },
+  {
+    "id": "أنا فزاعة لكنني أيضًا لورد الرعب الشيطاني",
+    "title": "أنا فزاعة لكنني أيضًا لورد الرعب الشيطاني",
+    "url": "https://kolnovel.com/series/i-am-a-scarecrow-and-the-demon-lord-of-terror",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2021/12/IMG_20211029_023118.png",
+    "type": "رواية",
+    "status": "مكتمل",
+    "is_novel": true,
+    "rating": "",
+    "total_chapters": 51,
+    "genres": [
+      "أكشن",
+      "غموض"
+    ]
+  },
+  {
+    "id": "عالم السحرة",
+    "title": "عالم السحرة",
+    "url": "https://kolnovel.com/series/%d8%b9%d8%a7%d9%84%d9%85-%d8%a7%d9%84%d8%b3%d8%ad%d8%b1%d8%a9",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2021/12/27d31d1392d68ca4-1536x2048.png",
+    "type": "رواية",
+    "status": "متوقف مؤقتاً",
+    "is_novel": true,
+    "rating": "",
+    "total_chapters": 2,
+    "genres": [
+      "أكشن",
+      "مأساوي",
+      "مغامرة",
+      "ناضج"
+    ]
+  },
+  {
+    "id": "لا توقف الحلقة الزمنية!",
+    "title": "لا توقف الحلقة الزمنية!",
+    "url": "https://kolnovel.com/series/dont-stop-the-loop",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2021/10/1634672143227.jpg",
+    "type": "رواية",
+    "status": "مكتمل",
+    "is_novel": true,
+    "rating": "",
+    "total_chapters": 1,
+    "genres": [
+      "رومانسي",
+      "كوميدي"
+    ]
+  },
+  {
+    "id": "إبنة الماركيز المنفية ميتة",
+    "title": "إبنة الماركيز المنفية ميتة",
+    "url": "https://kolnovel.com/series/the-exiled-daughter-of-marquis-is-dead",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2021/10/1634457675379-e1634579536257.jpg",
+    "type": "رواية",
+    "status": "مكتمل",
+    "is_novel": true,
+    "rating": "",
+    "total_chapters": 1,
+    "genres": [
+      "دراما",
+      "رومانسي",
+      "مأساوي"
+    ]
+  },
+  {
+    "id": "سجلات الشيطان السماوي",
+    "title": "سجلات الشيطان السماوي",
+    "url": "https://kolnovel.com/series/chronicles-of-the-heavenly-demon",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2021/10/Chronicles-of-the-Heavenly-Demon_2-e1649733068834.jpg",
+    "type": "رواية",
+    "status": "مكتمل",
+    "is_novel": true,
+    "rating": "",
+    "total_chapters": 25,
+    "genres": [
+      "أكشن",
+      "شونين",
+      "فنون القتال",
+      "مغامرة"
+    ]
+  },
+  {
+    "id": "موزع الإكسير",
+    "title": "موزع الإكسير",
+    "url": "https://kolnovel.com/series/elixir-supplier",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2021/10/f2ee2342b74f3cc5e66d2e64635c43dfcd4df9da55ac8dc20e84748c36bd5901.png",
+    "type": "رواية",
+    "status": "متوقف مؤقتاً",
+    "is_novel": true,
+    "rating": "",
+    "total_chapters": 51,
+    "genres": [
+      "شريحة من الحياة",
+      "طبي",
+      "فنون القتال"
+    ]
+  },
+  {
+    "id": "Re:Zero – If Story",
+    "title": "Re:Zero – If Story",
+    "url": "https://kolnovel.com/series/rezero-if-story",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2021/09/Negar_٢٠٢٢٠٩٠٢_٢٣٢٠٥٢-e1662150436699.png",
+    "type": "رواية",
+    "status": "متوقف مؤقتاً",
+    "is_novel": true,
+    "rating": "",
+    "total_chapters": 3,
+    "genres": [
+      "رومانسي",
+      "سينن",
+      "نفسي"
+    ]
+  },
+  {
+    "id": "صائدو الشياطين",
+    "title": "صائدو الشياطين",
+    "url": "https://kolnovel.com/series/demon-hunter",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2021/09/24971c74b6a5880e-1424x2048.png",
+    "type": "رواية",
+    "status": "مكتمل",
+    "is_novel": true,
+    "rating": "",
+    "total_chapters": 2,
+    "genres": [
+      "أكشن",
+      "الخيال العلمي",
+      "قوى خارقة",
+      "مأساوي",
+      "ناضج"
+    ]
+  },
+  {
+    "id": "ملحمة تانيا الآثمة",
+    "title": "ملحمة تانيا الآثمة",
+    "url": "https://kolnovel.com/series/%d9%85%d9%84%d8%ad%d9%85%d8%a9-%d8%aa%d8%a7%d9%86%d9%8a%d8%a7-%d8%a7%d9%84%d8%a2%d8%ab%d9%85%d8%a9",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2021/09/تانيا-100x150.jpg",
+    "type": "رواية",
+    "status": "متوقف مؤقتاً",
+    "is_novel": true,
+    "rating": "",
+    "total_chapters": 12,
+    "genres": [
+      "أكشن",
+      "سينن",
+      "ظواهر خارقة للطبيعة",
+      "كوميدي",
+      "ناضج",
+      "نفسي"
+    ]
+  },
+  {
+    "id": "ليلة. يوم. سنة. حياة",
+    "title": "ليلة. يوم. سنة. حياة",
+    "url": "https://kolnovel.com/series/one-night-one-day-one-year-one-lifetime",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2021/10/f4531baf7c1fe7af-scaled.jpg",
+    "type": "رواية",
+    "status": "مكتمل",
+    "is_novel": true,
+    "rating": "",
+    "total_chapters": 13,
+    "genres": [
+      "رومانسي",
+      "مأساوي",
+      "نفسي"
+    ]
+  },
+  {
+    "id": "ثلاثة أيام من السعادة",
+    "title": "ثلاثة أيام من السعادة",
+    "url": "https://kolnovel.com/series/%d8%ab%d9%84%d8%a7%d8%ab%d8%a9-%d8%a3%d9%8a%d8%a7%d9%85-%d9%85%d9%86-%d8%a7%d9%84%d8%b3%d8%b9%d8%a7%d8%af%d8%a9",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2021/08/c96492921b092428.png",
+    "type": "رواية",
+    "status": "مكتمل",
+    "is_novel": true,
+    "rating": "",
+    "total_chapters": 16,
+    "genres": [
+      "دراما",
+      "رومانسي",
+      "سينن",
+      "شريحة من الحياة",
+      "مأساوي",
+      "ناضج",
+      "نفسي"
+    ]
+  },
+  {
+    "id": "حكايات إمبراطور الفراغ",
+    "title": "حكايات إمبراطور الفراغ",
+    "url": "https://kolnovel.com/series/the-tale-of-the-void-emperor",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2021/08/novel-113x150.jpg",
+    "type": "رواية",
+    "status": "متوقف مؤقتاً",
+    "is_novel": true,
+    "rating": "",
+    "total_chapters": 3,
+    "genres": [
+      "حريم",
+      "رومانسي",
+      "فنون القتال",
+      "مغامرة"
+    ]
+  },
+  {
+    "id": "العاهل الحكيم",
+    "title": "العاهل الحكيم",
+    "url": "https://kolnovel.com/series/sage-monarch",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2021/08/English_Cover_2-e1651590363441.jpg",
+    "type": "رواية",
+    "status": "متوقف مؤقتاً",
+    "is_novel": true,
+    "rating": "",
+    "total_chapters": 51,
+    "genres": [
+      "أكشن",
+      "سحر",
+      "فنون القتال",
+      "قوى خارقة"
+    ]
+  },
+  {
+    "id": "شرنقة",
+    "title": "شرنقة",
+    "url": "https://kolnovel.com/series/chrysalis",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2021/08/cover_A-1-112x150.png",
+    "type": "رواية",
+    "status": "متوقف مؤقتاً",
+    "is_novel": true,
+    "rating": "",
+    "total_chapters": 2,
+    "genres": [
+      "خيال"
+    ]
+  },
+  {
+    "id": "من غير الممكن ان يجد الناس التدريب صعباً. اليس كذلك؟",
+    "title": "من غير الممكن ان يجد الناس التدريب صعباً. اليس كذلك؟",
+    "url": "https://kolnovel.com/series/no-way-people-find-cultivation-difficult-right",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2021/08/4-113x150.png",
+    "type": "رواية",
+    "status": "مكتمل",
+    "is_novel": true,
+    "rating": "",
+    "total_chapters": 51,
+    "genres": [
+      "أكشن",
+      "فنون القتال",
+      "كوميدي"
+    ]
+  },
+  {
+    "id": "العالم بدون أختي التي أحبها الجميع",
+    "title": "العالم بدون أختي التي أحبها الجميع",
+    "url": "https://kolnovel.com/series/the-world-without-my-sister-who-everyone-loved",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2021/08/63-e1692457449389.png",
+    "type": "رواية",
+    "status": "متوقف مؤقتاً",
+    "is_novel": true,
+    "rating": "",
+    "total_chapters": 2,
+    "genres": [
+      "رومانسي",
+      "مأساوي"
+    ]
+  },
+  {
+    "id": "مسارات&الأوراكل",
+    "title": "مسارات&الأوراكل",
+    "url": "https://kolnovel.com/series/tha-oraeclepaths-kolnovel",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2021/08/IMG_٢٠٢٣٠٩٠١_٠٢٤١٥٥-113x150.jpg",
+    "type": "رواية",
+    "status": "مستمر",
+    "is_novel": true,
+    "rating": "",
+    "total_chapters": 33,
+    "genres": [
+      "الخيال العلمي"
+    ]
+  },
+  {
+    "id": "لقد أصبحت الأمير الأول",
+    "title": "لقد أصبحت الأمير الأول",
+    "url": "https://kolnovel.com/series/i-became-the-first-prince",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2021/08/3dfca842c3244a3c-e1651873409153.png",
+    "type": "رواية",
+    "status": "متوقف مؤقتاً",
+    "is_novel": true,
+    "rating": "",
+    "total_chapters": 51,
+    "genres": [
+      "أكشن",
+      "خيال",
+      "دراما",
+      "كوميدي",
+      "مغامرة"
+    ]
+  },
+  {
+    "id": "لعبة العاهل",
+    "title": "لعبة العاهل",
+    "url": "https://kolnovel.com/series/%d9%84%d8%b9%d8%a8%d8%a9-%d8%a7%d9%84%d8%b9%d8%a7%d9%87%d9%84",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2021/08/1622045074_game-of-the-mona0rch-105x150.png",
+    "type": "رواية",
+    "status": "متوقف مؤقتاً",
+    "is_novel": true,
+    "rating": "",
+    "total_chapters": 51,
+    "genres": [
+      "أكشن",
+      "دراما",
+      "مغامرة"
+    ]
+  },
+  {
+    "id": "إله المال",
+    "title": "إله المال",
+    "url": "https://kolnovel.com/series/god-of-money",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2021/11/IMG_20211112_190055.png",
+    "type": "رواية",
+    "status": "مكتمل",
+    "is_novel": true,
+    "rating": "",
+    "total_chapters": 2,
+    "genres": [
+      "شريحة من الحياة",
+      "مأساوي",
+      "ناضج",
+      "نفسي"
+    ]
+  },
+  {
+    "id": "ثمانون عاما من تسجيلي الدخول في القصر البارد أنا منقطع النظير",
+    "title": "ثمانون عاما من تسجيلي الدخول في القصر البارد أنا منقطع النظير",
+    "url": "https://kolnovel.com/series/80years-of-signing-in-at-the-cold-palace-i-am-unrivalled",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2021/07/dfdb2f1d371e4e60-e1647036292550.png",
+    "type": "رواية",
+    "status": "متوقف مؤقتاً",
+    "is_novel": true,
+    "rating": "",
+    "total_chapters": 51,
+    "genres": []
+  },
+  {
+    "id": "أنا حقًا نجم",
+    "title": "أنا حقًا نجم",
+    "url": "https://kolnovel.com/series/imrelly-ae-supearstazr-kol",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2021/07/IMG_٢٠٢٣٠٩٠١_٠٢٤٧٣٦-1-113x150.png",
+    "type": "رواية",
+    "status": "متوقف مؤقتاً",
+    "is_novel": true,
+    "rating": "",
+    "total_chapters": 51,
+    "genres": [
+      "أكشن",
+      "دراما",
+      "شريحة من الحياة",
+      "كوميدي",
+      "مغامرة"
+    ]
+  },
+  {
+    "id": "Re:Zero Anthology",
+    "title": "Re:Zero Anthology",
+    "url": "https://kolnovel.com/series/rezero-anthology",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2021/07/7543be7675b85364.jpg",
+    "type": "رواية",
+    "status": "مكتمل",
+    "is_novel": true,
+    "rating": "",
+    "total_chapters": 1,
+    "genres": [
+      "رومانسي",
+      "سينن",
+      "كوميدي"
+    ]
+  },
+  {
+    "id": "امبراطور اللعب المنفرد",
+    "title": "امبراطور اللعب المنفرد",
+    "url": "https://kolnovel.com/series/emperor-of-solo-play",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2021/07/0-e1651886119256.jpg",
+    "type": "رواية",
+    "status": "مكتمل",
+    "is_novel": true,
+    "rating": "",
+    "total_chapters": 51,
+    "genres": [
+      "أكشن",
+      "الخيال العلمي",
+      "كوميدي",
+      "مغامرة"
+    ]
+  },
+  {
+    "id": "دفاع الخنادق",
+    "title": "دفاع الخنادق",
+    "url": "https://kolnovel.com/series/dungeon-defense-wn",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2021/06/16_20211127172308-1.png",
+    "type": "رواية",
+    "status": "مكتمل",
+    "is_novel": true,
+    "rating": "",
+    "total_chapters": 51,
+    "genres": [
+      "حريم",
+      "دراما",
+      "رومانسي",
+      "سينن",
+      "كوميدي",
+      "مأساوي",
+      "ناضج",
+      "نفسي"
+    ]
+  },
+  {
+    "id": "أقتل البطل",
+    "title": "أقتل البطل",
+    "url": "https://kolnovel.com/series/kill-the-hero",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2021/06/KH-1-107x150.jpg",
+    "type": "رواية",
+    "status": "متوقف مؤقتاً",
+    "is_novel": true,
+    "rating": "",
+    "total_chapters": 51,
+    "genres": [
+      "أكشن",
+      "مغامرة"
+    ]
+  },
+  {
+    "id": "نهضة البشرية",
+    "title": "نهضة البشرية",
+    "url": "https://kolnovel.com/series/rise-of-humanity",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2021/06/d66de36e59a14dee998e6ea17ac6db93_tplv-mlhdmxsy5m-q75_0_0_1-113x150.jpg",
+    "type": "رواية",
+    "status": "متوقف مؤقتاً",
+    "is_novel": true,
+    "rating": "",
+    "total_chapters": 3,
+    "genres": [
+      "أكشن",
+      "حريم",
+      "فنون القتال",
+      "مغامرة"
+    ]
+  },
+  {
+    "id": "ماريان العائدة من الجحيم",
+    "title": "ماريان العائدة من الجحيم",
+    "url": "https://kolnovel.com/series/maria-from-hell",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2021/05/maria-106x150.jpg",
+    "type": "رواية",
+    "status": "مكتمل",
+    "is_novel": true,
+    "rating": "",
+    "total_chapters": 1,
+    "genres": [
+      "أكشن",
+      "غموض",
+      "كوميدي",
+      "مأساوي"
+    ]
+  },
+  {
+    "id": "الصورة الرمزية للملك – من أجل المجد",
+    "title": "الصورة الرمزية للملك – من أجل المجد",
+    "url": "https://kolnovel.com/series/the-kings-avatar-for-the-glory",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2021/05/f01d5ed29f108d980e8163a7ba24aec5-106x150.jpg",
+    "type": "رواية",
+    "status": "مكتمل",
+    "is_novel": true,
+    "rating": "",
+    "total_chapters": 24,
+    "genres": [
+      "أكشن",
+      "تقمص شخصيات",
+      "كوميدي"
+    ]
+  },
+  {
+    "id": "أسف اني ولدت في هذا العالم!",
+    "title": "أسف اني ولدت في هذا العالم!",
+    "url": "https://kolnovel.com/series/im-sorry-for-being-born-in-this-world",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2021/11/IMG_20211109_000916.png",
+    "type": "رواية",
+    "status": "مكتمل",
+    "is_novel": true,
+    "rating": "",
+    "total_chapters": 51,
+    "genres": [
+      "أكشن",
+      "رومانسي",
+      "كوميدي",
+      "مغامرة",
+      "ناضج"
+    ]
+  },
+  {
+    "id": "لعبة لجعله يقع في حبي",
+    "title": "لعبة لجعله يقع في حبي",
+    "url": "https://kolnovel.com/series/a-game-to-make-him-fall",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2021/11/IMG_20211108_231522.png",
+    "type": "رواية",
+    "status": "مكتمل",
+    "is_novel": true,
+    "rating": "",
+    "total_chapters": 1,
+    "genres": [
+      "دراما",
+      "رومانسي",
+      "شريحة من الحياة",
+      "مأساوي"
+    ]
+  },
+  {
+    "id": "إحتمال أن أقتل زوجتي دون أن يتم اكتشافي",
+    "title": "إحتمال أن أقتل زوجتي دون أن يتم اكتشافي",
+    "url": "https://kolnovel.com/series/the-probability-i-can-kill-my-wife-without-being-found-out",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2021/11/IMG_20211108_233004.png",
+    "type": "رواية",
+    "status": "مكتمل",
+    "is_novel": true,
+    "rating": "",
+    "total_chapters": 1,
+    "genres": [
+      "دراما",
+      "رومانسي",
+      "شريحة من الحياة"
+    ]
+  },
+  {
+    "id": "Rise of the Wasteland",
+    "title": "Rise of the Wasteland",
+    "url": "https://kolnovel.com/series/rise-of-the-wasteland",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2021/05/wasteland2cc-1.jpg",
+    "type": "رواية",
+    "status": "متوقف مؤقتاً",
+    "is_novel": true,
+    "rating": "",
+    "total_chapters": 51,
+    "genres": [
+      "أكشن",
+      "الخيال العلمي",
+      "حريم",
+      "رومانسي",
+      "ظواهر خارقة للطبيعة",
+      "كوميدي",
+      "مغامرة",
+      "ناضج"
+    ]
+  },
+  {
+    "id": "مستخدم السم الهارب",
+    "title": "مستخدم السم الهارب",
+    "url": "https://kolnovel.com/series/fugitive-poison-user",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2021/05/321803001039-105x150.jpg",
+    "type": "رواية",
+    "status": "مكتمل",
+    "is_novel": true,
+    "rating": "",
+    "total_chapters": 51,
+    "genres": [
+      "أكشن",
+      "دراما",
+      "رومانسي",
+      "مغامرة"
+    ]
+  },
+  {
+    "id": "أعيد بعثى من أجل لا شئ",
+    "title": "أعيد بعثى من أجل لا شئ",
+    "url": "https://kolnovel.com/series/i-reincarnated-for-nothing",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2021/05/ec297ffb5f87460a-e1647038605990.png",
+    "type": "رواية",
+    "status": "مكتمل",
+    "is_novel": true,
+    "rating": "",
+    "total_chapters": 51,
+    "genres": [
+      "أكشن",
+      "حريم",
+      "رومانسي",
+      "شونين",
+      "كوميدي",
+      "مغامرة"
+    ]
+  },
+  {
+    "id": "الإنتقام",
+    "title": "الإنتقام",
+    "url": "https://kolnovel.com/series/revenge",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2021/04/novelimage3-107x150.png",
+    "type": "رواية",
+    "status": "مكتمل",
+    "is_novel": true,
+    "rating": "",
+    "total_chapters": 6,
+    "genres": [
+      "دراما",
+      "مأساوي",
+      "نفسي"
+    ]
+  },
+  {
+    "id": "مضاد البطل المطلق",
+    "title": "مضاد البطل المطلق",
+    "url": "https://kolnovel.com/series/ultimate-antihero",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2021/04/001-e1689678834924-113x150.png",
+    "type": "رواية",
+    "status": "مكتمل",
+    "is_novel": true,
+    "rating": "",
+    "total_chapters": 2,
+    "genres": [
+      "أكشن",
+      "حريم",
+      "حياة مدرسية",
+      "شونين",
+      "ظواهر خارقة للطبيعة",
+      "كوميدي",
+      "مأساوي",
+      "مغامرة"
+    ]
+  },
+  {
+    "id": "سيف كايجين",
+    "title": "سيف كايجين",
+    "url": "https://kolnovel.com/series/%d8%b3%d9%8a%d9%81-%d9%83%d8%a7%d9%8a%d8%ac%d9%8a%d9%86",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2021/04/كايجين-2-1.jpg",
+    "type": "رواية",
+    "status": "مكتمل",
+    "is_novel": true,
+    "rating": "",
+    "total_chapters": 34,
+    "genres": [
+      "أكشن",
+      "فنون القتال",
+      "مغامرة"
+    ]
+  },
+  {
+    "id": "I Am the God of Games",
+    "title": "I Am the God of Games",
+    "url": "https://kolnovel.com/series/i-am-the-god-of-games",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2021/04/c9cc419c36a5ec4dbffa2e91e624479df8e947ef-104x150.jpg",
+    "type": "رواية",
+    "status": "متوقف مؤقتاً",
+    "is_novel": true,
+    "rating": "",
+    "total_chapters": 2,
+    "genres": [
+      "أكشن",
+      "تقمص شخصيات",
+      "ظواهر خارقة للطبيعة",
+      "كوميدي",
+      "مغامرة"
+    ]
+  },
+  {
+    "id": "الجينات الخارقة",
+    "title": "الجينات الخارقة",
+    "url": "https://kolnovel.com/series/super-god-gene",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2021/04/بدون-اسم76_20260715194450.png",
+    "type": "رواية",
+    "status": "مكتمل",
+    "is_novel": true,
+    "rating": "",
+    "total_chapters": 51,
+    "genres": [
+      "أكشن",
+      "الخيال العلمي",
+      "حياة مدرسية",
+      "فنون القتال",
+      "كوميدي",
+      "مغامرة",
+      "ميكا"
+    ]
+  },
+  {
+    "id": "ذواق&العالم&الاخر-",
+    "title": "ذواق&العالم&الاخر-",
+    "url": "https://kolnovel.com/series/gourmetof-aenoathaerworld-kolnovel",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2021/04/gourmetanotherworld-113x150.jpg",
+    "type": "رواية",
+    "status": "متوقف مؤقتاً",
+    "is_novel": true,
+    "rating": "",
+    "total_chapters": 51,
+    "genres": [
+      "أكشن",
+      "كوميدي",
+      "مغامرة"
+    ]
+  },
+  {
+    "id": "الوحش الذي يرفع مستواه",
+    "title": "الوحش الذي يرفع مستواه",
+    "url": "https://kolnovel.com/series/a-monster-who-levels-up",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2021/04/242989dcf42e99f3-scaled.jpg",
+    "type": "رواية",
+    "status": "مكتمل",
+    "is_novel": true,
+    "rating": "",
+    "total_chapters": 51,
+    "genres": [
+      "أكشن",
+      "سينن",
+      "قوى خارقة",
+      "مغامرة"
+    ]
+  },
+  {
+    "id": "الملك المظلم",
+    "title": "الملك المظلم",
+    "url": "https://kolnovel.com/series/the-dark-king",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2021/04/الملك-المظلم.jpg",
+    "type": "رواية",
+    "status": "متوقف مؤقتاً",
+    "is_novel": true,
+    "rating": "",
+    "total_chapters": 2,
+    "genres": [
+      "دراما",
+      "رعب",
+      "ظواهر خارقة للطبيعة",
+      "ما بعد الكارثة",
+      "مغامرة",
+      "نفسي"
+    ]
+  },
+  {
+    "id": "إسحاق",
+    "title": "إسحاق",
+    "url": "https://kolnovel.com/series/isaac",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2021/04/images-103x150.jpg",
+    "type": "رواية",
+    "status": "مكتمل",
+    "is_novel": true,
+    "rating": "",
+    "total_chapters": 4,
+    "genres": [
+      "أكشن",
+      "إثارة",
+      "دراما",
+      "سينن",
+      "شريحة من الحياة",
+      "كوميدي",
+      "مأساوي",
+      "نفسي"
+    ]
+  },
+  {
+    "id": "تحرير الساحرة",
+    "title": "تحرير الساحرة",
+    "url": "https://kolnovel.com/series/release-that-witch",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2021/04/IMG_20211111_105804.png",
+    "type": "رواية",
+    "status": "مكتمل",
+    "is_novel": true,
+    "rating": "",
+    "total_chapters": 2,
+    "genres": [
+      "تاريخي",
+      "دراما",
+      "سحر",
+      "سينن",
+      "ظواهر خارقة للطبيعة",
+      "كوميدي"
+    ]
+  },
+  {
+    "id": "نهاية العوالم أونلاين",
+    "title": "نهاية العوالم أونلاين",
+    "url": "https://kolnovel.com/series/worlds-apocalypse-online",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2021/04/162a41ef3a37e052-e1647036509536.png",
+    "type": "رواية",
+    "status": "متوقف مؤقتاً",
+    "is_novel": true,
+    "rating": "",
+    "total_chapters": 2,
+    "genres": [
+      "أكشن",
+      "إثارة",
+      "الخيال العلمي",
+      "حريم",
+      "ظواهر خارقة للطبيعة",
+      "فنون القتال",
+      "مغامرة"
+    ]
+  },
+  {
+    "id": "توقفوا. نيران صديقة!",
+    "title": "توقفوا. نيران صديقة!",
+    "url": "https://kolnovel.com/series/stop-friendly-fire",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2021/03/IMG_20220114_155050-e1647038510893.png",
+    "type": "رواية",
+    "status": "مكتمل",
+    "is_novel": true,
+    "rating": "",
+    "total_chapters": 2,
+    "genres": [
+      "أكشن",
+      "شونين",
+      "ظواهر خارقة للطبيعة",
+      "كوميدي",
+      "مغامرة"
+    ]
+  },
+  {
+    "id": "في عالم أخر مع نظام ناروتو",
+    "title": "في عالم أخر مع نظام ناروتو",
+    "url": "https://kolnovel.com/series/in-different-world-with-naruto-system",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2021/03/In-Different-World-With-Naruto-System.jpg",
+    "type": "رواية",
+    "status": "متوقف مؤقتاً",
+    "is_novel": true,
+    "rating": "",
+    "total_chapters": 52,
+    "genres": [
+      "أكشن",
+      "شريحة من الحياة",
+      "غموض",
+      "فنون القتال",
+      "مغامرة"
+    ]
+  },
+  {
+    "id": "نداء الكابوس",
+    "title": "نداء الكابوس",
+    "url": "https://kolnovel.com/series/nightmares-call",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2021/03/1640378601663.jpg",
+    "type": "رواية",
+    "status": "مكتمل",
+    "is_novel": true,
+    "rating": "",
+    "total_chapters": 2,
+    "genres": [
+      "أكشن",
+      "الخيال العلمي",
+      "رعب",
+      "غموض",
+      "فنون القتال",
+      "مغامرة"
+    ]
+  },
+  {
+    "id": "محقق العالم السفلي",
+    "title": "محقق العالم السفلي",
+    "url": "https://kolnovel.com/series/netheworld-investigator",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2021/03/IMG_20211101_021959.png",
+    "type": "رواية",
+    "status": "متوقف مؤقتاً",
+    "is_novel": true,
+    "rating": "",
+    "total_chapters": 51,
+    "genres": [
+      "أكشن",
+      "بوليسي",
+      "جريمة",
+      "مغامرة"
+    ]
+  },
+  {
+    "id": "الساحر&المتنوع",
+    "title": "الساحر&المتنوع",
+    "url": "https://kolnovel.com/series/vearsetile-megeaa-kolnovel",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2021/03/IMG_٢٠٢٣٠٩٠١_٠٢٣٧٢٣.jpg",
+    "type": "رواية",
+    "status": "متوقف مؤقتاً",
+    "is_novel": true,
+    "rating": "",
+    "total_chapters": 51,
+    "genres": [
+      "أكشن",
+      "حريم",
+      "حياة مدرسية",
+      "ظواهر خارقة للطبيعة",
+      "مغامرة"
+    ]
+  },
+  {
+    "id": "شخصية الرواية الإضافية",
+    "title": "شخصية الرواية الإضافية",
+    "url": "https://kolnovel.com/series/the-novel-extra",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2021/03/9099ae12e510e865-1464x2048.png",
+    "type": "رواية",
+    "status": "مكتمل",
+    "is_novel": true,
+    "rating": "",
+    "total_chapters": 51,
+    "genres": [
+      "أكشن",
+      "إنتقال الى عالم أخر",
+      "حياة مدرسية",
+      "دراما",
+      "رومانسي",
+      "سحر"
+    ]
+  },
+  {
+    "id": "قصيدة العشرة آلاف ‘جو’",
+    "title": "قصيدة العشرة آلاف ‘جو’",
+    "url": "https://kolnovel.com/series/ballad-of-ten-thousand-gu",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2021/03/5d62261aa1b2879a-1539x2048.png",
+    "type": "رواية",
+    "status": "مكتمل",
+    "is_novel": true,
+    "rating": "",
+    "total_chapters": 5,
+    "genres": [
+      "دراما",
+      "رومانسي",
+      "مأساوي"
+    ]
+  },
+  {
+    "id": "أنا أحتضن صوتك لوحده، أسفل السماء المرصعة بالنجوم",
+    "title": "أنا أحتضن صوتك لوحده، أسفل السماء المرصعة بالنجوم",
+    "url": "https://kolnovel.com/series/i-hold-your-voice-alone-under-the-starry-sky",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2021/03/HoshizoranoShita-2.jpg",
+    "type": "رواية",
+    "status": "مكتمل",
+    "is_novel": true,
+    "rating": "",
+    "total_chapters": 31,
+    "genres": [
+      "حياة مدرسية",
+      "دراما",
+      "رومانسي",
+      "سينن"
+    ]
+  },
+  {
+    "id": "فنان القتال العالمي",
+    "title": "فنان القتال العالمي",
+    "url": "https://kolnovel.com/series/worlds-best-martial-world",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2023/07/600-113x150.jpg",
+    "type": "رواية",
+    "status": "متوقف مؤقتاً",
+    "is_novel": true,
+    "rating": "",
+    "total_chapters": 51,
+    "genres": [
+      "أكشن",
+      "حياة مدرسية",
+      "شونين",
+      "فنون القتال",
+      "قوى خارقة",
+      "مغامرة"
+    ]
+  },
+  {
+    "id": "الثعلبة لا قلب لها",
+    "title": "الثعلبة لا قلب لها",
+    "url": "https://kolnovel.com/series/fox-has-no-heart",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2021/03/fxhnt-107x150.png",
+    "type": "رواية",
+    "status": "مكتمل",
+    "is_novel": true,
+    "rating": "",
+    "total_chapters": 6,
+    "genres": [
+      "تاريخي",
+      "رومانسي",
+      "ظواهر خارقة للطبيعة",
+      "مأساوي"
+    ]
+  },
+  {
+    "id": "نهاية السيادة",
+    "title": "نهاية السيادة",
+    "url": "https://kolnovel.com/series/dominions-end",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2021/03/de1cover-105x150.png",
+    "type": "رواية",
+    "status": "مكتمل",
+    "is_novel": true,
+    "rating": "",
+    "total_chapters": 2,
+    "genres": [
+      "أكشن",
+      "الخيال العلمي",
+      "دراما",
+      "قوى خارقة",
+      "كوميدي",
+      "مغامرة"
+    ]
+  },
+  {
+    "id": "ولدت ابنة المرأة الشريرة",
+    "title": "ولدت ابنة المرأة الشريرة",
+    "url": "https://kolnovel.com/series/born-as-the-daughter-of-the-wicked-woman",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2021/03/PicsArt_09-28-10.41.20-113x150.jpg",
+    "type": "رواية",
+    "status": "مكتمل",
+    "is_novel": true,
+    "rating": "",
+    "total_chapters": 51,
+    "genres": [
+      "دراما",
+      "رومانسي",
+      "سحر"
+    ]
+  },
+  {
+    "id": "القديسة التي تبناها الدوق",
+    "title": "القديسة التي تبناها الدوق",
+    "url": "https://kolnovel.com/series/a-saint-who-was-adopted-by-the-grand-duke",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2021/03/A-Saint-Who-Was-Adopted-by-the-Grand-Duke-98x150.jpeg",
+    "type": "رواية",
+    "status": "مكتمل",
+    "is_novel": true,
+    "rating": "",
+    "total_chapters": 51,
+    "genres": [
+      "تاريخي",
+      "دراما",
+      "رومانسي",
+      "مأساوي"
+    ]
+  },
+  {
+    "id": "إرادة أبدية كول",
+    "title": "إرادة أبدية كول",
+    "url": "https://kolnovel.com/series/e-wlii-ataruei",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2021/03/252_20220514222703-e1652564076545_b-100x150.png",
+    "type": "رواية",
+    "status": "مكتمل",
+    "is_novel": true,
+    "rating": "",
+    "total_chapters": 52,
+    "genres": [
+      "أكشن",
+      "حريم",
+      "فنون القتال",
+      "كوميدي",
+      "مغامرة"
+    ]
+  },
+  {
+    "id": "سجلات سقوط الآلهة",
+    "title": "سجلات سقوط الآلهة",
+    "url": "https://kolnovel.com/series/%d8%b3%d8%ac%d9%84%d8%a7%d8%aa-%d8%b3%d9%82%d9%88%d8%b7-%d8%a7%d9%84%d8%a2%d9%84%d9%87%d8%a9",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2021/02/1628817670039-104x150.png",
+    "type": "رواية",
+    "status": "مكتمل",
+    "is_novel": true,
+    "rating": "",
+    "total_chapters": 2,
+    "genres": [
+      "أكشن",
+      "الخيال العلمي",
+      "غموض",
+      "فنون القتال",
+      "قوى خارقة",
+      "ما بعد الكارثة",
+      "مغامرة"
+    ]
+  },
+  {
+    "id": "وارلوك-عالم-الماجوس-",
+    "title": "وارلوك-عالم-الماجوس-",
+    "url": "https://kolnovel.com/series/%d8%b9%d9%84%d9%85-%d9%88%d8%b1%d8%a7%d9%83-%d8%a7%d9%84%d9%85%d8%aa%d8%ac%d9%88%d8%b2-%d9%83%d9%88%d9%84",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2021/01/e1632089480754-e1647036696919_b-100x150.jpg",
+    "type": "رواية",
+    "status": "مكتمل",
+    "is_novel": true,
+    "rating": "",
+    "total_chapters": 2,
+    "genres": [
+      "أكشن",
+      "حريم",
+      "سحر",
+      "مغامرة"
+    ]
+  },
+  {
+    "id": "روح نيجاري",
+    "title": "روح نيجاري",
+    "url": "https://kolnovel.com/series/soul-of-negary",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2021/11/1-106x150.jpg",
+    "type": "رواية",
+    "status": "متوقف مؤقتاً",
+    "is_novel": true,
+    "rating": "",
+    "total_chapters": 2,
+    "genres": [
+      "أكشن",
+      "رعب",
+      "ظواهر خارقة للطبيعة",
+      "غموض",
+      "مأساوي",
+      "مغامرة"
+    ]
+  },
+  {
+    "id": "الفجر",
+    "title": "الفجر",
+    "url": "https://kolnovel.com/series/daybreak",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2021/01/dp-107x150.jpg",
+    "type": "رواية",
+    "status": "مكتمل",
+    "is_novel": true,
+    "rating": "",
+    "total_chapters": 9,
+    "genres": [
+      "رومانسي",
+      "مأساوي",
+      "نفسي"
+    ]
+  },
+  {
+    "id": "البدء من جديد",
+    "title": "البدء من جديد",
+    "url": "https://kolnovel.com/series/starting-over",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2021/01/IMG_20211126_235219.png",
+    "type": "رواية",
+    "status": "مكتمل",
+    "is_novel": true,
+    "rating": "",
+    "total_chapters": 49,
+    "genres": [
+      "دراما",
+      "رومانسي",
+      "شريحة من الحياة",
+      "قوى خارقة",
+      "ناضج",
+      "نفسي"
+    ]
+  },
+  {
+    "id": "التنين الخفي",
+    "title": "التنين الخفي",
+    "url": "https://kolnovel.com/series/invisible-dragon",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2021/01/Invisible-Dragon-1-107x150.jpg",
+    "type": "رواية",
+    "status": "مكتمل",
+    "is_novel": true,
+    "rating": "",
+    "total_chapters": 50,
+    "genres": [
+      "أكشن",
+      "قوى خارقة",
+      "مغامرة"
+    ]
+  },
+  {
+    "id": "ملك الشياطين و البطلة",
+    "title": "ملك الشياطين و البطلة",
+    "url": "https://kolnovel.com/series/demon-king-hero",
+    "cover_url": "",
+    "type": "رواية",
+    "status": "مكتمل",
+    "is_novel": true,
+    "rating": "",
+    "total_chapters": 51,
+    "genres": [
+      "رومانسي",
+      "شريحة من الحياة",
+      "كوميدي"
+    ]
+  },
+  {
+    "id": "العالم المثالي",
+    "title": "العالم المثالي",
+    "url": "https://kolnovel.com/series/perfect-world",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2020/12/161_20220112185839-e1647036483898.png",
+    "type": "رواية",
+    "status": "مكتمل",
+    "is_novel": true,
+    "rating": "",
+    "total_chapters": 2,
+    "genres": [
+      "أكشن",
+      "كوميدي",
+      "مأساوي"
+    ]
+  },
+  {
+    "id": "ملتهم النجم",
+    "title": "ملتهم النجم",
+    "url": "https://kolnovel.com/series/swallowed-star",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2025/04/غلاف.jpg",
+    "type": "رواية",
+    "status": "متوقف مؤقتاً",
+    "is_novel": true,
+    "rating": "",
+    "total_chapters": 2,
+    "genres": [
+      "أكشن",
+      "الخيال العلمي",
+      "فنون القتال",
+      "مغامرة"
+    ]
+  },
+  {
+    "id": "الساحر آكل الكتب",
+    "title": "الساحر آكل الكتب",
+    "url": "https://kolnovel.com/series/the-book-eating-magician",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2020/12/IMG_20211126_025247.png",
+    "type": "رواية",
+    "status": "مكتمل",
+    "is_novel": true,
+    "rating": "",
+    "total_chapters": 2,
+    "genres": [
+      "أكشن",
+      "ظواهر خارقة للطبيعة",
+      "قوى خارقة",
+      "مغامرة"
+    ]
+  },
+  {
+    "id": "الإنتقال للمستقبل",
+    "title": "الإنتقال للمستقبل",
+    "url": "https://kolnovel.com/series/crossing-to-the-future",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2020/12/Crossing-to-the-Future-its-Not-Easy-to-Be-a-Man-113x150.jpg",
+    "type": "رواية",
+    "status": "متوقف مؤقتاً",
+    "is_novel": true,
+    "rating": "",
+    "total_chapters": 51,
+    "genres": [
+      "أكشن",
+      "الخيال العلمي",
+      "شونين",
+      "فنون القتال",
+      "كوميدي",
+      "مغامرة",
+      "ميكا"
+    ]
+  },
+  {
+    "id": "رحلة#روحانية#كول",
+    "title": "رحلة#روحانية#كول",
+    "url": "https://kolnovel.com/series/wystlcei-janruay-kol",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2020/12/IMG_٢٠٢٣٠٨٢٦_١٥١٨٥٢.png",
+    "type": "رواية",
+    "status": "مكتمل",
+    "is_novel": true,
+    "rating": "",
+    "total_chapters": 2,
+    "genres": [
+      "أكشن",
+      "حياة مدرسية",
+      "فنون القتال",
+      "قوى خارقة",
+      "مغامرة",
+      "ناضج"
+    ]
+  },
+  {
+    "id": "إنتفاضة الأعلى",
+    "title": "إنتفاضة الأعلى",
+    "url": "https://kolnovel.com/series/supreme-uprising",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2020/11/Supreme-Uprising-113x150.jpg",
+    "type": "رواية",
+    "status": "متوقف مؤقتاً",
+    "is_novel": true,
+    "rating": "",
+    "total_chapters": 51,
+    "genres": [
+      "أكشن",
+      "ظواهر خارقة للطبيعة",
+      "فنون القتال",
+      "مغامرة"
+    ]
+  },
+  {
+    "id": "كونوسوبا راشيي سيكاي ني شوكوفوكو وو!",
+    "title": "كونوسوبا راشيي سيكاي ني شوكوفوكو وو!",
+    "url": "https://kolnovel.com/series/kono-subarashii-sekai-ni-shukufuku-o",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2020/11/PicsArt_05-31-11.45.12-106x150.jpg",
+    "type": "رواية",
+    "status": "متوقف مؤقتاً",
+    "is_novel": true,
+    "rating": "",
+    "total_chapters": 2,
+    "genres": [
+      "أكشن",
+      "حريم",
+      "دراما",
+      "رومانسي",
+      "شريحة من الحياة",
+      "كوميدي"
+    ]
+  },
+  {
+    "id": "الميكانيكي-الأسطوري-",
+    "title": "الميكانيكي-الأسطوري-",
+    "url": "https://kolnovel.com/series/the-legeandeary-mechaenic-kol",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2020/11/IMG_٢٠٢٣٠٩٠١_٠٢٣٤٥١-113x150.png",
+    "type": "رواية",
+    "status": "مكتمل",
+    "is_novel": true,
+    "rating": "",
+    "total_chapters": 51,
+    "genres": [
+      "أكشن",
+      "الخيال العلمي",
+      "ظواهر خارقة للطبيعة",
+      "كوميدي",
+      "مغامرة"
+    ]
+  },
+  {
+    "id": "الأميرة الزومبي",
+    "title": "الأميرة الزومبي",
+    "url": "https://kolnovel.com/series/zombie-princess",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2020/10/zp-107x150.jpg",
+    "type": "رواية",
+    "status": "مكتمل",
+    "is_novel": true,
+    "rating": "",
+    "total_chapters": 51,
+    "genres": [
+      "حريم",
+      "دراما",
+      "رومانسي",
+      "ظواهر خارقة للطبيعة",
+      "كوميدي"
+    ]
+  },
+  {
+    "id": "رفع المستوى منفرداً",
+    "title": "رفع المستوى منفرداً",
+    "url": "https://kolnovel.com/series/solo-leveling",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2020/11/51cad5c691f88db8-1456x2048.png",
+    "type": "رواية",
+    "status": "مكتمل",
+    "is_novel": true,
+    "rating": "",
+    "total_chapters": 51,
+    "genres": [
+      "أكشن",
+      "ظواهر خارقة للطبيعة",
+      "مغامرة"
+    ]
+  },
+  {
+    "id": "أم التعلم",
+    "title": "أم التعلم",
+    "url": "https://kolnovel.com/series/mother-of-learning",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2020/11/بدون-اسم113_20260804035520.png",
+    "type": "رواية",
+    "status": "مكتمل",
+    "is_novel": true,
+    "rating": "",
+    "total_chapters": 2,
+    "genres": [
+      "سحر",
+      "غموض",
+      "مغامرة"
+    ]
+  },
+  {
+    "id": "هيكل عظمي مستوى واحد",
+    "title": "هيكل عظمي مستوى واحد",
+    "url": "https://kolnovel.com/series/lv1-skeleton",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2020/10/155_20220110222942-105x150.png",
+    "type": "رواية",
+    "status": "مكتمل",
+    "is_novel": true,
+    "rating": "",
+    "total_chapters": 51,
+    "genres": [
+      "أكشن",
+      "الخيال العلمي",
+      "حريم",
+      "مغامرة"
+    ]
+  },
+  {
+    "id": "الأنسة&السابعة&عديمة&النفع",
+    "title": "الأنسة&السابعة&عديمة&النفع",
+    "url": "https://kolnovel.com/series/thegood-fornoth1ng-saveanth-younglady-kol",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2020/10/IMG_٢٠٢٣٠٩٠١_٠٢٣٩٢٧.jpg",
+    "type": "رواية",
+    "status": "متوقف مؤقتاً",
+    "is_novel": true,
+    "rating": "",
+    "total_chapters": 51,
+    "genres": [
+      "أكشن",
+      "حياة مدرسية",
+      "رومانسي",
+      "فنون القتال",
+      "كوميدي",
+      "مغامرة"
+    ]
+  },
+  {
+    "id": "مدينة الأهوال",
+    "title": "مدينة الأهوال",
+    "url": "https://kolnovel.com/series/the-city-of-terror",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2020/10/600-1-112x150.jpg",
+    "type": "رواية",
+    "status": "متوقف مؤقتاً",
+    "is_novel": true,
+    "rating": "",
+    "total_chapters": 3,
+    "genres": [
+      "أكشن",
+      "الخيال العلمي",
+      "مغامرة"
+    ]
+  },
+  {
+    "id": "عاهل)الشر)من)عالم)آخر)كول",
+    "title": "عاهل)الشر)من)عالم)آخر)كول",
+    "url": "https://kolnovel.com/series/atharwarldly-avil-manerch-kol",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2020/10/IMG_٢٠٢٣٠٨٢٦_١٥١٠٢٩-113x150.jpg",
+    "type": "رواية",
+    "status": "مكتمل",
+    "is_novel": true,
+    "rating": "",
+    "total_chapters": 51,
+    "genres": [
+      "أكشن",
+      "حريم",
+      "ظواهر خارقة للطبيعة",
+      "فنون القتال",
+      "كوميدي",
+      "مغامرة",
+      "ناضج"
+    ]
+  },
+  {
+    "id": "جوهرة&التغير&السماوية",
+    "title": "جوهرة&التغير&السماوية",
+    "url": "https://kolnovel.com/series/%d8%ac%d9%88%d9%87%d8%b1%d8%a9%d8%a7%d9%84%d8%aa%d8%ba%d9%8a%d8%b1%d8%a7%d9%84%d8%b3%d9%85%d8%a7%d9%88%d9%8a%d8%a9-kolnovel",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2020/10/IMG_٢٠٢٣٠٨٢٦_١٥١٤٠٦-110x150.jpg",
+    "type": "رواية",
+    "status": "مكتمل",
+    "is_novel": true,
+    "rating": "",
+    "total_chapters": 51,
+    "genres": [
+      "أكشن",
+      "حريم",
+      "دراما",
+      "فنون القتال",
+      "مغامرة"
+    ]
+  },
+  {
+    "id": "طريق الأحلام الخالي&من&الهموم",
+    "title": "طريق الأحلام الخالي&من&الهموم",
+    "url": "https://kolnovel.com/series/carefreapaeth-ouf-drems-kol",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2020/10/IMG_٢٠٢٣٠٩٠١_٠٢٤٦٢٣-113x150.jpg",
+    "type": "رواية",
+    "status": "متوقف مؤقتاً",
+    "is_novel": true,
+    "rating": "",
+    "total_chapters": 2,
+    "genres": [
+      "أكشن",
+      "فنون القتال",
+      "مغامرة"
+    ]
+  },
+  {
+    "id": "ملحمة فالهالا",
+    "title": "ملحمة فالهالا",
+    "url": "https://kolnovel.com/series/valhalla-saga",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2021/11/IMG_20211112_200055.png",
+    "type": "رواية",
+    "status": "مكتمل",
+    "is_novel": true,
+    "rating": "",
+    "total_chapters": 51,
+    "genres": [
+      "أكشن",
+      "حريم",
+      "شونين",
+      "كوميدي",
+      "مغامرة"
+    ]
+  },
+  {
+    "id": "التحول النجمي",
+    "title": "التحول النجمي",
+    "url": "https://kolnovel.com/series/stellar-transformation",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2020/10/IMG_20220114_134959-scaled-e1647036598719.jpg",
+    "type": "رواية",
+    "status": "مكتمل",
+    "is_novel": true,
+    "rating": "",
+    "total_chapters": 2,
+    "genres": [
+      "أكشن",
+      "الخيال العلمي",
+      "رومانسي",
+      "فنون القتال",
+      "مغامرة"
+    ]
+  },
+  {
+    "id": "الأميرة الطبيبة",
+    "title": "الأميرة الطبيبة",
+    "url": "https://kolnovel.com/series/princess-medical-doctor",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2020/10/123-113x150.jpg",
+    "type": "رواية",
+    "status": "متوقف مؤقتاً",
+    "is_novel": true,
+    "rating": "",
+    "total_chapters": 51,
+    "genres": [
+      "تاريخي",
+      "دراما",
+      "رومانسي",
+      "شريحة من الحياة"
+    ]
+  },
+  {
+    "id": "MMORPG Martial Gamer",
+    "title": "MMORPG Martial Gamer",
+    "url": "https://kolnovel.com/series/mmorpgmartiel-gaemar-kol",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2020/10/1-21051G60G90-L-105x150.jpg",
+    "type": "رواية",
+    "status": "متوقف مؤقتاً",
+    "is_novel": true,
+    "rating": "",
+    "total_chapters": 51,
+    "genres": [
+      "أكشن",
+      "إثارة",
+      "الخيال العلمي",
+      "تقمص شخصيات",
+      "دراما",
+      "فنون القتال",
+      "كوميدي",
+      "مغامرة"
+    ]
+  },
+  {
+    "id": "إله الجريمة",
+    "title": "إله الجريمة",
+    "url": "https://kolnovel.com/series/god-of-crime",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2020/10/god-of-crime-1-111x150.jpg",
+    "type": "رواية",
+    "status": "مكتمل",
+    "is_novel": true,
+    "rating": "",
+    "total_chapters": 51,
+    "genres": [
+      "أكشن",
+      "جريمة",
+      "دراما",
+      "ظواهر خارقة للطبيعة"
+    ]
+  },
+  {
+    "id": "العصر المقفر كول",
+    "title": "العصر المقفر كول",
+    "url": "https://kolnovel.com/series/dasaleta-are-kol",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2020/10/33-113x150.jpg",
+    "type": "رواية",
+    "status": "مكتمل",
+    "is_novel": true,
+    "rating": "",
+    "total_chapters": 2,
+    "genres": [
+      "أكشن",
+      "ظواهر خارقة للطبيعة",
+      "فنون القتال"
+    ]
+  },
+  {
+    "id": "العرش الإلهي للدم البدائي",
+    "title": "العرش الإلهي للدم البدائي",
+    "url": "https://kolnovel.com/series/divine-throne-of-primordial-blood",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2021/11/2c3e4c061356161b.png",
+    "type": "رواية",
+    "status": "مكتمل",
+    "is_novel": true,
+    "rating": "",
+    "total_chapters": 2,
+    "genres": [
+      "أكشن",
+      "غموض"
+    ]
+  },
+  {
+    "id": "منزل أهوالي",
+    "title": "منزل أهوالي",
+    "url": "https://kolnovel.com/series/kol-myhous-o-f-horrors",
+    "cover_url": "https://kolnovel.com/wp-content/themes/starless/assets/images/noimg165px.png",
+    "type": "رواية",
+    "status": "مكتمل",
+    "is_novel": true,
+    "rating": "",
+    "total_chapters": 51,
+    "genres": [
+      "رعب",
+      "غموض",
+      "كوميدي",
+      "مغامرة"
+    ]
+  },
+  {
+    "id": "العالم القتالي",
+    "title": "العالم القتالي",
+    "url": "https://kolnovel.com/series/martial-world",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2020/10/Martial-Worl3d-100x150.jpg",
+    "type": "رواية",
+    "status": "مكتمل",
+    "is_novel": true,
+    "rating": "",
+    "total_chapters": 2,
+    "genres": [
+      "أكشن",
+      "حريم",
+      "فنون قتال",
+      "قوى خارقة",
+      "مغامرة"
+    ]
+  },
+  {
+    "id": "عالم ألعاب المواعدة صعب على موب",
+    "title": "عالم ألعاب المواعدة صعب على موب",
+    "url": "https://kolnovel.com/series/the-world-of-otome-games-is-tough-for-mobs",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2023/03/OIP-106x150.jpg",
+    "type": "رواية",
+    "status": "متوقف مؤقتاً",
+    "is_novel": true,
+    "rating": "",
+    "total_chapters": 2,
+    "genres": [
+      "أكشن",
+      "الخيال العلمي",
+      "حريم",
+      "دراما",
+      "رومانسي",
+      "شونين",
+      "كوميدي",
+      "مغامرة",
+      "ميكا"
+    ]
+  },
+  {
+    "id": "الأب الزومبي",
+    "title": "الأب الزومبي",
+    "url": "https://kolnovel.com/series/%d8%a7%d9%84%d8%a3%d8%a8-%d8%a7%d9%84%d8%b2%d9%88%d9%85%d8%a8%d9%8a",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2023/11/IMG_0613-scaled.jpg",
+    "type": "رواية",
+    "status": "مكتمل",
+    "is_novel": true,
+    "rating": "",
+    "total_chapters": 52,
+    "genres": [
+      "أكشن",
+      "إثارة",
+      "خارق للطبيعة",
+      "غموض",
+      "قوى خارقة",
+      "ما بعد الكارثة"
+    ]
+  },
+  {
+    "id": "سورد آرت أونلاين",
+    "title": "سورد آرت أونلاين",
+    "url": "https://kolnovel.com/series/%d8%b3%d9%88%d8%b1%d8%af-%d8%a2%d8%b1%d8%aa-%d8%a3%d9%88%d9%86%d9%84%d8%a7%d9%8a%d9%86",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2025/07/Messenger_creation_1715092535810519.jpg",
+    "type": "رواية",
+    "status": "متوقف مؤقتاً",
+    "is_novel": true,
+    "rating": "",
+    "total_chapters": 1,
+    "genres": [
+      "أكشن",
+      "ألعاب",
+      "خيال علمي",
+      "دراما"
+    ]
+  },
+  {
+    "id": "جمر&الليل&الأبدي&",
+    "title": "جمر&الليل&الأبدي&",
+    "url": "https://kolnovel.com/series/aembersead-1nf11n1tum-kol",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2021/01/01078-embers-ad-infinitum_1-113x150.jpg",
+    "type": "رواية",
+    "status": "متوقف مؤقتاً",
+    "is_novel": true,
+    "rating": "",
+    "total_chapters": 2,
+    "genres": [
+      "أكشن",
+      "الخيال العلمي",
+      "غموض",
+      "ما بعد الكارثة",
+      "مغامرة"
+    ]
+  },
+  {
+    "id": "عودة الساحر العظيم بعد 4000 سنة",
+    "title": "عودة الساحر العظيم بعد 4000 سنة",
+    "url": "https://kolnovel.com/series/the-great-mage-returns-after-4000-years",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2021/03/The-Great-Mage-Returns-After-4000-Years-724x1024-1-e1647036725964.jpg",
+    "type": "رواية",
+    "status": "متوقف مؤقتاً",
+    "is_novel": true,
+    "rating": "",
+    "total_chapters": 20,
+    "genres": [
+      "أكشن",
+      "سحر",
+      "ظواهر خارقة للطبيعة",
+      "فنون قتال",
+      "مغامرة"
+    ]
+  },
+  {
+    "id": "الصياد البدائي",
+    "title": "الصياد البدائي",
+    "url": "https://kolnovel.com/series/%d8%a7%d9%84%d8%b5%d9%8a%d8%a7%d8%af-%d8%a7%d9%84%d8%a8%d8%af%d8%a7%d8%a6%d9%8a",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2024/10/Book-1-Cover_LE_upscale_balanced_x4.jpg",
+    "type": "رواية",
+    "status": "متوقف مؤقتاً",
+    "is_novel": true,
+    "rating": "",
+    "total_chapters": 2,
+    "genres": [
+      "أكشن",
+      "بطل مضاد",
+      "خارق للطبيعة",
+      "غموض",
+      "فنتازيا",
+      "نظام",
+      "نفسي"
+    ]
+  },
+  {
+    "id": "مدجج بالعتاد",
+    "title": "مدجج بالعتاد",
+    "url": "https://kolnovel.com/series/overgeared",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2021/11/t7rk0gmdu4p71.png",
+    "type": "رواية",
+    "status": "مستمر",
+    "is_novel": true,
+    "rating": "",
+    "total_chapters": 51,
+    "genres": [
+      "أكشن",
+      "الخيال العلمي",
+      "تقمص شخصيات",
+      "شونين",
+      "كوميدي",
+      "مغامرة"
+    ]
+  },
+  {
+    "id": "سفاح خيالي في عالم حديث",
+    "title": "سفاح خيالي في عالم حديث",
+    "url": "https://kolnovel.com/series/fantasy-assassin-in-a-modern-world",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2021/10/300_3-113x150.jpg",
+    "type": "رواية",
+    "status": "متوقف مؤقتاً",
+    "is_novel": true,
+    "rating": "",
+    "total_chapters": 52,
+    "genres": [
+      "أكشن",
+      "خيال",
+      "سحر",
+      "فنون قتال",
+      "مغامرة"
+    ]
+  },
+  {
+    "id": "هيمنة الإمبراطور",
+    "title": "هيمنة الإمبراطور",
+    "url": "https://kolnovel.com/series/emperors-domination",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2020/10/680bc144fea8822f-106x150.jpg",
+    "type": "رواية",
+    "status": "مستمر",
+    "is_novel": true,
+    "rating": "",
+    "total_chapters": 51,
+    "genres": [
+      "أكشن",
+      "حريم",
+      "ظواهر خارقة للطبيعة",
+      "غموض",
+      "فنون القتال",
+      "مغامرة"
+    ]
+  },
+  {
+    "id": "لعبة الإياشيكي خاصتي",
+    "title": "لعبة الإياشيكي خاصتي",
+    "url": "https://kolnovel.com/series/my-iyashikei-game",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2021/02/ff_040701.png",
+    "type": "رواية",
+    "status": "مكتمل",
+    "is_novel": true,
+    "rating": "",
+    "total_chapters": 51,
+    "genres": [
+      "رعب",
+      "ظواهر خارقة للطبيعة",
+      "غموض",
+      "نفسي"
+    ]
+  },
+  {
+    "id": "مكتبة(مسار(السماء(كول",
+    "title": "مكتبة(مسار(السماء(كول",
+    "url": "https://kolnovel.com/series/librery-af-haevans-peth-kol",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2021/04/IMG_20211116_005737.png",
+    "type": "رواية",
+    "status": "متوقف مؤقتاً",
+    "is_novel": true,
+    "rating": "",
+    "total_chapters": 2,
+    "genres": [
+      "أكشن",
+      "حياة مدرسية",
+      "دراما",
+      "رومانسية",
+      "شوانهوان",
+      "فنون قتال",
+      "كوميديا",
+      "مغامرة"
+    ]
+  },
+  {
+    "id": "اله القتال آسورا",
+    "title": "اله القتال آسورا",
+    "url": "https://kolnovel.com/series/martial-god-asura",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2020/10/martial-god-asura-volume-1.jpg",
+    "type": "رواية",
+    "status": "متوقف مؤقتاً",
+    "is_novel": true,
+    "rating": "",
+    "total_chapters": 51,
+    "genres": [
+      "أكشن",
+      "رومانسي",
+      "فنون القتال",
+      "ناضج"
+    ]
+  },
+  {
+    "id": "وجهة نظر: المهندس الكارثي",
+    "title": "وجهة نظر: المهندس الكارثي",
+    "url": "https://kolnovel.com/series/%d9%88%d8%ac%d9%87%d8%a9-%d9%86%d8%b8%d8%b1-%d8%a7%d9%84%d9%85%d9%87%d9%86%d8%af%d8%b3-%d8%a7%d9%84%d9%83%d8%a7%d8%b1%d8%ab%d9%8a",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2025/06/Picsart_25-06-07_03-35-32-213.jpg",
+    "type": "رواية",
+    "status": "متوقف مؤقتاً",
+    "is_novel": true,
+    "rating": "",
+    "total_chapters": 2,
+    "genres": [
+      "أكشن",
+      "حياة مدرسية",
+      "خيال",
+      "رعب",
+      "قوى خارقة",
+      "كوميديا"
+    ]
+  },
+  {
+    "id": "القدوم الثاني للشره",
+    "title": "القدوم الثاني للشره",
+    "url": "https://kolnovel.com/series/the-second-coming-of-gluttony",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2020/11/1ad6922b44d7987e-scaled.jpg",
+    "type": "رواية",
+    "status": "متوقف مؤقتاً",
+    "is_novel": true,
+    "rating": "",
+    "total_chapters": 2,
+    "genres": [
+      "أكشن",
+      "دراما",
+      "سحر",
+      "مأساوي",
+      "نفسي"
+    ]
+  },
+  {
+    "id": "أوفرلورد",
+    "title": "أوفرلورد",
+    "url": "https://kolnovel.com/series/overlord",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2021/06/IMG_20211110_220820.png",
+    "type": "رواية",
+    "status": "مستمر",
+    "is_novel": true,
+    "rating": "",
+    "total_chapters": 2,
+    "genres": [
+      "أكشن",
+      "الخيال العلمي",
+      "دراما",
+      "سينن",
+      "مغامرة",
+      "ناضج",
+      "نفسي"
+    ]
+  },
+  {
+    "id": "أسرع رافع مستوي في العالم!",
+    "title": "أسرع رافع مستوي في العالم!",
+    "url": "https://kolnovel.com/series/i-became-the-strongest-without-being-restricted-by-the-rules-of-the-dungeon",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2022/11/Worlds-Fastest-Level-up-As-a-Result-of-the-Awakening-of-My-Incompetence-Skill-Transfer-Within-Dungeon-I-Became-the-Strongest-Without-Being-Restricted-by-the-Rules-of-the-Dungeon.jpg",
+    "type": "رواية",
+    "status": "متوقف مؤقتاً",
+    "is_novel": true,
+    "rating": "",
+    "total_chapters": 2,
+    "genres": [
+      "أكشن",
+      "حريم",
+      "رومانسي",
+      "شونين",
+      "كوميدي",
+      "مغامرة"
+    ]
+  },
+  {
+    "id": "لمسة الميكا",
+    "title": "لمسة الميكا",
+    "url": "https://kolnovel.com/series/%d9%84%d9%85%d8%b3%d8%a9-%d8%a7%d9%84%d9%85%d9%8a%d9%83%d8%a7",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2025/11/131_20251104112404.png",
+    "type": "رواية",
+    "is_novel": true,
+    "rating": "",
+    "total_chapters": 0,
+    "genres": [
+      "أكشن",
+      "خيال",
+      "خيال علمي",
+      "ميكا",
+      "نظام"
+    ],
+    "status": "متوقف مؤقتاً"
+  },
+  {
+    "id": "حُرقة",
+    "title": "حُرقة",
+    "url": "https://kolnovel.com/series/%d8%ad%d9%8f%d8%b1%d9%82%d8%a9",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2025/11/IMG_20251101_191840-102x150.webp",
+    "type": "رواية",
+    "is_novel": true,
+    "rating": "",
+    "total_chapters": 10,
+    "genres": [
+      "دراما",
+      "مدرسي",
+      "نفسي"
+    ],
+    "status": "مكتمل"
+  },
+  {
+    "id": "الشرير يرغب في العيش",
+    "title": "الشرير يرغب في العيش",
+    "url": "https://kolnovel.com/series/the-villain-wants-to-live",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2023/06/IMG_1684943582470-e1691256600676.png",
+    "type": "رواية",
+    "is_novel": true,
+    "rating": "",
+    "total_chapters": 51,
+    "genres": [
+      "أكشن",
+      "حياة مدرسية",
+      "دراما",
+      "كوميدي",
+      "مأساوي",
+      "نفسي"
+    ],
+    "status": "مكتمل"
+  },
+  {
+    "id": "التقاء التوأم",
+    "title": "التقاء التوأم",
+    "url": "https://kolnovel.com/series/%d8%a7%d9%84%d8%aa%d9%82%d8%a7%d8%a1-%d8%a7%d9%84%d8%aa%d9%88%d8%a3%d9%85",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2025/11/cropped-بدون-اسم138_20251111092449-1-32x32.png",
+    "type": "رواية",
+    "is_novel": true,
+    "rating": "",
+    "total_chapters": 3,
+    "genres": [],
+    "status": "متوقف مؤقتاً"
+  },
+  {
+    "id": "السكينة في النار",
+    "title": "السكينة في النار",
+    "url": "https://kolnovel.com/series/%d8%a7%d9%84%d8%b3%d9%83%d9%8a%d9%86%d8%a9-%d9%81%d9%8a-%d8%a7%d9%84%d9%86%d8%a7%d8%b1",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2023/10/Untitled-3-113x150.jpeg",
+    "type": "رواية",
+    "is_novel": true,
+    "rating": "",
+    "total_chapters": 2,
+    "genres": [
+      "أكشن",
+      "تاريخي",
+      "دراما",
+      "فنون القتال",
+      "مأساوي"
+    ],
+    "status": "متوقف مؤقتاً"
+  },
+  {
+    "id": "The Strongest Hokage",
+    "title": "The Strongest Hokage",
+    "url": "https://kolnovel.com/series/the-strongest-hokage",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2021/03/591s-113x150.jpg",
+    "type": "رواية",
+    "is_novel": true,
+    "rating": "",
+    "total_chapters": 51,
+    "genres": [
+      "أكشن",
+      "فنون القتال",
+      "قوى خارقة",
+      "مأساوي",
+      "مغامرة"
+    ],
+    "status": "متوقف مؤقتاً"
+  },
+  {
+    "id": "مصمم ألعاب الرعب",
+    "title": "مصمم ألعاب الرعب",
+    "url": "https://kolnovel.com/series/%d9%85%d8%b5%d9%85%d9%85-%d8%a3%d9%84%d8%b9%d8%a7%d8%a8-%d8%a7%d9%84%d8%b1%d8%b9%d8%a8",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2025/08/1056da0271861767.png",
+    "type": "رواية",
+    "is_novel": true,
+    "rating": "",
+    "total_chapters": 0,
+    "genres": [
+      "أكشن",
+      "خارق للطبيعة",
+      "خيال",
+      "رعب",
+      "غموض",
+      "مأساة",
+      "مغامرة",
+      "نفسي"
+    ],
+    "status": "متوقف مؤقتاً"
+  },
+  {
+    "id": "فصل النخبة كول",
+    "title": "فصل النخبة كول",
+    "url": "https://kolnovel.com/series/clessraam-af-tha-alita-kol",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2020/11/20240625_102848-scaled.jpeg",
+    "type": "رواية",
+    "is_novel": true,
+    "rating": "",
+    "total_chapters": 2,
+    "genres": [
+      "حريم",
+      "حياة مدرسية",
+      "دراما",
+      "رومانسي",
+      "شريحة من الحياة",
+      "غموض",
+      "كوميدي",
+      "نفسي"
+    ],
+    "status": "متوقف مؤقتاً"
+  },
+  {
+    "id": "سجلات الحروب البدائية",
+    "title": "سجلات الحروب البدائية",
+    "url": "https://kolnovel.com/series/%d8%b3%d8%ac%d9%84%d8%a7%d8%aa-%d8%a7%d9%84%d8%ad%d8%b1%d9%88%d8%a8-%d8%a7%d9%84%d8%a8%d8%af%d8%a7%d8%a6%d9%8a%d8%a9",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2025/11/1764141794456.png",
+    "type": "رواية",
+    "is_novel": true,
+    "rating": "",
+    "total_chapters": 3,
+    "genres": [
+      "أكشن مغامرة",
+      "سينين",
+      "شوانهوان",
+      "غموض",
+      "فنون قتال"
+    ],
+    "status": "متوقف مؤقتاً"
+  },
+  {
+    "id": "ضد الآلهة",
+    "title": "ضد الآلهة",
+    "url": "https://kolnovel.com/series/against-the-gods",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2021/04/IMG_20211031_231256-e1635715088137-768x967.png",
+    "type": "رواية",
+    "is_novel": true,
+    "rating": "",
+    "total_chapters": 3,
+    "genres": [
+      "أكشن",
+      "حريم",
+      "رومانسي",
+      "فنون القتال",
+      "مغامرة",
+      "ناضج"
+    ],
+    "status": "مستمر"
+  },
+  {
+    "id": "وردة بلاستيكية",
+    "title": "وردة بلاستيكية",
+    "url": "https://kolnovel.com/series/%d9%88%d8%b1%d8%af%d8%a9-%d8%a8%d9%84%d8%a7%d8%b3%d8%aa%d9%8a%d9%83%d9%8a%d8%a9",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2025/12/Design_20251213_210415_.png",
+    "type": "رواية",
+    "is_novel": true,
+    "rating": "",
+    "total_chapters": 1,
+    "genres": [
+      "شريحة من الحياة"
+    ],
+    "status": "مكتمل"
+  },
+  {
     "id": "المشعوذ الأعلى",
     "title": "المشعوذ الأعلى",
     "url": "https://kolnovel.com/series/supreme-magus",
     "cover_url": "https://kolnovel.com/wp-content/uploads/2020/10/0a6cba0111b6786e.png",
     "type": "رواية",
     "is_novel": true,
-    "rating": "9.0",
-    "total_chapters": 0,
-    "genres": []
+    "rating": "",
+    "total_chapters": 2,
+    "genres": [
+      "أكشن",
+      "سحر",
+      "مغامرة"
+    ],
+    "status": "مستمر"
   },
   {
     "id": "عيد نهاية السنة لا يأتي من أجلنا",
     "title": "عيد نهاية السنة لا يأتي من أجلنا",
     "url": "https://kolnovel.com/series/%d8%b9%d9%8a%d8%af-%d9%86%d9%87%d8%a7%d9%8a%d8%a9-%d8%a7%d9%84%d8%b3%d9%86%d8%a9-%d9%84%d8%a7-%d9%8a%d8%a3%d8%aa%d9%8a-%d9%85%d9%86-%d8%a3%d8%ac%d9%84%d9%86%d8%a7",
-    "cover_url": "https://kolnovel.com/wp-content/uploads/2026/01/Screenshot_٢٠٢٦-٠١-٠٥-٢١-٠٠-٢٢-٨٢٢-edit_com.discord.jpg",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2026/01/Screenshot_٢٠٢٦-٠١-٠٥-٢١-٠٠-٢٢-٨٢٢-edit_com.discord-101x150.jpg",
     "type": "رواية",
     "is_novel": true,
-    "rating": "7.5",
-    "total_chapters": 0,
-    "genres": []
+    "rating": "",
+    "total_chapters": 13,
+    "genres": [
+      "خيال",
+      "دراما",
+      "رومانسية",
+      "سنين",
+      "غموض"
+    ],
+    "status": "مستمر"
   },
   {
     "id": "الأربعة عشر عامًا التي قضيتها كقط",
     "title": "الأربعة عشر عامًا التي قضيتها كقط",
     "url": "https://kolnovel.com/series/%d8%a7%d9%84%d8%a3%d8%b1%d8%a8%d8%b9%d8%a9-%d8%b9%d8%b4%d8%b1-%d8%b9%d8%a7%d9%85%d9%8b%d8%a7-%d8%a7%d9%84%d8%aa%d9%8a-%d9%82%d8%b6%d9%8a%d8%aa%d9%87%d8%a7-%d9%83%d9%82%d8%b7",
-    "cover_url": "https://kolnovel.com/wp-content/uploads/2025/04/619PaVc0O7L._AC_UF10001000_QL80_.jpg",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2025/04/619PaVc0O7L._AC_UF10001000_QL80_-100x150.jpg",
     "type": "رواية",
     "is_novel": true,
-    "rating": "9.0",
-    "total_chapters": 0,
-    "genres": []
+    "rating": "",
+    "total_chapters": 10,
+    "genres": [
+      "قصة قصيرة",
+      "مأساة"
+    ],
+    "status": "مكتمل"
   },
   {
     "id": "متعة الحياة",
     "title": "متعة الحياة",
     "url": "https://kolnovel.com/series/joy-of-life",
-    "cover_url": "https://kolnovel.com/wp-content/uploads/2021/05/00759-joy-of-life.jpg",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2021/05/00759-joy-of-life-105x150.jpg",
     "type": "رواية",
     "is_novel": true,
-    "rating": "7.0",
-    "total_chapters": 0,
-    "genres": []
+    "rating": "",
+    "total_chapters": 51,
+    "genres": [
+      "تاريخي",
+      "حريم",
+      "دراما",
+      "رومانسية",
+      "ناضج",
+      "ووشيا"
+    ],
+    "status": "مستمر"
   },
   {
     "id": "الانحدار المطلق",
     "title": "الانحدار المطلق",
     "url": "https://kolnovel.com/series/%d8%a7%d9%84%d8%a7%d9%86%d8%ad%d8%af%d8%a7%d8%b1-%d8%a7%d9%84%d9%85%d8%b7%d9%84%d9%82",
-    "cover_url": "https://kolnovel.com/wp-content/uploads/2025/08/Absolute-Regression.jpg",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2025/08/Absolute-Regression-106x150.jpg",
     "type": "رواية",
     "is_novel": true,
-    "rating": "9.0",
-    "total_chapters": 0,
-    "genres": []
+    "rating": "",
+    "total_chapters": 51,
+    "genres": [
+      "أكشن",
+      "فانتازي",
+      "فنون قتال",
+      "كوميدي",
+      "مغامرة",
+      "ووشيا"
+    ],
+    "status": "مستمر"
   },
   {
     "id": "سجل رحلة فاني نحو الخلود",
@@ -61,20 +3095,36 @@
     "cover_url": "https://kolnovel.com/wp-content/uploads/2025/12/Screenshot_٢٠٢٥-١٢-٠٨-١٥-٣٢-٥٧-٦٣١-edit_com.android.chrome.jpg",
     "type": "رواية",
     "is_novel": true,
-    "rating": "8.5",
-    "total_chapters": 0,
-    "genres": []
+    "rating": "",
+    "total_chapters": 2,
+    "genres": [
+      "أكشن",
+      "خيال",
+      "رومانسية",
+      "شيانشيا",
+      "فنون قتال",
+      "مغامرة"
+    ],
+    "status": "متوقف مؤقتاً"
   },
   {
     "id": "لعنة الخيارات",
     "title": "لعنة الخيارات",
     "url": "https://kolnovel.com/series/%d9%84%d8%b9%d9%86%d8%a9-%d8%a7%d9%84%d8%ae%d9%8a%d8%a7%d8%b1%d8%a7%d8%aa",
-    "cover_url": "https://kolnovel.com/wp-content/uploads/2025/06/ad1322ae469d7b43.jpg",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2025/06/ad1322ae469d7b43-113x150.jpg",
     "type": "رواية",
     "is_novel": true,
-    "rating": "8.0",
-    "total_chapters": 0,
-    "genres": []
+    "rating": "",
+    "total_chapters": 2,
+    "genres": [
+      "خيال",
+      "دراما",
+      "رومانسية",
+      "غموض",
+      "فنون قتال",
+      "مغامرات"
+    ],
+    "status": "مستمر"
   },
   {
     "id": "عودة الإمبراطور",
@@ -83,20 +3133,38 @@
     "cover_url": "https://kolnovel.com/wp-content/uploads/2021/04/X_1078425-1.jpg",
     "type": "رواية",
     "is_novel": true,
-    "rating": "8.2",
-    "total_chapters": 0,
-    "genres": []
+    "rating": "",
+    "total_chapters": 51,
+    "genres": [
+      "أكشن",
+      "إثارة",
+      "دراما",
+      "مغامرة",
+      "ناضج"
+    ],
+    "status": "مستمر"
   },
   {
     "id": "حياتي كمرشد روحي في القصص المصورة الأمريكية",
     "title": "حياتي كمرشد روحي في القصص المصورة الأمريكية",
     "url": "https://kolnovel.com/series/%d8%ad%d9%8a%d8%a7%d8%aa%d9%8a-%d9%83%d9%85%d8%b1%d8%b4%d8%af-%d8%b1%d9%88%d8%ad%d9%8a-%d9%81%d9%8a-%d8%a7%d9%84%d9%82%d8%b5%d8%b5-%d8%a7%d9%84%d9%85%d8%b5%d9%88%d8%b1%d8%a9-%d8%a7%d9%84%d8%a3%d9%85",
-    "cover_url": "https://kolnovel.com/wp-content/uploads/2025/02/28472564208054505.jpeg",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2025/02/28472564208054505-113x150.jpeg",
     "type": "رواية",
     "is_novel": true,
-    "rating": "7.5",
-    "total_chapters": 0,
-    "genres": []
+    "rating": "",
+    "total_chapters": 51,
+    "genres": [
+      "اكشن",
+      "تناسخ",
+      "حياة مدرسية",
+      "دراما",
+      "رعب",
+      "سفر بالزمن",
+      "غموض",
+      "فانتازيا",
+      "فانفيك"
+    ],
+    "status": "مستمر"
   },
   {
     "id": "عودة مبالغ فيها",
@@ -105,20 +3173,32 @@
     "cover_url": "https://kolnovel.com/wp-content/uploads/2025/09/090355.png",
     "type": "رواية",
     "is_novel": true,
-    "rating": "8.5",
-    "total_chapters": 0,
-    "genres": []
+    "rating": "",
+    "total_chapters": 51,
+    "genres": [
+      "أكشن",
+      "خيال",
+      "رومانسية",
+      "كوميديا",
+      "مغامرة"
+    ],
+    "status": "مستمر"
   },
   {
     "id": "The Heavenly Demon Cant Live a Normal Life",
     "title": "The Heavenly Demon Cant Live a Normal Life",
     "url": "https://kolnovel.com/series/the-heavenly-demon-cant-live-a-normal-life",
-    "cover_url": "https://kolnovel.com/wp-content/uploads/2022/05/unknown-6-1-193x278-1.png",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2022/05/unknown-6-1-193x278-1-104x150.png",
     "type": "رواية",
     "is_novel": true,
     "rating": "",
-    "total_chapters": 0,
-    "genres": []
+    "total_chapters": 51,
+    "genres": [
+      "أكشن",
+      "فنون القتال",
+      "مغامرة"
+    ],
+    "status": "متوقف مؤقتاً"
   },
   {
     "id": "Mages Are Too OP",
@@ -127,20 +3207,15 @@
     "cover_url": "https://kolnovel.com/wp-content/uploads/2020/12/Michael_Fang.jpg",
     "type": "رواية",
     "is_novel": true,
-    "rating": "8.5",
-    "total_chapters": 0,
-    "genres": []
-  },
-  {
-    "id": "أسطورة الحكيم العظيم",
-    "title": "أسطورة الحكيم العظيم",
-    "url": "https://kolnovel.com/series/legend-of-the-great-sage",
-    "cover_url": "https://kolnovel.com/wp-content/uploads/2021/03/zixar.jpg",
-    "type": "رواية",
-    "is_novel": true,
-    "rating": "8.8",
-    "total_chapters": 0,
-    "genres": []
+    "rating": "",
+    "total_chapters": 51,
+    "genres": [
+      "أكشن",
+      "تقمص شخصيات",
+      "كوميدي",
+      "مغامرة"
+    ],
+    "status": "متوقف مؤقتاً"
   },
   {
     "id": "الغموض، القوى، الفوضى",
@@ -149,9 +3224,15 @@
     "cover_url": "https://kolnovel.com/wp-content/uploads/2025/11/AddText_11-29-03.57.56.png",
     "type": "رواية",
     "is_novel": true,
-    "rating": "8.5",
-    "total_chapters": 0,
-    "genres": []
+    "rating": "",
+    "total_chapters": 41,
+    "genres": [
+      "أكشن",
+      "بطل شرير",
+      "خيال",
+      "فنون قتال"
+    ],
+    "status": "مستمر"
   },
   {
     "id": "الساحر المتمرد",
@@ -160,31 +3241,52 @@
     "cover_url": "https://kolnovel.com/wp-content/uploads/2026/02/IMG_20260202_160013.png",
     "type": "رواية",
     "is_novel": true,
-    "rating": "8.0",
-    "total_chapters": 0,
-    "genres": []
+    "rating": "",
+    "total_chapters": 2,
+    "genres": [
+      "خارق للطبيعة",
+      "خيال",
+      "سحر",
+      "غموض",
+      "مغامرة"
+    ],
+    "status": "مستمر"
   },
   {
     "id": "من طائفة فنون القتال إلى طائفة صقل الخلود",
     "title": "من طائفة فنون القتال إلى طائفة صقل الخلود",
     "url": "https://kolnovel.com/series/%d9%85%d9%86-%d8%b7%d8%a7%d8%a6%d9%81%d8%a9-%d9%81%d9%86%d9%88%d9%86-%d8%a7%d9%84%d9%82%d8%aa%d8%a7%d9%84-%d8%a5%d9%84%d9%89-%d8%b7%d8%a7%d8%a6%d9%81%d8%a9-%d8%b5%d9%82%d9%84-%d8%a7%d9%84%d8%ae%d9%84",
-    "cover_url": "https://kolnovel.com/wp-content/uploads/2025/11/From-a-Martial-Arts-Sect-to-an-Immortal-Cultivation-Sect.png",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2025/11/From-a-Martial-Arts-Sect-to-an-Immortal-Cultivation-Sect-113x150.png",
     "type": "رواية",
     "is_novel": true,
-    "rating": "8.0",
-    "total_chapters": 0,
-    "genres": []
+    "rating": "",
+    "total_chapters": 51,
+    "genres": [
+      "أكشن",
+      "خيال",
+      "شيانشيا",
+      "فنون قتال",
+      "مغامرة"
+    ],
+    "status": "مستمر"
   },
   {
     "id": "انتفاضة الحُمر",
     "title": "انتفاضة الحُمر",
     "url": "https://kolnovel.com/series/%d8%a7%d9%86%d8%aa%d9%81%d8%a7%d8%b6%d8%a9-%d8%a7%d9%84%d8%ad%d9%8f%d9%85%d8%b1",
-    "cover_url": "https://kolnovel.com/wp-content/uploads/2025/12/unnamed.jpg",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2025/12/unnamed-768x983.jpg",
     "type": "رواية",
     "is_novel": true,
     "rating": "",
-    "total_chapters": 0,
-    "genres": []
+    "total_chapters": 2,
+    "genres": [
+      "أكشن",
+      "خيال",
+      "خيال علمي",
+      "مأساوي",
+      "ناضج"
+    ],
+    "status": "مستمر"
   },
   {
     "id": "ري زيرو: بدء الحياة في عالم أخر من الصفر",
@@ -193,9 +3295,15 @@
     "cover_url": "https://kolnovel.com/wp-content/uploads/2021/07/IMG_20230128_222953_363.jpg",
     "type": "رواية",
     "is_novel": true,
-    "rating": "8.0",
-    "total_chapters": 0,
-    "genres": []
+    "rating": "",
+    "total_chapters": 2,
+    "genres": [
+      "رومانسي",
+      "سينن",
+      "كوميدي",
+      "نفسي"
+    ],
+    "status": "متوقف مؤقتاً"
   },
   {
     "id": "ورثتُ قصر عائلة واين",
@@ -204,9 +3312,19 @@
     "cover_url": "https://kolnovel.com/wp-content/uploads/2026/03/1772853660601.png",
     "type": "رواية",
     "is_novel": true,
-    "rating": "8.5",
-    "total_chapters": 0,
-    "genres": []
+    "rating": "",
+    "total_chapters": 9,
+    "genres": [
+      "العصر الحديث",
+      "انتقال إلى عالم آخر",
+      "بطل مضاد",
+      "خارق للطبيعة",
+      "عائلي",
+      "قصة قصيرة",
+      "كوميديا",
+      "نظام"
+    ],
+    "status": "مستمر"
   },
   {
     "id": "حكايات عائد لانهائي",
@@ -215,9 +3333,17 @@
     "cover_url": "https://kolnovel.com/wp-content/uploads/2024/06/135_20240522055349.png",
     "type": "رواية",
     "is_novel": true,
-    "rating": "9.2",
-    "total_chapters": 0,
-    "genres": []
+    "rating": "",
+    "total_chapters": 2,
+    "genres": [
+      "أكشن",
+      "تشويق",
+      "خيال",
+      "دراما",
+      "غموض",
+      "كوميدي"
+    ],
+    "status": "مكتمل"
   },
   {
     "id": "إمبريالي شبه قسري",
@@ -226,20 +3352,34 @@
     "cover_url": "https://kolnovel.com/wp-content/uploads/2026/03/SemiCoercive-Imperialist_1.jpg",
     "type": "رواية",
     "is_novel": true,
-    "rating": "8.5",
-    "total_chapters": 0,
-    "genres": []
+    "rating": "",
+    "total_chapters": 25,
+    "genres": [
+      "أكشن",
+      "خيال",
+      "نفسي"
+    ],
+    "status": "مستمر"
   },
   {
     "id": "مجتمع الأبراج التنافسي اللامتناهي",
     "title": "مجتمع الأبراج التنافسي اللامتناهي",
     "url": "https://kolnovel.com/series/infinite-competitive-dungeon-society",
-    "cover_url": "https://kolnovel.com/wp-content/uploads/2023/01/Infinite-Competitive-Dungeon-Society.jpg",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2023/01/Infinite-Competitive-Dungeon-Society-107x150.jpg",
     "type": "رواية",
     "is_novel": true,
-    "rating": "8.0",
-    "total_chapters": 0,
-    "genres": []
+    "rating": "",
+    "total_chapters": 51,
+    "genres": [
+      "أكشن",
+      "حريم",
+      "شونين",
+      "ظواهر خارقة للطبيعة",
+      "فنون القتال",
+      "كوميدي",
+      "مغامرة"
+    ],
+    "status": "متوقف مؤقتاً"
   },
   {
     "id": "أريد أن آكل بنكرياسك",
@@ -248,20 +3388,34 @@
     "cover_url": "https://kolnovel.com/wp-content/uploads/2022/07/IMG_0423.jpeg",
     "type": "رواية",
     "is_novel": true,
-    "rating": "8.0",
-    "total_chapters": 0,
-    "genres": []
+    "rating": "",
+    "total_chapters": 12,
+    "genres": [
+      "حياة مدرسية",
+      "دراما",
+      "رومانسي",
+      "شريحة من الحياة",
+      "مأساوي"
+    ],
+    "status": "مكتمل"
   },
   {
-    "id": "ملك&الآلهة-kol",
-    "title": "ملك&الآلهة-kol",
+    "id": "ملك&الآلهة-",
+    "title": "ملك&الآلهة-",
     "url": "https://kolnovel.com/series/k1ng-of-goeds-kol",
-    "cover_url": "https://kolnovel.com/wp-content/uploads/2021/03/kog2_b.jpg",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2021/03/kog2_b-113x150.jpg",
     "type": "رواية",
+    "status": "مكتمل",
     "is_novel": true,
-    "rating": "8.0",
-    "total_chapters": 0,
-    "genres": []
+    "rating": "",
+    "total_chapters": 2,
+    "genres": [
+      "أكشن",
+      "حريم",
+      "فنون القتال",
+      "مأساوي",
+      "مغامرة"
+    ]
   },
   {
     "id": "سقوط الخيط: ما بعد الموت، نحو الفوضى",
@@ -270,9 +3424,17 @@
     "cover_url": "https://kolnovel.com/wp-content/uploads/2026/04/2busy4you_20260417_085804_0000.png",
     "type": "رواية",
     "is_novel": true,
-    "rating": "8.0",
-    "total_chapters": 0,
-    "genres": []
+    "rating": "",
+    "total_chapters": 2,
+    "genres": [
+      "أكشن",
+      "إيسيكاي",
+      "خيال",
+      "رومانسية",
+      "غموض",
+      "نفسي"
+    ],
+    "status": "مستمر"
   },
   {
     "id": "لورد الغوامض",
@@ -281,9 +3443,14 @@
     "cover_url": "https://kolnovel.com/wp-content/uploads/2020/10/بدون-اسم64_20260622023855.png",
     "type": "رواية",
     "is_novel": true,
-    "rating": "9.6",
-    "total_chapters": 0,
-    "genres": []
+    "rating": "",
+    "total_chapters": 2,
+    "genres": [
+      "خارق للطبيعة",
+      "غموض",
+      "مغامرة"
+    ],
+    "status": "مكتمل"
   },
   {
     "id": "تيرا نوفا اونلاين: صعود اللاعب الاقوى",
@@ -292,9 +3459,15 @@
     "cover_url": "https://kolnovel.com/wp-content/uploads/2024/07/بدون-اسم68_20260622072809.png",
     "type": "رواية",
     "is_novel": true,
-    "rating": "8.5",
-    "total_chapters": 0,
-    "genres": []
+    "rating": "",
+    "total_chapters": 2,
+    "genres": [
+      "أكشن",
+      "خيال",
+      "سحر",
+      "كوميدي"
+    ],
+    "status": "مكتمل"
   },
   {
     "id": "رحلة الامبراطور مدمر الاقدار",
@@ -303,9 +3476,15 @@
     "cover_url": "https://kolnovel.com/wp-content/uploads/2022/11/رحلة-الامبراطور-مدمر-الاقدار.jpg2_.jpg",
     "type": "رواية",
     "is_novel": true,
-    "rating": "7.5",
-    "total_chapters": 0,
-    "genres": []
+    "rating": "",
+    "total_chapters": 3,
+    "genres": [
+      "أكشن",
+      "رومانسي",
+      "فنون القتال",
+      "مغامرة"
+    ],
+    "status": "مستمر"
   },
   {
     "id": "سجل الالف حياة",
@@ -314,9 +3493,13 @@
     "cover_url": "https://kolnovel.com/wp-content/uploads/2023/03/بدون-اسم78_20260715191309.png",
     "type": "رواية",
     "is_novel": true,
-    "rating": "8.0",
-    "total_chapters": 0,
-    "genres": []
+    "rating": "",
+    "total_chapters": 2,
+    "genres": [
+      "أكشن",
+      "مغامرة"
+    ],
+    "status": "مكتمل"
   },
   {
     "id": "اله القتال ذو علامة التنين",
@@ -325,20 +3508,33 @@
     "cover_url": "https://kolnovel.com/wp-content/uploads/2020/10/بدون-اسم76_20260716013908.png",
     "type": "رواية",
     "is_novel": true,
-    "rating": "8.4",
-    "total_chapters": 0,
-    "genres": []
+    "rating": "",
+    "total_chapters": 51,
+    "genres": [
+      "أكشن",
+      "رومانسي",
+      "فنون قتال",
+      "كوميديا",
+      "مغامرة"
+    ],
+    "status": "مستمر"
   },
   {
     "id": "الإمبراطور الشيطاني كول",
     "title": "الإمبراطور الشيطاني كول",
     "url": "https://kolnovel.com/series/megik-ambarar-kol",
-    "cover_url": "https://kolnovel.com/wp-content/uploads/2020/11/t3.jpg",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2020/11/t3-107x150.jpg",
     "type": "رواية",
     "is_novel": true,
-    "rating": "9.0",
-    "total_chapters": 0,
-    "genres": []
+    "rating": "",
+    "total_chapters": 2,
+    "genres": [
+      "أكشن",
+      "فنون القتال",
+      "قوى خارقة",
+      "مغامرة"
+    ],
+    "status": "مكتمل"
   },
   {
     "id": "التقطني",
@@ -348,8 +3544,14 @@
     "type": "رواية",
     "is_novel": true,
     "rating": "",
-    "total_chapters": 0,
-    "genres": []
+    "total_chapters": 40,
+    "genres": [
+      "أكشن",
+      "استراتيجي",
+      "داخل لعبة",
+      "نظام"
+    ],
+    "status": "مستمر"
   },
   {
     "id": "حكاية تدريب العائد",
@@ -358,9 +3560,19 @@
     "cover_url": "https://kolnovel.com/wp-content/uploads/2025/08/file_00000000f50071fdb90aa171bb987b25.png",
     "type": "رواية",
     "is_novel": true,
-    "rating": "8.8",
-    "total_chapters": 0,
-    "genres": []
+    "rating": "",
+    "total_chapters": 51,
+    "genres": [
+      "أكشن",
+      "دراما",
+      "رومانسي",
+      "شيانشيا",
+      "فانتازيا",
+      "مأسأة",
+      "مغامرة",
+      "نفسي"
+    ],
+    "status": "مكتمل"
   },
   {
     "id": "مُصاغ الروح",
@@ -369,9 +3581,10 @@
     "cover_url": "https://kolnovel.com/wp-content/uploads/2025/08/بدون-اسم62_20260618190021.png",
     "type": "رواية",
     "is_novel": true,
-    "rating": "9.0",
-    "total_chapters": 0,
-    "genres": []
+    "rating": "",
+    "total_chapters": 43,
+    "genres": [],
+    "status": "متوقف مؤقتاً"
   },
   {
     "id": "التناسخ اللعين",
@@ -380,9 +3593,16 @@
     "cover_url": "https://kolnovel.com/wp-content/uploads/2022/07/p_2440k872b1-1.png",
     "type": "رواية",
     "is_novel": true,
-    "rating": "9.0",
-    "total_chapters": 0,
-    "genres": []
+    "rating": "",
+    "total_chapters": 51,
+    "genres": [
+      "أكشن",
+      "شونين",
+      "غموض",
+      "مأساوي",
+      "نفسي"
+    ],
+    "status": "مستمر"
   },
   {
     "id": "العالم القتالي الحقيقي",
@@ -391,9 +3611,18 @@
     "cover_url": "https://kolnovel.com/wp-content/uploads/2021/04/بدون-اسم77_20260715191512.png",
     "type": "رواية",
     "is_novel": true,
-    "rating": "8.6",
-    "total_chapters": 0,
-    "genres": []
+    "rating": "",
+    "total_chapters": 2,
+    "genres": [
+      "أكشن",
+      "رومانسي",
+      "غموض",
+      "فنون القتال",
+      "كوميدي",
+      "مغامرة",
+      "ناضج"
+    ],
+    "status": "مكتمل"
   },
   {
     "id": "48 ساعة باليوم",
@@ -402,9 +3631,14 @@
     "cover_url": "https://kolnovel.com/wp-content/uploads/2021/11/IMG_20211123_002409-1.png",
     "type": "رواية",
     "is_novel": true,
-    "rating": "8.0",
-    "total_chapters": 0,
-    "genres": []
+    "rating": "",
+    "total_chapters": 50,
+    "genres": [
+      "أكشن",
+      "الخيال العلمي",
+      "مغامرة"
+    ],
+    "status": "مستمر"
   },
   {
     "id": "مطور ألعاب الرعب: ألعابي ليست مرعبة لهذا الحد!",
@@ -413,9 +3647,17 @@
     "cover_url": "https://kolnovel.com/wp-content/uploads/2025/04/بدون-اسم105_20260728022936.png",
     "type": "رواية",
     "is_novel": true,
-    "rating": "8.0",
-    "total_chapters": 0,
-    "genres": []
+    "rating": "",
+    "total_chapters": 19,
+    "genres": [
+      "أكشن",
+      "خيال",
+      "رعب",
+      "رومانسية",
+      "غموض",
+      "كوميديا"
+    ],
+    "status": "مستمر"
   },
   {
     "id": "طبقات في البحر الملكي",
@@ -424,9 +3666,18 @@
     "cover_url": "https://kolnovel.com/wp-content/uploads/2026/06/AIRetouch___1.png",
     "type": "رواية",
     "is_novel": true,
-    "rating": "7.5",
-    "total_chapters": 0,
-    "genres": []
+    "rating": "",
+    "total_chapters": 2,
+    "genres": [
+      "حرب",
+      "خيال",
+      "خيال علمي",
+      "خيال مظلم",
+      "رعب",
+      "غموض",
+      "نفسي"
+    ],
+    "status": "مستمر"
   },
   {
     "id": "عودة الإمبراطور الشيطاني",
@@ -436,8 +3687,17 @@
     "type": "رواية",
     "is_novel": true,
     "rating": "",
-    "total_chapters": 0,
-    "genres": []
+    "total_chapters": 2,
+    "genres": [
+      "أكشن",
+      "انتقام",
+      "خيال",
+      "زنزانات",
+      "سحر",
+      "شياطين",
+      "مغامرة"
+    ],
+    "status": "مستمر"
   },
   {
     "id": "على سحر العائد أن يكون مميزًا",
@@ -446,20 +3706,37 @@
     "cover_url": "https://kolnovel.com/wp-content/uploads/2021/05/89_20231108135552.png",
     "type": "رواية",
     "is_novel": true,
-    "rating": "8.2",
-    "total_chapters": 0,
-    "genres": []
+    "rating": "",
+    "total_chapters": 51,
+    "genres": [
+      "أكشن",
+      "حياة مدرسية",
+      "خيال",
+      "دراما",
+      "رومانسية",
+      "شونين",
+      "كوميديا",
+      "مغامرة"
+    ],
+    "status": "مستمر"
   },
   {
     "id": "غريمغار: الرماد والأوهام",
     "title": "غريمغار: الرماد والأوهام",
     "url": "https://kolnovel.com/series/%d8%ba%d8%b1%d9%8a%d9%85%d8%ba%d8%a7%d8%b1-%d8%a7%d9%84%d8%b1%d9%85%d8%a7%d8%af-%d9%88%d8%a7%d9%84%d8%a3%d9%88%d9%87%d8%a7%d9%85",
-    "cover_url": "https://kolnovel.com/wp-content/uploads/2026/07/IMG__.jpg",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2026/07/IMG__-109x150.jpg",
     "type": "رواية",
     "is_novel": true,
     "rating": "",
-    "total_chapters": 0,
-    "genres": []
+    "total_chapters": 4,
+    "genres": [
+      "إيسيكاي",
+      "خيال",
+      "دراما",
+      "غموض",
+      "مغامرة"
+    ],
+    "status": "مستمر"
   },
   {
     "id": "ملك السحر المُعاد ولادته",
@@ -469,30 +3746,51 @@
     "type": "رواية",
     "is_novel": true,
     "rating": "",
-    "total_chapters": 0,
-    "genres": []
+    "total_chapters": 2,
+    "genres": [
+      "أكشن",
+      "تناسخ",
+      "خيال",
+      "دراما",
+      "سحر",
+      "غموض",
+      "مغامرة"
+    ],
+    "status": "مستمر"
   },
   {
-    "id": "ولادة&السيف&الشيطاني-kol",
-    "title": "ولادة&السيف&الشيطاني-kol",
+    "id": "ولادة&السيف&الشيطاني-",
+    "title": "ولادة&السيف&الشيطاني-",
     "url": "https://kolnovel.com/series/birthof-tha-demon1c-sword-kol",
     "cover_url": "https://kolnovel.com/wp-content/uploads/2021/01/499253146c81557d6-scaled.jpg",
     "type": "رواية",
+    "status": "متوقف مؤقتاً",
     "is_novel": true,
-    "rating": "9.0",
-    "total_chapters": 0,
-    "genres": []
+    "rating": "",
+    "total_chapters": 3,
+    "genres": [
+      "أكشن",
+      "خيال",
+      "دراما",
+      "سحر",
+      "فنون قتال"
+    ]
   },
   {
     "id": "سعي بربري",
     "title": "سعي بربري",
     "url": "https://kolnovel.com/series/%d8%b3%d8%b9%d9%8a-%d8%a8%d8%b1%d8%a8%d8%b1%d9%8a",
-    "cover_url": "https://kolnovel.com/wp-content/uploads/2025/04/s.jpg",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2025/04/s-108x150.jpg",
     "type": "رواية",
     "is_novel": true,
-    "rating": "9.0",
-    "total_chapters": 0,
-    "genres": []
+    "rating": "",
+    "total_chapters": 51,
+    "genres": [
+      "أكشن",
+      "بطل ناضج",
+      "خيال"
+    ],
+    "status": "متوقف مؤقتاً"
   },
   {
     "id": "الرسام الذي يرسم الزنزانات",
@@ -501,9 +3799,15 @@
     "cover_url": "https://kolnovel.com/wp-content/uploads/2026/07/بدون-اسم84_20260715191127.png",
     "type": "رواية",
     "is_novel": true,
-    "rating": "7.5",
-    "total_chapters": 0,
-    "genres": []
+    "rating": "",
+    "total_chapters": 8,
+    "genres": [
+      "أكشن",
+      "خيال",
+      "رعب",
+      "قوى خارقة"
+    ],
+    "status": "مستمر"
   },
   {
     "id": "القاتل الأزلي",
@@ -512,9 +3816,16 @@
     "cover_url": "https://kolnovel.com/wp-content/uploads/2025/03/113297.png",
     "type": "رواية",
     "is_novel": true,
-    "rating": "8.0",
-    "total_chapters": 0,
-    "genres": []
+    "rating": "",
+    "total_chapters": 2,
+    "genres": [
+      "أكشن",
+      "بقاء",
+      "سحر",
+      "مضاد البطل",
+      "مغامرة"
+    ],
+    "status": "مستمر"
   },
   {
     "id": "البداية بعد النهاية",
@@ -523,9 +3834,16 @@
     "cover_url": "https://kolnovel.com/wp-content/uploads/2020/10/بدون-اسم65_20260622025614.png",
     "type": "رواية",
     "is_novel": true,
-    "rating": "9.5",
-    "total_chapters": 0,
-    "genres": []
+    "rating": "",
+    "total_chapters": 3,
+    "genres": [
+      "أكشن",
+      "فنون قتال",
+      "قوى خارقة",
+      "مأساة",
+      "مغامرة"
+    ],
+    "status": "مكتمل"
   },
   {
     "id": "الأرض الأولى",
@@ -534,9 +3852,21 @@
     "cover_url": "https://kolnovel.com/wp-content/uploads/2021/01/C358AFCB-7EAD-4838-8250-400DCAA13A47.png",
     "type": "رواية",
     "is_novel": true,
-    "rating": "7.5",
-    "total_chapters": 0,
-    "genres": []
+    "rating": "",
+    "total_chapters": 2,
+    "genres": [
+      "أسرار",
+      "إثارة وتشويق",
+      "خارق للطبيعة",
+      "خيال علمي",
+      "دراما",
+      "سينين",
+      "غموض",
+      "غموض نفسي",
+      "فلسفي",
+      "نفسي"
+    ],
+    "status": "مستمر"
   },
   {
     "id": "حتى لو وقعت في قصة رعب يجب أن أذهب للعمل",
@@ -545,9 +3875,17 @@
     "cover_url": "https://kolnovel.com/wp-content/uploads/2025/07/بدون-اسم66_20260622032832.png",
     "type": "رواية",
     "is_novel": true,
-    "rating": "9.0",
-    "total_chapters": 0,
-    "genres": []
+    "rating": "",
+    "total_chapters": 2,
+    "genres": [
+      "أكشن",
+      "خارق للطبيعة",
+      "خيال",
+      "رعب",
+      "غموض",
+      "مأساة"
+    ],
+    "status": "مستمر"
   },
   {
     "id": "كاره الشوجو",
@@ -556,9 +3894,14 @@
     "cover_url": "https://kolnovel.com/wp-content/uploads/2025/10/IMG__-20-1.png",
     "type": "رواية",
     "is_novel": true,
-    "rating": "7.5",
-    "total_chapters": 0,
-    "genres": []
+    "rating": "",
+    "total_chapters": 2,
+    "genres": [
+      "أكشن",
+      "انتقام",
+      "خيال"
+    ],
+    "status": "مستمر"
   },
   {
     "id": "الليتش المجنون",
@@ -567,9 +3910,18 @@
     "cover_url": "https://kolnovel.com/wp-content/uploads/2021/03/113272.png",
     "type": "رواية",
     "is_novel": true,
-    "rating": "8.0",
-    "total_chapters": 0,
-    "genres": []
+    "rating": "",
+    "total_chapters": 51,
+    "genres": [
+      "أكشن",
+      "حريم",
+      "خيال علمي",
+      "سينن",
+      "كوميديا",
+      "مغامرة",
+      "ناضج"
+    ],
+    "status": "مستمر"
   },
   {
     "id": "المئة عهد",
@@ -579,8 +3931,15 @@
     "type": "رواية",
     "is_novel": true,
     "rating": "",
-    "total_chapters": 0,
-    "genres": []
+    "total_chapters": 51,
+    "genres": [
+      "أكشن",
+      "استراتيجي",
+      "خيال",
+      "خيال مظلم",
+      "سحر"
+    ],
+    "status": "مستمر"
   },
   {
     "id": "الابن الأصغر لسيد السيف",
@@ -589,9 +3948,15 @@
     "cover_url": "https://kolnovel.com/wp-content/uploads/2021/03/بدون-اسم112_20260802125700.png",
     "type": "رواية",
     "is_novel": true,
-    "rating": "8.8",
-    "total_chapters": 0,
-    "genres": []
+    "rating": "",
+    "total_chapters": 51,
+    "genres": [
+      "أكشن",
+      "خيال",
+      "فنون قتال",
+      "مغامرة"
+    ],
+    "status": "مستمر"
   },
   {
     "id": "ReForm: The Nobody",
@@ -600,31 +3965,34 @@
     "cover_url": "https://kolnovel.com/wp-content/uploads/2021/12/5972441263a9514c39309138784a6c69-01_1.jpg",
     "type": "رواية",
     "is_novel": true,
-    "rating": "7.0",
-    "total_chapters": 0,
-    "genres": []
-  },
-  {
-    "id": "كتاب المئة حياة",
-    "title": "كتاب المئة حياة",
-    "url": "https://kolnovel.com/series/%d9%83%d8%aa%d8%a7%d8%a8-%d8%a7%d9%84%d9%85%d8%a6%d8%a9-%d8%ad%d9%8a%d8%a7%d8%a9",
-    "cover_url": "https://kolnovel.com/wp-content/uploads/2026/08/بدون-اسم124_20260822084136.png",
-    "type": "رواية",
-    "is_novel": true,
     "rating": "",
-    "total_chapters": 0,
-    "genres": []
+    "total_chapters": 1,
+    "genres": [
+      "كوميدي",
+      "مأساوي"
+    ],
+    "status": "مكتمل"
   },
   {
     "id": "الحظ يفضل السقوط",
     "title": "الحظ يفضل السقوط",
     "url": "https://kolnovel.com/series/%d8%a7%d9%84%d8%ad%d8%b8-%d9%8a%d9%81%d8%b6%d9%84-%d8%a7%d9%84%d8%b3%d9%82%d9%88%d8%b7",
-    "cover_url": "https://kolnovel.com/wp-content/uploads/2026/05/135975-fortune-favors-the-fall.jpg.png",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2026/05/135975-fortune-favors-the-fall.jpg-100x150.png",
     "type": "رواية",
     "is_novel": true,
     "rating": "",
-    "total_chapters": 0,
-    "genres": []
+    "total_chapters": 5,
+    "genres": [
+      "أكشن",
+      "بناء ممالك",
+      "خيال",
+      "دهاليز",
+      "سحر",
+      "كوميديا",
+      "مغامرة",
+      "هوية مخفية"
+    ],
+    "status": "مستمر"
   },
   {
     "id": "أستاذ مزيف، يُساء فهمه على أنه قوي",
@@ -633,9 +4001,14 @@
     "cover_url": "https://kolnovel.com/wp-content/uploads/2026/06/بدون-اسم69_20260715195741.png",
     "type": "رواية",
     "is_novel": true,
-    "rating": "8.0",
-    "total_chapters": 0,
-    "genres": []
+    "rating": "",
+    "total_chapters": 2,
+    "genres": [
+      "إيسيكاي",
+      "خيال",
+      "مضاد البطل"
+    ],
+    "status": "مكتمل"
   },
   {
     "id": "الخيميائي الميكانيكي",
@@ -644,9 +4017,16 @@
     "cover_url": "https://kolnovel.com/wp-content/uploads/2021/01/بدون-اسم52_20260530141421.png",
     "type": "رواية",
     "is_novel": true,
-    "rating": "8.5",
-    "total_chapters": 0,
-    "genres": []
+    "rating": "",
+    "total_chapters": 2,
+    "genres": [
+      "أكشن",
+      "خارق للطبيعة",
+      "خيال",
+      "دموي",
+      "مغامرة"
+    ],
+    "status": "مستمر"
   },
   {
     "id": "الخلود الملعون",
@@ -655,27 +4035,13 @@
     "cover_url": "https://kolnovel.com/wp-content/uploads/2024/04/4_20240928135218.png",
     "type": "رواية",
     "is_novel": true,
-    "rating": "8.0",
-    "total_chapters": 0,
-    "genres": []
-  },
-  {
-    "id": "المحرر شخصية إضافية في الرواية",
-    "title": "المحرر شخصية إضافية في الرواية",
-    "url": "https://kolnovel.com/series/%d8%a7%d9%84%d9%85%d8%ad%d8%b1%d8%b1-%d8%b4%d8%ae%d8%b5%d9%8a%d8%a9-%d8%a5%d8%b6%d8%a7%d9%81%d9%8a%d8%a9-%d9%81%d9%8a-%d8%a7%d9%84%d8%b1%d9%88%d8%a7%d9%8a%d8%a9",
-    "cover_url": "https://kolnovel.com/wp-content/uploads/2026/02/resource_1.jpg",
-    "type": "رواية",
-    "is_novel": true,
-    "rating": "8.5",
-    "total_chapters": 102,
+    "rating": "",
+    "total_chapters": 2,
     "genres": [
       "أكشن",
-      "خيال",
-      "دراما",
-      "سينين",
-      "شريحة من الحياة",
-      "مغامرات",
-      "نفسي"
+      "شيانشيا",
+      "فنون قتال",
+      "مغامرة"
     ],
     "status": "مستمر"
   },
@@ -686,8 +4052,8 @@
     "cover_url": "https://kolnovel.com/wp-content/uploads/2026/07/5_1.jpg",
     "type": "رواية",
     "is_novel": true,
-    "rating": "7.5",
-    "total_chapters": 112,
+    "rating": "",
+    "total_chapters": 2,
     "genres": [
       "أكشن",
       "بناء مملكة",
@@ -702,22 +4068,22 @@
     "status": "مستمر"
   },
   {
-    "id": "نظام&سلالة&الدم-kol",
-    "title": "نظام&سلالة&الدم-kol",
+    "id": "نظام&سلالة&الدم-",
+    "title": "نظام&سلالة&الدم-",
     "url": "https://kolnovel.com/series/the-bloodl1ne-systam-kol",
-    "cover_url": "https://kolnovel.com/wp-content/uploads/2021/12/بدون-اسم46_20250203201559.png",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2021/12/بدون-اسم46_20250203201559-108x150.png",
     "type": "رواية",
+    "status": "مستمر",
     "is_novel": true,
-    "rating": "8.5",
-    "total_chapters": 855,
+    "rating": "",
+    "total_chapters": 51,
     "genres": [
       "أكشن",
       "خيال",
       "خيال علمي",
       "رومانسية",
       "مغامرة"
-    ],
-    "status": "مستمر"
+    ]
   },
   {
     "id": "من منظور المؤلف",
@@ -726,8 +4092,8 @@
     "cover_url": "https://kolnovel.com/wp-content/uploads/2022/11/بدون-اسم88_20260715191031.png",
     "type": "رواية",
     "is_novel": true,
-    "rating": "8.9",
-    "total_chapters": 629,
+    "rating": "",
+    "total_chapters": 2,
     "genres": [
       "أكشن",
       "دراما",
@@ -744,7 +4110,7 @@
     "cover_url": "https://kolnovel.com/wp-content/uploads/2026/10/FFB45937-8A9A-459D-9939-0A85D857C924.jpg",
     "type": "رواية",
     "is_novel": true,
-    "rating": "8.0",
+    "rating": "",
     "total_chapters": 2,
     "genres": [
       "بناء مملكة",
@@ -762,8 +4128,8 @@
     "cover_url": "https://kolnovel.com/wp-content/uploads/2026/07/7901f39a81210a9d7abb67d80cbccc69.png",
     "type": "رواية",
     "is_novel": true,
-    "rating": "7.5",
-    "total_chapters": 26,
+    "rating": "",
+    "total_chapters": 2,
     "genres": [
       "اكشن مغامرات",
       "ايسيكاي",
@@ -777,11 +4143,11 @@
     "id": "مهلة العشر أيام",
     "title": "مهلة العشر أيام",
     "url": "https://kolnovel.com/series/%d9%85%d9%87%d9%84%d8%a9-%d8%a7%d9%84%d8%b9%d8%b4%d8%b1-%d8%a3%d9%8a%d8%a7%d9%85",
-    "cover_url": "https://kolnovel.com/wp-content/uploads/2026/03/بدون-اسم16_20260331021720.png",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2026/03/بدون-اسم16_20260331021720-768x965.png",
     "type": "رواية",
     "is_novel": true,
-    "rating": "8.5",
-    "total_chapters": 60,
+    "rating": "",
+    "total_chapters": 2,
     "genres": [
       "ألغاز",
       "إثارة",
@@ -801,8 +4167,8 @@
     "cover_url": "https://kolnovel.com/wp-content/uploads/2020/10/IMG_20211104_024015-e1647036669834.png",
     "type": "رواية",
     "is_novel": true,
-    "rating": "8.0",
-    "total_chapters": 1551,
+    "rating": "",
+    "total_chapters": 51,
     "genres": [
       "أكشن",
       "الخيال العلمي",
@@ -821,8 +4187,8 @@
     "cover_url": "https://kolnovel.com/wp-content/uploads/2024/11/IMG_20250108_203348_762.png",
     "type": "رواية",
     "is_novel": true,
-    "rating": "7.5",
-    "total_chapters": 42,
+    "rating": "",
+    "total_chapters": 2,
     "genres": [
       "أكشن",
       "غموض",
@@ -838,8 +4204,8 @@
     "cover_url": "https://kolnovel.com/wp-content/uploads/2025/11/Picsart_25-11-27_16-28-47-925.jpg",
     "type": "رواية",
     "is_novel": true,
-    "rating": "8.0",
-    "total_chapters": 175,
+    "rating": "",
+    "total_chapters": 2,
     "genres": [
       "خارق للطبيعة",
       "خيال علمي",
@@ -856,8 +4222,8 @@
     "cover_url": "https://kolnovel.com/wp-content/uploads/2023/03/95_20231124170026.png",
     "type": "رواية",
     "is_novel": true,
-    "rating": "8.8",
-    "total_chapters": 931,
+    "rating": "",
+    "total_chapters": 2,
     "genres": [
       "أكشن",
       "إنتقال الى عالم أخر",
@@ -870,36 +4236,17 @@
     "id": "صفقة مع الشيطان",
     "title": "صفقة مع الشيطان",
     "url": "https://kolnovel.com/series/a-deal-with-the-devil",
-    "cover_url": "https://kolnovel.com/wp-content/themes/lightnovel/assets/images/noimg165px.png",
+    "cover_url": "https://kolnovel.com/wp-content/themes/starless/assets/images/noimg165px.png",
     "type": "رواية",
     "is_novel": true,
-    "rating": "6.0",
-    "total_chapters": 1,
+    "rating": "",
+    "total_chapters": 2,
     "genres": [
       "دراما",
       "ظواهر خارقة للطبيعة",
       "مأساوي"
     ],
     "status": "مكتمل"
-  },
-  {
-    "id": "المتعاقد الميتافيزيقي",
-    "title": "المتعاقد الميتافيزيقي",
-    "url": "https://kolnovel.com/series/%d8%a7%d9%84%d9%85%d8%aa%d8%b9%d8%a7%d9%82%d8%af-%d8%a7%d9%84%d9%85%d9%8a%d8%aa%d8%a7%d9%81%d9%8a%d8%b2%d9%8a%d9%82%d9%8a",
-    "cover_url": "https://kolnovel.com/wp-content/uploads/2026/09/صورة-ChatGPT-29-سبتمبر-2026،-06_43_43-ص.png",
-    "type": "رواية",
-    "is_novel": true,
-    "rating": "",
-    "total_chapters": 7,
-    "genres": [
-      "بناء إمبراطورية",
-      "خيال مظلم",
-      "سحر",
-      "شريحة من الحياة",
-      "غموض تدريجي",
-      "كوميديا"
-    ],
-    "status": "مستمر"
   },
   {
     "id": "ري زيرو إكس",
@@ -909,7 +4256,7 @@
     "type": "رواية",
     "is_novel": true,
     "rating": "",
-    "total_chapters": 17,
+    "total_chapters": 2,
     "genres": [
       "رومانسي",
       "سينن",
@@ -925,8 +4272,8 @@
     "cover_url": "https://kolnovel.com/wp-content/uploads/2026/10/file_00000000cf2882108d93c08f689ab874.png",
     "type": "رواية",
     "is_novel": true,
-    "rating": "7.5",
-    "total_chapters": 16,
+    "rating": "",
+    "total_chapters": 2,
     "genres": [
       "أكشن",
       "تطور شخصيات",
@@ -944,128 +4291,14 @@
     "status": "مستمر"
   },
   {
-    "id": "بوابة الخلود",
-    "title": "بوابة الخلود",
-    "url": "https://kolnovel.com/series/%d8%a8%d9%88%d8%a7%d8%a8%d8%a9-%d8%a7%d9%84%d8%ae%d9%84%d9%88%d8%af",
-    "cover_url": "https://kolnovel.com/wp-content/uploads/2025/01/بدون-اسم72.png",
-    "type": "رواية",
-    "is_novel": true,
-    "rating": "8.0",
-    "total_chapters": 1298,
-    "genres": [
-      "أكشن",
-      "خيال",
-      "شريحة من الحياة",
-      "شيانشيا",
-      "مغامرة",
-      "ووشيا"
-    ],
-    "status": "مستمر"
-  },
-  {
-    "id": "ملك قد لا يعود",
-    "title": "ملك قد لا يعود",
-    "url": "https://kolnovel.com/series/%d9%85%d9%84%d9%83-%d9%82%d8%af-%d9%84%d8%a7-%d9%8a%d8%b9%d9%88%d8%af",
-    "cover_url": "https://kolnovel.com/wp-content/uploads/2026/06/AKMNR_2MG-1.png",
-    "type": "رواية",
-    "is_novel": true,
-    "rating": "8.0",
-    "total_chapters": 39,
-    "genres": [
-      "أكشن",
-      "خيال",
-      "خيال مظلم",
-      "دراما",
-      "سحر",
-      "مغامرة"
-    ],
-    "status": "مستمر"
-  },
-  {
-    "id": "ملحمة سليل الخوف",
-    "title": "ملحمة سليل الخوف",
-    "url": "https://kolnovel.com/series/%d9%85%d9%84%d8%ad%d9%85%d8%a9-%d8%b3%d9%84%d9%8a%d9%84-%d8%a7%d9%84%d8%ae%d9%88%d9%81",
-    "cover_url": "https://kolnovel.com/wp-content/uploads/2025/12/file_000000005ff481f483b5f5169a41cb01.webp",
-    "type": "رواية",
-    "is_novel": true,
-    "rating": "8.0",
-    "total_chapters": 42,
-    "genres": [
-      "خيال علمي",
-      "رعب",
-      "سحر",
-      "غموض",
-      "مغامرة"
-    ],
-    "status": "مستمر"
-  },
-  {
-    "id": "سيد التمنّي",
-    "title": "سيد التمنّي",
-    "url": "https://kolnovel.com/series/%d8%b3%d9%8a%d8%af-%d8%a7%d9%84%d8%aa%d9%85%d9%86%d9%91%d9%8a",
-    "cover_url": "https://kolnovel.com/wp-content/uploads/2026/05/cover_author_name_lowered.png",
-    "type": "رواية",
-    "is_novel": true,
-    "rating": "8.0",
-    "total_chapters": 42,
-    "genres": [
-      "أكشن",
-      "خيال",
-      "دراما",
-      "رعب",
-      "غموض",
-      "قوى خارقة",
-      "مغامرة"
-    ],
-    "status": "مستمر"
-  },
-  {
-    "id": "اتضح أنني من عشيرة الأشرار!",
-    "title": "اتضح أنني من عشيرة الأشرار!",
-    "url": "https://kolnovel.com/series/%d8%a7%d8%aa%d8%b6%d8%ad-%d8%a3%d9%86%d9%86%d9%8a-%d9%85%d9%86-%d8%b9%d8%b4%d9%8a%d8%b1%d8%a9-%d8%a7%d9%84%d8%a3%d8%b4%d8%b1%d8%a7%d8%b1",
-    "cover_url": "https://kolnovel.com/wp-content/uploads/2026/05/GIF-260606_171205.gif",
-    "type": "رواية",
-    "is_novel": true,
-    "rating": "8.6",
-    "total_chapters": 382,
-    "genres": [
-      "إنتقام",
-      "بطل شرير",
-      "بناء مملكة",
-      "تدريب",
-      "حروب",
-      "دموي",
-      "مكر و خداع",
-      "نظام"
-    ],
-    "status": "مستمر"
-  },
-  {
-    "id": "المُتَحَرِّر",
-    "title": "المُتَحَرِّر",
-    "url": "https://kolnovel.com/series/%d8%a7%d9%84%d9%85%d9%8f%d8%aa%d9%8e%d8%ad%d9%8e%d8%b1%d9%90%d9%91%d8%b1",
-    "cover_url": "https://kolnovel.com/wp-content/uploads/2026/09/cover.png",
-    "type": "رواية",
-    "is_novel": true,
-    "rating": "",
-    "total_chapters": 51,
-    "genres": [
-      "أكشن",
-      "خيال مظلم",
-      "غموض",
-      "فانتازيا"
-    ],
-    "status": "مستمر"
-  },
-  {
     "id": "بث الرامي العبقري",
     "title": "بث الرامي العبقري",
     "url": "https://kolnovel.com/series/%d8%a8%d8%ab-%d8%a7%d9%84%d8%b1%d8%a7%d9%85%d9%8a-%d8%a7%d9%84%d8%b9%d8%a8%d9%82%d8%b1%d9%8a",
-    "cover_url": "https://kolnovel.com/wp-content/uploads/2026/08/morph_9_seconds.gif",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2026/08/morph_9_seconds-768x1073.gif",
     "type": "رواية",
     "is_novel": true,
     "rating": "",
-    "total_chapters": 280,
+    "total_chapters": 2,
     "genres": [
       "أكشن",
       "خيال",
@@ -1078,55 +4311,14 @@
     "status": "مستمر"
   },
   {
-    "id": "ملك سمات الفنون القتالية",
-    "title": "ملك سمات الفنون القتالية",
-    "url": "https://kolnovel.com/series/%d9%85%d9%84%d9%83-%d8%b3%d9%85%d8%a7%d8%aa-%d8%a7%d9%84%d9%81%d9%86%d9%88%d9%86-%d8%a7%d9%84%d9%82%d8%aa%d8%a7%d9%84%d9%8a%d8%a9",
-    "cover_url": "https://kolnovel.com/wp-content/uploads/2026/01/GIF-260910_004008.gif",
-    "type": "رواية",
-    "is_novel": true,
-    "rating": "5.0",
-    "total_chapters": 1533,
-    "genres": [
-      "بطل وقح",
-      "خيال",
-      "شيانشيا",
-      "فنون قتال",
-      "مغامرة"
-    ],
-    "status": "مستمر"
-  },
-  {
-    "id": "موشوكو تينساي",
-    "title": "موشوكو تينساي",
-    "url": "https://kolnovel.com/series/mushoku-tensei",
-    "cover_url": "https://kolnovel.com/wp-content/uploads/2022/07/1.jpeg",
-    "type": "رواية",
-    "is_novel": true,
-    "rating": "4.8",
-    "total_chapters": 337,
-    "genres": [
-      "أكشن",
-      "حريم",
-      "خيال",
-      "دراما",
-      "رومانسي",
-      "سينن",
-      "كوميدي",
-      "مأساوي",
-      "مغامرة",
-      "ناضج"
-    ],
-    "status": "مستمر"
-  },
-  {
     "id": "عبد الظل",
     "title": "عبد الظل",
     "url": "https://kolnovel.com/series/%d8%b9%d8%a8%d8%af-%d8%a7%d9%84%d8%b8%d9%84",
     "cover_url": "https://kolnovel.com/wp-content/uploads/2025/01/ساني-1.jpg",
     "type": "رواية",
     "is_novel": true,
-    "rating": "4.8",
-    "total_chapters": 752,
+    "rating": "",
+    "total_chapters": 2,
     "genres": [
       "أكشن",
       "خيال",
@@ -1139,62 +4331,6 @@
     "status": "متوقف مؤقتاً"
   },
   {
-    "id": "تسلق البرج باستخدام قدرة إيقاف الزمن",
-    "title": "تسلق البرج باستخدام قدرة إيقاف الزمن",
-    "url": "https://kolnovel.com/series/%d8%aa%d8%b3%d9%84%d9%82-%d8%a7%d9%84%d8%a8%d8%b1%d8%ac-%d8%a8%d8%a7%d8%b3%d8%aa%d8%ae%d8%af%d8%a7%d9%85-%d9%82%d8%af%d8%b1%d8%a9-%d8%a5%d9%8a%d9%82%d8%a7%d9%81-%d8%a7%d9%84%d8%b2%d9%85%d9%86",
-    "cover_url": "https://kolnovel.com/wp-content/uploads/2026/07/113225-2.png",
-    "type": "رواية",
-    "is_novel": true,
-    "rating": "4.0",
-    "total_chapters": 42,
-    "genres": [
-      "أكشن",
-      "خيال",
-      "سينين",
-      "مغامرة"
-    ],
-    "status": "مستمر"
-  },
-  {
-    "id": "غوامض النبلاء",
-    "title": "غوامض النبلاء",
-    "url": "https://kolnovel.com/series/%d8%ba%d9%88%d8%a7%d9%85%d8%b6-%d8%a7%d9%84%d9%86%d8%a8%d9%84%d8%a7%d8%a1",
-    "cover_url": "https://kolnovel.com/wp-content/uploads/2026/09/بدون-اسم151_20260929090619.png",
-    "type": "رواية",
-    "is_novel": true,
-    "rating": "",
-    "total_chapters": 30,
-    "genres": [
-      "أكشن",
-      "خيال",
-      "دراما",
-      "غموض"
-    ],
-    "status": "مستمر"
-  },
-  {
-    "id": "كيف أعاد بطل واقعي بناء المملكة",
-    "title": "كيف أعاد بطل واقعي بناء المملكة",
-    "url": "https://kolnovel.com/series/%d9%83%d9%8a%d9%81-%d8%a3%d8%b9%d8%a7%d8%af-%d8%a8%d8%b7%d9%84-%d9%88%d8%a7%d9%82%d8%b9%d9%8a-%d8%a8%d9%86%d8%a7%d8%a1-%d8%a7%d9%84%d9%85%d9%85%d9%84%d9%83%d8%a9",
-    "cover_url": "https://kolnovel.com/wp-content/uploads/2026/08/RealistHero-LN-v02-Cover.jpg",
-    "type": "رواية",
-    "is_novel": true,
-    "rating": "5.0",
-    "total_chapters": 70,
-    "genres": [
-      "أكشن",
-      "حريم",
-      "خيال",
-      "دراما",
-      "رومانسية",
-      "سياسة",
-      "عسكرية",
-      "كوميديا",
-      "مغامرة"
-    ],
-    "status": "مستمر"
-  },
-  {
     "id": "امبراطور الخيمياء في العالم السماوي",
     "title": "امبراطور الخيمياء في العالم السماوي",
     "url": "https://kolnovel.com/series/elchamy-ambarar-af-tha-divina-dea",
@@ -1202,7 +4338,7 @@
     "type": "رواية",
     "is_novel": true,
     "rating": "",
-    "total_chapters": 3746,
+    "total_chapters": 51,
     "genres": [
       "حريم",
       "فنون القتال",
@@ -1213,95 +4349,14 @@
     "status": "مستمر"
   },
   {
-    "id": "سلسلة مونوغاتاري",
-    "title": "سلسلة مونوغاتاري",
-    "url": "https://kolnovel.com/series/%d8%b3%d9%84%d8%b3%d9%84%d8%a9-%d9%85%d9%88%d9%86%d9%88%d8%ba%d8%a7%d8%aa%d8%a7%d8%b1%d9%8a",
-    "cover_url": "https://kolnovel.com/wp-content/uploads/2026/09/mono.jpg",
-    "type": "رواية",
-    "is_novel": true,
-    "rating": "",
-    "total_chapters": 80,
-    "genres": [
-      "خارق للطبيعة",
-      "خوارق",
-      "خيال",
-      "دراما",
-      "رومانسية",
-      "غموض",
-      "كوميديا",
-      "ناضج",
-      "نفسي"
-    ],
-    "status": "مستمر"
-  },
-  {
-    "id": "سليل المملكة",
-    "title": "سليل المملكة",
-    "url": "https://kolnovel.com/series/kingdoms-bloodline",
-    "cover_url": "https://kolnovel.com/wp-content/uploads/2022/10/سليل-المملكة_20250918_161202_٠٠٠٠.png",
-    "type": "رواية",
-    "is_novel": true,
-    "rating": "5.0",
-    "total_chapters": 519,
-    "genres": [
-      "أكشن",
-      "خيال",
-      "دراما",
-      "سحر",
-      "فنون قتال",
-      "قوى خارقة",
-      "مغامرة"
-    ],
-    "status": "مستمر"
-  },
-  {
-    "id": "انبعاث الخوارق",
-    "title": "انبعاث الخوارق",
-    "url": "https://kolnovel.com/series/%d8%a7%d9%86%d8%a8%d8%b9%d8%a7%d8%ab-%d8%a7%d9%84%d8%ae%d9%88%d8%a7%d8%b1%d9%82",
-    "cover_url": "https://kolnovel.com/wp-content/uploads/2026/10/Screenshot_٢٠٢٦-١٠-١٥-٠٨-٣١-٥٠-٢٢٩_com.miui_.gallery-edit.jpg",
-    "type": "رواية",
-    "is_novel": true,
-    "rating": "",
-    "total_chapters": 60,
-    "genres": [
-      "إثارة",
-      "بقاء على قيد الحياة",
-      "خارق للطبيعة",
-      "رعب",
-      "غموض",
-      "قوى خارقة",
-      "نفسي"
-    ],
-    "status": "مستمر"
-  },
-  {
-    "id": "خالد العوالم التسعة",
-    "title": "خالد العوالم التسعة",
-    "url": "https://kolnovel.com/series/%d8%ae%d8%a7%d9%84%d8%af-%d8%a7%d9%84%d8%b9%d9%88%d8%a7%d9%84%d9%85-%d8%a7%d9%84%d8%aa%d8%b3%d8%b9%d8%a9",
-    "cover_url": "https://kolnovel.com/wp-content/uploads/2026/05/113296.png",
-    "type": "رواية",
-    "is_novel": true,
-    "rating": "4.0",
-    "total_chapters": 89,
-    "genres": [
-      "أكشن",
-      "خيال",
-      "دراما",
-      "شوانهوان",
-      "شيانشيا",
-      "فنون قتال"
-    ],
-    "status": "مستمر"
-  },
-  {
     "id": "القس المجنون",
     "title": "القس المجنون",
     "url": "https://kolnovel.com/series/%d8%a7%d9%84%d9%82%d8%b3-%d8%a7%d9%84%d9%85%d8%ac%d9%86%d9%88%d9%86",
     "cover_url": "https://kolnovel.com/wp-content/uploads/2020/10/بدون-اسم114_20260804041241.png",
     "type": "رواية",
     "is_novel": true,
-    "rating": "5.0",
-    "total_chapters": 2373,
+    "rating": "",
+    "total_chapters": 3,
     "genres": [
       "أكشن",
       "رعب",
@@ -1314,74 +4369,6 @@
     "status": "مكتمل"
   },
   {
-    "id": "صعود شجرة الهاوية",
-    "title": "صعود شجرة الهاوية",
-    "url": "https://kolnovel.com/series/%d8%b5%d8%b9%d9%88%d8%af-%d8%b4%d8%ac%d8%b1%d8%a9-%d8%a7%d9%84%d9%87%d8%a7%d9%88%d9%8a%d8%a9",
-    "cover_url": "https://kolnovel.com/wp-content/uploads/2026/10/Crimson_World_Tree_Showdown.png",
-    "type": "رواية",
-    "is_novel": true,
-    "rating": "",
-    "total_chapters": 272,
-    "genres": [
-      "أعراق",
-      "بطل مضاد",
-      "بناء مملكة",
-      "حرب",
-      "حرب بين النجوم",
-      "زراعة",
-      "سلالة نادرة",
-      "غير بشري",
-      "فضاء",
-      "مأساة",
-      "نظام"
-    ],
-    "status": "مستمر"
-  },
-  {
-    "id": "أسرار سيد الدمى الخالد",
-    "title": "أسرار سيد الدمى الخالد",
-    "url": "https://kolnovel.com/series/%d8%a3%d8%b3%d8%b1%d8%a7%d8%b1-%d8%b3%d9%8a%d8%af-%d8%a7%d9%84%d8%af%d9%85%d9%89-%d8%a7%d9%84%d8%ae%d8%a7%d9%84%d8%af",
-    "cover_url": "https://kolnovel.com/wp-content/uploads/2025/07/بدون-اسم67_20260622033133.png",
-    "type": "رواية",
-    "is_novel": true,
-    "rating": "5.0",
-    "total_chapters": 185,
-    "genres": [
-      "أكشن",
-      "خيال",
-      "سينن",
-      "شيانشيا",
-      "غموض",
-      "فنون قتال",
-      "مغامرة"
-    ],
-    "status": "مستمر"
-  },
-  {
-    "id": "ما نسيه العالم",
-    "title": "ما نسيه العالم",
-    "url": "https://kolnovel.com/series/%d9%85%d8%a7-%d9%86%d8%b3%d9%8a%d9%87-%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85",
-    "cover_url": "https://kolnovel.com/wp-content/uploads/2026/09/Gemini_Generated_Image_38s0mf38s0mf38s0.jpg",
-    "type": "رواية",
-    "is_novel": true,
-    "rating": "",
-    "total_chapters": 51,
-    "genres": [
-      "إثارة",
-      "استراتيجي",
-      "بطل رمادي",
-      "خيال مظلم",
-      "دراما",
-      "سحر",
-      "سياسية",
-      "غموض",
-      "مؤامرة",
-      "ماساة",
-      "نفسي"
-    ],
-    "status": "مستمر"
-  },
-  {
     "id": "محنة الأجناس المتعددة",
     "title": "محنة الأجناس المتعددة",
     "url": "https://kolnovel.com/series/%d9%85%d8%ad%d9%86%d8%a9-%d8%a7%d9%84%d8%a3%d8%ac%d9%86%d8%a7%d8%b3-%d8%a7%d9%84%d9%85%d8%aa%d8%b9%d8%af%d8%af%d8%a9",
@@ -1389,7 +4376,7 @@
     "type": "رواية",
     "is_novel": true,
     "rating": "",
-    "total_chapters": 57,
+    "total_chapters": 51,
     "genres": [
       "أكشن",
       "زراعة",
@@ -1407,7 +4394,7 @@
     "type": "رواية",
     "is_novel": true,
     "rating": "",
-    "total_chapters": 282,
+    "total_chapters": 2,
     "genres": [
       "أكشن",
       "حريم",
@@ -1422,14 +4409,429 @@
     "status": "مستمر"
   },
   {
-    "id": "ري: زيرو – بداية الحياة في عالم آخر",
-    "title": "ري: زيرو – بداية الحياة في عالم آخر",
-    "url": "https://kolnovel.com/series/%d8%b1%d9%8a-%d8%b2%d9%8a%d8%b1%d9%88-%d8%a8%d8%af%d8%a7%d9%8a%d8%a9-%d8%a7%d9%84%d8%ad%d9%8a%d8%a7%d8%a9-%d9%81%d9%8a-%d8%b9%d8%a7%d9%84%d9%85-%d8%a2%d8%ae%d8%b1",
-    "cover_url": "https://kolnovel.com/wp-content/uploads/2026/10/a826e405f732171c.webp",
+    "id": "اتضح أنني من عشيرة الأشرار!",
+    "title": "اتضح أنني من عشيرة الأشرار!",
+    "url": "https://kolnovel.com/series/%d8%a7%d8%aa%d8%b6%d8%ad-%d8%a3%d9%86%d9%86%d9%8a-%d9%85%d9%86-%d8%b9%d8%b4%d9%8a%d8%b1%d8%a9-%d8%a7%d9%84%d8%a3%d8%b4%d8%b1%d8%a7%d8%b1",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2026/05/GIF-260606_171205.gif",
     "type": "رواية",
     "is_novel": true,
     "rating": "",
-    "total_chapters": 22,
+    "total_chapters": 51,
+    "genres": [
+      "إنتقام",
+      "بطل شرير",
+      "بناء مملكة",
+      "تدريب",
+      "حروب",
+      "دموي",
+      "مكر و خداع",
+      "نظام"
+    ],
+    "status": "مستمر"
+  },
+  {
+    "id": "سيد التمنّي",
+    "title": "سيد التمنّي",
+    "url": "https://kolnovel.com/series/%d8%b3%d9%8a%d8%af-%d8%a7%d9%84%d8%aa%d9%85%d9%86%d9%91%d9%8a",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2026/05/cover_author_name_lowered.png",
+    "type": "رواية",
+    "is_novel": true,
+    "rating": "",
+    "total_chapters": 2,
+    "genres": [
+      "أكشن",
+      "خيال",
+      "دراما",
+      "رعب",
+      "غموض",
+      "قوى خارقة",
+      "مغامرة"
+    ],
+    "status": "مستمر"
+  },
+  {
+    "id": "كتاب المئة حياة",
+    "title": "كتاب المئة حياة",
+    "url": "https://kolnovel.com/series/%d9%83%d8%aa%d8%a7%d8%a8-%d8%a7%d9%84%d9%85%d8%a6%d8%a9-%d8%ad%d9%8a%d8%a7%d8%a9",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2026/08/بدون-اسم124_20260822084136.png",
+    "type": "رواية",
+    "is_novel": true,
+    "rating": "",
+    "total_chapters": 51,
+    "genres": [
+      "أكشن",
+      "تناسخ",
+      "خيال",
+      "زراعة",
+      "فنون قتال",
+      "نظام"
+    ],
+    "status": "مستمر"
+  },
+  {
+    "id": "انبعاث الخوارق",
+    "title": "انبعاث الخوارق",
+    "url": "https://kolnovel.com/series/%d8%a7%d9%86%d8%a8%d8%b9%d8%a7%d8%ab-%d8%a7%d9%84%d8%ae%d9%88%d8%a7%d8%b1%d9%82",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2026/10/Screenshot_٢٠٢٦-١٠-١٥-٠٨-٣١-٥٠-٢٢٩_com.miui_.gallery-edit.jpg",
+    "type": "رواية",
+    "is_novel": true,
+    "rating": "",
+    "total_chapters": 51,
+    "genres": [
+      "إثارة",
+      "بقاء على قيد الحياة",
+      "خارق للطبيعة",
+      "رعب",
+      "غموض",
+      "قوى خارقة",
+      "نفسي"
+    ],
+    "status": "مستمر"
+  },
+  {
+    "id": "مجلس الخال!",
+    "title": "مجلس الخال!",
+    "url": "https://kolnovel.com/series/%d9%85%d8%ac%d9%84%d8%b3-%d8%a7%d9%84%d8%ae%d8%a7%d9%84",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2024/11/14_20241108121832.png",
+    "type": "رواية",
+    "status": "متوقف مؤقتاً",
+    "is_novel": true,
+    "rating": "",
+    "total_chapters": 2,
+    "genres": [
+      "غموض",
+      "نفسي"
+    ]
+  },
+  {
+    "id": "كيف أعاد بطل واقعي بناء المملكة",
+    "title": "كيف أعاد بطل واقعي بناء المملكة",
+    "url": "https://kolnovel.com/series/%d9%83%d9%8a%d9%81-%d8%a3%d8%b9%d8%a7%d8%af-%d8%a8%d8%b7%d9%84-%d9%88%d8%a7%d9%82%d8%b9%d9%8a-%d8%a8%d9%86%d8%a7%d8%a1-%d8%a7%d9%84%d9%85%d9%85%d9%84%d9%83%d8%a9",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2026/08/RealistHero-LN-v02-Cover.jpg",
+    "type": "رواية",
+    "is_novel": true,
+    "rating": "",
+    "total_chapters": 2,
+    "genres": [
+      "أكشن",
+      "حريم",
+      "خيال",
+      "دراما",
+      "رومانسية",
+      "سياسة",
+      "عسكرية",
+      "كوميديا",
+      "مغامرة"
+    ],
+    "status": "مستمر"
+  },
+  {
+    "id": "ملك سمات الفنون القتالية",
+    "title": "ملك سمات الفنون القتالية",
+    "url": "https://kolnovel.com/series/%d9%85%d9%84%d9%83-%d8%b3%d9%85%d8%a7%d8%aa-%d8%a7%d9%84%d9%81%d9%86%d9%88%d9%86-%d8%a7%d9%84%d9%82%d8%aa%d8%a7%d9%84%d9%8a%d8%a9",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2026/01/GIF-261024_234200.gif",
+    "type": "رواية",
+    "is_novel": true,
+    "rating": "",
+    "total_chapters": 51,
+    "genres": [
+      "بطل وقح",
+      "خيال",
+      "شيانشيا",
+      "فنون قتال",
+      "مغامرة"
+    ],
+    "status": "مستمر"
+  },
+  {
+    "id": "المتعاقد الميتافيزيقي",
+    "title": "المتعاقد الميتافيزيقي",
+    "url": "https://kolnovel.com/series/%d8%a7%d9%84%d9%85%d8%aa%d8%b9%d8%a7%d9%82%d8%af-%d8%a7%d9%84%d9%85%d9%8a%d8%aa%d8%a7%d9%81%d9%8a%d8%b2%d9%8a%d9%82%d9%8a",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2026/09/صورة-ChatGPT-29-سبتمبر-2026،-06_43_43-ص.png",
+    "type": "رواية",
+    "is_novel": true,
+    "rating": "",
+    "total_chapters": 8,
+    "genres": [
+      "بناء إمبراطورية",
+      "خيال مظلم",
+      "سحر",
+      "شريحة من الحياة",
+      "غموض تدريجي",
+      "كوميديا"
+    ],
+    "status": "مستمر"
+  },
+  {
+    "id": "سليل المملكة",
+    "title": "سليل المملكة",
+    "url": "https://kolnovel.com/series/kingdoms-bloodline",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2022/10/سليل-المملكة_20250918_161202_٠٠٠٠.png",
+    "type": "رواية",
+    "is_novel": true,
+    "rating": "",
+    "total_chapters": 2,
+    "genres": [
+      "أكشن",
+      "خيال",
+      "دراما",
+      "سحر",
+      "فنون قتال",
+      "قوى خارقة",
+      "مغامرة"
+    ],
+    "status": "مستمر"
+  },
+  {
+    "id": "أسطورة الحكيم العظيم",
+    "title": "أسطورة الحكيم العظيم",
+    "url": "https://kolnovel.com/series/legend-of-the-great-sage",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2021/03/zixar-118x150.jpg",
+    "type": "رواية",
+    "is_novel": true,
+    "rating": "",
+    "total_chapters": 2,
+    "genres": [
+      "أكشن",
+      "حريم",
+      "خيال",
+      "رومانسي",
+      "شيانشيا",
+      "فنون قتال",
+      "مغامرة"
+    ],
+    "status": "مستمر"
+  },
+  {
+    "id": "غوامض النبلاء",
+    "title": "غوامض النبلاء",
+    "url": "https://kolnovel.com/series/%d8%ba%d9%88%d8%a7%d9%85%d8%b6-%d8%a7%d9%84%d9%86%d8%a8%d9%84%d8%a7%d8%a1",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2026/09/بدون-اسم151_20260929090619.png",
+    "type": "رواية",
+    "is_novel": true,
+    "rating": "",
+    "total_chapters": 2,
+    "genres": [
+      "أكشن",
+      "خيال",
+      "دراما",
+      "غموض"
+    ],
+    "status": "مستمر"
+  },
+  {
+    "id": "تسلق البرج باستخدام قدرة إيقاف الزمن",
+    "title": "تسلق البرج باستخدام قدرة إيقاف الزمن",
+    "url": "https://kolnovel.com/series/%d8%aa%d8%b3%d9%84%d9%82-%d8%a7%d9%84%d8%a8%d8%b1%d8%ac-%d8%a8%d8%a7%d8%b3%d8%aa%d8%ae%d8%af%d8%a7%d9%85-%d9%82%d8%af%d8%b1%d8%a9-%d8%a5%d9%8a%d9%82%d8%a7%d9%81-%d8%a7%d9%84%d8%b2%d9%85%d9%86",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2026/07/113225-2.png",
+    "type": "رواية",
+    "is_novel": true,
+    "rating": "",
+    "total_chapters": 44,
+    "genres": [
+      "أكشن",
+      "خيال",
+      "سينين",
+      "مغامرة"
+    ],
+    "status": "مستمر"
+  },
+  {
+    "id": "المُتَحَرِّر",
+    "title": "المُتَحَرِّر",
+    "url": "https://kolnovel.com/series/%d8%a7%d9%84%d9%85%d9%8f%d8%aa%d9%8e%d8%ad%d9%8e%d8%b1%d9%90%d9%91%d8%b1",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2026/09/cover-101x150.png",
+    "type": "رواية",
+    "is_novel": true,
+    "rating": "",
+    "total_chapters": 5,
+    "genres": [
+      "أكشن",
+      "خيال مظلم",
+      "غموض",
+      "فانتازيا"
+    ],
+    "status": "مستمر"
+  },
+  {
+    "id": "ثلاث أيام",
+    "title": "ثلاث أيام",
+    "url": "https://kolnovel.com/series/%d8%ab%d9%84%d8%a7%d8%ab-%d8%a3%d9%8a%d8%a7%d9%85",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2026/10/1792949303156-99x150.webp",
+    "type": "رواية",
+    "status": "مستمر",
+    "is_novel": true,
+    "rating": "",
+    "total_chapters": 10,
+    "genres": [
+      "جريمة"
+    ]
+  },
+  {
+    "id": "موشوكو تينساي",
+    "title": "موشوكو تينساي",
+    "url": "https://kolnovel.com/series/mushoku-tensei",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2022/07/1.jpeg",
+    "type": "رواية",
+    "is_novel": true,
+    "rating": "",
+    "total_chapters": 2,
+    "genres": [
+      "أكشن",
+      "حريم",
+      "خيال",
+      "دراما",
+      "رومانسي",
+      "سينن",
+      "كوميدي",
+      "مأساوي",
+      "مغامرة",
+      "ناضج"
+    ],
+    "status": "مستمر"
+  },
+  {
+    "id": "ملحمة سليل الخوف",
+    "title": "ملحمة سليل الخوف",
+    "url": "https://kolnovel.com/series/%d9%85%d9%84%d8%ad%d9%85%d8%a9-%d8%b3%d9%84%d9%8a%d9%84-%d8%a7%d9%84%d8%ae%d9%88%d9%81",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2025/12/file_000000005ff481f483b5f5169a41cb01-125x150.webp",
+    "type": "رواية",
+    "is_novel": true,
+    "rating": "",
+    "total_chapters": 3,
+    "genres": [
+      "خيال علمي",
+      "رعب",
+      "سحر",
+      "غموض",
+      "مغامرة"
+    ],
+    "status": "مستمر"
+  },
+  {
+    "id": "بوابة الخلود",
+    "title": "بوابة الخلود",
+    "url": "https://kolnovel.com/series/%d8%a8%d9%88%d8%a7%d8%a8%d8%a9-%d8%a7%d9%84%d8%ae%d9%84%d9%88%d8%af",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2025/01/بدون-اسم72.png",
+    "type": "رواية",
+    "is_novel": true,
+    "rating": "",
+    "total_chapters": 2,
+    "genres": [
+      "أكشن",
+      "خيال",
+      "شريحة من الحياة",
+      "شيانشيا",
+      "مغامرة",
+      "ووشيا"
+    ],
+    "status": "مستمر"
+  },
+  {
+    "id": "ملك قد لا يعود",
+    "title": "ملك قد لا يعود",
+    "url": "https://kolnovel.com/series/%d9%85%d9%84%d9%83-%d9%82%d8%af-%d9%84%d8%a7-%d9%8a%d8%b9%d9%88%d8%af",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2026/06/AKMNR_2MG-1.png",
+    "type": "رواية",
+    "is_novel": true,
+    "rating": "",
+    "total_chapters": 2,
+    "genres": [
+      "أكشن",
+      "خيال",
+      "خيال مظلم",
+      "دراما",
+      "سحر",
+      "مغامرة"
+    ],
+    "status": "مستمر"
+  },
+  {
+    "id": "أرلوت",
+    "title": "أرلوت",
+    "url": "https://kolnovel.com/series/%d8%a3%d8%b1%d9%84%d9%88%d8%aa",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2026/10/1d8d2362-84a2-4e63-8c22-8e0d26649bd5-101x150.webp",
+    "type": "رواية",
+    "status": "مستمر",
+    "is_novel": true,
+    "rating": "",
+    "total_chapters": 3,
+    "genres": [
+      "درامي",
+      "رومانسي",
+      "نفسي"
+    ]
+  },
+  {
+    "id": "فيوليت إيفرغاردن",
+    "title": "فيوليت إيفرغاردن",
+    "url": "https://kolnovel.com/series/violet-evergarden",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2022/07/Violet_Evergarden_Volume_1-106x150.png",
+    "type": "رواية",
+    "status": "مكتمل",
+    "is_novel": true,
+    "rating": "",
+    "total_chapters": 2,
+    "genres": [
+      "دراما",
+      "شريحة من الحياة"
+    ]
+  },
+  {
+    "id": "صعود شجرة الهاوية",
+    "title": "صعود شجرة الهاوية",
+    "url": "https://kolnovel.com/series/%d8%b5%d8%b9%d9%88%d8%af-%d8%b4%d8%ac%d8%b1%d8%a9-%d8%a7%d9%84%d9%87%d8%a7%d9%88%d9%8a%d8%a9",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2026/10/Crimson_World_Tree_Showdown.png",
+    "type": "رواية",
+    "is_novel": true,
+    "rating": "",
+    "total_chapters": 51,
+    "genres": [
+      "أعراق",
+      "بطل مضاد",
+      "بناء مملكة",
+      "حرب",
+      "حرب بين النجوم",
+      "زراعة",
+      "سلالة نادرة",
+      "غير بشري",
+      "فضاء",
+      "مأساة",
+      "نظام"
+    ],
+    "status": "مستمر"
+  },
+  {
+    "id": "سلسلة مونوغاتاري",
+    "title": "سلسلة مونوغاتاري",
+    "url": "https://kolnovel.com/series/%d8%b3%d9%84%d8%b3%d9%84%d8%a9-%d9%85%d9%88%d9%86%d9%88%d8%ba%d8%a7%d8%aa%d8%a7%d8%b1%d9%8a",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2026/09/mono-1498x2048.jpg",
+    "type": "رواية",
+    "is_novel": true,
+    "rating": "",
+    "total_chapters": 2,
+    "genres": [
+      "خارق للطبيعة",
+      "خوارق",
+      "خيال",
+      "دراما",
+      "رومانسية",
+      "غموض",
+      "كوميديا",
+      "ناضج",
+      "نفسي"
+    ],
+    "status": "مستمر"
+  },
+  {
+    "id": "ري: زيرو – بداية الحياة في عالم آخر",
+    "title": "ري: زيرو – بداية الحياة في عالم آخر",
+    "url": "https://kolnovel.com/series/%d8%b1%d9%8a-%d8%b2%d9%8a%d8%b1%d9%88-%d8%a8%d8%af%d8%a7%d9%8a%d8%a9-%d8%a7%d9%84%d8%ad%d9%8a%d8%a7%d8%a9-%d9%81%d9%8a-%d8%b9%d8%a7%d9%84%d9%85-%d8%a2%d8%ae%d8%b1",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2026/10/a826e405f732171c-106x150.webp",
+    "type": "رواية",
+    "is_novel": true,
+    "rating": "",
+    "total_chapters": 2,
     "genres": [
       "إثارة",
       "إيسيكاي",
@@ -1443,98 +4845,93 @@
     "status": "مستمر"
   },
   {
-    "id": "وردة بلاستيكية",
-    "title": "وردة بلاستيكية",
-    "url": "https://kolnovel.com/series/%d9%88%d8%b1%d8%af%d8%a9-%d8%a8%d9%84%d8%a7%d8%b3%d8%aa%d9%8a%d9%83%d9%8a%d8%a9",
-    "cover_url": "https://kolnovel.com/wp-content/uploads/2025/12/Design_20251213_210415_.png",
-    "type": "رواية",
-    "is_novel": true,
-    "rating": "8.5",
-    "total_chapters": 0,
-    "genres": []
-  },
-  {
-    "id": "ضد الآلهة",
-    "title": "ضد الآلهة",
-    "url": "https://kolnovel.com/series/against-the-gods",
-    "cover_url": "https://kolnovel.com/wp-content/uploads/2021/04/IMG_20211031_231256-e1652077718410.png",
-    "type": "رواية",
-    "is_novel": true,
-    "rating": "8.8",
-    "total_chapters": 0,
-    "genres": []
-  },
-  {
-    "id": "سجلات الحروب البدائية",
-    "title": "سجلات الحروب البدائية",
-    "url": "https://kolnovel.com/series/%d8%b3%d8%ac%d9%84%d8%a7%d8%aa-%d8%a7%d9%84%d8%ad%d8%b1%d9%88%d8%a8-%d8%a7%d9%84%d8%a8%d8%af%d8%a7%d8%a6%d9%8a%d8%a9",
-    "cover_url": "https://kolnovel.com/wp-content/uploads/2025/11/1764141794456.png",
-    "type": "رواية",
-    "is_novel": true,
-    "rating": "8.1",
-    "total_chapters": 0,
-    "genres": []
-  },
-  {
-    "id": "فصل النخبة كول",
-    "title": "فصل النخبة كول",
-    "url": "https://kolnovel.com/series/clessraam-af-tha-alita-kol",
-    "cover_url": "https://kolnovel.com/wp-content/uploads/2020/11/20240625_102848-scaled.jpeg",
-    "type": "رواية",
-    "is_novel": true,
-    "rating": "9.0",
-    "total_chapters": 0,
-    "genres": []
-  },
-  {
-    "id": "The Strongest Hokage",
-    "title": "The Strongest Hokage",
-    "url": "https://kolnovel.com/series/the-strongest-hokage",
-    "cover_url": "https://kolnovel.com/wp-content/uploads/2021/03/591s.jpg",
-    "type": "رواية",
-    "is_novel": true,
-    "rating": "7.0",
-    "total_chapters": 0,
-    "genres": []
-  },
-  {
-    "id": "مصمم ألعاب الرعب",
-    "title": "مصمم ألعاب الرعب",
-    "url": "https://kolnovel.com/series/%d9%85%d8%b5%d9%85%d9%85-%d8%a3%d9%84%d8%b9%d8%a7%d8%a8-%d8%a7%d9%84%d8%b1%d8%b9%d8%a8",
-    "cover_url": "https://kolnovel.com/wp-content/uploads/2025/08/1056da0271861767.png",
-    "type": "رواية",
-    "is_novel": true,
-    "rating": "8.5",
-    "total_chapters": 0,
-    "genres": []
-  },
-  {
-    "id": "السكينة في النار",
-    "title": "السكينة في النار",
-    "url": "https://kolnovel.com/series/%d8%a7%d9%84%d8%b3%d9%83%d9%8a%d9%86%d8%a9-%d9%81%d9%8a-%d8%a7%d9%84%d9%86%d8%a7%d8%b1",
-    "cover_url": "https://kolnovel.com/wp-content/uploads/2023/10/Untitled-3.jpeg",
-    "type": "رواية",
-    "is_novel": true,
-    "rating": "9.0",
-    "total_chapters": 0,
-    "genres": []
-  },
-  {
-    "id": "التقاء التوأم",
-    "title": "التقاء التوأم",
-    "url": "https://kolnovel.com/series/%d8%a7%d9%84%d8%aa%d9%82%d8%a7%d8%a1-%d8%a7%d9%84%d8%aa%d9%88%d8%a3%d9%85",
-    "cover_url": "https://kolnovel.com/wp-content/uploads/2025/11/cropped-بدون-اسم138_20251111092449-1.png",
+    "id": "أسرار سيد الدمى الخالد",
+    "title": "أسرار سيد الدمى الخالد",
+    "url": "https://kolnovel.com/series/%d8%a3%d8%b3%d8%b1%d8%a7%d8%b1-%d8%b3%d9%8a%d8%af-%d8%a7%d9%84%d8%af%d9%85%d9%89-%d8%a7%d9%84%d8%ae%d8%a7%d9%84%d8%af",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2025/07/بدون-اسم67_20260622033133.png",
     "type": "رواية",
     "is_novel": true,
     "rating": "",
-    "total_chapters": 0,
-    "genres": []
+    "total_chapters": 2,
+    "genres": [
+      "أكشن",
+      "خيال",
+      "سينن",
+      "شيانشيا",
+      "غموض",
+      "فنون قتال",
+      "مغامرة"
+    ],
+    "status": "مستمر"
   },
   {
-    "id": "الشرير يرغب في العيش",
-    "title": "الشرير يرغب في العيش",
-    "url": "https://kolnovel.com/series/the-villain-wants-to-live",
-    "cover_url": "https://kolnovel.com/wp-content/uploads/2023/06/IMG_1684943582470-e1691256600676.png",
+    "id": "المحرر شخصية إضافية في الرواية",
+    "title": "المحرر شخصية إضافية في الرواية",
+    "url": "https://kolnovel.com/series/%d8%a7%d9%84%d9%85%d8%ad%d8%b1%d8%b1-%d8%b4%d8%ae%d8%b5%d9%8a%d8%a9-%d8%a5%d8%b6%d8%a7%d9%81%d9%8a%d8%a9-%d9%81%d9%8a-%d8%a7%d9%84%d8%b1%d9%88%d8%a7%d9%8a%d8%a9",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2026/02/resource_1-111x150.jpg",
+    "type": "رواية",
+    "is_novel": true,
+    "rating": "",
+    "total_chapters": 51,
+    "genres": [
+      "أكشن",
+      "خيال",
+      "دراما",
+      "سينين",
+      "شريحة من الحياة",
+      "مغامرات",
+      "نفسي"
+    ],
+    "status": "مستمر"
+  },
+  {
+    "id": "ما نسيه العالم",
+    "title": "ما نسيه العالم",
+    "url": "https://kolnovel.com/series/%d9%85%d8%a7-%d9%86%d8%b3%d9%8a%d9%87-%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2026/09/Gemini_Generated_Image_38s0mf38s0mf38s0.jpg",
+    "type": "رواية",
+    "is_novel": true,
+    "rating": "",
+    "total_chapters": 2,
+    "genres": [
+      "إثارة",
+      "استراتيجي",
+      "بطل رمادي",
+      "خيال مظلم",
+      "دراما",
+      "سحر",
+      "سياسية",
+      "غموض",
+      "مؤامرة",
+      "ماساة",
+      "نفسي"
+    ],
+    "status": "مستمر"
+  },
+  {
+    "id": "خالد العوالم التسعة",
+    "title": "خالد العوالم التسعة",
+    "url": "https://kolnovel.com/series/%d8%ae%d8%a7%d9%84%d8%af-%d8%a7%d9%84%d8%b9%d9%88%d8%a7%d9%84%d9%85-%d8%a7%d9%84%d8%aa%d8%b3%d8%b9%d8%a9",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2026/05/113296.png",
+    "type": "رواية",
+    "is_novel": true,
+    "rating": "",
+    "total_chapters": 2,
+    "genres": [
+      "أكشن",
+      "خيال",
+      "دراما",
+      "شوانهوان",
+      "شيانشيا",
+      "فنون قتال"
+    ],
+    "status": "مستمر"
+  },
+  {
+    "id": "ملك&الآلهة-kol",
+    "title": "ملك&الآلهة-kol",
+    "url": "https://kolnovel.com/series/k1ng-of-goeds-kol",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2021/03/kog2_b.jpg",
     "type": "رواية",
     "is_novel": true,
     "rating": "8.0",
@@ -1542,26 +4939,33 @@
     "genres": []
   },
   {
-    "id": "لمسة الميكا",
-    "title": "لمسة الميكا",
-    "url": "https://kolnovel.com/series/%d9%84%d9%85%d8%b3%d8%a9-%d8%a7%d9%84%d9%85%d9%8a%d9%83%d8%a7",
-    "cover_url": "https://kolnovel.com/wp-content/uploads/2025/11/131_20251104112404.png",
+    "id": "ولادة&السيف&الشيطاني-kol",
+    "title": "ولادة&السيف&الشيطاني-kol",
+    "url": "https://kolnovel.com/series/birthof-tha-demon1c-sword-kol",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2021/01/499253146c81557d6-scaled.jpg",
     "type": "رواية",
     "is_novel": true,
-    "rating": "8.0",
+    "rating": "9.0",
     "total_chapters": 0,
     "genres": []
   },
   {
-    "id": "حُرقة",
-    "title": "حُرقة",
-    "url": "https://kolnovel.com/series/%d8%ad%d9%8f%d8%b1%d9%82%d8%a9",
-    "cover_url": "https://kolnovel.com/wp-content/uploads/2025/11/IMG_20251101_191840.webp",
+    "id": "نظام&سلالة&الدم-kol",
+    "title": "نظام&سلالة&الدم-kol",
+    "url": "https://kolnovel.com/series/the-bloodl1ne-systam-kol",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2021/12/بدون-اسم46_20250203201559.png",
     "type": "رواية",
     "is_novel": true,
-    "rating": "7.5",
-    "total_chapters": 0,
-    "genres": []
+    "rating": "8.5",
+    "total_chapters": 855,
+    "genres": [
+      "أكشن",
+      "خيال",
+      "خيال علمي",
+      "رومانسية",
+      "مغامرة"
+    ],
+    "status": "مستمر"
   },
   {
     "id": "%d9%84%d9%85%d8%b3%d8%a9-%d8%a7%d9%84%d9%85%d9%8a%d9%83%d8%a7",

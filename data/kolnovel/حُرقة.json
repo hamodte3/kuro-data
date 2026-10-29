@@ -1,11 +1,11 @@
 {
-  "id": "%d8%ad%d9%8f%d8%b1%d9%82%d8%a9",
+  "id": "حُرقة",
   "title": "حُرقة",
-  "cover_url": "https://kolnovel.com/wp-content/uploads/2025/11/IMG_20251101_191840.webp",
+  "cover_url": "https://kolnovel.com/wp-content/uploads/2025/11/IMG_20251101_191840-102x150.webp",
   "description": "لا أجيد كتابة الملخصات لذا قررت أن عدم كتابة واحدة أفضل من كتابة واحدة سيئة.",
   "type": "رواية",
   "status": "مكتمل",
-  "last_update": "نوفمبر 15, 2025",
+  "last_update": "",
   "rating": "",
   "favorites": "",
   "genres": [
@@ -15,8 +15,11 @@
   ],
   "is_novel": true,
   "chapters": {
+    "https://kolnovel.com/shaag24%d8%ad%d9%8f%d8%b1%d9%82%d8%a9z435ggye-262648": {
+      "name": "ابدأ القراءة ←"
+    },
     "https://kolnovel.com/shaag24%d8%ad%d9%8f%d8%b1%d9%82%d8%a9z435ggye-263423": {
-      "name": "الفصل 8: الفصل الثامن والأخير"
+      "name": "الفصل 8: آخر فصلالفصل 8 · الفصل الثامن والأخير"
     },
     "https://kolnovel.com/shaag24%d8%ad%d9%8f%d8%b1%d9%82%d8%a9z435ggye-263351": {
       "name": "الفصل 7: الفصل السابع"
@@ -41,9 +44,6 @@
     },
     "https://kolnovel.com/shaag24%d8%ad%d9%8f%d8%b1%d9%82%d8%a9z435ggye-262652": {
       "name": "الفصل 1.9: الفصل الأول ﴿الجزء الثاني﴾"
-    },
-    "https://kolnovel.com/shaag24%d8%ad%d9%8f%d8%b1%d9%82%d8%a9z435ggye-262648": {
-      "name": "الفصل 1: الفصل الأول ﴿الجزء الأول﴾"
     }
   }
 }
