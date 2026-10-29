@@ -1,6 +1,7 @@
 import json
 import os
 import re
+import subprocess
 import time
 from bs4 import BeautifulSoup
 from curl_cffi import requests
@@ -11,7 +12,7 @@ CATALOG_FILE = os.path.join(DATA_DIR, "catalog.json")
 GLOBAL_NEW_FILE = os.path.join("data", "new.json")
 
 DETAILS_SYNC_LIMIT = 20    # فحص تفاصيل وفصول أحدث 20 عملاً تم تحديثها
-MAX_DELTA_PAGES = 5        # فحص أول 5 صفحات فقط كل ساعة بدلاً من 1000
+MAX_DELTA_PAGES = 5        # فحص أول 5 صفحات فقط كل ساعة لمراقبة الجديد
 
 os.makedirs(DATA_DIR, exist_ok=True)
 os.makedirs("data", exist_ok=True)
@@ -33,6 +34,46 @@ def normalize_url(url: str) -> str:
         url = f"{BASE_URL}{url}" if url.startswith("/") else f"{BASE_URL}/{url}"
     url = url.replace("3asq.org", "3asq.online")
     return url.replace("http://", "https://").rstrip("/")
+
+def extract_cover_image(container) -> str:
+    """استخراج رابط الغلاف الحقيقي وتخطي صور dflazy المؤقتة والـ base64"""
+    if not container:
+        return ""
+
+    # 1. فحص وسوم <picture> أولاً لجلب صورة WebP بأعلى دقة
+    source = container.select_one("picture source[srcset]")
+    if source:
+        srcset = source.get("srcset", "").strip()
+        if srcset:
+            # اختيار الرابط الأخير في srcset لأنه يمثل الدقة الأعلى
+            best_link = srcset.split(",")[-1].strip().split(" ")[0]
+            if best_link and "dflazy" not in best_link and not best_link.startswith("data:"):
+                return normalize_url(best_link)
+
+    # 2. فحص وسم <img> وتفضيل data-src على src
+    img = container.select_one("img")
+    if not img:
+        return ""
+
+    candidates = [
+        img.get("data-src"),
+        img.get("data-lazy-src"),
+        img.get("data-srcset"),
+        img.get("src")
+    ]
+
+    for candidate in candidates:
+        if not candidate:
+            continue
+        clean = candidate.strip()
+        if "dflazy" in clean or clean.startswith("data:") or not clean:
+            continue
+        # لو كانت مصفوفة أحجام، نأخذ الرابط فقط
+        if " " in clean:
+            clean = clean.split(",")[-1].strip().split(" ")[0]
+        return normalize_url(clean)
+
+    return ""
 
 def format_type(raw_type: str) -> str:
     t = raw_type.strip().lower()
@@ -60,7 +101,6 @@ def format_rating(raw_rating: str) -> str:
         return ""
 
 def load_existing_catalog() -> dict:
-    """تحميل الأرشيف القديم لمنع مسح أو تصفير أي عمل سابق"""
     if not os.path.exists(CATALOG_FILE):
         return {}
     try:
@@ -72,7 +112,6 @@ def load_existing_catalog() -> dict:
         return {}
 
 def update_global_new_releases(new_releases: list):
-    """دمج الإشعارات الجديدة في data/new.json دون مسح تحديثات المصادر الأخرى"""
     if not new_releases:
         return
 
@@ -165,14 +204,12 @@ def scrape_manga_details_ashiq(session, manga_url: str):
     title_el = soup.select_one("div.post-title h1, h1")
     title = title_el.text.strip() if title_el else "بدون عنوان"
 
-    img_el = soup.select_one("div.summary_image img")
-    cover_url = ""
-    if img_el:
-        cover_url = (img_el.get("src") or img_el.get("data-src") or "").strip()
+    # جلب الغلاف عبر الدالة الذكية من الحاوية
+    summary_img = soup.select_one("div.summary_image")
+    cover_url = extract_cover_image(summary_img)
     if not cover_url:
         meta_img = soup.select_one("meta[property='og:image']")
-        cover_url = meta_img.get("content", "").strip() if meta_img else ""
-    cover_url = normalize_url(cover_url) if cover_url else ""
+        cover_url = normalize_url(meta_img.get("content", "").strip()) if meta_img else ""
 
     desc_paragraphs = [
         p.text.strip()
@@ -189,7 +226,6 @@ def scrape_manga_details_ashiq(session, manga_url: str):
     fav_match = re.search(r"\d+", favorites_text)
     favorites = fav_match.group(0) if fav_match else ""
 
-    # استخراج التصنيفات الحقيقية
     genres = [a.text.strip() for a in soup.select("div.genres-content a") if a.text.strip()]
 
     raw_type = ""
@@ -232,16 +268,34 @@ def scrape_manga_details_ashiq(session, manga_url: str):
         "chapters": chapters_map
     }
 
+def git_commit_and_push():
+    """رفع تحديثات العاشق تلقائياً إلى مستودع GitHub"""
+    try:
+        status = subprocess.run(["git", "status", "--porcelain", "data/"], capture_output=True, text=True, check=True)
+        if not status.stdout.strip():
+            print("📁 لا توجد تغييرات جديدة لرفعها إلى المستودع.")
+            return
+
+        print("\n🚀 جاري رفع تحديثات العاشق إلى المستودع...")
+        subprocess.run(["git", "add", "data/"], check=True)
+        subprocess.run(["git", "commit", "-m", "Auto update: ashiq sync [skip ci]"], check=True)
+        subprocess.run(["git", "pull", "--rebase"], check=True)
+        subprocess.run(["git", "push"], check=True)
+        print("✅ تم رفع التحديثات إلى GitHub بنجاح!")
+    except subprocess.CalledProcessError as e:
+        print(f"❌ تعذر الرفع عبر Git: {e}")
+    except Exception as e:
+        print(f"❌ خطأ غير متوقع أثناء الرفع: {e}")
+
 def sync_ashiq_fast():
     session = get_session()
-    print(f"بدء المزامنة الخاطفة للعاشق (فحص أول {MAX_DELTA_PAGES} صفحات مرتبة بالأحدث)...")
+    print(f"⚡ بدء مزامنة العاشق (فحص أول {MAX_DELTA_PAGES} صفحات مرتبة بالأحدث)...")
 
     catalog_dict = load_existing_catalog()
     recent_targets = []
 
-    # 1. سحب أول 5 صفحات فقط مع إجبار الترتيب بالأحدث لمراقبة الفصول الجديدة
     for page in range(1, MAX_DELTA_PAGES + 1):
-        url = f"{BASE_URL}/manga/?m_orderby=latest" if page == 1 else f"{BASE_URL}/manga/page/{page}/?m_orderby=latest"
+        url = f"{BASE_URL}/manga/?m_orderby=modified" if page == 1 else f"{BASE_URL}/manga/page/{page}/?m_orderby=modified"
         try:
             res = session.get(url, timeout=20)
             if res.status_code != 200:
@@ -263,12 +317,9 @@ def sync_ashiq_fast():
                 manga_url = normalize_url(link.get("href", ""))
                 slug = manga_url.split("/")[-1]
 
-                img = card.select_one("div.item-thumb img")
-                cover = ""
-                if img:
-                    cover = (img.get("src") or img.get("data-src") or "").strip()
-                if cover:
-                    cover = normalize_url(cover)
+                # استخراج الغلاف عبر دالة الفحص الدقيق
+                thumb_box = card.select_one("div.item-thumb")
+                cover = extract_cover_image(thumb_box)
 
                 score_el = card.select_one("span.score, span.total_votes")
                 rating = format_rating(score_el.text if score_el else "")
@@ -277,7 +328,6 @@ def sync_ashiq_fast():
                 badges_text = badges.text if badges else ""
                 is_novel = "رواية" in badges_text or "رواية" in title
 
-                # الدمج الآمن: الاحتفاظ بالفصول والتصنيفات السابقة
                 if slug in catalog_dict:
                     catalog_dict[slug]["title"] = title
                     catalog_dict[slug]["url"] = manga_url
@@ -285,7 +335,6 @@ def sync_ashiq_fast():
                         catalog_dict[slug]["cover_url"] = cover
                     if rating:
                         catalog_dict[slug]["rating"] = rating
-                    # رفع العمل لرأس القائمة
                     item_ref = catalog_dict.pop(slug)
                     catalog_dict = {slug: item_ref, **catalog_dict}
                 else:
@@ -298,7 +347,7 @@ def sync_ashiq_fast():
                             "type": "رواية" if is_novel else format_type(badges_text),
                             "rating": rating,
                             "total_chapters": 0,
-                            "genres": []  # تهيئة حقل التصنيفات دائماً
+                            "genres": []
                         },
                         **catalog_dict
                     }
@@ -316,7 +365,6 @@ def sync_ashiq_fast():
             print(f"خطأ أثناء سحب صفحة {page}: {e}")
             break
 
-    # 2. تحديث تفاصيل وفصول وتصنيفات أحدث 20 عملاً
     targets_to_scrape = recent_targets[:DETAILS_SYNC_LIMIT]
     new_releases = []
 
@@ -336,13 +384,12 @@ def sync_ashiq_fast():
             item["rating"] = details["rating"]
             item["type"] = details["type"]
             item["total_chapters"] = current_chaps
-            
-            # حفظ التصنيفات الحقيقية في الكاتلوج
             item["genres"] = details.get("genres", [])
+            if details.get("cover_url"):
+                item["cover_url"] = details["cover_url"]
 
-            print(f"✓ [{index}/{len(targets_to_scrape)}] تم تحديث العاشق: {slug} ({current_chaps} فصل) - تصنيفات: {item['genres']}")
+            print(f"✓ [{index}/{len(targets_to_scrape)}] تم تحديث العاشق: {slug} ({current_chaps} فصل)")
 
-            # كشف الفصول الجديدة لتوليد التنبيه
             if current_chaps > prev_chaps and current_chaps > 0:
                 new_releases.append({
                     "id": slug,
@@ -356,16 +403,17 @@ def sync_ashiq_fast():
         except Exception as e:
             print(f"خطأ أثناء معالجة {slug}: {e}")
 
-    # 3. حفظ الفهرس التراكمي الشامل بالتصنيفات
     full_catalog = list(catalog_dict.values())
     with open(CATALOG_FILE, "w", encoding="utf-8") as f:
         json.dump(full_catalog, f, ensure_ascii=False, indent=2)
 
-    # 4. تحديث الإشعارات العامة
     if new_releases:
         update_global_new_releases(new_releases)
 
-    print(f"\n⚡ اكتملت مزامنة العاشق الذكية! إجمالي الأعمال المحفوظة: {len(full_catalog)}")
+    print(f"\n⚡ اكتملت مزامنة العاشق بنجاح! إجمالي الأعمال: {len(full_catalog)}")
+    
+    # رفع التحديثات الجديدة إلى المستودع
+    git_commit_and_push()
 
 if __name__ == "__main__":
     sync_ashiq_fast()

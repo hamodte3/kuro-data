@@ -15,7 +15,7 @@ DATA_DIR = os.path.join("data", "despair")
 CATALOG_FILE = os.path.join(DATA_DIR, "catalog.json")
 GLOBAL_NEW_FILE = os.path.join("data", "new.json")
 
-DETAILS_SYNC_LIMIT = 1000    # تحديث تفاصيل وفصول أحدث 20 عملاً
+DETAILS_SYNC_LIMIT = 20    # تحديث تفاصيل وفصول أحدث 20 عملاً
 FETCH_LIMIT = 1000           # عدد الأعمال المسحوبة للمزامنة الدورية
 
 os.makedirs(DATA_DIR, exist_ok=True)
