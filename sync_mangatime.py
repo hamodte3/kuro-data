@@ -11,8 +11,8 @@ DATA_DIR = os.path.join("data", "mangatime")
 CATALOG_FILE = os.path.join(DATA_DIR, "catalog.json")
 GLOBAL_NEW_FILE = os.path.join("data", "new.json")
 
-DETAILS_SYNC_LIMIT = 20000    # فحص وتجهيز فصول أحدث 20 عملاً تم تحديثها
-MAX_DELTA_PAGES = 1000        # فحص أول 3 صفحات فقط كل ساعة (تغطي حتى 144 عملاً محدثاً)
+DETAILS_SYNC_LIMIT = 20    # فحص وتجهيز فصول أحدث 20 عملاً تم تحديثها
+MAX_DELTA_PAGES = 5        # فحص أول 3 صفحات فقط كل ساعة (تغطي حتى 144 عملاً محدثاً)
 
 os.makedirs(DATA_DIR, exist_ok=True)
 os.makedirs("data", exist_ok=True)

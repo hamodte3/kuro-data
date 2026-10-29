@@ -7,13 +7,7 @@
     "type": "رواية",
     "status": "مكتملة",
     "rating": "",
-    "total_chapters": 831,
-    "genres": [
-      "أكشن",
-      "خيال",
-      "سحر",
-      "كوميدى"
-    ]
+    "total_chapters": 831
   },
   {
     "id": "the-greatest-sinner",
@@ -23,17 +17,7 @@
     "type": "رواية",
     "status": "مستمرة",
     "rating": "",
-    "total_chapters": 326,
-    "genres": [
-      "نظام",
-      "إعادة ولادة",
-      "عالم آخر",
-      "سحر",
-      "زراعة",
-      "مغامرات",
-      "أكشن",
-      "خيال"
-    ]
+    "total_chapters": 326
   },
   {
     "id": "novel-120",
@@ -43,16 +27,7 @@
     "type": "رواية",
     "status": "مستمرة",
     "rating": "",
-    "total_chapters": 303,
-    "genres": [
-      "أكشن",
-      "بالغ",
-      "شوانهوان",
-      "غموض",
-      "فانتازيا",
-      "للكبار",
-      "مغامرات"
-    ]
+    "total_chapters": 303
   },
   {
     "id": "the-demonic-cultivator-in-zombie-world",
@@ -62,17 +37,7 @@
     "type": "رواية",
     "status": "مستمرة",
     "rating": "",
-    "total_chapters": 942,
-    "genres": [
-      "أكشن",
-      "مغامرات",
-      "رواية ويب",
-      "إيسكاي",
-      "خارق للطبيعة",
-      "شياطين",
-      "فانتازيا",
-      "فنون قتالية"
-    ]
+    "total_chapters": 942
   },
   {
     "id": "advent-of-the-three-calamities",
@@ -82,16 +47,7 @@
     "type": "رواية",
     "status": "مستمرة",
     "rating": "",
-    "total_chapters": 581,
-    "genres": [
-      "فانتازيا",
-      "أكشن",
-      "مغامرات",
-      "شريحة من الحياة",
-      "مأساة",
-      "رواية ويب",
-      "رومانسي"
-    ]
+    "total_chapters": 581
   },
   {
     "id": "global-game-afk-in-the-zombie-apocalypse-game",
@@ -101,36 +57,17 @@
     "type": "رواية",
     "status": "مستمرة",
     "rating": "",
-    "total_chapters": 1914,
-    "genres": [
-      "أكشن",
-      "إثارة",
-      "إيسكاي",
-      "تقمص شخصيات",
-      "خارق للطبيعة",
-      "خيال",
-      "مغامرات",
-      "رواية ويب"
-    ]
+    "total_chapters": 1914
   },
   {
-    "id": "mysteries-of-immortal-puppet-master-advent-of-immortal-truth",
-    "title": "أسرار سيد الدمى الخالدة",
-    "url": "https://seanovel.org/novels/mysteries-of-immortal-puppet-master-advent-of-immortal-truth",
-    "cover_url": "https://seanovel.org/api/novel/mysteries-of-immortal-puppet-master-advent-of-immortal-truth/cover",
+    "id": "my-wife-is-the-demonic-cult-leader",
+    "title": "زوجتي هي زعيمة طائفة شيطانية",
+    "url": "https://seanovel.org/novels/my-wife-is-the-demonic-cult-leader",
+    "cover_url": "https://seanovel.org/api/novel/my-wife-is-the-demonic-cult-leader/cover",
     "type": "رواية",
     "status": "مستمرة",
     "rating": "",
-    "total_chapters": 439,
-    "genres": [
-      "زيانشيا",
-      "شيانشيا",
-      "غموض",
-      "مغامرات",
-      "أكشن",
-      "فنون قتالية",
-      "فانتازيا"
-    ]
+    "total_chapters": 471
   },
   {
     "id": "6901e9bfcc7a2812b61205c1",
@@ -140,18 +77,127 @@
     "type": "رواية",
     "status": "مكتملة",
     "rating": "",
-    "total_chapters": 555,
-    "genres": [
-      "مترجمة",
-      "إعادة ولادة",
-      "سحر",
-      "قوي الى قوي",
-      "عالم حديث",
-      "مغامرة",
-      "غموض",
-      "اكشن",
-      "خيال"
-    ]
+    "total_chapters": 555
+  },
+  {
+    "id": "my-death-flags-show-no-sign-of-ending",
+    "title": "علامات موتي لا تظهر أي بوادر للنهاية",
+    "url": "https://seanovel.org/novels/my-death-flags-show-no-sign-of-ending",
+    "cover_url": "https://seanovel.org/api/novel/my-death-flags-show-no-sign-of-ending/cover",
+    "type": "رواية",
+    "status": "مستمرة",
+    "rating": "",
+    "total_chapters": 131
+  },
+  {
+    "id": "fantasy-simulator",
+    "title": "محاكي الخيال",
+    "url": "https://seanovel.org/novels/fantasy-simulator",
+    "cover_url": "https://seanovel.org/api/novel/fantasy-simulator/cover",
+    "type": "رواية",
+    "status": "مكتملة",
+    "rating": "",
+    "total_chapters": 853
+  },
+  {
+    "id": "79726",
+    "title": "ما فوق الساحر!",
+    "url": "https://seanovel.org/novels/79726",
+    "cover_url": "https://seanovel.org/api/novel/79726/cover",
+    "type": "رواية",
+    "status": "مستمرة",
+    "rating": "",
+    "total_chapters": 704
+  },
+  {
+    "id": "691ad0f9598211bfce5688d5",
+    "title": "إمبراطور التنين الأبدي",
+    "url": "https://seanovel.org/novels/691ad0f9598211bfce5688d5",
+    "cover_url": "https://seanovel.org/api/novel/691ad0f9598211bfce5688d5/cover",
+    "type": "رواية",
+    "status": "مكتملة",
+    "rating": "",
+    "total_chapters": 6005
+  },
+  {
+    "id": "simulation-of-prolonging-life",
+    "title": "محاكاة إطالة العمر",
+    "url": "https://seanovel.org/novels/simulation-of-prolonging-life",
+    "cover_url": "https://seanovel.org/api/novel/simulation-of-prolonging-life/cover",
+    "type": "رواية",
+    "status": "مستمرة",
+    "rating": "",
+    "total_chapters": 1429
+  },
+  {
+    "id": "life-rebooted-with-copy-and-paste",
+    "title": "إعادة تشغيل الحياة بالنسخ واللصق",
+    "url": "https://seanovel.org/novels/life-rebooted-with-copy-and-paste",
+    "cover_url": "https://seanovel.org/api/novel/life-rebooted-with-copy-and-paste/cover",
+    "type": "رواية",
+    "status": "مكتملة",
+    "rating": "",
+    "total_chapters": 200
+  },
+  {
+    "id": "radiant-blade-of-the-wilderness",
+    "title": "نصل البرية المشع",
+    "url": "https://seanovel.org/novels/radiant-blade-of-the-wilderness",
+    "cover_url": "https://seanovel.org/api/novel/radiant-blade-of-the-wilderness/cover",
+    "type": "رواية",
+    "status": "مستمرة",
+    "rating": "",
+    "total_chapters": 208
+  },
+  {
+    "id": "6917e475598211bfce402eff",
+    "title": "القاتل الخالد",
+    "url": "https://seanovel.org/novels/6917e475598211bfce402eff",
+    "cover_url": "https://seanovel.org/api/novel/6917e475598211bfce402eff/cover",
+    "type": "رواية",
+    "status": "مكتملة",
+    "rating": "",
+    "total_chapters": 1200
+  },
+  {
+    "id": "return-of-the-blossoming-blade",
+    "title": "عودة طائفة جبل هوا",
+    "url": "https://seanovel.org/novels/return-of-the-blossoming-blade",
+    "cover_url": "https://seanovel.org/api/novel/return-of-the-blossoming-blade/cover",
+    "type": "رواية",
+    "status": "مستمرة",
+    "rating": "",
+    "total_chapters": 1835
+  },
+  {
+    "id": "mysteries-of-immortal-puppet-master-advent-of-immortal-truth",
+    "title": "أسرار سيد الدمى الخالدة",
+    "url": "https://seanovel.org/novels/mysteries-of-immortal-puppet-master-advent-of-immortal-truth",
+    "cover_url": "https://seanovel.org/api/novel/mysteries-of-immortal-puppet-master-advent-of-immortal-truth/cover",
+    "type": "رواية",
+    "status": "مستمرة",
+    "rating": "",
+    "total_chapters": 439
+  },
+  {
+    "id": "novel-1649",
+    "title": "أنا شرير حقاً",
+    "url": "https://seanovel.org/novels/novel-1649",
+    "cover_url": "https://seanovel.org/api/novel/novel-1649/cover",
+    "type": "رواية",
+    "status": "مستمرة",
+    "rating": "",
+    "total_chapters": 682
+  },
+  {
+    "id": "shadow-slave",
+    "title": "عبد الظل",
+    "url": "https://seanovel.org/novels/shadow-slave",
+    "cover_url": "https://seanovel.org/api/novel/shadow-slave/cover",
+    "type": "رواية",
+    "status": "مستمرة",
+    "rating": "",
+    "total_chapters": 3190
   },
   {
     "id": "mushoku-tensei-isekai-ittara-honki-dasu",
@@ -161,19 +207,232 @@
     "type": "رواية",
     "status": "مستمرة",
     "rating": "",
-    "total_chapters": 284,
+    "total_chapters": 284
+  },
+  {
+    "id": "the-ideal-course",
+    "title": "the ideal course",
+    "url": "https://seanovel.org/novels/the-ideal-course",
+    "cover_url": "https://seanovel.org/api/novel/the-ideal-course/cover",
+    "type": "رواية",
+    "status": "مستمر",
+    "rating": "",
+    "genres": []
+  },
+  {
+    "id": "perfect-world",
+    "title": "عالم مثالي",
+    "url": "https://seanovel.org/novels/perfect-world",
+    "cover_url": "https://seanovel.org/api/novel/perfect-world/cover",
+    "type": "رواية",
+    "status": "مستمرة",
+    "rating": "",
+    "total_chapters": 1920,
     "genres": [
+      "أكشن",
       "خيال",
-      "دراما",
-      "رومانسي",
+      "كوميدى",
+      "مأساة"
+    ]
+  },
+  {
+    "id": "6907f77ac82c7dbad2b56434",
+    "title": "إمبراطور الروح إله القتال",
+    "url": "https://seanovel.org/novels/6907f77ac82c7dbad2b56434",
+    "cover_url": "https://seanovel.org/api/novel/6907f77ac82c7dbad2b56434/cover",
+    "type": "رواية",
+    "status": "مكتملة",
+    "rating": "",
+    "total_chapters": 1989
+  },
+  {
+    "id": "6905c6a9cc7a2812b616d09f",
+    "title": "​القطعة 31 تقلب لوح اللعبة",
+    "url": "https://seanovel.org/novels/6905c6a9cc7a2812b616d09f",
+    "cover_url": "https://seanovel.org/api/novel/6905c6a9cc7a2812b616d09f/cover",
+    "type": "رواية",
+    "status": "مستمر",
+    "rating": "",
+    "genres": [
+      "مترجمة",
+      "نظام",
       "سحر",
-      "سينن",
+      "ضعيف الى قوي",
+      "مغامرة"
+    ]
+  },
+  {
+    "id": "69bd2783bf96d8fc9c5023e5",
+    "title": "أنا غافل عن أنني إله الفنون القتالية الذي لا مثيل له",
+    "url": "https://seanovel.org/novels/69bd2783bf96d8fc9c5023e5",
+    "cover_url": "https://seanovel.org/api/novel/69bd2783bf96d8fc9c5023e5/cover",
+    "type": "رواية",
+    "status": "مستمرة",
+    "rating": "",
+    "total_chapters": 1534
+  },
+  {
+    "id": "69673c147d66c84567a7ccda",
+    "title": "المحقق العبقري",
+    "url": "https://seanovel.org/novels/69673c147d66c84567a7ccda",
+    "cover_url": "https://seanovel.org/api/novel/69673c147d66c84567a7ccda/cover",
+    "type": "رواية",
+    "status": "مكتملة",
+    "rating": "",
+    "total_chapters": 982
+  },
+  {
+    "id": "690e07cc6f0a5426d225f06f",
+    "title": "قدرة الاستيعاب: إنشاء وتعليم الداو في عوالم مختلفة.",
+    "url": "https://seanovel.org/novels/690e07cc6f0a5426d225f06f",
+    "cover_url": "https://seanovel.org/api/novel/690e07cc6f0a5426d225f06f/cover",
+    "type": "رواية",
+    "status": "مكتملة",
+    "rating": "",
+    "total_chapters": 1480,
+    "genres": [
+      "مترجمة",
+      "إعادة ولادة",
+      "عالم آخر",
+      "سحر",
+      "قوي الى قوي",
+      "مغامرة"
+    ]
+  },
+  {
+    "id": "novel-1680",
+    "title": "novel 1680",
+    "url": "https://seanovel.org/novels/novel-1680",
+    "cover_url": "https://seanovel.org/api/novel/novel-1680/cover",
+    "type": "رواية",
+    "status": "مستمر",
+    "rating": "",
+    "genres": []
+  },
+  {
+    "id": "soul-land-v-rebirth-of-tang-san",
+    "title": "soul land v rebirth of tang san",
+    "url": "https://seanovel.org/novels/soul-land-v-rebirth-of-tang-san",
+    "cover_url": "https://seanovel.org/api/novel/soul-land-v-rebirth-of-tang-san/cover",
+    "type": "رواية",
+    "status": "مستمر",
+    "rating": "",
+    "genres": []
+  },
+  {
+    "id": "gateway-of-immortality",
+    "title": "بوابة الخلود",
+    "url": "https://seanovel.org/novels/gateway-of-immortality",
+    "cover_url": "https://seanovel.org/api/novel/gateway-of-immortality/cover",
+    "type": "رواية",
+    "status": "مستمرة",
+    "rating": "",
+    "total_chapters": 772,
+    "genres": [
+      "أكشن",
+      "مغامرات",
+      "خيال",
+      "شريحة من الحياة"
+    ]
+  },
+  {
+    "id": "library-of-heavens-path",
+    "title": "مكتبة مسار السماء",
+    "url": "https://seanovel.org/novels/library-of-heavens-path",
+    "cover_url": "https://seanovel.org/api/novel/library-of-heavens-path/cover",
+    "type": "رواية",
+    "status": "مكتملة",
+    "rating": "",
+    "total_chapters": 1001,
+    "genres": [
       "كوميدى",
       "فانتازيا",
-      "السفر عبر الزمن",
-      "رواية ويب",
-      "لايت نوفل"
+      "مغامرات",
+      "أكشن",
+      "دراما",
+      "خيال",
+      "حريم"
     ]
+  },
+  {
+    "id": "villain-cultivator",
+    "title": "المزارع الشرير",
+    "url": "https://seanovel.org/novels/villain-cultivator",
+    "cover_url": "https://seanovel.org/api/novel/villain-cultivator/cover",
+    "type": "رواية",
+    "status": "مكتملة",
+    "rating": "",
+    "total_chapters": 763
+  },
+  {
+    "id": "6909c972d65992c7d04ef4ae",
+    "title": "الإحساس المطلق بالسيف",
+    "url": "https://seanovel.org/novels/6909c972d65992c7d04ef4ae",
+    "cover_url": "https://seanovel.org/api/novel/6909c972d65992c7d04ef4ae/cover",
+    "type": "رواية",
+    "status": "مستمرة",
+    "rating": "",
+    "total_chapters": 356
+  },
+  {
+    "id": "690df0466f0a5426d2250919",
+    "title": "المسار الذي لا نهاية له: الكون اللانهائي",
+    "url": "https://seanovel.org/novels/690df0466f0a5426d2250919",
+    "cover_url": "https://seanovel.org/api/novel/690df0466f0a5426d2250919/cover",
+    "type": "رواية",
+    "status": "مكتملة",
+    "rating": "",
+    "total_chapters": 2360
+  },
+  {
+    "id": "reincarnation-of-the-strongest-spirit-master",
+    "title": "reincarnation of the strongest spirit master",
+    "url": "https://seanovel.org/novels/reincarnation-of-the-strongest-spirit-master",
+    "cover_url": "https://seanovel.org/api/novel/reincarnation-of-the-strongest-spirit-master/cover",
+    "type": "رواية",
+    "status": "مستمر",
+    "rating": "",
+    "genres": []
+  },
+  {
+    "id": "68db80d61871e67f86edf623",
+    "title": "68db80d61871e67f86edf623",
+    "url": "https://seanovel.org/novels/68db80d61871e67f86edf623",
+    "cover_url": "https://seanovel.org/api/novel/68db80d61871e67f86edf623/cover",
+    "type": "رواية",
+    "status": "مستمر",
+    "rating": "",
+    "genres": []
+  },
+  {
+    "id": "the-dark-king",
+    "title": "الملك المظلم",
+    "url": "https://seanovel.org/novels/the-dark-king",
+    "cover_url": "https://seanovel.org/api/novel/the-dark-king/cover",
+    "type": "رواية",
+    "status": "مستمرة",
+    "rating": "",
+    "total_chapters": 798
+  },
+  {
+    "id": "690db1ad6f0a5426d2233c49",
+    "title": "اللورد شيو يينغ",
+    "url": "https://seanovel.org/novels/690db1ad6f0a5426d2233c49",
+    "cover_url": "https://seanovel.org/api/novel/690db1ad6f0a5426d2233c49/cover",
+    "type": "رواية",
+    "status": "مكتملة",
+    "rating": "",
+    "total_chapters": 1388
+  },
+  {
+    "id": "the-lone-wanderer",
+    "title": "​المتجول الوحيد",
+    "url": "https://seanovel.org/novels/the-lone-wanderer",
+    "cover_url": "https://seanovel.org/api/novel/the-lone-wanderer/cover",
+    "type": "رواية",
+    "status": "مستمرة",
+    "rating": "",
+    "total_chapters": 452
   },
   {
     "id": "the-worlds-greatest-martial-arts-instructor",
@@ -183,16 +442,120 @@
     "type": "رواية",
     "status": "مستمرة",
     "rating": "",
-    "total_chapters": 357,
+    "total_chapters": 357
+  },
+  {
+    "id": "cultivation-start-from-simplifying-martial-arts-techniques",
+    "title": "الزراعة: ابدأ بتبسيط تقنيات الفنون القتالية",
+    "url": "https://seanovel.org/novels/cultivation-start-from-simplifying-martial-arts-techniques",
+    "cover_url": "https://seanovel.org/api/novel/cultivation-start-from-simplifying-martial-arts-techniques/cover",
+    "type": "رواية",
+    "status": "مستمرة",
+    "rating": "",
+    "total_chapters": 1201
+  },
+  {
+    "id": "69033a71cc7a2812b613a677",
+    "title": "الأرستقراطية المولودة من جديد: عودة الوريثة الشريرة",
+    "url": "https://seanovel.org/novels/69033a71cc7a2812b613a677",
+    "cover_url": "https://seanovel.org/api/novel/69033a71cc7a2812b613a677/cover",
+    "type": "رواية",
+    "status": "مكتملة",
+    "rating": "",
+    "total_chapters": 2108
+  },
+  {
+    "id": "cultivation-i-have-studied-abroad-in-the-modern-world",
+    "title": "الزراعة: لقد درست في الخارج في العالم الحديث",
+    "url": "https://seanovel.org/novels/cultivation-i-have-studied-abroad-in-the-modern-world",
+    "cover_url": "https://seanovel.org/api/novel/cultivation-i-have-studied-abroad-in-the-modern-world/cover",
+    "type": "رواية",
+    "status": "مستمرة",
+    "rating": "",
+    "total_chapters": 1302,
+    "genres": [
+      "فنون قتالية",
+      "ضعيف الى قوي",
+      "زراعة",
+      "مغامرات"
+    ]
+  },
+  {
+    "id": "sevens",
+    "title": "sevens",
+    "url": "https://seanovel.org/novels/sevens",
+    "cover_url": "https://seanovel.org/api/novel/sevens/cover",
+    "type": "رواية",
+    "status": "مستمر",
+    "rating": "",
+    "genres": []
+  },
+  {
+    "id": "cote-there-is-something-wrong-with-hikigaya",
+    "title": "cote there is something wrong with hikigaya",
+    "url": "https://seanovel.org/novels/cote-there-is-something-wrong-with-hikigaya",
+    "cover_url": "https://seanovel.org/api/novel/cote-there-is-something-wrong-with-hikigaya/cover",
+    "type": "رواية",
+    "status": "مستمر",
+    "rating": "",
+    "genres": []
+  },
+  {
+    "id": "the-last-gentleman",
+    "title": "السيد الأخير",
+    "url": "https://seanovel.org/novels/the-last-gentleman",
+    "cover_url": "https://seanovel.org/api/novel/the-last-gentleman/cover",
+    "type": "رواية",
+    "status": "مكتملة",
+    "rating": "",
+    "total_chapters": 707
+  },
+  {
+    "id": "run-away-this-civilization-is-cheating",
+    "title": "اهربوا، هذه الحضارة تغش!",
+    "url": "https://seanovel.org/novels/run-away-this-civilization-is-cheating",
+    "cover_url": "https://seanovel.org/api/novel/run-away-this-civilization-is-cheating/cover",
+    "type": "رواية",
+    "status": "مكتملة",
+    "rating": "",
+    "total_chapters": 883
+  },
+  {
+    "id": "90442",
+    "title": "90442",
+    "url": "https://seanovel.org/novels/90442",
+    "cover_url": "https://seanovel.org/api/novel/90442/cover",
+    "type": "رواية",
+    "status": "مستمر",
+    "rating": "",
+    "genres": []
+  },
+  {
+    "id": "69020d37cc7a2812b6123140",
+    "title": "69020d37cc7a2812b6123140",
+    "url": "https://seanovel.org/novels/69020d37cc7a2812b6123140",
+    "cover_url": "https://seanovel.org/api/novel/69020d37cc7a2812b6123140/cover",
+    "type": "رواية",
+    "status": "مستمر",
+    "rating": "",
+    "genres": []
+  },
+  {
+    "id": "history-number-1-founder",
+    "title": "المؤسس رقم 1 في التاريخ",
+    "url": "https://seanovel.org/novels/history-number-1-founder",
+    "cover_url": "https://seanovel.org/api/novel/history-number-1-founder/cover",
+    "type": "رواية",
+    "status": "مكتملة",
+    "rating": "",
+    "total_chapters": 1486,
     "genres": [
       "فنون قتالية",
       "نظام",
-      "سحر",
-      "قوي الى قوي",
+      "إعادة ولادة",
+      "عالم آخر",
       "زراعة",
-      "مغامرات",
-      "أكشن",
-      "خيال"
+      "مغامرات"
     ]
   },
   {
@@ -203,50 +566,66 @@
     "type": "رواية",
     "status": "مكتملة",
     "rating": "",
-    "total_chapters": 61,
-    "genres": [
-      "فانتازيا",
-      "أكشن",
-      "كوميديا",
-      "حصرية"
-    ]
+    "total_chapters": 61
   },
   {
-    "id": "690df0466f0a5426d2250919",
-    "title": "المسار الذي لا نهاية له: الكون اللانهائي",
-    "url": "https://seanovel.org/novels/690df0466f0a5426d2250919",
-    "cover_url": "https://seanovel.org/api/novel/690df0466f0a5426d2250919/cover",
+    "id": "6985ac0d7d66c84567c8a74e",
+    "title": "الشاب النبيل يقتل الوحوش",
+    "url": "https://seanovel.org/novels/6985ac0d7d66c84567c8a74e",
+    "cover_url": "https://seanovel.org/api/novel/6985ac0d7d66c84567c8a74e/cover",
     "type": "رواية",
     "status": "مكتملة",
     "rating": "",
-    "total_chapters": 2360,
+    "total_chapters": 1014,
     "genres": [
       "مترجمة",
-      "حريم",
       "فنون قتال",
-      "نظام",
+      "إعادة ولادة",
       "عالم آخر",
-      "سحر",
-      "زراعة"
+      "ضعيف الى قوي",
+      "زراعة",
+      "مغامرة",
+      "غموض"
     ]
   },
   {
-    "id": "life-rebooted-with-copy-and-paste",
-    "title": "إعادة تشغيل الحياة بالنسخ واللصق",
-    "url": "https://seanovel.org/novels/life-rebooted-with-copy-and-paste",
-    "cover_url": "https://seanovel.org/api/novel/life-rebooted-with-copy-and-paste/cover",
+    "id": "68f753dc69ffe48a59bf719f",
+    "title": "النظام ضد اعادة الولادة",
+    "url": "https://seanovel.org/novels/68f753dc69ffe48a59bf719f",
+    "cover_url": "https://seanovel.org/api/novel/68f753dc69ffe48a59bf719f/cover",
     "type": "رواية",
-    "status": "مكتملة",
+    "status": "مستمرة",
     "rating": "",
-    "total_chapters": 200,
+    "total_chapters": 1656,
     "genres": [
+      "مترجمة",
+      "نظام",
+      "إعادة ولادة",
+      "رومانسي",
+      "سحر",
+      "قوي الى قوي",
+      "خيال"
+    ]
+  },
+  {
+    "id": "6907f4f3c82c7dbad2b562e0",
+    "title": "النحات الأسطوري لضوء القمر",
+    "url": "https://seanovel.org/novels/6907f4f3c82c7dbad2b562e0",
+    "cover_url": "https://seanovel.org/api/novel/6907f4f3c82c7dbad2b562e0/cover",
+    "type": "رواية",
+    "status": "مستمر",
+    "rating": "",
+    "genres": [
+      "مترجمة",
       "نظام",
       "سحر",
       "ضعيف الى قوي",
       "عالم حديث",
-      "مغامرات",
-      "أكشن",
-      "خيال"
+      "زراعة",
+      "مغامرة",
+      "اكشن",
+      "خيال",
+      "لعبة"
     ]
   },
   {
@@ -296,377 +675,6 @@
     ]
   },
   {
-    "id": "the-last-gentleman",
-    "title": "السيد الأخير",
-    "url": "https://seanovel.org/novels/the-last-gentleman",
-    "cover_url": "https://seanovel.org/api/novel/the-last-gentleman/cover",
-    "type": "رواية",
-    "status": "مكتملة",
-    "rating": "",
-    "total_chapters": 707,
-    "genres": [
-      "سحر",
-      "ضعيف الى قوي",
-      "غموض",
-      "أكشن",
-      "خيال",
-      "رعب"
-    ]
-  },
-  {
-    "id": "return-of-the-blossoming-blade",
-    "title": "عودة طائفة جبل هوا",
-    "url": "https://seanovel.org/novels/return-of-the-blossoming-blade",
-    "cover_url": "https://seanovel.org/api/novel/return-of-the-blossoming-blade/cover",
-    "type": "رواية",
-    "status": "مستمرة",
-    "rating": "",
-    "total_chapters": 1835,
-    "genres": [
-      "أكشن",
-      "دراما",
-      "فنون قتالية",
-      "كوميدى",
-      "موريم"
-    ]
-  },
-  {
-    "id": "novel-1649",
-    "title": "أنا شرير حقاً",
-    "url": "https://seanovel.org/novels/novel-1649",
-    "cover_url": "https://seanovel.org/api/novel/novel-1649/cover",
-    "type": "رواية",
-    "status": "مستمرة",
-    "rating": "",
-    "total_chapters": 682,
-    "genres": [
-      "أكشن",
-      "انتقام",
-      "بطل شرير",
-      "بناء مملكة",
-      "سينن",
-      "عسكري",
-      "غموض",
-      "فانتازيا",
-      "فنون قتالية",
-      "قوى خارقة"
-    ]
-  },
-  {
-    "id": "shadow-slave",
-    "title": "عبد الظل",
-    "url": "https://seanovel.org/novels/shadow-slave",
-    "cover_url": "https://seanovel.org/api/novel/shadow-slave/cover",
-    "type": "رواية",
-    "status": "مستمرة",
-    "rating": "",
-    "total_chapters": 3190,
-    "genres": [
-      "أكشن",
-      "رعب",
-      "رومانسي",
-      "غموض",
-      "فانتازيا",
-      "قوى خارقة",
-      "مغامرات"
-    ]
-  },
-  {
-    "id": "radiant-blade-of-the-wilderness",
-    "title": "نصل البرية المشع",
-    "url": "https://seanovel.org/novels/radiant-blade-of-the-wilderness",
-    "cover_url": "https://seanovel.org/api/novel/radiant-blade-of-the-wilderness/cover",
-    "type": "رواية",
-    "status": "مستمرة",
-    "rating": "",
-    "total_chapters": 208,
-    "genres": [
-      "أكشن",
-      "خيال",
-      "غموض",
-      "فانتازيا",
-      "فنون قتالية",
-      "قوى خارقة",
-      "للكبار"
-    ]
-  },
-  {
-    "id": "6985ac0d7d66c84567c8a74e",
-    "title": "الشاب النبيل يقتل الوحوش",
-    "url": "https://seanovel.org/novels/6985ac0d7d66c84567c8a74e",
-    "cover_url": "https://seanovel.org/api/novel/6985ac0d7d66c84567c8a74e/cover",
-    "type": "رواية",
-    "status": "مكتملة",
-    "rating": "",
-    "total_chapters": 1014,
-    "genres": [
-      "مترجمة",
-      "فنون قتال",
-      "إعادة ولادة",
-      "عالم آخر",
-      "ضعيف الى قوي",
-      "زراعة",
-      "مغامرة",
-      "غموض"
-    ]
-  },
-  {
-    "id": "68db80d61871e67f86edf623",
-    "title": "68db80d61871e67f86edf623",
-    "url": "https://seanovel.org/novels/68db80d61871e67f86edf623",
-    "cover_url": "https://seanovel.org/api/novel/68db80d61871e67f86edf623/cover",
-    "type": "رواية",
-    "status": "مستمر",
-    "rating": "",
-    "genres": []
-  },
-  {
-    "id": "6907f77ac82c7dbad2b56434",
-    "title": "6907f77ac82c7dbad2b56434",
-    "url": "https://seanovel.org/novels/6907f77ac82c7dbad2b56434",
-    "cover_url": "https://seanovel.org/api/novel/6907f77ac82c7dbad2b56434/cover",
-    "type": "رواية",
-    "status": "مستمر",
-    "rating": "",
-    "genres": []
-  },
-  {
-    "id": "691ad0f9598211bfce5688d5",
-    "title": "إمبراطور التنين الأبدي",
-    "url": "https://seanovel.org/novels/691ad0f9598211bfce5688d5",
-    "cover_url": "https://seanovel.org/api/novel/691ad0f9598211bfce5688d5/cover",
-    "type": "رواية",
-    "status": "مكتملة",
-    "rating": "",
-    "total_chapters": 6005,
-    "genres": [
-      "مترجمة",
-      "فنون قتال",
-      "ضعيف الى قوي",
-      "زراعة",
-      "مغامرة",
-      "اكشن",
-      "خيال"
-    ]
-  },
-  {
-    "id": "6909c972d65992c7d04ef4ae",
-    "title": "6909c972d65992c7d04ef4ae",
-    "url": "https://seanovel.org/novels/6909c972d65992c7d04ef4ae",
-    "cover_url": "https://seanovel.org/api/novel/6909c972d65992c7d04ef4ae/cover",
-    "type": "رواية",
-    "status": "مستمر",
-    "rating": "",
-    "genres": []
-  },
-  {
-    "id": "reincarnation-of-the-strongest-spirit-master",
-    "title": "reincarnation of the strongest spirit master",
-    "url": "https://seanovel.org/novels/reincarnation-of-the-strongest-spirit-master",
-    "cover_url": "https://seanovel.org/api/novel/reincarnation-of-the-strongest-spirit-master/cover",
-    "type": "رواية",
-    "status": "مستمر",
-    "rating": "",
-    "genres": []
-  },
-  {
-    "id": "69020d37cc7a2812b6123140",
-    "title": "69020d37cc7a2812b6123140",
-    "url": "https://seanovel.org/novels/69020d37cc7a2812b6123140",
-    "cover_url": "https://seanovel.org/api/novel/69020d37cc7a2812b6123140/cover",
-    "type": "رواية",
-    "status": "مستمر",
-    "rating": "",
-    "genres": []
-  },
-  {
-    "id": "690db1ad6f0a5426d2233c49",
-    "title": "690db1ad6f0a5426d2233c49",
-    "url": "https://seanovel.org/novels/690db1ad6f0a5426d2233c49",
-    "cover_url": "https://seanovel.org/api/novel/690db1ad6f0a5426d2233c49/cover",
-    "type": "رواية",
-    "status": "مستمر",
-    "rating": "",
-    "genres": []
-  },
-  {
-    "id": "69673c147d66c84567a7ccda",
-    "title": "69673c147d66c84567a7ccda",
-    "url": "https://seanovel.org/novels/69673c147d66c84567a7ccda",
-    "cover_url": "https://seanovel.org/api/novel/69673c147d66c84567a7ccda/cover",
-    "type": "رواية",
-    "status": "مستمر",
-    "rating": "",
-    "genres": []
-  },
-  {
-    "id": "my-wife-is-the-demonic-cult-leader",
-    "title": "زوجتي هي زعيمة طائفة شيطانية",
-    "url": "https://seanovel.org/novels/my-wife-is-the-demonic-cult-leader",
-    "cover_url": "https://seanovel.org/api/novel/my-wife-is-the-demonic-cult-leader/cover",
-    "type": "رواية",
-    "status": "مستمرة",
-    "rating": "",
-    "total_chapters": 471,
-    "genres": [
-      "عالم آخر",
-      "رومانسي",
-      "سحر",
-      "مغامرات",
-      "أكشن",
-      "خيال"
-    ]
-  },
-  {
-    "id": "the-lone-wanderer",
-    "title": "the lone wanderer",
-    "url": "https://seanovel.org/novels/the-lone-wanderer",
-    "cover_url": "https://seanovel.org/api/novel/the-lone-wanderer/cover",
-    "type": "رواية",
-    "status": "مستمر",
-    "rating": "",
-    "genres": []
-  },
-  {
-    "id": "690e07cc6f0a5426d225f06f",
-    "title": "قدرة الاستيعاب: إنشاء وتعليم الداو في عوالم مختلفة.",
-    "url": "https://seanovel.org/novels/690e07cc6f0a5426d225f06f",
-    "cover_url": "https://seanovel.org/api/novel/690e07cc6f0a5426d225f06f/cover",
-    "type": "رواية",
-    "status": "مكتملة",
-    "rating": "",
-    "total_chapters": 1480,
-    "genres": [
-      "مترجمة",
-      "إعادة ولادة",
-      "عالم آخر",
-      "سحر",
-      "قوي الى قوي",
-      "مغامرة"
-    ]
-  },
-  {
-    "id": "69033a71cc7a2812b613a677",
-    "title": "الأرستقراطية المولودة من جديد: عودة الوريثة الشريرة",
-    "url": "https://seanovel.org/novels/69033a71cc7a2812b613a677",
-    "cover_url": "https://seanovel.org/api/novel/69033a71cc7a2812b613a677/cover",
-    "type": "رواية",
-    "status": "مكتملة",
-    "rating": "",
-    "total_chapters": 2108,
-    "genres": [
-      "مترجمة",
-      "إعادة ولادة",
-      "عالم آخر",
-      "رومانسي",
-      "سحر",
-      "خيال"
-    ]
-  },
-  {
-    "id": "run-away-this-civilization-is-cheating",
-    "title": "اهربوا، هذه الحضارة تغش!",
-    "url": "https://seanovel.org/novels/run-away-this-civilization-is-cheating",
-    "cover_url": "https://seanovel.org/api/novel/run-away-this-civilization-is-cheating/cover",
-    "type": "رواية",
-    "status": "مكتملة",
-    "rating": "",
-    "total_chapters": 883,
-    "genres": [
-      "نظام",
-      "عالم آخر",
-      "سحر",
-      "ضعيف الى قوي",
-      "مغامرات",
-      "أكشن"
-    ]
-  },
-  {
-    "id": "gateway-of-immortality",
-    "title": "بوابة الخلود",
-    "url": "https://seanovel.org/novels/gateway-of-immortality",
-    "cover_url": "https://seanovel.org/api/novel/gateway-of-immortality/cover",
-    "type": "رواية",
-    "status": "مستمرة",
-    "rating": "",
-    "total_chapters": 772,
-    "genres": [
-      "أكشن",
-      "مغامرات",
-      "خيال",
-      "شريحة من الحياة"
-    ]
-  },
-  {
-    "id": "library-of-heavens-path",
-    "title": "مكتبة مسار السماء",
-    "url": "https://seanovel.org/novels/library-of-heavens-path",
-    "cover_url": "https://seanovel.org/api/novel/library-of-heavens-path/cover",
-    "type": "رواية",
-    "status": "مكتملة",
-    "rating": "",
-    "total_chapters": 1001,
-    "genres": [
-      "كوميدى",
-      "فانتازيا",
-      "مغامرات",
-      "أكشن",
-      "دراما",
-      "خيال",
-      "حريم"
-    ]
-  },
-  {
-    "id": "history-number-1-founder",
-    "title": "المؤسس رقم 1 في التاريخ",
-    "url": "https://seanovel.org/novels/history-number-1-founder",
-    "cover_url": "https://seanovel.org/api/novel/history-number-1-founder/cover",
-    "type": "رواية",
-    "status": "مكتملة",
-    "rating": "",
-    "total_chapters": 1486,
-    "genres": [
-      "فنون قتالية",
-      "نظام",
-      "إعادة ولادة",
-      "عالم آخر",
-      "زراعة",
-      "مغامرات"
-    ]
-  },
-  {
-    "id": "cultivation-i-have-studied-abroad-in-the-modern-world",
-    "title": "الزراعة: لقد درست في الخارج في العالم الحديث",
-    "url": "https://seanovel.org/novels/cultivation-i-have-studied-abroad-in-the-modern-world",
-    "cover_url": "https://seanovel.org/api/novel/cultivation-i-have-studied-abroad-in-the-modern-world/cover",
-    "type": "رواية",
-    "status": "مستمرة",
-    "rating": "",
-    "total_chapters": 1302,
-    "genres": [
-      "فنون قتالية",
-      "ضعيف الى قوي",
-      "زراعة",
-      "مغامرات"
-    ]
-  },
-  {
-    "id": "perfect-world",
-    "title": "عالم مثالي",
-    "url": "https://seanovel.org/novels/perfect-world",
-    "cover_url": "https://seanovel.org/api/novel/perfect-world/cover",
-    "type": "رواية",
-    "status": "مستمرة",
-    "rating": "",
-    "total_chapters": 1920,
-    "genres": [
-      "أكشن",
-      "خيال",
-      "كوميدى",
-      "مأساة"
-    ]
-  },
-  {
     "id": "myst-might-mayhem",
     "title": "الغموض القوة الفوضى",
     "url": "https://seanovel.org/novels/myst-might-mayhem",
@@ -702,45 +710,6 @@
       "عالم حديث",
       "مغامرة",
       "اكشن",
-      "خيال"
-    ]
-  },
-  {
-    "id": "68f753dc69ffe48a59bf719f",
-    "title": "النظام ضد اعادة الولادة",
-    "url": "https://seanovel.org/novels/68f753dc69ffe48a59bf719f",
-    "cover_url": "https://seanovel.org/api/novel/68f753dc69ffe48a59bf719f/cover",
-    "type": "رواية",
-    "status": "مستمرة",
-    "rating": "",
-    "total_chapters": 1656,
-    "genres": [
-      "مترجمة",
-      "نظام",
-      "إعادة ولادة",
-      "رومانسي",
-      "سحر",
-      "قوي الى قوي",
-      "خيال"
-    ]
-  },
-  {
-    "id": "cultivation-start-from-simplifying-martial-arts-techniques",
-    "title": "الزراعة: ابدأ بتبسيط تقنيات الفنون القتالية",
-    "url": "https://seanovel.org/novels/cultivation-start-from-simplifying-martial-arts-techniques",
-    "cover_url": "https://seanovel.org/api/novel/cultivation-start-from-simplifying-martial-arts-techniques/cover",
-    "type": "رواية",
-    "status": "مستمرة",
-    "rating": "",
-    "total_chapters": 1201,
-    "genres": [
-      "فنون قتالية",
-      "نظام",
-      "إعادة ولادة",
-      "ضعيف الى قوي",
-      "زراعة",
-      "مغامرات",
-      "أكشن",
       "خيال"
     ]
   },
@@ -825,27 +794,6 @@
       "فانتازيا",
       "مغامرة",
       "خيال علمي"
-    ]
-  },
-  {
-    "id": "6907f4f3c82c7dbad2b562e0",
-    "title": "النحات الأسطوري لضوء القمر",
-    "url": "https://seanovel.org/novels/6907f4f3c82c7dbad2b562e0",
-    "cover_url": "https://seanovel.org/api/novel/6907f4f3c82c7dbad2b562e0/cover",
-    "type": "رواية",
-    "status": "مستمر",
-    "rating": "",
-    "genres": [
-      "مترجمة",
-      "نظام",
-      "سحر",
-      "ضعيف الى قوي",
-      "عالم حديث",
-      "زراعة",
-      "مغامرة",
-      "اكشن",
-      "خيال",
-      "لعبة"
     ]
   },
   {
@@ -959,22 +907,6 @@
     ]
   },
   {
-    "id": "6905c6a9cc7a2812b616d09f",
-    "title": "​القطعة 31 تقلب لوح اللعبة",
-    "url": "https://seanovel.org/novels/6905c6a9cc7a2812b616d09f",
-    "cover_url": "https://seanovel.org/api/novel/6905c6a9cc7a2812b616d09f/cover",
-    "type": "رواية",
-    "status": "مستمر",
-    "rating": "",
-    "genres": [
-      "مترجمة",
-      "نظام",
-      "سحر",
-      "ضعيف الى قوي",
-      "مغامرة"
-    ]
-  },
-  {
     "id": "simulation-suppressing-the-fate-of-heaven-i-became-an-immortal-in-three-days",
     "title": "المحاكاة: بقمع قدر السماء، أصبحت ذا عمر طويل في ثلاثة أيام",
     "url": "https://seanovel.org/novels/simulation-suppressing-the-fate-of-heaven-i-became-an-immortal-in-three-days",
@@ -1075,26 +1007,6 @@
       "موريم",
       "انتقام",
       "دراما"
-    ]
-  },
-  {
-    "id": "the-dark-king",
-    "title": "الملك المظلم",
-    "url": "https://seanovel.org/novels/the-dark-king",
-    "cover_url": "https://seanovel.org/api/novel/the-dark-king/cover",
-    "type": "رواية",
-    "status": "مستمر",
-    "rating": "",
-    "genres": [
-      "أكشن",
-      "خيال علمي",
-      "خارق للطبيعة",
-      "خيال",
-      "دراما",
-      "رعب",
-      "رومانسي",
-      "فنون قتالية",
-      "مغامرات"
     ]
   },
   {
@@ -1249,26 +1161,6 @@
     "genres": []
   },
   {
-    "id": "my-death-flags-show-no-sign-of-ending",
-    "title": "my death flags show no sign of ending",
-    "url": "https://seanovel.org/novels/my-death-flags-show-no-sign-of-ending",
-    "cover_url": "https://seanovel.org/api/novel/my-death-flags-show-no-sign-of-ending/cover",
-    "type": "رواية",
-    "status": "مستمر",
-    "rating": "",
-    "genres": []
-  },
-  {
-    "id": "sevens",
-    "title": "sevens",
-    "url": "https://seanovel.org/novels/sevens",
-    "cover_url": "https://seanovel.org/api/novel/sevens/cover",
-    "type": "رواية",
-    "status": "مستمر",
-    "rating": "",
-    "genres": []
-  },
-  {
     "id": "the-legend-of-ling-tian",
     "title": "the legend of ling tian",
     "url": "https://seanovel.org/novels/the-legend-of-ling-tian",
@@ -1403,26 +1295,6 @@
     "title": "pursuit of truth",
     "url": "https://seanovel.org/novels/pursuit-of-truth",
     "cover_url": "https://seanovel.org/api/novel/pursuit-of-truth/cover",
-    "type": "رواية",
-    "status": "مستمر",
-    "rating": "",
-    "genres": []
-  },
-  {
-    "id": "79726",
-    "title": "79726",
-    "url": "https://seanovel.org/novels/79726",
-    "cover_url": "https://seanovel.org/api/novel/79726/cover",
-    "type": "رواية",
-    "status": "مستمر",
-    "rating": "",
-    "genres": []
-  },
-  {
-    "id": "cote-there-is-something-wrong-with-hikigaya",
-    "title": "cote there is something wrong with hikigaya",
-    "url": "https://seanovel.org/novels/cote-there-is-something-wrong-with-hikigaya",
-    "cover_url": "https://seanovel.org/api/novel/cote-there-is-something-wrong-with-hikigaya/cover",
     "type": "رواية",
     "status": "مستمر",
     "rating": "",
@@ -1583,16 +1455,6 @@
     "title": "immune to pain worried that the villain is not perverted enough",
     "url": "https://seanovel.org/novels/immune-to-pain-worried-that-the-villain-is-not-perverted-enough",
     "cover_url": "https://seanovel.org/api/novel/immune-to-pain-worried-that-the-villain-is-not-perverted-enough/cover",
-    "type": "رواية",
-    "status": "مستمر",
-    "rating": "",
-    "genres": []
-  },
-  {
-    "id": "6917e475598211bfce402eff",
-    "title": "6917e475598211bfce402eff",
-    "url": "https://seanovel.org/novels/6917e475598211bfce402eff",
-    "cover_url": "https://seanovel.org/api/novel/6917e475598211bfce402eff/cover",
     "type": "رواية",
     "status": "مستمر",
     "rating": "",
@@ -1829,30 +1691,10 @@
     "genres": []
   },
   {
-    "id": "simulation-of-prolonging-life",
-    "title": "simulation of prolonging life",
-    "url": "https://seanovel.org/novels/simulation-of-prolonging-life",
-    "cover_url": "https://seanovel.org/api/novel/simulation-of-prolonging-life/cover",
-    "type": "رواية",
-    "status": "مستمر",
-    "rating": "",
-    "genres": []
-  },
-  {
     "id": "tales-of-herding-gods",
     "title": "tales of herding gods",
     "url": "https://seanovel.org/novels/tales-of-herding-gods",
     "cover_url": "https://seanovel.org/api/novel/tales-of-herding-gods/cover",
-    "type": "رواية",
-    "status": "مستمر",
-    "rating": "",
-    "genres": []
-  },
-  {
-    "id": "90442",
-    "title": "90442",
-    "url": "https://seanovel.org/novels/90442",
-    "cover_url": "https://seanovel.org/api/novel/90442/cover",
     "type": "رواية",
     "status": "مستمر",
     "rating": "",
@@ -2069,16 +1911,6 @@
     "genres": []
   },
   {
-    "id": "novel-1680",
-    "title": "novel 1680",
-    "url": "https://seanovel.org/novels/novel-1680",
-    "cover_url": "https://seanovel.org/api/novel/novel-1680/cover",
-    "type": "رواية",
-    "status": "مستمر",
-    "rating": "",
-    "genres": []
-  },
-  {
     "id": "complete-signs-of-a-hidden-marriage-catch-a-son-get-a-free-h",
     "title": "complete signs of a hidden marriage catch a son get a free h",
     "url": "https://seanovel.org/novels/complete-signs-of-a-hidden-marriage-catch-a-son-get-a-free-h",
@@ -2269,16 +2101,6 @@
     "genres": []
   },
   {
-    "id": "villain-cultivator",
-    "title": "villain cultivator",
-    "url": "https://seanovel.org/novels/villain-cultivator",
-    "cover_url": "https://seanovel.org/api/novel/villain-cultivator/cover",
-    "type": "رواية",
-    "status": "مستمر",
-    "rating": "",
-    "genres": []
-  },
-  {
     "id": "creating-heavenly-laws",
     "title": "creating heavenly laws",
     "url": "https://seanovel.org/novels/creating-heavenly-laws",
@@ -2389,16 +2211,6 @@
     "genres": []
   },
   {
-    "id": "69bd2783bf96d8fc9c5023e5",
-    "title": "69bd2783bf96d8fc9c5023e5",
-    "url": "https://seanovel.org/novels/69bd2783bf96d8fc9c5023e5",
-    "cover_url": "https://seanovel.org/api/novel/69bd2783bf96d8fc9c5023e5/cover",
-    "type": "رواية",
-    "status": "مستمر",
-    "rating": "",
-    "genres": []
-  },
-  {
     "id": "lord-of-the-frozen-winter-starting-with-daily-intelligence-r",
     "title": "lord of the frozen winter starting with daily intelligence r",
     "url": "https://seanovel.org/novels/lord-of-the-frozen-winter-starting-with-daily-intelligence-r",
@@ -2433,16 +2245,6 @@
     "title": "the academy weapon replicator",
     "url": "https://seanovel.org/novels/the-academy-weapon-replicator",
     "cover_url": "https://seanovel.org/api/novel/the-academy-weapon-replicator/cover",
-    "type": "رواية",
-    "status": "مستمر",
-    "rating": "",
-    "genres": []
-  },
-  {
-    "id": "fantasy-simulator",
-    "title": "fantasy simulator",
-    "url": "https://seanovel.org/novels/fantasy-simulator",
-    "cover_url": "https://seanovel.org/api/novel/fantasy-simulator/cover",
     "type": "رواية",
     "status": "مستمر",
     "rating": "",
@@ -2629,16 +2431,6 @@
     "genres": []
   },
   {
-    "id": "the-ideal-course",
-    "title": "the ideal course",
-    "url": "https://seanovel.org/novels/the-ideal-course",
-    "cover_url": "https://seanovel.org/api/novel/the-ideal-course/cover",
-    "type": "رواية",
-    "status": "مستمر",
-    "rating": "",
-    "genres": []
-  },
-  {
     "id": "desolate-era",
     "title": "desolate era",
     "url": "https://seanovel.org/novels/desolate-era",
@@ -2703,16 +2495,6 @@
     "title": "one piece talent system",
     "url": "https://seanovel.org/novels/one-piece-talent-system",
     "cover_url": "https://seanovel.org/api/novel/one-piece-talent-system/cover",
-    "type": "رواية",
-    "status": "مستمر",
-    "rating": "",
-    "genres": []
-  },
-  {
-    "id": "soul-land-v-rebirth-of-tang-san",
-    "title": "soul land v rebirth of tang san",
-    "url": "https://seanovel.org/novels/soul-land-v-rebirth-of-tang-san",
-    "cover_url": "https://seanovel.org/api/novel/soul-land-v-rebirth-of-tang-san/cover",
     "type": "رواية",
     "status": "مستمر",
     "rating": "",

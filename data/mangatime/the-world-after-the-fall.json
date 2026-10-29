@@ -5,9 +5,9 @@
   "description": "تحكي قصتنا عن رجلٍ عاد بالزمن إلى ماضيه السحيق.\nهُناك قُبالة أن بدأ البرج في استدعاء البشر لكي يصيرو “مُشاة البرج”، وقد كانوا في أمسّ الحاجة لتصفية ذلك البرج بُغية إنقاذ العالم… في الطابق الـ77: عثروا على “حجر العودة”.",
   "type": "مانهوا",
   "status": "مستمر",
-  "last_update": "2026-09-24",
+  "last_update": "2026-10-07",
   "rating": "10.0",
-  "favorites": "22",
+  "favorites": "24",
   "genres": [
     "أكشن",
     "مغامرة",
@@ -20,6 +20,14 @@
   ],
   "is_novel": false,
   "chapters": {
+    "https://mangatime.org/manhwa/the-world-after-the-fall/chapter/256": {
+      "name": "256",
+      "images": []
+    },
+    "https://mangatime.org/manhwa/the-world-after-the-fall/chapter/255": {
+      "name": "255",
+      "images": []
+    },
     "https://mangatime.org/manhwa/the-world-after-the-fall/chapter/254": {
       "name": "254",
       "images": []

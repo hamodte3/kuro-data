@@ -1,13 +1,13 @@
 {
   "id": "tougen-anki",
   "title": "Tougen Anki",
-  "cover_url": "https://mangatime.org/uploads/cover/6a5832c82b60927c28511c34/2026/08/we8rlad0.jpg",
+  "cover_url": "https://mangatime.org/uploads/cover/6a5832c82b60927c28511c34/2026/10/cquhu5v4.png",
   "description": "شيكي ايشينوسي وريث دم شيطان ، عاش طفولته بأكملها غافلًا عن هذه الحقيقة , لكن عندما اتى رجلٌ مجهول مندفعًا إلى منزله في محاولة لاغتياله يقوم والده بالتبني بالكشف عن الحقيقة أخيرًا ! في عالم لم يتمكن فيه الشياطين والموموتارو من التعايش معًا ، انضم إلى ايشينوسي في صراعه للحصول على القوة وتوحيد العِرقين !",
   "type": "مانغا",
   "status": "مستمر",
-  "last_update": "2026-09-24",
+  "last_update": "2026-10-07",
   "rating": "10.0",
-  "favorites": "6",
+  "favorites": "7",
   "genres": [
     "أكشن",
     "قوى خارقة",
@@ -23,6 +23,14 @@
   ],
   "is_novel": false,
   "chapters": {
+    "https://mangatime.org/manga/tougen-anki/chapter/289": {
+      "name": "289",
+      "images": []
+    },
+    "https://mangatime.org/manga/tougen-anki/chapter/288": {
+      "name": "288",
+      "images": []
+    },
     "https://mangatime.org/manga/tougen-anki/chapter/287": {
       "name": "287",
       "images": []

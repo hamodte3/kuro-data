@@ -1,81 +1,57 @@
 import json
 import os
-import re
 import time
-from bs4 import BeautifulSoup
-from curl_cffi import requests
+import requests
 
-BASE_URL = "https://despair-manga.net"
+BASE_API = "https://despair-world.com/supabase-api/rest/v1"
+API_KEY = (
+    "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9."
+    "eyJyb2xlIjoiYW5vbiIsImlzcyI6InN1cGFiYXNlIiwiaWF0IjoxNzkwMzczMDE4LCJleHAiOjE5NDgwNTMwMTh9."
+    "xYgAlC_9SuUCdzdff6wBYGWzYFmAI9apP_mk4DCPaVI"
+)
+
 DATA_DIR = os.path.join("data", "despair")
 CATALOG_FILE = os.path.join(DATA_DIR, "catalog.json")
 GLOBAL_NEW_FILE = os.path.join("data", "new.json")
 
-DETAILS_SYNC_LIMIT = 20    # تجهيز بيانات وفصول أحدث 20 عملاً تم تحديثها
-MAX_DELTA_PAGES = 5        # فحص أول 5 صفحات فقط كل ساعة لمراقبة الجديد
+DETAILS_SYNC_LIMIT = 20    # تحديث تفاصيل وفصول أحدث 20 عملاً
+FETCH_LIMIT = 60           # عدد الأعمال المسحوبة للمزامنة الدورية (يعادل 5 صفحات قديمة)
 
 os.makedirs(DATA_DIR, exist_ok=True)
 os.makedirs("data", exist_ok=True)
 
 HEADERS = {
-    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36",
-    "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8",
-    "Accept-Language": "ar-SA,ar;q=0.9,en-US;q=0.8,en;q=0.7",
-    "Referer": f"{BASE_URL}/",
-    "Connection": "keep-alive"
+    "apikey": API_KEY,
+    "authorization": f"Bearer {API_KEY}",
+    "accept-profile": "public",
+    "Referer": "https://despair-world.com/",
+    "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:158.0) Gecko/20100101 Firefox/158.0",
+    "Accept": "application/json"
 }
 
 def get_session():
-    return requests.Session(impersonate="chrome120", headers=HEADERS)
-
-def normalize_page_url(raw_url: str) -> str:
-    trimmed = raw_url.strip()
-    if not trimmed:
-        return ""
-    if trimmed.startswith("//"):
-        trimmed = f"https:{trimmed}"
-    if not trimmed.startswith("http://") and not trimmed.startswith("https://"):
-        trimmed = f"{BASE_URL}{trimmed}" if trimmed.startswith("/") else f"{BASE_URL}/{trimmed}"
-
-    clean = (
-        trimmed.replace("http://", "https://")
-        .replace("despair-world.com", "despair-manga.net")
-        .replace("despair-manga.com", "despair-manga.net")
-        .replace("despair-manga.net//", "despair-manga.net/")
-    )
-    if "/manga/" in clean and not clean.endswith("/") and "." not in clean.split("/")[-1]:
-        clean = f"{clean}/"
-    return clean
-
-def clean_image_url(raw_url: str) -> str:
-    clean = raw_url.replace("\\/", "/").strip()
-    if clean.startswith("//"):
-        clean = f"https:{clean}"
-    return clean.split("?")[0].rstrip("/")
+    s = requests.Session()
+    s.headers.update(HEADERS)
+    return s
 
 def format_type(raw_type: str) -> str:
+    if not raw_type:
+        return "مانغا"
     t = raw_type.strip().lower()
     if any(k in t for k in ["manhwa", "مانهوا"]): return "مانهوا"
     if any(k in t for k in ["manhua", "مانها"]): return "مانها"
-    if any(k in t for k in ["webtoon", "ويبتون", "ويب تون"]): return "ويب تون"
+    if any(k in t for k in ["webtoon", "ويبتون"]): return "ويب تون"
     if any(k in t for k in ["novel", "رواية"]): return "رواية"
     if any(k in t for k in ["comic", "كوميك"]): return "كوميك"
-    if any(k in t for k in ["manga", "مانجا", "مانغا"]): return "مانغا"
-    return raw_type if raw_type else "مانغا"
+    return "مانغا"
 
 def format_status(raw_status: str) -> str:
+    if not raw_status:
+        return "مستمر"
     s = raw_status.strip().lower()
-    if any(k in s for k in ["ongoing", "on-going", "مستمر", "مستمرة"]): return "مستمر"
-    if any(k in s for k in ["completed", "مكتمل", "مكتملة"]): return "مكتمل"
+    if any(k in s for k in ["completed", "مكتمل"]): return "مكتمل"
     if any(k in s for k in ["hiatus", "متوقف"]): return "متوقف مؤقتاً"
     return "مستمر"
-
-def format_rating(raw_rating: str) -> str:
-    clean = raw_rating.replace("★", "").replace("–", "").replace("-", "").strip()
-    try:
-        val = float(clean)
-        return f"{val:.1f}" if val > 0 else ""
-    except ValueError:
-        return ""
 
 def load_existing_catalog() -> dict:
     if not os.path.exists(CATALOG_FILE):
@@ -85,13 +61,12 @@ def load_existing_catalog() -> dict:
             data = json.load(f)
             return {item["id"]: item for item in data if "id" in item}
     except Exception as e:
-        print(f"خطأ أثناء قراءة كاتلوج ديسبير القديم: {e}")
+        print(f"خطأ أثناء قراءة الكاتلوج القديم: {e}")
         return {}
 
 def update_global_new_releases(new_releases: list):
     if not new_releases:
         return
-
     existing_releases = []
     if os.path.exists(GLOBAL_NEW_FILE):
         try:
@@ -113,243 +88,150 @@ def update_global_new_releases(new_releases: list):
         json.dump(deduped[:15], f, ensure_ascii=False, indent=2)
     print(f"🔔 تم تسجيل {len(new_releases)} تحديث جديد لديسبير في {GLOBAL_NEW_FILE}")
 
-def extract_chapters_despair(soup: BeautifulSoup) -> dict:
+def fetch_work_chapters(session, work_id: str) -> dict:
+    """جلب فصول العمل مباشرة مع روابط صفحات WebP"""
+    url = (
+        f"{BASE_API}/chapters"
+        f"?work_id=eq.{work_id}"
+        f"&select=id,chapter_number,title,pages,created_at"
+        f"&order=chapter_number.asc"
+    )
+    res = session.get(url, timeout=15)
+    if res.status_code != 200:
+        return {}
+
     chapters_map = {}
-    elements = soup.select("div#chapterlist ul li, div.eplister ul li")
-
-    for element in elements:
-        link = element.select_one("a")
-        if not link:
-            continue
-        raw_href = link.get("href", "").strip()
-        if not raw_href or "{{" in raw_href or raw_href.startswith("#"):
-            continue
-
-        ch_url = normalize_page_url(raw_href)
-        if ch_url in chapters_map:
-            continue
-
-        data_num = element.get("data-num", "").strip()
-        chap_span = element.select_one("span.chapternum")
-        raw_title = data_num if data_num else (chap_span.text.strip() if chap_span else link.text.strip())
-
-        num_match = re.search(r"\d+(\.\d+)?", raw_title)
-        if num_match:
-            val = float(num_match.group(0))
-            clean_name = str(int(val)) if val.is_integer() else str(val)
-        else:
-            clean_name = raw_title if raw_title else "0"
-
-        chapters_map[ch_url] = {"name": clean_name}
-
+    for ch in res.json():
+        num = ch.get("chapter_number", 0)
+        clean_num = str(int(num)) if float(num).is_integer() else str(num)
+        
+        # نستخدم معرف الفصل كـ Key ونحفظ تفاصيله وصفحاته
+        chapters_map[ch["id"]] = {
+            "name": clean_num,
+            "title": ch.get("title") or f"الفصل {clean_num}",
+            "pages": ch.get("pages", [])
+        }
     return chapters_map
-
-def scrape_manga_details_despair(session, manga_url: str):
-    valid_url = normalize_page_url(manga_url)
-    cache_url = f"{valid_url}?_t={int(time.time())}"
-    custom_headers = {
-        **HEADERS,
-        "Cache-Control": "no-cache, no-store, must-revalidate",
-        "Pragma": "no-cache"
-    }
-
-    res = session.get(cache_url, headers=custom_headers, timeout=25)
-    soup = BeautifulSoup(res.text, "html.parser")
-
-    title_el = soup.select_one("h1.entry-title, h1")
-    title = title_el.text.strip() if title_el else "بدون عنوان"
-
-    img_node = soup.select_one("div.thumb img, img.wp-post-image")
-    cover = ""
-    if img_node:
-        cover = img_node.get("src", "").strip()
-        if not cover or "data:image" in cover:
-            cover = img_node.get("data-src", "").strip() or img_node.get("data-lazy-src", "").strip()
-    if not cover:
-        meta_img = soup.select_one("meta[property='og:image']")
-        cover = meta_img.get("content", "").strip() if meta_img else ""
-    cover_url = clean_image_url(cover) if cover else ""
-
-    desc_paragraphs = [
-        p.text.strip() for p in soup.select("div.entry-content[itemprop=description] p, div.entry-content-single p, div.summary__content p")
-        if p.text.strip()
-    ]
-    description = "\n\n".join(desc_paragraphs) if desc_paragraphs else "لا يوجد وصف"
-
-    rate_el = soup.select_one("div.num[itemprop=ratingValue], .numscore")
-    rating = format_rating(rate_el.text if rate_el else "")
-
-    status_el = soup.find(lambda t: t.name in ["div", "span"] and any(w in t.text for w in ["Status", "الحالة"]))
-    raw_status = status_el.find("i").text.strip() if (status_el and status_el.find("i")) else "مستمر"
-    status = format_status(raw_status)
-
-    type_el = soup.find(lambda t: t.name in ["div", "span"] and any(w in t.text for w in ["Type", "النوع"]))
-    raw_type = type_el.find("a").text.strip() if (type_el and type_el.find("a")) else ""
-
-    fav_el = soup.select_one("div.bmc")
-    fav_text = fav_el.text if fav_el else ""
-    fav_match = re.search(r"\d+", fav_text)
-    favorites = fav_match.group(0) if fav_match else ""
-
-    genres = [a.text.strip() for a in soup.select("div.wd-full span.mgen a") if a.text.strip()]
-    is_novel = "novel" in raw_type.lower() or any("رواية" in g for g in genres) or "رواية" in title
-    manga_type = format_type("رواية" if is_novel else (raw_type or (genres[0] if genres else "مانغا")))
-
-    meta_time = soup.select_one("meta[property='article:modified_time']")
-    last_update = meta_time.get("content", "").split("T")[0] if meta_time else ""
-
-    chapters_map = extract_chapters_despair(soup)
-    slug = valid_url.rstrip("/").split("/")[-1]
-
-    return {
-        "id": slug,
-        "title": title,
-        "cover_url": cover_url,
-        "description": description,
-        "type": manga_type,
-        "status": status,
-        "last_update": last_update,
-        "rating": rating,
-        "favorites": favorites,
-        "genres": genres,
-        "is_novel": is_novel,
-        "chapters": chapters_map
-    }
 
 def sync_despair_fast():
     session = get_session()
-    print(f"بدء المزامنة الخاطفة لديسبير (فحص أول {MAX_DELTA_PAGES} صفحات مرتبة بالأحدث)...")
+    print("⚡ بدء المزامنة السحابية فائقة السرعة لديسبير عبر API مباشر...")
 
     catalog_dict = load_existing_catalog()
-    ordered_recent_slugs = []
+    
+    # 1. جلب أحدث الأعمال مباشرة من Supabase بطلب JSON واحد
+    url = (
+        f"{BASE_API}/manga_works"
+        f"?select=id,title_ar,title_en,slug,cover_url,type,status,genres,synopsis,chapters_count,rating_avg,updated_at"
+        f"&order=updated_at.desc"
+        f"&limit={FETCH_LIMIT}"
+    )
+    
+    try:
+        res = session.get(url, timeout=15)
+        res.raise_for_status()
+        works = res.json()
+    except Exception as e:
+        print(f"خطأ أثناء جلب قائمة الأعمال: {e}")
+        return
 
-    # 1. سحب أول 5 صفحات بالترتيب الصحيح (من الأحدث للأقدم)
-    for page in range(1, MAX_DELTA_PAGES + 1):
-        url = f"{BASE_URL}/all-manga/?order=update" if page == 1 else f"{BASE_URL}/all-manga/page/{page}/?order=update"
-        try:
-            res = session.get(url, timeout=20)
-            soup = BeautifulSoup(res.text, "html.parser")
-            cards = soup.select("div.bsx")
+    ordered_recent_ids = []
+    
+    for item in works:
+        work_id = item["id"]
+        title = item.get("title_ar") or item.get("title_en") or "بدون عنوان"
+        cover_url = item.get("cover_url", "")
+        raw_type = item.get("type", "manhwa")
+        raw_status = item.get("status", "مستمر")
+        genres = item.get("genres", [])
+        chapters_count = item.get("chapters_count", 0)
 
-            if not cards:
-                break
+        # الحفاظ على الهيكل المتوافق مع التطبيق
+        if work_id in catalog_dict:
+            catalog_dict[work_id]["title"] = title
+            catalog_dict[work_id]["cover_url"] = cover_url
+            catalog_dict[work_id]["status"] = format_status(raw_status)
+            catalog_dict[work_id]["genres"] = genres
+            catalog_dict[work_id]["total_chapters"] = chapters_count
+        else:
+            catalog_dict[work_id] = {
+                "id": work_id,
+                "title": title,
+                "url": f"https://despair-world.com/series/manga/{item.get('slug', work_id)}",
+                "cover_url": cover_url,
+                "type": format_type(raw_type),
+                "status": format_status(raw_status),
+                "total_chapters": chapters_count,
+                "genres": genres
+            }
 
-            new_in_page = 0
-            for card in cards:
-                link = card.select_one("a")
-                if not link:
-                    continue
+        ordered_recent_ids.append(work_id)
 
-                manga_url = normalize_page_url(link.get("href", ""))
-                slug = manga_url.rstrip("/").split("/")[-1]
-
-                title = link.get("title", "").strip() or (card.select_one(".tt").text.strip() if card.select_one(".tt") else "")
-                if not title:
-                    continue
-
-                img_node = card.select_one("img")
-                raw_cover = ""
-                if img_node:
-                    raw_cover = img_node.get("src", "").strip()
-                    if not raw_cover or "data:image" in raw_cover:
-                        raw_cover = img_node.get("data-src", "").strip() or img_node.get("data-lazy-src", "").strip()
-                cover_url = clean_image_url(raw_cover)
-
-                type_el = card.select_one("span.type, .typez")
-                raw_type = type_el.text.strip() if type_el else ""
-
-                status_el = card.select_one("span.status")
-                raw_status = status_el.text.strip() if status_el else ""
-                is_novel = "novel" in raw_type.lower() or "رواية" in title
-
-                # تحديث بيانات العمل أو إنشائه مع الحفاظ على الفصول السابقة
-                if slug in catalog_dict:
-                    catalog_dict[slug]["title"] = title
-                    catalog_dict[slug]["url"] = manga_url
-                    if cover_url:
-                        catalog_dict[slug]["cover_url"] = cover_url
-                    if raw_status:
-                        catalog_dict[slug]["status"] = format_status(raw_status)
-                else:
-                    catalog_dict[slug] = {
-                        "id": slug,
-                        "title": title,
-                        "url": manga_url,
-                        "cover_url": cover_url,
-                        "type": "رواية" if is_novel else format_type(raw_type),
-                        "status": format_status(raw_status),
-                        "total_chapters": 0,
-                        "genres": []  # تهيئة حقل التصنيفات دائماً
-                    }
-
-                # تسجيل الترتيب السليم من الأحدث للأقدم
-                if slug not in ordered_recent_slugs:
-                    ordered_recent_slugs.append(slug)
-
-                new_in_page += 1
-
-            if new_in_page == 0:
-                break
-
-            time.sleep(0.2)
-        except Exception as e:
-            print(f"خطأ أثناء سحب صفحة {page}: {e}")
-            break
-
-    # 2. تحديث تفاصيل وفصول وتصنيفات أحدث 20 عملاً
-    targets_slugs = ordered_recent_slugs[:DETAILS_SYNC_LIMIT]
+    # 2. تحديث فصول وتفاصيل أحدث 20 عملاً وكشف التحديثات للإشعارات
+    targets_ids = ordered_recent_ids[:DETAILS_SYNC_LIMIT]
     new_releases = []
 
-    for index, slug in enumerate(targets_slugs, 1):
-        item = catalog_dict[slug]
-        manga_url = item["url"]
-        file_path = os.path.join(DATA_DIR, f"{slug}.json")
-        prev_chaps = item.get("total_chapters", 0)
+    for index, work_id in enumerate(targets_ids, 1):
+        work_meta = next((w for w in works if w["id"] == work_id), None)
+        if not work_meta:
+            continue
+
+        file_path = os.path.join(DATA_DIR, f"{work_id}.json")
+        prev_chaps = catalog_dict[work_id].get("total_chapters", 0)
 
         try:
-            details = scrape_manga_details_despair(session, manga_url)
+            chapters_map = fetch_work_chapters(session, work_id)
+            current_chaps = len(chapters_map)
+
+            details_data = {
+                "id": work_id,
+                "title": catalog_dict[work_id]["title"],
+                "cover_url": work_meta.get("cover_url", ""),
+                "description": work_meta.get("synopsis", "لا يوجد وصف"),
+                "type": format_type(work_meta.get("type", "manhwa")),
+                "status": format_status(work_meta.get("status", "مستمر")),
+                "last_update": (work_meta.get("updated_at") or "").split("T")[0],
+                "rating": str(work_meta.get("rating_avg", "")),
+                "favorites": "",
+                "genres": work_meta.get("genres", []),
+                "is_novel": False,
+                "chapters": chapters_map
+            }
+
             with open(file_path, "w", encoding="utf-8") as f:
-                json.dump(details, f, ensure_ascii=False, indent=2)
+                json.dump(details_data, f, ensure_ascii=False, indent=2)
 
-            current_chaps = len(details["chapters"])
-            item["status"] = details["status"]
-            item["rating"] = details["rating"]
-            item["type"] = details["type"]
-            item["total_chapters"] = current_chaps
-            
-            # حفظ التصنيفات الحقيقية في الكاتلوج
-            item["genres"] = details.get("genres", [])
+            catalog_dict[work_id]["total_chapters"] = current_chaps
+            print(f"✓ [{index}/{len(targets_ids)}] تم تحديث ديسبير: {work_id} ({current_chaps} فصل)")
 
-            print(f"✓ [{index}/{len(targets_slugs)}] تم تحديث ديسبير: {slug} ({current_chaps} فصل) - تصنيفات: {item['genres']}")
-
-            # كشف التحديث لتوليد التنبيه
+            # فحص نزول فصول جديدة لتوليد التنبيه
             if current_chaps > prev_chaps and current_chaps > 0:
                 new_releases.append({
-                    "id": slug,
-                    "title": item["title"],
+                    "id": work_id,
+                    "title": catalog_dict[work_id]["title"],
                     "chapter": f"الفصل {current_chaps}" if prev_chaps > 0 else "عمل جديد",
-                    "type": item.get("type", "مانغا"),
-                    "cover_url": item.get("cover_url", "")
+                    "type": catalog_dict[work_id].get("type", "مانغا"),
+                    "cover_url": catalog_dict[work_id].get("cover_url", "")
                 })
 
-            time.sleep(0.3)
+            time.sleep(0.1)
         except Exception as e:
-            print(f"خطأ أثناء معالجة {slug}: {e}")
+            print(f"خطأ أثناء تحديث فصول {work_id}: {e}")
 
-    # 3. بناء الفهرس النهائي بالتصنيفات
-    seen_slugs = set(ordered_recent_slugs)
-    final_merged_catalog = [catalog_dict[s] for s in ordered_recent_slugs] + [
-        item for s, item in catalog_dict.items() if s not in seen_slugs
+    # 3. بناء وحفظ الفهرس المدمج النهائي (Catalog)
+    seen_ids = set(ordered_recent_ids)
+    final_merged_catalog = [catalog_dict[i] for i in ordered_recent_ids if i in catalog_dict] + [
+        item for i, item in catalog_dict.items() if i not in seen_ids
     ]
 
     with open(CATALOG_FILE, "w", encoding="utf-8") as f:
         json.dump(final_merged_catalog, f, ensure_ascii=False, indent=2)
 
-    # 4. تحديث الإشعارات العامة
+    # 4. حفظ إشعارات التحديثات
     if new_releases:
         update_global_new_releases(new_releases)
 
-    print(f"\n⚡ اكتملت مزامنة ديسبير السليمة! إجمالي الأعمال المحفوظة: {len(final_merged_catalog)}")
+    print(f"\n⚡ اكتملت المزامنة السحابية بنجاح! إجمالي الأعمال في الكاتلوج: {len(final_merged_catalog)}")
 
 if __name__ == "__main__":
     sync_despair_fast()

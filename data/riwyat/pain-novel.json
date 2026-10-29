@@ -1,0 +1,63 @@
+{
+  "id": "pain-novel",
+  "title": "ألم، ألم، اذهب بعيدًا!",
+  "cover_url": "https://cenele.com/wp-content/uploads/2026/09/38704ec0-89ae-478f-b08c-fe4581363299-683x1024.webp",
+  "description": "رواية Pain, Pain, Go Away!\nماذا لو كان بإمكانك أن تهرب من ألمك… بأن تنقله إلى شخص آخر؟\nتبدأ الحكاية بفتى يحمل في داخله الكثير من الندم والوحدة، وفتاة غامضة تُدعى كيريكو، تجمعهما علاقة غير عادية تتشكل وسط ظروف قاسية ومشاعر يصعب فهمها.\nبين الذكريات المؤلمة، والرغبة في الخلاص، والخوف من المستقبل، تبدأ قصة إنسانية نفسية تتساءل عن معنى السعادة، وثمن الألم، وما الذي قد يفعله الإنسان عندما يصبح التخلص من معاناته ممكنًا.\nرواية قصيرة ومؤثرة من تأليف سوغارو مياكي، صاحب ثلاثة أيام من السعادة، تأخذك في رحلة مليئة بالغموض والمشاعر الثقيلة، حيث لا يكون التخلص من الألم بالبساطة التي تبدو عليها الكلمة.",
+  "type": "رواية",
+  "status": "مستمر",
+  "last_update": "",
+  "rating": "5.5",
+  "favorites": "",
+  "genres": [
+    "خيال",
+    "دراما",
+    "رعب",
+    "رومانسية",
+    "للكبار",
+    "مكتملة",
+    "نفسي"
+  ],
+  "is_novel": true,
+  "chapters": {
+    "https://cenele.com/cont/pain-novel/%d8%a7%d9%84%d9%81%d8%b5%d9%84-5": {
+      "name": "5",
+      "images": []
+    },
+    "https://cenele.com/cont/pain-novel/%d8%a7%d9%84%d9%81%d8%b5%d9%84-4": {
+      "name": "4",
+      "images": []
+    },
+    "https://cenele.com/cont/pain-novel/%d8%a7%d9%84%d9%81%d8%b5%d9%84-3": {
+      "name": "3",
+      "images": []
+    },
+    "https://cenele.com/cont/pain-novel/%d8%a7%d9%84%d9%81%d8%b5%d9%84-2": {
+      "name": "2",
+      "images": []
+    },
+    "https://cenele.com/cont/pain-novel/%d8%a7%d9%84%d9%81%d8%b5%d9%84-1": {
+      "name": "1",
+      "images": []
+    },
+    "https://cenele.com/cont/pain-novel/%d8%a7%d9%84%d9%81%d8%b5%d9%84-10": {
+      "name": "10",
+      "images": []
+    },
+    "https://cenele.com/cont/pain-novel/%d8%a7%d9%84%d9%81%d8%b5%d9%84-9": {
+      "name": "9",
+      "images": []
+    },
+    "https://cenele.com/cont/pain-novel/%d8%a7%d9%84%d9%81%d8%b5%d9%84-8": {
+      "name": "8",
+      "images": []
+    },
+    "https://cenele.com/cont/pain-novel/%d8%a7%d9%84%d9%81%d8%b5%d9%84-7": {
+      "name": "7",
+      "images": []
+    },
+    "https://cenele.com/cont/pain-novel/%d8%a7%d9%84%d9%81%d8%b5%d9%84-6": {
+      "name": "6",
+      "images": []
+    }
+  }
+}

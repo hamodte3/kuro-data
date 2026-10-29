@@ -5,7 +5,7 @@
   "description": "كالوم كان يرى أشياء غريبة طوال حياته – وحوشًا، ووحوشًا خرافية، وسحرة يعيشون سرًا بين الناس. ولكن حتى بعد اكتشافه لسحر البوابات، لا يرغب كالوم في أن يكون جزءًا من هذا العالم. تتطلب نقابة التنظيم السحري الولاء والتعليم والخدمة من كل ساحر جديد. إلى الجحيم مع ذلك. إذا أرادوه، فسيكون عليهم القبض عليه أولاً.",
   "type": "ويب تون",
   "status": "مستمر",
-  "last_update": "2026-09-26",
+  "last_update": "2026-09-28",
   "rating": "10.0",
   "favorites": "1",
   "genres": [
@@ -17,6 +17,18 @@
   ],
   "is_novel": false,
   "chapters": {
+    "https://mangatime.org/manga/paranoid-mage/chapter/122": {
+      "name": "122",
+      "images": []
+    },
+    "https://mangatime.org/manga/paranoid-mage/chapter/121": {
+      "name": "121",
+      "images": []
+    },
+    "https://mangatime.org/manga/paranoid-mage/chapter/120": {
+      "name": "120",
+      "images": []
+    },
     "https://mangatime.org/manga/paranoid-mage/chapter/119": {
       "name": "119",
       "images": []

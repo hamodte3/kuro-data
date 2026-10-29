@@ -5,7 +5,7 @@
   "description": "يستيقظ وانغ تشاو في أرضٍ احتلّتها مخلوقات بعد أن باد البشر. بقوة جسدٍ يُعاد بناؤه مع كل موتٍ يقترب، يشقّ طريقًا بين الأنقاض كي يجد إن كان أحدٌ ما زال إنسانًا.",
   "type": "مانها",
   "status": "مستمر",
-  "last_update": "2026-09-22",
+  "last_update": "2026-10-07",
   "rating": "",
   "favorites": "1",
   "genres": [
@@ -16,6 +16,562 @@
   ],
   "is_novel": false,
   "chapters": {
+    "https://mangatime.org/manhua/the-last-human/chapter/333": {
+      "name": "333",
+      "images": []
+    },
+    "https://mangatime.org/manhua/the-last-human/chapter/332": {
+      "name": "332",
+      "images": []
+    },
+    "https://mangatime.org/manhua/the-last-human/chapter/331": {
+      "name": "331",
+      "images": []
+    },
+    "https://mangatime.org/manhua/the-last-human/chapter/330": {
+      "name": "330",
+      "images": []
+    },
+    "https://mangatime.org/manhua/the-last-human/chapter/329": {
+      "name": "329",
+      "images": []
+    },
+    "https://mangatime.org/manhua/the-last-human/chapter/328": {
+      "name": "328",
+      "images": []
+    },
+    "https://mangatime.org/manhua/the-last-human/chapter/327": {
+      "name": "327",
+      "images": []
+    },
+    "https://mangatime.org/manhua/the-last-human/chapter/326": {
+      "name": "326",
+      "images": []
+    },
+    "https://mangatime.org/manhua/the-last-human/chapter/325": {
+      "name": "325",
+      "images": []
+    },
+    "https://mangatime.org/manhua/the-last-human/chapter/324": {
+      "name": "324",
+      "images": []
+    },
+    "https://mangatime.org/manhua/the-last-human/chapter/323": {
+      "name": "323",
+      "images": []
+    },
+    "https://mangatime.org/manhua/the-last-human/chapter/322": {
+      "name": "322",
+      "images": []
+    },
+    "https://mangatime.org/manhua/the-last-human/chapter/321": {
+      "name": "321",
+      "images": []
+    },
+    "https://mangatime.org/manhua/the-last-human/chapter/320": {
+      "name": "320",
+      "images": []
+    },
+    "https://mangatime.org/manhua/the-last-human/chapter/319": {
+      "name": "319",
+      "images": []
+    },
+    "https://mangatime.org/manhua/the-last-human/chapter/318": {
+      "name": "318",
+      "images": []
+    },
+    "https://mangatime.org/manhua/the-last-human/chapter/317": {
+      "name": "317",
+      "images": []
+    },
+    "https://mangatime.org/manhua/the-last-human/chapter/316": {
+      "name": "316",
+      "images": []
+    },
+    "https://mangatime.org/manhua/the-last-human/chapter/315": {
+      "name": "315",
+      "images": []
+    },
+    "https://mangatime.org/manhua/the-last-human/chapter/314": {
+      "name": "314",
+      "images": []
+    },
+    "https://mangatime.org/manhua/the-last-human/chapter/313": {
+      "name": "313",
+      "images": []
+    },
+    "https://mangatime.org/manhua/the-last-human/chapter/312": {
+      "name": "312",
+      "images": []
+    },
+    "https://mangatime.org/manhua/the-last-human/chapter/311": {
+      "name": "311",
+      "images": []
+    },
+    "https://mangatime.org/manhua/the-last-human/chapter/310": {
+      "name": "310",
+      "images": []
+    },
+    "https://mangatime.org/manhua/the-last-human/chapter/309": {
+      "name": "309",
+      "images": []
+    },
+    "https://mangatime.org/manhua/the-last-human/chapter/308": {
+      "name": "308",
+      "images": []
+    },
+    "https://mangatime.org/manhua/the-last-human/chapter/307": {
+      "name": "307",
+      "images": []
+    },
+    "https://mangatime.org/manhua/the-last-human/chapter/306": {
+      "name": "306",
+      "images": []
+    },
+    "https://mangatime.org/manhua/the-last-human/chapter/305": {
+      "name": "305",
+      "images": []
+    },
+    "https://mangatime.org/manhua/the-last-human/chapter/304": {
+      "name": "304",
+      "images": []
+    },
+    "https://mangatime.org/manhua/the-last-human/chapter/303": {
+      "name": "303",
+      "images": []
+    },
+    "https://mangatime.org/manhua/the-last-human/chapter/302": {
+      "name": "302",
+      "images": []
+    },
+    "https://mangatime.org/manhua/the-last-human/chapter/301": {
+      "name": "301",
+      "images": []
+    },
+    "https://mangatime.org/manhua/the-last-human/chapter/300": {
+      "name": "300",
+      "images": []
+    },
+    "https://mangatime.org/manhua/the-last-human/chapter/299": {
+      "name": "299",
+      "images": []
+    },
+    "https://mangatime.org/manhua/the-last-human/chapter/298": {
+      "name": "298",
+      "images": []
+    },
+    "https://mangatime.org/manhua/the-last-human/chapter/297": {
+      "name": "297",
+      "images": []
+    },
+    "https://mangatime.org/manhua/the-last-human/chapter/296": {
+      "name": "296",
+      "images": []
+    },
+    "https://mangatime.org/manhua/the-last-human/chapter/295": {
+      "name": "295",
+      "images": []
+    },
+    "https://mangatime.org/manhua/the-last-human/chapter/294": {
+      "name": "294",
+      "images": []
+    },
+    "https://mangatime.org/manhua/the-last-human/chapter/293": {
+      "name": "293",
+      "images": []
+    },
+    "https://mangatime.org/manhua/the-last-human/chapter/292": {
+      "name": "292",
+      "images": []
+    },
+    "https://mangatime.org/manhua/the-last-human/chapter/291": {
+      "name": "291",
+      "images": []
+    },
+    "https://mangatime.org/manhua/the-last-human/chapter/290": {
+      "name": "290",
+      "images": []
+    },
+    "https://mangatime.org/manhua/the-last-human/chapter/289": {
+      "name": "289",
+      "images": []
+    },
+    "https://mangatime.org/manhua/the-last-human/chapter/288": {
+      "name": "288",
+      "images": []
+    },
+    "https://mangatime.org/manhua/the-last-human/chapter/287": {
+      "name": "287",
+      "images": []
+    },
+    "https://mangatime.org/manhua/the-last-human/chapter/286": {
+      "name": "286",
+      "images": []
+    },
+    "https://mangatime.org/manhua/the-last-human/chapter/285": {
+      "name": "285",
+      "images": []
+    },
+    "https://mangatime.org/manhua/the-last-human/chapter/284": {
+      "name": "284",
+      "images": []
+    },
+    "https://mangatime.org/manhua/the-last-human/chapter/283": {
+      "name": "283",
+      "images": []
+    },
+    "https://mangatime.org/manhua/the-last-human/chapter/282": {
+      "name": "282",
+      "images": []
+    },
+    "https://mangatime.org/manhua/the-last-human/chapter/281": {
+      "name": "281",
+      "images": []
+    },
+    "https://mangatime.org/manhua/the-last-human/chapter/280": {
+      "name": "280",
+      "images": []
+    },
+    "https://mangatime.org/manhua/the-last-human/chapter/279": {
+      "name": "279",
+      "images": []
+    },
+    "https://mangatime.org/manhua/the-last-human/chapter/278": {
+      "name": "278",
+      "images": []
+    },
+    "https://mangatime.org/manhua/the-last-human/chapter/277": {
+      "name": "277",
+      "images": []
+    },
+    "https://mangatime.org/manhua/the-last-human/chapter/276": {
+      "name": "276",
+      "images": []
+    },
+    "https://mangatime.org/manhua/the-last-human/chapter/275": {
+      "name": "275",
+      "images": []
+    },
+    "https://mangatime.org/manhua/the-last-human/chapter/274": {
+      "name": "274",
+      "images": []
+    },
+    "https://mangatime.org/manhua/the-last-human/chapter/273": {
+      "name": "273",
+      "images": []
+    },
+    "https://mangatime.org/manhua/the-last-human/chapter/272": {
+      "name": "272",
+      "images": []
+    },
+    "https://mangatime.org/manhua/the-last-human/chapter/271": {
+      "name": "271",
+      "images": []
+    },
+    "https://mangatime.org/manhua/the-last-human/chapter/270": {
+      "name": "270",
+      "images": []
+    },
+    "https://mangatime.org/manhua/the-last-human/chapter/269": {
+      "name": "269",
+      "images": []
+    },
+    "https://mangatime.org/manhua/the-last-human/chapter/268": {
+      "name": "268",
+      "images": []
+    },
+    "https://mangatime.org/manhua/the-last-human/chapter/267": {
+      "name": "267",
+      "images": []
+    },
+    "https://mangatime.org/manhua/the-last-human/chapter/266": {
+      "name": "266",
+      "images": []
+    },
+    "https://mangatime.org/manhua/the-last-human/chapter/265": {
+      "name": "265",
+      "images": []
+    },
+    "https://mangatime.org/manhua/the-last-human/chapter/264": {
+      "name": "264",
+      "images": []
+    },
+    "https://mangatime.org/manhua/the-last-human/chapter/263": {
+      "name": "263",
+      "images": []
+    },
+    "https://mangatime.org/manhua/the-last-human/chapter/262": {
+      "name": "262",
+      "images": []
+    },
+    "https://mangatime.org/manhua/the-last-human/chapter/261": {
+      "name": "261",
+      "images": []
+    },
+    "https://mangatime.org/manhua/the-last-human/chapter/260": {
+      "name": "260",
+      "images": []
+    },
+    "https://mangatime.org/manhua/the-last-human/chapter/259": {
+      "name": "259",
+      "images": []
+    },
+    "https://mangatime.org/manhua/the-last-human/chapter/258": {
+      "name": "258",
+      "images": []
+    },
+    "https://mangatime.org/manhua/the-last-human/chapter/257": {
+      "name": "257",
+      "images": []
+    },
+    "https://mangatime.org/manhua/the-last-human/chapter/256": {
+      "name": "256",
+      "images": []
+    },
+    "https://mangatime.org/manhua/the-last-human/chapter/255": {
+      "name": "255",
+      "images": []
+    },
+    "https://mangatime.org/manhua/the-last-human/chapter/254": {
+      "name": "254",
+      "images": []
+    },
+    "https://mangatime.org/manhua/the-last-human/chapter/253": {
+      "name": "253",
+      "images": []
+    },
+    "https://mangatime.org/manhua/the-last-human/chapter/252": {
+      "name": "252",
+      "images": []
+    },
+    "https://mangatime.org/manhua/the-last-human/chapter/251": {
+      "name": "251",
+      "images": []
+    },
+    "https://mangatime.org/manhua/the-last-human/chapter/250": {
+      "name": "250",
+      "images": []
+    },
+    "https://mangatime.org/manhua/the-last-human/chapter/249": {
+      "name": "249",
+      "images": []
+    },
+    "https://mangatime.org/manhua/the-last-human/chapter/248": {
+      "name": "248",
+      "images": []
+    },
+    "https://mangatime.org/manhua/the-last-human/chapter/247": {
+      "name": "247",
+      "images": []
+    },
+    "https://mangatime.org/manhua/the-last-human/chapter/246": {
+      "name": "246",
+      "images": []
+    },
+    "https://mangatime.org/manhua/the-last-human/chapter/245": {
+      "name": "245",
+      "images": []
+    },
+    "https://mangatime.org/manhua/the-last-human/chapter/244": {
+      "name": "244",
+      "images": []
+    },
+    "https://mangatime.org/manhua/the-last-human/chapter/243": {
+      "name": "243",
+      "images": []
+    },
+    "https://mangatime.org/manhua/the-last-human/chapter/242": {
+      "name": "242",
+      "images": []
+    },
+    "https://mangatime.org/manhua/the-last-human/chapter/241": {
+      "name": "241",
+      "images": []
+    },
+    "https://mangatime.org/manhua/the-last-human/chapter/240": {
+      "name": "240",
+      "images": []
+    },
+    "https://mangatime.org/manhua/the-last-human/chapter/239": {
+      "name": "239",
+      "images": []
+    },
+    "https://mangatime.org/manhua/the-last-human/chapter/238": {
+      "name": "238",
+      "images": []
+    },
+    "https://mangatime.org/manhua/the-last-human/chapter/237": {
+      "name": "237",
+      "images": []
+    },
+    "https://mangatime.org/manhua/the-last-human/chapter/236": {
+      "name": "236",
+      "images": []
+    },
+    "https://mangatime.org/manhua/the-last-human/chapter/235": {
+      "name": "235",
+      "images": []
+    },
+    "https://mangatime.org/manhua/the-last-human/chapter/234": {
+      "name": "234",
+      "images": []
+    },
+    "https://mangatime.org/manhua/the-last-human/chapter/233": {
+      "name": "233",
+      "images": []
+    },
+    "https://mangatime.org/manhua/the-last-human/chapter/232": {
+      "name": "232",
+      "images": []
+    },
+    "https://mangatime.org/manhua/the-last-human/chapter/231": {
+      "name": "231",
+      "images": []
+    },
+    "https://mangatime.org/manhua/the-last-human/chapter/230": {
+      "name": "230",
+      "images": []
+    },
+    "https://mangatime.org/manhua/the-last-human/chapter/229": {
+      "name": "229",
+      "images": []
+    },
+    "https://mangatime.org/manhua/the-last-human/chapter/228": {
+      "name": "228",
+      "images": []
+    },
+    "https://mangatime.org/manhua/the-last-human/chapter/227": {
+      "name": "227",
+      "images": []
+    },
+    "https://mangatime.org/manhua/the-last-human/chapter/226": {
+      "name": "226",
+      "images": []
+    },
+    "https://mangatime.org/manhua/the-last-human/chapter/225": {
+      "name": "225",
+      "images": []
+    },
+    "https://mangatime.org/manhua/the-last-human/chapter/224": {
+      "name": "224",
+      "images": []
+    },
+    "https://mangatime.org/manhua/the-last-human/chapter/223": {
+      "name": "223",
+      "images": []
+    },
+    "https://mangatime.org/manhua/the-last-human/chapter/222": {
+      "name": "222",
+      "images": []
+    },
+    "https://mangatime.org/manhua/the-last-human/chapter/221": {
+      "name": "221",
+      "images": []
+    },
+    "https://mangatime.org/manhua/the-last-human/chapter/220": {
+      "name": "220",
+      "images": []
+    },
+    "https://mangatime.org/manhua/the-last-human/chapter/219": {
+      "name": "219",
+      "images": []
+    },
+    "https://mangatime.org/manhua/the-last-human/chapter/218": {
+      "name": "218",
+      "images": []
+    },
+    "https://mangatime.org/manhua/the-last-human/chapter/217": {
+      "name": "217",
+      "images": []
+    },
+    "https://mangatime.org/manhua/the-last-human/chapter/216": {
+      "name": "216",
+      "images": []
+    },
+    "https://mangatime.org/manhua/the-last-human/chapter/215": {
+      "name": "215",
+      "images": []
+    },
+    "https://mangatime.org/manhua/the-last-human/chapter/214": {
+      "name": "214",
+      "images": []
+    },
+    "https://mangatime.org/manhua/the-last-human/chapter/213": {
+      "name": "213",
+      "images": []
+    },
+    "https://mangatime.org/manhua/the-last-human/chapter/212": {
+      "name": "212",
+      "images": []
+    },
+    "https://mangatime.org/manhua/the-last-human/chapter/211": {
+      "name": "211",
+      "images": []
+    },
+    "https://mangatime.org/manhua/the-last-human/chapter/210": {
+      "name": "210",
+      "images": []
+    },
+    "https://mangatime.org/manhua/the-last-human/chapter/209": {
+      "name": "209",
+      "images": []
+    },
+    "https://mangatime.org/manhua/the-last-human/chapter/208": {
+      "name": "208",
+      "images": []
+    },
+    "https://mangatime.org/manhua/the-last-human/chapter/207": {
+      "name": "207",
+      "images": []
+    },
+    "https://mangatime.org/manhua/the-last-human/chapter/206": {
+      "name": "206",
+      "images": []
+    },
+    "https://mangatime.org/manhua/the-last-human/chapter/205": {
+      "name": "205",
+      "images": []
+    },
+    "https://mangatime.org/manhua/the-last-human/chapter/204": {
+      "name": "204",
+      "images": []
+    },
+    "https://mangatime.org/manhua/the-last-human/chapter/203": {
+      "name": "203",
+      "images": []
+    },
+    "https://mangatime.org/manhua/the-last-human/chapter/202": {
+      "name": "202",
+      "images": []
+    },
+    "https://mangatime.org/manhua/the-last-human/chapter/201": {
+      "name": "201",
+      "images": []
+    },
+    "https://mangatime.org/manhua/the-last-human/chapter/200": {
+      "name": "200",
+      "images": []
+    },
+    "https://mangatime.org/manhua/the-last-human/chapter/199": {
+      "name": "199",
+      "images": []
+    },
+    "https://mangatime.org/manhua/the-last-human/chapter/198": {
+      "name": "198",
+      "images": []
+    },
+    "https://mangatime.org/manhua/the-last-human/chapter/197": {
+      "name": "197",
+      "images": []
+    },
+    "https://mangatime.org/manhua/the-last-human/chapter/196": {
+      "name": "196",
+      "images": []
+    },
+    "https://mangatime.org/manhua/the-last-human/chapter/195": {
+      "name": "195",
+      "images": []
+    },
     "https://mangatime.org/manhua/the-last-human/chapter/194": {
       "name": "194",
       "images": []

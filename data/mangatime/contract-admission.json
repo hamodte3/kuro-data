@@ -5,7 +5,7 @@
   "description": "ريو كانغ-مين قاتل مأجور في منظمة «باتالا»، وهي منظمة لا يغادرها أحد بطريقة مشروعة. يُعرض عليه أخيراً طريق للخروج بشرط واحد: عقد أخير ينفّذه في كوريا. يعود إلى بلاده ليبدأ المهمّة، فإذا بأول ما يعترضه ليس هدفه المكلَّف به، بل خائن داخل المنظمة نفسها.",
   "type": "مانهوا",
   "status": "مستمر",
-  "last_update": "2026-09-23",
+  "last_update": "2026-09-28",
   "rating": "",
   "favorites": "1",
   "genres": [
@@ -16,6 +16,10 @@
   ],
   "is_novel": false,
   "chapters": {
+    "https://mangatime.org/manhwa/contract-admission/chapter/21": {
+      "name": "21",
+      "images": []
+    },
     "https://mangatime.org/manhwa/contract-admission/chapter/20": {
       "name": "20",
       "images": []

@@ -1,7 +1,7 @@
 {
   "id": "legend-of-swordsman",
   "title": "أسطورة السياف",
-  "cover_url": "https://api.rewayat.club/media/novel/Legend%20Of%20Swordsman/poster/Legend-of-Swordsman.cover.jpg",
+  "cover_url": "https://media.rewayat.club/novel/Legend%20Of%20Swordsman/poster/Legend-of-Swordsman.cover.jpg",
   "description": "لا يوجد وصف",
   "type": "رواية",
   "status": "مستمر",
@@ -16419,6 +16419,10 @@
     },
     "https://rewayat.club/novel/legend-of-swordsman/4101": {
       "name": "4101",
+      "images": []
+    },
+    "https://rewayat.club/novel/legend-of-swordsman/4102": {
+      "name": "4102",
       "images": []
     }
   }

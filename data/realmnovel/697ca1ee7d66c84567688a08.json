@@ -9,8 +9,18 @@
   "rating": "",
   "favorites": "",
   "genres": [
+    "حريم",
     "فنون قتال",
-    "عالم آخر"
+    "نظام",
+    "عالم آخر",
+    "سحر",
+    "ضعيف الى قوي",
+    "حيوان مرافق",
+    "عالم حديث",
+    "زراعة",
+    "مغامرة",
+    "اكشن",
+    "خيال"
   ],
   "is_novel": true,
   "chapters": {
@@ -7524,6 +7534,26 @@
     },
     "https://realmnovel.com/novel/697ca1ee7d66c84567688a08/chapter/1878": {
       "name": "1878",
+      "images": []
+    },
+    "https://realmnovel.com/novel/697ca1ee7d66c84567688a08/chapter/1879": {
+      "name": "1879",
+      "images": []
+    },
+    "https://realmnovel.com/novel/697ca1ee7d66c84567688a08/chapter/1880": {
+      "name": "1880",
+      "images": []
+    },
+    "https://realmnovel.com/novel/697ca1ee7d66c84567688a08/chapter/1881": {
+      "name": "1881",
+      "images": []
+    },
+    "https://realmnovel.com/novel/697ca1ee7d66c84567688a08/chapter/1882": {
+      "name": "1882",
+      "images": []
+    },
+    "https://realmnovel.com/novel/697ca1ee7d66c84567688a08/chapter/1883": {
+      "name": "1883",
       "images": []
     }
   }

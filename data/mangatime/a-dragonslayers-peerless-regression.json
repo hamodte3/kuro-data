@@ -5,9 +5,9 @@
   "description": "زيك دريكر أول من فشل إيقاظه في آل دريكر فطُرد. عاش منبوذًا حتى لُقّب شبح الشمال، ثم قُتل وهو يمنع الإمبراطور من الاستيلاء على أثر قديم. يستيقظ في الثانية عشرة داخل المهد، بيت دريكر.",
   "type": "مانهوا",
   "status": "مستمر",
-  "last_update": "2026-09-24",
+  "last_update": "2026-09-28",
   "rating": "",
-  "favorites": "",
+  "favorites": "1",
   "genres": [
     "أكشن",
     "فانتازيا",
@@ -15,6 +15,14 @@
   ],
   "is_novel": false,
   "chapters": {
+    "https://mangatime.org/manhwa/a-dragonslayers-peerless-regression/chapter/105": {
+      "name": "105",
+      "images": []
+    },
+    "https://mangatime.org/manhwa/a-dragonslayers-peerless-regression/chapter/104": {
+      "name": "104",
+      "images": []
+    },
     "https://mangatime.org/manhwa/a-dragonslayers-peerless-regression/chapter/103": {
       "name": "103",
       "images": []

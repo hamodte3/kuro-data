@@ -6,7 +6,7 @@
   "type": "رواية",
   "status": "مستمر",
   "last_update": "",
-  "rating": "5.2",
+  "rating": "7.4",
   "favorites": "",
   "genres": [
     "دراما",
@@ -55,6 +55,18 @@
     },
     "https://cenele.com/cont/and-the-king-of-night/%d8%a7%d9%84%d9%81%d8%b5%d9%84-1": {
       "name": "1",
+      "images": []
+    },
+    "https://cenele.com/cont/and-the-king-of-night/%d8%a7%d9%84%d9%81%d8%b5%d9%84-0-2": {
+      "name": "0.2",
+      "images": []
+    },
+    "https://cenele.com/cont/and-the-king-of-night/%d8%a7%d9%84%d9%81%d8%b5%d9%84-0-1": {
+      "name": "0.1",
+      "images": []
+    },
+    "https://cenele.com/cont/and-the-king-of-night/%d8%a7%d9%84%d9%81%d8%b5%d9%84-0": {
+      "name": "0",
       "images": []
     }
   }

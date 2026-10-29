@@ -13,8 +13,8 @@ DATA_DIR = os.path.join("data", "realmnovel")
 CATALOG_FILE = os.path.join(DATA_DIR, "catalog.json")
 GLOBAL_NEW_FILE = os.path.join("data", "new.json")
 
-DETAILS_SYNC_LIMIT = 20000   # تجهيز وتحديث ملفات فصول أحدث 20 رواية فقط
-MAX_DELTA_PAGES = 5000       # فحص أول 5 صفحات فقط كل ساعة (100 رواية محدثة)
+DETAILS_SYNC_LIMIT = 20   # تجهيز وتحديث ملفات فصول أحدث 20 رواية فقط
+MAX_DELTA_PAGES = 5       # فحص أول 5 صفحات فقط كل ساعة (100 رواية محدثة)
 
 os.makedirs(DATA_DIR, exist_ok=True)
 os.makedirs("data", exist_ok=True)

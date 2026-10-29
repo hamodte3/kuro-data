@@ -1,7 +1,7 @@
 {
   "id": "lord-of-the-mysteries-2",
   "title": "سيد الغوامض",
-  "cover_url": "https://api.rewayat.club/media/novel/lord-of-the-mysteries-2/e9d9.cover.jpg",
+  "cover_url": "https://media.rewayat.club/novel/lord-of-the-mysteries-2/e9d9.cover.jpg",
   "description": "لا يوجد وصف",
   "type": "رواية",
   "status": "مكتملة",
@@ -5775,6 +5775,10 @@
     },
     "https://rewayat.club/novel/lord-of-the-mysteries-2/1441": {
       "name": "1441",
+      "images": []
+    },
+    "https://rewayat.club/novel/lord-of-the-mysteries-2/1442": {
+      "name": "1442",
       "images": []
     }
   }
