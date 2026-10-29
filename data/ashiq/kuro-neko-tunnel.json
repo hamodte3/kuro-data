@@ -1,0 +1,22 @@
+{
+  "id": "kuro-neko-tunnel",
+  "title": "Kuro Neko Suidou",
+  "cover_url": "https://3asq.online/wp-content/uploads/2019/04/37920l.jpg",
+  "description": "ون شوت يحكي رحلة فتى يبحث عن قطة اخته السوداء",
+  "type": "ون-شوت",
+  "status": "مكتمل",
+  "rating": "3.0",
+  "favorites": "4",
+  "genres": [
+    "خارق للطبيعة",
+    "خيال",
+    "شريحة من الحياة",
+    "علم نفس"
+  ],
+  "is_novel": false,
+  "chapters": {
+    "https://3asq.online/manga/kuro-neko-tunnel/1": {
+      "name": "1"
+    }
+  }
+}

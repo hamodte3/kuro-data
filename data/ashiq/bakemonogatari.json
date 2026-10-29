@@ -1,0 +1,92 @@
+{
+  "id": "bakemonogatari",
+  "title": "Bakemonogatari",
+  "cover_url": "https://3asq.online/wp-content/uploads/2021/05/01.jpg",
+  "description": "﻿القصة:كويومي اراراغي طالب في السنة الثالثة من المرحلة الثانوية، قد نجا مؤخرا من هجوم مصاصة دماء (مما تركه ببعض قدراتها, ولكنه لم يتحول لمصاص دماء) يجد نفسه في مواقف غريبة وخارقة للطبيعة مع جميع أنواع الخوارق: الآلهة, الأشباح, الأساطير, والأرواح مع بعض الشخصيات (تصادف انهم جميعا فتيات).",
+  "type": "مانغا",
+  "status": "مستمر",
+  "rating": "4.6",
+  "favorites": "30",
+  "genres": [
+    "أكشن",
+    "خارق للطبيعة",
+    "دراما",
+    "رومانسية",
+    "مدرسة"
+  ],
+  "is_novel": false,
+  "chapters": {
+    "https://3asq.online/manga/bakemonogatari/24": {
+      "name": "24"
+    },
+    "https://3asq.online/manga/bakemonogatari/23": {
+      "name": "23"
+    },
+    "https://3asq.online/manga/bakemonogatari/22": {
+      "name": "22"
+    },
+    "https://3asq.online/manga/bakemonogatari/21": {
+      "name": "21"
+    },
+    "https://3asq.online/manga/bakemonogatari/20": {
+      "name": "20"
+    },
+    "https://3asq.online/manga/bakemonogatari/19": {
+      "name": "19"
+    },
+    "https://3asq.online/manga/bakemonogatari/18": {
+      "name": "18"
+    },
+    "https://3asq.online/manga/bakemonogatari/17": {
+      "name": "17"
+    },
+    "https://3asq.online/manga/bakemonogatari/16": {
+      "name": "16"
+    },
+    "https://3asq.online/manga/bakemonogatari/15": {
+      "name": "15"
+    },
+    "https://3asq.online/manga/bakemonogatari/14": {
+      "name": "14"
+    },
+    "https://3asq.online/manga/bakemonogatari/13": {
+      "name": "13"
+    },
+    "https://3asq.online/manga/bakemonogatari/12": {
+      "name": "12"
+    },
+    "https://3asq.online/manga/bakemonogatari/11": {
+      "name": "11"
+    },
+    "https://3asq.online/manga/bakemonogatari/10": {
+      "name": "10"
+    },
+    "https://3asq.online/manga/bakemonogatari/9": {
+      "name": "9"
+    },
+    "https://3asq.online/manga/bakemonogatari/8": {
+      "name": "8"
+    },
+    "https://3asq.online/manga/bakemonogatari/7": {
+      "name": "7"
+    },
+    "https://3asq.online/manga/bakemonogatari/6": {
+      "name": "6"
+    },
+    "https://3asq.online/manga/bakemonogatari/5": {
+      "name": "5"
+    },
+    "https://3asq.online/manga/bakemonogatari/4": {
+      "name": "4"
+    },
+    "https://3asq.online/manga/bakemonogatari/3": {
+      "name": "3"
+    },
+    "https://3asq.online/manga/bakemonogatari/2": {
+      "name": "2"
+    },
+    "https://3asq.online/manga/bakemonogatari/1": {
+      "name": "1"
+    }
+  }
+}

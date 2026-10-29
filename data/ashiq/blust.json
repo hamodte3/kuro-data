@@ -1,0 +1,22 @@
+{
+  "id": "blust",
+  "title": "Blust!",
+  "cover_url": "https://3asq.online/wp-content/uploads/2019/04/59009l.jpg",
+  "description": "لا يوجد وصف",
+  "type": "ون-شوت",
+  "status": "مكتمل",
+  "rating": "1.0",
+  "favorites": "3",
+  "genres": [
+    "أكشن",
+    "شونين",
+    "كوميديا",
+    "مغامرة"
+  ],
+  "is_novel": false,
+  "chapters": {
+    "https://3asq.online/manga/blust/n-a": {
+      "name": "0"
+    }
+  }
+}

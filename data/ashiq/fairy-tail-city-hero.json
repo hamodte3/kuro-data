@@ -1,0 +1,31 @@
+{
+  "id": "fairy-tail-city-hero",
+  "title": "Fairy Tail City Hero",
+  "cover_url": "https://3asq.online/wp-content/uploads/2019/04/D90zy6hUIAERs-G.jpg",
+  "description": "لا يوجد وصف",
+  "type": "مانغا",
+  "status": "مستمر",
+  "rating": "4.5",
+  "favorites": "7",
+  "genres": [
+    "أكشن",
+    "شونين",
+    "عسكرية",
+    "كوميديا"
+  ],
+  "is_novel": false,
+  "chapters": {
+    "https://3asq.online/manga/fairy-tail-city-hero/4": {
+      "name": "4"
+    },
+    "https://3asq.online/manga/fairy-tail-city-hero/3": {
+      "name": "3"
+    },
+    "https://3asq.online/manga/fairy-tail-city-hero/2": {
+      "name": "2"
+    },
+    "https://3asq.online/manga/fairy-tail-city-hero/1": {
+      "name": "1"
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "koi-no-kamisama",
+  "title": "Koi no Kamisama",
+  "cover_url": "https://3asq.online/wp-content/uploads/2019/04/apple-1174428.jpg",
+  "description": "قصص قصيرة من تأليف ناوشي كومي (مؤلف نيسكوي)",
+  "type": "مجموعة ونشوتات",
+  "status": "مكتمل",
+  "rating": "3.0",
+  "favorites": "4",
+  "genres": [
+    "أكشن",
+    "خيال",
+    "شوجو",
+    "كوميديا",
+    "مغامرة"
+  ],
+  "is_novel": false,
+  "chapters": {
+    "https://3asq.online/manga/koi-no-kamisama/n-a": {
+      "name": "0"
+    }
+  }
+}

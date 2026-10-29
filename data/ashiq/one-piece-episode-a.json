@@ -1,0 +1,21 @@
+{
+  "id": "one-piece-episode-a",
+  "title": "ONE PIECE EPISODE A",
+  "cover_url": "https://3asq.online/wp-content/uploads/2021/09/0.png",
+  "description": "لا يوجد وصف",
+  "type": "مانغا",
+  "status": "مستمر",
+  "rating": "4.4",
+  "favorites": "23",
+  "genres": [
+    "100%",
+    "شونين",
+    "قوى خارقة"
+  ],
+  "is_novel": false,
+  "chapters": {
+    "https://3asq.online/manga/one-piece-episode-a/3": {
+      "name": "3"
+    }
+  }
+}

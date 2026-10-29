@@ -1,0 +1,22 @@
+{
+  "id": "saigo-no-manga-kyoushitsu",
+  "title": "Saigo no Manga Kyoushitsu",
+  "cover_url": "https://3asq.online/wp-content/uploads/2026/10/5-asq-hero-480-v2.webp",
+  "description": "لا يوجد وصف",
+  "type": "مانغا",
+  "status": "مستمر",
+  "rating": "4.0",
+  "favorites": "2",
+  "genres": [
+    "سينين"
+  ],
+  "is_novel": false,
+  "chapters": {
+    "https://3asq.online/manga/saigo-no-manga-kyoushitsu/2": {
+      "name": "2"
+    },
+    "https://3asq.online/manga/saigo-no-manga-kyoushitsu/1": {
+      "name": "1"
+    }
+  }
+}

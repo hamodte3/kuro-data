@@ -1,0 +1,27 @@
+{
+  "id": "prism-rondo",
+  "title": "Love Through a Prism",
+  "cover_url": "https://3asq.online/wp-content/uploads/2026/07/prism-cover-2-new.jpg",
+  "description": "مطلع القرن العشرين فترة يصعب فيها على النساء تحقيق أحلامهن. في أكاديمية فنون في لندن، تقابل طالبة الفن اليابانية الحالمة ليلي نابغة فنون أرستقراطي يدعى كيت. لقاؤهما العابر للمكانات الاجتماعية والخلفيات الثقافية كفيل بتحريك عجلة أقدارهما…!",
+  "type": "مانغا",
+  "status": "مستمر",
+  "rating": "4.7",
+  "favorites": "1",
+  "genres": [
+    "تاريخ",
+    "دراما",
+    "رومانسية",
+    "شوجو",
+    "فلسفة",
+    "كوميديا"
+  ],
+  "is_novel": false,
+  "chapters": {
+    "https://3asq.online/manga/prism-rondo/2": {
+      "name": "2"
+    },
+    "https://3asq.online/manga/prism-rondo/1": {
+      "name": "1"
+    }
+  }
+}

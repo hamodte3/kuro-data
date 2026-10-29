@@ -1,0 +1,62 @@
+{
+  "id": "hitman",
+  "title": "Hitman",
+  "cover_url": "https://3asq.online/wp-content/uploads/2019/04/3.jpg",
+  "description": "كينزاكي ريونوسوكي محرر جديد لدى مجلة الشونين الأسبوعية، لكن حبه للمانجا غير الشائعة لا يجلب له سوى السخرية من زملائه. يجمعه لقاء مع مانجاكا طموحة، تاكاناشي تسوباسا، ويحاول إثبات نفسه بجعلها مؤلفة المانجا الأولى في اليابان.",
+  "type": "مانغا",
+  "status": "مستمر",
+  "rating": "3.9",
+  "favorites": "19",
+  "genres": [
+    "3asq",
+    "دراما",
+    "رومانسية",
+    "شريحة من الحياة",
+    "شونين"
+  ],
+  "is_novel": false,
+  "chapters": {
+    "https://3asq.online/manga/hitman/13": {
+      "name": "13"
+    },
+    "https://3asq.online/manga/hitman/12": {
+      "name": "12"
+    },
+    "https://3asq.online/manga/hitman/11": {
+      "name": "11"
+    },
+    "https://3asq.online/manga/hitman/10": {
+      "name": "10"
+    },
+    "https://3asq.online/manga/hitman/09": {
+      "name": "9"
+    },
+    "https://3asq.online/manga/hitman/08": {
+      "name": "8"
+    },
+    "https://3asq.online/javascript:void(0)": {
+      "name": "1"
+    },
+    "https://3asq.online/manga/hitman/vol-1/07": {
+      "name": "7"
+    },
+    "https://3asq.online/manga/hitman/vol-1/06": {
+      "name": "6"
+    },
+    "https://3asq.online/manga/hitman/vol-1/05": {
+      "name": "5"
+    },
+    "https://3asq.online/manga/hitman/vol-1/04": {
+      "name": "4"
+    },
+    "https://3asq.online/manga/hitman/vol-1/03": {
+      "name": "3"
+    },
+    "https://3asq.online/manga/hitman/vol-1/02": {
+      "name": "2"
+    },
+    "https://3asq.online/manga/hitman/vol-1/01": {
+      "name": "1"
+    }
+  }
+}

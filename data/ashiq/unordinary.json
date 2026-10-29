@@ -1,0 +1,37 @@
+{
+  "id": "unordinary",
+  "title": "unOrdinary",
+  "cover_url": "https://3asq.online/wp-content/uploads/2019/08/wIHDPmo.jpg",
+  "description": "العالم ليس مثاليا. تعلم التعامل مع عيوبها هو مجرد جزء طبيعي من. الحياة. ولكن هناك نقطة ويأتي حيث تفرخ هذه العيوب إدراك سحق … وهذا شيء. يحتاج إلى تغيير",
+  "type": "مانهوا",
+  "status": "مستمر",
+  "rating": "4.0",
+  "favorites": "23",
+  "genres": [
+    "خيال علمي",
+    "قوى خارقة",
+    "مدرسة",
+    "ويب-تون"
+  ],
+  "is_novel": false,
+  "chapters": {
+    "https://3asq.online/manga/unordinary/152": {
+      "name": "152"
+    },
+    "https://3asq.online/manga/unordinary/151": {
+      "name": "151"
+    },
+    "https://3asq.online/manga/unordinary/150": {
+      "name": "150"
+    },
+    "https://3asq.online/manga/unordinary/149": {
+      "name": "149"
+    },
+    "https://3asq.online/manga/unordinary/148": {
+      "name": "148"
+    },
+    "https://3asq.online/manga/unordinary/147": {
+      "name": "147"
+    }
+  }
+}

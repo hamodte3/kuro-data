@@ -1,0 +1,35 @@
+{
+  "id": "watashi-no-shiawase-na-kekkon",
+  "title": "Watashi no Shiawase na Kekkon",
+  "cover_url": "https://3asq.online/wp-content/uploads/2026/05/Manga_vol_5_cover.jpg",
+  "description": "لا يوجد وصف",
+  "type": "مانغا",
+  "status": "مستمر",
+  "rating": "5.0",
+  "favorites": "",
+  "genres": [
+    "أكشن",
+    "تاريخ",
+    "دراما",
+    "رومانسية",
+    "شوجو",
+    "عنف",
+    "غموض",
+    "مغامرة"
+  ],
+  "is_novel": false,
+  "chapters": {
+    "https://3asq.online/manga/watashi-no-shiawase-na-kekkon/34": {
+      "name": "34"
+    },
+    "https://3asq.online/manga/watashi-no-shiawase-na-kekkon/33": {
+      "name": "33"
+    },
+    "https://3asq.online/manga/watashi-no-shiawase-na-kekkon/32-5": {
+      "name": "32.5"
+    },
+    "https://3asq.online/manga/watashi-no-shiawase-na-kekkon/32": {
+      "name": "32"
+    }
+  }
+}

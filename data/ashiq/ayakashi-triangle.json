@@ -1,0 +1,42 @@
+{
+  "id": "ayakashi-triangle",
+  "title": "Ayakashi Triangle",
+  "cover_url": "https://3asq.online/wp-content/uploads/2020/06/7597595-01.jpg",
+  "description": "منذ أن كان صبيًا، كان “ماتسوري كازاماكي” يعمل كطارد للأرواح الشريرة، لأن صديقة طفولته “سوزو كانادي” تجذُب أرواحاً شريرة -تدعى أياكاشي- كإنجذاب العثة للنار، وماتسوري مُكلفٌ بإبادة أيًا من هذه الأرواح التي تضمر نوايا سيئة.\n\nوفي يومٍ ما، يلاحظ مخلوق الأياكاشي العاطفة الناشئة بين صديقي الطفولة هذين، فيؤدي سحرًا محرمًا، توقاً منه للاتهام سوزو وتخريب فرصة ماتسوري بالحب.",
+  "type": "مانغا",
+  "status": "مستمر",
+  "rating": "4.1",
+  "favorites": "31",
+  "genres": [
+    "أكشن",
+    "إيتشي",
+    "تبادل أجناس",
+    "رومانسية",
+    "شونين",
+    "كوميديا"
+  ],
+  "is_novel": false,
+  "chapters": {
+    "https://3asq.online/manga/ayakashi-triangle/7": {
+      "name": "7"
+    },
+    "https://3asq.online/manga/ayakashi-triangle/6": {
+      "name": "6"
+    },
+    "https://3asq.online/manga/ayakashi-triangle/5": {
+      "name": "5"
+    },
+    "https://3asq.online/manga/ayakashi-triangle/4": {
+      "name": "4"
+    },
+    "https://3asq.online/manga/ayakashi-triangle/3": {
+      "name": "3"
+    },
+    "https://3asq.online/manga/ayakashi-triangle/2": {
+      "name": "2"
+    },
+    "https://3asq.online/manga/ayakashi-triangle/1": {
+      "name": "1"
+    }
+  }
+}

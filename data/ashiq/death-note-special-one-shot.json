@@ -1,0 +1,23 @@
+{
+  "id": "death-note-special-one-shot",
+  "title": "Death Note: Tokubetsu Yomikiri",
+  "cover_url": "https://3asq.online/wp-content/uploads/2020/02/54.jpg",
+  "description": "يعود الشينيغامي بعد عشر سنوات حاملًا مذكرة الموت إلى عالم البشر…",
+  "type": "مانغا",
+  "status": "مكتمل",
+  "rating": "4.4",
+  "favorites": "36",
+  "genres": [
+    "خارق للطبيعة",
+    "شونين",
+    "عسكرية",
+    "علم نفس",
+    "غموض"
+  ],
+  "is_novel": false,
+  "chapters": {
+    "https://3asq.online/manga/death-note-special-one-shot/01": {
+      "name": "1"
+    }
+  }
+}

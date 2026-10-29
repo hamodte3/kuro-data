@@ -1,0 +1,33 @@
+{
+  "id": "noragami",
+  "title": "Noragami",
+  "cover_url": "https://3asq.online/wp-content/uploads/2022/01/20-scaled.jpg",
+  "description": "لا يوجد وصف",
+  "type": "مانغا",
+  "status": "مستمر",
+  "rating": "4.1",
+  "favorites": "22",
+  "genres": [
+    "أكشن",
+    "خارق للطبيعة",
+    "دراما",
+    "رومانسية",
+    "شونين",
+    "قوى خارقة"
+  ],
+  "is_novel": false,
+  "chapters": {
+    "https://3asq.online/manga/noragami/99-2": {
+      "name": "99.2"
+    },
+    "https://3asq.online/manga/noragami/99": {
+      "name": "99"
+    },
+    "https://3asq.online/manga/noragami/98-2": {
+      "name": "98.2"
+    },
+    "https://3asq.online/manga/noragami/98": {
+      "name": "98"
+    }
+  }
+}

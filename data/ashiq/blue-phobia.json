@@ -1,0 +1,20 @@
+{
+  "id": "blue-phobia",
+  "title": "Blue Phobia",
+  "cover_url": "https://3asq.online/wp-content/uploads/2019/04/196946l.jpg",
+  "description": "لا يوجد وصف",
+  "type": "ون-شوت",
+  "status": "مكتمل",
+  "rating": "3.6",
+  "favorites": "8",
+  "genres": [
+    "سينين",
+    "علم نفس"
+  ],
+  "is_novel": false,
+  "chapters": {
+    "https://3asq.online/manga/blue-phobia/n-a": {
+      "name": "0"
+    }
+  }
+}

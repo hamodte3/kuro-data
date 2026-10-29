@@ -1,0 +1,48 @@
+{
+  "id": "yomi-no-tsugai",
+  "title": "Yomi No Tsugai",
+  "cover_url": "https://3asq.online/wp-content/uploads/2021/12/f4f2904a-45e7-4673-a449-a8a4f6abae21-1.jpg",
+  "description": "تدور أحداث القصة حول الفتى يورو وأخته المسجونة أسا واكتشافهما سر القرية الغامضة.",
+  "type": "مانغا",
+  "status": "مستمر",
+  "rating": "4.4",
+  "favorites": "46",
+  "genres": [
+    "3asq",
+    "أكشن",
+    "خيال",
+    "دراما",
+    "غموض",
+    "مأساة"
+  ],
+  "is_novel": false,
+  "chapters": {
+    "https://3asq.online/manga/yomi-no-tsugai/9": {
+      "name": "9"
+    },
+    "https://3asq.online/manga/yomi-no-tsugai/8": {
+      "name": "8"
+    },
+    "https://3asq.online/manga/yomi-no-tsugai/7": {
+      "name": "7"
+    },
+    "https://3asq.online/manga/yomi-no-tsugai/6": {
+      "name": "6"
+    },
+    "https://3asq.online/manga/yomi-no-tsugai/5": {
+      "name": "5"
+    },
+    "https://3asq.online/manga/yomi-no-tsugai/4": {
+      "name": "4"
+    },
+    "https://3asq.online/manga/yomi-no-tsugai/3": {
+      "name": "3"
+    },
+    "https://3asq.online/manga/yomi-no-tsugai/2": {
+      "name": "2"
+    },
+    "https://3asq.online/manga/yomi-no-tsugai/1": {
+      "name": "1"
+    }
+  }
+}

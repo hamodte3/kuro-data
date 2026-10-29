@@ -1,0 +1,83 @@
+{
+  "id": "samurai-8",
+  "title": "Samurai 8: The Tale of Hachimaru",
+  "cover_url": "https://3asq.online/wp-content/uploads/2019/04/cppp.jpg",
+  "description": "أحدث أعمال كيشيموتو-سينسي بالتعاون مع الرسام أكيرا أوكوبو قادمة إليكم في الثالث عشر من مايو 2019.",
+  "type": "مانغا",
+  "status": "مستمر",
+  "rating": "4.5",
+  "favorites": "60",
+  "genres": [
+    "3asq",
+    "أكشن",
+    "تاريخ",
+    "خيال علمي",
+    "شونين"
+  ],
+  "is_novel": false,
+  "chapters": {
+    "https://3asq.online/manga/samurai-8/20": {
+      "name": "20"
+    },
+    "https://3asq.online/manga/samurai-8/19": {
+      "name": "19"
+    },
+    "https://3asq.online/manga/samurai-8/18": {
+      "name": "18"
+    },
+    "https://3asq.online/manga/samurai-8/17": {
+      "name": "17"
+    },
+    "https://3asq.online/manga/samurai-8/16": {
+      "name": "16"
+    },
+    "https://3asq.online/manga/samurai-8/15": {
+      "name": "15"
+    },
+    "https://3asq.online/manga/samurai-8/14": {
+      "name": "14"
+    },
+    "https://3asq.online/manga/samurai-8/13": {
+      "name": "13"
+    },
+    "https://3asq.online/manga/samurai-8/12": {
+      "name": "12"
+    },
+    "https://3asq.online/manga/samurai-8/11": {
+      "name": "11"
+    },
+    "https://3asq.online/manga/samurai-8/10": {
+      "name": "10"
+    },
+    "https://3asq.online/manga/samurai-8/9": {
+      "name": "9"
+    },
+    "https://3asq.online/manga/samurai-8/8": {
+      "name": "8"
+    },
+    "https://3asq.online/manga/samurai-8/7": {
+      "name": "7"
+    },
+    "https://3asq.online/manga/samurai-8/6": {
+      "name": "6"
+    },
+    "https://3asq.online/manga/samurai-8/5": {
+      "name": "5"
+    },
+    "https://3asq.online/manga/samurai-8/4": {
+      "name": "4"
+    },
+    "https://3asq.online/manga/samurai-8/3": {
+      "name": "3"
+    },
+    "https://3asq.online/manga/samurai-8/2": {
+      "name": "2"
+    },
+    "https://3asq.online/manga/samurai-8/1": {
+      "name": "1"
+    },
+    "https://3asq.online/manga/samurai-8/n-a": {
+      "name": "0"
+    }
+  }
+}

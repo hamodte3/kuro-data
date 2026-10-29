@@ -1,0 +1,73 @@
+{
+  "id": "manchuria-opium-squad",
+  "title": "Manchuria Opium Squad",
+  "cover_url": "https://3asq.online/wp-content/uploads/2022/07/v03.jpg",
+  "description": "تدور أحداث القصة عن جندي ياباني بعام 1937 يتغلغل في معمعة المتاجرة بالمخدرات، ويبدو أنه تورط في أمورٍ لا تحمد عقباها أو بالأحرى لا يستطيع النجاة منها.",
+  "type": "مانغا",
+  "status": "مستمر",
+  "rating": "4.5",
+  "favorites": "40",
+  "genres": [
+    "أكشن",
+    "تاريخ",
+    "دراما",
+    "غموض"
+  ],
+  "is_novel": false,
+  "chapters": {
+    "https://3asq.online/manga/manchuria-opium-squad/18": {
+      "name": "18"
+    },
+    "https://3asq.online/manga/manchuria-opium-squad/17": {
+      "name": "17"
+    },
+    "https://3asq.online/manga/manchuria-opium-squad/16": {
+      "name": "16"
+    },
+    "https://3asq.online/manga/manchuria-opium-squad/15": {
+      "name": "15"
+    },
+    "https://3asq.online/manga/manchuria-opium-squad/14": {
+      "name": "14"
+    },
+    "https://3asq.online/manga/manchuria-opium-squad/13": {
+      "name": "13"
+    },
+    "https://3asq.online/manga/manchuria-opium-squad/12": {
+      "name": "12"
+    },
+    "https://3asq.online/manga/manchuria-opium-squad/11": {
+      "name": "11"
+    },
+    "https://3asq.online/manga/manchuria-opium-squad/10": {
+      "name": "10"
+    },
+    "https://3asq.online/manga/manchuria-opium-squad/09": {
+      "name": "9"
+    },
+    "https://3asq.online/manga/manchuria-opium-squad/08": {
+      "name": "8"
+    },
+    "https://3asq.online/manga/manchuria-opium-squad/07_2": {
+      "name": "7"
+    },
+    "https://3asq.online/manga/manchuria-opium-squad/06": {
+      "name": "6"
+    },
+    "https://3asq.online/manga/manchuria-opium-squad/05": {
+      "name": "5"
+    },
+    "https://3asq.online/manga/manchuria-opium-squad/04": {
+      "name": "4"
+    },
+    "https://3asq.online/manga/manchuria-opium-squad/03": {
+      "name": "3"
+    },
+    "https://3asq.online/manga/manchuria-opium-squad/02": {
+      "name": "2"
+    },
+    "https://3asq.online/manga/manchuria-opium-squad/01": {
+      "name": "1"
+    }
+  }
+}

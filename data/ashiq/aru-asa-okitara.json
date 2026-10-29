@@ -1,0 +1,23 @@
+{
+  "id": "aru-asa-okitara",
+  "title": "Aru Asa Okitara",
+  "cover_url": "https://3asq.online/wp-content/uploads/2019/04/sans-titre_1_200x0.jpg",
+  "description": "ماذا لو استيقظت ذات يوم ووجدت نفسك في جسد شخص آخر؟",
+  "type": "ون-شوت",
+  "status": "مكتمل",
+  "rating": "3.3",
+  "favorites": "4",
+  "genres": [
+    "تبادل أجناس",
+    "خارق للطبيعة",
+    "شونين",
+    "كوميديا",
+    "مدرسة"
+  ],
+  "is_novel": false,
+  "chapters": {
+    "https://3asq.online/manga/aru-asa-okitara/n-a": {
+      "name": "0"
+    }
+  }
+}

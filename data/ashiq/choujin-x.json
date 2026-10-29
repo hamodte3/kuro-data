@@ -1,0 +1,42 @@
+{
+  "id": "choujin-x",
+  "title": "Choujin X",
+  "cover_url": "https://3asq.online/wp-content/uploads/2021/05/E1CDkAaXIAAROPs.jpg",
+  "description": "لا يوجد وصف",
+  "type": "مانغا",
+  "status": "مستمر",
+  "rating": "4.2",
+  "favorites": "53",
+  "genres": [
+    "3asq",
+    "أكشن",
+    "خارق للطبيعة"
+  ],
+  "is_novel": false,
+  "chapters": {
+    "https://3asq.online/manga/choujin-x/8": {
+      "name": "8"
+    },
+    "https://3asq.online/manga/choujin-x/7": {
+      "name": "7"
+    },
+    "https://3asq.online/manga/choujin-x/6": {
+      "name": "6"
+    },
+    "https://3asq.online/manga/choujin-x/5": {
+      "name": "5"
+    },
+    "https://3asq.online/manga/choujin-x/4": {
+      "name": "4"
+    },
+    "https://3asq.online/manga/choujin-x/3": {
+      "name": "3"
+    },
+    "https://3asq.online/manga/choujin-x/2": {
+      "name": "2"
+    },
+    "https://3asq.online/manga/choujin-x/1": {
+      "name": "1"
+    }
+  }
+}

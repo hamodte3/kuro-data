@@ -1,0 +1,27 @@
+{
+  "id": "knsk",
+  "title": "Kirei ni Shitemoraemasu ka",
+  "cover_url": "https://3asq.online/wp-content/uploads/2019/08/Kirei-ni-Shitemoraemasuka.jpg",
+  "description": "تأخذ القصة مكاناً في متجر غسيل في مدينة ساحلية يدعى “كينمي للتنظيف”حيث المالكة “تاكانا كينمي” فتاة مرحة ومجتهدة ولكن لسوء الحظ فقدت الذاكرة فيقودها القدر لفعل الشيء الوحيد الذي مازالت تتذكره ولكن لماذا ذلك ؟وكيف حدث هذا؟ وماهو هدفها من العمل في متجر الغسيل؟ استمتعوا بهذه القصة الحلوة المرة.",
+  "type": "مانغا",
+  "status": "مستمر",
+  "rating": "3.3",
+  "favorites": "7",
+  "genres": [
+    "سينين",
+    "شريحة من الحياة",
+    "كوميديا"
+  ],
+  "is_novel": false,
+  "chapters": {
+    "https://3asq.online/manga/knsk/3": {
+      "name": "3"
+    },
+    "https://3asq.online/manga/knsk/2": {
+      "name": "2"
+    },
+    "https://3asq.online/manga/knsk/1": {
+      "name": "1"
+    }
+  }
+}

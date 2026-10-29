@@ -1,0 +1,62 @@
+{
+  "id": "tenkaichi",
+  "title": "Tenkaichi",
+  "cover_url": "https://3asq.online/wp-content/uploads/2022/02/0001-001.jpeg",
+  "description": "لا يوجد وصف",
+  "type": "مانغا",
+  "status": "مستمر",
+  "rating": "4.4",
+  "favorites": "29",
+  "genres": [
+    "أكشن",
+    "تاريخ"
+  ],
+  "is_novel": false,
+  "chapters": {
+    "https://3asq.online/manga/tenkaichi/12": {
+      "name": "12"
+    },
+    "https://3asq.online/manga/tenkaichi/11": {
+      "name": "11"
+    },
+    "https://3asq.online/manga/tenkaichi/10": {
+      "name": "10"
+    },
+    "https://3asq.online/manga/tenkaichi/9": {
+      "name": "9"
+    },
+    "https://3asq.online/manga/tenkaichi/8": {
+      "name": "8"
+    },
+    "https://3asq.online/manga/tenkaichi/7": {
+      "name": "7"
+    },
+    "https://3asq.online/manga/tenkaichi/6": {
+      "name": "6"
+    },
+    "https://3asq.online/manga/tenkaichi/5": {
+      "name": "5"
+    },
+    "https://3asq.online/manga/tenkaichi/4": {
+      "name": "4"
+    },
+    "https://3asq.online/manga/tenkaichi/3-5": {
+      "name": "3.5"
+    },
+    "https://3asq.online/manga/tenkaichi/3": {
+      "name": "3"
+    },
+    "https://3asq.online/manga/tenkaichi/2-5": {
+      "name": "2.5"
+    },
+    "https://3asq.online/manga/tenkaichi/2": {
+      "name": "2"
+    },
+    "https://3asq.online/manga/tenkaichi/1-5": {
+      "name": "1.5"
+    },
+    "https://3asq.online/manga/tenkaichi/1": {
+      "name": "1"
+    }
+  }
+}

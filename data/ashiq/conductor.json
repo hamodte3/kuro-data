@@ -1,0 +1,56 @@
+{
+  "id": "conductor",
+  "title": "Conductor",
+  "cover_url": "https://3asq.online/wp-content/uploads/2019/07/conductor_2386.jpg",
+  "description": "لا يوجد وصف",
+  "type": "مانغا",
+  "status": "مكتمل",
+  "rating": "4.2",
+  "favorites": "2",
+  "genres": [
+    "دراما",
+    "رعب",
+    "شوجو",
+    "علم نفس",
+    "غموض"
+  ],
+  "is_novel": false,
+  "chapters": {
+    "https://3asq.online/manga/conductor/12": {
+      "name": "12"
+    },
+    "https://3asq.online/manga/conductor/11": {
+      "name": "11"
+    },
+    "https://3asq.online/manga/conductor/10": {
+      "name": "10"
+    },
+    "https://3asq.online/manga/conductor/9": {
+      "name": "9"
+    },
+    "https://3asq.online/manga/conductor/8": {
+      "name": "8"
+    },
+    "https://3asq.online/manga/conductor/7": {
+      "name": "7"
+    },
+    "https://3asq.online/manga/conductor/6": {
+      "name": "6"
+    },
+    "https://3asq.online/manga/conductor/5": {
+      "name": "5"
+    },
+    "https://3asq.online/manga/conductor/4": {
+      "name": "4"
+    },
+    "https://3asq.online/manga/conductor/3": {
+      "name": "3"
+    },
+    "https://3asq.online/manga/conductor/2": {
+      "name": "2"
+    },
+    "https://3asq.online/manga/conductor/1": {
+      "name": "1"
+    }
+  }
+}

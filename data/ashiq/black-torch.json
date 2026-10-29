@@ -1,0 +1,78 @@
+{
+  "id": "black-torch",
+  "title": "Black Torch",
+  "cover_url": "https://3asq.online/wp-content/uploads/2019/04/cover_250x350-1.jpg",
+  "description": "لا يوجد وصف",
+  "type": "مانغا",
+  "status": "مستمر",
+  "rating": "4.2",
+  "favorites": "33",
+  "genres": [
+    "أكشن",
+    "خارق للطبيعة",
+    "شونين"
+  ],
+  "is_novel": false,
+  "chapters": {
+    "https://3asq.online/manga/black-torch/19": {
+      "name": "19"
+    },
+    "https://3asq.online/manga/black-torch/18": {
+      "name": "18"
+    },
+    "https://3asq.online/manga/black-torch/17": {
+      "name": "17"
+    },
+    "https://3asq.online/manga/black-torch/16": {
+      "name": "16"
+    },
+    "https://3asq.online/manga/black-torch/15": {
+      "name": "15"
+    },
+    "https://3asq.online/manga/black-torch/14": {
+      "name": "14"
+    },
+    "https://3asq.online/manga/black-torch/13": {
+      "name": "13"
+    },
+    "https://3asq.online/manga/black-torch/12": {
+      "name": "12"
+    },
+    "https://3asq.online/manga/black-torch/11": {
+      "name": "11"
+    },
+    "https://3asq.online/manga/black-torch/10": {
+      "name": "10"
+    },
+    "https://3asq.online/manga/black-torch/9": {
+      "name": "9"
+    },
+    "https://3asq.online/manga/black-torch/8": {
+      "name": "8"
+    },
+    "https://3asq.online/manga/black-torch/7": {
+      "name": "7"
+    },
+    "https://3asq.online/manga/black-torch/6": {
+      "name": "6"
+    },
+    "https://3asq.online/manga/black-torch/5": {
+      "name": "5"
+    },
+    "https://3asq.online/manga/black-torch/4": {
+      "name": "4"
+    },
+    "https://3asq.online/manga/black-torch/3-5": {
+      "name": "3.5"
+    },
+    "https://3asq.online/manga/black-torch/3": {
+      "name": "3"
+    },
+    "https://3asq.online/manga/black-torch/2": {
+      "name": "2"
+    },
+    "https://3asq.online/manga/black-torch/1": {
+      "name": "1"
+    }
+  }
+}

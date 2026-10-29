@@ -1,0 +1,34 @@
+{
+  "id": "terra-formars-gaiden-rain-hard",
+  "title": "Terra Formars Gaiden: Rain Hard",
+  "cover_url": "https://3asq.online/wp-content/uploads/2022/08/ACC186D6-38BD-4EE9-BED7-C531B568F222.jpeg",
+  "description": "لا يوجد وصف",
+  "type": "مانغا",
+  "status": "مكتمل",
+  "rating": "4.0",
+  "favorites": "6",
+  "genres": [
+    "100%",
+    "أكشن",
+    "خيال علمي",
+    "سينين"
+  ],
+  "is_novel": false,
+  "chapters": {
+    "https://3asq.online/manga/terra-formars-gaiden-rain-hard/5": {
+      "name": "5"
+    },
+    "https://3asq.online/manga/terra-formars-gaiden-rain-hard/4": {
+      "name": "4"
+    },
+    "https://3asq.online/manga/terra-formars-gaiden-rain-hard/3": {
+      "name": "3"
+    },
+    "https://3asq.online/manga/terra-formars-gaiden-rain-hard/2": {
+      "name": "2"
+    },
+    "https://3asq.online/manga/terra-formars-gaiden-rain-hard/1": {
+      "name": "1"
+    }
+  }
+}

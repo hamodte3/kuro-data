@@ -1,0 +1,23 @@
+{
+  "id": "ouchi-ni-kaerou",
+  "title": "Ouchi ni kaerou",
+  "cover_url": "https://3asq.online/wp-content/uploads/2021/07/20210703_2224232.jpg",
+  "description": "منذ أن كانت طفلة، لجأت مي إلى عالم الكتب عندما تواجه وقتًا عصيبًا. بدافع من حبها للقراءة، قررت الانتقال إلى طوكيو لمساعدة الكاتب الواعد إيوري تاتشيبانا في الأعمال المنزلية و لكن اتضح أنه ليس الشخص الذي توقعته؟! دعونا ننضم إلى مي في قصتها الجديدة خارج عالم الكتب!",
+  "type": "مانغا",
+  "status": "مستمر",
+  "rating": "3.9",
+  "favorites": "11",
+  "genres": [
+    "رومانسية",
+    "شوجو"
+  ],
+  "is_novel": false,
+  "chapters": {
+    "https://3asq.online/manga/ouchi-ni-kaerou/2": {
+      "name": "2"
+    },
+    "https://3asq.online/manga/ouchi-ni-kaerou/1": {
+      "name": "1"
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "ansatsu-kyoushitsu",
+  "title": "Ansatsu Kyoushitsu",
+  "cover_url": "https://3asq.online/wp-content/uploads/2019/04/70623l.jpg",
+  "description": "فضائي دمر معظم القمر بتفجير واحد، ولا أحد قادر على هزيمته. ينوي هذا الفضائي تفجير الكرة الأرضية في آذار القادم، لكن قبل هذا سيُدرس صفًا إلى آذار القادم، هذا الفصل بدوره قد اتفقت معه الحكومة على أن يحاولوا اغتيال مدرسهم قبل حلول آذار القادم",
+  "type": "مانغا",
+  "status": "مستمر",
+  "rating": "4.4",
+  "favorites": "4",
+  "genres": [
+    "أكشن",
+    "خارق للطبيعة",
+    "شونين",
+    "كوميديا",
+    "مدرسة"
+  ],
+  "is_novel": false,
+  "chapters": {
+    "https://3asq.online/manga/ansatsu-kyoushitsu/2": {
+      "name": "2"
+    },
+    "https://3asq.online/manga/ansatsu-kyoushitsu/1": {
+      "name": "1"
+    }
+  }
+}

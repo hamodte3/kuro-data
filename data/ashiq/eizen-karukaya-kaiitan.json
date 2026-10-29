@@ -1,0 +1,37 @@
+{
+  "id": "eizen-karukaya-kaiitan",
+  "title": "Eizen Karukaya Kaiitan",
+  "cover_url": "https://3asq.online/wp-content/uploads/2023/04/AddText_١١-٢٤-٠٣.٠٩.١٧.png",
+  "description": "أوبانا هو نجار خارق ولا يصدق. تحكي قصة عن قيامه بإصلاح المنازل أثناء حل الأحداث الخارقة التي حدثت في تلك المنازل.",
+  "type": "مانغا",
+  "status": "مكتمل",
+  "rating": "4.0",
+  "favorites": "7",
+  "genres": [
+    "خارق للطبيعة",
+    "رعب",
+    "شريحة من الحياة",
+    "غموض"
+  ],
+  "is_novel": false,
+  "chapters": {
+    "https://3asq.online/manga/eizen-karukaya-kaiitan/6": {
+      "name": "6"
+    },
+    "https://3asq.online/manga/eizen-karukaya-kaiitan/5": {
+      "name": "5"
+    },
+    "https://3asq.online/manga/eizen-karukaya-kaiitan/4": {
+      "name": "4"
+    },
+    "https://3asq.online/manga/eizen-karukaya-kaiitan/3": {
+      "name": "3"
+    },
+    "https://3asq.online/manga/eizen-karukaya-kaiitan/2": {
+      "name": "2"
+    },
+    "https://3asq.online/manga/eizen-karukaya-kaiitan/1": {
+      "name": "1"
+    }
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "id": "puton-oneshot",
+  "title": "Put ON",
+  "cover_url": "https://3asq.online/wp-content/uploads/2020/05/02-1.jpg",
+  "description": "تحكي الون شوت قصة نينجا من قبيلة هاتوري. حيث يرتدي أفراد القبيلة ملابس غريبة من نوعها. ومن يرتدي هذه النوعية من الملابس، يكتسب قدرات خاصة",
+  "type": "ونشوت",
+  "status": "مكتمل",
+  "rating": "4.0",
+  "favorites": "3",
+  "genres": [
+    "أكشن"
+  ],
+  "is_novel": false,
+  "chapters": {
+    "https://3asq.online/manga/puton-oneshot/1": {
+      "name": "1"
+    }
+  }
+}

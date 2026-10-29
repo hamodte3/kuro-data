@@ -1,0 +1,27 @@
+{
+  "id": "kaiju-no-8-b-side",
+  "title": "Kaiju No. 8: B-Side",
+  "cover_url": "https://3asq.online/wp-content/uploads/2024/01/Picsart_24-01-15_17-00-07-407.jpg",
+  "description": "حكايا وقصص مثيرة لم تأتي المانجا الأساسية على ذكرها.",
+  "type": "مانغا",
+  "status": "مستمر",
+  "rating": "4.4",
+  "favorites": "30",
+  "genres": [
+    "3asq",
+    "أكشن",
+    "خيال علمي",
+    "رعب",
+    "شونين",
+    "كوميديا"
+  ],
+  "is_novel": false,
+  "chapters": {
+    "https://3asq.online/manga/kaiju-no-8-b-side/2": {
+      "name": "2"
+    },
+    "https://3asq.online/manga/kaiju-no-8-b-side/1": {
+      "name": "1"
+    }
+  }
+}

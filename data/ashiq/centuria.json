@@ -1,0 +1,30 @@
+{
+  "id": "centuria",
+  "title": "Centuria",
+  "cover_url": "https://3asq.online/wp-content/uploads/2024/06/Centuria.jpg",
+  "description": "يختبئ جوليان على متن سفينة عبيد، ويبحر إلى القارة العظيمة مع مائة من العبيد، جميعهم يتوقون إلى الحرية، حتى…؟!  انطلق في رحلة رائدة عبر هذه الملحمة الخيالية المظلمة المليئة بالإثارة !!",
+  "type": "مانغا",
+  "status": "مستمر",
+  "rating": "4.4",
+  "favorites": "29",
+  "genres": [
+    "أكشن",
+    "خارق للطبيعة",
+    "خيال",
+    "شونين",
+    "غموض",
+    "قوى خارقة"
+  ],
+  "is_novel": false,
+  "chapters": {
+    "https://3asq.online/manga/centuria/3": {
+      "name": "3"
+    },
+    "https://3asq.online/manga/centuria/2": {
+      "name": "2"
+    },
+    "https://3asq.online/manga/centuria/1": {
+      "name": "1"
+    }
+  }
+}

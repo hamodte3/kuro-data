@@ -1,0 +1,34 @@
+{
+  "id": "kokoro-no-program",
+  "title": "Kokoro no Program",
+  "cover_url": "https://3asq.online/wp-content/uploads/2022/01/00.png",
+  "description": "ما هو القلب ومن أين تأتي المشاعر؟! سؤال شغل الأدباء والفلاسفة والمفكرين حتى أنهم أفضوا في جوابه المجلدات والمنثورات، ومن هنا تنلطق حكايتنا، حكاية الفتى أوسامي كيو ولقاءه بالفتاة الآلية إتشيكو التي تسعى لمعرفة معنى الحب، لذلك تنتقل إلى العيش معهم في برنامج مشروع “برنامج القلب” لتتعلم إتشيكو عن ماهية القلب… فكيف ستؤول حكايتهما؟",
+  "type": "مانغا",
+  "status": "مستمر",
+  "rating": "4.4",
+  "favorites": "27",
+  "genres": [
+    "دراما",
+    "رومانسية",
+    "شريحة من الحياة",
+    "شونين"
+  ],
+  "is_novel": false,
+  "chapters": {
+    "https://3asq.online/manga/kokoro-no-program/5": {
+      "name": "5"
+    },
+    "https://3asq.online/manga/kokoro-no-program/4": {
+      "name": "4"
+    },
+    "https://3asq.online/manga/kokoro-no-program/3": {
+      "name": "3"
+    },
+    "https://3asq.online/manga/kokoro-no-program/2": {
+      "name": "2"
+    },
+    "https://3asq.online/manga/kokoro-no-program/1": {
+      "name": "1"
+    }
+  }
+}

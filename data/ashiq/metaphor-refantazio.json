@@ -1,0 +1,52 @@
+{
+  "id": "metaphor-refantazio",
+  "title": "Metaphor: ReFantazio",
+  "cover_url": "https://3asq.online/wp-content/uploads/2025/02/cover.jpg",
+  "description": "طالت الفوضى مملكة يوكرونيا المتحدة بعد اغتيال ملكها… بينما بطلنا ويل ومرافقته الجنية غاليكا يسابقان الزمن إلى العاصمة غراند تراد لإتمام مهمة خاصة. اكتشِفوا الروابط التي تتشكل بين الأعراق الثمانية التي تقطن ثلاث دول في المانجا المستوحاة من لعبة الفيديو التي أنتجها أستديو أطلس المعروف بإصداره سلسلة ألعاب PERSONA.",
+  "type": "مانغا",
+  "status": "مستمر",
+  "rating": "4.7",
+  "favorites": "13",
+  "genres": [
+    "100%",
+    "أكشن",
+    "اضطهاد",
+    "تاريخ",
+    "جريمة",
+    "حرب",
+    "خارق للطبيعة",
+    "خيال",
+    "خيال علمي",
+    "دراما",
+    "عسكرية",
+    "عنف",
+    "غموض",
+    "فنون قتالية",
+    "كوميديا",
+    "مغامرة"
+  ],
+  "is_novel": false,
+  "chapters": {
+    "https://3asq.online/manga/metaphor-refantazio/7": {
+      "name": "7"
+    },
+    "https://3asq.online/manga/metaphor-refantazio/6": {
+      "name": "6"
+    },
+    "https://3asq.online/manga/metaphor-refantazio/5": {
+      "name": "5"
+    },
+    "https://3asq.online/manga/metaphor-refantazio/4": {
+      "name": "4"
+    },
+    "https://3asq.online/manga/metaphor-refantazio/3": {
+      "name": "3"
+    },
+    "https://3asq.online/manga/metaphor-refantazio/2": {
+      "name": "2"
+    },
+    "https://3asq.online/manga/metaphor-refantazio/1": {
+      "name": "1"
+    }
+  }
+}

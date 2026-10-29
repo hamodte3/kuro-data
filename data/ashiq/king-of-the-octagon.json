@@ -1,0 +1,50 @@
+{
+  "id": "king-of-the-octagon",
+  "title": "King of the Octagon",
+  "cover_url": "https://3asq.online/wp-content/uploads/2022/11/large_king_m10.webp",
+  "description": "لي هوي سونغ، الذي كان مشغولا بالتخلي عن كل شيء والهروب. لكن في اللحظة التي يتسلق فيها المثمن تبدأ حالة طوارئ رائعة لم يتوقعها أحد! [أقول، كل من شاهد هذه المباراة اليوم لن أنسى أبدا اسم لي هوي سونغ!] مُثير مقدمة للعبة التاريخية يتم إعادة كتابة تاريخ عالم الفنون",
+  "type": "مانهوا",
+  "status": "مستمر",
+  "rating": "4.0",
+  "favorites": "6",
+  "genres": [
+    "أكشن",
+    "دراما",
+    "رياضة",
+    "فنون قتالية",
+    "مدرسة"
+  ],
+  "is_novel": false,
+  "chapters": {
+    "https://3asq.online/manga/king-of-the-octagon/10": {
+      "name": "10"
+    },
+    "https://3asq.online/manga/king-of-the-octagon/9": {
+      "name": "9"
+    },
+    "https://3asq.online/manga/king-of-the-octagon/8": {
+      "name": "8"
+    },
+    "https://3asq.online/manga/king-of-the-octagon/7": {
+      "name": "7"
+    },
+    "https://3asq.online/manga/king-of-the-octagon/6": {
+      "name": "6"
+    },
+    "https://3asq.online/manga/king-of-the-octagon/5": {
+      "name": "5"
+    },
+    "https://3asq.online/manga/king-of-the-octagon/4": {
+      "name": "4"
+    },
+    "https://3asq.online/manga/king-of-the-octagon/3": {
+      "name": "3"
+    },
+    "https://3asq.online/manga/king-of-the-octagon/2": {
+      "name": "2"
+    },
+    "https://3asq.online/manga/king-of-the-octagon/1": {
+      "name": "1"
+    }
+  }
+}

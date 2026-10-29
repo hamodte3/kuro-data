@@ -1,0 +1,23 @@
+{
+  "id": "rakshasa-li-san",
+  "title": "Rakshasa Li San",
+  "cover_url": "https://3asq.online/wp-content/uploads/2020/05/00.jpg",
+  "description": "رجل ورفيقه يرتحلان لاتمام المهمات الصغيرة للحصول على المال، لديهم طلب من لورد إقطاعية ويه.",
+  "type": "ون شوت",
+  "status": "مكتمل",
+  "rating": "4.3",
+  "favorites": "4",
+  "genres": [
+    "أكشن",
+    "تاريخ",
+    "شونين",
+    "فنون قتالية",
+    "ون شوت"
+  ],
+  "is_novel": false,
+  "chapters": {
+    "https://3asq.online/manga/rakshasa-li-san/%d9%88%d9%86-%d8%b4%d9%88%d8%aa-%d9%85%d8%a3%d8%af%d8%a8%d8%a9-%d9%87%d9%88%d9%86%d8%ba-%d9%85%d9%8a%d9%86": {
+      "name": "ون شوت - مأدبة هونغ مين"
+    }
+  }
+}

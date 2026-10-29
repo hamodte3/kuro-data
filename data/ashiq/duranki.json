@@ -1,0 +1,39 @@
+{
+  "id": "duranki",
+  "title": "Duranki",
+  "cover_url": "https://3asq.online/wp-content/uploads/2019/09/i297174.jpg",
+  "description": "لا يوجد وصف",
+  "type": "مانغا",
+  "status": "مستمر",
+  "rating": "4.2",
+  "favorites": "46",
+  "genres": [
+    "3asq",
+    "خيال",
+    "دراما",
+    "سينين",
+    "غموض",
+    "مغامرة"
+  ],
+  "is_novel": false,
+  "chapters": {
+    "https://3asq.online/manga/duranki/6": {
+      "name": "6"
+    },
+    "https://3asq.online/manga/duranki/5": {
+      "name": "5"
+    },
+    "https://3asq.online/manga/duranki/4": {
+      "name": "4"
+    },
+    "https://3asq.online/manga/duranki/3": {
+      "name": "3"
+    },
+    "https://3asq.online/manga/duranki/2_2": {
+      "name": "2"
+    },
+    "https://3asq.online/manga/duranki/1": {
+      "name": "1"
+    }
+  }
+}

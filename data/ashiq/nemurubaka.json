@@ -1,0 +1,40 @@
+{
+  "id": "nemurubaka",
+  "title": "Nemurubaka",
+  "cover_url": "https://3asq.online/wp-content/uploads/2025/07/2dbb7756-a072-404c-a702-3bab05e672b4.jpg",
+  "description": "لا يوجد وصف",
+  "type": "مانغا",
+  "status": "مكتمل",
+  "rating": "3.7",
+  "favorites": "3",
+  "genres": [
+    "دراما",
+    "سينين",
+    "شريحة من الحياة",
+    "كوميديا"
+  ],
+  "is_novel": false,
+  "chapters": {
+    "https://3asq.online/manga/nemurubaka/7": {
+      "name": "7"
+    },
+    "https://3asq.online/manga/nemurubaka/6": {
+      "name": "6"
+    },
+    "https://3asq.online/manga/nemurubaka/5": {
+      "name": "5"
+    },
+    "https://3asq.online/manga/nemurubaka/4": {
+      "name": "4"
+    },
+    "https://3asq.online/manga/nemurubaka/3": {
+      "name": "3"
+    },
+    "https://3asq.online/manga/nemurubaka/2": {
+      "name": "2"
+    },
+    "https://3asq.online/manga/nemurubaka/1": {
+      "name": "1"
+    }
+  }
+}

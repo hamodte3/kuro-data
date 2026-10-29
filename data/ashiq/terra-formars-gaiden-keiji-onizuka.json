@@ -1,0 +1,34 @@
+{
+  "id": "terra-formars-gaiden-keiji-onizuka",
+  "title": "Terra Formars Gaiden – Keiji Onizuka",
+  "cover_url": "https://3asq.online/wp-content/uploads/2022/09/8541DD47-2AAB-4323-9FEF-74092492D3DA.jpeg",
+  "description": "لا يوجد وصف",
+  "type": "مانغا",
+  "status": "مستمر",
+  "rating": "3.0",
+  "favorites": "4",
+  "genres": [
+    "أكشن",
+    "خيال علمي",
+    "دراما",
+    "سينين"
+  ],
+  "is_novel": false,
+  "chapters": {
+    "https://3asq.online/manga/terra-formars-gaiden-keiji-onizuka/5": {
+      "name": "5"
+    },
+    "https://3asq.online/manga/terra-formars-gaiden-keiji-onizuka/4": {
+      "name": "4"
+    },
+    "https://3asq.online/manga/terra-formars-gaiden-keiji-onizuka/3": {
+      "name": "3"
+    },
+    "https://3asq.online/manga/terra-formars-gaiden-keiji-onizuka/2": {
+      "name": "2"
+    },
+    "https://3asq.online/manga/terra-formars-gaiden-keiji-onizuka/1": {
+      "name": "1"
+    }
+  }
+}

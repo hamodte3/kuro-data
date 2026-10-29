@@ -1,0 +1,54 @@
+{
+  "id": "rezero-arc-1",
+  "title": "Re:Zero Arc 1",
+  "cover_url": "https://3asq.online/wp-content/uploads/2026/02/Picsart_26-02-13_12-34-18-793-scaled.jpg",
+  "description": "اثناء عودته الى المنزل من المتجر وجد سوبارو ناتسوكي نفسه فجأة يقف في مدينة غير مألوفة سوبارو ناتسوكي يربط النقاط بسرعة ويدرك انه تم نقله الى عالم آخر.",
+  "type": "مانغا",
+  "status": "مكتمل",
+  "rating": "5.0",
+  "favorites": "6",
+  "genres": [
+    "إيسيكاي",
+    "حريم",
+    "خيال علمي",
+    "دراما",
+    "رومانسية",
+    "سينين"
+  ],
+  "is_novel": false,
+  "chapters": {
+    "https://3asq.online/manga/rezero-arc-1/11": {
+      "name": "11"
+    },
+    "https://3asq.online/manga/rezero-arc-1/10": {
+      "name": "10"
+    },
+    "https://3asq.online/manga/rezero-arc-1/9": {
+      "name": "9"
+    },
+    "https://3asq.online/manga/rezero-arc-1/8": {
+      "name": "8"
+    },
+    "https://3asq.online/manga/rezero-arc-1/7": {
+      "name": "7"
+    },
+    "https://3asq.online/manga/rezero-arc-1/6": {
+      "name": "6"
+    },
+    "https://3asq.online/manga/rezero-arc-1/5": {
+      "name": "5"
+    },
+    "https://3asq.online/manga/rezero-arc-1/4": {
+      "name": "4"
+    },
+    "https://3asq.online/manga/rezero-arc-1/3": {
+      "name": "3"
+    },
+    "https://3asq.online/manga/rezero-arc-1/2": {
+      "name": "2"
+    },
+    "https://3asq.online/manga/rezero-arc-1/1": {
+      "name": "1"
+    }
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "id": "black-lagoon",
+  "title": "Black Lagoon",
+  "cover_url": "https://3asq.online/wp-content/uploads/2019/04/cover_250x350.jpg",
+  "description": "قصة عن فريق من التجار معروفون باسم شركة البحيرة والذين يقومون بتهريب البضائع عبر بحار جنوبي آسيا. يقع مقر عملياتهم بمدينة خيالية تدعى روانابور بتايلاند حيثما يقومون بنقل البضائع عبر قارب البحيرة السوداء. لدى شركة البحيرة عديد من الأعمال مع عديد من الزبائن، لكن تجمعهم علاقات صداقة بمنظمة إجرامية روسية تُدعى فندق موسكو. يُكلَّف الفريق بالعديد من المهام والتي تشتمل بعضها تبادلات عنيفة للنيران، قتال بالأيدي ومعارك بحرية بالعديد من المواقع جنوبي آسيا.",
+  "type": "مانغا",
+  "status": "مستمر",
+  "rating": "4.5",
+  "favorites": "41",
+  "genres": [
+    "3asq",
+    "أكشن",
+    "دراما",
+    "سينين",
+    "عسكرية"
+  ],
+  "is_novel": false,
+  "chapters": {
+    "https://3asq.online/manga/black-lagoon/85": {
+      "name": "85"
+    },
+    "https://3asq.online/manga/black-lagoon/84": {
+      "name": "84"
+    },
+    "https://3asq.online/manga/black-lagoon/83": {
+      "name": "83"
+    },
+    "https://3asq.online/manga/black-lagoon/82": {
+      "name": "82"
+    },
+    "https://3asq.online/manga/black-lagoon/81": {
+      "name": "81"
+    },
+    "https://3asq.online/manga/black-lagoon/80": {
+      "name": "80"
+    },
+    "https://3asq.online/manga/black-lagoon/79": {
+      "name": "79"
+    },
+    "https://3asq.online/manga/black-lagoon/78": {
+      "name": "78"
+    },
+    "https://3asq.online/manga/black-lagoon/77": {
+      "name": "77"
+    }
+  }
+}

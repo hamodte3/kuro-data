@@ -1,0 +1,46 @@
+{
+  "id": "mujirushi",
+  "title": "Mujirushi",
+  "cover_url": "https://3asq.online/wp-content/uploads/2020/02/210713l.jpeg",
+  "description": "لا يوجد وصف",
+  "type": "مانغا",
+  "status": "مكتمل",
+  "rating": "4.3",
+  "favorites": "17",
+  "genres": [
+    "100%",
+    "دراما",
+    "سينين",
+    "غموض"
+  ],
+  "is_novel": false,
+  "chapters": {
+    "https://3asq.online/manga/mujirushi/9": {
+      "name": "9"
+    },
+    "https://3asq.online/manga/mujirushi/8": {
+      "name": "8"
+    },
+    "https://3asq.online/manga/mujirushi/7": {
+      "name": "7"
+    },
+    "https://3asq.online/manga/mujirushi/6": {
+      "name": "6"
+    },
+    "https://3asq.online/manga/mujirushi/5": {
+      "name": "5"
+    },
+    "https://3asq.online/manga/mujirushi/4": {
+      "name": "4"
+    },
+    "https://3asq.online/manga/mujirushi/3": {
+      "name": "3"
+    },
+    "https://3asq.online/manga/mujirushi/2": {
+      "name": "2"
+    },
+    "https://3asq.online/manga/mujirushi/1": {
+      "name": "1"
+    }
+  }
+}

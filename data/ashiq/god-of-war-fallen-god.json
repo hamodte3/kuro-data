@@ -1,0 +1,30 @@
+{
+  "id": "god-of-war-fallen-god",
+  "title": "god of war fallen god",
+  "cover_url": "https://3asq.online/wp-content/uploads/2021/03/01-1-scaled.jpg",
+  "description": "لا يوجد وصف",
+  "type": "كوميك",
+  "status": "مستمر",
+  "rating": "4.6",
+  "favorites": "26",
+  "genres": [
+    "أكشن",
+    "خارق للطبيعة",
+    "خيال",
+    "غموض",
+    "مأساة",
+    "مغامرة"
+  ],
+  "is_novel": false,
+  "chapters": {
+    "https://3asq.online/manga/god-of-war-fallen-god/3": {
+      "name": "3"
+    },
+    "https://3asq.online/manga/god-of-war-fallen-god/2": {
+      "name": "2"
+    },
+    "https://3asq.online/manga/god-of-war-fallen-god/1": {
+      "name": "1"
+    }
+  }
+}

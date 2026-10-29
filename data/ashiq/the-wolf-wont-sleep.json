@@ -1,0 +1,38 @@
+{
+  "id": "the-wolf-wont-sleep",
+  "title": "The Wolf Won’t Sleep",
+  "cover_url": "https://3asq.online/wp-content/uploads/2019/05/11-1.png",
+  "description": "بسعيٍ جاهد حتى يصبح اقوى— تبدأ الحكايات البطولية للمغامر ليكان! لقد قفز الذئب الأعور ليكان إلى داخل ثقب اسود وجده على حدود متاهة، فسقط إلى عالم آخر. بغض النظر عن العالم الذي هو فيه، فإن المغامر ليكان لا يضل طريقه. ساعياً للقوة، ومتحدياً للمتاهات، ومتغلباً على خصوم جبارين— هذه الفانتازيا الملحمية مكتوبة بقلم شيين بيس إلى جانب الفن الشغوف لشينكاوا غونبي.",
+  "type": "مانغا",
+  "status": "مستمر",
+  "rating": "4.4",
+  "favorites": "30",
+  "genres": [
+    "100%",
+    "أكشن",
+    "خيال",
+    "سينين",
+    "مغامرة"
+  ],
+  "is_novel": false,
+  "chapters": {
+    "https://3asq.online/manga/the-wolf-wont-sleep/6": {
+      "name": "6"
+    },
+    "https://3asq.online/manga/the-wolf-wont-sleep/5": {
+      "name": "5"
+    },
+    "https://3asq.online/manga/the-wolf-wont-sleep/4": {
+      "name": "4"
+    },
+    "https://3asq.online/manga/the-wolf-wont-sleep/3": {
+      "name": "3"
+    },
+    "https://3asq.online/manga/the-wolf-wont-sleep/2": {
+      "name": "2"
+    },
+    "https://3asq.online/manga/the-wolf-wont-sleep/1": {
+      "name": "1"
+    }
+  }
+}

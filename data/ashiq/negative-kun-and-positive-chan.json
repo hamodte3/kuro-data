@@ -1,0 +1,23 @@
+{
+  "id": "negative-kun-and-positive-chan",
+  "title": "Negative-kun and positive-chan",
+  "cover_url": "https://3asq.online/wp-content/uploads/2019/08/40646.jpg",
+  "description": "لا يوجد وصف",
+  "type": "مانغا",
+  "status": "مستمر",
+  "rating": "4.1",
+  "favorites": "21",
+  "genres": [
+    "كوميديا",
+    "مدرسة"
+  ],
+  "is_novel": false,
+  "chapters": {
+    "https://3asq.online/manga/negative-kun-and-positive-chan/02": {
+      "name": "2"
+    },
+    "https://3asq.online/manga/negative-kun-and-positive-chan/01": {
+      "name": "1"
+    }
+  }
+}

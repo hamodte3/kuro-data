@@ -1,0 +1,23 @@
+{
+  "id": "shokugeki-no-sanji",
+  "title": "Shokugeki no Sanji",
+  "cover_url": "https://3asq.online/wp-content/uploads/2021/02/الغلاف.png",
+  "description": "لا يوجد وصف",
+  "type": "مانغا",
+  "status": "مستمر",
+  "rating": "4.5",
+  "favorites": "16",
+  "genres": [],
+  "is_novel": false,
+  "chapters": {
+    "https://3asq.online/manga/shokugeki-no-sanji/03": {
+      "name": "3"
+    },
+    "https://3asq.online/manga/shokugeki-no-sanji/02": {
+      "name": "2"
+    },
+    "https://3asq.online/manga/shokugeki-no-sanji/01": {
+      "name": "1"
+    }
+  }
+}

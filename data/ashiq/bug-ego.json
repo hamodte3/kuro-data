@@ -1,0 +1,40 @@
+{
+  "id": "bug-ego",
+  "title": "Bug Ego",
+  "cover_url": "https://3asq.online/wp-content/uploads/2025/07/بدون-اسم134_20260406144130.png",
+  "description": "لا يوجد وصف",
+  "type": "مانغا",
+  "status": "مستمر",
+  "rating": "5.0",
+  "favorites": "7",
+  "genres": [
+    "أكشن",
+    "خارق للطبيعة",
+    "خيال",
+    "خيال علمي",
+    "رعب",
+    "سينين",
+    "علم نفس",
+    "غموض",
+    "فضائيِّين",
+    "قوى خارقة",
+    "كوميديا",
+    "مدرسة",
+    "مغامرة"
+  ],
+  "is_novel": false,
+  "chapters": {
+    "https://3asq.online/manga/bug-ego/4": {
+      "name": "4"
+    },
+    "https://3asq.online/manga/bug-ego/3": {
+      "name": "3"
+    },
+    "https://3asq.online/manga/bug-ego/2": {
+      "name": "2"
+    },
+    "https://3asq.online/manga/bug-ego/1": {
+      "name": "1"
+    }
+  }
+}

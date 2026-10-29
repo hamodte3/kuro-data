@@ -1,0 +1,33 @@
+{
+  "id": "bloodborne",
+  "title": "Bloodborne",
+  "cover_url": "https://3asq.online/wp-content/uploads/2023/08/1-1.png",
+  "description": "لا يوجد وصف",
+  "type": "كوميك",
+  "status": "مكتمل",
+  "rating": "4.5",
+  "favorites": "72",
+  "genres": [
+    "أكشن",
+    "رعب",
+    "مغامرة"
+  ],
+  "is_novel": false,
+  "chapters": {
+    "https://3asq.online/manga/bloodborne/5": {
+      "name": "5"
+    },
+    "https://3asq.online/manga/bloodborne/4": {
+      "name": "4"
+    },
+    "https://3asq.online/manga/bloodborne/3": {
+      "name": "3"
+    },
+    "https://3asq.online/manga/bloodborne/2": {
+      "name": "2"
+    },
+    "https://3asq.online/manga/bloodborne/1": {
+      "name": "1"
+    }
+  }
+}

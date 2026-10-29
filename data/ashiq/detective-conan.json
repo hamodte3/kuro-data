@@ -1,0 +1,26 @@
+{
+  "id": "detective-conan",
+  "title": "Detective Conan",
+  "cover_url": "https://3asq.online/wp-content/uploads/2026/08/71Yjir9Xf4L._AC_UF10001000_QL80_.jpg",
+  "description": "المتحري كونان هي سلسلة مانغا يابانية من تأليف ورسم غوشو أوياما حُوِّلت إلى مسلسل أنمي. بدأت المانغا في 18 يونيو عام 1994 وتحولت إلى مسلسل أنمي في 8 يناير 1996 في اليابان وما زالت مستمرة.",
+  "type": "مانغا",
+  "status": "مستمر",
+  "rating": "4.3",
+  "favorites": "4",
+  "genres": [],
+  "is_novel": false,
+  "chapters": {
+    "https://3asq.online/manga/detective-conan/188": {
+      "name": "188"
+    },
+    "https://3asq.online/manga/detective-conan/187": {
+      "name": "187"
+    },
+    "https://3asq.online/manga/detective-conan/186": {
+      "name": "186"
+    },
+    "https://3asq.online/manga/detective-conan/185": {
+      "name": "185"
+    }
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "kimetsu-no-yaiba-rengoku-kyoujurou-gaiden",
+  "title": "Kimetsu no Yaiba: Rengoku Kyoujurou Gaiden",
+  "cover_url": "https://3asq.online/wp-content/uploads/2021/02/2vo808z.png",
+  "description": "لا يوجد وصف",
+  "type": "مانغا",
+  "status": "مستمر",
+  "rating": "4.3",
+  "favorites": "29",
+  "genres": [
+    "3asq",
+    "أكشن",
+    "تاريخ",
+    "خيال",
+    "شونين",
+    "شياطين",
+    "مغامرة"
+  ],
+  "is_novel": false,
+  "chapters": {
+    "https://3asq.online/manga/kimetsu-no-yaiba-rengoku-kyoujurou-gaiden/ch-02": {
+      "name": "2"
+    },
+    "https://3asq.online/manga/kimetsu-no-yaiba-rengoku-kyoujurou-gaiden/ch-01": {
+      "name": "1"
+    }
+  }
+}

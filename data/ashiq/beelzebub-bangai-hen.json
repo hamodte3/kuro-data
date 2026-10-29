@@ -1,0 +1,39 @@
+{
+  "id": "beelzebub-bangai-hen",
+  "title": "Beelzebub Bangai Hen",
+  "cover_url": "https://3asq.online/wp-content/uploads/2019/04/66289l.jpg",
+  "description": "قصص جانبية لمانجا بيلزيبوب",
+  "type": "مانغا",
+  "status": "مكتمل",
+  "rating": "3.3",
+  "favorites": "3",
+  "genres": [
+    "أكشن",
+    "شريحة من الحياة",
+    "شونين",
+    "فنون قتالية",
+    "كوميديا",
+    "مدرسة"
+  ],
+  "is_novel": false,
+  "chapters": {
+    "https://3asq.online/manga/beelzebub-bangai-hen/6": {
+      "name": "6"
+    },
+    "https://3asq.online/manga/beelzebub-bangai-hen/5": {
+      "name": "5"
+    },
+    "https://3asq.online/manga/beelzebub-bangai-hen/4": {
+      "name": "4"
+    },
+    "https://3asq.online/manga/beelzebub-bangai-hen/3": {
+      "name": "3"
+    },
+    "https://3asq.online/manga/beelzebub-bangai-hen/2": {
+      "name": "2"
+    },
+    "https://3asq.online/manga/beelzebub-bangai-hen/1": {
+      "name": "1"
+    }
+  }
+}

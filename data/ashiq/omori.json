@@ -1,0 +1,37 @@
+{
+  "id": "omori",
+  "title": "OMORI",
+  "cover_url": "https://3asq.online/wp-content/uploads/2024/07/0.5.jpg",
+  "description": "لا يوجد وصف",
+  "type": "مانغا",
+  "status": "مستمر",
+  "rating": "4.3",
+  "favorites": "33",
+  "genres": [
+    "100%",
+    "دراما",
+    "رعب",
+    "سينين"
+  ],
+  "is_novel": false,
+  "chapters": {
+    "https://3asq.online/manga/omori/6": {
+      "name": "6"
+    },
+    "https://3asq.online/manga/omori/5": {
+      "name": "5"
+    },
+    "https://3asq.online/manga/omori/4": {
+      "name": "4"
+    },
+    "https://3asq.online/manga/omori/3": {
+      "name": "3"
+    },
+    "https://3asq.online/manga/omori/2": {
+      "name": "2"
+    },
+    "https://3asq.online/manga/omori/1": {
+      "name": "1"
+    }
+  }
+}

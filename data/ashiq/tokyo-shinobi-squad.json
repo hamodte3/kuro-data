@@ -1,0 +1,56 @@
+{
+  "id": "tokyo-shinobi-squad",
+  "title": "Tokyo Shinobi Squad",
+  "cover_url": "https://3asq.online/wp-content/uploads/2019/06/sx.jpg",
+  "description": "طوكيو في العام 2049… بفضل مشروع إصلاحات الجالاباجوس، فإن اليابان والصين وروسيا وأميركا مرتبطة الآن بنظام الهايبر لوب. هذه العولمة حولت اليابان لاكبر مركز جريمة في العالم. ولمحاربة الإرتفاع في معدل الجريمة فهناك حاجة لأولئك الذين يعملون من خلف الظلال منذ عصر السينجوكو… إنهم الشينوبي…",
+  "type": "مانغا",
+  "status": "مستمر",
+  "rating": "3.7",
+  "favorites": "12",
+  "genres": [
+    "أكشن",
+    "خيال علمي",
+    "دراما",
+    "شونين",
+    "فنون قتالية",
+    "قوى خارقة",
+    "كوميديا",
+    "مغامرة"
+  ],
+  "is_novel": false,
+  "chapters": {
+    "https://3asq.online/manga/tokyo-shinobi-squad/11": {
+      "name": "11"
+    },
+    "https://3asq.online/manga/tokyo-shinobi-squad/10": {
+      "name": "10"
+    },
+    "https://3asq.online/manga/tokyo-shinobi-squad/09": {
+      "name": "9"
+    },
+    "https://3asq.online/manga/tokyo-shinobi-squad/08": {
+      "name": "8"
+    },
+    "https://3asq.online/manga/tokyo-shinobi-squad/07": {
+      "name": "7"
+    },
+    "https://3asq.online/manga/tokyo-shinobi-squad/06": {
+      "name": "6"
+    },
+    "https://3asq.online/manga/tokyo-shinobi-squad/05": {
+      "name": "5"
+    },
+    "https://3asq.online/manga/tokyo-shinobi-squad/04": {
+      "name": "4"
+    },
+    "https://3asq.online/manga/tokyo-shinobi-squad/03": {
+      "name": "3"
+    },
+    "https://3asq.online/manga/tokyo-shinobi-squad/02": {
+      "name": "2"
+    },
+    "https://3asq.online/manga/tokyo-shinobi-squad/01": {
+      "name": "1"
+    }
+  }
+}

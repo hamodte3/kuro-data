@@ -1,0 +1,32 @@
+{
+  "id": "kimetsu-no-yaiba-tomioka-giyuu-gaiden",
+  "title": "Kimetsu No Yaiba: Tomioka Giyuu Gaiden",
+  "cover_url": "https://3asq.online/wp-content/uploads/2019/10/00.png",
+  "description": "قصة جانبية تدور أحداثها حول توميوكا غّو بعد لقائه تانجيرو",
+  "type": "ونشوت",
+  "status": "مستمر",
+  "rating": "4.5",
+  "favorites": "35",
+  "genres": [
+    "3asq",
+    "أكشن",
+    "تاريخ",
+    "خارق للطبيعة",
+    "دراما",
+    "شونين",
+    "شياطين",
+    "فنون قتالية",
+    "كوميديا",
+    "مأساة",
+    "مغامرة"
+  ],
+  "is_novel": false,
+  "chapters": {
+    "https://3asq.online/manga/kimetsu-no-yaiba-tomioka-giyuu-gaiden/2": {
+      "name": "2"
+    },
+    "https://3asq.online/manga/kimetsu-no-yaiba-tomioka-giyuu-gaiden/1": {
+      "name": "1"
+    }
+  }
+}

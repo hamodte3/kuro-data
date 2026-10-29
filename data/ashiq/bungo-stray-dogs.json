@@ -1,0 +1,38 @@
+{
+  "id": "bungo-stray-dogs",
+  "title": "Bungo Stray Dogs",
+  "cover_url": "https://3asq.online/wp-content/uploads/2025/05/57.jpeg",
+  "description": "لا يوجد وصف",
+  "type": "مانغا",
+  "status": "مستمر",
+  "rating": "4.6",
+  "favorites": "12",
+  "genres": [
+    "أكشن",
+    "خارق للطبيعة",
+    "دراما",
+    "سينين",
+    "غموض"
+  ],
+  "is_novel": false,
+  "chapters": {
+    "https://3asq.online/manga/bungo-stray-dogs/125-5": {
+      "name": "125.5"
+    },
+    "https://3asq.online/manga/bungo-stray-dogs/125": {
+      "name": "125"
+    },
+    "https://3asq.online/manga/bungo-stray-dogs/124-5": {
+      "name": "124.5"
+    },
+    "https://3asq.online/manga/bungo-stray-dogs/124": {
+      "name": "124"
+    },
+    "https://3asq.online/manga/bungo-stray-dogs/123-5": {
+      "name": "123.5"
+    },
+    "https://3asq.online/manga/bungo-stray-dogs/123": {
+      "name": "123"
+    }
+  }
+}
