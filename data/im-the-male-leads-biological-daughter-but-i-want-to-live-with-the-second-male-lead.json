@@ -10,11 +10,14 @@
   "genres": [
     "رومانسى",
     "فانتازيا",
-    "دراما",
-    "كوميدي"
+    "كوميدي",
+    "دراما"
   ],
   "is_novel": false,
   "chapters": {
+    "https://azorafly.com/series/im-the-male-leads-biological-daughter-but-i-want-to-live-with-the-second-male-lead/chapter-23": {
+      "name": "23"
+    },
     "https://azorafly.com/series/im-the-male-leads-biological-daughter-but-i-want-to-live-with-the-second-male-lead/chapter-22": {
       "name": "22"
     },
