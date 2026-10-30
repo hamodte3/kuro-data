@@ -4,7 +4,7 @@
   "cover_url": "https://kolnovel.com/wp-content/uploads/2021/01/9c83b30e7df689b2.png",
   "description": "يصدق الجميع في أراضي الرماد أن عميقا في خراب معين مدفون بسبب الخطر والمجاعة، هناك طريق يؤدي إلى عالم جديد في الإنتظار. للدخول إلى العالم الجديد، يحتاج المرء فقط إلى العثور على مفتاح خاص وفتح ذلك الباب المحدد.\n\nهناك الأرض وافرة، وكأن الحليب والعسل يتدفقان عبرها. ضوء الشمس مبهر، وكأن البرودة والظلام سيغسلان. لن يضطر الناس بعد الآن إلى مواجهة الأنقاض والوحوش والالتهابات والطفرات والأشياء الخطيرة من جميع الأنواع.\n\nهناك، الأطفال سعداء، والكبار سعداء، وكل شيء جيد كما يفترض أن يكون.\n\nيعرف كل باحث عن الآثار، صياد أنقاض، وباحث تاريخ في أراضي الرماد: إنهم في العالم الجديد.",
   "type": "رواية",
-  "status": "متوقف مؤقتاً",
+  "status": "مستمر",
   "last_update": "",
   "rating": "",
   "favorites": "",
@@ -17,11 +17,77 @@
   ],
   "is_novel": true,
   "chapters": {
-    "https://kolnovel.com/shaag24%d8%ac%d9%85%d8%b1-%d8%a7%d9%84%d9%84%d9%8a%d9%84-%d8%a7%d9%84%d8%a3%d8%a8%d8%af%d9%8az435ggye-76240": {
-      "name": "ابدأ القراءة ←"
+    "https://kolnovel.com/shaag24%d8%ac%d9%85%d8%b1-%d8%a7%d9%84%d9%84%d9%8a%d9%84-%d8%a7%d9%84%d8%a3%d8%a8%d8%af%d9%8az435ggye-302072": {
+      "name": "الفصل 310: العودة"
+    },
+    "https://kolnovel.com/shaag24%d8%ac%d9%85%d8%b1-%d8%a7%d9%84%d9%84%d9%8a%d9%84-%d8%a7%d9%84%d8%a3%d8%a8%d8%af%d9%8az435ggye-302071": {
+      "name": "الفصل 309: ما وراء المصادفة"
+    },
+    "https://kolnovel.com/shaag24%d8%ac%d9%85%d8%b1-%d8%a7%d9%84%d9%84%d9%8a%d9%84-%d8%a7%d9%84%d8%a3%d8%a8%d8%af%d9%8az435ggye-302070": {
+      "name": "الفصل 308: لماذا"
+    },
+    "https://kolnovel.com/shaag24%d8%ac%d9%85%d8%b1-%d8%a7%d9%84%d9%84%d9%8a%d9%84-%d8%a7%d9%84%d8%a3%d8%a8%d8%af%d9%8az435ggye-302069": {
+      "name": "الفصل 307: حقيقة الماضي"
+    },
+    "https://kolnovel.com/shaag24%d8%ac%d9%85%d8%b1-%d8%a7%d9%84%d9%84%d9%8a%d9%84-%d8%a7%d9%84%d8%a3%d8%a8%d8%af%d9%8az435ggye-302068": {
+      "name": "الفصل 306: القوة في الكثرة"
+    },
+    "https://kolnovel.com/shaag24%d8%ac%d9%85%d8%b1-%d8%a7%d9%84%d9%84%d9%8a%d9%84-%d8%a7%d9%84%d8%a3%d8%a8%d8%af%d9%8az435ggye-302067": {
+      "name": "الفصل 305: الجثة"
+    },
+    "https://kolnovel.com/shaag24%d8%ac%d9%85%d8%b1-%d8%a7%d9%84%d9%84%d9%8a%d9%84-%d8%a7%d9%84%d8%a3%d8%a8%d8%af%d9%8az435ggye-302066": {
+      "name": "الفصل 304: اندفاع محموم"
+    },
+    "https://kolnovel.com/shaag24%d8%ac%d9%85%d8%b1-%d8%a7%d9%84%d9%84%d9%8a%d9%84-%d8%a7%d9%84%d8%a3%d8%a8%d8%af%d9%8az435ggye-302065": {
+      "name": "الفصل 303: في الليلة نفسها"
+    },
+    "https://kolnovel.com/shaag24%d8%ac%d9%85%d8%b1-%d8%a7%d9%84%d9%84%d9%8a%d9%84-%d8%a7%d9%84%d8%a3%d8%a8%d8%af%d9%8az435ggye-302064": {
+      "name": "الفصل 302: البحث"
+    },
+    "https://kolnovel.com/shaag24%d8%ac%d9%85%d8%b1-%d8%a7%d9%84%d9%84%d9%8a%d9%84-%d8%a7%d9%84%d8%a3%d8%a8%d8%af%d9%8az435ggye-302063": {
+      "name": "الفصل 301: المشكلة الأخيرة"
+    },
+    "https://kolnovel.com/shaag24%d8%ac%d9%85%d8%b1-%d8%a7%d9%84%d9%84%d9%8a%d9%84-%d8%a7%d9%84%d8%a3%d8%a8%d8%af%d9%8az435ggye-302062": {
+      "name": "الفصل 300: الجبان"
+    },
+    "https://kolnovel.com/shaag24%d8%ac%d9%85%d8%b1-%d8%a7%d9%84%d9%84%d9%8a%d9%84-%d8%a7%d9%84%d8%a3%d8%a8%d8%af%d9%8az435ggye-302061": {
+      "name": "الفصل 299: ورقة"
+    },
+    "https://kolnovel.com/shaag24%d8%ac%d9%85%d8%b1-%d8%a7%d9%84%d9%84%d9%8a%d9%84-%d8%a7%d9%84%d8%a3%d8%a8%d8%af%d9%8az435ggye-302060": {
+      "name": "الفصل 298: من استطاع التأثير في قلب خصمه تجنب الحرب"
+    },
+    "https://kolnovel.com/shaag24%d8%ac%d9%85%d8%b1-%d8%a7%d9%84%d9%84%d9%8a%d9%84-%d8%a7%d9%84%d8%a3%d8%a8%d8%af%d9%8az435ggye-302059": {
+      "name": "الفصل 297: المنقذون"
+    },
+    "https://kolnovel.com/shaag24%d8%ac%d9%85%d8%b1-%d8%a7%d9%84%d9%84%d9%8a%d9%84-%d8%a7%d9%84%d8%a3%d8%a8%d8%af%d9%8az435ggye-302058": {
+      "name": "الفصل 296: موقف محير"
+    },
+    "https://kolnovel.com/shaag24%d8%ac%d9%85%d8%b1-%d8%a7%d9%84%d9%84%d9%8a%d9%84-%d8%a7%d9%84%d8%a3%d8%a8%d8%af%d9%8az435ggye-302057": {
+      "name": "الفصل 295: الخطة"
+    },
+    "https://kolnovel.com/shaag24%d8%ac%d9%85%d8%b1-%d8%a7%d9%84%d9%84%d9%8a%d9%84-%d8%a7%d9%84%d8%a3%d8%a8%d8%af%d9%8az435ggye-302056": {
+      "name": "الفصل 294: الهندسة الاجتماعية"
+    },
+    "https://kolnovel.com/shaag24%d8%ac%d9%85%d8%b1-%d8%a7%d9%84%d9%84%d9%8a%d9%84-%d8%a7%d9%84%d8%a3%d8%a8%d8%af%d9%8az435ggye-302055": {
+      "name": "الفصل 293: ذائعو الصيت"
+    },
+    "https://kolnovel.com/shaag24%d8%ac%d9%85%d8%b1-%d8%a7%d9%84%d9%84%d9%8a%d9%84-%d8%a7%d9%84%d8%a3%d8%a8%d8%af%d9%8az435ggye-302052": {
+      "name": "الفصل 292: الروبوت الصريح"
+    },
+    "https://kolnovel.com/shaag24%d8%ac%d9%85%d8%b1-%d8%a7%d9%84%d9%84%d9%8a%d9%84-%d8%a7%d9%84%d8%a3%d8%a8%d8%af%d9%8az435ggye-302051": {
+      "name": "الفصل 291: الأيام الطيبة"
     },
     "https://kolnovel.com/shaag24%d8%ac%d9%85%d8%b1-%d8%a7%d9%84%d9%84%d9%8a%d9%84-%d8%a7%d9%84%d8%a3%d8%a8%d8%af%d9%8az435ggye-301978": {
-      "name": "الفصل 290: آخر فصلالمجلد 3: مصير · الفصل 290 · العودة"
+      "name": "الفصل 290: العودة"
+    },
+    "https://kolnovel.com/shaag24%d8%ac%d9%85%d8%b1-%d8%a7%d9%84%d9%84%d9%8a%d9%84-%d8%a7%d9%84%d8%a3%d8%a8%d8%af%d9%8az435ggye-301977": {
+      "name": "الفصل 289: الروبوت الحائر"
+    },
+    "https://kolnovel.com/shaag24%d8%ac%d9%85%d8%b1-%d8%a7%d9%84%d9%84%d9%8a%d9%84-%d8%a7%d9%84%d8%a3%d8%a8%d8%af%d9%8az435ggye-301975": {
+      "name": "الفصل 288: الفهم"
+    },
+    "https://kolnovel.com/shaag24%d8%ac%d9%85%d8%b1-%d8%a7%d9%84%d9%84%d9%8a%d9%84-%d8%a7%d9%84%d8%a3%d8%a8%d8%af%d9%8az435ggye-301973": {
+      "name": "الفصل 287: طريق الليل"
     }
   }
 }

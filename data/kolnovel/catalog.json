@@ -1348,7 +1348,7 @@
     "type": "رواية",
     "is_novel": true,
     "rating": "",
-    "total_chapters": 2,
+    "total_chapters": 24,
     "genres": [
       "أكشن",
       "خيال مظلم",
@@ -1366,7 +1366,7 @@
     "status": "مستمر",
     "is_novel": true,
     "rating": "",
-    "total_chapters": 2,
+    "total_chapters": 10,
     "genres": [
       "جريمة"
     ]
@@ -1379,7 +1379,7 @@
     "type": "رواية",
     "is_novel": true,
     "rating": "",
-    "total_chapters": 2,
+    "total_chapters": 24,
     "genres": [
       "أكشن",
       "حريم",
@@ -1402,7 +1402,7 @@
     "type": "رواية",
     "is_novel": true,
     "rating": "",
-    "total_chapters": 2,
+    "total_chapters": 24,
     "genres": [
       "خيال علمي",
       "رعب",
@@ -1420,7 +1420,7 @@
     "type": "رواية",
     "is_novel": true,
     "rating": "",
-    "total_chapters": 2,
+    "total_chapters": 24,
     "genres": [
       "أكشن",
       "خيال",
@@ -1439,7 +1439,7 @@
     "type": "رواية",
     "is_novel": true,
     "rating": "",
-    "total_chapters": 2,
+    "total_chapters": 24,
     "genres": [
       "أكشن",
       "خيال",
@@ -1459,7 +1459,7 @@
     "status": "مستمر",
     "is_novel": true,
     "rating": "",
-    "total_chapters": 2,
+    "total_chapters": 3,
     "genres": [
       "درامي",
       "رومانسي",
@@ -1472,10 +1472,10 @@
     "url": "https://kolnovel.com/series/violet-evergarden",
     "cover_url": "https://kolnovel.com/wp-content/uploads/2022/07/Violet_Evergarden_Volume_1-106x150.png",
     "type": "رواية",
-    "status": "مكتمل",
+    "status": "مستمر",
     "is_novel": true,
     "rating": "",
-    "total_chapters": 2,
+    "total_chapters": 17,
     "genres": [
       "دراما",
       "شريحة من الحياة"
@@ -1489,7 +1489,7 @@
     "type": "رواية",
     "is_novel": true,
     "rating": "",
-    "total_chapters": 2,
+    "total_chapters": 24,
     "genres": [
       "إثارة",
       "إيسيكاي",
@@ -1510,7 +1510,7 @@
     "type": "رواية",
     "is_novel": true,
     "rating": "",
-    "total_chapters": 2,
+    "total_chapters": 24,
     "genres": [
       "أكشن",
       "خيال",
@@ -1530,7 +1530,7 @@
     "type": "رواية",
     "is_novel": true,
     "rating": "",
-    "total_chapters": 2,
+    "total_chapters": 24,
     "genres": [
       "أكشن",
       "خيال",
@@ -1543,30 +1543,6 @@
     "status": "مستمر"
   },
   {
-    "id": "ما نسيه العالم",
-    "title": "ما نسيه العالم",
-    "url": "https://kolnovel.com/series/%d9%85%d8%a7-%d9%86%d8%b3%d9%8a%d9%87-%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85",
-    "cover_url": "https://kolnovel.com/wp-content/uploads/2026/09/Gemini_Generated_Image_38s0mf38s0mf38s0.jpg",
-    "type": "رواية",
-    "is_novel": true,
-    "rating": "",
-    "total_chapters": 2,
-    "genres": [
-      "إثارة",
-      "استراتيجي",
-      "بطل رمادي",
-      "خيال مظلم",
-      "دراما",
-      "سحر",
-      "سياسية",
-      "غموض",
-      "مؤامرة",
-      "ماساة",
-      "نفسي"
-    ],
-    "status": "مستمر"
-  },
-  {
     "id": "خالد العوالم التسعة",
     "title": "خالد العوالم التسعة",
     "url": "https://kolnovel.com/series/%d8%ae%d8%a7%d9%84%d8%af-%d8%a7%d9%84%d8%b9%d9%88%d8%a7%d9%84%d9%85-%d8%a7%d9%84%d8%aa%d8%b3%d8%b9%d8%a9",
@@ -1574,7 +1550,7 @@
     "type": "رواية",
     "is_novel": true,
     "rating": "",
-    "total_chapters": 2,
+    "total_chapters": 24,
     "genres": [
       "أكشن",
       "خيال",
@@ -1593,7 +1569,7 @@
     "type": "رواية",
     "is_novel": true,
     "rating": "",
-    "total_chapters": 2,
+    "total_chapters": 24,
     "genres": [
       "أكشن",
       "خيال",
@@ -1611,7 +1587,7 @@
     "type": "رواية",
     "is_novel": true,
     "rating": "",
-    "total_chapters": 2,
+    "total_chapters": 24,
     "genres": [
       "أكشن",
       "غموض",
@@ -1621,24 +1597,6 @@
     "status": "مستمر"
   },
   {
-    "id": "جمر الليل الأبدي",
-    "title": "جمر الليل الأبدي",
-    "url": "https://kolnovel.com/series/%d8%ac%d9%85%d8%b1-%d8%a7%d9%84%d9%84%d9%8a%d9%84-%d8%a7%d9%84%d8%a3%d8%a8%d8%af%d9%8a",
-    "cover_url": "https://kolnovel.com/wp-content/uploads/2021/01/9c83b30e7df689b2.png",
-    "type": "رواية",
-    "status": "متوقف مؤقتاً",
-    "is_novel": true,
-    "rating": "",
-    "total_chapters": 2,
-    "genres": [
-      "أكشن",
-      "الخيال العلمي",
-      "غموض",
-      "ما بعد الكارثة",
-      "مغامرة"
-    ]
-  },
-  {
     "id": "انبعاث الخوارق",
     "title": "انبعاث الخوارق",
     "url": "https://kolnovel.com/series/%d8%a7%d9%86%d8%a8%d8%b9%d8%a7%d8%ab-%d8%a7%d9%84%d8%ae%d9%88%d8%a7%d8%b1%d9%82",
@@ -1646,7 +1604,7 @@
     "type": "رواية",
     "is_novel": true,
     "rating": "",
-    "total_chapters": 2,
+    "total_chapters": 24,
     "genres": [
       "إثارة",
       "بقاء على قيد الحياة",
@@ -1666,7 +1624,7 @@
     "type": "رواية",
     "is_novel": true,
     "rating": "",
-    "total_chapters": 2,
+    "total_chapters": 24,
     "genres": [
       "خارق للطبيعة",
       "خوارق",
@@ -1688,7 +1646,7 @@
     "type": "رواية",
     "is_novel": true,
     "rating": "",
-    "total_chapters": 2,
+    "total_chapters": 24,
     "genres": [
       "أعراق",
       "بطل مضاد",
@@ -1713,7 +1671,7 @@
     "status": "مستمر",
     "is_novel": true,
     "rating": "",
-    "total_chapters": 2,
+    "total_chapters": 24,
     "genres": [
       "أكشن",
       "إثارة",
@@ -1722,6 +1680,48 @@
       "غموض",
       "قوة خارقة",
       "نفسي"
+    ]
+  },
+  {
+    "id": "ما نسيه العالم",
+    "title": "ما نسيه العالم",
+    "url": "https://kolnovel.com/series/%d9%85%d8%a7-%d9%86%d8%b3%d9%8a%d9%87-%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2026/09/Gemini_Generated_Image_38s0mf38s0mf38s0.jpg",
+    "type": "رواية",
+    "is_novel": true,
+    "rating": "",
+    "total_chapters": 24,
+    "genres": [
+      "إثارة",
+      "استراتيجي",
+      "بطل رمادي",
+      "خيال مظلم",
+      "دراما",
+      "سحر",
+      "سياسية",
+      "غموض",
+      "مؤامرة",
+      "ماساة",
+      "نفسي"
+    ],
+    "status": "مستمر"
+  },
+  {
+    "id": "جمر الليل الأبدي",
+    "title": "جمر الليل الأبدي",
+    "url": "https://kolnovel.com/series/%d8%ac%d9%85%d8%b1-%d8%a7%d9%84%d9%84%d9%8a%d9%84-%d8%a7%d9%84%d8%a3%d8%a8%d8%af%d9%8a",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2021/01/9c83b30e7df689b2.png",
+    "type": "رواية",
+    "status": "مستمر",
+    "is_novel": true,
+    "rating": "",
+    "total_chapters": 24,
+    "genres": [
+      "أكشن",
+      "الخيال العلمي",
+      "غموض",
+      "ما بعد الكارثة",
+      "مغامرة"
     ]
   },
   {
