@@ -6,20 +6,29 @@
   "type": "مانهوا",
   "status": "مستمر",
   "last_update": "2026-06-06",
-  "rating": "10.0",
+  "rating": "8.2",
   "genres": [
     "اكشن",
     "منافسين",
     "خيال اكشن",
     "تناسخ الارواح",
     "نبلاء",
-    "شونين",
-    "ملوك",
     "فنتازيا",
-    "خيال"
+    "شونين",
+    "خيال",
+    "ملوك"
   ],
   "is_novel": false,
   "chapters": {
+    "https://azorafly.com/series/the-necromancer-of-a-swordsmanship-family/chapter-33_01": {
+      "name": "33"
+    },
+    "https://azorafly.com/series/the-necromancer-of-a-swordsmanship-family/chapter-33": {
+      "name": "33"
+    },
+    "https://azorafly.com/series/the-necromancer-of-a-swordsmanship-family/chapter-32": {
+      "name": "32"
+    },
     "https://azorafly.com/series/the-necromancer-of-a-swordsmanship-family/chapter-31": {
       "name": "31"
     },

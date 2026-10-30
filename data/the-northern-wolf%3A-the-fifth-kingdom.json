@@ -5,21 +5,24 @@
   "description": "اندلعت حربٌ دامية بين مملكتين عظيمتين لسنوات طويلة…مملكة الشرق التي غرقت بالظلام والوحوش والشياطين، ومملكة الوسطى التي ما زالت تقاتل بشرف رغم سقوطها التدريجي.وبين الدماء والدخان، ظهرت امرأة غامضة تُدعى:“سيلفارا”الملقبة بـ:“ذئب الشمال”امرأة تحمل قوة مرعبة قادرة على إيقاف الحروب وتحريك الوحوش المقدسة وإحياء سلالة الألف المنقرضة.لكنها لم تظهر لإنقاذ العالم…بل لتغييره بالكامل.ومع دخولها إلى الحرب، تبدأ الأسرار بالظهور: أمراء يتقاتلون على العرش، محظيات يخفين السموم داخل القصر، وطفل منسي يحمل مستقبل المملكة.أما سيلفارا…فقد جاءت بشرط واحد فقط:أن تُمنح مملكة خاصة بها.ومنذ تلك اللحظة…بدأ العالم يخاف من اسم:“الملكة الخامسة”",
   "type": "رواية",
   "status": "مستمر",
-  "last_update": "2026-08-12",
+  "last_update": "2026-10-29",
   "rating": "10.0",
   "genres": [
-    "حروب",
     "سياسة",
-    "رواية مؤلفة",
-    "سحر",
-    "فانتازيا",
-    "خيال",
-    "دراما",
+    "حروب",
     "أكشن",
-    "كوميدي"
+    "فانتازيا",
+    "سحر",
+    "خيال",
+    "رواية مؤلفة",
+    "كوميدي",
+    "دراما"
   ],
   "is_novel": false,
   "chapters": {
+    "https://azorafly.com/series/the-northern-wolf%3A-the-fifth-kingdom/chapter-122": {
+      "name": "122"
+    },
     "https://azorafly.com/series/the-northern-wolf%3A-the-fifth-kingdom/chapter-121": {
       "name": "121"
     },
@@ -308,10 +311,10 @@
     "https://azorafly.com/series/the-northern-wolf%3A-the-fifth-kingdom/chapter-26": {
       "name": "26"
     },
-    "https://azorafly.com/series/the-northern-wolf%3A-the-fifth-kingdom/chapter-25": {
+    "https://azorafly.com/series/the-northern-wolf%3A-the-fifth-kingdom/chapter-25_01": {
       "name": "25"
     },
-    "https://azorafly.com/series/the-northern-wolf%3A-the-fifth-kingdom/chapter-25_01": {
+    "https://azorafly.com/series/the-northern-wolf%3A-the-fifth-kingdom/chapter-25": {
       "name": "25"
     },
     "https://azorafly.com/series/the-northern-wolf%3A-the-fifth-kingdom/chapter-24": {
