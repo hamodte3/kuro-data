@@ -9,11 +9,17 @@
   "rating": "7.7",
   "genres": [
     "خيالي",
-    "تجسيد",
-    "رومانسي"
+    "رومانسي",
+    "تجسيد"
   ],
   "is_novel": false,
   "chapters": {
+    "https://azorafly.com/series/my-husband-possessed-the-protagonist/chapter-53": {
+      "name": "53"
+    },
+    "https://azorafly.com/series/my-husband-possessed-the-protagonist/chapter-52": {
+      "name": "52"
+    },
     "https://azorafly.com/series/my-husband-possessed-the-protagonist/chapter-51": {
       "name": "51"
     },
@@ -95,16 +101,16 @@
     "https://azorafly.com/series/my-husband-possessed-the-protagonist/chapter-25": {
       "name": "25"
     },
-    "https://azorafly.com/series/my-husband-possessed-the-protagonist/chapter-24_01": {
-      "name": "24"
-    },
     "https://azorafly.com/series/my-husband-possessed-the-protagonist/chapter-24": {
       "name": "24"
     },
-    "https://azorafly.com/series/my-husband-possessed-the-protagonist/chapter-23_01": {
-      "name": "23"
+    "https://azorafly.com/series/my-husband-possessed-the-protagonist/chapter-24_01": {
+      "name": "24"
     },
     "https://azorafly.com/series/my-husband-possessed-the-protagonist/chapter-23": {
+      "name": "23"
+    },
+    "https://azorafly.com/series/my-husband-possessed-the-protagonist/chapter-23_01": {
       "name": "23"
     },
     "https://azorafly.com/series/my-husband-possessed-the-protagonist/chapter-22": {

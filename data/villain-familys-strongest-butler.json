@@ -6,10 +6,10 @@
   "type": "مانهوا",
   "status": "مستمر",
   "last_update": "2026-10-02",
-  "rating": "9.7",
+  "rating": "9.8",
   "genres": [
-    "رومانسى",
     "خيالي",
+    "رومانسى",
     "تبادل أرواح",
     "سحر",
     "دراما",
@@ -17,6 +17,9 @@
   ],
   "is_novel": false,
   "chapters": {
+    "https://azorafly.com/series/villain-familys-strongest-butler/chapter-24": {
+      "name": "24"
+    },
     "https://azorafly.com/series/villain-familys-strongest-butler/chapter-23": {
       "name": "23"
     },
