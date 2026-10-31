@@ -9,25 +9,28 @@
   "rating": "9.2",
   "genres": [
     "مانهوا",
-    "تراجيدي",
     "اسبوعي",
     "جوسي",
+    "تراجيدي",
     "خيال علمي",
     "زمنكاني",
     "عصور وسطى",
     "طبي",
-    "شوجو",
     "انتقام",
+    "شوجو",
     "فنتازيا",
     "عالم اخر",
     "غموض",
     "تاريخي",
-    "كوميدي",
     "رومانسي",
+    "كوميدي",
     "دراما"
   ],
   "is_novel": false,
   "chapters": {
+    "https://azorafly.com/series/my-body-has-been-possessed-by-someone/chapter-105": {
+      "name": "105"
+    },
     "https://azorafly.com/series/my-body-has-been-possessed-by-someone/chapter-104": {
       "name": "104"
     },

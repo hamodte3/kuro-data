@@ -9,11 +9,14 @@
   "rating": "10.0",
   "genres": [
     "فنتازيا",
-    "دراما",
-    "رومانسي"
+    "رومانسي",
+    "دراما"
   ],
   "is_novel": false,
   "chapters": {
+    "https://azorafly.com/series/my-husband-is-my-choice/chapter-43": {
+      "name": "43"
+    },
     "https://azorafly.com/series/my-husband-is-my-choice/chapter-42": {
       "name": "42"
     },

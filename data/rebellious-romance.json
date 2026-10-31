@@ -5,16 +5,31 @@
   "description": "البطلة أصيبت بخيبة أمل من حبها الأول، ولم تعد ترغب بالانجذاب إلى “الأولاد الطيبين”. لكن الصبي الجديد يبدو أكثر إثارة للشك! هو يجيد اللعب بالمشاعر ويتصرف كأنه لاعب علاقات تقليدي. لكن معها، يتصرف بشكل مختلف تمامًا، مظهرًا مزيجًا غريبًا من الخفة والصدق المُلحّ. تدريجيًا تبدأ تتساءل: هل هذا مجرد لعب، أم مشاعر حقيقية فعلًا",
   "type": "مانهوا",
   "status": "مستمر",
-  "last_update": "2026-07-19",
+  "last_update": "2026-10-31",
   "rating": "9.7",
   "genres": [
-    "كوميدي",
     "خيال",
-    "دراما",
-    "رومانسي"
+    "رومانسي",
+    "كوميدي",
+    "دراما"
   ],
   "is_novel": false,
   "chapters": {
+    "https://azorafly.com/series/rebellious-romance/chapter-34": {
+      "name": "34"
+    },
+    "https://azorafly.com/series/rebellious-romance/chapter-33": {
+      "name": "33"
+    },
+    "https://azorafly.com/series/rebellious-romance/chapter-32": {
+      "name": "32"
+    },
+    "https://azorafly.com/series/rebellious-romance/chapter-31": {
+      "name": "31"
+    },
+    "https://azorafly.com/series/rebellious-romance/chapter-30": {
+      "name": "30"
+    },
     "https://azorafly.com/series/rebellious-romance/chapter-29": {
       "name": "29"
     },

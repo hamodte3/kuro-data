@@ -11,11 +11,14 @@
     "خيالي",
     "تجسد",
     "رومانسى",
-    "كوميدي",
-    "غموض"
+    "غموض",
+    "كوميدي"
   ],
   "is_novel": false,
   "chapters": {
+    "https://azorafly.com/series/defending-the-villains-innocence/chapter-16": {
+      "name": "16"
+    },
     "https://azorafly.com/series/defending-the-villains-innocence/chapter-15": {
       "name": "15"
     },

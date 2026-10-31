@@ -4,9 +4,9 @@
   "cover_url": "https://kolnovel.com/wp-content/uploads/2022/07/UtsuroNoHako7_1.jpg",
   "description": "ماذا لو أتيحت لك الفرصة لتتمنى أي شيء؟ هل ستكون تلك فرصة تغير حياتك للأفضل أم لعنة تدمر كل شيء؟ تبدأ القصة بطالب ثانوية عادي كل ما يتمناه أن تستمر حياته اليومية دون مشاكل، فجأة تنتقل لفصله فتاة تبحث عن صندوق يحقق الأمنيات، من هناك تأخذ حياته منحاً فضيعاً",
   "type": "رواية",
-  "status": "مستمر",
-  "last_update": "",
-  "rating": "",
+  "status": "مكتمل",
+  "last_update": "أكتوبر 31, 2026",
+  "rating": "8.9",
   "favorites": "",
   "genres": [
     "أكشن",
@@ -21,7 +21,7 @@
   "is_novel": true,
   "chapters": {
     "https://kolnovel.com/shaag24the-empty-box-and-zeroth-mariaz435ggye-302233": {
-      "name": "الفصل 34: اليوم 1-ج3"
+      "name": "الفصل 33: اليوم 1-ج3"
     },
     "https://kolnovel.com/shaag24the-empty-box-and-zeroth-mariaz435ggye-200582": {
       "name": "الفصل 32: الجولة 1 - ج2"
@@ -91,6 +91,36 @@
     },
     "https://kolnovel.com/shaag24the-empty-box-and-zeroth-mariaz435ggye-181727": {
       "name": "الفصل 11: الفصل العاشر"
+    },
+    "https://kolnovel.com/shaag24the-empty-box-and-zeroth-mariaz435ggye-181700": {
+      "name": "الفصل 10: الفصل التاسع"
+    },
+    "https://kolnovel.com/shaag24the-empty-box-and-zeroth-mariaz435ggye-181699": {
+      "name": "الفصل 9: الفصل الثامن"
+    },
+    "https://kolnovel.com/shaag24the-empty-box-and-zeroth-mariaz435ggye-181698": {
+      "name": "الفصل 8: الفصل السابع"
+    },
+    "https://kolnovel.com/shaag24the-empty-box-and-zeroth-mariaz435ggye-181674": {
+      "name": "الفصل 7: الفصل السادس"
+    },
+    "https://kolnovel.com/shaag24the-empty-box-and-zeroth-mariaz435ggye-181673": {
+      "name": "الفصل 6: الفصل الخامس"
+    },
+    "https://kolnovel.com/shaag24the-empty-box-and-zeroth-mariaz435ggye-181671": {
+      "name": "الفصل 5: الفصل الرابع"
+    },
+    "https://kolnovel.com/shaag24the-empty-box-and-zeroth-mariaz435ggye-181670": {
+      "name": "الفصل 4: الفصل الثالث"
+    },
+    "https://kolnovel.com/shaag24the-empty-box-and-zeroth-mariaz435ggye-181669": {
+      "name": "الفصل 3: الفصل الثاني"
+    },
+    "https://kolnovel.com/shaag24the-empty-box-and-zeroth-mariaz435ggye-181668": {
+      "name": "الفصل 2: الفصل الأول"
+    },
+    "https://kolnovel.com/shaag24the-empty-box-and-zeroth-mariaz435ggye-181666": {
+      "name": "الفصل 1: المقدمة"
     }
   }
 }

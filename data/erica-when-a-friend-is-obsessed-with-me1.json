@@ -9,14 +9,17 @@
   "rating": "9.9",
   "genres": [
     "من أصدقاء لأحباء",
-    "رومانسي",
-    "دراما",
-    "خيال",
     "بدون تجسيد",
-    "كوميدي"
+    "رومانسي",
+    "كوميدي",
+    "خيال",
+    "دراما"
   ],
   "is_novel": false,
   "chapters": {
+    "https://azorafly.com/series/erica-when-a-friend-is-obsessed-with-me1/chapter-29": {
+      "name": "29"
+    },
     "https://azorafly.com/series/erica-when-a-friend-is-obsessed-with-me1/chapter-28": {
       "name": "28"
     },
