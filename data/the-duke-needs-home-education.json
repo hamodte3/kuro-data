@@ -9,14 +9,17 @@
   "rating": "9.2",
   "genres": [
     "رعاية اطفال",
+    "خيال",
+    "فانتازيا",
     "شوجو",
     "رومانسي",
-    "خيال",
-    "كوميدي",
-    "فانتازيا"
+    "كوميدي"
   ],
   "is_novel": false,
   "chapters": {
+    "https://azorafly.com/series/the-duke-needs-home-education/chapter-73": {
+      "name": "73"
+    },
     "https://azorafly.com/series/the-duke-needs-home-education/chapter-72": {
       "name": "72"
     },

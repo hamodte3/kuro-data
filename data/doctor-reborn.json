@@ -10,16 +10,19 @@
   "genres": [
     "اسبوعي",
     "زمكاني",
-    "خيال",
-    "شونين",
-    "دراما",
-    "إعادة إحياء",
     "إثارة",
+    "خيال",
+    "إعادة إحياء",
+    "دراما",
     "أكشن",
+    "شونين",
     "فنون قتالية"
   ],
   "is_novel": false,
   "chapters": {
+    "https://azorafly.com/series/doctor-reborn/chapter-249": {
+      "name": "249"
+    },
     "https://azorafly.com/series/doctor-reborn/chapter-248": {
       "name": "248"
     },

@@ -6,15 +6,21 @@
   "type": "مانهوا",
   "status": "مستمر",
   "last_update": "2026-09-15",
-  "rating": "9.9",
+  "rating": "9.8",
   "genres": [
     "جوسي",
     "مأساوي",
-    "رومانسي",
-    "خيال"
+    "خيال",
+    "رومانسي"
   ],
   "is_novel": false,
   "chapters": {
+    "https://azorafly.com/series/do-your-best-to-regret/chapter-47": {
+      "name": "47"
+    },
+    "https://azorafly.com/series/do-your-best-to-regret/chapter-46": {
+      "name": "46"
+    },
     "https://azorafly.com/series/do-your-best-to-regret/chapter-45": {
       "name": "45"
     },

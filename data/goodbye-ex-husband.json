@@ -8,12 +8,15 @@
   "last_update": "2026-08-20",
   "rating": "10.0",
   "genres": [
-    "فنتازيا",
     "دراما",
-    "رومانسي"
+    "رومانسي",
+    "فنتازيا"
   ],
   "is_novel": false,
   "chapters": {
+    "https://azorafly.com/series/goodbye-ex-husband/chapter-83": {
+      "name": "83"
+    },
     "https://azorafly.com/series/goodbye-ex-husband/chapter-82": {
       "name": "82"
     },
