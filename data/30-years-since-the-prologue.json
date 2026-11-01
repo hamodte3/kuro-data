@@ -5,17 +5,23 @@
   "description": "[من الأستوديو الذي قدم لكم <The Extra’s Academy Survival Guide, I Killed an Academy Player>]«انتقلتُ» إلى عالمٍ لم أعهده من قبل.على مدار ثلاثين عامًا، آمنتُ بأنني أعيش داخل لعبة تقمص أدوارٍ خيالية كلاسيكية.غدوتُ بطل حرب، ثم تقاعدت، وظننتُ أنني أخيرًا على وشك بلوغ النهاية.ولكن...لم تكن تلك الأعوام الثلاثون سوى مجرد مقدمة.ليتضح أن القصة الحقيقية تتمحور حول أكاديمية؟",
   "type": "مانهوا",
   "status": "مستمر",
-  "last_update": "2026-09-14",
+  "last_update": "2026-11-01",
   "rating": "5.6",
   "genres": [
-    "اكشن",
-    "خيالي",
     "تجسد",
+    "خيالي",
     "اكاديمى",
+    "اكشن",
     "استحواذ"
   ],
   "is_novel": false,
   "chapters": {
+    "https://azorafly.com/series/30-years-since-the-prologue/chapter-23": {
+      "name": "23"
+    },
+    "https://azorafly.com/series/30-years-since-the-prologue/chapter-22": {
+      "name": "22"
+    },
     "https://azorafly.com/series/30-years-since-the-prologue/chapter-21": {
       "name": "21"
     },
