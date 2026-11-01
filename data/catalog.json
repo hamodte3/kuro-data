@@ -1,61 +1,5 @@
 [
   {
-    "id": "the-scheming-child-wants-a-mom",
-    "title": "The Scheming Child Wants a Mom!",
-    "url": "https://azorafly.com/series/the-scheming-child-wants-a-mom",
-    "cover_url": "https://storage.azorafly.com/upload/series/featured/f1fef4cc-ebcb-4b26-90b6-b65fe212f932/b1af1a31-f4e1-4e2b-b96a-72bc2e0c7e71.png",
-    "type": "رواية",
-    "status": "مستمر",
-    "rating": "9.7",
-    "total_chapters": 13,
-    "genres": [
-      "قوة خارقة",
-      "خارق للطبيعة",
-      "عائلي",
-      "رومانسي",
-      "كوميدي",
-      "خيال",
-      "دراما",
-      "بدون تجسيد",
-      "رعاية أطفال"
-    ]
-  },
-  {
-    "id": "i-destroyed-my-in-laws-and-a-constellation-sponsored-me",
-    "title": "I Destroyed My In-laws and a Constellation Sponsored Me",
-    "url": "https://azorafly.com/series/i-destroyed-my-in-laws-and-a-constellation-sponsored-me",
-    "cover_url": "https://storage.azorafly.com/upload/series/featured/a5vVlSc5huft2AzUyK1VxgKh1ckCWLbZ/2644d59e-6076-44b5-a94b-3282d0a3e7cb.jpg",
-    "type": "رواية",
-    "status": "مستمر",
-    "rating": "10.0",
-    "total_chapters": 10,
-    "genres": [
-      "رومانسي",
-      "كوميدي",
-      "خيال",
-      "دراما",
-      "انتقام"
-    ]
-  },
-  {
-    "id": "i-started-as-a-poison-maker-and-now-i'm-a-noble-duke's-daughter",
-    "title": "I Started as a Poison Maker, and Now I’m a Noble Duke’s Daughter",
-    "url": "https://azorafly.com/series/i-started-as-a-poison-maker-and-now-i'm-a-noble-duke's-daughter",
-    "cover_url": "https://storage.azorafly.com/upload/series/featured/a5vVlSc5huft2AzUyK1VxgKh1ckCWLbZ/692ebbdc-ae2f-400c-a8f2-e90f6ea37607.jpg",
-    "type": "رواية",
-    "status": "مستمر",
-    "rating": "10.0",
-    "total_chapters": 13,
-    "genres": [
-      "عائلي",
-      "كوميدي",
-      "خيال",
-      "تاريخي",
-      "رعاية أطفال",
-      "رومانسي"
-    ]
-  },
-  {
     "id": "how-to-survive-the-horror-novel-i-wrote",
     "title": "How to Survive the Horror Novel I Wrote",
     "url": "https://azorafly.com/series/how-to-survive-the-horror-novel-i-wrote",
@@ -3060,21 +3004,6 @@
     ]
   },
   {
-    "id": "my-husband-is-my-choice",
-    "title": "my husband is my choice",
-    "url": "https://azorafly.com/series/my-husband-is-my-choice",
-    "cover_url": "https://storage.azorafly.com/2023/02/IMG_20230217_204640_270.jpg",
-    "type": "مانهوا",
-    "status": "مستمر",
-    "rating": "10.0",
-    "total_chapters": 43,
-    "genres": [
-      "فنتازيا",
-      "رومانسي",
-      "دراما"
-    ]
-  },
-  {
     "id": "rebellious-romance",
     "title": "Rebellious Romance",
     "url": "https://azorafly.com/series/rebellious-romance",
@@ -3191,6 +3120,52 @@
     ]
   },
   {
+    "id": "the-baddest-villainess-is-back1",
+    "title": "The Baddest Villainess Is Back",
+    "url": "https://azorafly.com/series/the-baddest-villainess-is-back1",
+    "cover_url": "https://storage.azorafly.com/upload/series/featured/oGmL0DQZ16QInTPaeDKwFEK9ryegoy88/9bb08439-6f20-419b-a5cd-ad5c317590f9.jpg",
+    "type": "مانهوا",
+    "status": "مستمر",
+    "rating": "9.3",
+    "total_chapters": 31,
+    "genres": [
+      "رومانسى",
+      "شوجو",
+      "دراما"
+    ]
+  },
+  {
+    "id": "everyone-was-obsessed-with-me-after-i-became-the-youngest-princess-favourite",
+    "title": "Everyone Was Obsessed With Me After I Became the Youngest Princess Favourite",
+    "url": "https://azorafly.com/series/everyone-was-obsessed-with-me-after-i-became-the-youngest-princess-favourite",
+    "cover_url": "https://storage.azorafly.com/public/upload/2026/01/24/6b51d0b1-bad2-479a-b481-7b8e8c884ad2.webp",
+    "type": "مانهوا",
+    "status": "مستمر",
+    "rating": "9.7",
+    "total_chapters": 72,
+    "genres": [
+      "رعاية اطفال",
+      "خيال",
+      "رومانسي",
+      "دراما"
+    ]
+  },
+  {
+    "id": "my-dream-is-to-get-my-own-house",
+    "title": "My Dream is to Get My Own House",
+    "url": "https://azorafly.com/series/my-dream-is-to-get-my-own-house",
+    "cover_url": "https://storage.azorafly.com/public/upload/2026/02/03/ad41bf1c-5266-43e1-9014-5ca250353748.webp",
+    "type": "مانهوا",
+    "status": "مستمر",
+    "rating": "9.2",
+    "total_chapters": 70,
+    "genres": [
+      "خيالي",
+      "رومانسي",
+      "دراما"
+    ]
+  },
+  {
     "id": "got-dropped-into-a-horror-story-still-gotta-work1",
     "title": "‏Got Dropped into a Horror Story, Still Gotta Work",
     "url": "https://azorafly.com/series/got-dropped-into-a-horror-story-still-gotta-work1",
@@ -3198,7 +3173,7 @@
     "type": "رواية",
     "status": "مستمر",
     "rating": "10.0",
-    "total_chapters": 92,
+    "total_chapters": 234,
     "genres": [
       "تراجيدي",
       "خارق للطبيعة",
@@ -3215,6 +3190,77 @@
       "نفسي",
       "خيال",
       "دراما"
+    ]
+  },
+  {
+    "id": "my-husband-is-my-choice",
+    "title": "my husband is my choice",
+    "url": "https://azorafly.com/series/my-husband-is-my-choice",
+    "cover_url": "https://storage.azorafly.com/2023/02/IMG_20230217_204640_270.jpg",
+    "type": "مانهوا",
+    "status": "مستمر",
+    "rating": "10.0",
+    "total_chapters": 43,
+    "genres": [
+      "فنتازيا",
+      "رومانسي",
+      "دراما"
+    ]
+  },
+  {
+    "id": "the-scheming-child-wants-a-mom",
+    "title": "The Scheming Child Wants a Mom!",
+    "url": "https://azorafly.com/series/the-scheming-child-wants-a-mom",
+    "cover_url": "https://storage.azorafly.com/upload/series/featured/f1fef4cc-ebcb-4b26-90b6-b65fe212f932/b1af1a31-f4e1-4e2b-b96a-72bc2e0c7e71.png",
+    "type": "رواية",
+    "status": "مستمر",
+    "rating": "9.7",
+    "total_chapters": 13,
+    "genres": [
+      "قوة خارقة",
+      "خارق للطبيعة",
+      "عائلي",
+      "رومانسي",
+      "كوميدي",
+      "خيال",
+      "دراما",
+      "بدون تجسيد",
+      "رعاية أطفال"
+    ]
+  },
+  {
+    "id": "i-destroyed-my-in-laws-and-a-constellation-sponsored-me",
+    "title": "I Destroyed My In-laws and a Constellation Sponsored Me",
+    "url": "https://azorafly.com/series/i-destroyed-my-in-laws-and-a-constellation-sponsored-me",
+    "cover_url": "https://storage.azorafly.com/upload/series/featured/a5vVlSc5huft2AzUyK1VxgKh1ckCWLbZ/2644d59e-6076-44b5-a94b-3282d0a3e7cb.jpg",
+    "type": "رواية",
+    "status": "مستمر",
+    "rating": "10.0",
+    "total_chapters": 10,
+    "genres": [
+      "رومانسي",
+      "كوميدي",
+      "خيال",
+      "دراما",
+      "انتقام"
+    ]
+  },
+  {
+    "id": "i-started-as-a-poison-maker-and-now-i'm-a-noble-duke's-daughter",
+    "title": "I Started as a Poison Maker, and Now I’m a Noble Duke’s Daughter",
+    "url": "https://azorafly.com/series/i-started-as-a-poison-maker-and-now-i'm-a-noble-duke's-daughter",
+    "cover_url": "https://storage.azorafly.com/upload/series/featured/a5vVlSc5huft2AzUyK1VxgKh1ckCWLbZ/692ebbdc-ae2f-400c-a8f2-e90f6ea37607.jpg",
+    "type": "رواية",
+    "status": "مستمر",
+    "rating": "10.0",
+    "total_chapters": 13,
+    "genres": [
+      "عائلي",
+      "كوميدي",
+      "خيال",
+      "تاريخي",
+      "رعاية أطفال",
+      "رومانسي"
     ]
   },
   {
@@ -5334,22 +5380,6 @@
     ]
   },
   {
-    "id": "everyone-was-obsessed-with-me-after-i-became-the-youngest-princess-favourite",
-    "title": "Everyone Was Obsessed With Me After I Became the Youngest Princess Favourite",
-    "url": "https://azorafly.com/series/everyone-was-obsessed-with-me-after-i-became-the-youngest-princess-favourite",
-    "cover_url": "https://storage.azorafly.com/public/upload/2026/01/24/6b51d0b1-bad2-479a-b481-7b8e8c884ad2.webp",
-    "type": "مانهوا",
-    "status": "مستمر",
-    "rating": "9.7",
-    "total_chapters": 71,
-    "genres": [
-      "رعاية اطفال",
-      "رومانسي",
-      "دراما",
-      "خيال"
-    ]
-  },
-  {
     "id": "the-goddess-of-fortune",
     "title": "The Goddess of Fortune",
     "url": "https://azorafly.com/series/the-goddess-of-fortune",
@@ -5783,21 +5813,6 @@
       "تشويق",
       "رومانسي",
       "كوميدي"
-    ]
-  },
-  {
-    "id": "the-baddest-villainess-is-back1",
-    "title": "The Baddest Villainess Is Back",
-    "url": "https://azorafly.com/series/the-baddest-villainess-is-back1",
-    "cover_url": "https://storage.azorafly.com/upload/series/featured/oGmL0DQZ16QInTPaeDKwFEK9ryegoy88/9bb08439-6f20-419b-a5cd-ad5c317590f9.jpg",
-    "type": "مانهوا",
-    "status": "مستمر",
-    "rating": "9.3",
-    "total_chapters": 30,
-    "genres": [
-      "رومانسى",
-      "دراما",
-      "شوجو"
     ]
   },
   {
@@ -9723,22 +9738,6 @@
       "أكشن",
       "رومانسي",
       "دراما"
-    ]
-  },
-  {
-    "id": "my-dream-is-to-get-my-own-house",
-    "title": "My Dream is to Get My Own House",
-    "url": "https://azorafly.com/series/my-dream-is-to-get-my-own-house",
-    "cover_url": "https://storage.azorafly.com/public/upload/2026/02/03/ad41bf1c-5266-43e1-9014-5ca250353748.webp",
-    "type": "مانهوا",
-    "status": "مستمر",
-    "rating": "9.5",
-    "total_chapters": 21,
-    "genres": [
-      "أكشن",
-      "خيالي",
-      "دراما",
-      "رومانسي"
     ]
   },
   {

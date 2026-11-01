@@ -9,11 +9,14 @@
   "rating": "9.3",
   "genres": [
     "رومانسى",
-    "دراما",
-    "شوجو"
+    "شوجو",
+    "دراما"
   ],
   "is_novel": false,
   "chapters": {
+    "https://azorafly.com/series/the-baddest-villainess-is-back1/chapter-31": {
+      "name": "31"
+    },
     "https://azorafly.com/series/the-baddest-villainess-is-back1/chapter-30": {
       "name": "30"
     },
