@@ -9,11 +9,14 @@
   "rating": "9.0",
   "genres": [
     "رومانسى",
-    "كوميدي",
-    "رعب"
+    "رعب",
+    "كوميدي"
   ],
   "is_novel": false,
   "chapters": {
+    "https://azorafly.com/series/chilling-romance/chapter-21": {
+      "name": "21"
+    },
     "https://azorafly.com/series/chilling-romance/chapter-20": {
       "name": "20"
     },

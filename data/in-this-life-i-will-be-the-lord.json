@@ -9,13 +9,16 @@
   "rating": "9.7",
   "genres": [
     "اسبوعي",
-    "رومانسي",
-    "دراما",
+    "شوجو",
     "خيال",
-    "شوجو"
+    "دراما",
+    "رومانسي"
   ],
   "is_novel": false,
   "chapters": {
+    "https://azorafly.com/series/in-this-life-i-will-be-the-lord/chapter-239": {
+      "name": "239"
+    },
     "https://azorafly.com/series/in-this-life-i-will-be-the-lord/chapter-238": {
       "name": "238"
     },

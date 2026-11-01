@@ -6640,31 +6640,6 @@
     "status": "مستمر"
   },
   {
-    "id": "enigmatica",
-    "title": "Enigmatica",
-    "url": "https://3asq.online/manga/enigmatica",
-    "cover_url": "https://3asq.online/wp-content/uploads/2026/04/enigmatica_cover_pink-asq-hero-480-v2.webp",
-    "type": "مانغا",
-    "rating": "4.8",
-    "total_chapters": 32,
-    "genres": [
-      "أكشن",
-      "استراتيجي",
-      "تاريخ",
-      "جريمة",
-      "حرب",
-      "خيال",
-      "دراما",
-      "شونين",
-      "عسكرية",
-      "علم نفس",
-      "عنف",
-      "غموض",
-      "فلسفة"
-    ],
-    "status": "مستمر"
-  },
-  {
     "id": "naruto-digital-colored",
     "title": "Naruto – Digital Colored",
     "url": "https://3asq.online/manga/naruto-digital-colored",
@@ -6717,13 +6692,38 @@
     "status": "مستمر"
   },
   {
+    "id": "enigmatica",
+    "title": "Enigmatica",
+    "url": "https://3asq.online/manga/enigmatica",
+    "cover_url": "https://3asq.online/wp-content/uploads/2026/04/enigmatica_cover_pink-asq-hero-480-v2.webp",
+    "type": "مانغا",
+    "rating": "4.8",
+    "total_chapters": 33,
+    "genres": [
+      "أكشن",
+      "استراتيجي",
+      "تاريخ",
+      "جريمة",
+      "حرب",
+      "خيال",
+      "دراما",
+      "شونين",
+      "عسكرية",
+      "علم نفس",
+      "عنف",
+      "غموض",
+      "فلسفة"
+    ],
+    "status": "مستمر"
+  },
+  {
     "id": "witchriv",
     "title": "WITCHRIV",
     "url": "https://3asq.online/manga/witchriv",
     "cover_url": "https://3asq.online/wp-content/uploads/2026/01/p-0000-480x691.jpg.webp",
     "type": "مانغا",
     "rating": "4.3",
-    "total_chapters": 25,
+    "total_chapters": 30,
     "genres": [
       "أكشن",
       "خارق للطبيعة",
