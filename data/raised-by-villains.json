@@ -6,7 +6,7 @@
   "type": "مانهوا",
   "status": "مستمر",
   "last_update": "2026-09-16",
-  "rating": "7.3",
+  "rating": "7.1",
   "genres": [
     "عائلي",
     "شوجو",
@@ -15,6 +15,9 @@
   ],
   "is_novel": false,
   "chapters": {
+    "https://azorafly.com/series/raised-by-villains/chapter-163": {
+      "name": "163"
+    },
     "https://azorafly.com/series/raised-by-villains/chapter-162": {
       "name": "162"
     },

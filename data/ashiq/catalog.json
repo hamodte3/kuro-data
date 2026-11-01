@@ -5897,22 +5897,6 @@
     "status": "مكتمل"
   },
   {
-    "id": "witchriv",
-    "title": "WITCHRIV",
-    "url": "https://3asq.online/manga/witchriv",
-    "cover_url": "https://3asq.online/wp-content/uploads/2026/01/غلاف-المجلد-الثالث-معرب.jpg",
-    "type": "مانغا",
-    "rating": "4.3",
-    "total_chapters": 21,
-    "genres": [
-      "أكشن",
-      "خارق للطبيعة",
-      "دراما",
-      "شونين"
-    ],
-    "status": "مستمر"
-  },
-  {
     "id": "hunter-x-hunter",
     "title": "Hunter X Hunter",
     "url": "https://3asq.online/manga/hunter-x-hunter",
@@ -6729,6 +6713,22 @@
       "أكشن",
       "فنون قتالية",
       "مدرسة"
+    ],
+    "status": "مستمر"
+  },
+  {
+    "id": "witchriv",
+    "title": "WITCHRIV",
+    "url": "https://3asq.online/manga/witchriv",
+    "cover_url": "https://3asq.online/wp-content/uploads/2026/01/p-0000-480x691.jpg.webp",
+    "type": "مانغا",
+    "rating": "4.3",
+    "total_chapters": 25,
+    "genres": [
+      "أكشن",
+      "خارق للطبيعة",
+      "دراما",
+      "شونين"
     ],
     "status": "مستمر"
   }

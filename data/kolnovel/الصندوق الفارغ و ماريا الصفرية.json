@@ -1,7 +1,7 @@
 {
   "id": "الصندوق الفارغ و ماريا الصفرية",
   "title": "الصندوق الفارغ و ماريا الصفرية",
-  "cover_url": "https://kolnovel.com/wp-content/uploads/2022/07/UtsuroNoHako7_1.jpg",
+  "cover_url": "https://kolnovel.com/wp-content/uploads/2022/07/png3.png",
   "description": "ماذا لو أتيحت لك الفرصة لتتمنى أي شيء؟ هل ستكون تلك فرصة تغير حياتك للأفضل أم لعنة تدمر كل شيء؟ تبدأ القصة بطالب ثانوية عادي كل ما يتمناه أن تستمر حياته اليومية دون مشاكل، فجأة تنتقل لفصله فتاة تبحث عن صندوق يحقق الأمنيات، من هناك تأخذ حياته منحاً فضيعاً",
   "type": "رواية",
   "status": "مستمر",
@@ -20,8 +20,11 @@
   ],
   "is_novel": true,
   "chapters": {
+    "https://kolnovel.com/shaag24the-empty-box-and-zeroth-mariaz435ggye-302358": {
+      "name": "الفصل 34: الجولة 1-ج4"
+    },
     "https://kolnovel.com/shaag24the-empty-box-and-zeroth-mariaz435ggye-302233": {
-      "name": "الفصل 33: اليوم 1-ج3"
+      "name": "الفصل 33: الجولة 1-ج3"
     },
     "https://kolnovel.com/shaag24the-empty-box-and-zeroth-mariaz435ggye-200582": {
       "name": "الفصل 32: الجولة 1 - ج2"
@@ -88,9 +91,6 @@
     },
     "https://kolnovel.com/shaag24the-empty-box-and-zeroth-mariaz435ggye-181729": {
       "name": "الفصل 12: الفصل الحادي عشر"
-    },
-    "https://kolnovel.com/shaag24the-empty-box-and-zeroth-mariaz435ggye-181727": {
-      "name": "الفصل 11: الفصل العاشر"
     }
   }
 }

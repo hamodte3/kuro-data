@@ -1431,24 +1431,6 @@
     "status": "مستمر"
   },
   {
-    "id": "ملحمة سليل الخوف",
-    "title": "ملحمة سليل الخوف",
-    "url": "https://kolnovel.com/series/%d9%85%d9%84%d8%ad%d9%85%d8%a9-%d8%b3%d9%84%d9%8a%d9%84-%d8%a7%d9%84%d8%ae%d9%88%d9%81",
-    "cover_url": "https://kolnovel.com/wp-content/uploads/2025/12/file_000000005ff481f483b5f5169a41cb01-125x150.webp",
-    "type": "رواية",
-    "is_novel": true,
-    "rating": "",
-    "total_chapters": 24,
-    "genres": [
-      "خيال علمي",
-      "رعب",
-      "سحر",
-      "غموض",
-      "مغامرة"
-    ],
-    "status": "مستمر"
-  },
-  {
     "id": "المحرر شخصية إضافية في الرواية",
     "title": "المحرر شخصية إضافية في الرواية",
     "url": "https://kolnovel.com/series/%d8%a7%d9%84%d9%85%d8%ad%d8%b1%d8%b1-%d8%b4%d8%ae%d8%b5%d9%8a%d8%a9-%d8%a5%d8%b6%d8%a7%d9%81%d9%8a%d8%a9-%d9%81%d9%8a-%d8%a7%d9%84%d8%b1%d9%88%d8%a7%d9%8a%d8%a9",
@@ -1620,27 +1602,6 @@
     ]
   },
   {
-    "id": "الصندوق الفارغ و ماريا الصفرية",
-    "title": "الصندوق الفارغ و ماريا الصفرية",
-    "url": "https://kolnovel.com/series/the-empty-box-and-zeroth-maria",
-    "cover_url": "https://kolnovel.com/wp-content/uploads/2022/07/UtsuroNoHako7_1.jpg",
-    "type": "رواية",
-    "status": "مستمر",
-    "is_novel": true,
-    "rating": "",
-    "total_chapters": 24,
-    "genres": [
-      "أكشن",
-      "حياة مدرسية",
-      "دراما",
-      "رعب",
-      "سينن",
-      "غموض",
-      "مأساوي",
-      "نفسي"
-    ]
-  },
-  {
     "id": "سلسلة مونوغاتاري",
     "title": "سلسلة مونوغاتاري",
     "url": "https://kolnovel.com/series/%d8%b3%d9%84%d8%b3%d9%84%d8%a9-%d9%85%d9%88%d9%86%d9%88%d8%ba%d8%a7%d8%aa%d8%a7%d8%b1%d9%8a",
@@ -1724,6 +1685,45 @@
       "نفسي"
     ],
     "status": "مستمر"
+  },
+  {
+    "id": "ملحمة سليل الخوف",
+    "title": "ملحمة سليل الخوف",
+    "url": "https://kolnovel.com/series/%d9%85%d9%84%d8%ad%d9%85%d8%a9-%d8%b3%d9%84%d9%8a%d9%84-%d8%a7%d9%84%d8%ae%d9%88%d9%81",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2025/12/file_000000005ff481f483b5f5169a41cb01-125x150.webp",
+    "type": "رواية",
+    "is_novel": true,
+    "rating": "",
+    "total_chapters": 24,
+    "genres": [
+      "خيال علمي",
+      "رعب",
+      "سحر",
+      "غموض",
+      "مغامرة"
+    ],
+    "status": "مستمر"
+  },
+  {
+    "id": "الصندوق الفارغ و ماريا الصفرية",
+    "title": "الصندوق الفارغ و ماريا الصفرية",
+    "url": "https://kolnovel.com/series/the-empty-box-and-zeroth-maria",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2022/07/png3.png",
+    "type": "رواية",
+    "status": "مستمر",
+    "is_novel": true,
+    "rating": "",
+    "total_chapters": 24,
+    "genres": [
+      "أكشن",
+      "حياة مدرسية",
+      "دراما",
+      "رعب",
+      "سينن",
+      "غموض",
+      "مأساوي",
+      "نفسي"
+    ]
   },
   {
     "id": "لعنة الخيارات",

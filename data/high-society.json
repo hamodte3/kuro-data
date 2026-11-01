@@ -6,14 +6,17 @@
   "type": "مانهوا",
   "status": "مستمر",
   "last_update": "2026-05-07",
-  "rating": "4.8",
+  "rating": "4.6",
   "genres": [
     "خيال",
-    "رومانسي",
-    "دراما"
+    "دراما",
+    "رومانسي"
   ],
   "is_novel": false,
   "chapters": {
+    "https://azorafly.com/series/high-society/chapter-104": {
+      "name": "104"
+    },
     "https://azorafly.com/series/high-society/chapter-103": {
       "name": "103"
     },
