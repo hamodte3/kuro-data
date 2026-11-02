@@ -1222,23 +1222,6 @@
     "status": "مستمر"
   },
   {
-    "id": "سليل المملكة",
-    "title": "سليل المملكة",
-    "url": "https://kolnovel.com/series/kingdoms-bloodline",
-    "cover_url": "https://kolnovel.com/wp-content/uploads/2022/10/سليل-المملكة_20250918_161202_٠٠٠٠.png",
-    "type": "رواية",
-    "is_novel": true,
-    "rating": "9.0",
-    "total_chapters": 2,
-    "genres": [
-      "أكشن",
-      "خيال",
-      "دراما",
-      "سحر"
-    ],
-    "status": "مستمر"
-  },
-  {
     "id": "أسطورة الحكيم العظيم",
     "title": "أسطورة الحكيم العظيم",
     "url": "https://kolnovel.com/series/legend-of-the-great-sage",
@@ -1358,7 +1341,7 @@
     "cover_url": "https://kolnovel.com/wp-content/uploads/2024/11/IMG_20250108_203348_762.png",
     "type": "رواية",
     "is_novel": true,
-    "rating": "7.5",
+    "rating": "",
     "total_chapters": 24,
     "genres": [
       "أكشن",
@@ -1419,13 +1402,16 @@
     "cover_url": "https://kolnovel.com/wp-content/uploads/2025/07/بدون-اسم67_20260622033133.png",
     "type": "رواية",
     "is_novel": true,
-    "rating": "8.5",
+    "rating": "",
     "total_chapters": 24,
     "genres": [
       "أكشن",
       "خيال",
       "سينن",
-      "شيانشيا"
+      "شيانشيا",
+      "غموض",
+      "فنون قتال",
+      "مغامرة"
     ],
     "status": "مستمر"
   },
@@ -1519,26 +1505,6 @@
       "فنون قتال"
     ],
     "status": "مستمر"
-  },
-  {
-    "id": "وورم",
-    "title": "وورم",
-    "url": "https://kolnovel.com/series/%d9%88%d9%88%d8%b1%d9%85",
-    "cover_url": "https://kolnovel.com/wp-content/uploads/2026/10/18713259-109x150.jpg",
-    "type": "رواية",
-    "status": "مستمر",
-    "is_novel": true,
-    "rating": "",
-    "total_chapters": 24,
-    "genres": [
-      "أكشن",
-      "إثارة",
-      "خيال علمي مظلم",
-      "دراما",
-      "غموض",
-      "قوة خارقة",
-      "نفسي"
-    ]
   },
   {
     "id": "بث الرامي العبقري",
@@ -1684,6 +1650,47 @@
     "status": "مستمر"
   },
   {
+    "id": "الصندوق الفارغ و ماريا الصفرية",
+    "title": "الصندوق الفارغ و ماريا الصفرية",
+    "url": "https://kolnovel.com/series/the-empty-box-and-zeroth-maria",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2022/07/png3.png",
+    "type": "رواية",
+    "status": "مستمر",
+    "is_novel": true,
+    "rating": "",
+    "total_chapters": 24,
+    "genres": [
+      "أكشن",
+      "حياة مدرسية",
+      "دراما",
+      "رعب",
+      "سينن",
+      "غموض",
+      "مأساوي",
+      "نفسي"
+    ]
+  },
+  {
+    "id": "وورم",
+    "title": "وورم",
+    "url": "https://kolnovel.com/series/%d9%88%d9%88%d8%b1%d9%85",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2026/10/18713259-109x150.jpg",
+    "type": "رواية",
+    "status": "مستمر",
+    "is_novel": true,
+    "rating": "",
+    "total_chapters": 24,
+    "genres": [
+      "أكشن",
+      "إثارة",
+      "خيال علمي مظلم",
+      "دراما",
+      "غموض",
+      "قوة خارقة",
+      "نفسي"
+    ]
+  },
+  {
     "id": "انبعاث الخوارق",
     "title": "انبعاث الخوارق",
     "url": "https://kolnovel.com/series/%d8%a7%d9%86%d8%a8%d8%b9%d8%a7%d8%ab-%d8%a7%d9%84%d8%ae%d9%88%d8%a7%d8%b1%d9%82",
@@ -1704,25 +1711,24 @@
     "status": "مستمر"
   },
   {
-    "id": "الصندوق الفارغ و ماريا الصفرية",
-    "title": "الصندوق الفارغ و ماريا الصفرية",
-    "url": "https://kolnovel.com/series/the-empty-box-and-zeroth-maria",
-    "cover_url": "https://kolnovel.com/wp-content/uploads/2022/07/png3.png",
+    "id": "سليل المملكة",
+    "title": "سليل المملكة",
+    "url": "https://kolnovel.com/series/kingdoms-bloodline",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2022/10/سليل-المملكة_20250918_161202_٠٠٠٠.png",
     "type": "رواية",
-    "status": "مستمر",
     "is_novel": true,
     "rating": "",
     "total_chapters": 24,
     "genres": [
       "أكشن",
-      "حياة مدرسية",
+      "خيال",
       "دراما",
-      "رعب",
-      "سينن",
-      "غموض",
-      "مأساوي",
-      "نفسي"
-    ]
+      "سحر",
+      "فنون قتال",
+      "قوى خارقة",
+      "مغامرة"
+    ],
+    "status": "مستمر"
   },
   {
     "id": "لعنة الخيارات",
