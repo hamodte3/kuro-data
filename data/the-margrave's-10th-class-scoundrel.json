@@ -8,11 +8,14 @@
   "last_update": "2026-05-07",
   "rating": "7.0",
   "genres": [
-    "اكشن",
-    "مانهوا"
+    "مانهوا",
+    "اكشن"
   ],
   "is_novel": false,
   "chapters": {
+    "https://azorafly.com/series/the-margrave's-10th-class-scoundrel/chapter-35": {
+      "name": "35"
+    },
     "https://azorafly.com/series/the-margrave's-10th-class-scoundrel/chapter-34": {
       "name": "34"
     },

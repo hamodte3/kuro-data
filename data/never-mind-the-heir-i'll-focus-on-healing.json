@@ -9,12 +9,15 @@
   "rating": "9.5",
   "genres": [
     "تناسخ",
-    "اكشن",
     "لعبة",
-    "نبلاء"
+    "نبلاء",
+    "اكشن"
   ],
   "is_novel": false,
   "chapters": {
+    "https://azorafly.com/series/never-mind-the-heir-i'll-focus-on-healing/chapter-41": {
+      "name": "41"
+    },
     "https://azorafly.com/series/never-mind-the-heir-i'll-focus-on-healing/chapter-40": {
       "name": "40"
     },

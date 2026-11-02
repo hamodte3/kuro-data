@@ -1287,23 +1287,6 @@
     ]
   },
   {
-    "id": "موشوكو تينساي",
-    "title": "موشوكو تينساي",
-    "url": "https://kolnovel.com/series/mushoku-tensei",
-    "cover_url": "https://kolnovel.com/wp-content/uploads/2022/07/1.jpeg",
-    "type": "رواية",
-    "is_novel": true,
-    "rating": "9.2",
-    "total_chapters": 24,
-    "genres": [
-      "أكشن",
-      "حريم",
-      "خيال",
-      "دراما"
-    ],
-    "status": "مستمر"
-  },
-  {
     "id": "أرلوت",
     "title": "أرلوت",
     "url": "https://kolnovel.com/series/%d8%a3%d8%b1%d9%84%d9%88%d8%aa",
@@ -1341,7 +1324,7 @@
     "cover_url": "https://kolnovel.com/wp-content/uploads/2024/11/IMG_20250108_203348_762.png",
     "type": "رواية",
     "is_novel": true,
-    "rating": "",
+    "rating": "7.5",
     "total_chapters": 24,
     "genres": [
       "أكشن",
@@ -1628,26 +1611,6 @@
     ]
   },
   {
-    "id": "انبعاث الخوارق",
-    "title": "انبعاث الخوارق",
-    "url": "https://kolnovel.com/series/%d8%a7%d9%86%d8%a8%d8%b9%d8%a7%d8%ab-%d8%a7%d9%84%d8%ae%d9%88%d8%a7%d8%b1%d9%82",
-    "cover_url": "https://kolnovel.com/wp-content/uploads/2026/10/Screenshot_٢٠٢٦-١٠-١٥-٠٨-٣١-٥٠-٢٢٩_com.miui_.gallery-edit.jpg",
-    "type": "رواية",
-    "is_novel": true,
-    "rating": "",
-    "total_chapters": 24,
-    "genres": [
-      "إثارة",
-      "بقاء على قيد الحياة",
-      "خارق للطبيعة",
-      "رعب",
-      "غموض",
-      "قوى خارقة",
-      "نفسي"
-    ],
-    "status": "مستمر"
-  },
-  {
     "id": "سليل المملكة",
     "title": "سليل المملكة",
     "url": "https://kolnovel.com/series/kingdoms-bloodline",
@@ -1692,6 +1655,45 @@
     "status": "مستمر"
   },
   {
+    "id": "خالد العوالم التسعة",
+    "title": "خالد العوالم التسعة",
+    "url": "https://kolnovel.com/series/%d8%ae%d8%a7%d9%84%d8%af-%d8%a7%d9%84%d8%b9%d9%88%d8%a7%d9%84%d9%85-%d8%a7%d9%84%d8%aa%d8%b3%d8%b9%d8%a9",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2026/05/113296.png",
+    "type": "رواية",
+    "is_novel": true,
+    "rating": "",
+    "total_chapters": 24,
+    "genres": [
+      "أكشن",
+      "خيال",
+      "دراما",
+      "شوانهوان",
+      "شيانشيا",
+      "فنون قتال"
+    ],
+    "status": "مستمر"
+  },
+  {
+    "id": "انبعاث الخوارق",
+    "title": "انبعاث الخوارق",
+    "url": "https://kolnovel.com/series/%d8%a7%d9%86%d8%a8%d8%b9%d8%a7%d8%ab-%d8%a7%d9%84%d8%ae%d9%88%d8%a7%d8%b1%d9%82",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2026/10/Screenshot_٢٠٢٦-١٠-١٥-٠٨-٣١-٥٠-٢٢٩_com.miui_.gallery-edit.jpg",
+    "type": "رواية",
+    "is_novel": true,
+    "rating": "",
+    "total_chapters": 24,
+    "genres": [
+      "إثارة",
+      "بقاء على قيد الحياة",
+      "خارق للطبيعة",
+      "رعب",
+      "غموض",
+      "قوى خارقة",
+      "نفسي"
+    ],
+    "status": "مستمر"
+  },
+  {
     "id": "أسرار سيد الدمى الخالد",
     "title": "أسرار سيد الدمى الخالد",
     "url": "https://kolnovel.com/series/%d8%a3%d8%b3%d8%b1%d8%a7%d8%b1-%d8%b3%d9%8a%d8%af-%d8%a7%d9%84%d8%af%d9%85%d9%89-%d8%a7%d9%84%d8%ae%d8%a7%d9%84%d8%af",
@@ -1712,21 +1714,25 @@
     "status": "مستمر"
   },
   {
-    "id": "خالد العوالم التسعة",
-    "title": "خالد العوالم التسعة",
-    "url": "https://kolnovel.com/series/%d8%ae%d8%a7%d9%84%d8%af-%d8%a7%d9%84%d8%b9%d9%88%d8%a7%d9%84%d9%85-%d8%a7%d9%84%d8%aa%d8%b3%d8%b9%d8%a9",
-    "cover_url": "https://kolnovel.com/wp-content/uploads/2026/05/113296.png",
+    "id": "موشوكو تينساي",
+    "title": "موشوكو تينساي",
+    "url": "https://kolnovel.com/series/mushoku-tensei",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2022/07/1.jpeg",
     "type": "رواية",
     "is_novel": true,
     "rating": "",
     "total_chapters": 24,
     "genres": [
       "أكشن",
+      "حريم",
       "خيال",
       "دراما",
-      "شوانهوان",
-      "شيانشيا",
-      "فنون قتال"
+      "رومانسي",
+      "سينن",
+      "كوميدي",
+      "مأساوي",
+      "مغامرة",
+      "ناضج"
     ],
     "status": "مستمر"
   },

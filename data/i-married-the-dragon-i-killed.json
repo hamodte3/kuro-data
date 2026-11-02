@@ -8,14 +8,17 @@
   "last_update": "2026-09-14",
   "rating": "9.1",
   "genres": [
-    "اكشن",
     "تراجع",
+    "اكشن",
     "مغامرة",
-    "فنتازيا",
-    "مأساة"
+    "مأساة",
+    "فنتازيا"
   ],
   "is_novel": false,
   "chapters": {
+    "https://azorafly.com/series/i-married-the-dragon-i-killed/chapter-22": {
+      "name": "22"
+    },
     "https://azorafly.com/series/i-married-the-dragon-i-killed/chapter-21": {
       "name": "21"
     },

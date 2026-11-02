@@ -6,15 +6,18 @@
   "type": "مانهوا",
   "status": "مستمر",
   "last_update": "2026-07-18",
-  "rating": "6.3",
+  "rating": "6.6",
   "genres": [
     "حياة مدرسية",
+    "فنتازيا",
     "رومانسي",
-    "دراما",
-    "فنتازيا"
+    "دراما"
   ],
   "is_novel": false,
   "chapters": {
+    "https://azorafly.com/series/unofficia-campus-couple/chapter-26": {
+      "name": "26"
+    },
     "https://azorafly.com/series/unofficia-campus-couple/chapter-25": {
       "name": "25"
     },

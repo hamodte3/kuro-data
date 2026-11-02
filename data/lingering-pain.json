@@ -6,14 +6,17 @@
   "type": "مانهوا",
   "status": "مستمر",
   "last_update": "2026-06-06",
-  "rating": "8.9",
+  "rating": "9.0",
   "genres": [
+    "رومانسي",
     "دراما",
-    "فانتازيا",
-    "رومانسي"
+    "فانتازيا"
   ],
   "is_novel": false,
   "chapters": {
+    "https://azorafly.com/series/lingering-pain/chapter-32": {
+      "name": "32"
+    },
     "https://azorafly.com/series/lingering-pain/chapter-31": {
       "name": "31"
     },
