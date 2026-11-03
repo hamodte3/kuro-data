@@ -10,11 +10,20 @@
   "genres": [
     "جوسي",
     "رومانسى",
-    "دراما",
-    "تاريخي"
+    "تاريخي",
+    "دراما"
   ],
   "is_novel": false,
   "chapters": {
+    "https://azorafly.com/series/i-want-to-eat-you/chapter-23": {
+      "name": "23"
+    },
+    "https://azorafly.com/series/i-want-to-eat-you/chapter-22": {
+      "name": "22"
+    },
+    "https://azorafly.com/series/i-want-to-eat-you/chapter-21": {
+      "name": "21"
+    },
     "https://azorafly.com/series/i-want-to-eat-you/chapter-20": {
       "name": "20"
     },

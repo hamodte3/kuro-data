@@ -5975,22 +5975,6 @@
     "status": "مكتمل"
   },
   {
-    "id": "vanitas-no-carte",
-    "title": "Vanitas no Carte",
-    "url": "https://3asq.online/manga/vanitas-no-carte",
-    "cover_url": "https://3asq.online/wp-content/uploads/2020/07/2-asq-hero-480-v2.webp",
-    "type": "مانغا",
-    "rating": "4.5",
-    "total_chapters": 7,
-    "genres": [
-      "خارق للطبيعة",
-      "خيال",
-      "غموض",
-      "مأساة"
-    ],
-    "status": "مستمر"
-  },
-  {
     "id": "detective-conan",
     "title": "Detective Conan",
     "url": "https://3asq.online/manga/detective-conan",
@@ -6745,6 +6729,22 @@
       "فنون قتالية",
       "كوميديا",
       "مغامرة"
+    ],
+    "status": "مستمر"
+  },
+  {
+    "id": "vanitas-no-carte",
+    "title": "Vanitas no Carte",
+    "url": "https://3asq.online/manga/vanitas-no-carte",
+    "cover_url": "https://3asq.online/wp-content/uploads/2020/07/2-asq-hero-480-v2.webp",
+    "type": "مانغا",
+    "rating": "4.5",
+    "total_chapters": 7,
+    "genres": [
+      "خارق للطبيعة",
+      "خيال",
+      "غموض",
+      "مأساة"
     ],
     "status": "مستمر"
   }
