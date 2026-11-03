@@ -9,13 +9,16 @@
   "rating": "10.0",
   "genres": [
     "موسيقي",
-    "تجسيد",
-    "كوميدي",
+    "خيال",
     "دراما",
-    "خيال"
+    "كوميدي",
+    "تجسيد"
   ],
   "is_novel": false,
   "chapters": {
+    "https://azorafly.com/series/surviving-as-a-pd-idol/chapter-47": {
+      "name": "47"
+    },
     "https://azorafly.com/series/surviving-as-a-pd-idol/chapter-46": {
       "name": "46"
     },
