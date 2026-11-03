@@ -9,12 +9,15 @@
   "rating": "9.7",
   "genres": [
     "تناسخ",
-    "دراما",
     "رومانسي",
-    "فانتازيا"
+    "فانتازيا",
+    "دراما"
   ],
   "is_novel": false,
   "chapters": {
+    "https://azorafly.com/series/i-am-the-commander-of-the-second-male-leads-knights/chapter-40": {
+      "name": "40"
+    },
     "https://azorafly.com/series/i-am-the-commander-of-the-second-male-leads-knights/chapter-39": {
       "name": "39"
     },

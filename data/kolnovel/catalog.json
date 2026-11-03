@@ -684,23 +684,6 @@
     "status": "مستمر"
   },
   {
-    "id": "الليتش المجنون",
-    "title": "الليتش المجنون",
-    "url": "https://kolnovel.com/series/%d8%a7%d9%84%d9%84%d9%8a%d8%aa%d8%b4-%d8%a7%d9%84%d9%85%d8%ac%d9%86%d9%88%d9%86",
-    "cover_url": "https://kolnovel.com/wp-content/uploads/2021/03/113272.png",
-    "type": "رواية",
-    "is_novel": true,
-    "rating": "8.0",
-    "total_chapters": 51,
-    "genres": [
-      "أكشن",
-      "حريم",
-      "خيال علمي",
-      "سينن"
-    ],
-    "status": "مستمر"
-  },
-  {
     "id": "المئة عهد",
     "title": "المئة عهد",
     "url": "https://kolnovel.com/series/%d8%a7%d9%84%d9%85%d8%a6%d8%a9-%d8%b9%d9%87%d8%af",
@@ -1001,23 +984,6 @@
       "دراما"
     ],
     "status": "مستمر"
-  },
-  {
-    "id": "عبد الظل",
-    "title": "عبد الظل",
-    "url": "https://kolnovel.com/series/%d8%b9%d8%a8%d8%af-%d8%a7%d9%84%d8%b8%d9%84",
-    "cover_url": "https://kolnovel.com/wp-content/uploads/2025/01/ساني-1.jpg",
-    "type": "رواية",
-    "is_novel": true,
-    "rating": "8.0",
-    "total_chapters": 2,
-    "genres": [
-      "أكشن",
-      "خيال",
-      "رعب",
-      "رومانسية"
-    ],
-    "status": "متوقف مؤقتاً"
   },
   {
     "id": "امبراطور الخيمياء في العالم السماوي",
@@ -1344,21 +1310,20 @@
     "type": "رواية",
     "status": "مستمر",
     "is_novel": true,
-    "rating": "",
+    "rating": "8.7",
     "total_chapters": 24,
     "genres": [
       "أكشن",
       "الخيال العلمي",
       "غموض",
-      "ما بعد الكارثة",
-      "مغامرة"
+      "ما بعد الكارثة"
     ]
   },
   {
     "id": "انتفاضة الحُمر",
     "title": "انتفاضة الحُمر",
     "url": "https://kolnovel.com/series/%d8%a7%d9%86%d8%aa%d9%81%d8%a7%d8%b6%d8%a9-%d8%a7%d9%84%d8%ad%d9%8f%d9%85%d8%b1",
-    "cover_url": "https://kolnovel.com/wp-content/uploads/2025/12/unnamed-768x983.jpg",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2025/12/unnamed.jpg",
     "type": "رواية",
     "is_novel": true,
     "rating": "",
@@ -1367,8 +1332,7 @@
       "أكشن",
       "خيال",
       "خيال علمي",
-      "مأساوي",
-      "ناضج"
+      "مأساوي"
     ],
     "status": "مستمر"
   },
@@ -1432,26 +1396,6 @@
     ]
   },
   {
-    "id": "وورم",
-    "title": "وورم",
-    "url": "https://kolnovel.com/series/%d9%88%d9%88%d8%b1%d9%85",
-    "cover_url": "https://kolnovel.com/wp-content/uploads/2026/10/18713259-109x150.jpg",
-    "type": "رواية",
-    "status": "مستمر",
-    "is_novel": true,
-    "rating": "",
-    "total_chapters": 24,
-    "genres": [
-      "أكشن",
-      "إثارة",
-      "خيال علمي مظلم",
-      "دراما",
-      "غموض",
-      "قوة خارقة",
-      "نفسي"
-    ]
-  },
-  {
     "id": "سليل المملكة",
     "title": "سليل المملكة",
     "url": "https://kolnovel.com/series/kingdoms-bloodline",
@@ -1468,25 +1412,6 @@
       "فنون قتال",
       "قوى خارقة",
       "مغامرة"
-    ],
-    "status": "مستمر"
-  },
-  {
-    "id": "خالد العوالم التسعة",
-    "title": "خالد العوالم التسعة",
-    "url": "https://kolnovel.com/series/%d8%ae%d8%a7%d9%84%d8%af-%d8%a7%d9%84%d8%b9%d9%88%d8%a7%d9%84%d9%85-%d8%a7%d9%84%d8%aa%d8%b3%d8%b9%d8%a9",
-    "cover_url": "https://kolnovel.com/wp-content/uploads/2026/05/113296.png",
-    "type": "رواية",
-    "is_novel": true,
-    "rating": "",
-    "total_chapters": 24,
-    "genres": [
-      "أكشن",
-      "خيال",
-      "دراما",
-      "شوانهوان",
-      "شيانشيا",
-      "فنون قتال"
     ],
     "status": "مستمر"
   },
@@ -1728,6 +1653,85 @@
       "خيال",
       "دراما",
       "غموض"
+    ],
+    "status": "مستمر"
+  },
+  {
+    "id": "خالد العوالم التسعة",
+    "title": "خالد العوالم التسعة",
+    "url": "https://kolnovel.com/series/%d8%ae%d8%a7%d9%84%d8%af-%d8%a7%d9%84%d8%b9%d9%88%d8%a7%d9%84%d9%85-%d8%a7%d9%84%d8%aa%d8%b3%d8%b9%d8%a9",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2026/05/113296.png",
+    "type": "رواية",
+    "is_novel": true,
+    "rating": "",
+    "total_chapters": 24,
+    "genres": [
+      "أكشن",
+      "خيال",
+      "دراما",
+      "شوانهوان",
+      "شيانشيا",
+      "فنون قتال"
+    ],
+    "status": "مستمر"
+  },
+  {
+    "id": "وورم",
+    "title": "وورم",
+    "url": "https://kolnovel.com/series/%d9%88%d9%88%d8%b1%d9%85",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2026/10/18713259-109x150.jpg",
+    "type": "رواية",
+    "status": "مستمر",
+    "is_novel": true,
+    "rating": "",
+    "total_chapters": 24,
+    "genres": [
+      "أكشن",
+      "إثارة",
+      "خيال علمي مظلم",
+      "دراما",
+      "غموض",
+      "قوة خارقة",
+      "نفسي"
+    ]
+  },
+  {
+    "id": "الليتش المجنون",
+    "title": "الليتش المجنون",
+    "url": "https://kolnovel.com/series/%d8%a7%d9%84%d9%84%d9%8a%d8%aa%d8%b4-%d8%a7%d9%84%d9%85%d8%ac%d9%86%d9%88%d9%86",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2021/03/113272.png",
+    "type": "رواية",
+    "is_novel": true,
+    "rating": "",
+    "total_chapters": 24,
+    "genres": [
+      "أكشن",
+      "حريم",
+      "خيال علمي",
+      "سينن",
+      "كوميديا",
+      "مغامرة",
+      "ناضج"
+    ],
+    "status": "مستمر"
+  },
+  {
+    "id": "عبد الظل",
+    "title": "عبد الظل",
+    "url": "https://kolnovel.com/series/%d8%b9%d8%a8%d8%af-%d8%a7%d9%84%d8%b8%d9%84",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2025/01/ساني-1.jpg",
+    "type": "رواية",
+    "is_novel": true,
+    "rating": "",
+    "total_chapters": 24,
+    "genres": [
+      "أكشن",
+      "خيال",
+      "رعب",
+      "رومانسية",
+      "غموض",
+      "قوى خارقة",
+      "مغامرة"
     ],
     "status": "مستمر"
   },

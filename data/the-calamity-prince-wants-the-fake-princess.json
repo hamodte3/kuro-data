@@ -9,12 +9,15 @@
   "rating": "9.9",
   "genres": [
     "رومانسى",
+    "فنتازيا",
     "سحر",
-    "دراما",
-    "فنتازيا"
+    "دراما"
   ],
   "is_novel": false,
   "chapters": {
+    "https://azorafly.com/series/the-calamity-prince-wants-the-fake-princess/chapter-27": {
+      "name": "27"
+    },
     "https://azorafly.com/series/the-calamity-prince-wants-the-fake-princess/chapter-26": {
       "name": "26"
     },

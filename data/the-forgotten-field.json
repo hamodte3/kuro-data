@@ -6,14 +6,17 @@
   "type": "مانهوا",
   "status": "مستمر",
   "last_update": "2026-09-15",
-  "rating": "6.9",
+  "rating": "7.0",
   "genres": [
-    "رومانسي",
     "فانتازيا",
+    "رومانسي",
     "دراما"
   ],
   "is_novel": false,
   "chapters": {
+    "https://azorafly.com/series/the-forgotten-field/chapter-40": {
+      "name": "40"
+    },
     "https://azorafly.com/series/the-forgotten-field/chapter-39": {
       "name": "39"
     },
