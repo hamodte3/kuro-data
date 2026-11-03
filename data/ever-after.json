@@ -8,13 +8,16 @@
   "last_update": "2026-09-15",
   "rating": "9.0",
   "genres": [
+    "شفاء",
     "عصرى",
     "رومانسى",
-    "شفاء",
     "غموض"
   ],
   "is_novel": false,
   "chapters": {
+    "https://azorafly.com/series/ever-after/chapter-26": {
+      "name": "26"
+    },
     "https://azorafly.com/series/ever-after/chapter-25": {
       "name": "25"
     },

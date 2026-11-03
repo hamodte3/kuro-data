@@ -2515,7 +2515,7 @@
     "url": "https://3asq.online/manga/bleach",
     "cover_url": "https://3asq.online/wp-content/uploads/2019/04/cover_250x350-5.jpg",
     "type": "مانغا",
-    "rating": "4.5",
+    "rating": "4.4",
     "total_chapters": 50,
     "genres": [
       "أكشن",
@@ -6025,25 +6025,6 @@
     "status": "مستمر"
   },
   {
-    "id": "pokemon-adventures",
-    "title": "Pokémon Adventures",
-    "url": "https://3asq.online/manga/pokemon-adventures",
-    "cover_url": "https://3asq.online/wp-content/uploads/2026/08/Pokemon-Manga-Arabic-Cover-صفحة-العمل-no-arrows.jpg",
-    "type": "مانغا",
-    "rating": "4.9",
-    "total_chapters": 8,
-    "genres": [
-      "أكشن",
-      "استراتيجي",
-      "العاب",
-      "خارق للطبيعة",
-      "خيال",
-      "كوميديا",
-      "مغامرة"
-    ],
-    "status": "مستمر"
-  },
-  {
     "id": "dr-hound",
     "title": "Dr. Hound",
     "url": "https://3asq.online/manga/dr-hound",
@@ -6237,99 +6218,6 @@
       "قوى خارقة",
       "كوميديا",
       "مدرسة",
-      "مغامرة"
-    ],
-    "status": "مستمر"
-  },
-  {
-    "id": "night-of-the-living-cat",
-    "title": "Night of the Living Cat",
-    "url": "https://3asq.online/manga/night-of-the-living-cat",
-    "cover_url": "https://3asq.online/wp-content/uploads/2025/07/Night-of-the-Living-Cat-COVER-scaled.jpg",
-    "type": "مانغا",
-    "rating": "5.0",
-    "total_chapters": 4,
-    "genres": [
-      "أكشن",
-      "خارق للطبيعة",
-      "خيال",
-      "خيال علمي",
-      "دراما",
-      "رعب",
-      "شونين",
-      "فلسفة",
-      "كوميديا",
-      "مغامرة"
-    ],
-    "status": "مستمر"
-  },
-  {
-    "id": "anne-shirley",
-    "title": "Anne Shirley",
-    "url": "https://3asq.online/manga/anne-shirley",
-    "cover_url": "https://3asq.online/wp-content/uploads/2025/04/anne-arabic-cover-final-scaled.jpg",
-    "type": "مانغا",
-    "rating": "3.6",
-    "total_chapters": 2,
-    "genres": [
-      "تاريخ",
-      "دراما",
-      "رومانسية",
-      "شوجو",
-      "كوميديا"
-    ],
-    "status": "مستمر"
-  },
-  {
-    "id": "orb-on-the-movements-of-the-earth",
-    "title": "Orb: On the Movements of the Earth",
-    "url": "https://3asq.online/manga/orb-on-the-movements-of-the-earth",
-    "cover_url": "https://3asq.online/wp-content/uploads/2025/02/orb-cover-arabic-scaled.jpg",
-    "type": "مانغا",
-    "rating": "4.5",
-    "total_chapters": 12,
-    "genres": [
-      "100%",
-      "أكشن",
-      "اضطهاد",
-      "تاريخ",
-      "خيال",
-      "دراما",
-      "رعب",
-      "سينين",
-      "عسكرية",
-      "علم نفس",
-      "عنف",
-      "غموض",
-      "فلسفة",
-      "مأساة"
-    ],
-    "status": "مكتمل"
-  },
-  {
-    "id": "metaphor-refantazio",
-    "title": "Metaphor: ReFantazio",
-    "url": "https://3asq.online/manga/metaphor-refantazio",
-    "cover_url": "https://3asq.online/wp-content/uploads/2025/02/cover.jpg",
-    "type": "مانغا",
-    "rating": "4.7",
-    "total_chapters": 7,
-    "genres": [
-      "100%",
-      "أكشن",
-      "اضطهاد",
-      "تاريخ",
-      "جريمة",
-      "حرب",
-      "خارق للطبيعة",
-      "خيال",
-      "خيال علمي",
-      "دراما",
-      "عسكرية",
-      "عنف",
-      "غموض",
-      "فنون قتالية",
-      "كوميديا",
       "مغامرة"
     ],
     "status": "مستمر"
@@ -6738,13 +6626,125 @@
     "url": "https://3asq.online/manga/d-gray-man",
     "cover_url": "https://3asq.online/wp-content/uploads/2026/09/D.Gray-man-VOL16-scaled.jpg",
     "type": "مانغا",
-    "rating": "",
+    "rating": "5.0",
     "total_chapters": 1,
     "genres": [
       "أكشن",
       "خارق للطبيعة",
       "شونين",
       "غموض"
+    ],
+    "status": "مستمر"
+  },
+  {
+    "id": "night-of-the-living-cat",
+    "title": "Night of the Living Cat",
+    "url": "https://3asq.online/manga/night-of-the-living-cat",
+    "cover_url": "https://3asq.online/wp-content/uploads/2025/07/Night-of-the-Living-Cat-COVER-scaled.jpg",
+    "type": "مانغا",
+    "rating": "5.0",
+    "total_chapters": 5,
+    "genres": [
+      "أكشن",
+      "خارق للطبيعة",
+      "خيال",
+      "خيال علمي",
+      "دراما",
+      "رعب",
+      "شونين",
+      "فلسفة",
+      "كوميديا",
+      "مغامرة"
+    ],
+    "status": "مستمر"
+  },
+  {
+    "id": "orb-on-the-movements-of-the-earth",
+    "title": "Orb: On the Movements of the Earth",
+    "url": "https://3asq.online/manga/orb-on-the-movements-of-the-earth",
+    "cover_url": "https://3asq.online/wp-content/uploads/2025/02/orb-cover-arabic-scaled.jpg",
+    "type": "مانغا",
+    "rating": "4.5",
+    "total_chapters": 12,
+    "genres": [
+      "100%",
+      "أكشن",
+      "اضطهاد",
+      "تاريخ",
+      "خيال",
+      "دراما",
+      "رعب",
+      "سينين",
+      "عسكرية",
+      "علم نفس",
+      "عنف",
+      "غموض",
+      "فلسفة",
+      "مأساة"
+    ],
+    "status": "مكتمل"
+  },
+  {
+    "id": "pokemon-adventures",
+    "title": "Pokémon Adventures",
+    "url": "https://3asq.online/manga/pokemon-adventures",
+    "cover_url": "https://3asq.online/wp-content/uploads/2026/08/Pokemon-Manga-Arabic-Cover-صفحة-العمل-no-arrows.jpg",
+    "type": "مانغا",
+    "rating": "4.9",
+    "total_chapters": 8,
+    "genres": [
+      "أكشن",
+      "استراتيجي",
+      "العاب",
+      "خارق للطبيعة",
+      "خيال",
+      "كوميديا",
+      "مغامرة"
+    ],
+    "status": "مستمر"
+  },
+  {
+    "id": "anne-shirley",
+    "title": "Anne Shirley",
+    "url": "https://3asq.online/manga/anne-shirley",
+    "cover_url": "https://3asq.online/wp-content/uploads/2025/04/anne-manga-cover-arabic-no-logos-480x691.jpg.webp",
+    "type": "مانغا",
+    "rating": "3.6",
+    "total_chapters": 2,
+    "genres": [
+      "تاريخ",
+      "دراما",
+      "رومانسية",
+      "شوجو",
+      "كوميديا"
+    ],
+    "status": "مستمر"
+  },
+  {
+    "id": "metaphor-refantazio",
+    "title": "Metaphor: ReFantazio",
+    "url": "https://3asq.online/manga/metaphor-refantazio",
+    "cover_url": "https://3asq.online/wp-content/uploads/2025/02/cover.jpg",
+    "type": "مانغا",
+    "rating": "4.7",
+    "total_chapters": 7,
+    "genres": [
+      "100%",
+      "أكشن",
+      "اضطهاد",
+      "تاريخ",
+      "جريمة",
+      "حرب",
+      "خارق للطبيعة",
+      "خيال",
+      "خيال علمي",
+      "دراما",
+      "عسكرية",
+      "عنف",
+      "غموض",
+      "فنون قتالية",
+      "كوميديا",
+      "مغامرة"
     ],
     "status": "مستمر"
   }

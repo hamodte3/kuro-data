@@ -9,15 +9,21 @@
   "rating": "10.0",
   "genres": [
     "رومانسى",
-    "دراما",
     "شوجو",
     "مغامرة",
     "فنتازيا",
+    "كوميدي",
     "خيال",
-    "كوميدي"
+    "دراما"
   ],
   "is_novel": false,
   "chapters": {
+    "https://azorafly.com/series/the-baby-sprout-who-bloomed-in-the-villain-duke's-family/chapter-28": {
+      "name": "28"
+    },
+    "https://azorafly.com/series/the-baby-sprout-who-bloomed-in-the-villain-duke's-family/chapter-27": {
+      "name": "27"
+    },
     "https://azorafly.com/series/the-baby-sprout-who-bloomed-in-the-villain-duke's-family/chapter-26": {
       "name": "26"
     },

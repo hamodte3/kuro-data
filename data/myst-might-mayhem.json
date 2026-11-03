@@ -10,12 +10,15 @@
   "genres": [
     "بطل مجنون",
     "أكشن",
-    "فنتازيا",
     "مغامرة",
+    "فنتازيا",
     "فنون قتالية"
   ],
   "is_novel": false,
   "chapters": {
+    "https://azorafly.com/series/myst-might-mayhem/chapter-123": {
+      "name": "123"
+    },
     "https://azorafly.com/series/myst-might-mayhem/chapter-122": {
       "name": "122"
     },

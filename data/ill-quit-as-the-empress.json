@@ -10,11 +10,17 @@
   "genres": [
     "رعاية اطفال",
     "رومانسى",
-    "دراما",
-    "خيال"
+    "خيال",
+    "دراما"
   ],
   "is_novel": false,
   "chapters": {
+    "https://azorafly.com/series/ill-quit-as-the-empress/chapter-24": {
+      "name": "24"
+    },
+    "https://azorafly.com/series/ill-quit-as-the-empress/chapter-23": {
+      "name": "23"
+    },
     "https://azorafly.com/series/ill-quit-as-the-empress/chapter-22": {
       "name": "22"
     },
