@@ -1,36 +1,5 @@
 [
   {
-    "id": "i-think-i-have-transmigrated-somewhere",
-    "title": "I Think I Have Transmigrated Somewhere",
-    "url": "https://azorafly.com/series/i-think-i-have-transmigrated-somewhere",
-    "cover_url": "https://storage.azorafly.com/2023/10/PicRetouch_٢٠٢٥٠٩٠٩_٢٢٠٦٣٩٧٧٩-1.jpg",
-    "type": "مانهوا",
-    "status": "مكتمل",
-    "rating": "9.6",
-    "total_chapters": 110,
-    "genres": [
-      "خيال",
-      "دراما",
-      "رومانسي"
-    ]
-  },
-  {
-    "id": "when-i-married-the-impotent-duke-i-wanted-to-protect-the-child",
-    "title": "When I Married The Impotent Duke I Wanted To Protect The Child",
-    "url": "https://azorafly.com/series/when-i-married-the-impotent-duke-i-wanted-to-protect-the-child",
-    "cover_url": "https://storage.azorafly.com/upload/series/featured/02408b52-85d5-445d-9e5c-f7dbcd583bf8/ae2f280b-b6e3-4440-ac53-fd1150ee5d9a.webp",
-    "type": "مانهوا",
-    "status": "مستمر",
-    "rating": "9.5",
-    "total_chapters": 27,
-    "genres": [
-      "رومانسى",
-      "اطفال",
-      "خيال",
-      "دراما"
-    ]
-  },
-  {
     "id": "return-of-the-scandal-maker",
     "title": "Return of The Scandal Maker",
     "url": "https://azorafly.com/series/return-of-the-scandal-maker",
@@ -925,24 +894,6 @@
     ],
     "status": "مستمر",
     "rating": "9.9"
-  },
-  {
-    "id": "how-to-survive-the-horror-novel-i-wrot1e",
-    "title": "How to Survive the Horror Novel I Wrote",
-    "url": "https://azorafly.com/series/how-to-survive-the-horror-novel-i-wrot1e",
-    "cover_url": "https://storage.azorafly.com/upload/series/featured/a5vVlSc5huft2AzUyK1VxgKh1ckCWLbZ/10ec3073-32db-46c5-a205-ebc554b65359.jpg",
-    "type": "رواية",
-    "status": "مستمر",
-    "rating": "8.5",
-    "total_chapters": 40,
-    "genres": [
-      "عصري",
-      "رعب",
-      "بدون تجسيد",
-      "رومانسي",
-      "كوميدي",
-      "دراما"
-    ]
   },
   {
     "id": "im-looking-for-a-new-husband",
@@ -1984,22 +1935,6 @@
     ]
   },
   {
-    "id": "surviving-as-the-crown-princes-childhood-friend",
-    "title": "Surviving as the crown prince’s childhood friend",
-    "url": "https://azorafly.com/series/surviving-as-the-crown-princes-childhood-friend",
-    "cover_url": "https://storage.azorafly.com/2025/10/BD_C3_B8_AE_C1_EE__C6_F7.webp",
-    "type": "مانهوا",
-    "status": "مستمر",
-    "rating": "8.7",
-    "total_chapters": 27,
-    "genres": [
-      "جوسي",
-      "تاريخي",
-      "دراما",
-      "رومانسي"
-    ]
-  },
-  {
     "id": "im-the-brave-puppy-that-will-save-the-villainess-2",
     "title": "I’m The Brave Puppy That Will Save The Villainess",
     "url": "https://azorafly.com/series/im-the-brave-puppy-that-will-save-the-villainess-2",
@@ -2919,9 +2854,9 @@
     "rating": "7.3",
     "total_chapters": 68,
     "genres": [
-      "رومانسي",
       "خيال",
-      "دراما"
+      "دراما",
+      "رومانسي"
     ]
   },
   {
@@ -2968,8 +2903,8 @@
     "total_chapters": 48,
     "genres": [
       "شوجو",
-      "خيال",
-      "رومانسي"
+      "رومانسي",
+      "خيال"
     ]
   },
   {
@@ -2983,9 +2918,9 @@
     "total_chapters": 103,
     "genres": [
       "شوجو",
-      "رومانسي",
       "خيال",
-      "دراما"
+      "دراما",
+      "رومانسي"
     ]
   },
   {
@@ -3045,11 +2980,11 @@
     "total_chapters": 170,
     "genres": [
       "لعبة",
-      "رومانسي",
       "كوميدي",
       "تجسيد",
       "خيال",
-      "دراما"
+      "دراما",
+      "رومانسي"
     ],
     "status": "مستمر",
     "rating": "9.0"
@@ -3115,8 +3050,8 @@
     "rating": "9.4",
     "total_chapters": 44,
     "genres": [
-      "رومانسي",
-      "غموض"
+      "غموض",
+      "رومانسي"
     ]
   },
   {
@@ -3145,15 +3080,112 @@
       "فرق عمر",
       "هوس",
       "مصاصي الدماء",
-      "خيال",
       "كوميدي",
       "بطلة أكبر من البطل",
       "بدون تجسيد",
       "رومانسي",
+      "خيال",
       "دراما"
     ],
     "status": "مستمر",
     "rating": "10.0"
+  },
+  {
+    "id": "how-to-survive-the-horror-novel-i-wrot1e",
+    "title": "How to Survive the Horror Novel I Wrote",
+    "url": "https://azorafly.com/series/how-to-survive-the-horror-novel-i-wrot1e",
+    "cover_url": "https://storage.azorafly.com/upload/series/featured/a5vVlSc5huft2AzUyK1VxgKh1ckCWLbZ/10ec3073-32db-46c5-a205-ebc554b65359.jpg",
+    "type": "رواية",
+    "status": "مستمر",
+    "rating": "8.5",
+    "total_chapters": 46,
+    "genres": [
+      "عصري",
+      "رعب",
+      "كوميدي",
+      "بدون تجسيد",
+      "رومانسي",
+      "دراما"
+    ]
+  },
+  {
+    "id": "surviving-as-the-crown-princes-childhood-friend",
+    "title": "Surviving as the crown prince’s childhood friend",
+    "url": "https://azorafly.com/series/surviving-as-the-crown-princes-childhood-friend",
+    "cover_url": "https://storage.azorafly.com/2025/10/BD_C3_B8_AE_C1_EE__C6_F7.webp",
+    "type": "مانهوا",
+    "status": "مستمر",
+    "rating": "8.7",
+    "total_chapters": 31,
+    "genres": [
+      "جوسي",
+      "تاريخي",
+      "دراما",
+      "رومانسي"
+    ]
+  },
+  {
+    "id": "i-faked-a-pregnancy-but-my-husband-returned",
+    "title": "I Faked a Pregnancy, but My Husband Returned",
+    "url": "https://azorafly.com/series/i-faked-a-pregnancy-but-my-husband-returned",
+    "cover_url": "https://storage.azorafly.com/public/upload/series/featured/6cac1de1-87ae-4a81-9cd1-2abe99fd84d7/12f5073e-72e8-4c86-82f4-de69d964cc94.webp",
+    "type": "مانهوا",
+    "status": "مستمر",
+    "rating": "9.7",
+    "total_chapters": 46,
+    "genres": [
+      "مانهوا",
+      "رومانسي"
+    ]
+  },
+  {
+    "id": "the-return-of-the-namgoong-clans-granddaughter",
+    "title": "The Return of the Namgoong Clan’s Granddaughter",
+    "url": "https://azorafly.com/series/the-return-of-the-namgoong-clans-granddaughter",
+    "cover_url": "https://storage.azorafly.com/upload/series/featured/f1fef4cc-ebcb-4b26-90b6-b65fe212f932/98fd9d63-1171-4f57-a679-ce7297027a9f.jpg",
+    "type": "مانهوا",
+    "status": "مستمر",
+    "rating": "9.5",
+    "total_chapters": 61,
+    "genres": [
+      "عائلي",
+      "خيالي",
+      "انتقام",
+      "تاريخي",
+      "مغامرات",
+      "رومانسي"
+    ]
+  },
+  {
+    "id": "i-think-i-have-transmigrated-somewhere",
+    "title": "I Think I Have Transmigrated Somewhere",
+    "url": "https://azorafly.com/series/i-think-i-have-transmigrated-somewhere",
+    "cover_url": "https://storage.azorafly.com/2023/10/PicRetouch_٢٠٢٥٠٩٠٩_٢٢٠٦٣٩٧٧٩-1.jpg",
+    "type": "مانهوا",
+    "status": "مكتمل",
+    "rating": "9.6",
+    "total_chapters": 110,
+    "genres": [
+      "خيال",
+      "دراما",
+      "رومانسي"
+    ]
+  },
+  {
+    "id": "when-i-married-the-impotent-duke-i-wanted-to-protect-the-child",
+    "title": "When I Married The Impotent Duke I Wanted To Protect The Child",
+    "url": "https://azorafly.com/series/when-i-married-the-impotent-duke-i-wanted-to-protect-the-child",
+    "cover_url": "https://storage.azorafly.com/upload/series/featured/02408b52-85d5-445d-9e5c-f7dbcd583bf8/ae2f280b-b6e3-4440-ac53-fd1150ee5d9a.webp",
+    "type": "مانهوا",
+    "status": "مستمر",
+    "rating": "9.5",
+    "total_chapters": 27,
+    "genres": [
+      "رومانسى",
+      "اطفال",
+      "خيال",
+      "دراما"
+    ]
   },
   {
     "id": "its-a-rabbit-anyone-can-see-that-its-a-beast",
@@ -4839,20 +4871,6 @@
     "genres": [
       "دراما",
       "فنتازيا",
-      "رومانسي"
-    ]
-  },
-  {
-    "id": "i-faked-a-pregnancy-but-my-husband-returned",
-    "title": "I Faked a Pregnancy, but My Husband Returned",
-    "url": "https://azorafly.com/series/i-faked-a-pregnancy-but-my-husband-returned",
-    "cover_url": "https://storage.azorafly.com/public/upload/series/featured/6cac1de1-87ae-4a81-9cd1-2abe99fd84d7/12f5073e-72e8-4c86-82f4-de69d964cc94.webp",
-    "type": "مانهوا",
-    "status": "مستمر",
-    "rating": "9.7",
-    "total_chapters": 45,
-    "genres": [
-      "مانهوا",
       "رومانسي"
     ]
   },
@@ -8287,24 +8305,6 @@
     "genres": [
       "رومانسي",
       "دراما"
-    ]
-  },
-  {
-    "id": "the-return-of-the-namgoong-clans-granddaughter",
-    "title": "The Return of the Namgoong Clan’s Granddaughter",
-    "url": "https://azorafly.com/series/the-return-of-the-namgoong-clans-granddaughter",
-    "cover_url": "https://storage.azorafly.com/upload/series/featured/f1fef4cc-ebcb-4b26-90b6-b65fe212f932/98fd9d63-1171-4f57-a679-ce7297027a9f.jpg",
-    "type": "مانهوا",
-    "status": "مستمر",
-    "rating": "9.5",
-    "total_chapters": 60,
-    "genres": [
-      "خيالي",
-      "عائلي",
-      "مغامرات",
-      "تاريخي",
-      "انتقام",
-      "رومانسي"
     ]
   },
   {
