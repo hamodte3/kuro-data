@@ -26,7 +26,7 @@
     "rating": "7.5",
     "total_chapters": 51,
     "genres": [
-      "اكشن",
+      "أكشن",
       "تناسخ",
       "حياة مدرسية",
       "دراما"
@@ -78,7 +78,7 @@
     "genres": [
       "أكشن",
       "تقمص شخصيات",
-      "كوميدي",
+      "كوميديا",
       "مغامرة"
     ],
     "status": "متوقف مؤقتاً"
@@ -146,7 +146,7 @@
     "genres": [
       "رومانسي",
       "سينن",
-      "كوميدي",
+      "كوميديا",
       "نفسي"
     ],
     "status": "متوقف مؤقتاً"
@@ -298,7 +298,7 @@
       "أكشن",
       "خيال",
       "سحر",
-      "كوميدي"
+      "كوميديا"
     ],
     "status": "مكتمل"
   },
@@ -459,7 +459,7 @@
     "total_chapters": 50,
     "genres": [
       "أكشن",
-      "الخيال العلمي",
+      "خيال علمي",
       "مغامرة"
     ],
     "status": "مستمر"
@@ -718,21 +718,6 @@
     "status": "مستمر"
   },
   {
-    "id": "ReForm: The Nobody",
-    "title": "ReForm: The Nobody",
-    "url": "https://kolnovel.com/series/reform-the-nobody",
-    "cover_url": "https://kolnovel.com/wp-content/uploads/2021/12/5972441263a9514c39309138784a6c69-01_1.jpg",
-    "type": "رواية",
-    "is_novel": true,
-    "rating": "7.0",
-    "total_chapters": 1,
-    "genres": [
-      "كوميدي",
-      "مأساوي"
-    ],
-    "status": "مكتمل"
-  },
-  {
     "id": "الحظ يفضل السقوط",
     "title": "الحظ يفضل السقوط",
     "url": "https://kolnovel.com/series/%d8%a7%d9%84%d8%ad%d8%b8-%d9%8a%d9%81%d8%b6%d9%84-%d8%a7%d9%84%d8%b3%d9%82%d9%88%d8%b7",
@@ -895,7 +880,7 @@
     "total_chapters": 51,
     "genres": [
       "أكشن",
-      "الخيال العلمي",
+      "خيال علمي",
       "تقمص شخصيات",
       "سحر"
     ],
@@ -963,7 +948,7 @@
     "genres": [
       "رومانسي",
       "سينن",
-      "كوميدي",
+      "كوميديا",
       "نفسي"
     ],
     "status": "متوقف مؤقتاً"
@@ -997,7 +982,7 @@
     "genres": [
       "حريم",
       "فنون القتال",
-      "كوميدي",
+      "كوميديا",
       "ما بعد الكارثة"
     ],
     "status": "مستمر"
@@ -1231,7 +1216,7 @@
     "rating": "7.8",
     "total_chapters": 3,
     "genres": [
-      "درامي",
+      "دراما",
       "رومانسي",
       "نفسي"
     ]
@@ -1263,8 +1248,8 @@
     "genres": [
       "أكشن",
       "غموض",
-      "فانتازي",
-      "كوميدي"
+      "فانتازيا",
+      "كوميديا"
     ],
     "status": "مستمر"
   },
@@ -1314,7 +1299,7 @@
     "total_chapters": 24,
     "genres": [
       "أكشن",
-      "الخيال العلمي",
+      "خيال علمي",
       "غموض",
       "ما بعد الكارثة"
     ]
@@ -1343,15 +1328,13 @@
     "cover_url": "https://kolnovel.com/wp-content/uploads/2025/07/بدون-اسم66_20260622032832.png",
     "type": "رواية",
     "is_novel": true,
-    "rating": "",
+    "rating": "9.0",
     "total_chapters": 24,
     "genres": [
       "أكشن",
       "خارق للطبيعة",
       "خيال",
-      "رعب",
-      "غموض",
-      "مأساة"
+      "رعب"
     ],
     "status": "مستمر"
   },
@@ -1416,26 +1399,6 @@
     "status": "مستمر"
   },
   {
-    "id": "انبعاث الخوارق",
-    "title": "انبعاث الخوارق",
-    "url": "https://kolnovel.com/series/%d8%a7%d9%86%d8%a8%d8%b9%d8%a7%d8%ab-%d8%a7%d9%84%d8%ae%d9%88%d8%a7%d8%b1%d9%82",
-    "cover_url": "https://kolnovel.com/wp-content/uploads/2026/10/Screenshot_٢٠٢٦-١٠-١٥-٠٨-٣١-٥٠-٢٢٩_com.miui_.gallery-edit.jpg",
-    "type": "رواية",
-    "is_novel": true,
-    "rating": "",
-    "total_chapters": 24,
-    "genres": [
-      "إثارة",
-      "بقاء على قيد الحياة",
-      "خارق للطبيعة",
-      "رعب",
-      "غموض",
-      "قوى خارقة",
-      "نفسي"
-    ],
-    "status": "مستمر"
-  },
-  {
     "id": "أسرار سيد الدمى الخالد",
     "title": "أسرار سيد الدمى الخالد",
     "url": "https://kolnovel.com/series/%d8%a3%d8%b3%d8%b1%d8%a7%d8%b1-%d8%b3%d9%8a%d8%af-%d8%a7%d9%84%d8%af%d9%85%d9%89-%d8%a7%d9%84%d8%ae%d8%a7%d9%84%d8%af",
@@ -1474,24 +1437,6 @@
       "كوميديا",
       "ناضج",
       "نفسي"
-    ],
-    "status": "مستمر"
-  },
-  {
-    "id": "ملحمة سليل الخوف",
-    "title": "ملحمة سليل الخوف",
-    "url": "https://kolnovel.com/series/%d9%85%d9%84%d8%ad%d9%85%d8%a9-%d8%b3%d9%84%d9%8a%d9%84-%d8%a7%d9%84%d8%ae%d9%88%d9%81",
-    "cover_url": "https://kolnovel.com/wp-content/uploads/2025/12/file_000000005ff481f483b5f5169a41cb01-125x150.webp",
-    "type": "رواية",
-    "is_novel": true,
-    "rating": "",
-    "total_chapters": 24,
-    "genres": [
-      "خيال علمي",
-      "رعب",
-      "سحر",
-      "غموض",
-      "مغامرة"
     ],
     "status": "مستمر"
   },
@@ -1731,6 +1676,59 @@
       "غموض",
       "مؤامرة",
       "ماساة",
+      "نفسي"
+    ],
+    "status": "مستمر"
+  },
+  {
+    "id": "ReForm: The Nobody",
+    "title": "ReForm: The Nobody",
+    "url": "https://kolnovel.com/series/reform-the-nobody",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2021/12/5972441263a9514c39309138784a6c69-01_1.jpg",
+    "type": "رواية",
+    "is_novel": true,
+    "rating": "",
+    "total_chapters": 1,
+    "genres": [
+      "كوميدي",
+      "مأساوي"
+    ],
+    "status": "مستمر"
+  },
+  {
+    "id": "ملحمة سليل الخوف",
+    "title": "ملحمة سليل الخوف",
+    "url": "https://kolnovel.com/series/%d9%85%d9%84%d8%ad%d9%85%d8%a9-%d8%b3%d9%84%d9%8a%d9%84-%d8%a7%d9%84%d8%ae%d9%88%d9%81",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2025/12/file_000000005ff481f483b5f5169a41cb01-125x150.webp",
+    "type": "رواية",
+    "is_novel": true,
+    "rating": "",
+    "total_chapters": 24,
+    "genres": [
+      "خيال علمي",
+      "رعب",
+      "سحر",
+      "غموض",
+      "مغامرة"
+    ],
+    "status": "مستمر"
+  },
+  {
+    "id": "انبعاث الخوارق",
+    "title": "انبعاث الخوارق",
+    "url": "https://kolnovel.com/series/%d8%a7%d9%86%d8%a8%d8%b9%d8%a7%d8%ab-%d8%a7%d9%84%d8%ae%d9%88%d8%a7%d8%b1%d9%82",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2026/10/Screenshot_٢٠٢٦-١٠-١٥-٠٨-٣١-٥٠-٢٢٩_com.miui_.gallery-edit.jpg",
+    "type": "رواية",
+    "is_novel": true,
+    "rating": "",
+    "total_chapters": 24,
+    "genres": [
+      "إثارة",
+      "بقاء على قيد الحياة",
+      "خارق للطبيعة",
+      "رعب",
+      "غموض",
+      "قوى خارقة",
       "نفسي"
     ],
     "status": "مستمر"
