@@ -9,11 +9,14 @@
   "rating": "8.3",
   "genres": [
     "فانتازيا",
-    "دراما",
-    "رومانسي"
+    "رومانسي",
+    "دراما"
   ],
   "is_novel": false,
   "chapters": {
+    "https://azorafly.com/series/i-only-need-the-duke's-child1/chapter-35": {
+      "name": "35"
+    },
     "https://azorafly.com/series/i-only-need-the-duke's-child1/chapter-34": {
       "name": "34"
     },

@@ -6,15 +6,18 @@
   "type": "مانهوا",
   "status": "مكتمل",
   "last_update": "2026-10-13",
-  "rating": "9.7",
+  "rating": "9.8",
   "genres": [
-    "كوميدي",
-    "رومانسي",
     "شوجو",
-    "فنتازيا"
+    "كوميدي",
+    "فنتازيا",
+    "رومانسي"
   ],
   "is_novel": false,
   "chapters": {
+    "https://azorafly.com/series/what-kind-of-divorce-is-this-when-were-not-even-married-your/chapter-86": {
+      "name": "86"
+    },
     "https://azorafly.com/series/what-kind-of-divorce-is-this-when-were-not-even-married-your/chapter-85": {
       "name": "85"
     },

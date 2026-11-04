@@ -10,11 +10,14 @@
   "genres": [
     "رومانسي",
     "تاريخي",
-    "دراما",
-    "كوميدي"
+    "كوميدي",
+    "دراما"
   ],
   "is_novel": false,
   "chapters": {
+    "https://azorafly.com/series/the-heroine's-sister-in-law-in-a-childcare-story/chapter-37": {
+      "name": "37"
+    },
     "https://azorafly.com/series/the-heroine's-sister-in-law-in-a-childcare-story/chapter-36": {
       "name": "36"
     },
