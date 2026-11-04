@@ -1,50 +1,5 @@
 [
   {
-    "id": "its-a-rabbit-anyone-can-see-that-its-a-beast",
-    "title": "It's a rabbit. Anyone can see that it's a beast",
-    "url": "https://azorafly.com/series/its-a-rabbit-anyone-can-see-that-its-a-beast",
-    "cover_url": "https://storage.azorafly.com/2025/04/6b3e4f5f-f78e-45ac-a6e2-371317e4708a.jpg",
-    "type": "مانهوا",
-    "status": "مستمر",
-    "rating": "9.2",
-    "total_chapters": 73,
-    "genres": [
-      "كوميدي",
-      "خيال",
-      "رومانسي"
-    ]
-  },
-  {
-    "id": "marquis-maron",
-    "title": "Marquis Maron",
-    "url": "https://azorafly.com/series/marquis-maron",
-    "cover_url": "https://storage.azorafly.com/upload/series/featured/oGmL0DQZ16QInTPaeDKwFEK9ryegoy88/03c07015-1901-4e0f-977c-53fa6413c576.jpg",
-    "type": "مانهوا",
-    "status": "مستمر",
-    "rating": "9.1",
-    "total_chapters": 58,
-    "genres": [
-      "دراما",
-      "رومانسي"
-    ]
-  },
-  {
-    "id": "i-thought-you-were-a-time-limited-husband",
-    "title": "I Thought You Were A Time-Limited Husband",
-    "url": "https://azorafly.com/series/i-thought-you-were-a-time-limited-husband",
-    "cover_url": "https://storage.azorafly.com/upload/series/featured/b00a38e1-1b46-478b-80f0-5d1a7feed33f/9a2233e0-ad44-4471-ae64-e4fb5235ba2f.jpg",
-    "type": "مانهوا",
-    "status": "مستمر",
-    "rating": "8.8",
-    "total_chapters": 95,
-    "genres": [
-      "دراما",
-      "فنتازيا",
-      "شوجو",
-      "رومانسي"
-    ]
-  },
-  {
     "id": "i-think-i-have-transmigrated-somewhere",
     "title": "I Think I Have Transmigrated Somewhere",
     "url": "https://azorafly.com/series/i-think-i-have-transmigrated-somewhere",
@@ -2862,27 +2817,6 @@
     "rating": "10.0"
   },
   {
-    "id": "i-will-try-to-raise-my-enemy",
-    "title": "I Will Try to Raise My Enemy",
-    "url": "https://azorafly.com/series/i-will-try-to-raise-my-enemy",
-    "cover_url": "https://storage.azorafly.com/upload/series/featured/a5vVlSc5huft2AzUyK1VxgKh1ckCWLbZ/23ec4a56-75bd-4864-ad3e-d1c3a3b5f516.jpg",
-    "type": "مانهوا",
-    "total_chapters": 0,
-    "genres": [
-      "مصاصي الدماء",
-      "هوس",
-      "فرق عمر",
-      "خيال",
-      "كوميدي",
-      "دراما",
-      "رومانسي",
-      "بطلة أكبر من البطل",
-      "بدون تجسيد"
-    ],
-    "status": "مستمر",
-    "rating": "10.0"
-  },
-  {
     "id": "i-will-pay-the-price-for-deceiving-you-with-my-life",
     "title": "I Will Pay the Price for Deceiving You With My Life",
     "url": "https://azorafly.com/series/i-will-pay-the-price-for-deceiving-you-with-my-life",
@@ -2955,8 +2889,8 @@
     "genres": [
       "فانتازيا",
       "كوميدي",
-      "دراما",
-      "رومانسي"
+      "رومانسي",
+      "دراما"
     ]
   },
   {
@@ -3098,8 +3032,8 @@
     "genres": [
       "فانتازيا",
       "كوميدي",
-      "دراما",
-      "رومانسي"
+      "رومانسي",
+      "دراما"
     ]
   },
   {
@@ -3149,6 +3083,121 @@
       "شوجو",
       "فانتازيا",
       "كوميدي"
+    ]
+  },
+  {
+    "id": "the-dark-magician-transmigrates-after-66666-years",
+    "title": "The Dark Magician Transmigrates After 66666 Years",
+    "url": "https://azorafly.com/series/the-dark-magician-transmigrates-after-66666-years",
+    "cover_url": "https://storage.azorafly.com/2021/06/6666666666_dark.png",
+    "type": "مانهوا",
+    "status": "مستمر",
+    "rating": "9.0",
+    "total_chapters": 205,
+    "genres": [
+      "اسبوعي",
+      "إثارة",
+      "إعادة إحياء",
+      "سحر",
+      "أكشن",
+      "تاريخي",
+      "مميز",
+      "خيال"
+    ]
+  },
+  {
+    "id": "the-ghost-duchess",
+    "title": "The Ghost Duchess",
+    "url": "https://azorafly.com/series/the-ghost-duchess",
+    "cover_url": "https://storage.azorafly.com/2025/10/IMG_20251004_121242_686.webp",
+    "type": "مانهوا",
+    "status": "مستمر",
+    "rating": "9.4",
+    "total_chapters": 44,
+    "genres": [
+      "رومانسي",
+      "غموض"
+    ]
+  },
+  {
+    "id": "at-the-abyss-of-fall-i-find-you",
+    "title": "At the Abyss of Fall, I Find You",
+    "url": "https://azorafly.com/series/at-the-abyss-of-fall-i-find-you",
+    "cover_url": "https://storage.azorafly.com/upload/series/featured/02408b52-85d5-445d-9e5c-f7dbcd583bf8/b1810465-e38b-4429-ac3a-985b23da8af5.jpg",
+    "type": "مانهوا",
+    "status": "مستمر",
+    "rating": "8.6",
+    "total_chapters": 29,
+    "genres": [
+      "فانتازيا",
+      "رومانسي",
+      "دراما"
+    ]
+  },
+  {
+    "id": "i-will-try-to-raise-my-enemy",
+    "title": "I Will Try to Raise My Enemy",
+    "url": "https://azorafly.com/series/i-will-try-to-raise-my-enemy",
+    "cover_url": "https://storage.azorafly.com/upload/series/featured/a5vVlSc5huft2AzUyK1VxgKh1ckCWLbZ/23ec4a56-75bd-4864-ad3e-d1c3a3b5f516.jpg",
+    "type": "رواية",
+    "total_chapters": 2,
+    "genres": [
+      "فرق عمر",
+      "هوس",
+      "مصاصي الدماء",
+      "خيال",
+      "كوميدي",
+      "بطلة أكبر من البطل",
+      "بدون تجسيد",
+      "رومانسي",
+      "دراما"
+    ],
+    "status": "مستمر",
+    "rating": "10.0"
+  },
+  {
+    "id": "its-a-rabbit-anyone-can-see-that-its-a-beast",
+    "title": "It's a rabbit. Anyone can see that it's a beast",
+    "url": "https://azorafly.com/series/its-a-rabbit-anyone-can-see-that-its-a-beast",
+    "cover_url": "https://storage.azorafly.com/2025/04/6b3e4f5f-f78e-45ac-a6e2-371317e4708a.jpg",
+    "type": "مانهوا",
+    "status": "مستمر",
+    "rating": "9.2",
+    "total_chapters": 73,
+    "genres": [
+      "كوميدي",
+      "خيال",
+      "رومانسي"
+    ]
+  },
+  {
+    "id": "marquis-maron",
+    "title": "Marquis Maron",
+    "url": "https://azorafly.com/series/marquis-maron",
+    "cover_url": "https://storage.azorafly.com/upload/series/featured/oGmL0DQZ16QInTPaeDKwFEK9ryegoy88/03c07015-1901-4e0f-977c-53fa6413c576.jpg",
+    "type": "مانهوا",
+    "status": "مستمر",
+    "rating": "9.1",
+    "total_chapters": 58,
+    "genres": [
+      "دراما",
+      "رومانسي"
+    ]
+  },
+  {
+    "id": "i-thought-you-were-a-time-limited-husband",
+    "title": "I Thought You Were A Time-Limited Husband",
+    "url": "https://azorafly.com/series/i-thought-you-were-a-time-limited-husband",
+    "cover_url": "https://storage.azorafly.com/upload/series/featured/b00a38e1-1b46-478b-80f0-5d1a7feed33f/9a2233e0-ad44-4471-ae64-e4fb5235ba2f.jpg",
+    "type": "مانهوا",
+    "status": "مستمر",
+    "rating": "8.8",
+    "total_chapters": 95,
+    "genres": [
+      "دراما",
+      "فنتازيا",
+      "شوجو",
+      "رومانسي"
     ]
   },
   {
@@ -3328,26 +3377,6 @@
       "شوجو",
       "رومانسي",
       "خيال"
-    ]
-  },
-  {
-    "id": "the-dark-magician-transmigrates-after-66666-years",
-    "title": "The Dark Magician Transmigrates After 66666 Years",
-    "url": "https://azorafly.com/series/the-dark-magician-transmigrates-after-66666-years",
-    "cover_url": "https://storage.azorafly.com/2021/06/6666666666_dark.png",
-    "type": "مانهوا",
-    "status": "مستمر",
-    "rating": "9.0",
-    "total_chapters": 204,
-    "genres": [
-      "اسبوعي",
-      "سحر",
-      "تاريخي",
-      "إثارة",
-      "إعادة إحياء",
-      "مميز",
-      "خيال",
-      "أكشن"
     ]
   },
   {
@@ -5544,20 +5573,6 @@
     ]
   },
   {
-    "id": "the-ghost-duchess",
-    "title": "The Ghost Duchess",
-    "url": "https://azorafly.com/series/the-ghost-duchess",
-    "cover_url": "https://storage.azorafly.com/2025/10/IMG_20251004_121242_686.webp",
-    "type": "مانهوا",
-    "status": "مستمر",
-    "rating": "9.4",
-    "total_chapters": 43,
-    "genres": [
-      "رومانسي",
-      "غموض"
-    ]
-  },
-  {
     "id": "surviving-as-a-discarded-extra",
     "title": "Surviving as a Discarded Extra",
     "url": "https://azorafly.com/series/surviving-as-a-discarded-extra",
@@ -6479,21 +6494,6 @@
       "دراما",
       "رومانسي",
       "كوميدي"
-    ]
-  },
-  {
-    "id": "at-the-abyss-of-fall-i-find-you",
-    "title": "At the Abyss of Fall, I Find You",
-    "url": "https://azorafly.com/series/at-the-abyss-of-fall-i-find-you",
-    "cover_url": "https://storage.azorafly.com/upload/series/featured/02408b52-85d5-445d-9e5c-f7dbcd583bf8/b1810465-e38b-4429-ac3a-985b23da8af5.jpg",
-    "type": "مانهوا",
-    "status": "مستمر",
-    "rating": "8.6",
-    "total_chapters": 28,
-    "genres": [
-      "دراما",
-      "فانتازيا",
-      "رومانسي"
     ]
   },
   {

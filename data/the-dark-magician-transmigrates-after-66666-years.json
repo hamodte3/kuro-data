@@ -9,16 +9,19 @@
   "rating": "9.0",
   "genres": [
     "اسبوعي",
-    "سحر",
-    "تاريخي",
     "إثارة",
     "إعادة إحياء",
+    "سحر",
+    "أكشن",
+    "تاريخي",
     "مميز",
-    "خيال",
-    "أكشن"
+    "خيال"
   ],
   "is_novel": false,
   "chapters": {
+    "https://azorafly.com/series/the-dark-magician-transmigrates-after-66666-years/chapter-205": {
+      "name": "205"
+    },
     "https://azorafly.com/series/the-dark-magician-transmigrates-after-66666-years/chapter-204": {
       "name": "204"
     },
