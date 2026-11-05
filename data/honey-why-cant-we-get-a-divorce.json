@@ -6,15 +6,18 @@
   "type": "مانهوا",
   "status": "مستمر",
   "last_update": "2026-06-29",
-  "rating": "9.6",
+  "rating": "9.5",
   "genres": [
     "خيالي",
     "شوجو",
-    "رومانسي",
-    "كوميدي"
+    "كوميدي",
+    "رومانسي"
   ],
   "is_novel": false,
   "chapters": {
+    "https://azorafly.com/series/honey-why-cant-we-get-a-divorce/chapter-109": {
+      "name": "109"
+    },
     "https://azorafly.com/series/honey-why-cant-we-get-a-divorce/chapter-108": {
       "name": "108"
     },

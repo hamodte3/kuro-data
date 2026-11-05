@@ -9,11 +9,14 @@
   "rating": "10.0",
   "genres": [
     "خيالي",
-    "دراما",
-    "رومانسي"
+    "رومانسي",
+    "دراما"
   ],
   "is_novel": false,
   "chapters": {
+    "https://azorafly.com/series/i-will-buy-divine-power-with-money/chapter-58": {
+      "name": "58"
+    },
     "https://azorafly.com/series/i-will-buy-divine-power-with-money/chapter-57": {
       "name": "57"
     },

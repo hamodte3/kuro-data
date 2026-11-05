@@ -8,14 +8,17 @@
   "last_update": "2026-05-07",
   "rating": "10.0",
   "genres": [
-    "مأساوي",
     "عصري",
+    "مأساوي",
     "هوس",
     "تشويق",
     "رومانسي"
   ],
   "is_novel": false,
   "chapters": {
+    "https://azorafly.com/series/love-obsession-syndrome/chapter-50": {
+      "name": "50"
+    },
     "https://azorafly.com/series/love-obsession-syndrome/chapter-49": {
       "name": "49"
     },

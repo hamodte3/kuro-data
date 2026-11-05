@@ -6,15 +6,18 @@
   "type": "مانهوا",
   "status": "مستمر",
   "last_update": "2026-09-14",
-  "rating": "9.7",
+  "rating": "9.6",
   "genres": [
     "انتقام",
-    "دراما",
+    "فانتازيا",
     "رومانسي",
-    "فانتازيا"
+    "دراما"
   ],
   "is_novel": false,
   "chapters": {
+    "https://azorafly.com/series/now-it's-your-turn-to-regret/chapter-19": {
+      "name": "19"
+    },
     "https://azorafly.com/series/now-it's-your-turn-to-regret/chapter-18": {
       "name": "18"
     },

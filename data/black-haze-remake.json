@@ -10,12 +10,15 @@
   "genres": [
     "مغامرة",
     "كوميدي",
-    "أكشن",
     "خيال",
-    "دراما"
+    "دراما",
+    "أكشن"
   ],
   "is_novel": false,
   "chapters": {
+    "https://azorafly.com/series/black-haze-remake/chapter-97": {
+      "name": "97"
+    },
     "https://azorafly.com/series/black-haze-remake/chapter-96": {
       "name": "96"
     },
