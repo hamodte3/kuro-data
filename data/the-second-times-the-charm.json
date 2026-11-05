@@ -6,12 +6,15 @@
   "type": "مانهوا",
   "status": "مستمر",
   "last_update": "2026-10-24",
-  "rating": "9.5",
+  "rating": "9.6",
   "genres": [
     "رومانسي"
   ],
   "is_novel": false,
   "chapters": {
+    "https://azorafly.com/series/the-second-times-the-charm/chapter-40": {
+      "name": "40"
+    },
     "https://azorafly.com/series/the-second-times-the-charm/chapter-39": {
       "name": "39"
     },

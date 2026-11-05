@@ -1,46 +1,5 @@
 [
   {
-    "id": "cry-or-better-yet-beg",
-    "title": "Cry or Better Yet Beg",
-    "url": "https://azorafly.com/series/cry-or-better-yet-beg",
-    "cover_url": "https://storage.azorafly.com/2024/08/cry.webp",
-    "type": "مانهوا",
-    "status": "مستمر",
-    "rating": "6.8",
-    "total_chapters": 92,
-    "genres": [
-      "خيال",
-      "دراما",
-      "رومانسي",
-      "مأساة",
-      "تاريخي"
-    ]
-  },
-  {
-    "id": "thats-not-what-my-will-said",
-    "title": "That's Not What My Will Said",
-    "url": "https://azorafly.com/series/thats-not-what-my-will-said",
-    "cover_url": "https://storage.azorafly.com/public/upload/series/featured/02408b52-85d5-445d-9e5c-f7dbcd583bf8/3e97fe65-b467-4035-8bca-dd8b70fffbfd.jpg",
-    "type": "مانهوا",
-    "status": "مستمر",
-    "rating": "8.8",
-    "total_chapters": 61,
-    "genres": [
-      "خيال",
-      "رومانسي",
-      "فانتازيا"
-    ]
-  },
-  {
-    "id": "fall-for-me",
-    "title": "Fall for Me",
-    "url": "https://azorafly.com/series/fall-for-me",
-    "cover_url": "https://storage.azorafly.com/upload/series/featured/02408b52-85d5-445d-9e5c-f7dbcd583bf8/114947a3-86f8-4356-b511-be30ef7067dd.webp",
-    "type": "مانهوا",
-    "total_chapters": 0,
-    "genres": []
-  },
-  {
     "id": "peach-heart",
     "title": "Peach Heart",
     "url": "https://azorafly.com/series/peach-heart",
@@ -2964,7 +2923,7 @@
     "cover_url": "https://storage.azorafly.com/upload/series/featured/02408b52-85d5-445d-9e5c-f7dbcd583bf8/02548fb7-7ed8-47d4-81e0-05d0b69a79ae.jpg",
     "type": "مانهوا",
     "status": "مستمر",
-    "rating": "9.6",
+    "rating": "9.5",
     "total_chapters": 43,
     "genres": [
       "مانهوا",
@@ -3125,7 +3084,7 @@
     "cover_url": "https://storage.azorafly.com/upload/series/featured/b00a38e1-1b46-478b-80f0-5d1a7feed33f/9a2233e0-ad44-4471-ae64-e4fb5235ba2f.jpg",
     "type": "مانهوا",
     "status": "مستمر",
-    "rating": "8.4",
+    "rating": "8.5",
     "total_chapters": 96,
     "genres": [
       "شوجو",
@@ -3168,6 +3127,95 @@
       "رومانسي",
       "دراما"
     ]
+  },
+  {
+    "id": "the-second-times-the-charm",
+    "title": "The Second Time's the Charm",
+    "url": "https://azorafly.com/series/the-second-times-the-charm",
+    "cover_url": "https://storage.azorafly.com/upload/series/featured/oGmL0DQZ16QInTPaeDKwFEK9ryegoy88/0dccb745-799e-48d2-a55d-614cc8abf1ac.webp",
+    "type": "مانهوا",
+    "status": "مستمر",
+    "rating": "9.6",
+    "total_chapters": 40,
+    "genres": [
+      "رومانسي"
+    ]
+  },
+  {
+    "id": "my-husband-and-i-cannot-live-in-the-same-world",
+    "title": "My Husband and I Cannot Live in the Same World",
+    "url": "https://azorafly.com/series/my-husband-and-i-cannot-live-in-the-same-world",
+    "cover_url": "https://storage.azorafly.com/upload/series/featured/02408b52-85d5-445d-9e5c-f7dbcd583bf8/79d57a90-a7cc-4edf-a40d-96cb2c033c13.jpg",
+    "type": "مانهوا",
+    "status": "مستمر",
+    "rating": "8.1",
+    "total_chapters": 47,
+    "genres": [
+      "قصة قصيرة",
+      "أصدقاء طفولة",
+      "سوء فهم",
+      "مأساة",
+      "الحب الأول",
+      "رومانسي",
+      "إثارة",
+      "دراما"
+    ]
+  },
+  {
+    "id": "shadow-slave",
+    "title": "Shadow Slave",
+    "url": "https://azorafly.com/series/shadow-slave",
+    "cover_url": "https://storage.azorafly.com/upload/series/featured/6cac1de1-87ae-4a81-9cd1-2abe99fd84d7/529a28aa-4cda-427e-ad38-535bee166e41.png",
+    "type": "مانهوا",
+    "status": "مستمر",
+    "rating": "8.9",
+    "total_chapters": 16,
+    "genres": [
+      "اكشن",
+      "خيال",
+      "دراما"
+    ]
+  },
+  {
+    "id": "cry-or-better-yet-beg",
+    "title": "Cry or Better Yet Beg",
+    "url": "https://azorafly.com/series/cry-or-better-yet-beg",
+    "cover_url": "https://storage.azorafly.com/2024/08/cry.webp",
+    "type": "مانهوا",
+    "status": "مستمر",
+    "rating": "6.8",
+    "total_chapters": 92,
+    "genres": [
+      "خيال",
+      "دراما",
+      "رومانسي",
+      "مأساة",
+      "تاريخي"
+    ]
+  },
+  {
+    "id": "thats-not-what-my-will-said",
+    "title": "That's Not What My Will Said",
+    "url": "https://azorafly.com/series/thats-not-what-my-will-said",
+    "cover_url": "https://storage.azorafly.com/public/upload/series/featured/02408b52-85d5-445d-9e5c-f7dbcd583bf8/3e97fe65-b467-4035-8bca-dd8b70fffbfd.jpg",
+    "type": "مانهوا",
+    "status": "مستمر",
+    "rating": "8.8",
+    "total_chapters": 61,
+    "genres": [
+      "خيال",
+      "رومانسي",
+      "فانتازيا"
+    ]
+  },
+  {
+    "id": "fall-for-me",
+    "title": "Fall for Me",
+    "url": "https://azorafly.com/series/fall-for-me",
+    "cover_url": "https://storage.azorafly.com/upload/series/featured/02408b52-85d5-445d-9e5c-f7dbcd583bf8/114947a3-86f8-4356-b511-be30ef7067dd.webp",
+    "type": "مانهوا",
+    "total_chapters": 0,
+    "genres": []
   },
   {
     "id": "villain-familys-strongest-butler",
@@ -5111,21 +5159,6 @@
     ]
   },
   {
-    "id": "shadow-slave",
-    "title": "Shadow Slave",
-    "url": "https://azorafly.com/series/shadow-slave",
-    "cover_url": "https://storage.azorafly.com/upload/series/featured/6cac1de1-87ae-4a81-9cd1-2abe99fd84d7/529a28aa-4cda-427e-ad38-535bee166e41.png",
-    "type": "مانهوا",
-    "status": "مستمر",
-    "rating": "9.3",
-    "total_chapters": 12,
-    "genres": [
-      "اكشن",
-      "خيال",
-      "دراما"
-    ]
-  },
-  {
     "id": "i-married-the-dragon-i-killed-novel",
     "title": "I Married the Dragon I Killed",
     "url": "https://azorafly.com/series/i-married-the-dragon-i-killed-novel",
@@ -5416,19 +5449,6 @@
     "rating": "9.5"
   },
   {
-    "id": "the-second-times-the-charm",
-    "title": "The Second Time's the Charm",
-    "url": "https://azorafly.com/series/the-second-times-the-charm",
-    "cover_url": "https://storage.azorafly.com/upload/series/featured/oGmL0DQZ16QInTPaeDKwFEK9ryegoy88/0dccb745-799e-48d2-a55d-614cc8abf1ac.webp",
-    "type": "مانهوا",
-    "status": "مستمر",
-    "rating": "9.5",
-    "total_chapters": 39,
-    "genres": [
-      "رومانسي"
-    ]
-  },
-  {
     "id": "dare-i-hope",
     "title": "Dare I Hope",
     "url": "https://azorafly.com/series/dare-i-hope",
@@ -5568,26 +5588,6 @@
       "بدون تجسيد",
       "خيال",
       "مدرسي",
-      "دراما"
-    ]
-  },
-  {
-    "id": "my-husband-and-i-cannot-live-in-the-same-world",
-    "title": "My Husband and I Cannot Live in the Same World",
-    "url": "https://azorafly.com/series/my-husband-and-i-cannot-live-in-the-same-world",
-    "cover_url": "https://storage.azorafly.com/upload/series/featured/02408b52-85d5-445d-9e5c-f7dbcd583bf8/79d57a90-a7cc-4edf-a40d-96cb2c033c13.jpg",
-    "type": "مانهوا",
-    "status": "مستمر",
-    "rating": "8.1",
-    "total_chapters": 45,
-    "genres": [
-      "قصة قصيرة",
-      "أصدقاء طفولة",
-      "إثارة",
-      "الحب الأول",
-      "مأساة",
-      "سوء فهم",
-      "رومانسي",
       "دراما"
     ]
   },
