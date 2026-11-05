@@ -9,12 +9,15 @@
   "rating": "8.9",
   "genres": [
     "مانهوا",
-    "دراما",
+    "فانتازيا",
     "رومانسي",
-    "فانتازيا"
+    "دراما"
   ],
   "is_novel": false,
   "chapters": {
+    "https://azorafly.com/series/i-saved-you-but-im-not-responsible/chapter-86": {
+      "name": "86"
+    },
     "https://azorafly.com/series/i-saved-you-but-im-not-responsible/chapter-85": {
       "name": "85"
     },

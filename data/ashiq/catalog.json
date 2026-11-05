@@ -3121,7 +3121,7 @@
     "id": "dr-stone-4d-science",
     "title": "Dr. Stone: 4D Science",
     "url": "https://3asq.online/manga/dr-stone-4d-science",
-    "cover_url": "https://3asq.online/wp-content/uploads/2023/12/00.jpg",
+    "cover_url": "https://3asq.online/wp-content/uploads/2023/12/00.jpg.webp",
     "type": "مانغا",
     "rating": "4.2",
     "total_chapters": 1,
@@ -5336,23 +5336,6 @@
     "status": "مكتمل"
   },
   {
-    "id": "baki-rahen",
-    "title": "Baki Rahen",
-    "url": "https://3asq.online/manga/baki-rahen",
-    "cover_url": "https://3asq.online/wp-content/uploads/2025/07/Baki-Rahen-asq-hero-480-v2.webp",
-    "type": "مانغا",
-    "rating": "4.4",
-    "total_chapters": 50,
-    "genres": [
-      "أكشن",
-      "دراما",
-      "رياضة",
-      "شونين",
-      "فنون قتالية"
-    ],
-    "status": "مستمر"
-  },
-  {
     "id": "one-punch-man",
     "title": "One Punch Man",
     "url": "https://3asq.online/manga/one-punch-man",
@@ -6745,6 +6728,23 @@
       "خيال",
       "غموض",
       "مأساة"
+    ],
+    "status": "مستمر"
+  },
+  {
+    "id": "baki-rahen",
+    "title": "Baki Rahen",
+    "url": "https://3asq.online/manga/baki-rahen",
+    "cover_url": "https://3asq.online/wp-content/uploads/2025/07/Baki-Rahen-1-480x691.jpg.webp",
+    "type": "مانغا",
+    "rating": "4.4",
+    "total_chapters": 50,
+    "genres": [
+      "أكشن",
+      "دراما",
+      "رياضة",
+      "شونين",
+      "فنون قتالية"
     ],
     "status": "مستمر"
   }

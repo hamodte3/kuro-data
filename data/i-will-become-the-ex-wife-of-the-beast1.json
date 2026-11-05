@@ -6,18 +6,37 @@
   "type": "رواية",
   "status": "مستمر",
   "last_update": "2026-11-03",
-  "rating": "10.0",
+  "rating": "9.5",
   "genres": [
     "عائلي",
     "هوس",
+    "تجسيد",
+    "رعاية أطفال",
+    "سوء فهم",
     "تاريخي",
     "رومانسي",
-    "كوميدي",
-    "رعاية أطفال",
-    "تجسيد",
-    "سوء فهم",
-    "خيال"
+    "خيال",
+    "كوميدي"
   ],
   "is_novel": false,
-  "chapters": {}
+  "chapters": {
+    "https://azorafly.com/series/i-will-become-the-ex-wife-of-the-beast1/chapter-6": {
+      "name": "6"
+    },
+    "https://azorafly.com/series/i-will-become-the-ex-wife-of-the-beast1/chapter-5": {
+      "name": "5"
+    },
+    "https://azorafly.com/series/i-will-become-the-ex-wife-of-the-beast1/chapter-4": {
+      "name": "4"
+    },
+    "https://azorafly.com/series/i-will-become-the-ex-wife-of-the-beast1/chapter-3": {
+      "name": "3"
+    },
+    "https://azorafly.com/series/i-will-become-the-ex-wife-of-the-beast1/chapter-2": {
+      "name": "2"
+    },
+    "https://azorafly.com/series/i-will-become-the-ex-wife-of-the-beast1/chapter-1": {
+      "name": "1"
+    }
+  }
 }
