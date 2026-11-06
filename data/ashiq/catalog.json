@@ -218,7 +218,7 @@
     "url": "https://3asq.online/manga/black-clover",
     "cover_url": "https://3asq.online/wp-content/uploads/2019/04/166254l.jpg",
     "type": "مانغا",
-    "rating": "4.4",
+    "rating": "4.5",
     "total_chapters": 19,
     "genres": [
       "أكشن",
@@ -6114,7 +6114,7 @@
     "cover_url": "https://3asq.online/wp-content/uploads/2026/03/02-scaled.jpg",
     "type": "مانها",
     "rating": "4.8",
-    "total_chapters": 24,
+    "total_chapters": 25,
     "genres": [
       "أكشن",
       "تاريخ",
@@ -6701,22 +6701,6 @@
     "status": "مستمر"
   },
   {
-    "id": "vanitas-no-carte",
-    "title": "Vanitas no Carte",
-    "url": "https://3asq.online/manga/vanitas-no-carte",
-    "cover_url": "https://3asq.online/wp-content/uploads/2020/07/2-asq-hero-480-v2.webp",
-    "type": "مانغا",
-    "rating": "4.5",
-    "total_chapters": 7,
-    "genres": [
-      "خارق للطبيعة",
-      "خيال",
-      "غموض",
-      "مأساة"
-    ],
-    "status": "مستمر"
-  },
-  {
     "id": "baki-rahen",
     "title": "Baki Rahen",
     "url": "https://3asq.online/manga/baki-rahen",
@@ -6745,6 +6729,22 @@
       "أكشن",
       "فنون قتالية",
       "مدرسة"
+    ],
+    "status": "مستمر"
+  },
+  {
+    "id": "vanitas-no-carte",
+    "title": "Vanitas no Carte",
+    "url": "https://3asq.online/manga/vanitas-no-carte",
+    "cover_url": "https://3asq.online/wp-content/uploads/2020/07/2-asq-hero-480-v2.webp",
+    "type": "مانغا",
+    "rating": "4.5",
+    "total_chapters": 7,
+    "genres": [
+      "خارق للطبيعة",
+      "خيال",
+      "غموض",
+      "مأساة"
     ],
     "status": "مستمر"
   }

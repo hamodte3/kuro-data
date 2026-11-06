@@ -10,11 +10,14 @@
   "genres": [
     "اكشن",
     "فنتازيا",
-    "غموض",
-    "مغامرات"
+    "مغامرات",
+    "غموض"
   ],
   "is_novel": false,
   "chapters": {
+    "https://azorafly.com/series/the-seventh-prince-wants-to-bail/chapter-29": {
+      "name": "29"
+    },
     "https://azorafly.com/series/the-seventh-prince-wants-to-bail/chapter-28": {
       "name": "28"
     },

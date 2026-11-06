@@ -5,18 +5,24 @@
   "description": "يونغ وو شين ، اسم مستخدم الشبكة\n\nفي أفضل لعبة تجسد الواقع الافتراضي التي تسمى (ساتسفاي) يدور سوء الحظ دائمًا حوله.\n\nلكنه عثر على وظيفة خلال مهمة ، وهي أقوى وظيفة أسطورية من بين أكثر من 2 مليار لاعب!",
   "type": "مانهوا",
   "status": "مستمر",
-  "last_update": "2026-05-07",
+  "last_update": "2026-10-26",
   "rating": "9.8",
   "genres": [
     "اسبوعي",
     "ويبتون",
     "مميز",
-    "كوميدي",
     "مغامرات",
-    "أكشن"
+    "أكشن",
+    "كوميدي"
   ],
   "is_novel": false,
   "chapters": {
+    "https://azorafly.com/series/overgeared-12/chapter-347": {
+      "name": "347"
+    },
+    "https://azorafly.com/series/overgeared-12/chapter-346": {
+      "name": "346"
+    },
     "https://azorafly.com/series/overgeared-12/chapter-345": {
       "name": "345"
     },
