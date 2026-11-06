@@ -1039,23 +1039,6 @@
     "status": "مستمر"
   },
   {
-    "id": "كتاب المئة حياة",
-    "title": "كتاب المئة حياة",
-    "url": "https://kolnovel.com/series/%d9%83%d8%aa%d8%a7%d8%a8-%d8%a7%d9%84%d9%85%d8%a6%d8%a9-%d8%ad%d9%8a%d8%a7%d8%a9",
-    "cover_url": "https://kolnovel.com/wp-content/uploads/2026/08/بدون-اسم124_20260822084136.png",
-    "type": "رواية",
-    "is_novel": true,
-    "rating": "",
-    "total_chapters": 51,
-    "genres": [
-      "أكشن",
-      "تناسخ",
-      "خيال",
-      "زراعة"
-    ],
-    "status": "مستمر"
-  },
-  {
     "id": "كيف أعاد بطل واقعي بناء المملكة",
     "title": "كيف أعاد بطل واقعي بناء المملكة",
     "url": "https://kolnovel.com/series/%d9%83%d9%8a%d9%81-%d8%a3%d8%b9%d8%a7%d8%af-%d8%a8%d8%b7%d9%84-%d9%88%d8%a7%d9%82%d8%b9%d9%8a-%d8%a8%d9%86%d8%a7%d8%a1-%d8%a7%d9%84%d9%85%d9%85%d9%84%d9%83%d8%a9",
@@ -1345,16 +1328,13 @@
     "cover_url": "https://kolnovel.com/wp-content/uploads/2025/07/بدون-اسم67_20260622033133.png",
     "type": "رواية",
     "is_novel": true,
-    "rating": "",
+    "rating": "8.5",
     "total_chapters": 24,
     "genres": [
       "أكشن",
       "خيال",
       "سينن",
-      "شيانشيا",
-      "غموض",
-      "فنون قتال",
-      "مغامرة"
+      "شيانشيا"
     ],
     "status": "مستمر"
   },
@@ -1734,6 +1714,25 @@
       "دراما",
       "سحر",
       "مغامرة"
+    ],
+    "status": "مستمر"
+  },
+  {
+    "id": "كتاب المئة حياة",
+    "title": "كتاب المئة حياة",
+    "url": "https://kolnovel.com/series/%d9%83%d8%aa%d8%a7%d8%a8-%d8%a7%d9%84%d9%85%d8%a6%d8%a9-%d8%ad%d9%8a%d8%a7%d8%a9",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2026/08/بدون-اسم124_20260822084136.png",
+    "type": "رواية",
+    "is_novel": true,
+    "rating": "",
+    "total_chapters": 24,
+    "genres": [
+      "أكشن",
+      "تناسخ",
+      "خيال",
+      "زراعة",
+      "فنون قتال",
+      "نظام"
     ],
     "status": "مستمر"
   },

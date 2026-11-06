@@ -6,15 +6,18 @@
   "type": "مانهوا",
   "status": "مستمر",
   "last_update": "2026-07-29",
-  "rating": "8.4",
+  "rating": "8.6",
   "genres": [
-    "انتقام",
     "خيال",
     "رومانسي",
+    "انتقام",
     "دراما"
   ],
   "is_novel": false,
   "chapters": {
+    "https://azorafly.com/series/how-to-survive-as-the-daughter-of-the-emperor-who-killed-me/chapter-50": {
+      "name": "50"
+    },
     "https://azorafly.com/series/how-to-survive-as-the-daughter-of-the-emperor-who-killed-me/chapter-49": {
       "name": "49"
     },
