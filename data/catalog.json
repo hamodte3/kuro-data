@@ -1,82 +1,5 @@
 [
   {
-    "id": "the-duchess's-secret-dressing-room",
-    "title": "The Duchess's Secret Dressing Room",
-    "url": "https://azorafly.com/series/the-duchess's-secret-dressing-room",
-    "cover_url": "https://storage.azorafly.com/upload/series/featured/02408b52-85d5-445d-9e5c-f7dbcd583bf8/32b5d370-9555-413e-8490-628c73e41a57.jpg",
-    "type": "مانهوا",
-    "status": "مستمر",
-    "rating": "10.0",
-    "total_chapters": 29,
-    "genres": [
-      "خيال",
-      "دراما",
-      "رومانسي"
-    ]
-  },
-  {
-    "id": "miss-pendleton",
-    "title": "Miss Pendleton",
-    "url": "https://azorafly.com/series/miss-pendleton",
-    "cover_url": "https://storage.azorafly.com/upload/series/featured/2f0d0885-cadf-4561-bf7f-fef4221bfcec/b3e8566f-064b-45c2-be5a-81cae5041dde.png",
-    "type": "مانهوا",
-    "status": "مستمر",
-    "rating": "9.9",
-    "total_chapters": 76,
-    "genres": [
-      "رومانسي"
-    ]
-  },
-  {
-    "id": "regression-of-the-yong-clan-heir",
-    "title": "Regression of the Yong Clan Heir",
-    "url": "https://azorafly.com/series/regression-of-the-yong-clan-heir",
-    "cover_url": "https://storage.azorafly.com/2024/12/A21.webp",
-    "type": "مانهوا",
-    "status": "مستمر",
-    "rating": "9.0",
-    "total_chapters": 66,
-    "genres": [
-      "زمكاني",
-      "أكشن",
-      "خيال",
-      "فنون قتالية"
-    ]
-  },
-  {
-    "id": "the-flower-with-a-sword",
-    "title": "The Flower With a Sword",
-    "url": "https://azorafly.com/series/the-flower-with-a-sword",
-    "cover_url": "https://storage.azorafly.com/public/upload/2026/04/03/85f99085-fac0-4b13-97b8-5990ae2a751d.webp",
-    "type": "مانهوا",
-    "status": "مستمر",
-    "rating": "10.0",
-    "total_chapters": 65,
-    "genres": [
-      "خيالي",
-      "سحر",
-      "مغامرات",
-      "كوميدي",
-      "رومانسي"
-    ]
-  },
-  {
-    "id": "a-dragonslayers-peerless-regression",
-    "title": "A Dragonslayer's Peerless Regression",
-    "url": "https://azorafly.com/series/a-dragonslayers-peerless-regression",
-    "cover_url": "https://storage.azorafly.com/2024/12/A31.webp",
-    "type": "مانهوا",
-    "status": "مستمر",
-    "rating": "9.9",
-    "total_chapters": 109,
-    "genres": [
-      "إعادة إحياء",
-      "أكشن",
-      "فنون قتالية",
-      "فانتازيا"
-    ]
-  },
-  {
     "id": "bj-villainess",
     "title": "BJ Villainess",
     "url": "https://azorafly.com/series/bj-villainess",
@@ -2840,22 +2763,6 @@
     "rating": "9.7"
   },
   {
-    "id": "the-youngest-daughter-of-the-great-magician-of-a-famous-swordsmanship-family",
-    "title": "The Youngest Daughter of the Great Magician of a Famous Swordsmanship Family",
-    "url": "https://azorafly.com/series/the-youngest-daughter-of-the-great-magician-of-a-famous-swordsmanship-family",
-    "cover_url": "https://storage.azorafly.com/upload/series/featured/f1fef4cc-ebcb-4b26-90b6-b65fe212f932/7843960c-f5d9-44b2-a173-a1f93d68b2df.jpg",
-    "type": "مانهوا",
-    "status": "مستمر",
-    "rating": "9.7",
-    "total_chapters": 55,
-    "genres": [
-      "انتقام",
-      "عودة بالزمن",
-      "فانتازيا",
-      "رومانسي"
-    ]
-  },
-  {
     "id": "the-ruler-of-darkness",
     "title": "The Ruler Of Darkness",
     "url": "https://azorafly.com/series/the-ruler-of-darkness",
@@ -3030,8 +2937,8 @@
       "سحر",
       "كوميدي",
       "رعاية أطفال",
-      "رومانسي",
       "خيال",
+      "رومانسي",
       "دراما"
     ]
   },
@@ -3046,8 +2953,8 @@
     "total_chapters": 45,
     "genres": [
       "فانتازيا",
-      "رومانسي",
-      "تاريخي"
+      "تاريخي",
+      "رومانسي"
     ]
   },
   {
@@ -3075,11 +2982,11 @@
     "genres": [
       "رومانسى",
       "كوميدي",
-      "دراما",
-      "فنتازيا"
+      "فنتازيا",
+      "دراما"
     ],
     "status": "مستمر",
-    "rating": "9.0"
+    "rating": "9.1"
   },
   {
     "id": "baby-lynx-of-the-tiger-family",
@@ -3091,8 +2998,8 @@
     "genres": [
       "رومانسى",
       "كوميدي",
-      "دراما",
-      "فنتازيا"
+      "فنتازيا",
+      "دراما"
     ],
     "status": "مستمر",
     "rating": "9.5"
@@ -3111,9 +3018,9 @@
       "هوس",
       "سحر",
       "تجسيد",
-      "رومانسي",
       "خيال",
       "كوميدي",
+      "رومانسي",
       "دراما"
     ]
   },
@@ -3160,8 +3067,8 @@
     "rating": "9.8",
     "total_chapters": 54,
     "genres": [
-      "مانهوا",
       "أيتام",
+      "مانهوا",
       "عائلي",
       "رعاية اطفال",
       "فانتازيا",
@@ -3170,20 +3077,186 @@
     ]
   },
   {
+    "id": "face-genius-0-year-old-top-star",
+    "title": "Face Genius, 0-Year-Old Top Star",
+    "url": "https://azorafly.com/series/face-genius-0-year-old-top-star",
+    "cover_url": "https://storage.azorafly.com/upload/series/featured/02408b52-85d5-445d-9e5c-f7dbcd583bf8/f9ba9b4c-7b86-4ed5-abf3-5b86ab33ce62.jpg",
+    "type": "مانهوا",
+    "status": "مستمر",
+    "rating": "9.9",
+    "total_chapters": 77,
+    "genres": [
+      "خيال",
+      "دراما"
+    ]
+  },
+  {
+    "id": "becoming-a-family-with-the-duke-and-his-dear-son",
+    "title": "Becoming A Family With The Duke and His Dear Son",
+    "url": "https://azorafly.com/series/becoming-a-family-with-the-duke-and-his-dear-son",
+    "cover_url": "https://storage.azorafly.com/upload/series/featured/caa7019b-2ed4-4088-91c7-7a60952a092d/7f52e996-3647-4c4d-8781-2361936176c6.jpg",
+    "type": "مانهوا",
+    "status": "مكتمل",
+    "rating": "9.2",
+    "total_chapters": 90,
+    "genres": [
+      "رومانسي",
+      "دراما"
+    ]
+  },
+  {
+    "id": "i-dont-want-to-be-a-magip-bridge",
+    "title": "I don't want to be a magip bridge",
+    "url": "https://azorafly.com/series/i-dont-want-to-be-a-magip-bridge",
+    "cover_url": "https://storage.azorafly.com/upload/series/featured/55ecc86a-e082-44c7-bea8-675703397a95/7bc692bb-0bf3-41a4-b1f4-c9df58f6e7d0.png",
+    "type": "مانهوا",
+    "status": "مستمر",
+    "rating": "9.9",
+    "total_chapters": 121,
+    "genres": [
+      "حياة مدرسية",
+      "تجسيد"
+    ]
+  },
+  {
     "id": "the-first-sequence",
     "title": "First Order",
     "url": "https://azorafly.com/series/the-first-sequence",
-    "cover_url": "https://storage.azorafly.com/2021/06/0-89.jpg",
+    "cover_url": "https://storage.azorafly.com/upload/series/featured/02408b52-85d5-445d-9e5c-f7dbcd583bf8/8acf1926-23b3-41be-ab4b-ab3f9c534d98.jpeg",
     "type": "مانهوا",
     "status": "مستمر",
-    "rating": "4.0",
+    "rating": "7.0",
     "total_chapters": 3,
     "genres": [
       "مانهوا",
       "خارق للطبيعة",
-      "أكشن",
       "فنتازيا",
-      "مغامرات"
+      "مغامرات",
+      "أكشن"
+    ]
+  },
+  {
+    "id": "the-youngest-daughter-of-the-great-magician-of-a-famous-swordsmanship-family",
+    "title": "The Youngest Daughter of the Great Magician of a Famous Swordsmanship Family",
+    "url": "https://azorafly.com/series/the-youngest-daughter-of-the-great-magician-of-a-famous-swordsmanship-family",
+    "cover_url": "https://storage.azorafly.com/upload/series/featured/f1fef4cc-ebcb-4b26-90b6-b65fe212f932/7843960c-f5d9-44b2-a173-a1f93d68b2df.jpg",
+    "type": "مانهوا",
+    "status": "مستمر",
+    "rating": "9.7",
+    "total_chapters": 55,
+    "genres": [
+      "انتقام",
+      "عودة بالزمن",
+      "فانتازيا",
+      "رومانسي"
+    ]
+  },
+  {
+    "id": "you-don't-know-oppa",
+    "title": "You Don't know, Oppa",
+    "url": "https://azorafly.com/series/you-don't-know-oppa",
+    "cover_url": "https://storage.azorafly.com/upload/series/featured/a5vVlSc5huft2AzUyK1VxgKh1ckCWLbZ/57a67082-016c-493f-b26d-8ae3d993185d.jpg",
+    "type": "رواية",
+    "status": "مكتمل",
+    "rating": "10.0",
+    "total_chapters": 92,
+    "genres": [
+      "عصري",
+      "بدون تجسيد",
+      "كوميدي",
+      "رومانسي",
+      "دراما"
+    ]
+  },
+  {
+    "id": "how-a-terminally-ill-genius-survives",
+    "title": "How a terminally ill genius survives",
+    "url": "https://azorafly.com/series/how-a-terminally-ill-genius-survives",
+    "cover_url": "https://storage.azorafly.com/2024/09/91FDBB3C-A151-42FB-A2B1-9953EE970422.webp",
+    "type": "مانهوا",
+    "status": "مستمر",
+    "rating": "10.0",
+    "total_chapters": 97,
+    "genres": [
+      "فنون قتالية",
+      "أكشن"
+    ]
+  },
+  {
+    "id": "the-duchess's-secret-dressing-room",
+    "title": "The Duchess's Secret Dressing Room",
+    "url": "https://azorafly.com/series/the-duchess's-secret-dressing-room",
+    "cover_url": "https://storage.azorafly.com/upload/series/featured/02408b52-85d5-445d-9e5c-f7dbcd583bf8/32b5d370-9555-413e-8490-628c73e41a57.jpg",
+    "type": "مانهوا",
+    "status": "مستمر",
+    "rating": "10.0",
+    "total_chapters": 29,
+    "genres": [
+      "خيال",
+      "دراما",
+      "رومانسي"
+    ]
+  },
+  {
+    "id": "miss-pendleton",
+    "title": "Miss Pendleton",
+    "url": "https://azorafly.com/series/miss-pendleton",
+    "cover_url": "https://storage.azorafly.com/upload/series/featured/2f0d0885-cadf-4561-bf7f-fef4221bfcec/b3e8566f-064b-45c2-be5a-81cae5041dde.png",
+    "type": "مانهوا",
+    "status": "مستمر",
+    "rating": "9.9",
+    "total_chapters": 76,
+    "genres": [
+      "رومانسي"
+    ]
+  },
+  {
+    "id": "regression-of-the-yong-clan-heir",
+    "title": "Regression of the Yong Clan Heir",
+    "url": "https://azorafly.com/series/regression-of-the-yong-clan-heir",
+    "cover_url": "https://storage.azorafly.com/2024/12/A21.webp",
+    "type": "مانهوا",
+    "status": "مستمر",
+    "rating": "9.0",
+    "total_chapters": 66,
+    "genres": [
+      "زمكاني",
+      "أكشن",
+      "خيال",
+      "فنون قتالية"
+    ]
+  },
+  {
+    "id": "the-flower-with-a-sword",
+    "title": "The Flower With a Sword",
+    "url": "https://azorafly.com/series/the-flower-with-a-sword",
+    "cover_url": "https://storage.azorafly.com/public/upload/2026/04/03/85f99085-fac0-4b13-97b8-5990ae2a751d.webp",
+    "type": "مانهوا",
+    "status": "مستمر",
+    "rating": "10.0",
+    "total_chapters": 65,
+    "genres": [
+      "خيالي",
+      "سحر",
+      "مغامرات",
+      "كوميدي",
+      "رومانسي"
+    ]
+  },
+  {
+    "id": "a-dragonslayers-peerless-regression",
+    "title": "A Dragonslayer's Peerless Regression",
+    "url": "https://azorafly.com/series/a-dragonslayers-peerless-regression",
+    "cover_url": "https://storage.azorafly.com/2024/12/A31.webp",
+    "type": "مانهوا",
+    "status": "مستمر",
+    "rating": "9.9",
+    "total_chapters": 109,
+    "genres": [
+      "إعادة إحياء",
+      "أكشن",
+      "فنون قتالية",
+      "فانتازيا"
     ]
   },
   {
@@ -4806,20 +4879,6 @@
       "رومانسي",
       "خيال",
       "مأساة"
-    ]
-  },
-  {
-    "id": "face-genius-0-year-old-top-star",
-    "title": "Face Genius, 0-Year-Old Top Star",
-    "url": "https://azorafly.com/series/face-genius-0-year-old-top-star",
-    "cover_url": "https://storage.azorafly.com/upload/series/featured/02408b52-85d5-445d-9e5c-f7dbcd583bf8/f9ba9b4c-7b86-4ed5-abf3-5b86ab33ce62.jpg",
-    "type": "مانهوا",
-    "status": "مستمر",
-    "rating": "9.9",
-    "total_chapters": 76,
-    "genres": [
-      "خيال",
-      "دراما"
     ]
   },
   {
@@ -7212,20 +7271,6 @@
     ]
   },
   {
-    "id": "becoming-a-family-with-the-duke-and-his-dear-son",
-    "title": "Becoming A Family With The Duke and His Dear Son",
-    "url": "https://azorafly.com/series/becoming-a-family-with-the-duke-and-his-dear-son",
-    "cover_url": "https://storage.azorafly.com/upload/series/featured/caa7019b-2ed4-4088-91c7-7a60952a092d/7f52e996-3647-4c4d-8781-2361936176c6.jpg",
-    "type": "مانهوا",
-    "status": "مستمر",
-    "rating": "9.0",
-    "total_chapters": 83,
-    "genres": [
-      "رومانسي",
-      "دراما"
-    ]
-  },
-  {
     "id": "the-youngest-son-of-the-eunhae-merchant-group",
     "title": "The Youngest Son of the Eunhae Merchant Group",
     "url": "https://azorafly.com/series/the-youngest-son-of-the-eunhae-merchant-group",
@@ -7989,20 +8034,6 @@
     ]
   },
   {
-    "id": "how-a-terminally-ill-genius-survives",
-    "title": "How a terminally ill genius survives",
-    "url": "https://azorafly.com/series/how-a-terminally-ill-genius-survives",
-    "cover_url": "https://storage.azorafly.com/2024/09/91FDBB3C-A151-42FB-A2B1-9953EE970422.webp",
-    "type": "مانهوا",
-    "status": "مستمر",
-    "rating": "10.0",
-    "total_chapters": 95,
-    "genres": [
-      "فنون قتالية",
-      "أكشن"
-    ]
-  },
-  {
     "id": "the-terminally-ill-wife-wants-a-divorce",
     "title": "The Terminally Ill Wife Wants a Divorce",
     "url": "https://azorafly.com/series/the-terminally-ill-wife-wants-a-divorce",
@@ -8684,20 +8715,6 @@
     ],
     "status": "مستمر",
     "rating": "10.0"
-  },
-  {
-    "id": "i-dont-want-to-be-a-magip-bridge",
-    "title": "I don't want to be a magip bridge",
-    "url": "https://azorafly.com/series/i-dont-want-to-be-a-magip-bridge",
-    "cover_url": "https://storage.azorafly.com/upload/series/featured/55ecc86a-e082-44c7-bea8-675703397a95/7bc692bb-0bf3-41a4-b1f4-c9df58f6e7d0.png",
-    "type": "مانهوا",
-    "status": "مستمر",
-    "rating": "9.9",
-    "total_chapters": 120,
-    "genres": [
-      "حياة مدرسية",
-      "تجسيد"
-    ]
   },
   {
     "id": "rabbit-holes",
@@ -34643,24 +34660,6 @@
       "أكشن",
       "تناسخ",
       "نظام",
-      "رومانسي"
-    ]
-  },
-  {
-    "id": "you-don't-know-oppa",
-    "title": "You Don't know, Oppa",
-    "url": "https://azorafly.com/series/you-don't-know-oppa",
-    "cover_url": "https://storage.azorafly.com/upload/series/featured/a5vVlSc5huft2AzUyK1VxgKh1ckCWLbZ/57a67082-016c-493f-b26d-8ae3d993185d.jpg",
-    "type": "رواية",
-    "status": "مستمر",
-    "rating": "9.5",
-    "total_chapters": 18,
-    "genres": [
-      "أكشن",
-      "عصري",
-      "دراما",
-      "كوميدي",
-      "بدون تجسيد",
       "رومانسي"
     ]
   },
