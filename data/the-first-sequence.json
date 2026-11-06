@@ -1,0 +1,29 @@
+{
+  "id": "the-first-sequence",
+  "title": "First Order",
+  "cover_url": "https://storage.azorafly.com/2021/06/0-89.jpg",
+  "description": "بسبب الشتاء النووي، دمر العالم وفتحت حقبة جديدة. لم يعد البشر سادة العالم، وظهرت الأزمات الواحدة تلو الأخرى. يعيد الجنس البشري بناء نظام العالم الجديد. في هذا الوقت ، ارتفع بطل الرواية رين شياوسو خطوة بخطوة عن طريق امتصاص الطاقة الإيجابية، مع تغيير العالم.",
+  "type": "مانهوا",
+  "status": "مستمر",
+  "last_update": "2026-10-26",
+  "rating": "4.0",
+  "genres": [
+    "مانهوا",
+    "خارق للطبيعة",
+    "أكشن",
+    "فنتازيا",
+    "مغامرات"
+  ],
+  "is_novel": false,
+  "chapters": {
+    "https://azorafly.com/series/the-first-sequence/chapter-3": {
+      "name": "3"
+    },
+    "https://azorafly.com/series/the-first-sequence/chapter-2": {
+      "name": "2"
+    },
+    "https://azorafly.com/series/the-first-sequence/chapter-0": {
+      "name": "0"
+    }
+  }
+}
