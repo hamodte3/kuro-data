@@ -1,35 +1,5 @@
 [
   {
-    "id": "the-imperial-maiden",
-    "title": "The Imperial Maiden",
-    "url": "https://azorafly.com/series/the-imperial-maiden",
-    "cover_url": "https://storage.azorafly.com/upload/series/featured/02408b52-85d5-445d-9e5c-f7dbcd583bf8/b89faad3-0939-420e-aa19-6a394e5fea02.jpg",
-    "type": "مانهوا",
-    "status": "مستمر",
-    "rating": "10.0",
-    "total_chapters": 53,
-    "genres": [
-      "رومانسى",
-      "كوميدي",
-      "دراما"
-    ]
-  },
-  {
-    "id": "my-husband-possessed-the-protagonist",
-    "title": "My Husband Possessed the Protagonist",
-    "url": "https://azorafly.com/series/my-husband-possessed-the-protagonist",
-    "cover_url": "https://storage.azorafly.com/upload/series/featured/f1fef4cc-ebcb-4b26-90b6-b65fe212f932/e8fbfa2d-f0a3-4bf1-abdf-905b68551ee4.jpg",
-    "type": "مانهوا",
-    "status": "مستمر",
-    "rating": "7.7",
-    "total_chapters": 56,
-    "genres": [
-      "خيالي",
-      "رومانسي",
-      "تجسيد"
-    ]
-  },
-  {
     "id": "i-hate-this-kind-of-reverse-harem",
     "title": "‏I Hate This Kind of Reverse Harem",
     "url": "https://azorafly.com/series/i-hate-this-kind-of-reverse-harem",
@@ -2928,7 +2898,7 @@
     "cover_url": "https://storage.azorafly.com/public/upload/2026/04/03/57bc59e4-b87e-41e3-bc5d-b720a3d19fe7.webp",
     "type": "مانهوا",
     "status": "مستمر",
-    "rating": "6.4",
+    "rating": "6.8",
     "total_chapters": 43,
     "genres": [
       "خيالي",
@@ -2943,7 +2913,7 @@
     "cover_url": "https://storage.azorafly.com/public/upload/2026/02/03/ad41bf1c-5266-43e1-9014-5ca250353748.webp",
     "type": "مانهوا",
     "status": "مستمر",
-    "rating": "8.9",
+    "rating": "8.4",
     "total_chapters": 71,
     "genres": [
       "خيالي",
@@ -2974,7 +2944,7 @@
     "cover_url": "https://storage.azorafly.com/upload/series/featured/oGmL0DQZ16QInTPaeDKwFEK9ryegoy88/3bf27164-7e44-4dc3-9bb9-398358a626a5.jpg",
     "type": "مانهوا",
     "status": "مستمر",
-    "rating": "8.6",
+    "rating": "8.7",
     "total_chapters": 50,
     "genres": [
       "خيال",
@@ -3196,6 +3166,67 @@
       "مغامرات",
       "غموض",
       "دراما"
+    ]
+  },
+  {
+    "id": "when-i-married-the-impotent-duke-i-wanted-to-protect-the-child",
+    "title": "When I Married The Impotent Duke I Wanted To Protect The Child",
+    "url": "https://azorafly.com/series/when-i-married-the-impotent-duke-i-wanted-to-protect-the-child",
+    "cover_url": "https://storage.azorafly.com/upload/series/featured/02408b52-85d5-445d-9e5c-f7dbcd583bf8/ae2f280b-b6e3-4440-ac53-fd1150ee5d9a.webp",
+    "type": "مانهوا",
+    "status": "مستمر",
+    "rating": "9.5",
+    "total_chapters": 28,
+    "genres": [
+      "اطفال",
+      "رومانسى",
+      "خيال",
+      "دراما"
+    ]
+  },
+  {
+    "id": "the-noble-man",
+    "title": "The noble man",
+    "url": "https://azorafly.com/series/the-noble-man",
+    "cover_url": "https://storage.azorafly.com/2024/09/thumbnail_IMAG21_5ec9c0d7-7a58-4ee8-89b8-557b72ec83c4.webp",
+    "type": "مانهوا",
+    "status": "مستمر",
+    "rating": "9.7",
+    "total_chapters": 31,
+    "genres": [
+      "شونين",
+      "انتقام",
+      "دراما"
+    ]
+  },
+  {
+    "id": "the-imperial-maiden",
+    "title": "The Imperial Maiden",
+    "url": "https://azorafly.com/series/the-imperial-maiden",
+    "cover_url": "https://storage.azorafly.com/upload/series/featured/02408b52-85d5-445d-9e5c-f7dbcd583bf8/b89faad3-0939-420e-aa19-6a394e5fea02.jpg",
+    "type": "مانهوا",
+    "status": "مستمر",
+    "rating": "10.0",
+    "total_chapters": 53,
+    "genres": [
+      "رومانسى",
+      "كوميدي",
+      "دراما"
+    ]
+  },
+  {
+    "id": "my-husband-possessed-the-protagonist",
+    "title": "My Husband Possessed the Protagonist",
+    "url": "https://azorafly.com/series/my-husband-possessed-the-protagonist",
+    "cover_url": "https://storage.azorafly.com/upload/series/featured/f1fef4cc-ebcb-4b26-90b6-b65fe212f932/e8fbfa2d-f0a3-4bf1-abdf-905b68551ee4.jpg",
+    "type": "مانهوا",
+    "status": "مستمر",
+    "rating": "7.7",
+    "total_chapters": 56,
+    "genres": [
+      "خيالي",
+      "رومانسي",
+      "تجسيد"
     ]
   },
   {
@@ -4511,22 +4542,6 @@
       "خيال",
       "دراما",
       "رومانسي"
-    ]
-  },
-  {
-    "id": "when-i-married-the-impotent-duke-i-wanted-to-protect-the-child",
-    "title": "When I Married The Impotent Duke I Wanted To Protect The Child",
-    "url": "https://azorafly.com/series/when-i-married-the-impotent-duke-i-wanted-to-protect-the-child",
-    "cover_url": "https://storage.azorafly.com/upload/series/featured/02408b52-85d5-445d-9e5c-f7dbcd583bf8/ae2f280b-b6e3-4440-ac53-fd1150ee5d9a.webp",
-    "type": "مانهوا",
-    "status": "مستمر",
-    "rating": "9.5",
-    "total_chapters": 27,
-    "genres": [
-      "رومانسى",
-      "اطفال",
-      "خيال",
-      "دراما"
     ]
   },
   {
@@ -7712,21 +7727,6 @@
       "رومانسى",
       "حياة مدرسية",
       "دراما"
-    ]
-  },
-  {
-    "id": "the-noble-man",
-    "title": "The noble man",
-    "url": "https://azorafly.com/series/the-noble-man",
-    "cover_url": "https://storage.azorafly.com/2024/09/thumbnail_IMAG21_5ec9c0d7-7a58-4ee8-89b8-557b72ec83c4.webp",
-    "type": "مانهوا",
-    "status": "مستمر",
-    "rating": "10.0",
-    "total_chapters": 21,
-    "genres": [
-      "دراما",
-      "انتقام",
-      "شونين"
     ]
   },
   {
