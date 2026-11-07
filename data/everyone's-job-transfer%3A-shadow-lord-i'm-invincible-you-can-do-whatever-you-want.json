@@ -9,14 +9,17 @@
   "rating": "10.0",
   "genres": [
     "الأرواح",
-    "اكشن",
     "لعبة",
-    "فانتازيا",
+    "اكشن",
+    "مغامرات",
     "نظام",
-    "مغامرات"
+    "فانتازيا"
   ],
   "is_novel": false,
   "chapters": {
+    "https://azorafly.com/series/everyone's-job-transfer%3A-shadow-lord-i'm-invincible-you-can-do-whatever-you-want/chapter-6": {
+      "name": "6"
+    },
     "https://azorafly.com/series/everyone's-job-transfer%3A-shadow-lord-i'm-invincible-you-can-do-whatever-you-want/chapter-5": {
       "name": "5"
     },

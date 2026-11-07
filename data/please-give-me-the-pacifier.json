@@ -9,15 +9,18 @@
   "rating": "10.0",
   "genres": [
     "مانهوا",
-    "إثارة",
-    "سحر",
     "شوجو",
+    "سحر",
     "خيال",
-    "دراما",
-    "رومانسي"
+    "إثارة",
+    "رومانسي",
+    "دراما"
   ],
   "is_novel": false,
   "chapters": {
+    "https://azorafly.com/series/please-give-me-the-pacifier/chapter-146": {
+      "name": "146"
+    },
     "https://azorafly.com/series/please-give-me-the-pacifier/chapter-145": {
       "name": "145"
     },

@@ -1616,25 +1616,6 @@
     "status": "مستمر"
   },
   {
-    "id": "كتاب المئة حياة",
-    "title": "كتاب المئة حياة",
-    "url": "https://kolnovel.com/series/%d9%83%d8%aa%d8%a7%d8%a8-%d8%a7%d9%84%d9%85%d8%a6%d8%a9-%d8%ad%d9%8a%d8%a7%d8%a9",
-    "cover_url": "https://kolnovel.com/wp-content/uploads/2026/08/بدون-اسم124_20260822084136.png",
-    "type": "رواية",
-    "is_novel": true,
-    "rating": "",
-    "total_chapters": 24,
-    "genres": [
-      "أكشن",
-      "تناسخ",
-      "خيال",
-      "زراعة",
-      "فنون قتال",
-      "نظام"
-    ],
-    "status": "مستمر"
-  },
-  {
     "id": "ما نسيه العالم",
     "title": "ما نسيه العالم",
     "url": "https://kolnovel.com/series/%d9%85%d8%a7-%d9%86%d8%b3%d9%8a%d9%87-%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85",
@@ -1734,6 +1715,25 @@
       "عسكرية",
       "كوميديا",
       "مغامرة"
+    ],
+    "status": "مستمر"
+  },
+  {
+    "id": "كتاب المئة حياة",
+    "title": "كتاب المئة حياة",
+    "url": "https://kolnovel.com/series/%d9%83%d8%aa%d8%a7%d8%a8-%d8%a7%d9%84%d9%85%d8%a6%d8%a9-%d8%ad%d9%8a%d8%a7%d8%a9",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2026/08/بدون-اسم124_20260822084136.png",
+    "type": "رواية",
+    "is_novel": true,
+    "rating": "",
+    "total_chapters": 24,
+    "genres": [
+      "أكشن",
+      "تناسخ",
+      "خيال",
+      "زراعة",
+      "فنون قتال",
+      "نظام"
     ],
     "status": "مستمر"
   },
