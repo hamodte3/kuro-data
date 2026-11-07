@@ -1,22 +1,5 @@
 [
   {
-    "id": "defending-the-villains-innocence",
-    "title": "Defending the Villain’s Innocence",
-    "url": "https://azorafly.com/series/defending-the-villains-innocence",
-    "cover_url": "https://storage.azorafly.com/upload/series/featured/02408b52-85d5-445d-9e5c-f7dbcd583bf8/9d078a1e-f2c1-4a41-928e-651eca7f4e23.jpg",
-    "type": "مانهوا",
-    "total_chapters": 16,
-    "genres": [
-      "رومانسى",
-      "تجسد",
-      "خيالي",
-      "غموض",
-      "كوميدي"
-    ],
-    "status": "مستمر",
-    "rating": "9.5"
-  },
-  {
     "id": "the-imperial-maiden",
     "title": "The Imperial Maiden",
     "url": "https://azorafly.com/series/the-imperial-maiden",
@@ -3082,7 +3065,7 @@
       "فانتازيا"
     ],
     "status": "مستمر",
-    "rating": "10.0"
+    "rating": "9.7"
   },
   {
     "id": "rebellious-romance",
@@ -3198,6 +3181,39 @@
       "كوميدي",
       "دراما"
     ]
+  },
+  {
+    "id": "got-dropped-into-a-horror-story-still-gotta-work",
+    "title": "Got Dropped into a Horror Story, Still Gotta Work",
+    "url": "https://azorafly.com/series/got-dropped-into-a-horror-story-still-gotta-work",
+    "cover_url": "https://storage.azorafly.com/upload/series/featured/02408b52-85d5-445d-9e5c-f7dbcd583bf8/1f4366f2-5be4-42fa-b794-ecba05839168.jpeg",
+    "type": "مانهوا",
+    "status": "مستمر",
+    "rating": "9.9",
+    "total_chapters": 45,
+    "genres": [
+      "اكشن",
+      "مغامرات",
+      "غموض",
+      "دراما"
+    ]
+  },
+  {
+    "id": "defending-the-villains-innocence",
+    "title": "Defending the Villain’s Innocence",
+    "url": "https://azorafly.com/series/defending-the-villains-innocence",
+    "cover_url": "https://storage.azorafly.com/upload/series/featured/02408b52-85d5-445d-9e5c-f7dbcd583bf8/9d078a1e-f2c1-4a41-928e-651eca7f4e23.jpg",
+    "type": "مانهوا",
+    "total_chapters": 16,
+    "genres": [
+      "رومانسى",
+      "تجسد",
+      "خيالي",
+      "غموض",
+      "كوميدي"
+    ],
+    "status": "مستمر",
+    "rating": "9.5"
   },
   {
     "id": "the-male-leads-are-trapped-in-my-house",
@@ -4385,22 +4401,6 @@
     ],
     "status": "مستمر",
     "rating": "8.7"
-  },
-  {
-    "id": "got-dropped-into-a-horror-story-still-gotta-work",
-    "title": "Got Dropped into a Horror Story, Still Gotta Work",
-    "url": "https://azorafly.com/series/got-dropped-into-a-horror-story-still-gotta-work",
-    "cover_url": "https://storage.azorafly.com/upload/series/featured/02408b52-85d5-445d-9e5c-f7dbcd583bf8/1f4366f2-5be4-42fa-b794-ecba05839168.jpeg",
-    "type": "مانهوا",
-    "status": "مستمر",
-    "rating": "9.9",
-    "total_chapters": 44,
-    "genres": [
-      "اكشن",
-      "دراما",
-      "غموض",
-      "مغامرات"
-    ]
   },
   {
     "id": "the-reason-the-villainess-took-up-the-sword",
