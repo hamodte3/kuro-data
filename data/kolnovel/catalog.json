@@ -1498,24 +1498,6 @@
     "status": "مستمر"
   },
   {
-    "id": "ملحمة سليل الخوف",
-    "title": "ملحمة سليل الخوف",
-    "url": "https://kolnovel.com/series/%d9%85%d9%84%d8%ad%d9%85%d8%a9-%d8%b3%d9%84%d9%8a%d9%84-%d8%a7%d9%84%d8%ae%d9%88%d9%81",
-    "cover_url": "https://kolnovel.com/wp-content/uploads/2025/12/file_000000005ff481f483b5f5169a41cb01-125x150.webp",
-    "type": "رواية",
-    "is_novel": true,
-    "rating": "",
-    "total_chapters": 24,
-    "genres": [
-      "خيال علمي",
-      "رعب",
-      "سحر",
-      "غموض",
-      "مغامرة"
-    ],
-    "status": "مستمر"
-  },
-  {
     "id": "تاج المصيرين",
     "title": "تاج المصيرين",
     "url": "https://kolnovel.com/series/%d8%aa%d8%a7%d8%ac-%d8%a7%d9%84%d9%85%d8%b5%d9%8a%d8%b1%d9%8a%d9%86",
@@ -1618,23 +1600,6 @@
     "status": "مستمر"
   },
   {
-    "id": "غوامض النبلاء",
-    "title": "غوامض النبلاء",
-    "url": "https://kolnovel.com/series/%d8%ba%d9%88%d8%a7%d9%85%d8%b6-%d8%a7%d9%84%d9%86%d8%a8%d9%84%d8%a7%d8%a1",
-    "cover_url": "https://kolnovel.com/wp-content/uploads/2026/09/بدون-اسم151_20260929090619.png",
-    "type": "رواية",
-    "is_novel": true,
-    "rating": "",
-    "total_chapters": 24,
-    "genres": [
-      "أكشن",
-      "خيال",
-      "دراما",
-      "غموض"
-    ],
-    "status": "مستمر"
-  },
-  {
     "id": "ري: زيرو – بداية الحياة في عالم آخر",
     "title": "ري: زيرو – بداية الحياة في عالم آخر",
     "url": "https://kolnovel.com/series/%d8%b1%d9%8a-%d8%b2%d9%8a%d8%b1%d9%88-%d8%a8%d8%af%d8%a7%d9%8a%d8%a9-%d8%a7%d9%84%d8%ad%d9%8a%d8%a7%d8%a9-%d9%81%d9%8a-%d8%b9%d8%a7%d9%84%d9%85-%d8%a2%d8%ae%d8%b1",
@@ -1697,23 +1662,6 @@
     "status": "مستمر"
   },
   {
-    "id": "سورد آرت أونلاين",
-    "title": "سورد آرت أونلاين",
-    "url": "https://kolnovel.com/series/%d8%b3%d9%88%d8%b1%d8%af-%d8%a2%d8%b1%d8%aa-%d8%a3%d9%88%d9%86%d9%84%d8%a7%d9%8a%d9%86",
-    "cover_url": "https://kolnovel.com/wp-content/uploads/2025/07/Messenger_creation_1715092535810519.jpg",
-    "type": "رواية",
-    "status": "مستمر",
-    "is_novel": true,
-    "rating": "",
-    "total_chapters": 3,
-    "genres": [
-      "أكشن",
-      "ألعاب",
-      "خيال علمي",
-      "دراما"
-    ]
-  },
-  {
     "id": "ما نسيه العالم",
     "title": "ما نسيه العالم",
     "url": "https://kolnovel.com/series/%d9%85%d8%a7-%d9%86%d8%b3%d9%8a%d9%87-%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85",
@@ -1734,6 +1682,58 @@
       "مؤامرة",
       "ماساة",
       "نفسي"
+    ],
+    "status": "مستمر"
+  },
+  {
+    "id": "سورد آرت أونلاين",
+    "title": "سورد آرت أونلاين",
+    "url": "https://kolnovel.com/series/%d8%b3%d9%88%d8%b1%d8%af-%d8%a2%d8%b1%d8%aa-%d8%a3%d9%88%d9%86%d9%84%d8%a7%d9%8a%d9%86",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2026/11/PicRetouch__-1443x2048.jpg",
+    "type": "رواية",
+    "status": "مستمر",
+    "is_novel": true,
+    "rating": "",
+    "total_chapters": 4,
+    "genres": [
+      "أكشن",
+      "ألعاب",
+      "خيال علمي",
+      "دراما"
+    ]
+  },
+  {
+    "id": "غوامض النبلاء",
+    "title": "غوامض النبلاء",
+    "url": "https://kolnovel.com/series/%d8%ba%d9%88%d8%a7%d9%85%d8%b6-%d8%a7%d9%84%d9%86%d8%a8%d9%84%d8%a7%d8%a1",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2026/09/بدون-اسم151_20260929090619.png",
+    "type": "رواية",
+    "is_novel": true,
+    "rating": "",
+    "total_chapters": 24,
+    "genres": [
+      "أكشن",
+      "خيال",
+      "دراما",
+      "غموض"
+    ],
+    "status": "مستمر"
+  },
+  {
+    "id": "ملحمة سليل الخوف",
+    "title": "ملحمة سليل الخوف",
+    "url": "https://kolnovel.com/series/%d9%85%d9%84%d8%ad%d9%85%d8%a9-%d8%b3%d9%84%d9%8a%d9%84-%d8%a7%d9%84%d8%ae%d9%88%d9%81",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2025/12/file_000000005ff481f483b5f5169a41cb01-125x150.webp",
+    "type": "رواية",
+    "is_novel": true,
+    "rating": "",
+    "total_chapters": 24,
+    "genres": [
+      "خيال علمي",
+      "رعب",
+      "سحر",
+      "غموض",
+      "مغامرة"
     ],
     "status": "مستمر"
   },
