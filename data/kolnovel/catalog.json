@@ -1,22 +1,5 @@
 [
   {
-    "id": "عودة الإمبراطور",
-    "title": "عودة الإمبراطور",
-    "url": "https://kolnovel.com/series/emperor-has-returned",
-    "cover_url": "https://kolnovel.com/wp-content/uploads/2021/04/X_1078425-1.jpg",
-    "type": "رواية",
-    "is_novel": true,
-    "rating": "8.2",
-    "total_chapters": 51,
-    "genres": [
-      "أكشن",
-      "إثارة",
-      "دراما",
-      "مغامرة"
-    ],
-    "status": "مستمر"
-  },
-  {
     "id": "حياتي كمرشد روحي في القصص المصورة الأمريكية",
     "title": "حياتي كمرشد روحي في القصص المصورة الأمريكية",
     "url": "https://kolnovel.com/series/%d8%ad%d9%8a%d8%a7%d8%aa%d9%8a-%d9%83%d9%85%d8%b1%d8%b4%d8%af-%d8%b1%d9%88%d8%ad%d9%8a-%d9%81%d9%8a-%d8%a7%d9%84%d9%82%d8%b5%d8%b5-%d8%a7%d9%84%d9%85%d8%b5%d9%88%d8%b1%d8%a9-%d8%a7%d9%84%d8%a3%d9%85",
@@ -1346,7 +1329,7 @@
     "type": "رواية",
     "status": "مستمر",
     "is_novel": true,
-    "rating": "",
+    "rating": "7.5",
     "total_chapters": 24,
     "genres": [
       "غموض",
@@ -1734,6 +1717,40 @@
       "زراعة",
       "فنون قتال",
       "نظام"
+    ],
+    "status": "مستمر"
+  },
+  {
+    "id": "سورد آرت أونلاين",
+    "title": "سورد آرت أونلاين",
+    "url": "https://kolnovel.com/series/%d8%b3%d9%88%d8%b1%d8%af-%d8%a2%d8%b1%d8%aa-%d8%a3%d9%88%d9%86%d9%84%d8%a7%d9%8a%d9%86",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2025/07/Messenger_creation_1715092535810519.jpg",
+    "type": "رواية",
+    "status": "مستمر",
+    "is_novel": true,
+    "rating": "",
+    "total_chapters": 3,
+    "genres": [
+      "أكشن",
+      "ألعاب",
+      "خيال علمي",
+      "دراما"
+    ]
+  },
+  {
+    "id": "عودة الإمبراطور",
+    "title": "عودة الإمبراطور",
+    "url": "https://kolnovel.com/series/emperor-has-returned",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2021/04/X_1078425-1.jpg",
+    "type": "رواية",
+    "is_novel": true,
+    "rating": "8.2",
+    "total_chapters": 51,
+    "genres": [
+      "أكشن",
+      "إثارة",
+      "دراما",
+      "مغامرة"
     ],
     "status": "مستمر"
   },
@@ -4314,23 +4331,6 @@
       "غموض",
       "قوى خارقة",
       "ما بعد الكارثة"
-    ]
-  },
-  {
-    "id": "سورد آرت أونلاين",
-    "title": "سورد آرت أونلاين",
-    "url": "https://kolnovel.com/series/%d8%b3%d9%88%d8%b1%d8%af-%d8%a2%d8%b1%d8%aa-%d8%a3%d9%88%d9%86%d9%84%d8%a7%d9%8a%d9%86",
-    "cover_url": "https://kolnovel.com/wp-content/uploads/2025/07/Messenger_creation_1715092535810519.jpg",
-    "type": "رواية",
-    "status": "متوقف مؤقتاً",
-    "is_novel": true,
-    "rating": "",
-    "total_chapters": 1,
-    "genres": [
-      "أكشن",
-      "ألعاب",
-      "خيال علمي",
-      "دراما"
     ]
   },
   {
