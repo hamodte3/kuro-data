@@ -1254,23 +1254,6 @@
     ]
   },
   {
-    "id": "سليل المملكة",
-    "title": "سليل المملكة",
-    "url": "https://kolnovel.com/series/kingdoms-bloodline",
-    "cover_url": "https://kolnovel.com/wp-content/uploads/2022/10/سليل-المملكة_20250918_161202_٠٠٠٠.png",
-    "type": "رواية",
-    "is_novel": true,
-    "rating": "9.0",
-    "total_chapters": 24,
-    "genres": [
-      "أكشن",
-      "خيال",
-      "دراما",
-      "سحر"
-    ],
-    "status": "مستمر"
-  },
-  {
     "id": "أسرار سيد الدمى الخالد",
     "title": "أسرار سيد الدمى الخالد",
     "url": "https://kolnovel.com/series/%d8%a3%d8%b3%d8%b1%d8%a7%d8%b1-%d8%b3%d9%8a%d8%af-%d8%a7%d9%84%d8%af%d9%85%d9%89-%d8%a7%d9%84%d8%ae%d8%a7%d9%84%d8%af",
@@ -1340,20 +1323,16 @@
     "id": "مهلة العشر أيام",
     "title": "مهلة العشر أيام",
     "url": "https://kolnovel.com/series/%d9%85%d9%87%d9%84%d8%a9-%d8%a7%d9%84%d8%b9%d8%b4%d8%b1-%d8%a3%d9%8a%d8%a7%d9%85",
-    "cover_url": "https://kolnovel.com/wp-content/uploads/2026/03/بدون-اسم16_20260331021720-768x965.png",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2026/03/بدون-اسم16_20260331021720.png",
     "type": "رواية",
     "is_novel": true,
-    "rating": "",
+    "rating": "8.5",
     "total_chapters": 24,
     "genres": [
       "ألغاز",
       "إثارة",
       "بطل ذكي",
-      "تحقيقات",
-      "رعب",
-      "غموض",
-      "فناء",
-      "نفسي"
+      "تحقيقات"
     ],
     "status": "مستمر"
   },
@@ -1523,45 +1502,6 @@
     "status": "مستمر"
   },
   {
-    "id": "وورم",
-    "title": "وورم",
-    "url": "https://kolnovel.com/series/%d9%88%d9%88%d8%b1%d9%85",
-    "cover_url": "https://kolnovel.com/wp-content/uploads/2026/10/18713259-109x150.jpg",
-    "type": "رواية",
-    "status": "مستمر",
-    "is_novel": true,
-    "rating": "",
-    "total_chapters": 24,
-    "genres": [
-      "أكشن",
-      "إثارة",
-      "خيال علمي مظلم",
-      "دراما",
-      "غموض",
-      "قوة خارقة",
-      "نفسي"
-    ]
-  },
-  {
-    "id": "خالد العوالم التسعة",
-    "title": "خالد العوالم التسعة",
-    "url": "https://kolnovel.com/series/%d8%ae%d8%a7%d9%84%d8%af-%d8%a7%d9%84%d8%b9%d9%88%d8%a7%d9%84%d9%85-%d8%a7%d9%84%d8%aa%d8%b3%d8%b9%d8%a9",
-    "cover_url": "https://kolnovel.com/wp-content/uploads/2026/05/113296.png",
-    "type": "رواية",
-    "is_novel": true,
-    "rating": "",
-    "total_chapters": 24,
-    "genres": [
-      "أكشن",
-      "خيال",
-      "دراما",
-      "شوانهوان",
-      "شيانشيا",
-      "فنون قتال"
-    ],
-    "status": "مستمر"
-  },
-  {
     "id": "ملك قد لا يعود",
     "title": "ملك قد لا يعود",
     "url": "https://kolnovel.com/series/%d9%85%d9%84%d9%83-%d9%82%d8%af-%d9%84%d8%a7-%d9%8a%d8%b9%d9%88%d8%af",
@@ -1596,25 +1536,6 @@
       "شيانشيا",
       "مغامرة",
       "ووشيا"
-    ],
-    "status": "مستمر"
-  },
-  {
-    "id": "كتاب المئة حياة",
-    "title": "كتاب المئة حياة",
-    "url": "https://kolnovel.com/series/%d9%83%d8%aa%d8%a7%d8%a8-%d8%a7%d9%84%d9%85%d8%a6%d8%a9-%d8%ad%d9%8a%d8%a7%d8%a9",
-    "cover_url": "https://kolnovel.com/wp-content/uploads/2026/08/بدون-اسم124_20260822084136.png",
-    "type": "رواية",
-    "is_novel": true,
-    "rating": "",
-    "total_chapters": 24,
-    "genres": [
-      "أكشن",
-      "تناسخ",
-      "خيال",
-      "زراعة",
-      "فنون قتال",
-      "نظام"
     ],
     "status": "مستمر"
   },
@@ -1736,6 +1657,84 @@
       "نفسي"
     ],
     "status": "مستمر"
+  },
+  {
+    "id": "كتاب المئة حياة",
+    "title": "كتاب المئة حياة",
+    "url": "https://kolnovel.com/series/%d9%83%d8%aa%d8%a7%d8%a8-%d8%a7%d9%84%d9%85%d8%a6%d8%a9-%d8%ad%d9%8a%d8%a7%d8%a9",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2026/08/بدون-اسم124_20260822084136.png",
+    "type": "رواية",
+    "is_novel": true,
+    "rating": "",
+    "total_chapters": 24,
+    "genres": [
+      "أكشن",
+      "تناسخ",
+      "خيال",
+      "زراعة",
+      "فنون قتال",
+      "نظام"
+    ],
+    "status": "مستمر"
+  },
+  {
+    "id": "خالد العوالم التسعة",
+    "title": "خالد العوالم التسعة",
+    "url": "https://kolnovel.com/series/%d8%ae%d8%a7%d9%84%d8%af-%d8%a7%d9%84%d8%b9%d9%88%d8%a7%d9%84%d9%85-%d8%a7%d9%84%d8%aa%d8%b3%d8%b9%d8%a9",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2026/05/113296.png",
+    "type": "رواية",
+    "is_novel": true,
+    "rating": "",
+    "total_chapters": 24,
+    "genres": [
+      "أكشن",
+      "خيال",
+      "دراما",
+      "شوانهوان",
+      "شيانشيا",
+      "فنون قتال"
+    ],
+    "status": "مستمر"
+  },
+  {
+    "id": "سليل المملكة",
+    "title": "سليل المملكة",
+    "url": "https://kolnovel.com/series/kingdoms-bloodline",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2022/10/سليل-المملكة_20250918_161202_٠٠٠٠.png",
+    "type": "رواية",
+    "is_novel": true,
+    "rating": "",
+    "total_chapters": 24,
+    "genres": [
+      "أكشن",
+      "خيال",
+      "دراما",
+      "سحر",
+      "فنون قتال",
+      "قوى خارقة",
+      "مغامرة"
+    ],
+    "status": "مستمر"
+  },
+  {
+    "id": "وورم",
+    "title": "وورم",
+    "url": "https://kolnovel.com/series/%d9%88%d9%88%d8%b1%d9%85",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2026/10/18713259-109x150.jpg",
+    "type": "رواية",
+    "status": "مستمر",
+    "is_novel": true,
+    "rating": "",
+    "total_chapters": 24,
+    "genres": [
+      "أكشن",
+      "إثارة",
+      "خيال علمي مظلم",
+      "دراما",
+      "غموض",
+      "قوة خارقة",
+      "نفسي"
+    ]
   },
   {
     "id": "عودة الإمبراطور",

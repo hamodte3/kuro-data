@@ -8,14 +8,17 @@
   "last_update": "2026-11-01",
   "rating": "5.6",
   "genres": [
-    "تجسد",
     "خيالي",
-    "اكاديمى",
     "اكشن",
+    "تجسد",
+    "اكاديمى",
     "استحواذ"
   ],
   "is_novel": false,
   "chapters": {
+    "https://azorafly.com/series/30-years-since-the-prologue/chapter-24": {
+      "name": "24"
+    },
     "https://azorafly.com/series/30-years-since-the-prologue/chapter-23": {
       "name": "23"
     },
