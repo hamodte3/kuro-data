@@ -6,12 +6,16 @@
   "type": "مانهوا",
   "status": "مستمر",
   "last_update": "2026-11-06",
-  "rating": "9.7",
+  "rating": "9.6",
   "genres": [
-    "اكشن",
     "قوة خارقة",
+    "اكشن",
     "فانتازيا"
   ],
   "is_novel": false,
-  "chapters": {}
+  "chapters": {
+    "https://azorafly.com/series/rise-of-the-living-forge/chapter-0.5": {
+      "name": "0.5"
+    }
+  }
 }

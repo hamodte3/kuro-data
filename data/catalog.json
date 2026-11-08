@@ -1,36 +1,5 @@
 [
   {
-    "id": "the-grand-dukes-bride-is-a-hellborn-warrior",
-    "title": "The Grand Duke’s Bride Is a Hellborn Warrior",
-    "url": "https://azorafly.com/series/the-grand-dukes-bride-is-a-hellborn-warrior",
-    "cover_url": "https://storage.azorafly.com/upload/series/featured/caa7019b-2ed4-4088-91c7-7a60952a092d/f95d7842-d8c0-4346-a1bd-1a0eabc94fc3.webp",
-    "type": "مانهوا",
-    "status": "مستمر",
-    "rating": "8.7",
-    "total_chapters": 45,
-    "genres": [
-      "زواج مدبر",
-      "فانتازيا",
-      "غموض"
-    ]
-  },
-  {
-    "id": "i-am-the-commander-of-the-second-male-leads-knights",
-    "title": "I Am The Commander Of The Second Male Lead's Knights",
-    "url": "https://azorafly.com/series/i-am-the-commander-of-the-second-male-leads-knights",
-    "cover_url": "https://storage.azorafly.com/upload/series/featured/a5vVlSc5huft2AzUyK1VxgKh1ckCWLbZ/2b3608c7-bdd5-419e-a428-cbff2f529961.jpg",
-    "type": "مانهوا",
-    "status": "مستمر",
-    "rating": "9.7",
-    "total_chapters": 40,
-    "genres": [
-      "تناسخ",
-      "رومانسي",
-      "فانتازيا",
-      "دراما"
-    ]
-  },
-  {
     "id": "from-disgraced-lady-to-beloved-stepmother",
     "title": "From Disgraced Lady to Beloved Stepmother",
     "url": "https://azorafly.com/series/from-disgraced-lady-to-beloved-stepmother",
@@ -2256,21 +2225,6 @@
     ]
   },
   {
-    "id": "rise-of-the-living-forge",
-    "title": "Rise of the Living Forge",
-    "url": "https://azorafly.com/series/rise-of-the-living-forge",
-    "cover_url": "https://storage.azorafly.com/upload/series/featured/02408b52-85d5-445d-9e5c-f7dbcd583bf8/b17dc8ee-8052-432c-8b28-e8072961d568.png",
-    "type": "مانهوا",
-    "total_chapters": 0,
-    "genres": [
-      "اكشن",
-      "قوة خارقة",
-      "فانتازيا"
-    ],
-    "status": "مستمر",
-    "rating": "9.7"
-  },
-  {
     "id": "rebellious-romance",
     "title": "Rebellious Romance",
     "url": "https://azorafly.com/series/rebellious-romance",
@@ -3200,6 +3154,82 @@
       "خيال",
       "نظام",
       "رومانسي"
+    ]
+  },
+  {
+    "id": "the-snow-leopard-baby-of-the-black-leopard-family",
+    "title": "The Snow Leopard Baby of the Black Leopard Family",
+    "url": "https://azorafly.com/series/the-snow-leopard-baby-of-the-black-leopard-family",
+    "cover_url": "https://storage.azorafly.com/2025/01/IMG_20251205_193502_794.jpg",
+    "type": "مانهوا",
+    "status": "مستمر",
+    "rating": "9.9",
+    "total_chapters": 88,
+    "genres": [
+      "رومانسي",
+      "فانتازيا",
+      "دراما"
+    ]
+  },
+  {
+    "id": "leaving-for-my-younger-husband's-future%3A-a-divorce-decision",
+    "title": "Leaving for My Younger Husband’s Future: A Divorce Decision",
+    "url": "https://azorafly.com/series/leaving-for-my-younger-husband's-future%3A-a-divorce-decision",
+    "cover_url": "https://storage.azorafly.com/public/upload/2026/01/17/6f6a83eb-d58a-44fb-9fe9-9cf1630f38a5.webp",
+    "type": "مانهوا",
+    "status": "مستمر",
+    "rating": "9.7",
+    "total_chapters": 62,
+    "genres": [
+      "رومانسي",
+      "فانتازيا",
+      "دراما"
+    ]
+  },
+  {
+    "id": "rise-of-the-living-forge",
+    "title": "Rise of the Living Forge",
+    "url": "https://azorafly.com/series/rise-of-the-living-forge",
+    "cover_url": "https://storage.azorafly.com/upload/series/featured/02408b52-85d5-445d-9e5c-f7dbcd583bf8/b17dc8ee-8052-432c-8b28-e8072961d568.png",
+    "type": "مانهوا",
+    "total_chapters": 1,
+    "genres": [
+      "قوة خارقة",
+      "اكشن",
+      "فانتازيا"
+    ],
+    "status": "مستمر",
+    "rating": "9.6"
+  },
+  {
+    "id": "the-grand-dukes-bride-is-a-hellborn-warrior",
+    "title": "The Grand Duke’s Bride Is a Hellborn Warrior",
+    "url": "https://azorafly.com/series/the-grand-dukes-bride-is-a-hellborn-warrior",
+    "cover_url": "https://storage.azorafly.com/upload/series/featured/caa7019b-2ed4-4088-91c7-7a60952a092d/f95d7842-d8c0-4346-a1bd-1a0eabc94fc3.webp",
+    "type": "مانهوا",
+    "status": "مستمر",
+    "rating": "8.7",
+    "total_chapters": 45,
+    "genres": [
+      "زواج مدبر",
+      "فانتازيا",
+      "غموض"
+    ]
+  },
+  {
+    "id": "i-am-the-commander-of-the-second-male-leads-knights",
+    "title": "I Am The Commander Of The Second Male Lead's Knights",
+    "url": "https://azorafly.com/series/i-am-the-commander-of-the-second-male-leads-knights",
+    "cover_url": "https://storage.azorafly.com/upload/series/featured/a5vVlSc5huft2AzUyK1VxgKh1ckCWLbZ/2b3608c7-bdd5-419e-a428-cbff2f529961.jpg",
+    "type": "مانهوا",
+    "status": "مستمر",
+    "rating": "9.7",
+    "total_chapters": 40,
+    "genres": [
+      "تناسخ",
+      "رومانسي",
+      "فانتازيا",
+      "دراما"
     ]
   },
   {
@@ -5754,21 +5784,6 @@
     ]
   },
   {
-    "id": "leaving-for-my-younger-husband's-future%3A-a-divorce-decision",
-    "title": "Leaving for My Younger Husband’s Future: A Divorce Decision",
-    "url": "https://azorafly.com/series/leaving-for-my-younger-husband's-future%3A-a-divorce-decision",
-    "cover_url": "https://storage.azorafly.com/public/upload/2026/01/17/6f6a83eb-d58a-44fb-9fe9-9cf1630f38a5.webp",
-    "type": "مانهوا",
-    "status": "مستمر",
-    "rating": "9.8",
-    "total_chapters": 61,
-    "genres": [
-      "دراما",
-      "فانتازيا",
-      "رومانسي"
-    ]
-  },
-  {
     "id": "i-married-the-dragon-i-killed-novel",
     "title": "I Married the Dragon I Killed",
     "url": "https://azorafly.com/series/i-married-the-dragon-i-killed-novel",
@@ -8120,21 +8135,6 @@
       "خيالي",
       "فنتازيا",
       "دراما"
-    ]
-  },
-  {
-    "id": "the-snow-leopard-baby-of-the-black-leopard-family",
-    "title": "The Snow Leopard Baby of the Black Leopard Family",
-    "url": "https://azorafly.com/series/the-snow-leopard-baby-of-the-black-leopard-family",
-    "cover_url": "https://storage.azorafly.com/2025/01/IMG_20251205_193502_794.jpg",
-    "type": "مانهوا",
-    "status": "مستمر",
-    "rating": "9.9",
-    "total_chapters": 86,
-    "genres": [
-      "دراما",
-      "رومانسي",
-      "فانتازيا"
     ]
   },
   {
