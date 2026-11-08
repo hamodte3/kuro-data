@@ -9,11 +9,14 @@
   "rating": "9.8",
   "genres": [
     "خيال",
-    "دراما",
-    "رومانسي"
+    "رومانسي",
+    "دراما"
   ],
   "is_novel": false,
   "chapters": {
+    "https://azorafly.com/series/the-male-leads-are-trapped-in-my-house/chapter-74": {
+      "name": "74"
+    },
     "https://azorafly.com/series/the-male-leads-are-trapped-in-my-house/chapter-73": {
       "name": "73"
     },

@@ -9,11 +9,17 @@
   "rating": "9.9",
   "genres": [
     "رومانسى",
-    "دراما",
-    "فنتازيا"
+    "فنتازيا",
+    "دراما"
   ],
   "is_novel": false,
   "chapters": {
+    "https://azorafly.com/series/asha-of-the-borderlands/chapter-23": {
+      "name": "23"
+    },
+    "https://azorafly.com/series/asha-of-the-borderlands/chapter-22": {
+      "name": "22"
+    },
     "https://azorafly.com/series/asha-of-the-borderlands/chapter-21": {
       "name": "21"
     },

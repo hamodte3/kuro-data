@@ -6,16 +6,22 @@
   "type": "مانهوا",
   "status": "مستمر",
   "last_update": "2026-05-07",
-  "rating": "9.8",
+  "rating": "9.7",
   "genres": [
-    "سحر",
     "ايسيكاي",
+    "سحر",
     "خيال",
     "رومانسي",
     "دراما"
   ],
   "is_novel": false,
   "chapters": {
+    "https://azorafly.com/series/black-killer-whale-baby/chapter-129": {
+      "name": "129"
+    },
+    "https://azorafly.com/series/black-killer-whale-baby/chapter-128": {
+      "name": "128"
+    },
     "https://azorafly.com/series/black-killer-whale-baby/chapter-127": {
       "name": "127"
     },

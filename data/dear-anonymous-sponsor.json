@@ -6,7 +6,7 @@
   "type": "مانهوا",
   "status": "مستمر",
   "last_update": "2026-05-07",
-  "rating": "9.8",
+  "rating": "9.9",
   "genres": [
     "غموض",
     "خيال",
@@ -14,6 +14,9 @@
   ],
   "is_novel": false,
   "chapters": {
+    "https://azorafly.com/series/dear-anonymous-sponsor/chapter-75": {
+      "name": "75"
+    },
     "https://azorafly.com/series/dear-anonymous-sponsor/chapter-74": {
       "name": "74"
     },

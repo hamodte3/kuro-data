@@ -11,11 +11,14 @@
     "خيالي",
     "سحر",
     "مغامرات",
-    "كوميدي",
-    "رومانسي"
+    "رومانسي",
+    "كوميدي"
   ],
   "is_novel": false,
   "chapters": {
+    "https://azorafly.com/series/the-flower-with-a-sword/chapter-66": {
+      "name": "66"
+    },
     "https://azorafly.com/series/the-flower-with-a-sword/chapter-65": {
       "name": "65"
     },

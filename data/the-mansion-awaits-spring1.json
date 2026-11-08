@@ -8,12 +8,15 @@
   "last_update": "2026-07-18",
   "rating": "7.6",
   "genres": [
-    "انتقام",
     "شوجو",
-    "رومانسي"
+    "رومانسي",
+    "انتقام"
   ],
   "is_novel": false,
   "chapters": {
+    "https://azorafly.com/series/the-mansion-awaits-spring1/chapter-41": {
+      "name": "41"
+    },
     "https://azorafly.com/series/the-mansion-awaits-spring1/chapter-40": {
       "name": "40"
     },

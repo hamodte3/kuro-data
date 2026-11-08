@@ -8,12 +8,15 @@
   "last_update": "2026-09-14",
   "rating": "6.6",
   "genres": [
-    "حياة مدرسية",
     "عصري",
+    "حياة مدرسية",
     "رومانسي"
   ],
   "is_novel": false,
   "chapters": {
+    "https://azorafly.com/series/everlasting-longing/chapter-35": {
+      "name": "35"
+    },
     "https://azorafly.com/series/everlasting-longing/chapter-34": {
       "name": "34"
     },

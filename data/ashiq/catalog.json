@@ -5958,17 +5958,6 @@
     "status": "مكتمل"
   },
   {
-    "id": "detective-conan",
-    "title": "Detective Conan",
-    "url": "https://3asq.online/manga/detective-conan",
-    "cover_url": "https://3asq.online/wp-content/uploads/2026/08/71Yjir9Xf4L._AC_UF10001000_QL80_.jpg",
-    "type": "مانغا",
-    "rating": "4.3",
-    "total_chapters": 4,
-    "genres": [],
-    "status": "مستمر"
-  },
-  {
     "id": "tengoku-daimakyou-2",
     "title": "Tengoku Daimakyou",
     "url": "https://3asq.online/manga/tengoku-daimakyou-2",
@@ -6538,7 +6527,7 @@
     "cover_url": "https://3asq.online/wp-content/uploads/2026/04/enigmatica_cover_pink-asq-hero-480-v2.webp",
     "type": "مانغا",
     "rating": "4.8",
-    "total_chapters": 33,
+    "total_chapters": 34,
     "genres": [
       "أكشن",
       "استراتيجي",
@@ -6746,6 +6735,17 @@
       "غموض",
       "مأساة"
     ],
+    "status": "مستمر"
+  },
+  {
+    "id": "detective-conan",
+    "title": "Detective Conan",
+    "url": "https://3asq.online/manga/detective-conan",
+    "cover_url": "https://3asq.online/wp-content/uploads/2026/08/71Yjir9Xf4L._AC_UF10001000_QL80_.jpg",
+    "type": "مانغا",
+    "rating": "4.3",
+    "total_chapters": 4,
+    "genres": [],
     "status": "مستمر"
   }
 ]
