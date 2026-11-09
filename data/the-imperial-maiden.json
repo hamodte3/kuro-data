@@ -9,11 +9,14 @@
   "rating": "10.0",
   "genres": [
     "رومانسى",
-    "كوميدي",
-    "دراما"
+    "دراما",
+    "كوميدي"
   ],
   "is_novel": false,
   "chapters": {
+    "https://azorafly.com/series/the-imperial-maiden/chapter-54": {
+      "name": "54"
+    },
     "https://azorafly.com/series/the-imperial-maiden/chapter-53": {
       "name": "53"
     },
