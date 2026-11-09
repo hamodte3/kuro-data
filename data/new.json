@@ -1,5 +1,26 @@
 [
   {
+    "id": "anne-shirley",
+    "title": "Anne Shirley",
+    "chapter": "الفصل 3",
+    "type": "مانغا",
+    "cover_url": "https://3asq.online/wp-content/uploads/2025/04/new-cover-ANNE-480x691.png.webp"
+  },
+  {
+    "id": "about-things-that-never-happened1",
+    "title": "About Things That Never Happened",
+    "chapter": "الفصل 26",
+    "type": "مانهوا",
+    "cover_url": "https://storage.azorafly.com/upload/series/featured/02408b52-85d5-445d-9e5c-f7dbcd583bf8/12ad9495-4eb3-4b7a-9f7b-ab509916e763.jpeg"
+  },
+  {
+    "id": "unexpected-romance",
+    "title": "Unexpected romance",
+    "chapter": "الفصل 44",
+    "type": "مانهوا",
+    "cover_url": "https://storage.azorafly.com/upload/series/featured/02408b52-85d5-445d-9e5c-f7dbcd583bf8/3e076fa2-e9c0-494e-8bcc-63d8b9852118.jpg"
+  },
+  {
     "id": "this-young-lady-hates-being-productive",
     "title": "This Young Lady Hates Being Productive",
     "chapter": "الفصل 12",
@@ -82,26 +103,5 @@
     "chapter": "الفصل 66",
     "type": "مانهوا",
     "cover_url": "https://storage.azorafly.com/public/upload/2026/04/03/85f99085-fac0-4b13-97b8-5990ae2a751d.webp"
-  },
-  {
-    "id": "rita-and-the-oracle",
-    "title": "Rita and the Oracle",
-    "chapter": "الفصل 29",
-    "type": "مانهوا",
-    "cover_url": "https://storage.azorafly.com/upload/series/featured/6cac1de1-87ae-4a81-9cd1-2abe99fd84d7/29492bab-42e5-4e73-aadc-ae232e2c0cc7.webp"
-  },
-  {
-    "id": "asha-of-the-borderlands",
-    "title": "Asha of the Borderlands",
-    "chapter": "الفصل 24",
-    "type": "مانهوا",
-    "cover_url": "https://storage.azorafly.com/upload/series/featured/6cac1de1-87ae-4a81-9cd1-2abe99fd84d7/e0503b9a-e459-49e0-b84e-bf30bdca5204.png"
-  },
-  {
-    "id": "everlasting-longing",
-    "title": "‏Everlasting Longing",
-    "chapter": "الفصل 35",
-    "type": "مانهوا",
-    "cover_url": "https://storage.azorafly.com/public/upload/series/featured/02408b52-85d5-445d-9e5c-f7dbcd583bf8/23be1b66-ad9e-4665-a085-8a2985da979a.jpeg"
   }
 ]

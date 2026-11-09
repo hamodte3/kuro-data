@@ -6645,23 +6645,6 @@
     "status": "مستمر"
   },
   {
-    "id": "anne-shirley",
-    "title": "Anne Shirley",
-    "url": "https://3asq.online/manga/anne-shirley",
-    "cover_url": "https://3asq.online/wp-content/uploads/2025/04/anne-manga-cover-arabic-no-logos-480x691.jpg.webp",
-    "type": "مانغا",
-    "rating": "3.6",
-    "total_chapters": 2,
-    "genres": [
-      "تاريخ",
-      "دراما",
-      "رومانسية",
-      "شوجو",
-      "كوميديا"
-    ],
-    "status": "مستمر"
-  },
-  {
     "id": "metaphor-refantazio",
     "title": "Metaphor: ReFantazio",
     "url": "https://3asq.online/manga/metaphor-refantazio",
@@ -6746,6 +6729,23 @@
     "rating": "4.3",
     "total_chapters": 4,
     "genres": [],
+    "status": "مستمر"
+  },
+  {
+    "id": "anne-shirley",
+    "title": "Anne Shirley",
+    "url": "https://3asq.online/manga/anne-shirley",
+    "cover_url": "https://3asq.online/wp-content/uploads/2025/04/new-cover-ANNE-480x691.png.webp",
+    "type": "مانغا",
+    "rating": "3.8",
+    "total_chapters": 3,
+    "genres": [
+      "تاريخ",
+      "دراما",
+      "رومانسية",
+      "شوجو",
+      "كوميديا"
+    ],
     "status": "مستمر"
   }
 ]
