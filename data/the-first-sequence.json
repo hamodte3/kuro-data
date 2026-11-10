@@ -6,7 +6,7 @@
   "type": "مانهوا",
   "status": "مستمر",
   "last_update": "2026-11-06",
-  "rating": "7.0",
+  "rating": "8.5",
   "genres": [
     "مانهوا",
     "خارق للطبيعة",
@@ -16,11 +16,17 @@
   ],
   "is_novel": false,
   "chapters": {
+    "https://azorafly.com/series/the-first-sequence/chapter-4": {
+      "name": "4"
+    },
     "https://azorafly.com/series/the-first-sequence/chapter-3": {
       "name": "3"
     },
     "https://azorafly.com/series/the-first-sequence/chapter-2": {
       "name": "2"
+    },
+    "https://azorafly.com/series/the-first-sequence/chapter-1": {
+      "name": "1"
     },
     "https://azorafly.com/series/the-first-sequence/chapter-0": {
       "name": "0"

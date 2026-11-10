@@ -1,5 +1,12 @@
 [
   {
+    "id": "the-first-sequence",
+    "title": "First Order",
+    "chapter": "الفصل 5",
+    "type": "مانهوا",
+    "cover_url": "https://storage.azorafly.com/upload/series/featured/02408b52-85d5-445d-9e5c-f7dbcd583bf8/8acf1926-23b3-41be-ab4b-ab3f9c534d98.jpeg"
+  },
+  {
     "id": "تسلق البرج باستخدام قدرة إيقاف الزمن",
     "title": "تسلق البرج باستخدام قدرة إيقاف الزمن",
     "chapter": "الفصل 24",
@@ -96,12 +103,5 @@
     "chapter": "الفصل 41",
     "type": "مانهوا",
     "cover_url": "https://storage.azorafly.com/upload/series/featured/a5vVlSc5huft2AzUyK1VxgKh1ckCWLbZ/2b3608c7-bdd5-419e-a428-cbff2f529961.jpg"
-  },
-  {
-    "id": "ill-quit-as-the-empress",
-    "title": "I’ll Quit as The Empress",
-    "chapter": "الفصل 25",
-    "type": "مانهوا",
-    "cover_url": "https://storage.azorafly.com/upload/series/featured/02408b52-85d5-445d-9e5c-f7dbcd583bf8/75409bc0-4bfd-484b-af48-793fabb5f602.jpg"
   }
 ]
