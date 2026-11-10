@@ -5,16 +5,19 @@
   "description": "يُحب إينوك لاتراكي زوجته، چولييت، رغم أنّها لا تُبادله الحب. ولكن في أحد الأيام، تتغير فجأة لتصبح رقيقة ولطيفة. يصمم إينوك على معرفة السبب وراء تحوّل تصرفات زوجته الحنونة للغاية.",
   "type": "مانهوا",
   "status": "مستمر",
-  "last_update": "2026-05-07",
+  "last_update": "2026-11-09",
   "rating": "9.6",
   "genres": [
+    "دراما",
     "شوجو",
     "خيال",
-    "دراما",
     "رومانسي"
   ],
   "is_novel": false,
   "chapters": {
+    "https://azorafly.com/series/for-the-beautiful-juliet/chapter-104": {
+      "name": "104"
+    },
     "https://azorafly.com/series/for-the-beautiful-juliet/chapter-103": {
       "name": "103"
     },

@@ -6,15 +6,18 @@
   "type": "مانهوا",
   "status": "مستمر",
   "last_update": "2026-10-21",
-  "rating": "9.7",
+  "rating": "9.6",
   "genres": [
     "تناسخ",
-    "رومانسي",
+    "دراما",
     "فانتازيا",
-    "دراما"
+    "رومانسي"
   ],
   "is_novel": false,
   "chapters": {
+    "https://azorafly.com/series/i-am-the-commander-of-the-second-male-leads-knights/chapter-41": {
+      "name": "41"
+    },
     "https://azorafly.com/series/i-am-the-commander-of-the-second-male-leads-knights/chapter-40": {
       "name": "40"
     },
