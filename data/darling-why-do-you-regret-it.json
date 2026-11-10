@@ -6,15 +6,18 @@
   "type": "مانهوا",
   "status": "مستمر",
   "last_update": "2026-09-09",
-  "rating": "9.6",
+  "rating": "9.5",
   "genres": [
     "شوجو",
-    "انتقام",
     "فانتازيا",
-    "رومانسي"
+    "رومانسي",
+    "انتقام"
   ],
   "is_novel": false,
   "chapters": {
+    "https://azorafly.com/series/darling-why-do-you-regret-it/chapter-75": {
+      "name": "75"
+    },
     "https://azorafly.com/series/darling-why-do-you-regret-it/chapter-74": {
       "name": "74"
     },

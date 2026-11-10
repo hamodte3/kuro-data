@@ -6,16 +6,19 @@
   "type": "مانهوا",
   "status": "مستمر",
   "last_update": "2026-10-26",
-  "rating": "10.0",
+  "rating": "9.4",
   "genres": [
     "موسيقي",
+    "تجسيد",
     "خيال",
     "دراما",
-    "كوميدي",
-    "تجسيد"
+    "كوميدي"
   ],
   "is_novel": false,
   "chapters": {
+    "https://azorafly.com/series/surviving-as-a-pd-idol/chapter-48": {
+      "name": "48"
+    },
     "https://azorafly.com/series/surviving-as-a-pd-idol/chapter-47": {
       "name": "47"
     },

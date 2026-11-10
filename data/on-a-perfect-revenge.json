@@ -6,15 +6,24 @@
   "type": "مانهوا",
   "status": "مستمر",
   "last_update": "2026-07-12",
-  "rating": "6.4",
+  "rating": "5.6",
   "genres": [
     "فنتازيا",
-    "انتقام",
+    "دراما",
     "رومانسي",
-    "دراما"
+    "انتقام"
   ],
   "is_novel": false,
   "chapters": {
+    "https://azorafly.com/series/on-a-perfect-revenge/chapter-38": {
+      "name": "38"
+    },
+    "https://azorafly.com/series/on-a-perfect-revenge/chapter-37": {
+      "name": "37"
+    },
+    "https://azorafly.com/series/on-a-perfect-revenge/chapter-36": {
+      "name": "36"
+    },
     "https://azorafly.com/series/on-a-perfect-revenge/chapter-35": {
       "name": "35"
     },

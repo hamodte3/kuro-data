@@ -10,11 +10,20 @@
   "genres": [
     "موسيقي",
     "صداقة",
-    "انتقام",
-    "دراما"
+    "دراما",
+    "انتقام"
   ],
   "is_novel": false,
   "chapters": {
+    "https://azorafly.com/series/star-coin/chapter-18": {
+      "name": "18"
+    },
+    "https://azorafly.com/series/star-coin/chapter-17": {
+      "name": "17"
+    },
+    "https://azorafly.com/series/star-coin/chapter-16": {
+      "name": "16"
+    },
     "https://azorafly.com/series/star-coin/chapter-15": {
       "name": "15"
     },

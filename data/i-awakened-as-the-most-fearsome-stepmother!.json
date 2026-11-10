@@ -9,12 +9,15 @@
   "rating": "8.4",
   "genres": [
     "فانتازيا",
-    "كوميدي",
+    "دراما",
     "رومانسي",
-    "دراما"
+    "كوميدي"
   ],
   "is_novel": false,
   "chapters": {
+    "https://azorafly.com/series/i-awakened-as-the-most-fearsome-stepmother!/chapter-40": {
+      "name": "40"
+    },
     "https://azorafly.com/series/i-awakened-as-the-most-fearsome-stepmother!/chapter-39": {
       "name": "39"
     },
