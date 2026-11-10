@@ -9,12 +9,15 @@
   "rating": "8.7",
   "genres": [
     "اكشن",
-    "خيال",
+    "مغامرات",
     "دراما",
-    "مغامرات"
+    "خيال"
   ],
   "is_novel": false,
   "chapters": {
+    "https://azorafly.com/series/solo-swordmaster/chapter-26": {
+      "name": "26"
+    },
     "https://azorafly.com/series/solo-swordmaster/chapter-25": {
       "name": "25"
     },

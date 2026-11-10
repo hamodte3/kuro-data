@@ -9,12 +9,15 @@
   "rating": "9.4",
   "genres": [
     "اكشن",
+    "مغامرات",
     "شونين",
-    "نظام",
-    "مغامرات"
+    "نظام"
   ],
   "is_novel": false,
   "chapters": {
+    "https://azorafly.com/series/the-veteran-swordmaster's-stream/chapter-44": {
+      "name": "44"
+    },
     "https://azorafly.com/series/the-veteran-swordmaster's-stream/chapter-43": {
       "name": "43"
     },
