@@ -6,13 +6,16 @@
   "type": "مانهوا",
   "status": "مستمر",
   "last_update": "2026-09-30",
-  "rating": "7.3",
+  "rating": "7.5",
   "genres": [
-    "رومانسي",
-    "دراما"
+    "دراما",
+    "رومانسي"
   ],
   "is_novel": false,
   "chapters": {
+    "https://azorafly.com/series/the-marriage-life-in-the-grand-duke-family-is-too-easy-though/chapter-51": {
+      "name": "51"
+    },
     "https://azorafly.com/series/the-marriage-life-in-the-grand-duke-family-is-too-easy-though/chapter-50": {
       "name": "50"
     },

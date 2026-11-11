@@ -9,12 +9,15 @@
   "rating": "9.1",
   "genres": [
     "خيال",
-    "رومانسي",
     "كوميدي",
-    "دراما"
+    "دراما",
+    "رومانسي"
   ],
   "is_novel": false,
   "chapters": {
+    "https://azorafly.com/series/i-got-engaged-to-the-blind-duke/chapter-51": {
+      "name": "51"
+    },
     "https://azorafly.com/series/i-got-engaged-to-the-blind-duke/chapter-50": {
       "name": "50"
     },

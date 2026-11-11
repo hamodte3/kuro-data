@@ -8,14 +8,17 @@
   "last_update": "2026-05-07",
   "rating": "9.5",
   "genres": [
-    "انتقام",
-    "فانتازيا",
     "تاريخي",
+    "فانتازيا",
+    "انتقام",
     "دراما",
     "رومانسي"
   ],
   "is_novel": false,
   "chapters": {
+    "https://azorafly.com/series/this-marriage-must-succeed/chapter-77": {
+      "name": "77"
+    },
     "https://azorafly.com/series/this-marriage-must-succeed/chapter-76": {
       "name": "76"
     },

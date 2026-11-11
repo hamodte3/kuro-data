@@ -6,17 +6,20 @@
   "type": "مانهوا",
   "status": "مستمر",
   "last_update": "2026-11-04",
-  "rating": "9.1",
+  "rating": "9.2",
   "genres": [
+    "مغامرات",
+    "فنتازيا",
+    "أكشن",
     "وحوش",
     "إثارة",
-    "أكشن",
-    "فنتازيا",
-    "نظام",
-    "مغامرات"
+    "نظام"
   ],
   "is_novel": false,
   "chapters": {
+    "https://azorafly.com/series/solo-leveling-ragnarok/chapter-72": {
+      "name": "72"
+    },
     "https://azorafly.com/series/solo-leveling-ragnarok/chapter-71": {
       "name": "71"
     },

@@ -6,13 +6,16 @@
   "type": "مانهوا",
   "status": "مستمر",
   "last_update": "2026-10-21",
-  "rating": "8.8",
+  "rating": "9.0",
   "genres": [
     "رومانسى",
     "خيالي"
   ],
   "is_novel": false,
   "chapters": {
+    "https://azorafly.com/series/lord-blackwood-is-responsible-for-the-maids-death/chapter-16": {
+      "name": "16"
+    },
     "https://azorafly.com/series/lord-blackwood-is-responsible-for-the-maids-death/chapter-15": {
       "name": "15"
     },
