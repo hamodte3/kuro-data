@@ -8,13 +8,16 @@
   "last_update": "2026-05-07",
   "rating": "9.8",
   "genres": [
-    "دراما",
-    "كوميدي",
+    "فانتازيا",
     "رومانسي",
-    "فانتازيا"
+    "دراما",
+    "كوميدي"
   ],
   "is_novel": false,
   "chapters": {
+    "https://azorafly.com/series/anyone-beats-the-original/chapter-95": {
+      "name": "95"
+    },
     "https://azorafly.com/series/anyone-beats-the-original/chapter-94": {
       "name": "94"
     },
