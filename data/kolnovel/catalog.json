@@ -1510,28 +1510,6 @@
     "status": "مستمر"
   },
   {
-    "id": "سلسلة مونوغاتاري",
-    "title": "سلسلة مونوغاتاري",
-    "url": "https://kolnovel.com/series/%d8%b3%d9%84%d8%b3%d9%84%d8%a9-%d9%85%d9%88%d9%86%d9%88%d8%ba%d8%a7%d8%aa%d8%a7%d8%b1%d9%8a",
-    "cover_url": "https://kolnovel.com/wp-content/uploads/2026/09/mono-1498x2048.jpg",
-    "type": "رواية",
-    "is_novel": true,
-    "rating": "",
-    "total_chapters": 24,
-    "genres": [
-      "خارق للطبيعة",
-      "خوارق",
-      "خيال",
-      "دراما",
-      "رومانسية",
-      "غموض",
-      "كوميديا",
-      "ناضج",
-      "نفسي"
-    ],
-    "status": "مستمر"
-  },
-  {
     "id": "ملك قد لا يعود",
     "title": "ملك قد لا يعود",
     "url": "https://kolnovel.com/series/%d9%85%d9%84%d9%83-%d9%82%d8%af-%d9%84%d8%a7-%d9%8a%d8%b9%d9%88%d8%af",
@@ -1687,6 +1665,46 @@
     "status": "مستمر"
   },
   {
+    "id": "أصبحتُ اللاعب الوحيد الذي يعرف البرج",
+    "title": "أصبحتُ اللاعب الوحيد الذي يعرف البرج",
+    "url": "https://kolnovel.com/series/%d8%a3%d8%b5%d8%a8%d8%ad%d8%aa-%d8%a7%d9%84%d9%84%d8%a7%d8%b9%d8%a8-%d8%a7%d9%84%d9%88%d8%ad%d9%8a%d8%af-%d8%a7%d9%84%d8%b0%d9%8a-%d9%8a%d8%b9%d8%b1%d9%81-%d8%a7%d9%84%d8%a8%d8%b1%d8%ac",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2026/11/file_0000000053ec820a84d3f1d4bb31163a.png",
+    "type": "رواية",
+    "status": "مستمر",
+    "is_novel": true,
+    "rating": "",
+    "total_chapters": 0,
+    "genres": [
+      "أبراج",
+      "أكشن",
+      "فانتازيا",
+      "مغامرة",
+      "نظام"
+    ]
+  },
+  {
+    "id": "سلسلة مونوغاتاري",
+    "title": "سلسلة مونوغاتاري",
+    "url": "https://kolnovel.com/series/%d8%b3%d9%84%d8%b3%d9%84%d8%a9-%d9%85%d9%88%d9%86%d9%88%d8%ba%d8%a7%d8%aa%d8%a7%d8%b1%d9%8a",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2026/09/mono-1498x2048.jpg",
+    "type": "رواية",
+    "is_novel": true,
+    "rating": "",
+    "total_chapters": 24,
+    "genres": [
+      "خارق للطبيعة",
+      "خوارق",
+      "خيال",
+      "دراما",
+      "رومانسية",
+      "غموض",
+      "كوميديا",
+      "ناضج",
+      "نفسي"
+    ],
+    "status": "مستمر"
+  },
+  {
     "id": "كتاب المئة حياة",
     "title": "كتاب المئة حياة",
     "url": "https://kolnovel.com/series/%d9%83%d8%aa%d8%a7%d8%a8-%d8%a7%d9%84%d9%85%d8%a6%d8%a9-%d8%ad%d9%8a%d8%a7%d8%a9",
@@ -1704,24 +1722,6 @@
       "نظام"
     ],
     "status": "مستمر"
-  },
-  {
-    "id": "أصبحتُ اللاعب الوحيد الذي يعرف البرج",
-    "title": "أصبحتُ اللاعب الوحيد الذي يعرف البرج",
-    "url": "https://kolnovel.com/series/%d8%a3%d8%b5%d8%a8%d8%ad%d8%aa-%d8%a7%d9%84%d9%84%d8%a7%d8%b9%d8%a8-%d8%a7%d9%84%d9%88%d8%ad%d9%8a%d8%af-%d8%a7%d9%84%d8%b0%d9%8a-%d9%8a%d8%b9%d8%b1%d9%81-%d8%a7%d9%84%d8%a8%d8%b1%d8%ac",
-    "cover_url": "https://kolnovel.com/wp-content/uploads/2026/11/file_0000000053ec820a84d3f1d4bb31163a.png",
-    "type": "رواية",
-    "status": "مستمر",
-    "is_novel": true,
-    "rating": "",
-    "total_chapters": 0,
-    "genres": [
-      "أبراج",
-      "أكشن",
-      "فانتازيا",
-      "مغامرة",
-      "نظام"
-    ]
   },
   {
     "id": "حياتي كمرشد روحي في القصص المصورة الأمريكية",

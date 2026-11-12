@@ -6,7 +6,7 @@
   "type": "مانهوا",
   "status": "مستمر",
   "rating": "4.5",
-  "favorites": "22",
+  "favorites": "23",
   "genres": [
     "أكشن",
     "فنون قتالية",
@@ -14,6 +14,9 @@
   ],
   "is_novel": false,
   "chapters": {
+    "https://3asq.online/manga/lookism_fedaa-chan/633": {
+      "name": "633"
+    },
     "https://3asq.online/manga/lookism_fedaa-chan/632": {
       "name": "632"
     },

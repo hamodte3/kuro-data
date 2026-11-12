@@ -8,12 +8,15 @@
   "last_update": "2026-11-03",
   "rating": "9.7",
   "genres": [
-    "درما",
     "رومانسي",
+    "درما",
     "خيال"
   ],
   "is_novel": false,
   "chapters": {
+    "https://azorafly.com/series/lie-boldly/chapter-9": {
+      "name": "9"
+    },
     "https://azorafly.com/series/lie-boldly/chapter-8": {
       "name": "8"
     },

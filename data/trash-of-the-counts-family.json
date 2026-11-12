@@ -8,16 +8,19 @@
   "last_update": "2026-05-15",
   "rating": "9.2",
   "genres": [
-    "مانهوا",
     "اسبوعي",
+    "مانهوا",
     "خارق للطبيعة",
     "سحر",
     "مميز",
-    "إثارة",
-    "أكشن"
+    "أكشن",
+    "إثارة"
   ],
   "is_novel": false,
   "chapters": {
+    "https://azorafly.com/series/trash-of-the-counts-family/chapter-195": {
+      "name": "195"
+    },
     "https://azorafly.com/series/trash-of-the-counts-family/chapter-194": {
       "name": "194"
     },

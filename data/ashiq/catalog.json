@@ -6690,21 +6690,6 @@
     "status": "مستمر"
   },
   {
-    "id": "lookism_fedaa-chan",
-    "title": "Lookism",
-    "url": "https://3asq.online/manga/lookism_fedaa-chan",
-    "cover_url": "https://3asq.online/wp-content/uploads/2026/03/large_Picsart_23-12-24_10-11-07-103-2-asq-grid-350-v2.webp",
-    "type": "مانهوا",
-    "rating": "4.5",
-    "total_chapters": 37,
-    "genres": [
-      "أكشن",
-      "فنون قتالية",
-      "مدرسة"
-    ],
-    "status": "مستمر"
-  },
-  {
     "id": "detective-conan",
     "title": "Detective Conan",
     "url": "https://3asq.online/manga/detective-conan",
@@ -6745,6 +6730,21 @@
       "خيال",
       "غموض",
       "مأساة"
+    ],
+    "status": "مستمر"
+  },
+  {
+    "id": "lookism_fedaa-chan",
+    "title": "Lookism",
+    "url": "https://3asq.online/manga/lookism_fedaa-chan",
+    "cover_url": "https://3asq.online/wp-content/uploads/2026/03/large_Picsart_23-12-24_10-11-07-103-2-asq-grid-350-v2.webp",
+    "type": "مانهوا",
+    "rating": "4.5",
+    "total_chapters": 38,
+    "genres": [
+      "أكشن",
+      "فنون قتالية",
+      "مدرسة"
     ],
     "status": "مستمر"
   }

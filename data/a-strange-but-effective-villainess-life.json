@@ -10,16 +10,25 @@
   "genres": [
     "مانهوا",
     "خيالي",
+    "فانتازيا",
+    "دراما",
+    "رومانسي",
     "سحر",
     "عودة بالزمن",
-    "فانتازيا",
     "كوميدي",
-    "خيال",
-    "دراما",
-    "رومانسي"
+    "خيال"
   ],
   "is_novel": false,
   "chapters": {
+    "https://azorafly.com/series/a-strange-but-effective-villainess-life/chapter-46": {
+      "name": "46"
+    },
+    "https://azorafly.com/series/a-strange-but-effective-villainess-life/chapter-45": {
+      "name": "45"
+    },
+    "https://azorafly.com/series/a-strange-but-effective-villainess-life/chapter-44": {
+      "name": "44"
+    },
     "https://azorafly.com/series/a-strange-but-effective-villainess-life/chapter-43": {
       "name": "43"
     },

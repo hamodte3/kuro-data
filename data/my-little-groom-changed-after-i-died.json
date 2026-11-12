@@ -6,14 +6,17 @@
   "type": "مانهوا",
   "status": "مستمر",
   "last_update": "2026-05-07",
-  "rating": "9.2",
+  "rating": "9.3",
   "genres": [
     "خيالي",
-    "رومانسي",
-    "دراما"
+    "دراما",
+    "رومانسي"
   ],
   "is_novel": false,
   "chapters": {
+    "https://azorafly.com/series/my-little-groom-changed-after-i-died/chapter-56": {
+      "name": "56"
+    },
     "https://azorafly.com/series/my-little-groom-changed-after-i-died/chapter-55": {
       "name": "55"
     },
