@@ -6,15 +6,18 @@
   "type": "مانهوا",
   "status": "مستمر",
   "last_update": "2026-10-30",
-  "rating": "9.5",
+  "rating": "9.7",
   "genres": [
-    "رومانسى",
+    "دراما",
     "كوميدي",
     "فنتازيا",
-    "دراما"
+    "رومانسى"
   ],
   "is_novel": false,
   "chapters": {
+    "https://azorafly.com/series/baby-lynx-of-the-tiger-family/chapter-23": {
+      "name": "23"
+    },
     "https://azorafly.com/series/baby-lynx-of-the-tiger-family/chapter-22": {
       "name": "22"
     },

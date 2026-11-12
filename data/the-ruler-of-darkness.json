@@ -9,14 +9,17 @@
   "rating": "10.0",
   "genres": [
     "اكشن",
-    "جنون",
     "موريم",
+    "جنون",
+    "فنون قتالية",
     "مغامرة",
-    "انتقام",
-    "فنون قتالية"
+    "انتقام"
   ],
   "is_novel": false,
   "chapters": {
+    "https://azorafly.com/series/the-ruler-of-darkness/chapter-39": {
+      "name": "39"
+    },
     "https://azorafly.com/series/the-ruler-of-darkness/chapter-38": {
       "name": "38"
     },

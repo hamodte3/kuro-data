@@ -1,22 +1,5 @@
 [
   {
-    "id": "حياتي كمرشد روحي في القصص المصورة الأمريكية",
-    "title": "حياتي كمرشد روحي في القصص المصورة الأمريكية",
-    "url": "https://kolnovel.com/series/%d8%ad%d9%8a%d8%a7%d8%aa%d9%8a-%d9%83%d9%85%d8%b1%d8%b4%d8%af-%d8%b1%d9%88%d8%ad%d9%8a-%d9%81%d9%8a-%d8%a7%d9%84%d9%82%d8%b5%d8%b5-%d8%a7%d9%84%d9%85%d8%b5%d9%88%d8%b1%d8%a9-%d8%a7%d9%84%d8%a3%d9%85",
-    "cover_url": "https://kolnovel.com/wp-content/uploads/2025/02/28472564208054505-113x150.jpeg",
-    "type": "رواية",
-    "is_novel": true,
-    "rating": "7.5",
-    "total_chapters": 51,
-    "genres": [
-      "أكشن",
-      "تناسخ",
-      "حياة مدرسية",
-      "دراما"
-    ],
-    "status": "مستمر"
-  },
-  {
     "id": "عودة مبالغ فيها",
     "title": "عودة مبالغ فيها",
     "url": "https://kolnovel.com/series/%d8%b9%d9%88%d8%af%d8%a9-%d9%85%d8%a8%d8%a7%d9%84%d8%ba-%d9%81%d9%8a%d9%87%d8%a7",
@@ -1343,7 +1326,7 @@
     "type": "رواية",
     "status": "مستمر",
     "is_novel": true,
-    "rating": "",
+    "rating": "8.0",
     "total_chapters": 4,
     "genres": [
       "أكشن",
@@ -1442,7 +1425,7 @@
     "status": "مستمر",
     "is_novel": true,
     "rating": "",
-    "total_chapters": 6,
+    "total_chapters": 7,
     "genres": [
       "درامي",
       "رومانسي",
@@ -1588,25 +1571,6 @@
     ]
   },
   {
-    "id": "كتاب المئة حياة",
-    "title": "كتاب المئة حياة",
-    "url": "https://kolnovel.com/series/%d9%83%d8%aa%d8%a7%d8%a8-%d8%a7%d9%84%d9%85%d8%a6%d8%a9-%d8%ad%d9%8a%d8%a7%d8%a9",
-    "cover_url": "https://kolnovel.com/wp-content/uploads/2026/08/بدون-اسم124_20260822084136.png",
-    "type": "رواية",
-    "is_novel": true,
-    "rating": "",
-    "total_chapters": 24,
-    "genres": [
-      "أكشن",
-      "تناسخ",
-      "خيال",
-      "زراعة",
-      "فنون قتال",
-      "نظام"
-    ],
-    "status": "مستمر"
-  },
-  {
     "id": "غوامض النبلاء",
     "title": "غوامض النبلاء",
     "url": "https://kolnovel.com/series/%d8%ba%d9%88%d8%a7%d9%85%d8%b6-%d8%a7%d9%84%d9%86%d8%a8%d9%84%d8%a7%d8%a1",
@@ -1641,24 +1605,6 @@
       "غموض",
       "مغامرة",
       "نفسي"
-    ],
-    "status": "مستمر"
-  },
-  {
-    "id": "ملحمة سليل الخوف",
-    "title": "ملحمة سليل الخوف",
-    "url": "https://kolnovel.com/series/%d9%85%d9%84%d8%ad%d9%85%d8%a9-%d8%b3%d9%84%d9%8a%d9%84-%d8%a7%d9%84%d8%ae%d9%88%d9%81",
-    "cover_url": "https://kolnovel.com/wp-content/uploads/2025/12/file_000000005ff481f483b5f5169a41cb01-125x150.webp",
-    "type": "رواية",
-    "is_novel": true,
-    "rating": "",
-    "total_chapters": 24,
-    "genres": [
-      "خيال علمي",
-      "رعب",
-      "سحر",
-      "غموض",
-      "مغامرة"
     ],
     "status": "مستمر"
   },
@@ -1719,6 +1665,78 @@
       "مؤامرة",
       "ماساة",
       "نفسي"
+    ],
+    "status": "مستمر"
+  },
+  {
+    "id": "ملحمة سليل الخوف",
+    "title": "ملحمة سليل الخوف",
+    "url": "https://kolnovel.com/series/%d9%85%d9%84%d8%ad%d9%85%d8%a9-%d8%b3%d9%84%d9%8a%d9%84-%d8%a7%d9%84%d8%ae%d9%88%d9%81",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2025/12/file_000000005ff481f483b5f5169a41cb01-125x150.webp",
+    "type": "رواية",
+    "is_novel": true,
+    "rating": "",
+    "total_chapters": 24,
+    "genres": [
+      "خيال علمي",
+      "رعب",
+      "سحر",
+      "غموض",
+      "مغامرة"
+    ],
+    "status": "مستمر"
+  },
+  {
+    "id": "كتاب المئة حياة",
+    "title": "كتاب المئة حياة",
+    "url": "https://kolnovel.com/series/%d9%83%d8%aa%d8%a7%d8%a8-%d8%a7%d9%84%d9%85%d8%a6%d8%a9-%d8%ad%d9%8a%d8%a7%d8%a9",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2026/08/بدون-اسم124_20260822084136.png",
+    "type": "رواية",
+    "is_novel": true,
+    "rating": "",
+    "total_chapters": 24,
+    "genres": [
+      "أكشن",
+      "تناسخ",
+      "خيال",
+      "زراعة",
+      "فنون قتال",
+      "نظام"
+    ],
+    "status": "مستمر"
+  },
+  {
+    "id": "أصبحتُ اللاعب الوحيد الذي يعرف البرج",
+    "title": "أصبحتُ اللاعب الوحيد الذي يعرف البرج",
+    "url": "https://kolnovel.com/series/%d8%a3%d8%b5%d8%a8%d8%ad%d8%aa-%d8%a7%d9%84%d9%84%d8%a7%d8%b9%d8%a8-%d8%a7%d9%84%d9%88%d8%ad%d9%8a%d8%af-%d8%a7%d9%84%d8%b0%d9%8a-%d9%8a%d8%b9%d8%b1%d9%81-%d8%a7%d9%84%d8%a8%d8%b1%d8%ac",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2026/11/file_0000000053ec820a84d3f1d4bb31163a.png",
+    "type": "رواية",
+    "status": "مستمر",
+    "is_novel": true,
+    "rating": "",
+    "total_chapters": 0,
+    "genres": [
+      "أبراج",
+      "أكشن",
+      "فانتازيا",
+      "مغامرة",
+      "نظام"
+    ]
+  },
+  {
+    "id": "حياتي كمرشد روحي في القصص المصورة الأمريكية",
+    "title": "حياتي كمرشد روحي في القصص المصورة الأمريكية",
+    "url": "https://kolnovel.com/series/%d8%ad%d9%8a%d8%a7%d8%aa%d9%8a-%d9%83%d9%85%d8%b1%d8%b4%d8%af-%d8%b1%d9%88%d8%ad%d9%8a-%d9%81%d9%8a-%d8%a7%d9%84%d9%82%d8%b5%d8%b5-%d8%a7%d9%84%d9%85%d8%b5%d9%88%d8%b1%d8%a9-%d8%a7%d9%84%d8%a3%d9%85",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2025/02/28472564208054505-113x150.jpeg",
+    "type": "رواية",
+    "is_novel": true,
+    "rating": "7.5",
+    "total_chapters": 51,
+    "genres": [
+      "أكشن",
+      "تناسخ",
+      "حياة مدرسية",
+      "دراما"
     ],
     "status": "مستمر"
   },
