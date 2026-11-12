@@ -870,23 +870,6 @@
     "status": "مستمر"
   },
   {
-    "id": "الوحدة القتالية",
-    "title": "الوحدة القتالية",
-    "url": "https://kolnovel.com/series/the-martial-unity",
-    "cover_url": "https://kolnovel.com/wp-content/uploads/2023/03/95_20231124170026.png",
-    "type": "رواية",
-    "is_novel": true,
-    "rating": "8.8",
-    "total_chapters": 2,
-    "genres": [
-      "أكشن",
-      "إنتقال الى عالم أخر",
-      "فنون القتال",
-      "مغامرة"
-    ],
-    "status": "مستمر"
-  },
-  {
     "id": "صفقة مع الشيطان",
     "title": "صفقة مع الشيطان",
     "url": "https://kolnovel.com/series/a-deal-with-the-devil",
@@ -1342,40 +1325,13 @@
     "cover_url": "https://kolnovel.com/wp-content/uploads/2026/10/file_00000000cf2882108d93c08f689ab874.png",
     "type": "رواية",
     "is_novel": true,
-    "rating": "",
+    "rating": "7.5",
     "total_chapters": 17,
     "genres": [
       "أكشن",
       "تطور شخصيات",
       "حروب",
-      "دراما",
-      "صراعات سياسية",
-      "عالم واسع",
-      "عشائر",
-      "غموض",
-      "فانتازيا",
-      "فنون قتالية",
-      "قوى خارقة",
-      "مغامرة"
-    ],
-    "status": "مستمر"
-  },
-  {
-    "id": "بوابة الخلود",
-    "title": "بوابة الخلود",
-    "url": "https://kolnovel.com/series/%d8%a8%d9%88%d8%a7%d8%a8%d8%a9-%d8%a7%d9%84%d8%ae%d9%84%d9%88%d8%af",
-    "cover_url": "https://kolnovel.com/wp-content/uploads/2025/01/بدون-اسم72.png",
-    "type": "رواية",
-    "is_novel": true,
-    "rating": "",
-    "total_chapters": 24,
-    "genres": [
-      "أكشن",
-      "خيال",
-      "شريحة من الحياة",
-      "شيانشيا",
-      "مغامرة",
-      "ووشيا"
+      "دراما"
     ],
     "status": "مستمر"
   },
@@ -1517,16 +1473,13 @@
     "cover_url": "https://kolnovel.com/wp-content/uploads/2021/03/113272.png",
     "type": "رواية",
     "is_novel": true,
-    "rating": "",
+    "rating": "8.0",
     "total_chapters": 24,
     "genres": [
       "أكشن",
       "حريم",
       "خيال علمي",
-      "سينن",
-      "كوميديا",
-      "مغامرة",
-      "ناضج"
+      "سينن"
     ],
     "status": "مستمر"
   },
@@ -1537,16 +1490,13 @@
     "cover_url": "https://kolnovel.com/wp-content/uploads/2020/10/IMG_20211104_024015-e1647036669834.png",
     "type": "رواية",
     "is_novel": true,
-    "rating": "",
+    "rating": "8.0",
     "total_chapters": 24,
     "genres": [
       "أكشن",
-      "الخيال العلمي",
+      "خيال علمي",
       "تقمص شخصيات",
-      "سحر",
-      "قوى خارقة",
-      "كوميدي",
-      "مغامرة"
+      "سحر"
     ],
     "status": "مستمر"
   },
@@ -1727,6 +1677,42 @@
       "سحر",
       "غموض",
       "مغامرة"
+    ],
+    "status": "مستمر"
+  },
+  {
+    "id": "الوحدة القتالية",
+    "title": "الوحدة القتالية",
+    "url": "https://kolnovel.com/series/the-martial-unity",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2023/03/95_20231124170026.png",
+    "type": "رواية",
+    "is_novel": true,
+    "rating": "",
+    "total_chapters": 24,
+    "genres": [
+      "أكشن",
+      "إنتقال الى عالم أخر",
+      "فنون القتال",
+      "مغامرة"
+    ],
+    "status": "مستمر"
+  },
+  {
+    "id": "بوابة الخلود",
+    "title": "بوابة الخلود",
+    "url": "https://kolnovel.com/series/%d8%a8%d9%88%d8%a7%d8%a8%d8%a9-%d8%a7%d9%84%d8%ae%d9%84%d9%88%d8%af",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2025/01/بدون-اسم72.png",
+    "type": "رواية",
+    "is_novel": true,
+    "rating": "",
+    "total_chapters": 24,
+    "genres": [
+      "أكشن",
+      "خيال",
+      "شريحة من الحياة",
+      "شيانشيا",
+      "مغامرة",
+      "ووشيا"
     ],
     "status": "مستمر"
   },

@@ -6,15 +6,18 @@
   "type": "مانهوا",
   "status": "مستمر",
   "last_update": "2026-10-29",
-  "rating": "9.7",
+  "rating": "9.6",
   "genres": [
     "دموي",
-    "شوجو",
     "فنتازيا",
+    "شوجو",
     "رومانسي"
   ],
   "is_novel": false,
   "chapters": {
+    "https://azorafly.com/series/the-princesss-rebirth/chapter-88": {
+      "name": "88"
+    },
     "https://azorafly.com/series/the-princesss-rebirth/chapter-87": {
       "name": "87"
     },

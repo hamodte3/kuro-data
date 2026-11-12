@@ -11,11 +11,14 @@
     "خيالي",
     "تاريخي",
     "شوجو",
-    "كوميدي",
-    "رومانسي"
+    "رومانسي",
+    "كوميدي"
   ],
   "is_novel": false,
   "chapters": {
+    "https://azorafly.com/series/this-young-lady-hates-being-productive/chapter-13": {
+      "name": "13"
+    },
     "https://azorafly.com/series/this-young-lady-hates-being-productive/chapter-12": {
       "name": "12"
     },
