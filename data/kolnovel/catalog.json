@@ -1473,13 +1473,16 @@
     "cover_url": "https://kolnovel.com/wp-content/uploads/2021/03/113272.png",
     "type": "رواية",
     "is_novel": true,
-    "rating": "8.0",
+    "rating": "",
     "total_chapters": 24,
     "genres": [
       "أكشن",
       "حريم",
       "خيال علمي",
-      "سينن"
+      "سينن",
+      "كوميديا",
+      "مغامرة",
+      "ناضج"
     ],
     "status": "مستمر"
   },
@@ -1490,13 +1493,16 @@
     "cover_url": "https://kolnovel.com/wp-content/uploads/2020/10/IMG_20211104_024015-e1647036669834.png",
     "type": "رواية",
     "is_novel": true,
-    "rating": "8.0",
+    "rating": "",
     "total_chapters": 24,
     "genres": [
       "أكشن",
-      "خيال علمي",
+      "الخيال العلمي",
       "تقمص شخصيات",
-      "سحر"
+      "سحر",
+      "قوى خارقة",
+      "كوميدي",
+      "مغامرة"
     ],
     "status": "مستمر"
   },
@@ -1601,30 +1607,6 @@
     "status": "مستمر"
   },
   {
-    "id": "ما نسيه العالم",
-    "title": "ما نسيه العالم",
-    "url": "https://kolnovel.com/series/%d9%85%d8%a7-%d9%86%d8%b3%d9%8a%d9%87-%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85",
-    "cover_url": "https://kolnovel.com/wp-content/uploads/2026/09/Gemini_Generated_Image_38s0mf38s0mf38s0.jpg",
-    "type": "رواية",
-    "is_novel": true,
-    "rating": "",
-    "total_chapters": 24,
-    "genres": [
-      "إثارة",
-      "استراتيجي",
-      "بطل رمادي",
-      "خيال مظلم",
-      "دراما",
-      "سحر",
-      "سياسية",
-      "غموض",
-      "مؤامرة",
-      "ماساة",
-      "نفسي"
-    ],
-    "status": "مستمر"
-  },
-  {
     "id": "غوامض النبلاء",
     "title": "غوامض النبلاء",
     "url": "https://kolnovel.com/series/%d8%ba%d9%88%d8%a7%d9%85%d8%b6-%d8%a7%d9%84%d9%86%d8%a8%d9%84%d8%a7%d8%a1",
@@ -1713,6 +1695,30 @@
       "شيانشيا",
       "مغامرة",
       "ووشيا"
+    ],
+    "status": "مستمر"
+  },
+  {
+    "id": "ما نسيه العالم",
+    "title": "ما نسيه العالم",
+    "url": "https://kolnovel.com/series/%d9%85%d8%a7-%d9%86%d8%b3%d9%8a%d9%87-%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2026/09/Gemini_Generated_Image_38s0mf38s0mf38s0.jpg",
+    "type": "رواية",
+    "is_novel": true,
+    "rating": "",
+    "total_chapters": 24,
+    "genres": [
+      "إثارة",
+      "استراتيجي",
+      "بطل رمادي",
+      "خيال مظلم",
+      "دراما",
+      "سحر",
+      "سياسية",
+      "غموض",
+      "مؤامرة",
+      "ماساة",
+      "نفسي"
     ],
     "status": "مستمر"
   },
