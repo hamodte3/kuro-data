@@ -10,13 +10,16 @@
   "genres": [
     "اسبوعي",
     "ويبتون",
-    "مميز",
     "مغامرات",
+    "كوميدي",
     "أكشن",
-    "كوميدي"
+    "مميز"
   ],
   "is_novel": false,
   "chapters": {
+    "https://azorafly.com/series/overgeared-12/chapter-348": {
+      "name": "348"
+    },
     "https://azorafly.com/series/overgeared-12/chapter-347": {
       "name": "347"
     },

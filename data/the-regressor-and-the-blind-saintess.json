@@ -8,11 +8,14 @@
   "last_update": "2026-10-07",
   "rating": "9.0",
   "genres": [
-    "رومانسى",
-    "اكشن"
+    "اكشن",
+    "رومانسى"
   ],
   "is_novel": false,
   "chapters": {
+    "https://azorafly.com/series/the-regressor-and-the-blind-saintess/chapter-24": {
+      "name": "24"
+    },
     "https://azorafly.com/series/the-regressor-and-the-blind-saintess/chapter-23": {
       "name": "23"
     },

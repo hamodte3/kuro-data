@@ -1406,7 +1406,7 @@
     "status": "مستمر",
     "is_novel": true,
     "rating": "",
-    "total_chapters": 7,
+    "total_chapters": 8,
     "genres": [
       "درامي",
       "رومانسي",
@@ -1528,27 +1528,6 @@
     "status": "مستمر"
   },
   {
-    "id": "ري: زيرو – بداية الحياة في عالم آخر",
-    "title": "ري: زيرو – بداية الحياة في عالم آخر",
-    "url": "https://kolnovel.com/series/%d8%b1%d9%8a-%d8%b2%d9%8a%d8%b1%d9%88-%d8%a8%d8%af%d8%a7%d9%8a%d8%a9-%d8%a7%d9%84%d8%ad%d9%8a%d8%a7%d8%a9-%d9%81%d9%8a-%d8%b9%d8%a7%d9%84%d9%85-%d8%a2%d8%ae%d8%b1",
-    "cover_url": "https://kolnovel.com/wp-content/uploads/2026/10/a826e405f732171c-106x150.webp",
-    "type": "رواية",
-    "is_novel": true,
-    "rating": "",
-    "total_chapters": 24,
-    "genres": [
-      "إثارة",
-      "إيسيكاي",
-      "خيال مظلم",
-      "دراما",
-      "رومانسية",
-      "غموض",
-      "مغامرة",
-      "نفسي"
-    ],
-    "status": "مستمر"
-  },
-  {
     "id": "الوحدة القتالية",
     "title": "الوحدة القتالية",
     "url": "https://kolnovel.com/series/the-martial-unity",
@@ -1601,24 +1580,6 @@
       "مغامرة"
     ],
     "status": "مستمر"
-  },
-  {
-    "id": "أصبحتُ اللاعب الوحيد الذي يعرف البرج",
-    "title": "أصبحتُ اللاعب الوحيد الذي يعرف البرج",
-    "url": "https://kolnovel.com/series/%d8%a3%d8%b5%d8%a8%d8%ad%d8%aa-%d8%a7%d9%84%d9%84%d8%a7%d8%b9%d8%a8-%d8%a7%d9%84%d9%88%d8%ad%d9%8a%d8%af-%d8%a7%d9%84%d8%b0%d9%8a-%d9%8a%d8%b9%d8%b1%d9%81-%d8%a7%d9%84%d8%a8%d8%b1%d8%ac",
-    "cover_url": "https://kolnovel.com/wp-content/uploads/2026/11/file_0000000053ec820a84d3f1d4bb31163a.png",
-    "type": "رواية",
-    "status": "مستمر",
-    "is_novel": true,
-    "rating": "",
-    "total_chapters": 0,
-    "genres": [
-      "أبراج",
-      "أكشن",
-      "فانتازيا",
-      "مغامرة",
-      "نظام"
-    ]
   },
   {
     "id": "سلسلة مونوغاتاري",
@@ -1720,6 +1681,45 @@
       "شوانهوان",
       "شيانشيا",
       "فنون قتال"
+    ],
+    "status": "مستمر"
+  },
+  {
+    "id": "أصبحتُ اللاعب الوحيد الذي يعرف البرج",
+    "title": "أصبحتُ اللاعب الوحيد الذي يعرف البرج",
+    "url": "https://kolnovel.com/series/%d8%a3%d8%b5%d8%a8%d8%ad%d8%aa-%d8%a7%d9%84%d9%84%d8%a7%d8%b9%d8%a8-%d8%a7%d9%84%d9%88%d8%ad%d9%8a%d8%af-%d8%a7%d9%84%d8%b0%d9%8a-%d9%8a%d8%b9%d8%b1%d9%81-%d8%a7%d9%84%d8%a8%d8%b1%d8%ac",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2026/11/file_0000000053ec820a84d3f1d4bb31163a.png",
+    "type": "رواية",
+    "status": "مستمر",
+    "is_novel": true,
+    "rating": "",
+    "total_chapters": 2,
+    "genres": [
+      "أبراج",
+      "أكشن",
+      "فانتازيا",
+      "مغامرة",
+      "نظام"
+    ]
+  },
+  {
+    "id": "ري: زيرو – بداية الحياة في عالم آخر",
+    "title": "ري: زيرو – بداية الحياة في عالم آخر",
+    "url": "https://kolnovel.com/series/%d8%b1%d9%8a-%d8%b2%d9%8a%d8%b1%d9%88-%d8%a8%d8%af%d8%a7%d9%8a%d8%a9-%d8%a7%d9%84%d8%ad%d9%8a%d8%a7%d8%a9-%d9%81%d9%8a-%d8%b9%d8%a7%d9%84%d9%85-%d8%a2%d8%ae%d8%b1",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2026/10/a826e405f732171c-106x150.webp",
+    "type": "رواية",
+    "is_novel": true,
+    "rating": "",
+    "total_chapters": 24,
+    "genres": [
+      "إثارة",
+      "إيسيكاي",
+      "خيال مظلم",
+      "دراما",
+      "رومانسية",
+      "غموض",
+      "مغامرة",
+      "نفسي"
     ],
     "status": "مستمر"
   },
