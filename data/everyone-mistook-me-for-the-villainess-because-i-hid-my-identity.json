@@ -9,16 +9,25 @@
   "rating": "10.0",
   "genres": [
     "تراجع بالزمن",
-    "فيكتوري",
     "جوسي",
-    "كوميدي",
+    "فيكتوري",
+    "دراما",
+    "رومانسي",
     "خيال",
     "نظام",
-    "رومانسي",
-    "دراما"
+    "كوميدي"
   ],
   "is_novel": false,
   "chapters": {
+    "https://azorafly.com/series/everyone-mistook-me-for-the-villainess-because-i-hid-my-identity/chapter-21": {
+      "name": "21"
+    },
+    "https://azorafly.com/series/everyone-mistook-me-for-the-villainess-because-i-hid-my-identity/chapter-20": {
+      "name": "20"
+    },
+    "https://azorafly.com/series/everyone-mistook-me-for-the-villainess-because-i-hid-my-identity/chapter-19": {
+      "name": "19"
+    },
     "https://azorafly.com/series/everyone-mistook-me-for-the-villainess-because-i-hid-my-identity/chapter-18": {
       "name": "18"
     },

@@ -9,12 +9,18 @@
   "rating": "9.6",
   "genres": [
     "خيالي",
+    "دراما",
     "رومانسي",
-    "كوميدي",
-    "دراما"
+    "كوميدي"
   ],
   "is_novel": false,
   "chapters": {
+    "https://azorafly.com/series/the-oracle-of-the-villainous-baby/chapter-39": {
+      "name": "39"
+    },
+    "https://azorafly.com/series/the-oracle-of-the-villainous-baby/chapter-38": {
+      "name": "38"
+    },
     "https://azorafly.com/series/the-oracle-of-the-villainous-baby/chapter-37": {
       "name": "37"
     },

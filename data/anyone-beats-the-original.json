@@ -9,12 +9,15 @@
   "rating": "9.8",
   "genres": [
     "فانتازيا",
-    "رومانسي",
     "دراما",
+    "رومانسي",
     "كوميدي"
   ],
   "is_novel": false,
   "chapters": {
+    "https://azorafly.com/series/anyone-beats-the-original/chapter-96": {
+      "name": "96"
+    },
     "https://azorafly.com/series/anyone-beats-the-original/chapter-95": {
       "name": "95"
     },

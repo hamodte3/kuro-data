@@ -8,12 +8,15 @@
   "last_update": "2026-10-14",
   "rating": "8.8",
   "genres": [
-    "خيال",
+    "فانتازيا",
     "رومانسي",
-    "فانتازيا"
+    "خيال"
   ],
   "is_novel": false,
   "chapters": {
+    "https://azorafly.com/series/thats-not-what-my-will-said/chapter-62": {
+      "name": "62"
+    },
     "https://azorafly.com/series/thats-not-what-my-will-said/chapter-61": {
       "name": "61"
     },

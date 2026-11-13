@@ -9,12 +9,15 @@
   "rating": "10.0",
   "genres": [
     "رعاية اطفال",
-    "انتقام",
     "فانتازيا",
-    "رومانسي"
+    "رومانسي",
+    "انتقام"
   ],
   "is_novel": false,
   "chapters": {
+    "https://azorafly.com/series/taming-of-heroes/chapter-48": {
+      "name": "48"
+    },
     "https://azorafly.com/series/taming-of-heroes/chapter-47": {
       "name": "47"
     },

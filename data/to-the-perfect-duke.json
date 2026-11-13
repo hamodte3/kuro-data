@@ -1,19 +1,25 @@
 {
   "id": "to-the-perfect-duke",
   "title": "To the Perfect Duke",
-  "cover_url": "https://storage.azorafly.com/2025/10/AddText_10-24-10.57.10.webp",
+  "cover_url": "https://storage.azorafly.com/upload/series/featured/02408b52-85d5-445d-9e5c-f7dbcd583bf8/e5a6d215-3bc5-4390-b8fb-3c91bd5b7210.jpg",
   "description": "إديث، فتاة من النبلاء فقدت والدتها بسبب مؤامرة عائلة راينولدز. بعد أن نُبذت واتُهمت بالجنون، تجد نفسها مجبرة على صفقة زواج مع الدوق “مايرز”، الرجل الذي يُلقّب بـ “الدوق الكامل”.\n\nلكن خلف ابتسامتها الهادئة، تخفي رغبة بالانتقام من الذين دمروا حياتها. زواجها من الدوق ليس حبًا… بل بداية خطة انتقام باردة وذكية.",
   "type": "مانهوا",
   "status": "مستمر",
-  "last_update": "2026-05-07",
-  "rating": "9.3",
+  "last_update": "2026-10-31",
+  "rating": "9.4",
   "genres": [
-    "دراما",
     "فانتازيا",
+    "دراما",
     "رومانسي"
   ],
   "is_novel": false,
   "chapters": {
+    "https://azorafly.com/series/to-the-perfect-duke/chapter-42": {
+      "name": "42"
+    },
+    "https://azorafly.com/series/to-the-perfect-duke/chapter-41": {
+      "name": "41"
+    },
     "https://azorafly.com/series/to-the-perfect-duke/chapter-40": {
       "name": "40"
     },
