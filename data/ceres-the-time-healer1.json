@@ -10,15 +10,21 @@
   "genres": [
     "خارق للطبيعة",
     "هوس",
-    "سحر",
-    "تجسيد",
-    "خيال",
-    "كوميدي",
+    "دراما",
     "رومانسي",
-    "دراما"
+    "تجسيد",
+    "سحر",
+    "خيال",
+    "كوميدي"
   ],
   "is_novel": false,
   "chapters": {
+    "https://azorafly.com/series/ceres-the-time-healer1/chapter-36": {
+      "name": "36"
+    },
+    "https://azorafly.com/series/ceres-the-time-healer1/chapter-35": {
+      "name": "35"
+    },
     "https://azorafly.com/series/ceres-the-time-healer1/chapter-34": {
       "name": "34"
     },
