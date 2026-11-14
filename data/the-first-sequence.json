@@ -10,12 +10,15 @@
   "genres": [
     "مانهوا",
     "خارق للطبيعة",
-    "فنتازيا",
     "مغامرات",
-    "أكشن"
+    "أكشن",
+    "فنتازيا"
   ],
   "is_novel": false,
   "chapters": {
+    "https://azorafly.com/series/the-first-sequence/chapter-5": {
+      "name": "5"
+    },
     "https://azorafly.com/series/the-first-sequence/chapter-4": {
       "name": "4"
     },

@@ -8,11 +8,14 @@
   "last_update": "2026-05-29",
   "rating": "9.8",
   "genres": [
-    "رومانسي",
-    "دراما"
+    "دراما",
+    "رومانسي"
   ],
   "is_novel": false,
   "chapters": {
+    "https://azorafly.com/series/our-guild-idol/chapter-70": {
+      "name": "70"
+    },
     "https://azorafly.com/series/our-guild-idol/chapter-69": {
       "name": "69"
     },

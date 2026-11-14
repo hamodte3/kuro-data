@@ -9,13 +9,16 @@
   "rating": "9.0",
   "genres": [
     "الحياة المدرسية",
-    "شوجو",
+    "دراما",
     "رومانسي",
     "كوميدي",
-    "دراما"
+    "شوجو"
   ],
   "is_novel": false,
   "chapters": {
+    "https://azorafly.com/series/operation-name-pure-love/chapter-149": {
+      "name": "149"
+    },
     "https://azorafly.com/series/operation-name-pure-love/chapter-148": {
       "name": "148"
     },

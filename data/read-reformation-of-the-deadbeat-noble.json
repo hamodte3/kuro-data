@@ -9,14 +9,17 @@
   "rating": "10.0",
   "genres": [
     "اسبوعي",
-    "سحر",
-    "تاريخي",
     "مغامرات",
-    "خيال",
-    "أكشن"
+    "تاريخي",
+    "سحر",
+    "أكشن",
+    "خيال"
   ],
   "is_novel": false,
   "chapters": {
+    "https://azorafly.com/series/read-reformation-of-the-deadbeat-noble/chapter-168": {
+      "name": "168"
+    },
     "https://azorafly.com/series/read-reformation-of-the-deadbeat-noble/chapter-167": {
       "name": "167"
     },

@@ -8,13 +8,19 @@
   "last_update": "2026-10-21",
   "rating": "9.0",
   "genres": [
-    "رعب",
     "غموض",
-    "إثارة",
-    "أكشن"
+    "أكشن",
+    "رعب",
+    "إثارة"
   ],
   "is_novel": false,
   "chapters": {
+    "https://azorafly.com/series/a-monster-lives-at-36-poster-street/chapter-4": {
+      "name": "4"
+    },
+    "https://azorafly.com/series/a-monster-lives-at-36-poster-street/chapter-3": {
+      "name": "3"
+    },
     "https://azorafly.com/series/a-monster-lives-at-36-poster-street/chapter-2": {
       "name": "2"
     },

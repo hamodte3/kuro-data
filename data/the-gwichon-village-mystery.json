@@ -8,11 +8,14 @@
   "last_update": "2026-05-07",
   "rating": "10.0",
   "genres": [
-    "إثارة",
-    "رعب"
+    "رعب",
+    "إثارة"
   ],
   "is_novel": false,
   "chapters": {
+    "https://azorafly.com/series/the-gwichon-village-mystery/chapter-86": {
+      "name": "86"
+    },
     "https://azorafly.com/series/the-gwichon-village-mystery/chapter-85": {
       "name": "85"
     },

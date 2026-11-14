@@ -9,12 +9,18 @@
   "rating": "9.5",
   "genres": [
     "خارق للطبيعة",
-    "فانتازيا",
+    "غموض",
     "رومانسي",
-    "غموض"
+    "فانتازيا"
   ],
   "is_novel": false,
   "chapters": {
+    "https://azorafly.com/series/my-ancestors-are-watching-me/chapter-23": {
+      "name": "23"
+    },
+    "https://azorafly.com/series/my-ancestors-are-watching-me/chapter-22": {
+      "name": "22"
+    },
     "https://azorafly.com/series/my-ancestors-are-watching-me/chapter-21": {
       "name": "21"
     },

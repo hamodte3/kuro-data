@@ -8,14 +8,17 @@
   "last_update": "2026-09-28",
   "rating": "6.3",
   "genres": [
-    "رومانسى",
     "عصرى",
     "اثاره",
-    "انتقام",
-    "دراما"
+    "دراما",
+    "رومانسى",
+    "انتقام"
   ],
   "is_novel": false,
   "chapters": {
+    "https://azorafly.com/series/counterattack-marriage/chapter-12": {
+      "name": "12"
+    },
     "https://azorafly.com/series/counterattack-marriage/chapter-11": {
       "name": "11"
     },
