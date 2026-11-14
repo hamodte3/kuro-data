@@ -6,15 +6,21 @@
   "type": "مانهوا",
   "status": "مستمر",
   "last_update": "2026-05-07",
-  "rating": "9.8",
+  "rating": "9.7",
   "genres": [
     "فانتازيا",
-    "دراما",
     "كوميدي",
-    "رومانسي"
+    "رومانسي",
+    "دراما"
   ],
   "is_novel": false,
   "chapters": {
+    "https://azorafly.com/series/chat-with-me/chapter-29": {
+      "name": "29"
+    },
+    "https://azorafly.com/series/chat-with-me/chapter-28": {
+      "name": "28"
+    },
     "https://azorafly.com/series/chat-with-me/chapter-27": {
       "name": "27"
     },

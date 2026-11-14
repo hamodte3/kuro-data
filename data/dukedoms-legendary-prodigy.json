@@ -8,15 +8,18 @@
   "last_update": "2026-05-07",
   "rating": "8.5",
   "genres": [
-    "مغامرة",
     "إعادة إحياء",
     "تشويق",
-    "خيال",
     "أكشن",
+    "خيال",
+    "مغامرة",
     "انتقام"
   ],
   "is_novel": false,
   "chapters": {
+    "https://azorafly.com/series/dukedoms-legendary-prodigy/chapter-68": {
+      "name": "68"
+    },
     "https://azorafly.com/series/dukedoms-legendary-prodigy/chapter-67": {
       "name": "67"
     },

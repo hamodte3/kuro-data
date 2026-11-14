@@ -8,15 +8,21 @@
   "last_update": "2026-09-12",
   "rating": "9.4",
   "genres": [
+    "مغامرات",
     "إعادة إحياء",
     "أكشن",
-    "مميز",
-    "مغامرات",
     "خيال",
-    "فنون قتالية"
+    "فنون قتالية",
+    "مميز"
   ],
   "is_novel": false,
   "chapters": {
+    "https://azorafly.com/series/swordmasters-youngest-son/chapter-221": {
+      "name": "221"
+    },
+    "https://azorafly.com/series/swordmasters-youngest-son/chapter-220": {
+      "name": "220"
+    },
     "https://azorafly.com/series/swordmasters-youngest-son/chapter-219": {
       "name": "219"
     },

@@ -11,11 +11,14 @@
     "تراجع",
     "اكشن",
     "نمو",
-    "فنتازيا",
-    "مغامرات"
+    "مغامرات",
+    "فنتازيا"
   ],
   "is_novel": false,
   "chapters": {
+    "https://azorafly.com/series/the-immortal-genius-spearman/chapter-36": {
+      "name": "36"
+    },
     "https://azorafly.com/series/the-immortal-genius-spearman/chapter-35": {
       "name": "35"
     },

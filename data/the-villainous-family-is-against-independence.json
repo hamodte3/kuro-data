@@ -8,13 +8,19 @@
   "last_update": "2026-05-07",
   "rating": "8.9",
   "genres": [
-    "شوجو",
-    "فنتازيا",
     "رومانسي",
-    "دراما"
+    "دراما",
+    "شوجو",
+    "فنتازيا"
   ],
   "is_novel": false,
   "chapters": {
+    "https://azorafly.com/series/the-villainous-family-is-against-independence/chapter-112": {
+      "name": "112"
+    },
+    "https://azorafly.com/series/the-villainous-family-is-against-independence/chapter-111": {
+      "name": "111"
+    },
     "https://azorafly.com/series/the-villainous-family-is-against-independence/chapter-110": {
       "name": "110"
     },
