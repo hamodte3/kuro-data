@@ -6,14 +6,17 @@
   "type": "مانهوا",
   "status": "مستمر",
   "last_update": "2026-09-14",
-  "rating": "6.6",
+  "rating": "6.7",
   "genres": [
-    "عصري",
     "حياة مدرسية",
+    "عصري",
     "رومانسي"
   ],
   "is_novel": false,
   "chapters": {
+    "https://azorafly.com/series/everlasting-longing/chapter-36": {
+      "name": "36"
+    },
     "https://azorafly.com/series/everlasting-longing/chapter-35": {
       "name": "35"
     },

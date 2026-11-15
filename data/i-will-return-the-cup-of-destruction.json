@@ -6,14 +6,17 @@
   "type": "مانهوا",
   "status": "مستمر",
   "last_update": "2026-11-07",
-  "rating": "9.6",
+  "rating": "9.4",
   "genres": [
     "رومانسى",
-    "دراما",
-    "انتقام"
+    "انتقام",
+    "دراما"
   ],
   "is_novel": false,
   "chapters": {
+    "https://azorafly.com/series/i-will-return-the-cup-of-destruction/chapter-22": {
+      "name": "22"
+    },
     "https://azorafly.com/series/i-will-return-the-cup-of-destruction/chapter-21": {
       "name": "21"
     },
