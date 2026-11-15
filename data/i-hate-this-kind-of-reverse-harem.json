@@ -6,7 +6,7 @@
   "type": "مانهوا",
   "status": "مستمر",
   "last_update": "2026-07-01",
-  "rating": "8.4",
+  "rating": "8.0",
   "genres": [
     "فانتازيا",
     "رومانسي",
@@ -14,6 +14,9 @@
   ],
   "is_novel": false,
   "chapters": {
+    "https://azorafly.com/series/i-hate-this-kind-of-reverse-harem/chapter-55": {
+      "name": "55"
+    },
     "https://azorafly.com/series/i-hate-this-kind-of-reverse-harem/chapter-54": {
       "name": "54"
     },

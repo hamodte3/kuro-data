@@ -6,16 +6,22 @@
   "type": "مانهوا",
   "status": "مستمر",
   "last_update": "2026-09-03",
-  "rating": "9.8",
+  "rating": "9.9",
   "genres": [
-    "رومانسى",
     "عصرى",
-    "فانتازيا",
     "عودة بالزمن",
-    "كوميدي"
+    "كوميدي",
+    "رومانسى",
+    "فانتازيا"
   ],
   "is_novel": false,
   "chapters": {
+    "https://azorafly.com/series/the-school's-top-student-hides-her-regression/chapter-28": {
+      "name": "28"
+    },
+    "https://azorafly.com/series/the-school's-top-student-hides-her-regression/chapter-27": {
+      "name": "27"
+    },
     "https://azorafly.com/series/the-school's-top-student-hides-her-regression/chapter-26": {
       "name": "26"
     },

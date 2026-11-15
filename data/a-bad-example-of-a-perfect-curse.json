@@ -8,12 +8,15 @@
   "last_update": "2026-10-04",
   "rating": "5.8",
   "genres": [
-    "رومانسي",
     "فانتازيا",
+    "رومانسي",
     "دراما"
   ],
   "is_novel": false,
   "chapters": {
+    "https://azorafly.com/series/a-bad-example-of-a-perfect-curse/chapter-48": {
+      "name": "48"
+    },
     "https://azorafly.com/series/a-bad-example-of-a-perfect-curse/chapter-47": {
       "name": "47"
     },
