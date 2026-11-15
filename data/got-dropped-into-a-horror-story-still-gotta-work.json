@@ -6,7 +6,7 @@
   "type": "مانهوا",
   "status": "مستمر",
   "last_update": "2026-09-14",
-  "rating": "9.9",
+  "rating": "9.7",
   "genres": [
     "اكشن",
     "مغامرات",
@@ -15,6 +15,9 @@
   ],
   "is_novel": false,
   "chapters": {
+    "https://azorafly.com/series/got-dropped-into-a-horror-story-still-gotta-work/chapter-44": {
+      "name": "44"
+    },
     "https://azorafly.com/series/got-dropped-into-a-horror-story-still-gotta-work/chapter-43": {
       "name": "43"
     },

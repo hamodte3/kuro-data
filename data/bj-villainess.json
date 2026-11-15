@@ -9,11 +9,14 @@
   "rating": "9.7",
   "genres": [
     "خيال",
-    "نظام",
-    "رومانسي"
+    "رومانسي",
+    "نظام"
   ],
   "is_novel": false,
   "chapters": {
+    "https://azorafly.com/series/bj-villainess/chapter-52": {
+      "name": "52"
+    },
     "https://azorafly.com/series/bj-villainess/chapter-51": {
       "name": "51"
     },

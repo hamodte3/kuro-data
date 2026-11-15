@@ -13,5 +13,24 @@
     "دراما"
   ],
   "is_novel": false,
-  "chapters": {}
+  "chapters": {
+    "https://azorafly.com/series/the-bored-duke-and-the-iron-willed-divorcee/chapter-6": {
+      "name": "6"
+    },
+    "https://azorafly.com/series/the-bored-duke-and-the-iron-willed-divorcee/chapter-5": {
+      "name": "5"
+    },
+    "https://azorafly.com/series/the-bored-duke-and-the-iron-willed-divorcee/chapter-4": {
+      "name": "4"
+    },
+    "https://azorafly.com/series/the-bored-duke-and-the-iron-willed-divorcee/chapter-3": {
+      "name": "3"
+    },
+    "https://azorafly.com/series/the-bored-duke-and-the-iron-willed-divorcee/chapter-2": {
+      "name": "2"
+    },
+    "https://azorafly.com/series/the-bored-duke-and-the-iron-willed-divorcee/chapter-1": {
+      "name": "1"
+    }
+  }
 }
