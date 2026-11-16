@@ -1170,23 +1170,6 @@
     "status": "مستمر"
   },
   {
-    "id": "بث الرامي العبقري",
-    "title": "بث الرامي العبقري",
-    "url": "https://kolnovel.com/series/%d8%a8%d8%ab-%d8%a7%d9%84%d8%b1%d8%a7%d9%85%d9%8a-%d8%a7%d9%84%d8%b9%d8%a8%d9%82%d8%b1%d9%8a",
-    "cover_url": "https://kolnovel.com/wp-content/uploads/2026/08/morph_9_seconds-768x1073.gif",
-    "type": "رواية",
-    "is_novel": true,
-    "rating": "",
-    "total_chapters": 24,
-    "genres": [
-      "أكشن",
-      "خيال",
-      "دراما",
-      "رياضة"
-    ],
-    "status": "مستمر"
-  },
-  {
     "id": "مجلس الخال!",
     "title": "مجلس الخال!",
     "url": "https://kolnovel.com/series/%d9%85%d8%ac%d9%84%d8%b3-%d8%a7%d9%84%d8%ae%d8%a7%d9%84",
@@ -1319,39 +1302,19 @@
     "status": "مستمر"
   },
   {
-    "id": "سليل المملكة",
-    "title": "سليل المملكة",
-    "url": "https://kolnovel.com/series/kingdoms-bloodline",
-    "cover_url": "https://kolnovel.com/wp-content/uploads/2022/10/سليل-المملكة_20250918_161202_٠٠٠٠.png",
-    "type": "رواية",
-    "is_novel": true,
-    "rating": "9.0",
-    "total_chapters": 24,
-    "genres": [
-      "أكشن",
-      "خيال",
-      "دراما",
-      "سحر"
-    ],
-    "status": "مستمر"
-  },
-  {
     "id": "سيد التمنّي",
     "title": "سيد التمنّي",
     "url": "https://kolnovel.com/series/%d8%b3%d9%8a%d8%af-%d8%a7%d9%84%d8%aa%d9%85%d9%86%d9%91%d9%8a",
     "cover_url": "https://kolnovel.com/wp-content/uploads/2026/05/cover_author_name_lowered.png",
     "type": "رواية",
     "is_novel": true,
-    "rating": "",
+    "rating": "8.0",
     "total_chapters": 24,
     "genres": [
       "أكشن",
       "خيال",
       "دراما",
-      "رعب",
-      "غموض",
-      "قوى خارقة",
-      "مغامرة"
+      "رعب"
     ],
     "status": "مستمر"
   },
@@ -1359,14 +1322,14 @@
     "id": "أرلوت",
     "title": "أرلوت",
     "url": "https://kolnovel.com/series/%d8%a3%d8%b1%d9%84%d9%88%d8%aa",
-    "cover_url": "https://kolnovel.com/wp-content/uploads/2026/10/1d8d2362-84a2-4e63-8c22-8e0d26649bd5-101x150.webp",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2026/10/1d8d2362-84a2-4e63-8c22-8e0d26649bd5.webp",
     "type": "رواية",
     "status": "مستمر",
     "is_novel": true,
-    "rating": "",
+    "rating": "7.8",
     "total_chapters": 10,
     "genres": [
-      "درامي",
+      "دراما",
       "رومانسي",
       "نفسي"
     ]
@@ -1520,25 +1483,6 @@
     "status": "مستمر"
   },
   {
-    "id": "كتاب المئة حياة",
-    "title": "كتاب المئة حياة",
-    "url": "https://kolnovel.com/series/%d9%83%d8%aa%d8%a7%d8%a8-%d8%a7%d9%84%d9%85%d8%a6%d8%a9-%d8%ad%d9%8a%d8%a7%d8%a9",
-    "cover_url": "https://kolnovel.com/wp-content/uploads/2026/08/بدون-اسم124_20260822084136.png",
-    "type": "رواية",
-    "is_novel": true,
-    "rating": "",
-    "total_chapters": 24,
-    "genres": [
-      "أكشن",
-      "تناسخ",
-      "خيال",
-      "زراعة",
-      "فنون قتال",
-      "نظام"
-    ],
-    "status": "مستمر"
-  },
-  {
     "id": "تجسيد أقوى إله سيف",
     "title": "تجسيد أقوى إله سيف",
     "url": "https://kolnovel.com/series/reincarnation-of-the-strongest-sword-god",
@@ -1575,25 +1519,6 @@
       "غموض",
       "قوى خارقة",
       "نفسي"
-    ],
-    "status": "مستمر"
-  },
-  {
-    "id": "ملك قد لا يعود",
-    "title": "ملك قد لا يعود",
-    "url": "https://kolnovel.com/series/%d9%85%d9%84%d9%83-%d9%82%d8%af-%d9%84%d8%a7-%d9%8a%d8%b9%d9%88%d8%af",
-    "cover_url": "https://kolnovel.com/wp-content/uploads/2026/06/AKMNR_2MG-1.png",
-    "type": "رواية",
-    "is_novel": true,
-    "rating": "",
-    "total_chapters": 24,
-    "genres": [
-      "أكشن",
-      "خيال",
-      "خيال مظلم",
-      "دراما",
-      "سحر",
-      "مغامرة"
     ],
     "status": "مستمر"
   },
@@ -1718,6 +1643,84 @@
       "مؤامرة",
       "ماساة",
       "نفسي"
+    ],
+    "status": "مستمر"
+  },
+  {
+    "id": "كتاب المئة حياة",
+    "title": "كتاب المئة حياة",
+    "url": "https://kolnovel.com/series/%d9%83%d8%aa%d8%a7%d8%a8-%d8%a7%d9%84%d9%85%d8%a6%d8%a9-%d8%ad%d9%8a%d8%a7%d8%a9",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2026/08/بدون-اسم124_20260822084136.png",
+    "type": "رواية",
+    "is_novel": true,
+    "rating": "",
+    "total_chapters": 24,
+    "genres": [
+      "أكشن",
+      "تناسخ",
+      "خيال",
+      "زراعة",
+      "فنون قتال",
+      "نظام"
+    ],
+    "status": "مستمر"
+  },
+  {
+    "id": "بث الرامي العبقري",
+    "title": "بث الرامي العبقري",
+    "url": "https://kolnovel.com/series/%d8%a8%d8%ab-%d8%a7%d9%84%d8%b1%d8%a7%d9%85%d9%8a-%d8%a7%d9%84%d8%b9%d8%a8%d9%82%d8%b1%d9%8a",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2026/08/morph_9_seconds-768x1073.gif",
+    "type": "رواية",
+    "is_novel": true,
+    "rating": "",
+    "total_chapters": 24,
+    "genres": [
+      "أكشن",
+      "خيال",
+      "دراما",
+      "رياضة",
+      "شونين",
+      "فنون قتال",
+      "مغامرة"
+    ],
+    "status": "مستمر"
+  },
+  {
+    "id": "ملك قد لا يعود",
+    "title": "ملك قد لا يعود",
+    "url": "https://kolnovel.com/series/%d9%85%d9%84%d9%83-%d9%82%d8%af-%d9%84%d8%a7-%d9%8a%d8%b9%d9%88%d8%af",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2026/06/AKMNR_2MG-1.png",
+    "type": "رواية",
+    "is_novel": true,
+    "rating": "",
+    "total_chapters": 24,
+    "genres": [
+      "أكشن",
+      "خيال",
+      "خيال مظلم",
+      "دراما",
+      "سحر",
+      "مغامرة"
+    ],
+    "status": "مستمر"
+  },
+  {
+    "id": "سليل المملكة",
+    "title": "سليل المملكة",
+    "url": "https://kolnovel.com/series/kingdoms-bloodline",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2022/10/سليل-المملكة_20250918_161202_٠٠٠٠.png",
+    "type": "رواية",
+    "is_novel": true,
+    "rating": "",
+    "total_chapters": 24,
+    "genres": [
+      "أكشن",
+      "خيال",
+      "دراما",
+      "سحر",
+      "فنون قتال",
+      "قوى خارقة",
+      "مغامرة"
     ],
     "status": "مستمر"
   },

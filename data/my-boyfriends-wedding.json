@@ -6,15 +6,21 @@
   "type": "مانهوا",
   "status": "مستمر",
   "last_update": "2026-10-24",
-  "rating": "9.7",
+  "rating": "8.7",
   "genres": [
     "الحياة اليومية",
-    "رومانسى",
     "غموض",
+    "رومانسى",
     "دراما"
   ],
   "is_novel": false,
   "chapters": {
+    "https://azorafly.com/series/my-boyfriends-wedding/chapter-8": {
+      "name": "8"
+    },
+    "https://azorafly.com/series/my-boyfriends-wedding/chapter-7": {
+      "name": "7"
+    },
     "https://azorafly.com/series/my-boyfriends-wedding/chapter-6": {
       "name": "6"
     },
