@@ -8,15 +8,21 @@
   "last_update": "2026-09-14",
   "rating": "9.7",
   "genres": [
-    "اكشن",
-    "عبقري",
     "موريم",
+    "عبقري",
+    "اكشن",
     "مغامرات",
-    "كوميدي",
-    "فنون قتالية"
+    "فنون قتالية",
+    "كوميدي"
   ],
   "is_novel": false,
   "chapters": {
+    "https://azorafly.com/series/the-martial-genius-who-remembers-everything/chapter-35": {
+      "name": "35"
+    },
+    "https://azorafly.com/series/the-martial-genius-who-remembers-everything/chapter-34": {
+      "name": "34"
+    },
     "https://azorafly.com/series/the-martial-genius-who-remembers-everything/chapter-33": {
       "name": "33"
     },

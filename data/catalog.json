@@ -1,103 +1,5 @@
 [
   {
-    "id": "i-think-i-have-transmigrated-somewhere",
-    "title": "I Think I Have Transmigrated Somewhere",
-    "url": "https://azorafly.com/series/i-think-i-have-transmigrated-somewhere",
-    "cover_url": "https://storage.azorafly.com/2023/10/PicRetouch_٢٠٢٥٠٩٠٩_٢٢٠٦٣٩٧٧٩-1.jpg",
-    "type": "مانهوا",
-    "status": "مكتمل",
-    "rating": "9.7",
-    "total_chapters": 111,
-    "genres": [
-      "رومانسي",
-      "دراما",
-      "خيال"
-    ]
-  },
-  {
-    "id": "sister-im-the-queen-in-this-life",
-    "title": "Sister, I'm the Queen in this Life",
-    "url": "https://azorafly.com/series/sister-im-the-queen-in-this-life",
-    "cover_url": "https://storage.azorafly.com/upload/series/featured/55ecc86a-e082-44c7-bea8-675703397a95/89aa0d9a-9a6f-4c37-b75f-3f1e9f6ead25.jpg",
-    "type": "مانهوا",
-    "status": "مستمر",
-    "rating": "9.1",
-    "total_chapters": 218,
-    "genres": [
-      "جوسي",
-      "رومانسي",
-      "دراما",
-      "خيال"
-    ]
-  },
-  {
-    "id": "this-young-lady-hates-being-productive",
-    "title": "This Young Lady Hates Being Productive",
-    "url": "https://azorafly.com/series/this-young-lady-hates-being-productive",
-    "cover_url": "https://storage.azorafly.com/upload/series/featured/6cac1de1-87ae-4a81-9cd1-2abe99fd84d7/ffebdfac-798e-4f1f-9d9b-3a0acf323e9d.jpg",
-    "type": "مانهوا",
-    "total_chapters": 13,
-    "genres": [
-      "خيالي",
-      "تاريخي",
-      "شوجو",
-      "رومانسي",
-      "كوميدي"
-    ],
-    "status": "مستمر",
-    "rating": "9.1"
-  },
-  {
-    "id": "do-your-best-to-regret",
-    "title": "Do Your Best to Regret",
-    "url": "https://azorafly.com/series/do-your-best-to-regret",
-    "cover_url": "https://storage.azorafly.com/upload/series/featured/02408b52-85d5-445d-9e5c-f7dbcd583bf8/b56091e4-d5f4-497a-9ee6-f9315a270998.jpg",
-    "type": "مانهوا",
-    "status": "مستمر",
-    "rating": "9.9",
-    "total_chapters": 48,
-    "genres": [
-      "جوسي",
-      "مأساوي",
-      "رومانسي",
-      "خيال"
-    ]
-  },
-  {
-    "id": "the-strongest-family-has-arrived!",
-    "title": "The strongest family has arrived",
-    "url": "https://azorafly.com/series/the-strongest-family-has-arrived!",
-    "cover_url": "https://storage.azorafly.com/upload/series/featured/gXgURMWDiDJ221UEUfe7aZFaAE1PF9X1/231cf0a8-1450-4a19-a8cf-b8ac5a732601.jpg",
-    "type": "رواية",
-    "status": "مستمر",
-    "rating": "10.0",
-    "total_chapters": 173,
-    "genres": [
-      "عائلي",
-      "رعاية اطفال",
-      "رومانسي",
-      "كوميدي",
-      "انتقام",
-      "دراما",
-      "خيال"
-    ]
-  },
-  {
-    "id": "my-husband-is-my-choice",
-    "title": "my husband is my choice",
-    "url": "https://azorafly.com/series/my-husband-is-my-choice",
-    "cover_url": "https://storage.azorafly.com/2023/02/IMG_20230217_204640_270.jpg",
-    "type": "مانهوا",
-    "status": "مستمر",
-    "rating": "10.0",
-    "total_chapters": 44,
-    "genres": [
-      "رومانسي",
-      "دراما",
-      "فنتازيا"
-    ]
-  },
-  {
     "id": "shadow-slave",
     "title": "Shadow Slave",
     "url": "https://azorafly.com/series/shadow-slave",
@@ -3063,17 +2965,17 @@
     "id": "the-way-to-protect-the-female-lead's-older-brother",
     "title": "The Way to Protect the Female Lead's Older Brother",
     "url": "https://azorafly.com/series/the-way-to-protect-the-female-lead's-older-brother",
-    "cover_url": "https://storage.azorafly.com/upload/series/featured/gXgURMWDiDJ221UEUfe7aZFaAE1PF9X1/fc3e077e-a9e1-4882-8853-5147249e14df.jpg",
+    "cover_url": "https://storage.azorafly.com/upload/series/featured/gXgURMWDiDJ221UEUfe7aZFaAE1PF9X1/d13bb2d0-b746-415a-9342-1ffd93c39fac.jpg",
     "type": "رواية",
     "status": "مستمر",
     "rating": "10.0",
     "total_chapters": 30,
     "genres": [
       "حريم عكسي",
-      "نفسي",
       "رومانسى",
-      "تجسيد",
       "انتقام",
+      "تجسيد",
+      "نفسي",
       "إثارة",
       "بدون تجسيد",
       "دراما"
@@ -3185,7 +3087,7 @@
       "دراما"
     ],
     "status": "مستمر",
-    "rating": "8.7"
+    "rating": "8.9"
   },
   {
     "id": "the-flower-with-a-sword",
@@ -3202,6 +3104,213 @@
       "سحر",
       "كوميدي",
       "رومانسي"
+    ]
+  },
+  {
+    "id": "while-everyone-else-became-a-romance-fantasy-heroine-i-turned-into-a-wardrobe-monster",
+    "title": "While Everyone Else Became a Romance Fantasy Heroine, I Turned Into a Wardrobe Monster",
+    "url": "https://azorafly.com/series/while-everyone-else-became-a-romance-fantasy-heroine-i-turned-into-a-wardrobe-monster",
+    "cover_url": "https://storage.azorafly.com/upload/series/featured/a5vVlSc5huft2AzUyK1VxgKh1ckCWLbZ/16c4f2fa-cb3c-46de-887f-14183f6b1655.jpg",
+    "type": "رواية",
+    "status": "مكتمل",
+    "rating": "10.0",
+    "total_chapters": 1,
+    "genres": [
+      "أصدقاء طفولة",
+      "خيال",
+      "شوجو",
+      "رومانسي",
+      "كوميدي",
+      "تجسيد"
+    ]
+  },
+  {
+    "id": "one-day-my-sister-died",
+    "title": "One day my sister died",
+    "url": "https://azorafly.com/series/one-day-my-sister-died",
+    "cover_url": "https://storage.azorafly.com/2025/07/Untitled22_20250706011406.webp",
+    "type": "مانهوا",
+    "status": "مستمر",
+    "rating": "9.9",
+    "total_chapters": 79,
+    "genres": [
+      "خيال",
+      "رومانسي",
+      "مأساة"
+    ]
+  },
+  {
+    "id": "the-dukes-wife-obsession",
+    "title": "The Duke’s Wife Obsession",
+    "url": "https://azorafly.com/series/the-dukes-wife-obsession",
+    "cover_url": "https://storage.azorafly.com/public/upload/2026/03/17/79fa42f5-66b9-4d5f-b351-f54f134a18de.webp",
+    "type": "مانهوا",
+    "status": "مستمر",
+    "rating": "10.0",
+    "total_chapters": 54,
+    "genres": [
+      "مانهوا",
+      "تناسخ",
+      "زواج مدبر",
+      "فيكتوري",
+      "ويبتون",
+      "عصور وسطى",
+      "هوس",
+      "فانتازيا",
+      "عودة بالزمن",
+      "كوميدي",
+      "رومانسي",
+      "شوجو",
+      "عالم اخر",
+      "فنتازيا",
+      "دراما"
+    ]
+  },
+  {
+    "id": "rise-of-the-limitless-necromancer",
+    "title": "Rise of the Limitless Necromancer",
+    "url": "https://azorafly.com/series/rise-of-the-limitless-necromancer",
+    "cover_url": "https://storage.azorafly.com/upload/series/featured/02408b52-85d5-445d-9e5c-f7dbcd583bf8/de3f404a-de03-439e-bdc0-110e94de1cbe.jpg",
+    "type": "مانهوا",
+    "status": "مستمر",
+    "rating": "7.8",
+    "total_chapters": 51,
+    "genres": [
+      "اكشن",
+      "مستحضر ارواح",
+      "عالم اخر",
+      "فانتازيا"
+    ]
+  },
+  {
+    "id": "chilling-romance",
+    "title": "Chilling Romance",
+    "url": "https://azorafly.com/series/chilling-romance",
+    "cover_url": "https://storage.azorafly.com/upload/series/featured/6cac1de1-87ae-4a81-9cd1-2abe99fd84d7/2ad8ecdb-429b-462a-b8e1-b05a66ac4c45.png",
+    "type": "مانهوا",
+    "status": "مستمر",
+    "rating": "9.0",
+    "total_chapters": 23,
+    "genres": [
+      "كوميدي",
+      "رومانسى",
+      "رعب"
+    ]
+  },
+  {
+    "id": "the-martial-genius-who-remembers-everything",
+    "title": "The Martial Genius Who Remembers Everything",
+    "url": "https://azorafly.com/series/the-martial-genius-who-remembers-everything",
+    "cover_url": "https://storage.azorafly.com/upload/series/featured/6cac1de1-87ae-4a81-9cd1-2abe99fd84d7/03c313a7-b286-4bf4-81ac-3f0300b24117.jpg",
+    "type": "مانهوا",
+    "status": "مستمر",
+    "rating": "9.7",
+    "total_chapters": 35,
+    "genres": [
+      "موريم",
+      "عبقري",
+      "اكشن",
+      "مغامرات",
+      "فنون قتالية",
+      "كوميدي"
+    ]
+  },
+  {
+    "id": "i-think-i-have-transmigrated-somewhere",
+    "title": "I Think I Have Transmigrated Somewhere",
+    "url": "https://azorafly.com/series/i-think-i-have-transmigrated-somewhere",
+    "cover_url": "https://storage.azorafly.com/2023/10/PicRetouch_٢٠٢٥٠٩٠٩_٢٢٠٦٣٩٧٧٩-1.jpg",
+    "type": "مانهوا",
+    "status": "مكتمل",
+    "rating": "9.7",
+    "total_chapters": 111,
+    "genres": [
+      "رومانسي",
+      "دراما",
+      "خيال"
+    ]
+  },
+  {
+    "id": "sister-im-the-queen-in-this-life",
+    "title": "Sister, I'm the Queen in this Life",
+    "url": "https://azorafly.com/series/sister-im-the-queen-in-this-life",
+    "cover_url": "https://storage.azorafly.com/upload/series/featured/55ecc86a-e082-44c7-bea8-675703397a95/89aa0d9a-9a6f-4c37-b75f-3f1e9f6ead25.jpg",
+    "type": "مانهوا",
+    "status": "مستمر",
+    "rating": "9.1",
+    "total_chapters": 218,
+    "genres": [
+      "جوسي",
+      "رومانسي",
+      "دراما",
+      "خيال"
+    ]
+  },
+  {
+    "id": "this-young-lady-hates-being-productive",
+    "title": "This Young Lady Hates Being Productive",
+    "url": "https://azorafly.com/series/this-young-lady-hates-being-productive",
+    "cover_url": "https://storage.azorafly.com/upload/series/featured/6cac1de1-87ae-4a81-9cd1-2abe99fd84d7/ffebdfac-798e-4f1f-9d9b-3a0acf323e9d.jpg",
+    "type": "مانهوا",
+    "total_chapters": 13,
+    "genres": [
+      "خيالي",
+      "تاريخي",
+      "شوجو",
+      "رومانسي",
+      "كوميدي"
+    ],
+    "status": "مستمر",
+    "rating": "9.1"
+  },
+  {
+    "id": "do-your-best-to-regret",
+    "title": "Do Your Best to Regret",
+    "url": "https://azorafly.com/series/do-your-best-to-regret",
+    "cover_url": "https://storage.azorafly.com/upload/series/featured/02408b52-85d5-445d-9e5c-f7dbcd583bf8/b56091e4-d5f4-497a-9ee6-f9315a270998.jpg",
+    "type": "مانهوا",
+    "status": "مستمر",
+    "rating": "9.9",
+    "total_chapters": 48,
+    "genres": [
+      "جوسي",
+      "مأساوي",
+      "رومانسي",
+      "خيال"
+    ]
+  },
+  {
+    "id": "the-strongest-family-has-arrived!",
+    "title": "The strongest family has arrived",
+    "url": "https://azorafly.com/series/the-strongest-family-has-arrived!",
+    "cover_url": "https://storage.azorafly.com/upload/series/featured/gXgURMWDiDJ221UEUfe7aZFaAE1PF9X1/231cf0a8-1450-4a19-a8cf-b8ac5a732601.jpg",
+    "type": "رواية",
+    "status": "مستمر",
+    "rating": "10.0",
+    "total_chapters": 173,
+    "genres": [
+      "عائلي",
+      "رعاية اطفال",
+      "رومانسي",
+      "كوميدي",
+      "انتقام",
+      "دراما",
+      "خيال"
+    ]
+  },
+  {
+    "id": "my-husband-is-my-choice",
+    "title": "my husband is my choice",
+    "url": "https://azorafly.com/series/my-husband-is-my-choice",
+    "cover_url": "https://storage.azorafly.com/2023/02/IMG_20230217_204640_270.jpg",
+    "type": "مانهوا",
+    "status": "مستمر",
+    "rating": "10.0",
+    "total_chapters": 44,
+    "genres": [
+      "رومانسي",
+      "دراما",
+      "فنتازيا"
     ]
   },
   {
@@ -3887,22 +3996,6 @@
     "genres": [
       "اكشن",
       "دراما"
-    ]
-  },
-  {
-    "id": "rise-of-the-limitless-necromancer",
-    "title": "Rise of the Limitless Necromancer",
-    "url": "https://azorafly.com/series/rise-of-the-limitless-necromancer",
-    "cover_url": "https://storage.azorafly.com/upload/series/featured/02408b52-85d5-445d-9e5c-f7dbcd583bf8/de3f404a-de03-439e-bdc0-110e94de1cbe.jpg",
-    "type": "مانهوا",
-    "status": "مستمر",
-    "rating": "7.8",
-    "total_chapters": 49,
-    "genres": [
-      "مستحضر ارواح",
-      "اكشن",
-      "عالم اخر",
-      "فانتازيا"
     ]
   },
   {
@@ -5186,24 +5279,6 @@
     ]
   },
   {
-    "id": "the-martial-genius-who-remembers-everything",
-    "title": "The Martial Genius Who Remembers Everything",
-    "url": "https://azorafly.com/series/the-martial-genius-who-remembers-everything",
-    "cover_url": "https://storage.azorafly.com/upload/series/featured/6cac1de1-87ae-4a81-9cd1-2abe99fd84d7/03c313a7-b286-4bf4-81ac-3f0300b24117.jpg",
-    "type": "مانهوا",
-    "status": "مستمر",
-    "rating": "9.7",
-    "total_chapters": 33,
-    "genres": [
-      "اكشن",
-      "عبقري",
-      "موريم",
-      "مغامرات",
-      "كوميدي",
-      "فنون قتالية"
-    ]
-  },
-  {
     "id": "the-white-tiger-princess-is-not-in-danger",
     "title": "The White Tiger Princess is Not in Danger",
     "url": "https://azorafly.com/series/the-white-tiger-princess-is-not-in-danger",
@@ -6152,21 +6227,6 @@
     "rating": "9.6"
   },
   {
-    "id": "chilling-romance",
-    "title": "Chilling Romance",
-    "url": "https://azorafly.com/series/chilling-romance",
-    "cover_url": "https://storage.azorafly.com/upload/series/featured/6cac1de1-87ae-4a81-9cd1-2abe99fd84d7/2ad8ecdb-429b-462a-b8e1-b05a66ac4c45.png",
-    "type": "مانهوا",
-    "status": "مستمر",
-    "rating": "9.0",
-    "total_chapters": 21,
-    "genres": [
-      "رومانسى",
-      "رعب",
-      "كوميدي"
-    ]
-  },
-  {
     "id": "slime-syndrome",
     "title": "Slime Syndrome",
     "url": "https://azorafly.com/series/slime-syndrome",
@@ -6591,21 +6651,6 @@
     ],
     "status": "مستمر",
     "rating": "9.0"
-  },
-  {
-    "id": "one-day-my-sister-died",
-    "title": "One day my sister died",
-    "url": "https://azorafly.com/series/one-day-my-sister-died",
-    "cover_url": "https://storage.azorafly.com/2025/07/Untitled22_20250706011406.webp",
-    "type": "مانهوا",
-    "status": "مستمر",
-    "rating": "9.9",
-    "total_chapters": 77,
-    "genres": [
-      "رومانسي",
-      "خيال",
-      "مأساة"
-    ]
   },
   {
     "id": "im-being-obsessed-over-by-the-villain",
@@ -7861,33 +7906,6 @@
       "عودة بالزمن",
       "انتقام",
       "خيال",
-      "رومانسي",
-      "دراما"
-    ]
-  },
-  {
-    "id": "the-dukes-wife-obsession",
-    "title": "The Duke’s Wife Obsession",
-    "url": "https://azorafly.com/series/the-dukes-wife-obsession",
-    "cover_url": "https://storage.azorafly.com/public/upload/2026/03/17/79fa42f5-66b9-4d5f-b351-f54f134a18de.webp",
-    "type": "مانهوا",
-    "status": "مستمر",
-    "rating": "10.0",
-    "total_chapters": 53,
-    "genres": [
-      "تناسخ",
-      "هوس",
-      "مانهوا",
-      "زواج مدبر",
-      "فيكتوري",
-      "ويبتون",
-      "عصور وسطى",
-      "فنتازيا",
-      "عودة بالزمن",
-      "عالم اخر",
-      "كوميدي",
-      "شوجو",
-      "فانتازيا",
       "رومانسي",
       "دراما"
     ]
@@ -33685,25 +33703,6 @@
       "خيال",
       "رومانسي",
       "تجسيد"
-    ]
-  },
-  {
-    "id": "while-everyone-else-became-a-romance-fantasy-heroine-i-turned-into-a-wardrobe-monster",
-    "title": "While Everyone Else Became a Romance Fantasy Heroine, I Turned Into a Wardrobe Monster",
-    "url": "https://azorafly.com/series/while-everyone-else-became-a-romance-fantasy-heroine-i-turned-into-a-wardrobe-monster",
-    "cover_url": "https://storage.azorafly.com/upload/series/featured/a5vVlSc5huft2AzUyK1VxgKh1ckCWLbZ/16c4f2fa-cb3c-46de-887f-14183f6b1655.jpg",
-    "type": "رواية",
-    "status": "مكتمل",
-    "rating": "9.5",
-    "total_chapters": 160,
-    "genres": [
-      "أكشن",
-      "أصدقاء طفولة",
-      "رومانسي",
-      "كوميدي",
-      "خيال",
-      "تجسيد",
-      "شوجو"
     ]
   },
   {
