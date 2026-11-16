@@ -6,22 +6,28 @@
   "type": "مانهوا",
   "status": "مستمر",
   "last_update": "2026-05-07",
-  "rating": "9.7",
+  "rating": "9.8",
   "genres": [
     "ايسكاي",
     "الحياة اليومية",
-    "شوجو",
-    "إثارة",
+    "مغامرات",
+    "تاريخي",
     "سحر",
     "رومانسي",
-    "خيال",
-    "دراما",
+    "شوجو",
+    "إثارة",
     "غموض",
-    "تاريخي",
-    "مغامرات"
+    "دراما",
+    "خيال"
   ],
   "is_novel": false,
   "chapters": {
+    "https://azorafly.com/series/the-baby-raising-a-devil/chapter-62": {
+      "name": "62"
+    },
+    "https://azorafly.com/series/the-baby-raising-a-devil/chapter-61": {
+      "name": "61"
+    },
     "https://azorafly.com/series/the-baby-raising-a-devil/chapter-60": {
       "name": "60"
     },
@@ -181,10 +187,10 @@
     "https://azorafly.com/series/the-baby-raising-a-devil/chapter-8": {
       "name": "8"
     },
-    "https://azorafly.com/series/the-baby-raising-a-devil/chapter-7_01": {
+    "https://azorafly.com/series/the-baby-raising-a-devil/chapter-7": {
       "name": "7"
     },
-    "https://azorafly.com/series/the-baby-raising-a-devil/chapter-7": {
+    "https://azorafly.com/series/the-baby-raising-a-devil/chapter-7_01": {
       "name": "7"
     },
     "https://azorafly.com/series/the-baby-raising-a-devil/chapter-6": {

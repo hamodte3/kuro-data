@@ -9,11 +9,17 @@
   "rating": "8.2",
   "genres": [
     "خارق للطبيعة",
-    "خيال",
-    "رومانسي"
+    "رومانسي",
+    "خيال"
   ],
   "is_novel": false,
   "chapters": {
+    "https://azorafly.com/series/interspecies-protection-agency/chapter-40": {
+      "name": "40"
+    },
+    "https://azorafly.com/series/interspecies-protection-agency/chapter-39": {
+      "name": "39"
+    },
     "https://azorafly.com/series/interspecies-protection-agency/chapter-38": {
       "name": "38"
     },

@@ -6,7 +6,7 @@
   "type": "مانهوا",
   "status": "مستمر",
   "last_update": "2026-08-24",
-  "rating": "8.9",
+  "rating": "8.8",
   "genres": [
     "مانهوا",
     "فانتازيا",
@@ -15,6 +15,9 @@
   ],
   "is_novel": false,
   "chapters": {
+    "https://azorafly.com/series/i-saved-you-but-im-not-responsible/chapter-87": {
+      "name": "87"
+    },
     "https://azorafly.com/series/i-saved-you-but-im-not-responsible/chapter-86": {
       "name": "86"
     },

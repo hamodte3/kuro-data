@@ -6,15 +6,18 @@
   "type": "مانهوا",
   "status": "مستمر",
   "last_update": "2026-05-07",
-  "rating": "9.1",
+  "rating": "9.2",
   "genres": [
     "تناسخ",
-    "فنون قتالية",
     "فانتازيا",
+    "فنون قتالية",
     "أكشن"
   ],
   "is_novel": false,
   "chapters": {
+    "https://azorafly.com/series/the-heavenly-demon-wants-a-quiet-life/chapter-105": {
+      "name": "105"
+    },
     "https://azorafly.com/series/the-heavenly-demon-wants-a-quiet-life/chapter-104": {
       "name": "104"
     },

@@ -9,12 +9,15 @@
   "rating": "9.9",
   "genres": [
     "اطفال",
-    "رومانسي",
     "كوميدي",
+    "رومانسي",
     "فانتازيا"
   ],
   "is_novel": false,
   "chapters": {
+    "https://azorafly.com/series/the-grand-duke's-new-daughter-in-law-is-a-little-fierce/chapter-28": {
+      "name": "28"
+    },
     "https://azorafly.com/series/the-grand-duke's-new-daughter-in-law-is-a-little-fierce/chapter-27": {
       "name": "27"
     },
