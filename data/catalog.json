@@ -1,49 +1,5 @@
 [
   {
-    "id": "my-husband-possessed-the-protagonist",
-    "title": "My Husband Possessed the Protagonist",
-    "url": "https://azorafly.com/series/my-husband-possessed-the-protagonist",
-    "cover_url": "https://storage.azorafly.com/upload/series/featured/f1fef4cc-ebcb-4b26-90b6-b65fe212f932/e8fbfa2d-f0a3-4bf1-abdf-905b68551ee4.jpg",
-    "type": "مانهوا",
-    "status": "مستمر",
-    "rating": "7.8",
-    "total_chapters": 57,
-    "genres": [
-      "خيالي",
-      "رومانسي",
-      "تجسيد"
-    ]
-  },
-  {
-    "id": "the-investment-method-of-a-wall-street-genius-on-borrowed-time",
-    "title": "The Investment Method of a Wall Street Genius on Borrowed Time",
-    "url": "https://azorafly.com/series/the-investment-method-of-a-wall-street-genius-on-borrowed-time",
-    "cover_url": "https://storage.azorafly.com/upload/series/featured/6cac1de1-87ae-4a81-9cd1-2abe99fd84d7/e4b8baba-dfb5-4d6c-a981-3682a758ad89.png",
-    "type": "مانهوا",
-    "status": "مستمر",
-    "rating": "9.9",
-    "total_chapters": 18,
-    "genres": [
-      "مال",
-      "مكتبي",
-      "دراما"
-    ]
-  },
-  {
-    "id": "the-regressor-and-the-blind-saintess",
-    "title": "The Regressor and the Blind Saintess",
-    "url": "https://azorafly.com/series/the-regressor-and-the-blind-saintess",
-    "cover_url": "https://storage.azorafly.com/upload/series/featured/02408b52-85d5-445d-9e5c-f7dbcd583bf8/fd91dd7c-0464-4fcc-91af-813b7a128dc9.jpg",
-    "type": "مانهوا",
-    "total_chapters": 24,
-    "genres": [
-      "اكشن",
-      "رومانسى"
-    ],
-    "status": "مستمر",
-    "rating": "9.0"
-  },
-  {
     "id": "dearest-fiance-i-know-you-despise-me",
     "title": "Dearest fiance i know you despise me",
     "url": "https://azorafly.com/series/dearest-fiance-i-know-you-despise-me",
@@ -1339,21 +1295,6 @@
       "خيال",
       "رومانسي",
       "دراما"
-    ]
-  },
-  {
-    "id": "thats-not-what-my-will-said",
-    "title": "That's Not What My Will Said",
-    "url": "https://azorafly.com/series/thats-not-what-my-will-said",
-    "cover_url": "https://storage.azorafly.com/public/upload/series/featured/02408b52-85d5-445d-9e5c-f7dbcd583bf8/3e97fe65-b467-4035-8bca-dd8b70fffbfd.jpg",
-    "type": "مانهوا",
-    "status": "مستمر",
-    "rating": "8.8",
-    "total_chapters": 62,
-    "genres": [
-      "فانتازيا",
-      "رومانسي",
-      "خيال"
     ]
   },
   {
@@ -2976,7 +2917,7 @@
     "cover_url": "https://storage.azorafly.com/2021/06/BD.webp",
     "type": "مانهوا",
     "status": "مستمر",
-    "rating": "9.5",
+    "rating": "9.6",
     "total_chapters": 212,
     "genres": [
       "اسبوعي",
@@ -2994,8 +2935,8 @@
     "total_chapters": 14,
     "genres": [
       "خيالي",
-      "تاريخي",
       "كوميدي",
+      "تاريخي",
       "رومانسي",
       "شوجو"
     ],
@@ -3029,8 +2970,8 @@
     "rating": "9.8",
     "total_chapters": 63,
     "genres": [
-      "عودة بالزمن",
       "كوميدي",
+      "عودة بالزمن",
       "رومانسي",
       "دراما",
       "خيال"
@@ -3211,6 +3152,116 @@
     ]
   },
   {
+    "id": "lingering-pain",
+    "title": "Lingering Pain",
+    "url": "https://azorafly.com/series/lingering-pain",
+    "cover_url": "https://storage.azorafly.com/upload/series/featured/02408b52-85d5-445d-9e5c-f7dbcd583bf8/cadf28e9-dd50-4ce6-ad23-5c70681ec3df.jpg",
+    "type": "مانهوا",
+    "status": "مستمر",
+    "rating": "9.0",
+    "total_chapters": 34,
+    "genres": [
+      "فانتازيا",
+      "رومانسي",
+      "دراما"
+    ]
+  },
+  {
+    "id": "thats-not-what-my-will-said",
+    "title": "That's Not What My Will Said",
+    "url": "https://azorafly.com/series/thats-not-what-my-will-said",
+    "cover_url": "https://storage.azorafly.com/public/upload/series/featured/02408b52-85d5-445d-9e5c-f7dbcd583bf8/3e97fe65-b467-4035-8bca-dd8b70fffbfd.jpg",
+    "type": "مانهوا",
+    "status": "مستمر",
+    "rating": "8.8",
+    "total_chapters": 64,
+    "genres": [
+      "فانتازيا",
+      "رومانسي",
+      "خيال"
+    ]
+  },
+  {
+    "id": "the-villainous-sister-hides-her-wealth",
+    "title": "The villainess sister hides her wealth",
+    "url": "https://azorafly.com/series/the-villainous-sister-hides-her-wealth",
+    "cover_url": "https://storage.azorafly.com/2025/01/resource.jpeg",
+    "type": "مانهوا",
+    "status": "مستمر",
+    "rating": "9.5",
+    "total_chapters": 81,
+    "genres": [
+      "مانهوا",
+      "رومانسي",
+      "دراما",
+      "خيال"
+    ]
+  },
+  {
+    "id": "the-forgotten-fields",
+    "title": "The Forgotten Fields",
+    "url": "https://azorafly.com/series/the-forgotten-fields",
+    "cover_url": "https://storage.azorafly.com/upload/series/featured/gXgURMWDiDJ221UEUfe7aZFaAE1PF9X1/51afaa77-bf26-4041-b8ee-038f818330ba.jpg",
+    "type": "رواية",
+    "status": "مستمر",
+    "rating": "9.6",
+    "total_chapters": 325,
+    "genres": [
+      "كراهية",
+      "رجل نادم",
+      "زواج مرتب",
+      "عصور وسطى",
+      "رومانسي",
+      "تاريخي",
+      "مأساة",
+      "دراما"
+    ]
+  },
+  {
+    "id": "my-husband-possessed-the-protagonist",
+    "title": "My Husband Possessed the Protagonist",
+    "url": "https://azorafly.com/series/my-husband-possessed-the-protagonist",
+    "cover_url": "https://storage.azorafly.com/upload/series/featured/f1fef4cc-ebcb-4b26-90b6-b65fe212f932/e8fbfa2d-f0a3-4bf1-abdf-905b68551ee4.jpg",
+    "type": "مانهوا",
+    "status": "مستمر",
+    "rating": "7.8",
+    "total_chapters": 57,
+    "genres": [
+      "خيالي",
+      "رومانسي",
+      "تجسيد"
+    ]
+  },
+  {
+    "id": "the-investment-method-of-a-wall-street-genius-on-borrowed-time",
+    "title": "The Investment Method of a Wall Street Genius on Borrowed Time",
+    "url": "https://azorafly.com/series/the-investment-method-of-a-wall-street-genius-on-borrowed-time",
+    "cover_url": "https://storage.azorafly.com/upload/series/featured/6cac1de1-87ae-4a81-9cd1-2abe99fd84d7/e4b8baba-dfb5-4d6c-a981-3682a758ad89.png",
+    "type": "مانهوا",
+    "status": "مستمر",
+    "rating": "9.9",
+    "total_chapters": 18,
+    "genres": [
+      "مال",
+      "مكتبي",
+      "دراما"
+    ]
+  },
+  {
+    "id": "the-regressor-and-the-blind-saintess",
+    "title": "The Regressor and the Blind Saintess",
+    "url": "https://azorafly.com/series/the-regressor-and-the-blind-saintess",
+    "cover_url": "https://storage.azorafly.com/upload/series/featured/02408b52-85d5-445d-9e5c-f7dbcd583bf8/fd91dd7c-0464-4fcc-91af-813b7a128dc9.jpg",
+    "type": "مانهوا",
+    "total_chapters": 24,
+    "genres": [
+      "اكشن",
+      "رومانسى"
+    ],
+    "status": "مستمر",
+    "rating": "9.0"
+  },
+  {
     "id": "it's-said-that-the-nerd-in-our-class-likes-me-but-i-had-no-idea",
     "title": "It's said that the nerd in our class likes me, but I had no idea",
     "url": "https://azorafly.com/series/it's-said-that-the-nerd-in-our-class-likes-me-but-i-had-no-idea",
@@ -3226,26 +3277,6 @@
       "تاريخي",
       "أكاديمية",
       "كوميدي"
-    ]
-  },
-  {
-    "id": "the-forgotten-fields",
-    "title": "The Forgotten Fields",
-    "url": "https://azorafly.com/series/the-forgotten-fields",
-    "cover_url": "https://storage.azorafly.com/upload/series/featured/gXgURMWDiDJ221UEUfe7aZFaAE1PF9X1/51afaa77-bf26-4041-b8ee-038f818330ba.jpg",
-    "type": "رواية",
-    "status": "مستمر",
-    "rating": "9.6",
-    "total_chapters": 324,
-    "genres": [
-      "كراهية",
-      "رجل نادم",
-      "زواج مرتب",
-      "عصور وسطى",
-      "دراما",
-      "تاريخي",
-      "رومانسي",
-      "مأساة"
     ]
   },
   {
@@ -5274,21 +5305,6 @@
     "rating": "10.0",
     "total_chapters": 44,
     "genres": []
-  },
-  {
-    "id": "lingering-pain",
-    "title": "Lingering Pain",
-    "url": "https://azorafly.com/series/lingering-pain",
-    "cover_url": "https://storage.azorafly.com/upload/series/featured/02408b52-85d5-445d-9e5c-f7dbcd583bf8/cadf28e9-dd50-4ce6-ad23-5c70681ec3df.jpg",
-    "type": "مانهوا",
-    "status": "مستمر",
-    "rating": "9.0",
-    "total_chapters": 32,
-    "genres": [
-      "فانتازيا",
-      "رومانسي",
-      "دراما"
-    ]
   },
   {
     "id": "the-marriage-contract-ended-but-i-had-a-daughter",
@@ -9719,22 +9735,6 @@
     "genres": [
       "رعب",
       "فانتازيا"
-    ]
-  },
-  {
-    "id": "the-villainous-sister-hides-her-wealth",
-    "title": "The villainess sister hides her wealth",
-    "url": "https://azorafly.com/series/the-villainous-sister-hides-her-wealth",
-    "cover_url": "https://storage.azorafly.com/2025/01/resource.jpeg",
-    "type": "مانهوا",
-    "status": "مستمر",
-    "rating": "9.5",
-    "total_chapters": 80,
-    "genres": [
-      "مانهوا",
-      "رومانسي",
-      "خيال",
-      "دراما"
     ]
   },
   {

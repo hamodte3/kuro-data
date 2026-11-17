@@ -12,13 +12,16 @@
     "رجل نادم",
     "زواج مرتب",
     "عصور وسطى",
-    "دراما",
-    "تاريخي",
     "رومانسي",
-    "مأساة"
+    "تاريخي",
+    "مأساة",
+    "دراما"
   ],
   "is_novel": false,
   "chapters": {
+    "https://azorafly.com/series/the-forgotten-fields/chapter-326": {
+      "name": "326"
+    },
     "https://azorafly.com/series/the-forgotten-fields/chapter-325": {
       "name": "325"
     },
