@@ -9,11 +9,14 @@
   "rating": "9.3",
   "genres": [
     "فانتازيا",
-    "رومانسي",
-    "كوميدي"
+    "كوميدي",
+    "رومانسي"
   ],
   "is_novel": false,
   "chapters": {
+    "https://azorafly.com/series/my-husband-is-my-ultimate-bias-but-i-think-he-wants-a-divorce/chapter-48": {
+      "name": "48"
+    },
     "https://azorafly.com/series/my-husband-is-my-ultimate-bias-but-i-think-he-wants-a-divorce/chapter-47": {
       "name": "47"
     },

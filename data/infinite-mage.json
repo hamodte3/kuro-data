@@ -8,15 +8,18 @@
   "last_update": "2026-07-21",
   "rating": "9.6",
   "genres": [
-    "دراما",
     "سحر",
+    "دراما",
     "مغامرة",
     "شونين",
-    "خيال",
-    "أكشن"
+    "أكشن",
+    "خيال"
   ],
   "is_novel": false,
   "chapters": {
+    "https://azorafly.com/series/infinite-mage/chapter-194": {
+      "name": "194"
+    },
     "https://azorafly.com/series/infinite-mage/chapter-193": {
       "name": "193"
     },

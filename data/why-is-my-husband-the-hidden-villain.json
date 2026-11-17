@@ -6,18 +6,30 @@
   "type": "رواية",
   "status": "مستمر",
   "last_update": "2026-09-13",
-  "rating": "10.0",
+  "rating": "9.5",
   "genres": [
-    "علاقة تعاقدية",
-    "كوميدي",
-    "رعاية أطفال",
-    "تجسيد",
     "رومانسي",
     "دراما",
+    "رعاية أطفال",
+    "علاقة تعاقدية",
+    "كوميدي",
+    "تجسيد",
     "خيال"
   ],
   "is_novel": false,
   "chapters": {
+    "https://azorafly.com/series/why-is-my-husband-the-hidden-villain/chapter-6": {
+      "name": "6"
+    },
+    "https://azorafly.com/series/why-is-my-husband-the-hidden-villain/chapter-5": {
+      "name": "5"
+    },
+    "https://azorafly.com/series/why-is-my-husband-the-hidden-villain/chapter-4": {
+      "name": "4"
+    },
+    "https://azorafly.com/series/why-is-my-husband-the-hidden-villain/chapter-3": {
+      "name": "3"
+    },
     "https://azorafly.com/series/why-is-my-husband-the-hidden-villain/chapter-2": {
       "name": "2"
     },
