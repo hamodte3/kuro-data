@@ -8,11 +8,14 @@
   "last_update": "2026-09-25",
   "rating": "9.3",
   "genres": [
-    "رومانسى",
-    "فانتازيا"
+    "فانتازيا",
+    "رومانسى"
   ],
   "is_novel": false,
   "chapters": {
+    "https://azorafly.com/series/about-things-that-never-happened1/chapter-26": {
+      "name": "26"
+    },
     "https://azorafly.com/series/about-things-that-never-happened1/chapter-25": {
       "name": "25"
     },

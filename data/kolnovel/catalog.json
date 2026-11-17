@@ -1302,23 +1302,6 @@
     ]
   },
   {
-    "id": "تسلق البرج باستخدام قدرة إيقاف الزمن",
-    "title": "تسلق البرج باستخدام قدرة إيقاف الزمن",
-    "url": "https://kolnovel.com/series/%d8%aa%d8%b3%d9%84%d9%82-%d8%a7%d9%84%d8%a8%d8%b1%d8%ac-%d8%a8%d8%a7%d8%b3%d8%aa%d8%ae%d8%af%d8%a7%d9%85-%d9%82%d8%af%d8%b1%d8%a9-%d8%a5%d9%8a%d9%82%d8%a7%d9%81-%d8%a7%d9%84%d8%b2%d9%85%d9%86",
-    "cover_url": "https://kolnovel.com/wp-content/uploads/2026/07/113225-2.png",
-    "type": "رواية",
-    "is_novel": true,
-    "rating": "7.5",
-    "total_chapters": 24,
-    "genres": [
-      "أكشن",
-      "خيال",
-      "سينين",
-      "مغامرة"
-    ],
-    "status": "مستمر"
-  },
-  {
     "id": "الليتش المجنون",
     "title": "الليتش المجنون",
     "url": "https://kolnovel.com/series/%d8%a7%d9%84%d9%84%d9%8a%d8%aa%d8%b4-%d8%a7%d9%84%d9%85%d8%ac%d9%86%d9%88%d9%86",
@@ -1342,7 +1325,7 @@
     "cover_url": "https://kolnovel.com/wp-content/uploads/2023/03/95_20231124170026.png",
     "type": "رواية",
     "is_novel": true,
-    "rating": "",
+    "rating": "8.8",
     "total_chapters": 24,
     "genres": [
       "أكشن",
@@ -1392,24 +1375,6 @@
       "نفسي"
     ],
     "status": "مستمر"
-  },
-  {
-    "id": "أصبحتُ اللاعب الوحيد الذي يعرف البرج",
-    "title": "أصبحتُ اللاعب الوحيد الذي يعرف البرج",
-    "url": "https://kolnovel.com/series/%d8%a3%d8%b5%d8%a8%d8%ad%d8%aa-%d8%a7%d9%84%d9%84%d8%a7%d8%b9%d8%a8-%d8%a7%d9%84%d9%88%d8%ad%d9%8a%d8%af-%d8%a7%d9%84%d8%b0%d9%8a-%d9%8a%d8%b9%d8%b1%d9%81-%d8%a7%d9%84%d8%a8%d8%b1%d8%ac",
-    "cover_url": "https://kolnovel.com/wp-content/uploads/2026/11/file_0000000053ec820a84d3f1d4bb31163a.png",
-    "type": "رواية",
-    "status": "مستمر",
-    "is_novel": true,
-    "rating": "",
-    "total_chapters": 2,
-    "genres": [
-      "أبراج",
-      "أكشن",
-      "فانتازيا",
-      "مغامرة",
-      "نظام"
-    ]
   },
   {
     "id": "القاتل الأزلي",
@@ -1492,26 +1457,6 @@
     "status": "مستمر"
   },
   {
-    "id": "وورم",
-    "title": "وورم",
-    "url": "https://kolnovel.com/series/%d9%88%d9%88%d8%b1%d9%85",
-    "cover_url": "https://kolnovel.com/wp-content/uploads/2026/10/18713259-109x150.jpg",
-    "type": "رواية",
-    "status": "مستمر",
-    "is_novel": true,
-    "rating": "",
-    "total_chapters": 24,
-    "genres": [
-      "أكشن",
-      "إثارة",
-      "خيال علمي مظلم",
-      "دراما",
-      "غموض",
-      "قوة خارقة",
-      "نفسي"
-    ]
-  },
-  {
     "id": "كتاب المئة حياة",
     "title": "كتاب المئة حياة",
     "url": "https://kolnovel.com/series/%d9%83%d8%aa%d8%a7%d8%a8-%d8%a7%d9%84%d9%85%d8%a6%d8%a9-%d8%ad%d9%8a%d8%a7%d8%a9",
@@ -1586,30 +1531,6 @@
       "فنون قتال",
       "قوى خارقة",
       "مغامرة"
-    ],
-    "status": "مستمر"
-  },
-  {
-    "id": "ما نسيه العالم",
-    "title": "ما نسيه العالم",
-    "url": "https://kolnovel.com/series/%d9%85%d8%a7-%d9%86%d8%b3%d9%8a%d9%87-%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85",
-    "cover_url": "https://kolnovel.com/wp-content/uploads/2026/09/Gemini_Generated_Image_38s0mf38s0mf38s0.jpg",
-    "type": "رواية",
-    "is_novel": true,
-    "rating": "",
-    "total_chapters": 24,
-    "genres": [
-      "إثارة",
-      "استراتيجي",
-      "بطل رمادي",
-      "خيال مظلم",
-      "دراما",
-      "سحر",
-      "سياسية",
-      "غموض",
-      "مؤامرة",
-      "ماساة",
-      "نفسي"
     ],
     "status": "مستمر"
   },
@@ -1718,6 +1639,85 @@
       "خيال",
       "دراما",
       "غموض"
+    ],
+    "status": "مستمر"
+  },
+  {
+    "id": "تسلق البرج باستخدام قدرة إيقاف الزمن",
+    "title": "تسلق البرج باستخدام قدرة إيقاف الزمن",
+    "url": "https://kolnovel.com/series/%d8%aa%d8%b3%d9%84%d9%82-%d8%a7%d9%84%d8%a8%d8%b1%d8%ac-%d8%a8%d8%a7%d8%b3%d8%aa%d8%ae%d8%af%d8%a7%d9%85-%d9%82%d8%af%d8%b1%d8%a9-%d8%a5%d9%8a%d9%82%d8%a7%d9%81-%d8%a7%d9%84%d8%b2%d9%85%d9%86",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2026/07/113225-2.png",
+    "type": "رواية",
+    "is_novel": true,
+    "rating": "",
+    "total_chapters": 24,
+    "genres": [
+      "أكشن",
+      "خيال",
+      "سينين",
+      "مغامرة"
+    ],
+    "status": "مستمر"
+  },
+  {
+    "id": "أصبحتُ اللاعب الوحيد الذي يعرف البرج",
+    "title": "أصبحتُ اللاعب الوحيد الذي يعرف البرج",
+    "url": "https://kolnovel.com/series/%d8%a3%d8%b5%d8%a8%d8%ad%d8%aa-%d8%a7%d9%84%d9%84%d8%a7%d8%b9%d8%a8-%d8%a7%d9%84%d9%88%d8%ad%d9%8a%d8%af-%d8%a7%d9%84%d8%b0%d9%8a-%d9%8a%d8%b9%d8%b1%d9%81-%d8%a7%d9%84%d8%a8%d8%b1%d8%ac",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2026/11/file_0000000053ec820a84d3f1d4bb31163a.png",
+    "type": "رواية",
+    "status": "مستمر",
+    "is_novel": true,
+    "rating": "",
+    "total_chapters": 3,
+    "genres": [
+      "أبراج",
+      "أكشن",
+      "فانتازيا",
+      "مغامرة",
+      "نظام"
+    ]
+  },
+  {
+    "id": "وورم",
+    "title": "وورم",
+    "url": "https://kolnovel.com/series/%d9%88%d9%88%d8%b1%d9%85",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2026/10/18713259-109x150.jpg",
+    "type": "رواية",
+    "status": "مستمر",
+    "is_novel": true,
+    "rating": "",
+    "total_chapters": 24,
+    "genres": [
+      "أكشن",
+      "إثارة",
+      "خيال علمي مظلم",
+      "دراما",
+      "غموض",
+      "قوة خارقة",
+      "نفسي"
+    ]
+  },
+  {
+    "id": "ما نسيه العالم",
+    "title": "ما نسيه العالم",
+    "url": "https://kolnovel.com/series/%d9%85%d8%a7-%d9%86%d8%b3%d9%8a%d9%87-%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2026/09/Gemini_Generated_Image_38s0mf38s0mf38s0.jpg",
+    "type": "رواية",
+    "is_novel": true,
+    "rating": "",
+    "total_chapters": 24,
+    "genres": [
+      "إثارة",
+      "استراتيجي",
+      "بطل رمادي",
+      "خيال مظلم",
+      "دراما",
+      "سحر",
+      "سياسية",
+      "غموض",
+      "مؤامرة",
+      "ماساة",
+      "نفسي"
     ],
     "status": "مستمر"
   },
