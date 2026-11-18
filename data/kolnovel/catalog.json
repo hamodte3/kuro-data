@@ -1035,23 +1035,6 @@
     "status": "مستمر"
   },
   {
-    "id": "جمر الليل الأبدي",
-    "title": "جمر الليل الأبدي",
-    "url": "https://kolnovel.com/series/%d8%ac%d9%85%d8%b1-%d8%a7%d9%84%d9%84%d9%8a%d9%84-%d8%a7%d9%84%d8%a3%d8%a8%d8%af%d9%8a",
-    "cover_url": "https://kolnovel.com/wp-content/uploads/2021/01/9c83b30e7df689b2.png",
-    "type": "رواية",
-    "status": "مستمر",
-    "is_novel": true,
-    "rating": "8.7",
-    "total_chapters": 24,
-    "genres": [
-      "أكشن",
-      "خيال علمي",
-      "غموض",
-      "ما بعد الكارثة"
-    ]
-  },
-  {
     "id": "انتفاضة الحُمر",
     "title": "انتفاضة الحُمر",
     "url": "https://kolnovel.com/series/%d8%a7%d9%86%d8%aa%d9%81%d8%a7%d8%b6%d8%a9-%d8%a7%d9%84%d8%ad%d9%8f%d9%85%d8%b1",
@@ -1342,15 +1325,13 @@
     "cover_url": "https://kolnovel.com/wp-content/uploads/2025/01/بدون-اسم72.png",
     "type": "رواية",
     "is_novel": true,
-    "rating": "",
+    "rating": "8.0",
     "total_chapters": 24,
     "genres": [
       "أكشن",
       "خيال",
       "شريحة من الحياة",
-      "شيانشيا",
-      "مغامرة",
-      "ووشيا"
+      "شيانشيا"
     ],
     "status": "مستمر"
   },
@@ -1513,30 +1494,6 @@
     ]
   },
   {
-    "id": "ما نسيه العالم",
-    "title": "ما نسيه العالم",
-    "url": "https://kolnovel.com/series/%d9%85%d8%a7-%d9%86%d8%b3%d9%8a%d9%87-%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85",
-    "cover_url": "https://kolnovel.com/wp-content/uploads/2026/09/Gemini_Generated_Image_38s0mf38s0mf38s0.jpg",
-    "type": "رواية",
-    "is_novel": true,
-    "rating": "",
-    "total_chapters": 24,
-    "genres": [
-      "إثارة",
-      "استراتيجي",
-      "بطل رمادي",
-      "خيال مظلم",
-      "دراما",
-      "سحر",
-      "سياسية",
-      "غموض",
-      "مؤامرة",
-      "ماساة",
-      "نفسي"
-    ],
-    "status": "مستمر"
-  },
-  {
     "id": "خالد العوالم التسعة",
     "title": "خالد العوالم التسعة",
     "url": "https://kolnovel.com/series/%d8%ae%d8%a7%d9%84%d8%af-%d8%a7%d9%84%d8%b9%d9%88%d8%a7%d9%84%d9%85-%d8%a7%d9%84%d8%aa%d8%b3%d8%b9%d8%a9",
@@ -1671,22 +1628,6 @@
     "status": "مستمر"
   },
   {
-    "id": "مُحتجَزة من جديد على يد الأبطال الذكور",
-    "title": "مُحتجَزة من جديد على يد الأبطال الذكور",
-    "url": "https://kolnovel.com/series/%d9%85%d9%8f%d8%ad%d8%aa%d8%ac%d9%8e%d8%b2%d8%a9-%d9%85%d9%86-%d8%ac%d8%af%d9%8a%d8%af-%d8%b9%d9%84%d9%89-%d9%8a%d8%af-%d8%a7%d9%84%d8%a3%d8%a8%d8%b7%d8%a7%d9%84-%d8%a7%d9%84%d8%b0%d9%83%d9%88%d8%b1",
-    "cover_url": "https://kolnovel.com/wp-content/uploads/2026/11/IMG_20260902_005730_909-98x150.webp",
-    "type": "رواية",
-    "status": "مستمر",
-    "is_novel": true,
-    "rating": "",
-    "total_chapters": 24,
-    "genres": [
-      "خيال",
-      "رومانسي",
-      "نفسي"
-    ]
-  },
-  {
     "id": "أصبحتُ اللاعب الوحيد الذي يعرف البرج",
     "title": "أصبحتُ اللاعب الوحيد الذي يعرف البرج",
     "url": "https://kolnovel.com/series/%d8%a3%d8%b5%d8%a8%d8%ad%d8%aa-%d8%a7%d9%84%d9%84%d8%a7%d8%b9%d8%a8-%d8%a7%d9%84%d9%88%d8%ad%d9%8a%d8%af-%d8%a7%d9%84%d8%b0%d9%8a-%d9%8a%d8%b9%d8%b1%d9%81-%d8%a7%d9%84%d8%a8%d8%b1%d8%ac",
@@ -1720,6 +1661,64 @@
       "غموض"
     ],
     "status": "مستمر"
+  },
+  {
+    "id": "ما نسيه العالم",
+    "title": "ما نسيه العالم",
+    "url": "https://kolnovel.com/series/%d9%85%d8%a7-%d9%86%d8%b3%d9%8a%d9%87-%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2026/09/Gemini_Generated_Image_38s0mf38s0mf38s0.jpg",
+    "type": "رواية",
+    "is_novel": true,
+    "rating": "",
+    "total_chapters": 24,
+    "genres": [
+      "إثارة",
+      "استراتيجي",
+      "بطل رمادي",
+      "خيال مظلم",
+      "دراما",
+      "سحر",
+      "سياسية",
+      "غموض",
+      "مؤامرة",
+      "ماساة",
+      "نفسي"
+    ],
+    "status": "مستمر"
+  },
+  {
+    "id": "جمر الليل الأبدي",
+    "title": "جمر الليل الأبدي",
+    "url": "https://kolnovel.com/series/%d8%ac%d9%85%d8%b1-%d8%a7%d9%84%d9%84%d9%8a%d9%84-%d8%a7%d9%84%d8%a3%d8%a8%d8%af%d9%8a",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2021/01/9c83b30e7df689b2.png",
+    "type": "رواية",
+    "status": "مستمر",
+    "is_novel": true,
+    "rating": "",
+    "total_chapters": 24,
+    "genres": [
+      "أكشن",
+      "الخيال العلمي",
+      "غموض",
+      "ما بعد الكارثة",
+      "مغامرة"
+    ]
+  },
+  {
+    "id": "مُحتجَزة من جديد على يد الأبطال الذكور",
+    "title": "مُحتجَزة من جديد على يد الأبطال الذكور",
+    "url": "https://kolnovel.com/series/%d9%85%d9%8f%d8%ad%d8%aa%d8%ac%d9%8e%d8%b2%d8%a9-%d9%85%d9%86-%d8%ac%d8%af%d9%8a%d8%af-%d8%b9%d9%84%d9%89-%d9%8a%d8%af-%d8%a7%d9%84%d8%a3%d8%a8%d8%b7%d8%a7%d9%84-%d8%a7%d9%84%d8%b0%d9%83%d9%88%d8%b1",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2026/11/IMG_20260902_005730_909-98x150.webp",
+    "type": "رواية",
+    "status": "مستمر",
+    "is_novel": true,
+    "rating": "",
+    "total_chapters": 24,
+    "genres": [
+      "خيال",
+      "رومانسي",
+      "نفسي"
+    ]
   },
   {
     "id": "The Heavenly Demon Cant Live a Normal Life",

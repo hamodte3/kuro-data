@@ -8,15 +8,18 @@
   "last_update": "2026-11-12",
   "rating": "10.0",
   "genres": [
-    "اكشن",
     "موريم",
-    "فنون قتالية",
+    "اكشن",
     "مغامرات",
+    "فانتازيا",
     "غموض",
-    "فانتازيا"
+    "فنون قتالية"
   ],
   "is_novel": false,
   "chapters": {
+    "https://azorafly.com/series/the-tale-of-cultivation-and-demon-extermination/chapter-23": {
+      "name": "23"
+    },
     "https://azorafly.com/series/the-tale-of-cultivation-and-demon-extermination/chapter-22": {
       "name": "22"
     },
