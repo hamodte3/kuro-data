@@ -6,7 +6,7 @@
   "type": "مانهوا",
   "status": "مستمر",
   "last_update": "2026-11-17",
-  "rating": "9.0",
+  "rating": "9.8",
   "genres": [
     "خيالي",
     "اكشن",
@@ -14,6 +14,15 @@
   ],
   "is_novel": false,
   "chapters": {
+    "https://azorafly.com/series/60-frames-my-own-time/chapter-4": {
+      "name": "4"
+    },
+    "https://azorafly.com/series/60-frames-my-own-time/chapter-3": {
+      "name": "3"
+    },
+    "https://azorafly.com/series/60-frames-my-own-time/chapter-2": {
+      "name": "2"
+    },
     "https://azorafly.com/series/60-frames-my-own-time/chapter-1": {
       "name": "1"
     }

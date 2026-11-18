@@ -6,15 +6,18 @@
   "type": "مانهوا",
   "status": "مستمر",
   "last_update": "2026-08-07",
-  "rating": "8.6",
+  "rating": "8.7",
   "genres": [
-    "فنتازيا",
-    "شوجو",
     "رومانسي",
-    "دراما"
+    "شوجو",
+    "دراما",
+    "فنتازيا"
   ],
   "is_novel": false,
   "chapters": {
+    "https://azorafly.com/series/i-thought-you-were-a-time-limited-husband/chapter-98": {
+      "name": "98"
+    },
     "https://azorafly.com/series/i-thought-you-were-a-time-limited-husband/chapter-97": {
       "name": "97"
     },

@@ -9,12 +9,15 @@
   "rating": "9.7",
   "genres": [
     "شونين",
+    "دراما",
     "فنتازيا",
-    "أكشن",
-    "دراما"
+    "أكشن"
   ],
   "is_novel": false,
   "chapters": {
+    "https://azorafly.com/series/the-regressed-son-of-a-duke-is-an-assassin/chapter-153": {
+      "name": "153"
+    },
     "https://azorafly.com/series/the-regressed-son-of-a-duke-is-an-assassin/chapter-152": {
       "name": "152"
     },
