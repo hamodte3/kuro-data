@@ -6,14 +6,17 @@
   "type": "مانهوا",
   "status": "مستمر",
   "last_update": "2026-08-21",
-  "rating": "8.4",
+  "rating": "8.6",
   "genres": [
     "خيالي",
-    "دراما",
-    "رومانسي"
+    "رومانسي",
+    "دراما"
   ],
   "is_novel": false,
   "chapters": {
+    "https://azorafly.com/series/my-dream-is-to-get-my-own-house/chapter-75": {
+      "name": "75"
+    },
     "https://azorafly.com/series/my-dream-is-to-get-my-own-house/chapter-74": {
       "name": "74"
     },

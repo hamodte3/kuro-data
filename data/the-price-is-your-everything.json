@@ -8,13 +8,22 @@
   "last_update": "2026-08-03",
   "rating": "9.3",
   "genres": [
-    "انتقام",
-    "خيال",
     "فانتازيا",
-    "دراما"
+    "دراما",
+    "خيال",
+    "انتقام"
   ],
   "is_novel": false,
   "chapters": {
+    "https://azorafly.com/series/the-price-is-your-everything/chapter-134": {
+      "name": "134"
+    },
+    "https://azorafly.com/series/the-price-is-your-everything/chapter-133": {
+      "name": "133"
+    },
+    "https://azorafly.com/series/the-price-is-your-everything/chapter-132": {
+      "name": "132"
+    },
     "https://azorafly.com/series/the-price-is-your-everything/chapter-131": {
       "name": "131"
     },
