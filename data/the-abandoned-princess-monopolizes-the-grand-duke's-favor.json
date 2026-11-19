@@ -9,11 +9,14 @@
   "rating": "10.0",
   "genres": [
     "خيالي",
-    "انتقام",
-    "رومانسى"
+    "رومانسى",
+    "انتقام"
   ],
   "is_novel": false,
   "chapters": {
+    "https://azorafly.com/series/the-abandoned-princess-monopolizes-the-grand-duke's-favor/chapter-33": {
+      "name": "33"
+    },
     "https://azorafly.com/series/the-abandoned-princess-monopolizes-the-grand-duke's-favor/chapter-32": {
       "name": "32"
     },
