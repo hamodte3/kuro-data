@@ -1537,25 +1537,6 @@
     "status": "مستمر"
   },
   {
-    "id": "ملك قد لا يعود",
-    "title": "ملك قد لا يعود",
-    "url": "https://kolnovel.com/series/%d9%85%d9%84%d9%83-%d9%82%d8%af-%d9%84%d8%a7-%d9%8a%d8%b9%d9%88%d8%af",
-    "cover_url": "https://kolnovel.com/wp-content/uploads/2026/06/AKMNR_2MG-1.png",
-    "type": "رواية",
-    "is_novel": true,
-    "rating": "",
-    "total_chapters": 24,
-    "genres": [
-      "أكشن",
-      "خيال",
-      "خيال مظلم",
-      "دراما",
-      "سحر",
-      "مغامرة"
-    ],
-    "status": "مستمر"
-  },
-  {
     "id": "أصبحتُ اللاعب الوحيد الذي يعرف البرج",
     "title": "أصبحتُ اللاعب الوحيد الذي يعرف البرج",
     "url": "https://kolnovel.com/series/%d8%a3%d8%b5%d8%a8%d8%ad%d8%aa-%d8%a7%d9%84%d9%84%d8%a7%d8%b9%d8%a8-%d8%a7%d9%84%d9%88%d8%ad%d9%8a%d8%af-%d8%a7%d9%84%d8%b0%d9%8a-%d9%8a%d8%b9%d8%b1%d9%81-%d8%a7%d9%84%d8%a8%d8%b1%d8%ac",
@@ -1613,24 +1594,6 @@
       "نفسي"
     ],
     "status": "مستمر"
-  },
-  {
-    "id": "جمر الليل الأبدي",
-    "title": "جمر الليل الأبدي",
-    "url": "https://kolnovel.com/series/%d8%ac%d9%85%d8%b1-%d8%a7%d9%84%d9%84%d9%8a%d9%84-%d8%a7%d9%84%d8%a3%d8%a8%d8%af%d9%8a",
-    "cover_url": "https://kolnovel.com/wp-content/uploads/2021/01/9c83b30e7df689b2.png",
-    "type": "رواية",
-    "status": "مستمر",
-    "is_novel": true,
-    "rating": "",
-    "total_chapters": 24,
-    "genres": [
-      "أكشن",
-      "الخيال العلمي",
-      "غموض",
-      "ما بعد الكارثة",
-      "مغامرة"
-    ]
   },
   {
     "id": "تسلق البرج باستخدام قدرة إيقاف الزمن",
@@ -1718,6 +1681,43 @@
       "غموض",
       "قوة خارقة",
       "نفسي"
+    ]
+  },
+  {
+    "id": "ملك قد لا يعود",
+    "title": "ملك قد لا يعود",
+    "url": "https://kolnovel.com/series/%d9%85%d9%84%d9%83-%d9%82%d8%af-%d9%84%d8%a7-%d9%8a%d8%b9%d9%88%d8%af",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2026/06/AKMNR_2MG-1.png",
+    "type": "رواية",
+    "is_novel": true,
+    "rating": "",
+    "total_chapters": 24,
+    "genres": [
+      "أكشن",
+      "خيال",
+      "خيال مظلم",
+      "دراما",
+      "سحر",
+      "مغامرة"
+    ],
+    "status": "مستمر"
+  },
+  {
+    "id": "جمر الليل الأبدي",
+    "title": "جمر الليل الأبدي",
+    "url": "https://kolnovel.com/series/%d8%ac%d9%85%d8%b1-%d8%a7%d9%84%d9%84%d9%8a%d9%84-%d8%a7%d9%84%d8%a3%d8%a8%d8%af%d9%8a",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2021/01/9c83b30e7df689b2.png",
+    "type": "رواية",
+    "status": "مستمر",
+    "is_novel": true,
+    "rating": "",
+    "total_chapters": 24,
+    "genres": [
+      "أكشن",
+      "الخيال العلمي",
+      "غموض",
+      "ما بعد الكارثة",
+      "مغامرة"
     ]
   },
   {

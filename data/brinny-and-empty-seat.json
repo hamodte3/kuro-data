@@ -6,16 +6,19 @@
   "type": "مانهوا",
   "status": "مستمر",
   "last_update": "2026-10-04",
-  "rating": "10.0",
+  "rating": "7.7",
   "genres": [
-    "فنتازيا",
     "غموض",
-    "رعب",
+    "رومانسي",
     "دراما",
-    "رومانسي"
+    "رعب",
+    "فنتازيا"
   ],
   "is_novel": false,
   "chapters": {
+    "https://azorafly.com/series/brinny-and-empty-seat/chapter-30": {
+      "name": "30"
+    },
     "https://azorafly.com/series/brinny-and-empty-seat/chapter-29": {
       "name": "29"
     },

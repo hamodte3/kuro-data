@@ -6,14 +6,17 @@
   "type": "مانهوا",
   "status": "مستمر",
   "last_update": "2026-09-24",
-  "rating": "9.0",
+  "rating": "9.2",
   "genres": [
     "اكشن",
-    "دراما",
-    "خيال"
+    "خيال",
+    "دراما"
   ],
   "is_novel": false,
   "chapters": {
+    "https://azorafly.com/series/shadow-slave/chapter-18": {
+      "name": "18"
+    },
     "https://azorafly.com/series/shadow-slave/chapter-17": {
       "name": "17"
     },
