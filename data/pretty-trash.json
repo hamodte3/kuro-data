@@ -9,11 +9,14 @@
   "rating": "10.0",
   "genres": [
     "كوميدي",
-    "رومانسي",
-    "دراما"
+    "دراما",
+    "رومانسي"
   ],
   "is_novel": false,
   "chapters": {
+    "https://azorafly.com/series/pretty-trash/chapter-31": {
+      "name": "31"
+    },
     "https://azorafly.com/series/pretty-trash/chapter-30": {
       "name": "30"
     },

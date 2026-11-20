@@ -6693,27 +6693,6 @@
     "status": "مستمر"
   },
   {
-    "id": "kingdom-2",
-    "title": "Kingdom (WAN)",
-    "url": "https://3asq.online/manga/kingdom-2",
-    "cover_url": "https://3asq.online/wp-content/uploads/2024/03/0cover-asq-hero-480-v2.webp",
-    "type": "مانغا",
-    "rating": "4.7",
-    "total_chapters": 50,
-    "genres": [
-      "أكشن",
-      "تاريخ",
-      "حرب",
-      "دراما",
-      "سينين",
-      "عسكرية",
-      "عنف",
-      "فنون قتالية",
-      "مأساة"
-    ],
-    "status": "مستمر"
-  },
-  {
     "id": "one-piece",
     "title": "One Piece",
     "url": "https://3asq.online/manga/one-piece",
@@ -6745,6 +6724,27 @@
       "أكشن",
       "فنون قتالية",
       "مدرسة"
+    ],
+    "status": "مستمر"
+  },
+  {
+    "id": "kingdom-2",
+    "title": "Kingdom (WAN)",
+    "url": "https://3asq.online/manga/kingdom-2",
+    "cover_url": "https://3asq.online/wp-content/uploads/2024/03/01-1-480x691.jpg.webp",
+    "type": "مانغا",
+    "rating": "4.7",
+    "total_chapters": 50,
+    "genres": [
+      "أكشن",
+      "تاريخ",
+      "حرب",
+      "دراما",
+      "سينين",
+      "عسكرية",
+      "عنف",
+      "فنون قتالية",
+      "مأساة"
     ],
     "status": "مستمر"
   }

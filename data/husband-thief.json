@@ -6,7 +6,7 @@
   "type": "مانهوا",
   "status": "مستمر",
   "last_update": "2026-05-07",
-  "rating": "6.8",
+  "rating": "7.1",
   "genres": [
     "خيالي",
     "رومانسي",
@@ -14,6 +14,9 @@
   ],
   "is_novel": false,
   "chapters": {
+    "https://azorafly.com/series/husband-thief/chapter-44": {
+      "name": "44"
+    },
     "https://azorafly.com/series/husband-thief/chapter-43": {
       "name": "43"
     },

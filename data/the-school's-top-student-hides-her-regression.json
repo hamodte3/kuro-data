@@ -10,12 +10,15 @@
   "genres": [
     "عصرى",
     "عودة بالزمن",
-    "كوميدي",
     "رومانسى",
+    "كوميدي",
     "فانتازيا"
   ],
   "is_novel": false,
   "chapters": {
+    "https://azorafly.com/series/the-school's-top-student-hides-her-regression/chapter-29": {
+      "name": "29"
+    },
     "https://azorafly.com/series/the-school's-top-student-hides-her-regression/chapter-28": {
       "name": "28"
     },
