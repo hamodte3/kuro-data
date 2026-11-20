@@ -1,21 +1,5 @@
 [
   {
-    "id": "ebony-3",
-    "title": "Ebony",
-    "url": "https://azorafly.com/series/ebony-3",
-    "cover_url": "https://storage.azorafly.com/2019/10/41838.jpg",
-    "type": "مانهوا",
-    "status": "مستمر",
-    "rating": "10.0",
-    "total_chapters": 69,
-    "genres": [
-      "تاريخي",
-      "رومانسي",
-      "شوجو",
-      "دراما"
-    ]
-  },
-  {
     "id": "revenge-of-the-iron-blooded-sword-hound",
     "title": "Revenge of the Iron-Blooded Sword Hound",
     "url": "https://azorafly.com/series/revenge-of-the-iron-blooded-sword-hound",
@@ -3167,7 +3151,7 @@
     "cover_url": "https://storage.azorafly.com/2025/12/G6w4_9Ra0AAqNBd.webp",
     "type": "مانهوا",
     "status": "مستمر",
-    "rating": "9.4",
+    "rating": "9.3",
     "total_chapters": 57,
     "genres": [
       "خيالي",
@@ -3189,6 +3173,53 @@
       "دراما",
       "خيال",
       "كوميدي"
+    ]
+  },
+  {
+    "id": "the-veteran-swordmaster's-stream",
+    "title": "The Veteran Swordmaster’s Stream",
+    "url": "https://azorafly.com/series/the-veteran-swordmaster's-stream",
+    "cover_url": "https://storage.azorafly.com/upload/series/featured/6cac1de1-87ae-4a81-9cd1-2abe99fd84d7/f8a1202b-82be-4739-904f-f8b779ba6a01.webp",
+    "type": "مانهوا",
+    "status": "مستمر",
+    "rating": "9.4",
+    "total_chapters": 45,
+    "genres": [
+      "اكشن",
+      "مغامرات",
+      "شونين",
+      "نظام"
+    ]
+  },
+  {
+    "id": "the-former-supreme",
+    "title": "The Former Supreme",
+    "url": "https://azorafly.com/series/the-former-supreme",
+    "cover_url": "https://storage.azorafly.com/upload/series/featured/6cac1de1-87ae-4a81-9cd1-2abe99fd84d7/bd9744ac-0c31-45e9-84d3-ac64d530947e.png",
+    "type": "مانهوا",
+    "status": "مستمر",
+    "rating": "9.3",
+    "total_chapters": 25,
+    "genres": [
+      "مغامرات",
+      "فنون قتالية",
+      "أكشن"
+    ]
+  },
+  {
+    "id": "ebony-3",
+    "title": "Ebony",
+    "url": "https://azorafly.com/series/ebony-3",
+    "cover_url": "https://storage.azorafly.com/2019/10/41838.jpg",
+    "type": "مانهوا",
+    "status": "مستمر",
+    "rating": "10.0",
+    "total_chapters": 69,
+    "genres": [
+      "تاريخي",
+      "رومانسي",
+      "شوجو",
+      "دراما"
     ]
   },
   {
@@ -4746,21 +4777,6 @@
     ]
   },
   {
-    "id": "the-former-supreme",
-    "title": "The Former Supreme",
-    "url": "https://azorafly.com/series/the-former-supreme",
-    "cover_url": "https://storage.azorafly.com/upload/series/featured/6cac1de1-87ae-4a81-9cd1-2abe99fd84d7/bd9744ac-0c31-45e9-84d3-ac64d530947e.png",
-    "type": "مانهوا",
-    "status": "مستمر",
-    "rating": "9.3",
-    "total_chapters": 24,
-    "genres": [
-      "فنون قتالية",
-      "مغامرات",
-      "أكشن"
-    ]
-  },
-  {
     "id": "starting-the-villainess-life-with-0-gold",
     "title": "Starting The Villainess Life With 0 Gold",
     "url": "https://azorafly.com/series/starting-the-villainess-life-with-0-gold",
@@ -5485,22 +5501,6 @@
     "rating": "10.0",
     "total_chapters": 45,
     "genres": []
-  },
-  {
-    "id": "the-veteran-swordmaster's-stream",
-    "title": "The Veteran Swordmaster’s Stream",
-    "url": "https://azorafly.com/series/the-veteran-swordmaster's-stream",
-    "cover_url": "https://storage.azorafly.com/upload/series/featured/6cac1de1-87ae-4a81-9cd1-2abe99fd84d7/f8a1202b-82be-4739-904f-f8b779ba6a01.webp",
-    "type": "مانهوا",
-    "status": "مستمر",
-    "rating": "9.4",
-    "total_chapters": 44,
-    "genres": [
-      "اكشن",
-      "مغامرات",
-      "شونين",
-      "نظام"
-    ]
   },
   {
     "id": "the-law-of-immutability",
