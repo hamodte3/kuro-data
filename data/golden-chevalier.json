@@ -10,11 +10,14 @@
   "genres": [
     "زمكاني",
     "فانتازيا",
-    "رومانسي",
-    "انتقام"
+    "انتقام",
+    "رومانسي"
   ],
   "is_novel": false,
   "chapters": {
+    "https://azorafly.com/series/golden-chevalier/chapter-58": {
+      "name": "58"
+    },
     "https://azorafly.com/series/golden-chevalier/chapter-57": {
       "name": "57"
     },

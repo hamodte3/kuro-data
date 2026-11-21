@@ -6,15 +6,21 @@
   "type": "مانهوا",
   "status": "مستمر",
   "last_update": "2026-07-13",
-  "rating": "9.8",
+  "rating": "9.7",
   "genres": [
     "تناسخ الارواح",
     "قوة خارقة",
-    "فنتازيا",
-    "غموض"
+    "غموض",
+    "فنتازيا"
   ],
   "is_novel": false,
   "chapters": {
+    "https://azorafly.com/series/the-dungeon-painter/chapter-34": {
+      "name": "34"
+    },
+    "https://azorafly.com/series/the-dungeon-painter/chapter-33": {
+      "name": "33"
+    },
     "https://azorafly.com/series/the-dungeon-painter/chapter-32": {
       "name": "32"
     },

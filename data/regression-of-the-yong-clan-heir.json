@@ -9,12 +9,18 @@
   "rating": "7.0",
   "genres": [
     "زمكاني",
-    "أكشن",
+    "فنون قتالية",
     "خيال",
-    "فنون قتالية"
+    "أكشن"
   ],
   "is_novel": false,
   "chapters": {
+    "https://azorafly.com/series/regression-of-the-yong-clan-heir/chapter-70": {
+      "name": "70"
+    },
+    "https://azorafly.com/series/regression-of-the-yong-clan-heir/chapter-69": {
+      "name": "69"
+    },
     "https://azorafly.com/series/regression-of-the-yong-clan-heir/chapter-68": {
       "name": "68"
     },

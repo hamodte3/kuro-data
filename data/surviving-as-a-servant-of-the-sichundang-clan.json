@@ -9,13 +9,16 @@
   "rating": "9.4",
   "genres": [
     "الحياة اليومية",
-    "مغامرات",
-    "كوميدي",
     "خيال",
+    "كوميدي",
+    "مغامرات",
     "رومانسي"
   ],
   "is_novel": false,
   "chapters": {
+    "https://azorafly.com/series/surviving-as-a-servant-of-the-sichundang-clan/chapter-53": {
+      "name": "53"
+    },
     "https://azorafly.com/series/surviving-as-a-servant-of-the-sichundang-clan/chapter-52": {
       "name": "52"
     },
