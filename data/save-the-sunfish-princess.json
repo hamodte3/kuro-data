@@ -9,12 +9,18 @@
   "rating": "9.9",
   "genres": [
     "اكشن",
+    "كوميدي",
     "رومانسى",
-    "فنتازيا",
-    "كوميدي"
+    "فنتازيا"
   ],
   "is_novel": false,
   "chapters": {
+    "https://azorafly.com/series/save-the-sunfish-princess/chapter-9": {
+      "name": "9"
+    },
+    "https://azorafly.com/series/save-the-sunfish-princess/chapter-8": {
+      "name": "8"
+    },
     "https://azorafly.com/series/save-the-sunfish-princess/chapter-7": {
       "name": "7"
     },

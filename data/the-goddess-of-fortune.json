@@ -8,13 +8,19 @@
   "last_update": "2026-05-15",
   "rating": "9.8",
   "genres": [
-    "فانتازيا",
     "كوميدي",
     "رومانسي",
+    "فانتازيا",
     "دراما"
   ],
   "is_novel": false,
   "chapters": {
+    "https://azorafly.com/series/the-goddess-of-fortune/chapter-35": {
+      "name": "35"
+    },
+    "https://azorafly.com/series/the-goddess-of-fortune/chapter-34": {
+      "name": "34"
+    },
     "https://azorafly.com/series/the-goddess-of-fortune/chapter-33": {
       "name": "33"
     },

@@ -8,12 +8,15 @@
   "last_update": "2026-07-17",
   "rating": "9.0",
   "genres": [
-    "كوميدي",
     "رومانسى",
+    "كوميدي",
     "رعب"
   ],
   "is_novel": false,
   "chapters": {
+    "https://azorafly.com/series/chilling-romance/chapter-24": {
+      "name": "24"
+    },
     "https://azorafly.com/series/chilling-romance/chapter-23": {
       "name": "23"
     },

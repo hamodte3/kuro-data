@@ -9,13 +9,16 @@
   "rating": "9.4",
   "genres": [
     "تشويق",
-    "كوميدي",
-    "أكشن",
+    "مغامرة",
     "خيال",
-    "مغامرة"
+    "كوميدي",
+    "أكشن"
   ],
   "is_novel": false,
   "chapters": {
+    "https://azorafly.com/series/raising-villains-the-right-way/chapter-62": {
+      "name": "62"
+    },
     "https://azorafly.com/series/raising-villains-the-right-way/chapter-61": {
       "name": "61"
     },

@@ -9,12 +9,15 @@
   "rating": "8.3",
   "genres": [
     "رعاية اطفال",
-    "كوميدي",
     "خيال",
+    "كوميدي",
     "رومانسي"
   ],
   "is_novel": false,
   "chapters": {
+    "https://azorafly.com/series/am-i-the-only-one-who-didn't-know-the-villainess-was-a-man/chapter-44": {
+      "name": "44"
+    },
     "https://azorafly.com/series/am-i-the-only-one-who-didn't-know-the-villainess-was-a-man/chapter-43": {
       "name": "43"
     },
