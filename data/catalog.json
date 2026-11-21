@@ -1,92 +1,5 @@
 [
   {
-    "id": "i-didn't-mean-to-save-the-villain",
-    "title": "I Didn’t Mean to Save The Villain",
-    "url": "https://azorafly.com/series/i-didn't-mean-to-save-the-villain",
-    "cover_url": "https://storage.azorafly.com/upload/series/featured/a5vVlSc5huft2AzUyK1VxgKh1ckCWLbZ/b6475801-e645-4cda-95be-6fb97215fa27.jpg",
-    "type": "رواية",
-    "status": "مستمر",
-    "rating": "8.8",
-    "total_chapters": 204,
-    "genres": [
-      "تاريخي",
-      "كوميدي",
-      "رومانسي",
-      "تجسيد",
-      "دراما",
-      "خيال"
-    ]
-  },
-  {
-    "id": "my-husband-needs-to-die-soon",
-    "title": "My Husband Needs To Die Soon",
-    "url": "https://azorafly.com/series/my-husband-needs-to-die-soon",
-    "cover_url": "https://storage.azorafly.com/upload/series/featured/a5vVlSc5huft2AzUyK1VxgKh1ckCWLbZ/4c53190a-8f86-4745-b2df-b08db5c2cbb4.jpg",
-    "type": "رواية",
-    "total_chapters": 48,
-    "genres": [
-      "من أعداء لأحباء",
-      "هوس",
-      "كوميدي",
-      "علاقة تعاقدية",
-      "رومانسي",
-      "تجسيد"
-    ],
-    "status": "مستمر",
-    "rating": "7.3"
-  },
-  {
-    "id": "once-a-day-a-wish-comes-true",
-    "title": "Once a day, a wish comes true",
-    "url": "https://azorafly.com/series/once-a-day-a-wish-comes-true",
-    "cover_url": "https://storage.azorafly.com/upload/series/featured/a5vVlSc5huft2AzUyK1VxgKh1ckCWLbZ/b5dad099-8250-49f6-82da-059115abb7e7.jpg",
-    "type": "رواية",
-    "status": "مكتمل",
-    "rating": "9.3",
-    "total_chapters": 98,
-    "genres": [
-      "عصري",
-      "هوس",
-      "بدون تجسيد",
-      "مدرسي",
-      "رومانسي",
-      "دراما",
-      "خيال"
-    ]
-  },
-  {
-    "id": "interspecies-protection-agency",
-    "title": "Interspecies Protection Agency",
-    "url": "https://azorafly.com/series/interspecies-protection-agency",
-    "cover_url": "https://storage.azorafly.com/public/upload/series/featured/02408b52-85d5-445d-9e5c-f7dbcd583bf8/bf58d2a5-a339-4dcb-a6ed-0ca096e42674.jpg",
-    "type": "مانهوا",
-    "status": "مستمر",
-    "rating": "8.2",
-    "total_chapters": 40,
-    "genres": [
-      "خارق للطبيعة",
-      "رومانسي",
-      "خيال"
-    ]
-  },
-  {
-    "id": "this-young-lady-hates-being-productive",
-    "title": "This Young Lady Hates Being Productive",
-    "url": "https://azorafly.com/series/this-young-lady-hates-being-productive",
-    "cover_url": "https://storage.azorafly.com/upload/series/featured/6cac1de1-87ae-4a81-9cd1-2abe99fd84d7/ffebdfac-798e-4f1f-9d9b-3a0acf323e9d.jpg",
-    "type": "مانهوا",
-    "total_chapters": 14,
-    "genres": [
-      "خيالي",
-      "كوميدي",
-      "تاريخي",
-      "رومانسي",
-      "شوجو"
-    ],
-    "status": "مستمر",
-    "rating": "9.2"
-  },
-  {
     "id": "myst-might-mayhem",
     "title": "Myst, Might, Mayhem",
     "url": "https://azorafly.com/series/myst-might-mayhem",
@@ -2973,9 +2886,9 @@
     "rating": "9.7",
     "total_chapters": 56,
     "genres": [
-      "فانتازيا",
       "عودة بالزمن",
       "رومانسي",
+      "فانتازيا",
       "انتقام"
     ]
   },
@@ -2989,10 +2902,10 @@
     "rating": "9.7",
     "total_chapters": 37,
     "genres": [
-      "رومانسي",
-      "دراما",
       "خيال",
-      "كوميدي"
+      "كوميدي",
+      "رومانسي",
+      "دراما"
     ]
   },
   {
@@ -3077,8 +2990,8 @@
       "إعادة إحياء",
       "فنون قتالية",
       "شونين",
-      "دراما",
       "خيال",
+      "دراما",
       "إثارة",
       "أكشن"
     ]
@@ -3093,9 +3006,9 @@
     "rating": "8.8",
     "total_chapters": 52,
     "genres": [
+      "خيال",
       "رومانسي",
       "دراما",
-      "خيال",
       "انتقام"
     ]
   },
@@ -3114,10 +3027,10 @@
       "علاقة تعاقدية",
       "كوميدي",
       "تاريخي",
-      "دراما",
       "خيال",
-      "غموض",
       "رومانسي",
+      "غموض",
+      "دراما",
       "أكشن"
     ]
   },
@@ -3128,12 +3041,12 @@
     "cover_url": "https://storage.azorafly.com/upload/series/featured/02408b52-85d5-445d-9e5c-f7dbcd583bf8/aa1aeee7-dae2-428f-b7fd-76f6c2c18f79.jpg",
     "type": "مانهوا",
     "status": "مستمر",
-    "rating": "5.4",
+    "rating": "5.9",
     "total_chapters": 32,
     "genres": [
-      "رومانسي",
       "سوء فهم",
       "خيال",
+      "رومانسي",
       "انتقام"
     ]
   },
@@ -3181,7 +3094,7 @@
       "مغامره"
     ],
     "status": "مستمر",
-    "rating": "8.3"
+    "rating": "9.0"
   },
   {
     "id": "villain-familys-strongest-butler",
@@ -3195,11 +3108,11 @@
       "تبادل أرواح",
       "سحر",
       "رومانسى",
-      "دراما",
-      "كوميدى"
+      "كوميدى",
+      "دراما"
     ],
     "status": "مستمر",
-    "rating": "9.7"
+    "rating": "9.6"
   },
   {
     "id": "read-reformation-of-the-deadbeat-noble",
@@ -3212,11 +3125,163 @@
     "total_chapters": 168,
     "genres": [
       "اسبوعي",
-      "مغامرات",
       "سحر",
       "تاريخي",
       "خيال",
+      "مغامرات",
       "أكشن"
+    ]
+  },
+  {
+    "id": "cry-or-better-yet-beg",
+    "title": "Cry or Better Yet Beg",
+    "url": "https://azorafly.com/series/cry-or-better-yet-beg",
+    "cover_url": "https://storage.azorafly.com/2024/08/cry.webp",
+    "type": "مانهوا",
+    "status": "مستمر",
+    "rating": "6.6",
+    "total_chapters": 94,
+    "genres": [
+      "تاريخي",
+      "خيال",
+      "مأساة",
+      "رومانسي",
+      "دراما"
+    ]
+  },
+  {
+    "id": "this-young-lady-hates-being-productive",
+    "title": "This Young Lady Hates Being Productive",
+    "url": "https://azorafly.com/series/this-young-lady-hates-being-productive",
+    "cover_url": "https://storage.azorafly.com/upload/series/featured/6cac1de1-87ae-4a81-9cd1-2abe99fd84d7/ffebdfac-798e-4f1f-9d9b-3a0acf323e9d.jpg",
+    "type": "مانهوا",
+    "total_chapters": 14,
+    "genres": [
+      "خيالي",
+      "شوجو",
+      "تاريخي",
+      "كوميدي",
+      "رومانسي"
+    ],
+    "status": "مستمر",
+    "rating": "9.2"
+  },
+  {
+    "id": "the-empire's-villainess",
+    "title": "The Empire’s Villainess",
+    "url": "https://azorafly.com/series/the-empire's-villainess",
+    "cover_url": "https://storage.azorafly.com/upload/series/featured/a5vVlSc5huft2AzUyK1VxgKh1ckCWLbZ/cc0fd440-8df9-4697-88b0-60997a6d3815.jpg",
+    "type": "رواية",
+    "status": "مستمر",
+    "rating": "10.0",
+    "total_chapters": 33,
+    "genres": [
+      "عودة بالزمن",
+      "تاريخي",
+      "نفسي",
+      "رومانسي",
+      "انتقام"
+    ]
+  },
+  {
+    "id": "a-ghostly-song",
+    "title": "A Ghostly Song",
+    "url": "https://azorafly.com/series/a-ghostly-song",
+    "cover_url": "https://storage.azorafly.com/upload/series/featured/a5vVlSc5huft2AzUyK1VxgKh1ckCWLbZ/795a4dcb-d26d-4359-94cf-ec3ed28285d6.jpg",
+    "type": "مانهوا",
+    "status": "مستمر",
+    "rating": "9.7",
+    "total_chapters": 76,
+    "genres": [
+      "تشويق",
+      "رعب",
+      "نفسي",
+      "أكشن"
+    ]
+  },
+  {
+    "id": "i-will-return-the-cup-of-destruction",
+    "title": "I Will Return the Cup of Destruction",
+    "url": "https://azorafly.com/series/i-will-return-the-cup-of-destruction",
+    "cover_url": "https://storage.azorafly.com/upload/series/featured/02408b52-85d5-445d-9e5c-f7dbcd583bf8/623ce9f9-c468-4080-a7ef-492bb79d93d6.jpg",
+    "type": "مانهوا",
+    "total_chapters": 23,
+    "genres": [
+      "رومانسى",
+      "دراما",
+      "انتقام"
+    ],
+    "status": "مستمر",
+    "rating": "9.4"
+  },
+  {
+    "id": "i-didn't-mean-to-save-the-villain",
+    "title": "I Didn’t Mean to Save The Villain",
+    "url": "https://azorafly.com/series/i-didn't-mean-to-save-the-villain",
+    "cover_url": "https://storage.azorafly.com/upload/series/featured/a5vVlSc5huft2AzUyK1VxgKh1ckCWLbZ/b6475801-e645-4cda-95be-6fb97215fa27.jpg",
+    "type": "رواية",
+    "status": "مستمر",
+    "rating": "8.8",
+    "total_chapters": 204,
+    "genres": [
+      "تاريخي",
+      "كوميدي",
+      "رومانسي",
+      "تجسيد",
+      "دراما",
+      "خيال"
+    ]
+  },
+  {
+    "id": "my-husband-needs-to-die-soon",
+    "title": "My Husband Needs To Die Soon",
+    "url": "https://azorafly.com/series/my-husband-needs-to-die-soon",
+    "cover_url": "https://storage.azorafly.com/upload/series/featured/a5vVlSc5huft2AzUyK1VxgKh1ckCWLbZ/4c53190a-8f86-4745-b2df-b08db5c2cbb4.jpg",
+    "type": "رواية",
+    "total_chapters": 48,
+    "genres": [
+      "من أعداء لأحباء",
+      "هوس",
+      "كوميدي",
+      "علاقة تعاقدية",
+      "رومانسي",
+      "تجسيد"
+    ],
+    "status": "مستمر",
+    "rating": "7.3"
+  },
+  {
+    "id": "once-a-day-a-wish-comes-true",
+    "title": "Once a day, a wish comes true",
+    "url": "https://azorafly.com/series/once-a-day-a-wish-comes-true",
+    "cover_url": "https://storage.azorafly.com/upload/series/featured/a5vVlSc5huft2AzUyK1VxgKh1ckCWLbZ/b5dad099-8250-49f6-82da-059115abb7e7.jpg",
+    "type": "رواية",
+    "status": "مكتمل",
+    "rating": "9.3",
+    "total_chapters": 98,
+    "genres": [
+      "عصري",
+      "هوس",
+      "بدون تجسيد",
+      "مدرسي",
+      "رومانسي",
+      "دراما",
+      "خيال"
+    ]
+  },
+  {
+    "id": "interspecies-protection-agency",
+    "title": "Interspecies Protection Agency",
+    "url": "https://azorafly.com/series/interspecies-protection-agency",
+    "cover_url": "https://storage.azorafly.com/public/upload/series/featured/02408b52-85d5-445d-9e5c-f7dbcd583bf8/bf58d2a5-a339-4dcb-a6ed-0ca096e42674.jpg",
+    "type": "مانهوا",
+    "status": "مستمر",
+    "rating": "8.2",
+    "total_chapters": 40,
+    "genres": [
+      "خارق للطبيعة",
+      "رومانسي",
+      "خيال"
     ]
   },
   {
@@ -3801,22 +3866,6 @@
     ]
   },
   {
-    "id": "a-ghostly-song",
-    "title": "A Ghostly Song",
-    "url": "https://azorafly.com/series/a-ghostly-song",
-    "cover_url": "https://storage.azorafly.com/upload/series/featured/a5vVlSc5huft2AzUyK1VxgKh1ckCWLbZ/795a4dcb-d26d-4359-94cf-ec3ed28285d6.jpg",
-    "type": "مانهوا",
-    "status": "مستمر",
-    "rating": "9.7",
-    "total_chapters": 75,
-    "genres": [
-      "تشويق",
-      "نفسي",
-      "رعب",
-      "أكشن"
-    ]
-  },
-  {
     "id": "peach-heart",
     "title": "Peach Heart",
     "url": "https://azorafly.com/series/peach-heart",
@@ -3846,21 +3895,6 @@
       "دراما",
       "كوميدي"
     ]
-  },
-  {
-    "id": "i-will-return-the-cup-of-destruction",
-    "title": "I Will Return the Cup of Destruction",
-    "url": "https://azorafly.com/series/i-will-return-the-cup-of-destruction",
-    "cover_url": "https://storage.azorafly.com/upload/series/featured/02408b52-85d5-445d-9e5c-f7dbcd583bf8/623ce9f9-c468-4080-a7ef-492bb79d93d6.jpg",
-    "type": "مانهوا",
-    "total_chapters": 22,
-    "genres": [
-      "رومانسى",
-      "انتقام",
-      "دراما"
-    ],
-    "status": "مستمر",
-    "rating": "9.4"
   },
   {
     "id": "i-hate-this-kind-of-reverse-harem",
@@ -5444,23 +5478,6 @@
       "زواج مدبر",
       "غموض",
       "فانتازيا"
-    ]
-  },
-  {
-    "id": "cry-or-better-yet-beg",
-    "title": "Cry or Better Yet Beg",
-    "url": "https://azorafly.com/series/cry-or-better-yet-beg",
-    "cover_url": "https://storage.azorafly.com/2024/08/cry.webp",
-    "type": "مانهوا",
-    "status": "مستمر",
-    "rating": "6.7",
-    "total_chapters": 93,
-    "genres": [
-      "تاريخي",
-      "رومانسي",
-      "خيال",
-      "دراما",
-      "مأساة"
     ]
   },
   {
@@ -9904,23 +9921,6 @@
       "خيال",
       "كوميدي",
       "دراما"
-    ]
-  },
-  {
-    "id": "the-empire's-villainess",
-    "title": "The Empire’s Villainess",
-    "url": "https://azorafly.com/series/the-empire's-villainess",
-    "cover_url": "https://storage.azorafly.com/upload/series/featured/a5vVlSc5huft2AzUyK1VxgKh1ckCWLbZ/cc0fd440-8df9-4697-88b0-60997a6d3815.jpg",
-    "type": "رواية",
-    "status": "مستمر",
-    "rating": "10.0",
-    "total_chapters": 32,
-    "genres": [
-      "انتقام",
-      "تاريخي",
-      "نفسي",
-      "رومانسي",
-      "عودة بالزمن"
     ]
   },
   {

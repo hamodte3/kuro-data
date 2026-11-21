@@ -6,16 +6,19 @@
   "type": "مانهوا",
   "status": "مستمر",
   "last_update": "2026-09-27",
-  "rating": "6.7",
+  "rating": "6.6",
   "genres": [
     "تاريخي",
-    "رومانسي",
     "خيال",
-    "دراما",
-    "مأساة"
+    "مأساة",
+    "رومانسي",
+    "دراما"
   ],
   "is_novel": false,
   "chapters": {
+    "https://azorafly.com/series/cry-or-better-yet-beg/chapter-93": {
+      "name": "93"
+    },
     "https://azorafly.com/series/cry-or-better-yet-beg/chapter-92": {
       "name": "92"
     },
