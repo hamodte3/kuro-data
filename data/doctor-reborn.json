@@ -11,15 +11,18 @@
     "اسبوعي",
     "زمكاني",
     "إعادة إحياء",
-    "أكشن",
-    "خيال",
     "فنون قتالية",
+    "شونين",
     "دراما",
+    "خيال",
     "إثارة",
-    "شونين"
+    "أكشن"
   ],
   "is_novel": false,
   "chapters": {
+    "https://azorafly.com/series/doctor-reborn/chapter-252": {
+      "name": "252"
+    },
     "https://azorafly.com/series/doctor-reborn/chapter-251": {
       "name": "251"
     },

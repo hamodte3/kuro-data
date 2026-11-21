@@ -6,14 +6,17 @@
   "type": "مانهوا",
   "status": "مستمر",
   "last_update": "2026-11-03",
-  "rating": "9.2",
+  "rating": "9.4",
   "genres": [
-    "كوميدي",
     "رومانسى",
+    "كوميدي",
     "فانتازيا"
   ],
   "is_novel": false,
   "chapters": {
+    "https://azorafly.com/series/the-male-lead-i-raised-is-obsessed-with-me/chapter-10": {
+      "name": "10"
+    },
     "https://azorafly.com/series/the-male-lead-i-raised-is-obsessed-with-me/chapter-9": {
       "name": "9"
     },

@@ -1251,23 +1251,6 @@
     ]
   },
   {
-    "id": "الليتش المجنون",
-    "title": "الليتش المجنون",
-    "url": "https://kolnovel.com/series/%d8%a7%d9%84%d9%84%d9%8a%d8%aa%d8%b4-%d8%a7%d9%84%d9%85%d8%ac%d9%86%d9%88%d9%86",
-    "cover_url": "https://kolnovel.com/wp-content/uploads/2021/03/113272.png",
-    "type": "رواية",
-    "is_novel": true,
-    "rating": "8.0",
-    "total_chapters": 24,
-    "genres": [
-      "أكشن",
-      "حريم",
-      "خيال علمي",
-      "سينن"
-    ],
-    "status": "مستمر"
-  },
-  {
     "id": "الوحدة القتالية",
     "title": "الوحدة القتالية",
     "url": "https://kolnovel.com/series/the-martial-unity",
@@ -1342,16 +1325,13 @@
     "cover_url": "https://kolnovel.com/wp-content/uploads/2020/10/IMG_20211104_024015-e1647036669834.png",
     "type": "رواية",
     "is_novel": true,
-    "rating": "",
+    "rating": "8.0",
     "total_chapters": 24,
     "genres": [
       "أكشن",
-      "الخيال العلمي",
+      "خيال علمي",
       "تقمص شخصيات",
-      "سحر",
-      "قوى خارقة",
-      "كوميدي",
-      "مغامرة"
+      "سحر"
     ],
     "status": "مستمر"
   },
@@ -1488,23 +1468,6 @@
       "مغامرة"
     ],
     "status": "مستمر"
-  },
-  {
-    "id": "منظور قارئ كلي العلم",
-    "title": "منظور قارئ كلي العلم",
-    "url": "https://kolnovel.com/series/%d9%85%d9%86%d8%b8%d9%88%d8%b1-%d9%82%d8%a7%d8%b1%d8%a6-%d9%83%d9%84%d9%8a-%d8%a7%d9%84%d8%b9%d9%84%d9%85",
-    "cover_url": "https://kolnovel.com/wp-content/uploads/2026/11/Omniscient_readers_viewpoint-105x150.webp",
-    "type": "رواية",
-    "status": "مستمر",
-    "is_novel": true,
-    "rating": "",
-    "total_chapters": 6,
-    "genres": [
-      "أكشن",
-      "فانتازيا",
-      "ما بعد نهاية العالم",
-      "نجاة"
-    ]
   },
   {
     "id": "مُحتجَزة من جديد على يد الأبطال الذكور",
@@ -1717,6 +1680,43 @@
       "دراما",
       "سحر",
       "مغامرة"
+    ],
+    "status": "مستمر"
+  },
+  {
+    "id": "منظور قارئ كلي العلم",
+    "title": "منظور قارئ كلي العلم",
+    "url": "https://kolnovel.com/series/%d9%85%d9%86%d8%b8%d9%88%d8%b1-%d9%82%d8%a7%d8%b1%d8%a6-%d9%83%d9%84%d9%8a-%d8%a7%d9%84%d8%b9%d9%84%d9%85",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2026/11/Omniscient_readers_viewpoint-105x150.webp",
+    "type": "رواية",
+    "status": "مستمر",
+    "is_novel": true,
+    "rating": "",
+    "total_chapters": 11,
+    "genres": [
+      "أكشن",
+      "فانتازيا",
+      "ما بعد نهاية العالم",
+      "نجاة"
+    ]
+  },
+  {
+    "id": "الليتش المجنون",
+    "title": "الليتش المجنون",
+    "url": "https://kolnovel.com/series/%d8%a7%d9%84%d9%84%d9%8a%d8%aa%d8%b4-%d8%a7%d9%84%d9%85%d8%ac%d9%86%d9%88%d9%86",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2021/03/113272.png",
+    "type": "رواية",
+    "is_novel": true,
+    "rating": "",
+    "total_chapters": 24,
+    "genres": [
+      "أكشن",
+      "حريم",
+      "خيال علمي",
+      "سينن",
+      "كوميديا",
+      "مغامرة",
+      "ناضج"
     ],
     "status": "مستمر"
   },

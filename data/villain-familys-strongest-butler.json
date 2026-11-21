@@ -10,13 +10,16 @@
   "genres": [
     "خيالي",
     "تبادل أرواح",
-    "دراما",
-    "كوميدى",
     "سحر",
-    "رومانسى"
+    "رومانسى",
+    "دراما",
+    "كوميدى"
   ],
   "is_novel": false,
   "chapters": {
+    "https://azorafly.com/series/villain-familys-strongest-butler/chapter-27": {
+      "name": "27"
+    },
     "https://azorafly.com/series/villain-familys-strongest-butler/chapter-26": {
       "name": "26"
     },

@@ -6,15 +6,18 @@
   "type": "مانهوا",
   "status": "مستمر",
   "last_update": "2026-09-29",
-  "rating": "4.7",
+  "rating": "5.4",
   "genres": [
-    "خيال",
+    "رومانسي",
     "سوء فهم",
-    "انتقام",
-    "رومانسي"
+    "خيال",
+    "انتقام"
   ],
   "is_novel": false,
   "chapters": {
+    "https://azorafly.com/series/to-my-sweet-scoundrel/chapter-31": {
+      "name": "31"
+    },
     "https://azorafly.com/series/to-my-sweet-scoundrel/chapter-30": {
       "name": "30"
     },
