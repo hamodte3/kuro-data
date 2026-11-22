@@ -9,11 +9,14 @@
   "rating": "9.9",
   "genres": [
     "رومانسى",
-    "فنتازيا",
-    "دراما"
+    "دراما",
+    "فنتازيا"
   ],
   "is_novel": false,
   "chapters": {
+    "https://azorafly.com/series/clockwork-lovers/chapter-16": {
+      "name": "16"
+    },
     "https://azorafly.com/series/clockwork-lovers/chapter-15": {
       "name": "15"
     },
