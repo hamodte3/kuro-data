@@ -6,14 +6,17 @@
   "type": "مانهوا",
   "status": "مستمر",
   "last_update": "2026-11-14",
-  "rating": "9.1",
+  "rating": "8.8",
   "genres": [
-    "رومانسي",
     "كوميدى",
+    "رومانسي",
     "دراما"
   ],
   "is_novel": false,
   "chapters": {
+    "https://azorafly.com/series/the-bored-duke-and-the-iron-willed-divorcee/chapter-7": {
+      "name": "7"
+    },
     "https://azorafly.com/series/the-bored-duke-and-the-iron-willed-divorcee/chapter-6": {
       "name": "6"
     },

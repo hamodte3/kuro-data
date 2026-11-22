@@ -6,16 +6,22 @@
   "type": "مانهوا",
   "status": "مستمر",
   "last_update": "2026-11-06",
-  "rating": "9.7",
+  "rating": "9.5",
   "genres": [
-    "رومانسى",
-    "كوميدي",
     "فانتازيا",
-    "دراما",
-    "انتقام"
+    "كوميدي",
+    "رومانسى",
+    "انتقام",
+    "دراما"
   ],
   "is_novel": false,
   "chapters": {
+    "https://azorafly.com/series/please-repay-me-with-marriage/chapter-22": {
+      "name": "22"
+    },
+    "https://azorafly.com/series/please-repay-me-with-marriage/chapter-21": {
+      "name": "21"
+    },
     "https://azorafly.com/series/please-repay-me-with-marriage/chapter-20": {
       "name": "20"
     },

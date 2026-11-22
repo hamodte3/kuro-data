@@ -8,12 +8,15 @@
   "last_update": "2026-07-18",
   "rating": "9.9",
   "genres": [
-    "أكشن",
     "مغامرة",
-    "شونين"
+    "شونين",
+    "أكشن"
   ],
   "is_novel": false,
   "chapters": {
+    "https://azorafly.com/series/chronicles-of-the-demon-faction/chapter-198": {
+      "name": "198"
+    },
     "https://azorafly.com/series/chronicles-of-the-demon-faction/chapter-197": {
       "name": "197"
     },
