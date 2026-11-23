@@ -6,15 +6,27 @@
   "type": "مانهوا",
   "status": "مستمر",
   "last_update": "2026-11-16",
-  "rating": "9.6",
+  "rating": "9.7",
   "genres": [
     "اسبوعي",
-    "فنتازيا",
     "أكشن",
-    "خيال"
+    "خيال",
+    "فنتازيا"
   ],
   "is_novel": false,
   "chapters": {
+    "https://azorafly.com/series/the-heavenly-demon-cant-live-a-normal-life-2/chapter-216": {
+      "name": "216"
+    },
+    "https://azorafly.com/series/the-heavenly-demon-cant-live-a-normal-life-2/chapter-215": {
+      "name": "215"
+    },
+    "https://azorafly.com/series/the-heavenly-demon-cant-live-a-normal-life-2/chapter-214": {
+      "name": "214"
+    },
+    "https://azorafly.com/series/the-heavenly-demon-cant-live-a-normal-life-2/chapter-213": {
+      "name": "213"
+    },
     "https://azorafly.com/series/the-heavenly-demon-cant-live-a-normal-life-2/chapter-212": {
       "name": "212"
     },

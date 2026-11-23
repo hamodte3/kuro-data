@@ -8,13 +8,16 @@
   "last_update": "2026-11-11",
   "rating": "9.5",
   "genres": [
-    "رومانسي",
     "انتقام",
     "دراما",
-    "خيال"
+    "خيال",
+    "رومانسي"
   ],
   "is_novel": false,
   "chapters": {
+    "https://azorafly.com/series/the-crown-i-will-take-from-you/chapter-58": {
+      "name": "58"
+    },
     "https://azorafly.com/series/the-crown-i-will-take-from-you/chapter-57": {
       "name": "57"
     },

@@ -9,11 +9,14 @@
   "rating": "9.9",
   "genres": [
     "رومانسى",
-    "فنتازيا",
-    "دراما"
+    "دراما",
+    "فنتازيا"
   ],
   "is_novel": false,
   "chapters": {
+    "https://azorafly.com/series/the-unfilial-heir-who-tries-to-kill-me-tempts-me/chapter-29": {
+      "name": "29"
+    },
     "https://azorafly.com/series/the-unfilial-heir-who-tries-to-kill-me-tempts-me/chapter-28": {
       "name": "28"
     },

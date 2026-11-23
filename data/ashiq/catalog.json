@@ -3,7 +3,7 @@
     "id": "area-d-inou-ryouiki",
     "title": "Area D – Inou Ryouiki",
     "url": "https://3asq.online/manga/area-d-inou-ryouiki",
-    "cover_url": "https://3asq.online/wp-content/uploads/2019/03/188814l.jpg",
+    "cover_url": "https://3asq.online/wp-content/uploads/2019/03/188814l-175x238.jpg",
     "type": "مانغا",
     "rating": "4.0",
     "total_chapters": 50,
@@ -4571,25 +4571,6 @@
     "status": "مكتمل"
   },
   {
-    "id": "yuusha-avan-to-gokuen-no-maou",
-    "title": "YUUSHA AVAN TO GOKUEN NO MAOU",
-    "url": "https://3asq.online/manga/yuusha-avan-to-gokuen-no-maou",
-    "cover_url": "https://3asq.online/wp-content/uploads/2024/05/161672161792171333057-20250712113216-scaled.jpg",
-    "type": "مانغا",
-    "rating": "4.5",
-    "total_chapters": 53,
-    "genres": [
-      "100%",
-      "أكشن",
-      "خيال",
-      "دراما",
-      "شونين",
-      "كوميديا",
-      "مغامرة"
-    ],
-    "status": "مستمر"
-  },
-  {
     "id": "boys-abyss-2",
     "title": "Boy’s Abyss",
     "url": "https://3asq.online/manga/boys-abyss-2",
@@ -5123,23 +5104,6 @@
       "أكشن",
       "خيال",
       "شونين",
-      "مغامرة"
-    ],
-    "status": "مستمر"
-  },
-  {
-    "id": "the-return-of-the-corpse-king",
-    "title": "The Return of The Corpse King",
-    "url": "https://3asq.online/manga/the-return-of-the-corpse-king",
-    "cover_url": "https://3asq.online/wp-content/uploads/2025/09/the-return-of-the-corpse-king.jpg",
-    "type": "مانغا",
-    "rating": "3.9",
-    "total_chapters": 19,
-    "genres": [
-      "أكشن",
-      "إيسيكاي",
-      "شياطين",
-      "كوميديا",
       "مغامرة"
     ],
     "status": "مستمر"
@@ -6255,7 +6219,7 @@
     "cover_url": "https://3asq.online/wp-content/uploads/2026/04/6cfbaeb6-59ae-4971-bfaa-3b026b6c9ad9-asq-hero-480-v2.webp",
     "type": "مانغا",
     "rating": "3.6",
-    "total_chapters": 26,
+    "total_chapters": 28,
     "genres": [
       "دراما",
       "سينين",
@@ -6745,6 +6709,42 @@
       "عنف",
       "غموض",
       "فلسفة"
+    ],
+    "status": "مستمر"
+  },
+  {
+    "id": "the-return-of-the-corpse-king",
+    "title": "The Return of The Corpse King",
+    "url": "https://3asq.online/manga/the-return-of-the-corpse-king",
+    "cover_url": "https://3asq.online/wp-content/uploads/2025/09/ecf61b0f-bb4b-4865-a7a4-9407abc1ba49-480x691.png.webp",
+    "type": "مانغا",
+    "rating": "4.0",
+    "total_chapters": 20,
+    "genres": [
+      "أكشن",
+      "إيسيكاي",
+      "شياطين",
+      "كوميديا",
+      "مغامرة"
+    ],
+    "status": "مستمر"
+  },
+  {
+    "id": "yuusha-avan-to-gokuen-no-maou",
+    "title": "YUUSHA AVAN TO GOKUEN NO MAOU",
+    "url": "https://3asq.online/manga/yuusha-avan-to-gokuen-no-maou",
+    "cover_url": "https://3asq.online/wp-content/uploads/2024/05/001-480x691.jpg.webp",
+    "type": "مانغا",
+    "rating": "4.5",
+    "total_chapters": 53,
+    "genres": [
+      "100%",
+      "أكشن",
+      "خيال",
+      "دراما",
+      "شونين",
+      "كوميديا",
+      "مغامرة"
     ],
     "status": "مستمر"
   }

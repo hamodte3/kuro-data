@@ -6,22 +6,25 @@
   "type": "مانهوا",
   "status": "مستمر",
   "last_update": "2026-05-07",
-  "rating": "9.8",
+  "rating": "9.7",
   "genres": [
     "ايسكاي",
     "الحياة اليومية",
-    "مغامرات",
-    "تاريخي",
     "سحر",
-    "رومانسي",
-    "شوجو",
+    "مغامرات",
+    "دراما",
     "إثارة",
     "غموض",
-    "دراما",
-    "خيال"
+    "خيال",
+    "رومانسي",
+    "شوجو",
+    "تاريخي"
   ],
   "is_novel": false,
   "chapters": {
+    "https://azorafly.com/series/the-baby-raising-a-devil/chapter-63": {
+      "name": "63"
+    },
     "https://azorafly.com/series/the-baby-raising-a-devil/chapter-62": {
       "name": "62"
     },
