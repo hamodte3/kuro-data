@@ -9,12 +9,15 @@
   "rating": "9.7",
   "genres": [
     "فانتازيا",
-    "رومانسي",
+    "انتقام",
     "دراما",
-    "انتقام"
+    "رومانسي"
   ],
   "is_novel": false,
   "chapters": {
+    "https://azorafly.com/series/now-it's-your-turn-to-regret/chapter-23": {
+      "name": "23"
+    },
     "https://azorafly.com/series/now-it's-your-turn-to-regret/chapter-22": {
       "name": "22"
     },

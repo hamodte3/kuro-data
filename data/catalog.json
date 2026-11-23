@@ -1,36 +1,5 @@
 [
   {
-    "id": "the-price-is-your-everything",
-    "title": "The Price Is Your Everything",
-    "url": "https://azorafly.com/series/the-price-is-your-everything",
-    "cover_url": "https://storage.azorafly.com/2025/03/AddText_06-23-09.43.22.webp",
-    "type": "مانهوا",
-    "status": "مستمر",
-    "rating": "9.3",
-    "total_chapters": 134,
-    "genres": [
-      "فانتازيا",
-      "دراما",
-      "خيال",
-      "انتقام"
-    ]
-  },
-  {
-    "id": "my-dream-is-to-get-my-own-house",
-    "title": "My Dream is to Get My Own House",
-    "url": "https://azorafly.com/series/my-dream-is-to-get-my-own-house",
-    "cover_url": "https://storage.azorafly.com/public/upload/2026/02/03/ad41bf1c-5266-43e1-9014-5ca250353748.webp",
-    "type": "مانهوا",
-    "status": "مستمر",
-    "rating": "8.6",
-    "total_chapters": 75,
-    "genres": [
-      "خيالي",
-      "رومانسي",
-      "دراما"
-    ]
-  },
-  {
     "id": "ever-after",
     "title": "ever after",
     "url": "https://azorafly.com/series/ever-after",
@@ -1312,22 +1281,6 @@
     ]
   },
   {
-    "id": "now-it's-your-turn-to-regret",
-    "title": "Now It’s Your Turn To Regret",
-    "url": "https://azorafly.com/series/now-it's-your-turn-to-regret",
-    "cover_url": "https://storage.azorafly.com/upload/series/featured/02408b52-85d5-445d-9e5c-f7dbcd583bf8/813664c5-a10b-472c-abb8-c722b3dfe167.png",
-    "type": "مانهوا",
-    "status": "مستمر",
-    "rating": "9.7",
-    "total_chapters": 23,
-    "genres": [
-      "فانتازيا",
-      "رومانسي",
-      "دراما",
-      "انتقام"
-    ]
-  },
-  {
     "id": "lingering-pain",
     "title": "Lingering Pain",
     "url": "https://azorafly.com/series/lingering-pain",
@@ -1659,23 +1612,6 @@
       "رومانسي",
       "دراما"
     ]
-  },
-  {
-    "id": "this-young-lady-hates-being-productive",
-    "title": "This Young Lady Hates Being Productive",
-    "url": "https://azorafly.com/series/this-young-lady-hates-being-productive",
-    "cover_url": "https://storage.azorafly.com/upload/series/featured/6cac1de1-87ae-4a81-9cd1-2abe99fd84d7/ffebdfac-798e-4f1f-9d9b-3a0acf323e9d.jpg",
-    "type": "مانهوا",
-    "total_chapters": 14,
-    "genres": [
-      "خيالي",
-      "شوجو",
-      "تاريخي",
-      "كوميدي",
-      "رومانسي"
-    ],
-    "status": "مستمر",
-    "rating": "9.2"
   },
   {
     "id": "the-empire's-villainess",
@@ -2836,6 +2772,22 @@
     "genres": []
   },
   {
+    "id": "im-being-chased-by-my-husband",
+    "title": "I'm Being Chased By My Husband",
+    "url": "https://azorafly.com/series/im-being-chased-by-my-husband",
+    "cover_url": "https://storage.azorafly.com/upload/series/featured/oGmL0DQZ16QInTPaeDKwFEK9ryegoy88/22e2288e-bd62-4886-a638-4c7869c10797.jpg",
+    "type": "مانهوا",
+    "status": "مستمر",
+    "rating": "9.7",
+    "total_chapters": 68,
+    "genres": [
+      "فانتازيا",
+      "كوميدي",
+      "شوجو",
+      "رومانسي"
+    ]
+  },
+  {
     "id": "the-great-mage-returns-after-4000-year-s",
     "title": "The Great Mage Returns After 4000 Years",
     "url": "https://azorafly.com/series/the-great-mage-returns-after-4000-year-s",
@@ -3028,8 +2980,8 @@
     "genres": [
       "سحر",
       "دراما",
-      "خيال",
       "ايسيكاي",
+      "خيال",
       "رومانسي"
     ]
   },
@@ -3103,12 +3055,12 @@
     "genres": [
       "موريم",
       "دراما",
+      "كوميدي",
       "فنون قتالية",
       "أكشن",
-      "كوميدي",
       "خيال",
-      "شونين",
-      "مغامرات"
+      "مغامرات",
+      "شونين"
     ],
     "status": "مستمر",
     "rating": "10.0"
@@ -3140,9 +3092,9 @@
     "rating": "9.8",
     "total_chapters": 36,
     "genres": [
-      "موريم",
       "عبقري",
       "اكشن",
+      "موريم",
       "كوميدي",
       "فنون قتالية",
       "مغامرات"
@@ -3195,19 +3147,96 @@
     ]
   },
   {
-    "id": "im-being-chased-by-my-husband",
-    "title": "I'm Being Chased By My Husband",
-    "url": "https://azorafly.com/series/im-being-chased-by-my-husband",
-    "cover_url": "https://storage.azorafly.com/upload/series/featured/oGmL0DQZ16QInTPaeDKwFEK9ryegoy88/22e2288e-bd62-4886-a638-4c7869c10797.jpg",
+    "id": "this-young-lady-hates-being-productive",
+    "title": "This Young Lady Hates Being Productive",
+    "url": "https://azorafly.com/series/this-young-lady-hates-being-productive",
+    "cover_url": "https://storage.azorafly.com/upload/series/featured/6cac1de1-87ae-4a81-9cd1-2abe99fd84d7/ffebdfac-798e-4f1f-9d9b-3a0acf323e9d.jpg",
+    "type": "مانهوا",
+    "total_chapters": 15,
+    "genres": [
+      "خيالي",
+      "كوميدي",
+      "شوجو",
+      "رومانسي",
+      "تاريخي"
+    ],
+    "status": "مستمر",
+    "rating": "9.2"
+  },
+  {
+    "id": "the-margrave's-10th-class-scoundrel",
+    "title": "The Margrave’s 10th-Class Scoundrel",
+    "url": "https://azorafly.com/series/the-margrave's-10th-class-scoundrel",
+    "cover_url": "https://storage.azorafly.com/public/upload/series/featured/6cac1de1-87ae-4a81-9cd1-2abe99fd84d7/46349e0f-c5af-4a59-919f-c0c596e704e1.jpg",
+    "type": "مانهوا",
+    "status": "مستمر",
+    "rating": "7.0",
+    "total_chapters": 38,
+    "genres": [
+      "مانهوا",
+      "اكشن"
+    ]
+  },
+  {
+    "id": "the-eldest-daughter-of-the-tang-clan-of-sacheon-protects-the-family",
+    "title": "The Eldest Daughter of the Tang Clan of Sacheon Protects the Family",
+    "url": "https://azorafly.com/series/the-eldest-daughter-of-the-tang-clan-of-sacheon-protects-the-family",
+    "cover_url": "https://storage.azorafly.com/upload/series/featured/6cac1de1-87ae-4a81-9cd1-2abe99fd84d7/bb04e84e-14f4-4a07-b031-59fb992a4bba.webp",
+    "type": "مانهوا",
+    "status": "مستمر",
+    "rating": "8.4",
+    "total_chapters": 45,
+    "genres": [
+      "رومانسي",
+      "فنتازيا",
+      "تاريخي"
+    ]
+  },
+  {
+    "id": "now-it's-your-turn-to-regret",
+    "title": "Now It’s Your Turn To Regret",
+    "url": "https://azorafly.com/series/now-it's-your-turn-to-regret",
+    "cover_url": "https://storage.azorafly.com/upload/series/featured/02408b52-85d5-445d-9e5c-f7dbcd583bf8/813664c5-a10b-472c-abb8-c722b3dfe167.png",
     "type": "مانهوا",
     "status": "مستمر",
     "rating": "9.7",
-    "total_chapters": 68,
+    "total_chapters": 24,
     "genres": [
       "فانتازيا",
-      "كوميدي",
-      "شوجو",
+      "انتقام",
+      "دراما",
       "رومانسي"
+    ]
+  },
+  {
+    "id": "the-price-is-your-everything",
+    "title": "The Price Is Your Everything",
+    "url": "https://azorafly.com/series/the-price-is-your-everything",
+    "cover_url": "https://storage.azorafly.com/2025/03/AddText_06-23-09.43.22.webp",
+    "type": "مانهوا",
+    "status": "مستمر",
+    "rating": "9.3",
+    "total_chapters": 134,
+    "genres": [
+      "فانتازيا",
+      "دراما",
+      "خيال",
+      "انتقام"
+    ]
+  },
+  {
+    "id": "my-dream-is-to-get-my-own-house",
+    "title": "My Dream is to Get My Own House",
+    "url": "https://azorafly.com/series/my-dream-is-to-get-my-own-house",
+    "cover_url": "https://storage.azorafly.com/public/upload/2026/02/03/ad41bf1c-5266-43e1-9014-5ca250353748.webp",
+    "type": "مانهوا",
+    "status": "مستمر",
+    "rating": "8.6",
+    "total_chapters": 75,
+    "genres": [
+      "خيالي",
+      "رومانسي",
+      "دراما"
     ]
   },
   {
@@ -3927,20 +3956,6 @@
       "خيالي",
       "لعبة",
       "رومانسي"
-    ]
-  },
-  {
-    "id": "the-margrave's-10th-class-scoundrel",
-    "title": "The Margrave’s 10th-Class Scoundrel",
-    "url": "https://azorafly.com/series/the-margrave's-10th-class-scoundrel",
-    "cover_url": "https://storage.azorafly.com/public/upload/series/featured/6cac1de1-87ae-4a81-9cd1-2abe99fd84d7/46349e0f-c5af-4a59-919f-c0c596e704e1.jpg",
-    "type": "مانهوا",
-    "status": "مستمر",
-    "rating": "7.0",
-    "total_chapters": 37,
-    "genres": [
-      "مانهوا",
-      "اكشن"
     ]
   },
   {
@@ -7279,21 +7294,6 @@
       "دراما",
       "غموض",
       "نفسي"
-    ]
-  },
-  {
-    "id": "the-eldest-daughter-of-the-tang-clan-of-sacheon-protects-the-family",
-    "title": "The Eldest Daughter of the Tang Clan of Sacheon Protects the Family",
-    "url": "https://azorafly.com/series/the-eldest-daughter-of-the-tang-clan-of-sacheon-protects-the-family",
-    "cover_url": "https://storage.azorafly.com/upload/series/featured/6cac1de1-87ae-4a81-9cd1-2abe99fd84d7/bb04e84e-14f4-4a07-b031-59fb992a4bba.webp",
-    "type": "مانهوا",
-    "status": "مستمر",
-    "rating": "8.4",
-    "total_chapters": 42,
-    "genres": [
-      "فنتازيا",
-      "رومانسي",
-      "تاريخي"
     ]
   },
   {
