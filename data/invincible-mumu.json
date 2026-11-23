@@ -1,0 +1,44 @@
+{
+  "id": "invincible-mumu",
+  "title": "Invincible Mumu",
+  "cover_url": "https://storage.azorafly.com/upload/series/featured/a5vVlSc5huft2AzUyK1VxgKh1ckCWLbZ/9795c89f-cb1e-4d40-a38c-f9f1f9626e12.png",
+  "description": "[من إنتاج استوديو Redice الذي قدّم لكم (Solo Leveling) و(The Martial Genius Who Remembers Everything) والعديد من الأعمال الأخرى، ومن تأليف نفس الكاتب الذي قدّم لكم (Nano Machine) و(Absolute Sword Sense!) و(Myst, Might, Mayhem)]بعد أن فَقَد والديه وتُرك وحيداً عند ولادته، تبنّاه \"يو يوبغيونغ\"، وهو عالمٌ نُفيَ بأمرٍ من أحد الخالدين، وقام بتربيته كابنه. لمدة 17 عاماً تقريباً، لم يفعل \"مومو\" شيئاً سوى تدريب عضلاته تحت إشراف والده بالتبني. وعندما انتهى نفيُ والده أخيراً، عاد الاثنان إلى وطنهما. ومع ذلك، تقود سلسلةٌ من الأحداث \"مومو\" إلى الالتحاق بأكاديمية \"تشانغتشيون\" للفنون القتالية، وهي مدرسة مخصصة للمواهب الصاعدة في عالم الموريم.",
+  "type": "مانهوا",
+  "status": "مستمر",
+  "last_update": "2026-11-22",
+  "rating": "10.0",
+  "genres": [
+    "موريم",
+    "دراما",
+    "فنون قتالية",
+    "أكشن",
+    "كوميدي",
+    "خيال",
+    "شونين",
+    "مغامرات"
+  ],
+  "is_novel": false,
+  "chapters": {
+    "https://azorafly.com/series/invincible-mumu/chapter-7": {
+      "name": "7"
+    },
+    "https://azorafly.com/series/invincible-mumu/chapter-6": {
+      "name": "6"
+    },
+    "https://azorafly.com/series/invincible-mumu/chapter-5": {
+      "name": "5"
+    },
+    "https://azorafly.com/series/invincible-mumu/chapter-4": {
+      "name": "4"
+    },
+    "https://azorafly.com/series/invincible-mumu/chapter-3": {
+      "name": "3"
+    },
+    "https://azorafly.com/series/invincible-mumu/chapter-2": {
+      "name": "2"
+    },
+    "https://azorafly.com/series/invincible-mumu/chapter-1": {
+      "name": "1"
+    }
+  }
+}

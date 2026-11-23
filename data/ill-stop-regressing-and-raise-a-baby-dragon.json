@@ -9,15 +9,22 @@
   "rating": "10.0",
   "genres": [
     "عائلي",
-    "رومانسي",
     "رعاية أطفال",
     "كوميدي",
-    "خيال",
+    "رومانسي",
     "انتقام",
     "سحر",
+    "بدون تجسيد",
     "عودة بالزمن",
-    "بدون تجسيد"
+    "خيال"
   ],
   "is_novel": false,
-  "chapters": {}
+  "chapters": {
+    "https://azorafly.com/series/ill-stop-regressing-and-raise-a-baby-dragon/chapter-2": {
+      "name": "2"
+    },
+    "https://azorafly.com/series/ill-stop-regressing-and-raise-a-baby-dragon/chapter-1": {
+      "name": "1"
+    }
+  }
 }

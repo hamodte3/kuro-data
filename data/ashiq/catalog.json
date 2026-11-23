@@ -4752,7 +4752,7 @@
     "cover_url": "https://3asq.online/wp-content/uploads/2025/08/Tomorrows-Joe-1.jpg",
     "type": "مانغا",
     "rating": "4.7",
-    "total_chapters": 22,
+    "total_chapters": 24,
     "genres": [
       "دراما",
       "رياضة",
@@ -6480,31 +6480,6 @@
     "status": "مكتمل"
   },
   {
-    "id": "enigmatica",
-    "title": "Enigmatica",
-    "url": "https://3asq.online/manga/enigmatica",
-    "cover_url": "https://3asq.online/wp-content/uploads/2026/04/enigmatica_cover_pink-asq-hero-480-v2.webp",
-    "type": "مانغا",
-    "rating": "4.8",
-    "total_chapters": 34,
-    "genres": [
-      "أكشن",
-      "استراتيجي",
-      "تاريخ",
-      "جريمة",
-      "حرب",
-      "خيال",
-      "دراما",
-      "شونين",
-      "عسكرية",
-      "علم نفس",
-      "عنف",
-      "غموض",
-      "فلسفة"
-    ],
-    "status": "مستمر"
-  },
-  {
     "id": "witchriv",
     "title": "WITCHRIV",
     "url": "https://3asq.online/manga/witchriv",
@@ -6745,6 +6720,31 @@
       "عنف",
       "فنون قتالية",
       "مأساة"
+    ],
+    "status": "مستمر"
+  },
+  {
+    "id": "enigmatica",
+    "title": "Enigmatica",
+    "url": "https://3asq.online/manga/enigmatica",
+    "cover_url": "https://3asq.online/wp-content/uploads/2026/04/enigmatica_cover_pink-asq-hero-480-v2.webp",
+    "type": "مانغا",
+    "rating": "4.8",
+    "total_chapters": 35,
+    "genres": [
+      "أكشن",
+      "استراتيجي",
+      "تاريخ",
+      "جريمة",
+      "حرب",
+      "خيال",
+      "دراما",
+      "شونين",
+      "عسكرية",
+      "علم نفس",
+      "عنف",
+      "غموض",
+      "فلسفة"
     ],
     "status": "مستمر"
   }

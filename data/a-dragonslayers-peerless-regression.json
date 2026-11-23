@@ -10,11 +10,14 @@
   "genres": [
     "فانتازيا",
     "إعادة إحياء",
-    "أكشن",
-    "فنون قتالية"
+    "فنون قتالية",
+    "أكشن"
   ],
   "is_novel": false,
   "chapters": {
+    "https://azorafly.com/series/a-dragonslayers-peerless-regression/chapter-112": {
+      "name": "112"
+    },
     "https://azorafly.com/series/a-dragonslayers-peerless-regression/chapter-111": {
       "name": "111"
     },

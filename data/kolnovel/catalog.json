@@ -1,22 +1,5 @@
 [
   {
-    "id": "الغموض، القوى، الفوضى",
-    "title": "الغموض، القوى، الفوضى",
-    "url": "https://kolnovel.com/series/%d8%a7%d9%84%d8%ba%d9%85%d9%88%d8%b6%d8%8c-%d8%a7%d9%84%d9%82%d9%88%d9%89%d8%8c-%d8%a7%d9%84%d9%81%d9%88%d8%b6%d9%89",
-    "cover_url": "https://kolnovel.com/wp-content/uploads/2025/11/AddText_11-29-03.57.56.png",
-    "type": "رواية",
-    "is_novel": true,
-    "rating": "8.5",
-    "total_chapters": 41,
-    "genres": [
-      "أكشن",
-      "بطل شرير",
-      "خيال",
-      "فنون قتال"
-    ],
-    "status": "مستمر"
-  },
-  {
     "id": "الساحر المتمرد",
     "title": "الساحر المتمرد",
     "url": "https://kolnovel.com/series/%d8%a7%d9%84%d8%b3%d8%a7%d8%ad%d8%b1-%d8%a7%d9%84%d9%85%d8%aa%d9%85%d8%b1%d8%af",
@@ -1285,40 +1268,6 @@
     "status": "مستمر"
   },
   {
-    "id": "سليل المملكة",
-    "title": "سليل المملكة",
-    "url": "https://kolnovel.com/series/kingdoms-bloodline",
-    "cover_url": "https://kolnovel.com/wp-content/uploads/2022/10/سليل-المملكة_20250918_161202_٠٠٠٠.png",
-    "type": "رواية",
-    "is_novel": true,
-    "rating": "9.0",
-    "total_chapters": 24,
-    "genres": [
-      "أكشن",
-      "خيال",
-      "دراما",
-      "سحر"
-    ],
-    "status": "مستمر"
-  },
-  {
-    "id": "ري: زيرو – بداية الحياة في عالم آخر",
-    "title": "ري: زيرو – بداية الحياة في عالم آخر",
-    "url": "https://kolnovel.com/series/%d8%b1%d9%8a-%d8%b2%d9%8a%d8%b1%d9%88-%d8%a8%d8%af%d8%a7%d9%8a%d8%a9-%d8%a7%d9%84%d8%ad%d9%8a%d8%a7%d8%a9-%d9%81%d9%8a-%d8%b9%d8%a7%d9%84%d9%85-%d8%a2%d8%ae%d8%b1",
-    "cover_url": "https://kolnovel.com/wp-content/uploads/2026/10/a826e405f732171c.webp",
-    "type": "رواية",
-    "is_novel": true,
-    "rating": "",
-    "total_chapters": 24,
-    "genres": [
-      "إثارة",
-      "إيسيكاي",
-      "خيال مظلم",
-      "دراما"
-    ],
-    "status": "مستمر"
-  },
-  {
     "id": "بث الرامي العبقري",
     "title": "بث الرامي العبقري",
     "url": "https://kolnovel.com/series/%d8%a8%d8%ab-%d8%a7%d9%84%d8%b1%d8%a7%d9%85%d9%8a-%d8%a7%d9%84%d8%b9%d8%a8%d9%82%d8%b1%d9%8a",
@@ -1336,32 +1285,13 @@
     "status": "مستمر"
   },
   {
-    "id": "كتاب المئة حياة",
-    "title": "كتاب المئة حياة",
-    "url": "https://kolnovel.com/series/%d9%83%d8%aa%d8%a7%d8%a8-%d8%a7%d9%84%d9%85%d8%a6%d8%a9-%d8%ad%d9%8a%d8%a7%d8%a9",
-    "cover_url": "https://kolnovel.com/wp-content/uploads/2026/08/بدون-اسم124_20260822084136.png",
-    "type": "رواية",
-    "is_novel": true,
-    "rating": "",
-    "total_chapters": 24,
-    "genres": [
-      "أكشن",
-      "تناسخ",
-      "خيال",
-      "زراعة",
-      "فنون قتال",
-      "نظام"
-    ],
-    "status": "مستمر"
-  },
-  {
     "id": "تسلق البرج باستخدام قدرة إيقاف الزمن",
     "title": "تسلق البرج باستخدام قدرة إيقاف الزمن",
     "url": "https://kolnovel.com/series/%d8%aa%d8%b3%d9%84%d9%82-%d8%a7%d9%84%d8%a8%d8%b1%d8%ac-%d8%a8%d8%a7%d8%b3%d8%aa%d8%ae%d8%af%d8%a7%d9%85-%d9%82%d8%af%d8%b1%d8%a9-%d8%a5%d9%8a%d9%82%d8%a7%d9%81-%d8%a7%d9%84%d8%b2%d9%85%d9%86",
     "cover_url": "https://kolnovel.com/wp-content/uploads/2026/07/113225-2.png",
     "type": "رواية",
     "is_novel": true,
-    "rating": "",
+    "rating": "7.5",
     "total_chapters": 24,
     "genres": [
       "أكشن",
@@ -1375,11 +1305,11 @@
     "id": "مُحتجَزة من جديد على يد الأبطال الذكور",
     "title": "مُحتجَزة من جديد على يد الأبطال الذكور",
     "url": "https://kolnovel.com/series/%d9%85%d9%8f%d8%ad%d8%aa%d8%ac%d9%8e%d8%b2%d8%a9-%d9%85%d9%86-%d8%ac%d8%af%d9%8a%d8%af-%d8%b9%d9%84%d9%89-%d9%8a%d8%af-%d8%a7%d9%84%d8%a3%d8%a8%d8%b7%d8%a7%d9%84-%d8%a7%d9%84%d8%b0%d9%83%d9%88%d8%b1",
-    "cover_url": "https://kolnovel.com/wp-content/uploads/2026/11/IMG_20260902_005730_909-98x150.webp",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2026/11/IMG_20260902_005730_909.webp",
     "type": "رواية",
     "status": "مستمر",
     "is_novel": true,
-    "rating": "",
+    "rating": "7.7",
     "total_chapters": 24,
     "genres": [
       "خيال",
@@ -1391,20 +1321,17 @@
     "id": "وورم",
     "title": "وورم",
     "url": "https://kolnovel.com/series/%d9%88%d9%88%d8%b1%d9%85",
-    "cover_url": "https://kolnovel.com/wp-content/uploads/2026/10/18713259-109x150.jpg",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2026/10/18713259.jpg",
     "type": "رواية",
     "status": "مستمر",
     "is_novel": true,
-    "rating": "",
+    "rating": "7.9",
     "total_chapters": 24,
     "genres": [
       "أكشن",
       "إثارة",
       "خيال علمي مظلم",
-      "دراما",
-      "غموض",
-      "قوة خارقة",
-      "نفسي"
+      "دراما"
     ]
   },
   {
@@ -1482,28 +1409,6 @@
       "مغامرة",
       "نظام"
     ]
-  },
-  {
-    "id": "كيف أعاد بطل واقعي بناء المملكة",
-    "title": "كيف أعاد بطل واقعي بناء المملكة",
-    "url": "https://kolnovel.com/series/%d9%83%d9%8a%d9%81-%d8%a3%d8%b9%d8%a7%d8%af-%d8%a8%d8%b7%d9%84-%d9%88%d8%a7%d9%82%d8%b9%d9%8a-%d8%a8%d9%86%d8%a7%d8%a1-%d8%a7%d9%84%d9%85%d9%85%d9%84%d9%83%d8%a9",
-    "cover_url": "https://kolnovel.com/wp-content/uploads/2026/08/RealistHero-LN-v03-Cover.jpg",
-    "type": "رواية",
-    "is_novel": true,
-    "rating": "",
-    "total_chapters": 24,
-    "genres": [
-      "أكشن",
-      "حريم",
-      "خيال",
-      "دراما",
-      "رومانسية",
-      "سياسة",
-      "عسكرية",
-      "كوميديا",
-      "مغامرة"
-    ],
-    "status": "مستمر"
   },
   {
     "id": "الليتش المجنون",
@@ -1717,6 +1622,122 @@
       "سحر",
       "غموض",
       "مغامرة"
+    ],
+    "status": "مستمر"
+  },
+  {
+    "id": "إرادة تتجاوز النسيان",
+    "title": "إرادة تتجاوز النسيان",
+    "url": "https://kolnovel.com/series/%d8%a5%d8%b1%d8%a7%d8%af%d8%a9-%d8%aa%d8%aa%d8%ac%d8%a7%d9%88%d8%b2-%d8%a7%d9%84%d9%86%d8%b3%d9%8a%d8%a7%d9%86",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2026/11/file_000000006ef4720c92336fae1306c20e.webp",
+    "type": "رواية",
+    "status": "مستمر",
+    "is_novel": true,
+    "rating": "",
+    "total_chapters": 2,
+    "genres": [
+      "حروب",
+      "فنتازيا",
+      "قوى خارقة",
+      "مغامرة"
+    ]
+  },
+  {
+    "id": "كيف أعاد بطل واقعي بناء المملكة",
+    "title": "كيف أعاد بطل واقعي بناء المملكة",
+    "url": "https://kolnovel.com/series/%d9%83%d9%8a%d9%81-%d8%a3%d8%b9%d8%a7%d8%af-%d8%a8%d8%b7%d9%84-%d9%88%d8%a7%d9%82%d8%b9%d9%8a-%d8%a8%d9%86%d8%a7%d8%a1-%d8%a7%d9%84%d9%85%d9%85%d9%84%d9%83%d8%a9",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2026/08/RealistHero-LN-v03-Cover.jpg",
+    "type": "رواية",
+    "is_novel": true,
+    "rating": "",
+    "total_chapters": 24,
+    "genres": [
+      "أكشن",
+      "حريم",
+      "خيال",
+      "دراما",
+      "رومانسية",
+      "سياسة",
+      "عسكرية",
+      "كوميديا",
+      "مغامرة"
+    ],
+    "status": "مستمر"
+  },
+  {
+    "id": "سليل المملكة",
+    "title": "سليل المملكة",
+    "url": "https://kolnovel.com/series/kingdoms-bloodline",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2022/10/سليل-المملكة_20250918_161202_٠٠٠٠.png",
+    "type": "رواية",
+    "is_novel": true,
+    "rating": "",
+    "total_chapters": 24,
+    "genres": [
+      "أكشن",
+      "خيال",
+      "دراما",
+      "سحر",
+      "فنون قتال",
+      "قوى خارقة",
+      "مغامرة"
+    ],
+    "status": "مستمر"
+  },
+  {
+    "id": "كتاب المئة حياة",
+    "title": "كتاب المئة حياة",
+    "url": "https://kolnovel.com/series/%d9%83%d8%aa%d8%a7%d8%a8-%d8%a7%d9%84%d9%85%d8%a6%d8%a9-%d8%ad%d9%8a%d8%a7%d8%a9",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2026/08/بدون-اسم124_20260822084136.png",
+    "type": "رواية",
+    "is_novel": true,
+    "rating": "",
+    "total_chapters": 24,
+    "genres": [
+      "أكشن",
+      "تناسخ",
+      "خيال",
+      "زراعة",
+      "فنون قتال",
+      "نظام"
+    ],
+    "status": "مستمر"
+  },
+  {
+    "id": "ري: زيرو – بداية الحياة في عالم آخر",
+    "title": "ري: زيرو – بداية الحياة في عالم آخر",
+    "url": "https://kolnovel.com/series/%d8%b1%d9%8a-%d8%b2%d9%8a%d8%b1%d9%88-%d8%a8%d8%af%d8%a7%d9%8a%d8%a9-%d8%a7%d9%84%d8%ad%d9%8a%d8%a7%d8%a9-%d9%81%d9%8a-%d8%b9%d8%a7%d9%84%d9%85-%d8%a2%d8%ae%d8%b1",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2026/10/a826e405f732171c-106x150.webp",
+    "type": "رواية",
+    "is_novel": true,
+    "rating": "",
+    "total_chapters": 24,
+    "genres": [
+      "إثارة",
+      "إيسيكاي",
+      "خيال مظلم",
+      "دراما",
+      "رومانسية",
+      "غموض",
+      "مغامرة",
+      "نفسي"
+    ],
+    "status": "مستمر"
+  },
+  {
+    "id": "الغموض، القوى، الفوضى",
+    "title": "الغموض، القوى، الفوضى",
+    "url": "https://kolnovel.com/series/%d8%a7%d9%84%d8%ba%d9%85%d9%88%d8%b6%d8%8c-%d8%a7%d9%84%d9%82%d9%88%d9%89%d8%8c-%d8%a7%d9%84%d9%81%d9%88%d8%b6%d9%89",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2025/11/AddText_11-29-03.57.56.png",
+    "type": "رواية",
+    "is_novel": true,
+    "rating": "8.5",
+    "total_chapters": 41,
+    "genres": [
+      "أكشن",
+      "بطل شرير",
+      "خيال",
+      "فنون قتال"
     ],
     "status": "مستمر"
   },
