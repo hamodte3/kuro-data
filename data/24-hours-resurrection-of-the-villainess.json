@@ -9,13 +9,16 @@
   "rating": "9.1",
   "genres": [
     "إعادة إحياء",
+    "دراما",
     "كوميدي",
     "رومانسي",
-    "دراما",
     "فنتازيا"
   ],
   "is_novel": false,
   "chapters": {
+    "https://azorafly.com/series/24-hours-resurrection-of-the-villainess/chapter-97": {
+      "name": "97"
+    },
     "https://azorafly.com/series/24-hours-resurrection-of-the-villainess/chapter-96": {
       "name": "96"
     },

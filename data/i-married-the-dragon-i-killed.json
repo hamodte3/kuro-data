@@ -6,16 +6,22 @@
   "type": "مانهوا",
   "status": "مستمر",
   "last_update": "2026-09-14",
-  "rating": "9.1",
+  "rating": "9.2",
   "genres": [
     "تراجع",
     "اكشن",
     "مغامرة",
-    "فنتازيا",
-    "مأساة"
+    "مأساة",
+    "فنتازيا"
   ],
   "is_novel": false,
   "chapters": {
+    "https://azorafly.com/series/i-married-the-dragon-i-killed/chapter-25": {
+      "name": "25"
+    },
+    "https://azorafly.com/series/i-married-the-dragon-i-killed/chapter-24": {
+      "name": "24"
+    },
     "https://azorafly.com/series/i-married-the-dragon-i-killed/chapter-23": {
       "name": "23"
     },
