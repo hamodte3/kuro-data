@@ -6,19 +6,22 @@
   "type": "رواية",
   "status": "مستمر",
   "last_update": "2026-05-08",
-  "rating": "9.6",
+  "rating": "9.5",
   "genres": [
     "كراهية",
     "رجل نادم",
     "زواج مرتب",
     "عصور وسطى",
-    "رومانسي",
-    "تاريخي",
+    "مأساة",
     "دراما",
-    "مأساة"
+    "رومانسي",
+    "تاريخي"
   ],
   "is_novel": false,
   "chapters": {
+    "https://azorafly.com/series/the-forgotten-fields/chapter-330": {
+      "name": "330"
+    },
     "https://azorafly.com/series/the-forgotten-fields/chapter-329": {
       "name": "329"
     },

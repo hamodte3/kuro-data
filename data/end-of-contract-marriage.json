@@ -6,13 +6,16 @@
   "type": "مانهوا",
   "status": "مستمر",
   "last_update": "2026-09-08",
-  "rating": "9.7",
+  "rating": "9.5",
   "genres": [
-    "رومانسي",
-    "دراما"
+    "دراما",
+    "رومانسي"
   ],
   "is_novel": false,
   "chapters": {
+    "https://azorafly.com/series/end-of-contract-marriage/chapter-57": {
+      "name": "57"
+    },
     "https://azorafly.com/series/end-of-contract-marriage/chapter-56": {
       "name": "56"
     },

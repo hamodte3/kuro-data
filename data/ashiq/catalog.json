@@ -6384,29 +6384,6 @@
     "status": "مستمر"
   },
   {
-    "id": "noisering",
-    "title": "Noisering",
-    "url": "https://3asq.online/manga/noisering",
-    "cover_url": "https://3asq.online/wp-content/uploads/2026/09/noisering-scaled.jpg",
-    "type": "مانغا",
-    "rating": "5.0",
-    "total_chapters": 4,
-    "genres": [
-      "أكشن",
-      "جريمة",
-      "خارق للطبيعة",
-      "خيال علمي",
-      "دراما",
-      "رعب",
-      "عسكرية",
-      "علم نفس",
-      "عنف",
-      "غموض",
-      "فلسفة"
-    ],
-    "status": "مستمر"
-  },
-  {
     "id": "naruto-digital-colored",
     "title": "Naruto – Digital Colored",
     "url": "https://3asq.online/manga/naruto-digital-colored",
@@ -6745,6 +6722,29 @@
       "شونين",
       "كوميديا",
       "مغامرة"
+    ],
+    "status": "مستمر"
+  },
+  {
+    "id": "noisering",
+    "title": "Noisering",
+    "url": "https://3asq.online/manga/noisering",
+    "cover_url": "https://3asq.online/wp-content/uploads/2026/09/noisering-scaled.jpg",
+    "type": "مانغا",
+    "rating": "5.0",
+    "total_chapters": 4,
+    "genres": [
+      "أكشن",
+      "جريمة",
+      "خارق للطبيعة",
+      "خيال علمي",
+      "دراما",
+      "رعب",
+      "عسكرية",
+      "علم نفس",
+      "عنف",
+      "غموض",
+      "فلسفة"
     ],
     "status": "مستمر"
   }
