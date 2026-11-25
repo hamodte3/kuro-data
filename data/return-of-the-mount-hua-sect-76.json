@@ -9,17 +9,20 @@
   "rating": "9.8",
   "genres": [
     "دموي",
-    "اسبوعي",
     "مانهوا",
     "سينين",
     "قوة خارقة",
-    "كوميدي",
-    "مميز",
+    "اسبوعي",
+    "أكشن",
     "إثارة",
-    "أكشن"
+    "مميز",
+    "كوميدي"
   ],
   "is_novel": false,
   "chapters": {
+    "https://azorafly.com/series/return-of-the-mount-hua-sect-76/chapter-189": {
+      "name": "189"
+    },
     "https://azorafly.com/series/return-of-the-mount-hua-sect-76/chapter-188": {
       "name": "188"
     },
