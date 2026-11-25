@@ -9,12 +9,15 @@
   "rating": "8.8",
   "genres": [
     "مانهوا",
-    "رومانسي",
     "دراما",
-    "خيال"
+    "خيال",
+    "رومانسي"
   ],
   "is_novel": false,
   "chapters": {
+    "https://azorafly.com/series/the-villainous-sister-hides-her-wealth/chapter-83": {
+      "name": "83"
+    },
     "https://azorafly.com/series/the-villainous-sister-hides-her-wealth/chapter-82": {
       "name": "82"
     },

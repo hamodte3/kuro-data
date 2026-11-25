@@ -9,15 +9,21 @@
   "rating": "9.7",
   "genres": [
     "اسبوعي",
-    "فنون قتالية",
-    "شونين",
-    "مميز",
-    "خيال",
     "أكشن",
-    "مغامرات"
+    "مميز",
+    "فنون قتالية",
+    "مغامرات",
+    "خيال",
+    "شونين"
   ],
   "is_novel": false,
   "chapters": {
+    "https://azorafly.com/series/return-of-the-disaster-class-hero/chapter-198": {
+      "name": "198"
+    },
+    "https://azorafly.com/series/return-of-the-disaster-class-hero/chapter-197": {
+      "name": "197"
+    },
     "https://azorafly.com/series/return-of-the-disaster-class-hero/chapter-196": {
       "name": "196"
     },
