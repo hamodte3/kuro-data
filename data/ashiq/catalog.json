@@ -2777,7 +2777,7 @@
     "url": "https://3asq.online/manga/kingdom",
     "cover_url": "https://3asq.online/wp-content/uploads/2019/04/F909tJfWsAAFfQS-asq-hero-480-v2.webp",
     "type": "مانغا",
-    "rating": "4.6",
+    "rating": "4.7",
     "total_chapters": 50,
     "genres": [
       "أكشن",
@@ -4713,7 +4713,7 @@
     "url": "https://3asq.online/manga/echoes",
     "cover_url": "https://3asq.online/wp-content/uploads/2025/09/AIRetouch_20250730_221418148-scaled.jpg",
     "type": "مانغا",
-    "rating": "5.0",
+    "rating": "4.2",
     "total_chapters": 2,
     "genres": [
       "خارق للطبيعة",
@@ -6665,31 +6665,6 @@
     "status": "مستمر"
   },
   {
-    "id": "enigmatica",
-    "title": "Enigmatica",
-    "url": "https://3asq.online/manga/enigmatica",
-    "cover_url": "https://3asq.online/wp-content/uploads/2026/04/enigmatica_cover_pink-asq-hero-480-v2.webp",
-    "type": "مانغا",
-    "rating": "4.8",
-    "total_chapters": 35,
-    "genres": [
-      "أكشن",
-      "استراتيجي",
-      "تاريخ",
-      "جريمة",
-      "حرب",
-      "خيال",
-      "دراما",
-      "شونين",
-      "عسكرية",
-      "علم نفس",
-      "عنف",
-      "غموض",
-      "فلسفة"
-    ],
-    "status": "مستمر"
-  },
-  {
     "id": "the-return-of-the-corpse-king",
     "title": "The Return of The Corpse King",
     "url": "https://3asq.online/manga/the-return-of-the-corpse-king",
@@ -6732,7 +6707,7 @@
     "cover_url": "https://3asq.online/wp-content/uploads/2026/09/noisering-scaled.jpg",
     "type": "مانغا",
     "rating": "5.0",
-    "total_chapters": 4,
+    "total_chapters": 7,
     "genres": [
       "أكشن",
       "جريمة",
@@ -6740,6 +6715,31 @@
       "خيال علمي",
       "دراما",
       "رعب",
+      "عسكرية",
+      "علم نفس",
+      "عنف",
+      "غموض",
+      "فلسفة"
+    ],
+    "status": "مستمر"
+  },
+  {
+    "id": "enigmatica",
+    "title": "Enigmatica",
+    "url": "https://3asq.online/manga/enigmatica",
+    "cover_url": "https://3asq.online/wp-content/uploads/2026/04/enigmatica_cover_pink-asq-hero-480-v2.webp",
+    "type": "مانغا",
+    "rating": "4.8",
+    "total_chapters": 36,
+    "genres": [
+      "أكشن",
+      "استراتيجي",
+      "تاريخ",
+      "جريمة",
+      "حرب",
+      "خيال",
+      "دراما",
+      "شونين",
       "عسكرية",
       "علم نفس",
       "عنف",

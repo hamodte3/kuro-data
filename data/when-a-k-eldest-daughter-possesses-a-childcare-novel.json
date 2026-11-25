@@ -6,14 +6,17 @@
   "type": "مانهوا",
   "status": "مستمر",
   "last_update": "2026-08-06",
-  "rating": "7.7",
+  "rating": "7.9",
   "genres": [
-    "رومانسي",
     "دراما",
-    "خيال"
+    "خيال",
+    "رومانسي"
   ],
   "is_novel": false,
   "chapters": {
+    "https://azorafly.com/series/when-a-k-eldest-daughter-possesses-a-childcare-novel/chapter-71": {
+      "name": "71"
+    },
     "https://azorafly.com/series/when-a-k-eldest-daughter-possesses-a-childcare-novel/chapter-70": {
       "name": "70"
     },

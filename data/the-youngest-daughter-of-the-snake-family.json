@@ -8,13 +8,16 @@
   "last_update": "2026-09-26",
   "rating": "10.0",
   "genres": [
-    "رومانسى",
     "اطفال",
-    "فانتازيا",
-    "شوجو"
+    "رومانسى",
+    "شوجو",
+    "فانتازيا"
   ],
   "is_novel": false,
   "chapters": {
+    "https://azorafly.com/series/the-youngest-daughter-of-the-snake-family/chapter-24": {
+      "name": "24"
+    },
     "https://azorafly.com/series/the-youngest-daughter-of-the-snake-family/chapter-23": {
       "name": "23"
     },
