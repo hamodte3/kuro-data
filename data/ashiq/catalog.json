@@ -4984,7 +4984,7 @@
     "url": "https://3asq.online/manga/darling-in-the-franxx",
     "cover_url": "https://3asq.online/wp-content/uploads/2025/12/1.jpg",
     "type": "مانغا",
-    "rating": "",
+    "rating": "5.0",
     "total_chapters": 0,
     "genres": [
       "أكشن",
@@ -6745,6 +6745,22 @@
       "عنف",
       "غموض",
       "فلسفة"
+    ],
+    "status": "مستمر"
+  },
+  {
+    "id": "the-backwards-house",
+    "title": "The Backwards House",
+    "url": "https://3asq.online/manga/the-backwards-house",
+    "cover_url": "https://3asq.online/wp-content/uploads/2026/11/the-backwards-house-cover-arabic-480x691.jpg.webp",
+    "type": "ويب-تون",
+    "rating": "",
+    "total_chapters": 1,
+    "genres": [
+      "أكشن",
+      "رعب",
+      "غموض",
+      "ويب-تون"
     ],
     "status": "مستمر"
   }

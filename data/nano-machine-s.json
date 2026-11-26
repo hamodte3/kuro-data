@@ -6,19 +6,25 @@
   "type": "مانهوا",
   "status": "مستمر",
   "last_update": "2026-09-14",
-  "rating": "9.7",
+  "rating": "9.6",
   "genres": [
-    "اسبوعي",
     "مانهوا",
     "خارق للطبيعة",
-    "مغامرات",
-    "غموض",
-    "مميز",
+    "اسبوعي",
     "أكشن",
-    "إثارة"
+    "إثارة",
+    "مميز",
+    "غموض",
+    "مغامرات"
   ],
   "is_novel": false,
   "chapters": {
+    "https://azorafly.com/series/nano-machine-s/chapter-340": {
+      "name": "340"
+    },
+    "https://azorafly.com/series/nano-machine-s/chapter-339": {
+      "name": "339"
+    },
     "https://azorafly.com/series/nano-machine-s/chapter-338": {
       "name": "338"
     },

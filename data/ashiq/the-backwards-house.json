@@ -1,0 +1,22 @@
+{
+  "id": "the-backwards-house",
+  "title": "The Backwards House",
+  "cover_url": "https://3asq.online/wp-content/uploads/2026/11/the-backwards-house-cover-arabic-480x691.jpg.webp",
+  "description": "لا يوجد وصف",
+  "type": "ويب-تون",
+  "status": "مستمر",
+  "rating": "",
+  "favorites": "",
+  "genres": [
+    "أكشن",
+    "رعب",
+    "غموض",
+    "ويب-تون"
+  ],
+  "is_novel": false,
+  "chapters": {
+    "https://3asq.online/manga/the-backwards-house/1": {
+      "name": "1"
+    }
+  }
+}
