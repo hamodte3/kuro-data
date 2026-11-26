@@ -11,8 +11,8 @@ DATA_DIR = os.path.join("data", "ashiq")
 CATALOG_FILE = os.path.join(DATA_DIR, "catalog.json")
 GLOBAL_NEW_FILE = os.path.join("data", "new.json")
 
-DETAILS_SYNC_LIMIT = 20    # فحص تفاصيل وفصول أحدث 20 عملاً تم تحديثها
-MAX_DELTA_PAGES = 5 # فحص أول 5 صفحات فقط كل ساعة لمراقبة الجديد
+DETAILS_SYNC_LIMIT = 20
+MAX_DELTA_PAGES = 5
 
 os.makedirs(DATA_DIR, exist_ok=True)
 os.makedirs("data", exist_ok=True)
@@ -21,12 +21,14 @@ HEADERS = {
     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36",
     "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8",
     "Accept-Language": "ar-SA,ar;q=0.9,en-US;q=0.8,en;q=0.7",
+    "Origin": BASE_URL,
     "Referer": f"{BASE_URL}/",
     "Connection": "keep-alive"
 }
 
 def get_session():
-    return requests.Session(impersonate="chrome120", headers=HEADERS)
+    # curl_options={113: 1} => CURLOPT_IPRESOLVE = CURL_IPRESOLVE_V4 لتجنب تعليق IPv6
+    return requests.Session(impersonate="chrome120", headers=HEADERS, curl_options={113: 1})
 
 def normalize_url(url: str) -> str:
     url = url.strip()
@@ -40,7 +42,6 @@ def extract_cover_image(container) -> str:
     if not container:
         return ""
 
-    # 1. فحص وسوم <picture> أولاً (data-srcset ثم srcset)
     for source in container.select("picture source"):
         raw_srcset = (source.get("data-srcset") or source.get("srcset") or "").strip()
         if raw_srcset:
@@ -48,7 +49,6 @@ def extract_cover_image(container) -> str:
             if best_link and "dflazy" not in best_link and not best_link.startswith("data:"):
                 return normalize_url(best_link)
 
-    # 2. فحص وسم <img> وتفضيل data-src / data-lazy-src على src
     img = container.select_one("img")
     if not img:
         return ""
@@ -110,6 +110,16 @@ def load_existing_catalog() -> dict:
         print(f"خطأ أثناء قراءة كاتلوج العاشق القديم: {e}")
         return {}
 
+def load_existing_details(file_path: str) -> dict:
+    if not os.path.exists(file_path):
+        return {}
+    try:
+        with open(file_path, "r", encoding="utf-8") as f:
+            return json.load(f)
+    except Exception as e:
+        print(f"خطأ أثناء قراءة تفاصيل العمل القديمة: {e}")
+        return {}
+
 def update_global_new_releases(new_releases: list):
     if not new_releases:
         return
@@ -135,43 +145,16 @@ def update_global_new_releases(new_releases: list):
         json.dump(deduped[:15], f, ensure_ascii=False, indent=2)
     print(f"🔔 تم تسجيل {len(new_releases)} تحديث جديد للعاشق في {GLOBAL_NEW_FILE}")
 
-def extract_chapters_ashiq(session, manga_url: str, post_id: str = "") -> dict:
-    clean_url = normalize_url(manga_url)
-    elements = []
-    
-    custom_headers = {
-        "Referer": clean_url,
-        "X-Requested-With": "XMLHttpRequest",
-        "Cache-Control": "no-cache",
-        "Pragma": "no-cache"
-    }
-
-    try:
-        ajax_url = f"{clean_url}/ajax/chapters/?_t={int(time.time())}"
-        res = session.post(ajax_url, headers=custom_headers, timeout=20)
-        if res.status_code == 200 and "wp-manga-chapter" in res.text:
-            soup = BeautifulSoup(res.text, "html.parser")
-            elements = soup.select("li.wp-manga-chapter a, ul.main.version-chap li a")
-    except Exception:
-        elements = []
-
-    if not elements and post_id:
-        try:
-            admin_ajax = f"{BASE_URL}/wp-admin/admin-ajax.php"
-            data = {"action": "manga_get_chapters", "manga": post_id}
-            res = session.post(admin_ajax, data=data, headers=custom_headers, timeout=20)
-            if res.status_code == 200:
-                soup = BeautifulSoup(res.text, "html.parser")
-                elements = soup.select("li.wp-manga-chapter a, ul.main.version-chap li a")
-        except Exception:
-            elements = []
-
+def _parse_chapters_and_pagination(html: str) -> tuple[dict, int]:
+    soup = BeautifulSoup(html, "html.parser")
+    elements = soup.select("li.wp-manga-chapter a, ul.main.version-chap li a")
     chapters_map = {}
+
     for a in elements:
         href = a.get("href", "").strip()
         if not href or href.endswith("#"):
             continue
-        
+
         full_url = normalize_url(href)
         if full_url in chapters_map:
             continue
@@ -186,11 +169,78 @@ def extract_chapters_ashiq(session, manga_url: str, post_id: str = "") -> dict:
 
         chapters_map[full_url] = {"name": clean_name}
 
-    return chapters_map
+    max_page = 1
+    for a in soup.select(".page a"):
+        data_page = (a.get("data-page") or "").strip()
+        if data_page.isdigit():
+            max_page = max(max_page, int(data_page))
+        href = a.get("href", "")
+        m = re.search(r"[?&]t=(\d+)", href)
+        if m:
+            max_page = max(max_page, int(m.group(1)))
+
+    return chapters_map, max_page
+
+def extract_chapters_ashiq(session, manga_url: str, post_id: str = "", existing_chapters: dict | None = None) -> dict:
+    clean_url = normalize_url(manga_url)
+    merged = dict(existing_chapters) if existing_chapters else {}
+
+    custom_headers = {
+        "Referer": f"{clean_url}/",
+        "X-Requested-With": "XMLHttpRequest",
+        "Cache-Control": "no-cache",
+        "Pragma": "no-cache"
+    }
+
+    fetched_any = False
+
+    # 1. جلب الصفحة الأولى + اكتشاف بقية صفحات الفصول (?t=2, 3, ...)
+    try:
+        ajax_url = f"{clean_url}/ajax/chapters/?_t={int(time.time())}"
+        res = session.post(ajax_url, headers=custom_headers, timeout=25)
+        if res.status_code == 200 and res.text.strip():
+            first_chapters, max_page = _parse_chapters_and_pagination(res.text)
+            if first_chapters:
+                fetched_any = True
+                merged.update(first_chapters)
+
+                page = 2
+                while page <= max_page and page <= 50:
+                    time.sleep(0.35)
+                    paged_url = f"{clean_url}/ajax/chapters/?t={page}&_t={int(time.time())}"
+                    p_res = session.post(paged_url, headers=custom_headers, timeout=25)
+                    if p_res.status_code != 200 or not p_res.text.strip():
+                        break
+
+                    page_chapters, discovered_max = _parse_chapters_and_pagination(p_res.text)
+                    new_urls = [u for u in page_chapters if u not in merged]
+                    if not new_urls:
+                        break
+
+                    merged.update(page_chapters)
+                    if discovered_max > max_page:
+                        max_page = discovered_max
+                    page += 1
+    except Exception as e:
+        print(f"⚠️ تعذر جلب الفصول من ajax/chapters لـ {clean_url}: {e}")
+
+    # 2. fallback احتياطي إذا رجع المسار الأساسي فارغاً
+    if not fetched_any and post_id:
+        try:
+            admin_ajax = f"{BASE_URL}/wp-admin/admin-ajax.php"
+            data = {"action": "manga_get_chapters", "manga": post_id}
+            res = session.post(admin_ajax, data=data, headers=custom_headers, timeout=25)
+            if res.status_code == 200 and res.text.strip():
+                fallback_chapters, _ = _parse_chapters_and_pagination(res.text)
+                merged.update(fallback_chapters)
+        except Exception:
+            pass
+
+    return merged
 
 def scrape_manga_details_ashiq(session, manga_url: str):
     clean_url = normalize_url(manga_url)
-    cache_url = f"{clean_url}?_t={int(time.time())}"
+    cache_url = f"{clean_url}/?_t={int(time.time())}"
     custom_headers = {
         **HEADERS,
         "Cache-Control": "no-cache, no-store, must-revalidate",
@@ -203,7 +253,6 @@ def scrape_manga_details_ashiq(session, manga_url: str):
     title_el = soup.select_one("div.post-title h1, h1")
     title = title_el.text.strip() if title_el else "بدون عنوان"
 
-    # جلب الغلاف عبر الدالة الذكية من الحاوية
     summary_img = soup.select_one("div.summary_image")
     cover_url = extract_cover_image(summary_img)
     if not cover_url:
@@ -234,7 +283,7 @@ def scrape_manga_details_ashiq(session, manga_url: str):
         content = item.select_one("div.summary-content")
         if not heading or not content:
             continue
-        
+
         h_text = heading.text.strip()
         if "النوع" in h_text:
             raw_type = content.text.strip()
@@ -250,8 +299,14 @@ def scrape_manga_details_ashiq(session, manga_url: str):
         id_input = soup.select_one("input.rating-post-id, input#comment_post_ID")
         post_id = id_input.get("value", "") if id_input else ""
 
-    chapters_map = extract_chapters_ashiq(session, clean_url, post_id)
     slug = clean_url.rstrip("/").split("/")[-1]
+    existing_details = load_existing_details(os.path.join(DATA_DIR, f"{slug}.json"))
+    chapters_map = extract_chapters_ashiq(
+        session,
+        clean_url,
+        post_id,
+        existing_chapters=existing_details.get("chapters", {})
+    )
 
     return {
         "id": slug,
@@ -296,7 +351,7 @@ def sync_ashiq_fast():
     for page in range(1, MAX_DELTA_PAGES + 1):
         url = f"{BASE_URL}/manga/?m_orderby=modified" if page == 1 else f"{BASE_URL}/manga/page/{page}/?m_orderby=modified"
         try:
-            res = session.get(url, timeout=20)
+            res = session.get(url, timeout=25)
             if res.status_code != 200:
                 break
 
@@ -316,7 +371,6 @@ def sync_ashiq_fast():
                 manga_url = normalize_url(link.get("href", ""))
                 slug = manga_url.split("/")[-1]
 
-                # استخراج الغلاف عبر دالة الفحص الدقيق
                 thumb_box = card.select_one("div.item-thumb")
                 cover = extract_cover_image(thumb_box)
 
@@ -410,8 +464,6 @@ def sync_ashiq_fast():
         update_global_new_releases(new_releases)
 
     print(f"\n⚡ اكتملت مزامنة العاشق بنجاح! إجمالي الأعمال: {len(full_catalog)}")
-    
-    # رفع التحديثات الجديدة إلى المستودع
     git_commit_and_push()
 
 if __name__ == "__main__":
