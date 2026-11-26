@@ -1,5 +1,68 @@
 [
   {
+    "id": "the-backwards-house",
+    "title": "The Backwards House",
+    "chapter": "الفصل 1",
+    "type": "ويب-تون",
+    "cover_url": "https://3asq.online/wp-content/uploads/2026/11/the-backwards-house-cover-arabic-480x691.jpg.webp"
+  },
+  {
+    "id": "enigmatica",
+    "title": "Enigmatica",
+    "chapter": "الفصل 36",
+    "type": "مانغا",
+    "cover_url": "https://3asq.online/wp-content/uploads/2026/04/enigmatica_cover_pink-asq-hero-480-v2.webp"
+  },
+  {
+    "id": "noisering",
+    "title": "Noisering",
+    "chapter": "الفصل 7",
+    "type": "مانغا",
+    "cover_url": "https://3asq.online/wp-content/uploads/2026/09/noisering-scaled.jpg"
+  },
+  {
+    "id": "the-return-of-the-corpse-king",
+    "title": "The Return of The Corpse King",
+    "chapter": "الفصل 21",
+    "type": "مانغا",
+    "cover_url": "https://3asq.online/wp-content/uploads/2025/09/ecf61b0f-bb4b-4865-a7a4-9407abc1ba49-480x691.png.webp"
+  },
+  {
+    "id": "lookism_fedaa-chan",
+    "title": "Lookism",
+    "chapter": "الفصل 41",
+    "type": "مانهوا",
+    "cover_url": "https://3asq.online/wp-content/uploads/2026/03/large_Picsart_23-12-24_10-11-07-103-2-asq-grid-350-v2.webp"
+  },
+  {
+    "id": "anne-shirley",
+    "title": "Anne Shirley",
+    "chapter": "الفصل 3",
+    "type": "مانغا",
+    "cover_url": "https://3asq.online/wp-content/uploads/2025/04/new-cover-ANNE-480x691.png.webp"
+  },
+  {
+    "id": "night-of-the-living-cat",
+    "title": "Night of the Living Cat",
+    "chapter": "الفصل 5",
+    "type": "مانغا",
+    "cover_url": "https://3asq.online/wp-content/uploads/2025/07/Night-of-the-Living-Cat-COVER-scaled.jpg"
+  },
+  {
+    "id": "d-gray-man",
+    "title": "D.Gray-man",
+    "chapter": "الفصل 5",
+    "type": "مانغا",
+    "cover_url": "https://3asq.online/wp-content/uploads/2026/09/D.Gray-man-VOL16-scaled.jpg"
+  },
+  {
+    "id": "witchriv",
+    "title": "WITCHRIV",
+    "chapter": "الفصل 30",
+    "type": "مانغا",
+    "cover_url": "https://3asq.online/wp-content/uploads/2026/01/p-0000-480x691.jpg.webp"
+  },
+  {
     "id": "فيوليت إيفرغاردن",
     "title": "فيوليت إيفرغاردن",
     "chapter": "الفصل 2",
@@ -40,68 +103,5 @@
     "chapter": "الفصل 8",
     "type": "رواية",
     "cover_url": "https://kolnovel.com/wp-content/uploads/2026/09/صورة-ChatGPT-29-سبتمبر-2026،-06_43_43-ص.png"
-  },
-  {
-    "id": "مجلس الخال!",
-    "title": "مجلس الخال!",
-    "chapter": "الفصل 2",
-    "type": "رواية",
-    "cover_url": "https://kolnovel.com/wp-content/uploads/2024/11/14_20241108121832.png"
-  },
-  {
-    "id": "كتاب المئة حياة",
-    "title": "كتاب المئة حياة",
-    "chapter": "الفصل 51",
-    "type": "رواية",
-    "cover_url": "https://kolnovel.com/wp-content/uploads/2026/08/بدون-اسم124_20260822084136.png"
-  },
-  {
-    "id": "صفقة مع الشيطان",
-    "title": "صفقة مع الشيطان",
-    "chapter": "الفصل 2",
-    "type": "رواية",
-    "cover_url": "https://kolnovel.com/wp-content/themes/starless/assets/images/noimg165px.png"
-  },
-  {
-    "id": "نظام&سلالة&الدم-",
-    "title": "نظام&سلالة&الدم-",
-    "chapter": "الفصل 51",
-    "type": "رواية",
-    "cover_url": "https://kolnovel.com/wp-content/uploads/2021/12/بدون-اسم46_20250203201559-108x150.png"
-  },
-  {
-    "id": "الخلود الملعون",
-    "title": "الخلود الملعون",
-    "chapter": "الفصل 2",
-    "type": "رواية",
-    "cover_url": "https://kolnovel.com/wp-content/uploads/2024/04/4_20240928135218.png"
-  },
-  {
-    "id": "الخيميائي الميكانيكي",
-    "title": "الخيميائي الميكانيكي",
-    "chapter": "الفصل 2",
-    "type": "رواية",
-    "cover_url": "https://kolnovel.com/wp-content/uploads/2021/01/بدون-اسم52_20260530141421.png"
-  },
-  {
-    "id": "أستاذ مزيف، يُساء فهمه على أنه قوي",
-    "title": "أستاذ مزيف، يُساء فهمه على أنه قوي",
-    "chapter": "الفصل 2",
-    "type": "رواية",
-    "cover_url": "https://kolnovel.com/wp-content/uploads/2026/06/بدون-اسم69_20260715195741.png"
-  },
-  {
-    "id": "الحظ يفضل السقوط",
-    "title": "الحظ يفضل السقوط",
-    "chapter": "الفصل 5",
-    "type": "رواية",
-    "cover_url": "https://kolnovel.com/wp-content/uploads/2026/05/135975-fortune-favors-the-fall.jpg-100x150.png"
-  },
-  {
-    "id": "ReForm: The Nobody",
-    "title": "ReForm: The Nobody",
-    "chapter": "الفصل 1",
-    "type": "رواية",
-    "cover_url": "https://kolnovel.com/wp-content/uploads/2021/12/5972441263a9514c39309138784a6c69-01_1.jpg"
   }
 ]

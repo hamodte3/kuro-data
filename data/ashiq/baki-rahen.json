@@ -1,7 +1,7 @@
 {
   "id": "baki-rahen",
   "title": "Baki Rahen",
-  "cover_url": "https://3asq.online/wp-content/uploads/2025/07/Baki-Rahen-asq-hero-480-v2.webp",
+  "cover_url": "https://3asq.online/wp-content/uploads/2025/07/Baki-Rahen-1-480x691.jpg.webp",
   "description": "تكملة المانجا الاسطورية لسلسلة باكي هانما بالجزء السادس",
   "type": "مانغا",
   "status": "مستمر",
@@ -16,6 +16,12 @@
   ],
   "is_novel": false,
   "chapters": {
+    "https://3asq.online/manga/baki-rahen/72": {
+      "name": "72"
+    },
+    "https://3asq.online/manga/baki-rahen/71": {
+      "name": "71"
+    },
     "https://3asq.online/manga/baki-rahen/70": {
       "name": "70"
     },
@@ -159,12 +165,6 @@
     },
     "https://3asq.online/manga/baki-rahen/24": {
       "name": "24"
-    },
-    "https://3asq.online/manga/baki-rahen/23": {
-      "name": "23"
-    },
-    "https://3asq.online/manga/baki-rahen/22": {
-      "name": "22"
     }
   }
 }

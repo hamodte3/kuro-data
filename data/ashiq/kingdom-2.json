@@ -1,7 +1,7 @@
 {
   "id": "kingdom-2",
   "title": "Kingdom (WAN)",
-  "cover_url": "https://3asq.online/wp-content/uploads/2024/03/0cover-asq-hero-480-v2.webp",
+  "cover_url": "https://3asq.online/wp-content/uploads/2024/03/01-1-480x691.jpg.webp",
   "description": "بعد مرور القرون والقرون على إنقضاء العصر القديم، وكذلك قد ولى زمن القديسين وانتهى، في وقت أطلق فيه الرجال العنان لرغباتهم؛ إنه عهد حرب الخمسمائة عام الكبرى أي حقبة الممالك المتناحرة. وتدور أحداث المانجا حول فتى صغير يُدعى شين يطمح للغدو جنرالا عظيما فما هي العقبات التي سيواجهها وكم من الدماء سينزف من أجل تحقيق حلمه.",
   "type": "مانغا",
   "status": "مستمر",
@@ -20,6 +20,15 @@
   ],
   "is_novel": false,
   "chapters": {
+    "https://3asq.online/manga/kingdom-2/895": {
+      "name": "895"
+    },
+    "https://3asq.online/manga/kingdom-2/894": {
+      "name": "894"
+    },
+    "https://3asq.online/manga/kingdom-2/893": {
+      "name": "893"
+    },
     "https://3asq.online/manga/kingdom-2/892": {
       "name": "892"
     },
@@ -28,6 +37,9 @@
     },
     "https://3asq.online/manga/kingdom-2/890": {
       "name": "890"
+    },
+    "https://3asq.online/manga/kingdom-2/889-5": {
+      "name": "889.5"
     },
     "https://3asq.online/manga/kingdom-2/889": {
       "name": "889"
@@ -157,18 +169,6 @@
     },
     "https://3asq.online/manga/kingdom-2/849": {
       "name": "849"
-    },
-    "https://3asq.online/manga/kingdom-2/848": {
-      "name": "848"
-    },
-    "https://3asq.online/manga/kingdom-2/847": {
-      "name": "847"
-    },
-    "https://3asq.online/manga/kingdom-2/846": {
-      "name": "846"
-    },
-    "https://3asq.online/manga/kingdom-2/845": {
-      "name": "845"
     }
   }
 }
