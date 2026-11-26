@@ -8,13 +8,19 @@
   "last_update": "2026-09-27",
   "rating": "9.9",
   "genres": [
-    "رومانسي",
     "رعب",
     "فانتازيا",
-    "غموض"
+    "غموض",
+    "رومانسي"
   ],
   "is_novel": false,
   "chapters": {
+    "https://azorafly.com/series/survive-the-horror-school/chapter-74": {
+      "name": "74"
+    },
+    "https://azorafly.com/series/survive-the-horror-school/chapter-73": {
+      "name": "73"
+    },
     "https://azorafly.com/series/survive-the-horror-school/chapter-72": {
       "name": "72"
     },

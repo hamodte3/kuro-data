@@ -9,16 +9,19 @@
   "rating": "10.0",
   "genres": [
     "الحياة المدرسية",
-    "تجسيد",
-    "مدرسي",
     "دراما",
+    "تجسيد",
+    "رومانسي",
+    "خيال",
     "كوميدي",
     "أكاديمية",
-    "خيال",
-    "رومانسي"
+    "مدرسي"
   ],
   "is_novel": false,
   "chapters": {
+    "https://azorafly.com/series/the-male-lead-is-obsessed-with-the-villainess-at-the-aristocratic-school1/chapter-59": {
+      "name": "59"
+    },
     "https://azorafly.com/series/the-male-lead-is-obsessed-with-the-villainess-at-the-aristocratic-school1/chapter-58": {
       "name": "58"
     },

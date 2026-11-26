@@ -5,16 +5,28 @@
   "description": "عانت نواه مايرز من سماع الهلاوس منذ سنوات طفولتها.\n\nوفي أحد الأيام، وقعت جريمة قتل غامضة هزت أصداء المدينة، وهمس صوت مبهم لنواه بأنه يعرف هوية القاتل.\n\nومع عدم تمكنها من كشف الحقائق، غرقت في حيرتها تزامنًا مع تجلي أحداث غريبة",
   "type": "مانهوا",
   "status": "مستمر",
-  "last_update": "2026-09-27",
+  "last_update": "2026-11-03",
   "rating": "9.7",
   "genres": [
-    "أكشن",
-    "رعب",
+    "تشويق",
     "نفسي",
-    "تشويق"
+    "رعب",
+    "أكشن"
   ],
   "is_novel": false,
   "chapters": {
+    "https://azorafly.com/series/a-ghostly-song/chapter-76": {
+      "name": "76"
+    },
+    "https://azorafly.com/series/a-ghostly-song/chapter-75": {
+      "name": "75"
+    },
+    "https://azorafly.com/series/a-ghostly-song/chapter-74": {
+      "name": "74"
+    },
+    "https://azorafly.com/series/a-ghostly-song/chapter-73": {
+      "name": "73"
+    },
     "https://azorafly.com/series/a-ghostly-song/chapter-72": {
       "name": "72"
     },

@@ -6,14 +6,23 @@
   "type": "مانهوا",
   "status": "مستمر",
   "last_update": "2026-05-07",
-  "rating": "8.7",
+  "rating": "8.2",
   "genres": [
     "خارق للطبيعة",
-    "خيال",
-    "رومانسي"
+    "رومانسي",
+    "خيال"
   ],
   "is_novel": false,
   "chapters": {
+    "https://azorafly.com/series/interspecies-protection-agency/chapter-40": {
+      "name": "40"
+    },
+    "https://azorafly.com/series/interspecies-protection-agency/chapter-39": {
+      "name": "39"
+    },
+    "https://azorafly.com/series/interspecies-protection-agency/chapter-38": {
+      "name": "38"
+    },
     "https://azorafly.com/series/interspecies-protection-agency/chapter-37": {
       "name": "37"
     },

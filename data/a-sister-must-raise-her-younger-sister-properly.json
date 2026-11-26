@@ -6,15 +6,21 @@
   "type": "مانهوا",
   "status": "مستمر",
   "last_update": "2026-05-07",
-  "rating": "8.5",
+  "rating": "8.7",
   "genres": [
-    "شوجو",
-    "رومانسي",
     "خيال",
-    "تجسيد"
+    "تجسيد",
+    "شوجو",
+    "رومانسي"
   ],
   "is_novel": false,
   "chapters": {
+    "https://azorafly.com/series/a-sister-must-raise-her-younger-sister-properly/chapter-171": {
+      "name": "171"
+    },
+    "https://azorafly.com/series/a-sister-must-raise-her-younger-sister-properly/chapter-170": {
+      "name": "170"
+    },
     "https://azorafly.com/series/a-sister-must-raise-her-younger-sister-properly/chapter-169": {
       "name": "169"
     },

@@ -1,0 +1,31 @@
+{
+  "id": "daytime-star",
+  "title": "DAYTIME STAR",
+  "cover_url": "https://storage.azorafly.com/upload/series/featured/htRsdrXwe4fYrUfWP1nq1I8FAqUOYTRB/d2751005-8526-4804-856e-e149a4878de8.jpg",
+  "description": "هوانغ يورا ، ممثلة كانت تعمل فقط كدور اضافي لمدة سبع سنوات منذ أن بدأت حياتها المهنية. تعرضت للخيانة من قبل صديقها الذي تزوج من شخص آخر. لكن في كل هذا الفوضى ، التقت مرة أخرى بالممثل الكبير الشهير للمرة الثانية في أحدث أفلامها! هل سيصبح طريقها إلى أن تصبح نجمة واقع؟",
+  "type": "مانهوا",
+  "status": "مستمر",
+  "last_update": "2026-11-23",
+  "rating": "9.9",
+  "genres": [
+    "ايسيكاي",
+    "دراما",
+    "رومانسي",
+    "شوجو"
+  ],
+  "is_novel": false,
+  "chapters": {
+    "https://azorafly.com/series/daytime-star/chapter-4": {
+      "name": "4"
+    },
+    "https://azorafly.com/series/daytime-star/chapter-3": {
+      "name": "3"
+    },
+    "https://azorafly.com/series/daytime-star/chapter-2": {
+      "name": "2"
+    },
+    "https://azorafly.com/series/daytime-star/chapter-1": {
+      "name": "1"
+    }
+  }
+}

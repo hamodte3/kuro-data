@@ -6,17 +6,38 @@
   "type": "رواية",
   "status": "مستمر",
   "last_update": "2026-10-28",
-  "rating": "10.0",
+  "rating": "9.5",
   "genres": [
-    "نظام",
+    "خيال",
+    "تجسيد",
     "دراما",
     "رومانسي",
-    "كوميدي",
-    "خيال",
-    "تجسيد"
+    "نظام",
+    "كوميدي"
   ],
   "is_novel": false,
   "chapters": {
+    "https://azorafly.com/series/do-the-extras-in-the-failed-drama-also-become-evil/chapter-10": {
+      "name": "10"
+    },
+    "https://azorafly.com/series/do-the-extras-in-the-failed-drama-also-become-evil/chapter-9": {
+      "name": "9"
+    },
+    "https://azorafly.com/series/do-the-extras-in-the-failed-drama-also-become-evil/chapter-8": {
+      "name": "8"
+    },
+    "https://azorafly.com/series/do-the-extras-in-the-failed-drama-also-become-evil/chapter-7": {
+      "name": "7"
+    },
+    "https://azorafly.com/series/do-the-extras-in-the-failed-drama-also-become-evil/chapter-6": {
+      "name": "6"
+    },
+    "https://azorafly.com/series/do-the-extras-in-the-failed-drama-also-become-evil/chapter-5": {
+      "name": "5"
+    },
+    "https://azorafly.com/series/do-the-extras-in-the-failed-drama-also-become-evil/chapter-4": {
+      "name": "4"
+    },
     "https://azorafly.com/series/do-the-extras-in-the-failed-drama-also-become-evil/chapter-3": {
       "name": "3"
     },

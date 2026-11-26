@@ -6,14 +6,26 @@
   "type": "مانهوا",
   "status": "مستمر",
   "last_update": "2026-10-27",
-  "rating": "10.0",
+  "rating": "9.7",
   "genres": [
     "رومانسى",
-    "فنتازيا",
-    "دراما"
+    "دراما",
+    "فنتازيا"
   ],
   "is_novel": false,
   "chapters": {
+    "https://azorafly.com/series/the-good-daughter-in-law-is-gone/chapter-24": {
+      "name": "24"
+    },
+    "https://azorafly.com/series/the-good-daughter-in-law-is-gone/chapter-23": {
+      "name": "23"
+    },
+    "https://azorafly.com/series/the-good-daughter-in-law-is-gone/chapter-22": {
+      "name": "22"
+    },
+    "https://azorafly.com/series/the-good-daughter-in-law-is-gone/chapter-21": {
+      "name": "21"
+    },
     "https://azorafly.com/series/the-good-daughter-in-law-is-gone/chapter-20": {
       "name": "20"
     },

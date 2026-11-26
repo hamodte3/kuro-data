@@ -6,15 +6,24 @@
   "type": "مانهوا",
   "status": "مستمر",
   "last_update": "2026-05-15",
-  "rating": "9.9",
+  "rating": "9.6",
   "genres": [
     "كوميدي",
-    "دراما",
+    "رومانسي",
     "فانتازيا",
-    "رومانسي"
+    "دراما"
   ],
   "is_novel": false,
   "chapters": {
+    "https://azorafly.com/series/the-goddess-of-fortune/chapter-35": {
+      "name": "35"
+    },
+    "https://azorafly.com/series/the-goddess-of-fortune/chapter-34": {
+      "name": "34"
+    },
+    "https://azorafly.com/series/the-goddess-of-fortune/chapter-33": {
+      "name": "33"
+    },
     "https://azorafly.com/series/the-goddess-of-fortune/chapter-32": {
       "name": "32"
     },

@@ -6,7 +6,7 @@
   "type": "مانها",
   "status": "مستمر",
   "rating": "4.8",
-  "favorites": "34",
+  "favorites": "39",
   "genres": [
     "أكشن",
     "تاريخ",
@@ -18,6 +18,12 @@
   ],
   "is_novel": false,
   "chapters": {
+    "https://3asq.online/manga/blades-of-the-guardians/23": {
+      "name": "23"
+    },
+    "https://3asq.online/manga/blades-of-the-guardians/22": {
+      "name": "22"
+    },
     "https://3asq.online/manga/blades-of-the-guardians/21": {
       "name": "21"
     },

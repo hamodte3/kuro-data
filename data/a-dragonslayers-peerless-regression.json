@@ -6,15 +6,30 @@
   "type": "مانهوا",
   "status": "مستمر",
   "last_update": "2026-07-13",
-  "rating": "9.9",
+  "rating": "9.8",
   "genres": [
     "فانتازيا",
     "إعادة إحياء",
-    "أكشن",
-    "فنون قتالية"
+    "فنون قتالية",
+    "أكشن"
   ],
   "is_novel": false,
   "chapters": {
+    "https://azorafly.com/series/a-dragonslayers-peerless-regression/chapter-112": {
+      "name": "112"
+    },
+    "https://azorafly.com/series/a-dragonslayers-peerless-regression/chapter-111": {
+      "name": "111"
+    },
+    "https://azorafly.com/series/a-dragonslayers-peerless-regression/chapter-110": {
+      "name": "110"
+    },
+    "https://azorafly.com/series/a-dragonslayers-peerless-regression/chapter-109": {
+      "name": "109"
+    },
+    "https://azorafly.com/series/a-dragonslayers-peerless-regression/chapter-108": {
+      "name": "108"
+    },
     "https://azorafly.com/series/a-dragonslayers-peerless-regression/chapter-107": {
       "name": "107"
     },

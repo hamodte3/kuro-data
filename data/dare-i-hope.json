@@ -9,11 +9,20 @@
   "rating": "9.8",
   "genres": [
     "دراما",
-    "تاريخي",
-    "رومانسي"
+    "رومانسي",
+    "تاريخي"
   ],
   "is_novel": false,
   "chapters": {
+    "https://azorafly.com/series/dare-i-hope/chapter-59": {
+      "name": "59"
+    },
+    "https://azorafly.com/series/dare-i-hope/chapter-58": {
+      "name": "58"
+    },
+    "https://azorafly.com/series/dare-i-hope/chapter-57": {
+      "name": "57"
+    },
     "https://azorafly.com/series/dare-i-hope/chapter-56": {
       "name": "56"
     },

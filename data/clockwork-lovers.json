@@ -6,14 +6,23 @@
   "type": "مانهوا",
   "status": "مستمر",
   "last_update": "2026-09-12",
-  "rating": "9.8",
+  "rating": "9.9",
   "genres": [
     "رومانسى",
-    "فنتازيا",
-    "دراما"
+    "دراما",
+    "فنتازيا"
   ],
   "is_novel": false,
   "chapters": {
+    "https://azorafly.com/series/clockwork-lovers/chapter-16": {
+      "name": "16"
+    },
+    "https://azorafly.com/series/clockwork-lovers/chapter-15": {
+      "name": "15"
+    },
+    "https://azorafly.com/series/clockwork-lovers/chapter-14": {
+      "name": "14"
+    },
     "https://azorafly.com/series/clockwork-lovers/chapter-13": {
       "name": "13"
     },

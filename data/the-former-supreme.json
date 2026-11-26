@@ -6,14 +6,26 @@
   "type": "مانهوا",
   "status": "مستمر",
   "last_update": "2026-08-08",
-  "rating": "9.4",
+  "rating": "9.3",
   "genres": [
-    "فنون قتالية",
     "مغامرات",
+    "فنون قتالية",
     "أكشن"
   ],
   "is_novel": false,
   "chapters": {
+    "https://azorafly.com/series/the-former-supreme/chapter-25": {
+      "name": "25"
+    },
+    "https://azorafly.com/series/the-former-supreme/chapter-24": {
+      "name": "24"
+    },
+    "https://azorafly.com/series/the-former-supreme/chapter-23": {
+      "name": "23"
+    },
+    "https://azorafly.com/series/the-former-supreme/chapter-22": {
+      "name": "22"
+    },
     "https://azorafly.com/series/the-former-supreme/chapter-21": {
       "name": "21"
     },

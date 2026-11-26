@@ -5,8 +5,8 @@
   "description": "ميكو الطالب الثانوي، الذي كان يظن أنه سيرث جبل جده يومًا ما، يجد نفسه وقد خسر الفتاة التي أحبها لصالح صديقه، وانحدر إلى أدنى مراتب الهرم الاجتماعي في مدرسته. كان ذلك الجبل ملاذه الوحيد، غير أن رجلاً غامضًا مقنّعًا يظهر فجأة ويبدأ في بناء كوخ صغير هناك…",
   "type": "مانغا",
   "status": "مستمر",
-  "rating": "3.5",
-  "favorites": "17",
+  "rating": "3.6",
+  "favorites": "19",
   "genres": [
     "دراما",
     "سينين",
@@ -15,6 +15,18 @@
   ],
   "is_novel": false,
   "chapters": {
+    "https://3asq.online/manga/sangeki/29": {
+      "name": "29"
+    },
+    "https://3asq.online/manga/sangeki/28": {
+      "name": "28"
+    },
+    "https://3asq.online/manga/sangeki/27": {
+      "name": "27"
+    },
+    "https://3asq.online/manga/sangeki/26": {
+      "name": "26"
+    },
     "https://3asq.online/manga/sangeki/25": {
       "name": "25"
     },

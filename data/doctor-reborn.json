@@ -10,16 +10,28 @@
   "genres": [
     "اسبوعي",
     "زمكاني",
-    "خيال",
-    "شونين",
-    "دراما",
     "إعادة إحياء",
+    "فنون قتالية",
+    "شونين",
+    "خيال",
+    "دراما",
     "إثارة",
-    "أكشن",
-    "فنون قتالية"
+    "أكشن"
   ],
   "is_novel": false,
   "chapters": {
+    "https://azorafly.com/series/doctor-reborn/chapter-252": {
+      "name": "252"
+    },
+    "https://azorafly.com/series/doctor-reborn/chapter-251": {
+      "name": "251"
+    },
+    "https://azorafly.com/series/doctor-reborn/chapter-250": {
+      "name": "250"
+    },
+    "https://azorafly.com/series/doctor-reborn/chapter-249": {
+      "name": "249"
+    },
     "https://azorafly.com/series/doctor-reborn/chapter-248": {
       "name": "248"
     },

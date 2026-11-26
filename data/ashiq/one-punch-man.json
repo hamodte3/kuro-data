@@ -6,7 +6,7 @@
   "type": "مانغا",
   "status": "مستمر",
   "rating": "4.5",
-  "favorites": "474",
+  "favorites": "478",
   "genres": [
     "أكشن",
     "سينين",
@@ -15,6 +15,36 @@
   ],
   "is_novel": false,
   "chapters": {
+    "https://3asq.online/manga/one-punch-man/230": {
+      "name": "230"
+    },
+    "https://3asq.online/manga/one-punch-man/229": {
+      "name": "229"
+    },
+    "https://3asq.online/manga/one-punch-man/228": {
+      "name": "228"
+    },
+    "https://3asq.online/manga/one-punch-man/227": {
+      "name": "227"
+    },
+    "https://3asq.online/manga/one-punch-man/226": {
+      "name": "226"
+    },
+    "https://3asq.online/manga/one-punch-man/225": {
+      "name": "225"
+    },
+    "https://3asq.online/manga/one-punch-man/224": {
+      "name": "224"
+    },
+    "https://3asq.online/manga/one-punch-man/223": {
+      "name": "223"
+    },
+    "https://3asq.online/manga/one-punch-man/222": {
+      "name": "222"
+    },
+    "https://3asq.online/manga/one-punch-man/221": {
+      "name": "221"
+    },
     "https://3asq.online/manga/one-punch-man/220": {
       "name": "220"
     },
@@ -134,36 +164,6 @@
     },
     "https://3asq.online/manga/one-punch-man/181": {
       "name": "181"
-    },
-    "https://3asq.online/manga/one-punch-man/180": {
-      "name": "180"
-    },
-    "https://3asq.online/manga/one-punch-man/179": {
-      "name": "179"
-    },
-    "https://3asq.online/manga/one-punch-man/178": {
-      "name": "178"
-    },
-    "https://3asq.online/manga/one-punch-man/177": {
-      "name": "177"
-    },
-    "https://3asq.online/manga/one-punch-man/176": {
-      "name": "176"
-    },
-    "https://3asq.online/manga/one-punch-man/175": {
-      "name": "175"
-    },
-    "https://3asq.online/manga/one-punch-man/174": {
-      "name": "174"
-    },
-    "https://3asq.online/manga/one-punch-man/173": {
-      "name": "173"
-    },
-    "https://3asq.online/manga/one-punch-man/172": {
-      "name": "172"
-    },
-    "https://3asq.online/manga/one-punch-man/171": {
-      "name": "171"
     }
   }
 }

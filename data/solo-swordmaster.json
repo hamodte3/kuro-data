@@ -6,15 +6,27 @@
   "type": "مانهوا",
   "status": "مستمر",
   "last_update": "2026-09-30",
-  "rating": "10.0",
+  "rating": "8.7",
   "genres": [
     "اكشن",
     "مغامرات",
-    "خيال",
-    "دراما"
+    "دراما",
+    "خيال"
   ],
   "is_novel": false,
   "chapters": {
+    "https://azorafly.com/series/solo-swordmaster/chapter-28": {
+      "name": "28"
+    },
+    "https://azorafly.com/series/solo-swordmaster/chapter-27": {
+      "name": "27"
+    },
+    "https://azorafly.com/series/solo-swordmaster/chapter-26": {
+      "name": "26"
+    },
+    "https://azorafly.com/series/solo-swordmaster/chapter-25": {
+      "name": "25"
+    },
     "https://azorafly.com/series/solo-swordmaster/chapter-24": {
       "name": "24"
     },

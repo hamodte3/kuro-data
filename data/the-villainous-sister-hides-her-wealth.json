@@ -6,15 +6,24 @@
   "type": "مانهوا",
   "status": "مستمر",
   "last_update": "2026-08-21",
-  "rating": "9.5",
+  "rating": "8.8",
   "genres": [
     "مانهوا",
+    "دراما",
     "رومانسي",
-    "خيال",
-    "دراما"
+    "خيال"
   ],
   "is_novel": false,
   "chapters": {
+    "https://azorafly.com/series/the-villainous-sister-hides-her-wealth/chapter-83": {
+      "name": "83"
+    },
+    "https://azorafly.com/series/the-villainous-sister-hides-her-wealth/chapter-82": {
+      "name": "82"
+    },
+    "https://azorafly.com/series/the-villainous-sister-hides-her-wealth/chapter-81": {
+      "name": "81"
+    },
     "https://azorafly.com/series/the-villainous-sister-hides-her-wealth/chapter-80": {
       "name": "80"
     },

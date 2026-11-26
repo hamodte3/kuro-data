@@ -9,11 +9,20 @@
   "rating": "9.9",
   "genres": [
     "خيال",
-    "مأساة",
-    "رومانسي"
+    "رومانسي",
+    "مأساة"
   ],
   "is_novel": false,
   "chapters": {
+    "https://azorafly.com/series/one-day-my-sister-died/chapter-79": {
+      "name": "79"
+    },
+    "https://azorafly.com/series/one-day-my-sister-died/chapter-78": {
+      "name": "78"
+    },
+    "https://azorafly.com/series/one-day-my-sister-died/chapter-77": {
+      "name": "77"
+    },
     "https://azorafly.com/series/one-day-my-sister-died/chapter-76": {
       "name": "76"
     },

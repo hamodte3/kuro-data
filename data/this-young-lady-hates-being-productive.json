@@ -6,16 +6,49 @@
   "type": "مانهوا",
   "status": "مستمر",
   "last_update": "2026-10-25",
-  "rating": "9.6",
+  "rating": "9.2",
   "genres": [
     "خيالي",
-    "تاريخي",
     "كوميدي",
+    "رومانسي",
     "شوجو",
-    "رومانسي"
+    "تاريخي"
   ],
   "is_novel": false,
   "chapters": {
+    "https://azorafly.com/series/this-young-lady-hates-being-productive/chapter-15": {
+      "name": "15"
+    },
+    "https://azorafly.com/series/this-young-lady-hates-being-productive/chapter-14": {
+      "name": "14"
+    },
+    "https://azorafly.com/series/this-young-lady-hates-being-productive/chapter-13": {
+      "name": "13"
+    },
+    "https://azorafly.com/series/this-young-lady-hates-being-productive/chapter-12": {
+      "name": "12"
+    },
+    "https://azorafly.com/series/this-young-lady-hates-being-productive/chapter-11": {
+      "name": "11"
+    },
+    "https://azorafly.com/series/this-young-lady-hates-being-productive/chapter-10": {
+      "name": "10"
+    },
+    "https://azorafly.com/series/this-young-lady-hates-being-productive/chapter-9": {
+      "name": "9"
+    },
+    "https://azorafly.com/series/this-young-lady-hates-being-productive/chapter-8": {
+      "name": "8"
+    },
+    "https://azorafly.com/series/this-young-lady-hates-being-productive/chapter-7": {
+      "name": "7"
+    },
+    "https://azorafly.com/series/this-young-lady-hates-being-productive/chapter-6": {
+      "name": "6"
+    },
+    "https://azorafly.com/series/this-young-lady-hates-being-productive/chapter-5": {
+      "name": "5"
+    },
     "https://azorafly.com/series/this-young-lady-hates-being-productive/chapter-4": {
       "name": "4"
     },

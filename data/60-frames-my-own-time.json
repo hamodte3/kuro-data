@@ -1,0 +1,30 @@
+{
+  "id": "60-frames-my-own-time",
+  "title": "60 Frames: My Own Time",
+  "cover_url": "https://storage.azorafly.com/upload/series/featured/02408b52-85d5-445d-9e5c-f7dbcd583bf8/33cd2ac8-4ba3-4e39-9334-356f85844e78.jpg",
+  "description": "لي دو هيون\" وهو حارس شخصي يدرك العالم من حوله ببطءٍ نتيجة لحدوث مضاعفات نتيجة لجراحةٍ في الدماغ، يحصل لي دو هيون عن طريق الصدفة على مبلغ 10 مليارات وونٍ من الأموال غير المشروعة، فيقرر الوقوف في وجه كارتل نفوذٍ ضخمٍ انتصارًا للضحايا. وفي خضم حربٍ طاحنةٍ تتشابك فيها خيوط السياسة والجريمة والمؤامرات، تقوده قدراته الخاصة إلى كشف الحقيقة.",
+  "type": "مانهوا",
+  "status": "مستمر",
+  "last_update": "2026-11-17",
+  "rating": "9.8",
+  "genres": [
+    "خيالي",
+    "اكشن",
+    "دراما"
+  ],
+  "is_novel": false,
+  "chapters": {
+    "https://azorafly.com/series/60-frames-my-own-time/chapter-4": {
+      "name": "4"
+    },
+    "https://azorafly.com/series/60-frames-my-own-time/chapter-3": {
+      "name": "3"
+    },
+    "https://azorafly.com/series/60-frames-my-own-time/chapter-2": {
+      "name": "2"
+    },
+    "https://azorafly.com/series/60-frames-my-own-time/chapter-1": {
+      "name": "1"
+    }
+  }
+}

@@ -6,17 +6,26 @@
   "type": "مانهوا",
   "status": "مستمر",
   "last_update": "2026-08-16",
-  "rating": "9.2",
+  "rating": "9.3",
   "genres": [
     "رعاية اطفال",
-    "شوجو",
-    "رومانسي",
-    "خيال",
+    "فانتازيا",
     "كوميدي",
-    "فانتازيا"
+    "خيال",
+    "رومانسي",
+    "شوجو"
   ],
   "is_novel": false,
   "chapters": {
+    "https://azorafly.com/series/the-duke-needs-home-education/chapter-75": {
+      "name": "75"
+    },
+    "https://azorafly.com/series/the-duke-needs-home-education/chapter-74": {
+      "name": "74"
+    },
+    "https://azorafly.com/series/the-duke-needs-home-education/chapter-73": {
+      "name": "73"
+    },
     "https://azorafly.com/series/the-duke-needs-home-education/chapter-72": {
       "name": "72"
     },

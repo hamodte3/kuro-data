@@ -5,7 +5,7 @@
   "description": "بعد أن عادت إلى الحياة كخادمة، تتعهد ليونورا بأن تعيش حياةً تسودها الحماية والنمو، لا الجشع. وباختيارها مساعدة ولي العهد الذي أطاحت به ذات يوم، تكشف أسراره وحقيقةً خفيةً في الوقت الذي تواجه فيه الإمبراطورية هلاكًا وشيكًا. قصةً آسرة عن التكفير والمؤامرات والفرص الثانية!",
   "type": "مانهوا",
   "status": "مستمر",
-  "last_update": "2026-08-24",
+  "last_update": "2026-10-31",
   "rating": "10.0",
   "genres": [
     "رومانسى",
@@ -14,6 +14,12 @@
   ],
   "is_novel": false,
   "chapters": {
+    "https://azorafly.com/series/the-imperial-maiden/chapter-54": {
+      "name": "54"
+    },
+    "https://azorafly.com/series/the-imperial-maiden/chapter-53": {
+      "name": "53"
+    },
     "https://azorafly.com/series/the-imperial-maiden/chapter-52": {
       "name": "52"
     },

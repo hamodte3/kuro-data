@@ -8,24 +8,27 @@
   "last_update": "2026-09-28",
   "rating": "10.0",
   "genres": [
-    "تناسخ",
-    "هوس",
     "مانهوا",
+    "تناسخ",
     "زواج مدبر",
     "فيكتوري",
     "ويبتون",
     "عصور وسطى",
-    "فنتازيا",
-    "عودة بالزمن",
-    "عالم اخر",
-    "كوميدي",
-    "شوجو",
+    "هوس",
     "فانتازيا",
+    "عودة بالزمن",
+    "كوميدي",
     "رومانسي",
+    "شوجو",
+    "عالم اخر",
+    "فنتازيا",
     "دراما"
   ],
   "is_novel": false,
   "chapters": {
+    "https://azorafly.com/series/the-dukes-wife-obsession/chapter-54": {
+      "name": "54"
+    },
     "https://azorafly.com/series/the-dukes-wife-obsession/chapter-53": {
       "name": "53"
     },

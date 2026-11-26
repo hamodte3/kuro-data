@@ -6,7 +6,7 @@
   "type": "مانغا",
   "status": "مستمر",
   "rating": "4.8",
-  "favorites": "17",
+  "favorites": "18",
   "genres": [
     "أكشن",
     "خيال",
@@ -17,6 +17,9 @@
   ],
   "is_novel": false,
   "chapters": {
+    "https://3asq.online/manga/wistoria-wand-and-sword/70": {
+      "name": "70"
+    },
     "https://3asq.online/manga/wistoria-wand-and-sword/69": {
       "name": "69"
     },

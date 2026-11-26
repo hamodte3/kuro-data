@@ -6,16 +6,31 @@
   "type": "مانهوا",
   "status": "مستمر",
   "last_update": "2026-05-07",
-  "rating": "9.6",
+  "rating": "9.7",
   "genres": [
-    "خيال",
-    "كوميدي",
-    "دراما",
     "أكشن",
-    "مغامرة"
+    "دراما",
+    "خيال",
+    "مغامرة",
+    "كوميدي"
   ],
   "is_novel": false,
   "chapters": {
+    "https://azorafly.com/series/black-haze-remake/chapter-100": {
+      "name": "100"
+    },
+    "https://azorafly.com/series/black-haze-remake/chapter-99": {
+      "name": "99"
+    },
+    "https://azorafly.com/series/black-haze-remake/chapter-98": {
+      "name": "98"
+    },
+    "https://azorafly.com/series/black-haze-remake/chapter-97": {
+      "name": "97"
+    },
+    "https://azorafly.com/series/black-haze-remake/chapter-96": {
+      "name": "96"
+    },
     "https://azorafly.com/series/black-haze-remake/chapter-95": {
       "name": "95"
     },

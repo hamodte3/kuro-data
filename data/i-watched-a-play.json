@@ -6,16 +6,28 @@
   "type": "مانهوا",
   "status": "مستمر",
   "last_update": "2026-08-19",
-  "rating": "9.7",
+  "rating": "9.6",
   "genres": [
     "خيالي",
-    "كوميدي",
     "مغامرات",
     "دراما",
+    "كوميدي",
     "رومانسي"
   ],
   "is_novel": false,
   "chapters": {
+    "https://azorafly.com/series/i-watched-a-play/chapter-60": {
+      "name": "60"
+    },
+    "https://azorafly.com/series/i-watched-a-play/chapter-59": {
+      "name": "59"
+    },
+    "https://azorafly.com/series/i-watched-a-play/chapter-58": {
+      "name": "58"
+    },
+    "https://azorafly.com/series/i-watched-a-play/chapter-57": {
+      "name": "57"
+    },
     "https://azorafly.com/series/i-watched-a-play/chapter-56": {
       "name": "56"
     },

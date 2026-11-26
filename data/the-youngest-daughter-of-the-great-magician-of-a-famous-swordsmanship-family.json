@@ -9,12 +9,18 @@
   "rating": "9.7",
   "genres": [
     "عودة بالزمن",
-    "انتقام",
     "رومانسي",
-    "فانتازيا"
+    "فانتازيا",
+    "انتقام"
   ],
   "is_novel": false,
   "chapters": {
+    "https://azorafly.com/series/the-youngest-daughter-of-the-great-magician-of-a-famous-swordsmanship-family/chapter-56": {
+      "name": "56"
+    },
+    "https://azorafly.com/series/the-youngest-daughter-of-the-great-magician-of-a-famous-swordsmanship-family/chapter-55": {
+      "name": "55"
+    },
     "https://azorafly.com/series/the-youngest-daughter-of-the-great-magician-of-a-famous-swordsmanship-family/chapter-54": {
       "name": "54"
     },

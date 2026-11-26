@@ -8,15 +8,21 @@
   "last_update": "2026-10-26",
   "rating": "8.4",
   "genres": [
-    "شونين",
     "فنون قتالية",
-    "مميز",
     "أكشن",
     "مغامرات",
+    "شونين",
+    "مميز",
     "خيال"
   ],
   "is_novel": false,
   "chapters": {
+    "https://azorafly.com/series/the-world-after-the-fall/chapter-260": {
+      "name": "260"
+    },
+    "https://azorafly.com/series/the-world-after-the-fall/chapter-259": {
+      "name": "259"
+    },
     "https://azorafly.com/series/the-world-after-the-fall/chapter-258": {
       "name": "258"
     },

@@ -6,15 +6,27 @@
   "type": "مانهوا",
   "status": "مستمر",
   "last_update": "2026-05-07",
-  "rating": "9.6",
+  "rating": "9.7",
   "genres": [
-    "شوجو",
-    "كوميدي",
+    "رومانسي",
     "فانتازيا",
-    "رومانسي"
+    "شوجو",
+    "كوميدي"
   ],
   "is_novel": false,
   "chapters": {
+    "https://azorafly.com/series/taming-a-munchkin/chapter-76": {
+      "name": "76"
+    },
+    "https://azorafly.com/series/taming-a-munchkin/chapter-75": {
+      "name": "75"
+    },
+    "https://azorafly.com/series/taming-a-munchkin/chapter-74": {
+      "name": "74"
+    },
+    "https://azorafly.com/series/taming-a-munchkin/chapter-73": {
+      "name": "73"
+    },
     "https://azorafly.com/series/taming-a-munchkin/chapter-72": {
       "name": "72"
     },

@@ -6,16 +6,28 @@
   "type": "مانهوا",
   "status": "مستمر",
   "last_update": "2026-10-13",
-  "rating": "9.6",
+  "rating": "9.1",
   "genres": [
     "إعادة إحياء",
-    "فنتازيا",
-    "كوميدي",
     "دراما",
-    "رومانسي"
+    "كوميدي",
+    "رومانسي",
+    "فنتازيا"
   ],
   "is_novel": false,
   "chapters": {
+    "https://azorafly.com/series/24-hours-resurrection-of-the-villainess/chapter-97": {
+      "name": "97"
+    },
+    "https://azorafly.com/series/24-hours-resurrection-of-the-villainess/chapter-96": {
+      "name": "96"
+    },
+    "https://azorafly.com/series/24-hours-resurrection-of-the-villainess/chapter-95": {
+      "name": "95"
+    },
+    "https://azorafly.com/series/24-hours-resurrection-of-the-villainess/chapter-94": {
+      "name": "94"
+    },
     "https://azorafly.com/series/24-hours-resurrection-of-the-villainess/chapter-93": {
       "name": "93"
     },

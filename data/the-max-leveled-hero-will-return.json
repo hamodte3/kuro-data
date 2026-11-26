@@ -6,21 +6,30 @@
   "type": "مانهوا",
   "status": "مستمر",
   "last_update": "2026-05-07",
-  "rating": "8.7",
+  "rating": "8.9",
   "genres": [
     "اسبوعي",
-    "قوة خارقة",
     "مانهوا",
     "خارق للطبيعة",
-    "شونين",
+    "قوة خارقة",
     "سحر",
-    "إثارة",
-    "مميز",
     "أكشن",
-    "مغامرات"
+    "مغامرات",
+    "شونين",
+    "مميز",
+    "إثارة"
   ],
   "is_novel": false,
   "chapters": {
+    "https://azorafly.com/series/the-max-leveled-hero-will-return/chapter-255": {
+      "name": "255"
+    },
+    "https://azorafly.com/series/the-max-leveled-hero-will-return/chapter-254": {
+      "name": "254"
+    },
+    "https://azorafly.com/series/the-max-leveled-hero-will-return/chapter-253": {
+      "name": "253"
+    },
     "https://azorafly.com/series/the-max-leveled-hero-will-return/chapter-252": {
       "name": "252"
     },

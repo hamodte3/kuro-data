@@ -1,0 +1,23 @@
+{
+  "id": "calamari-kebab",
+  "title": "Calamari kebab",
+  "cover_url": "https://storage.azorafly.com/upload/series/featured/02408b52-85d5-445d-9e5c-f7dbcd583bf8/6c75a8c2-7b48-4838-a62b-2af6861b8064.jpg",
+  "description": "مصاص دماء واحد. مستذئب واحد. كباب واحد مقطوع إلى نصفين. فارسان يؤديان عملهما. من سيفوز؟ لتبدأ حفلة الدماء!",
+  "type": "مانهوا",
+  "status": "مستمر",
+  "last_update": "2026-10-01",
+  "rating": "10.0",
+  "genres": [
+    "اكشن",
+    "كوميدي"
+  ],
+  "is_novel": false,
+  "chapters": {
+    "https://azorafly.com/series/calamari-kebab/chapter-2": {
+      "name": "2"
+    },
+    "https://azorafly.com/series/calamari-kebab/chapter-1": {
+      "name": "1"
+    }
+  }
+}

@@ -5,14 +5,20 @@
   "description": "موسيقى الروك أند رول البسيطة للقلب المعقد! يسدل الستار على هذه الجزيرة النائية، حيث تبدأ حكاية حياة فرقة موسيقية شابة.",
   "type": "مانغا",
   "status": "مستمر",
-  "rating": "3.6",
-  "favorites": "2",
+  "rating": "3.8",
+  "favorites": "3",
   "genres": [
     "شريحة من الحياة",
     "شونين"
   ],
   "is_novel": false,
   "chapters": {
+    "https://3asq.online/manga/island-rock/23": {
+      "name": "23"
+    },
+    "https://3asq.online/manga/island-rock/22": {
+      "name": "22"
+    },
     "https://3asq.online/manga/island-rock/21": {
       "name": "21"
     },

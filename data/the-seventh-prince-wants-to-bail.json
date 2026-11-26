@@ -6,15 +6,24 @@
   "type": "مانهوا",
   "status": "مستمر",
   "last_update": "2026-07-12",
-  "rating": "9.7",
+  "rating": "9.8",
   "genres": [
     "اكشن",
-    "فنتازيا",
+    "مغامرات",
     "غموض",
-    "مغامرات"
+    "فنتازيا"
   ],
   "is_novel": false,
   "chapters": {
+    "https://azorafly.com/series/the-seventh-prince-wants-to-bail/chapter-30": {
+      "name": "30"
+    },
+    "https://azorafly.com/series/the-seventh-prince-wants-to-bail/chapter-29": {
+      "name": "29"
+    },
+    "https://azorafly.com/series/the-seventh-prince-wants-to-bail/chapter-28": {
+      "name": "28"
+    },
     "https://azorafly.com/series/the-seventh-prince-wants-to-bail/chapter-27": {
       "name": "27"
     },

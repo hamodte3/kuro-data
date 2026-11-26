@@ -6,14 +6,29 @@
   "type": "مانهوا",
   "status": "مستمر",
   "last_update": "2026-10-14",
-  "rating": "8.7",
+  "rating": "8.9",
   "genres": [
-    "خيال",
     "فانتازيا",
+    "خيال",
     "رومانسي"
   ],
   "is_novel": false,
   "chapters": {
+    "https://azorafly.com/series/thats-not-what-my-will-said/chapter-65": {
+      "name": "65"
+    },
+    "https://azorafly.com/series/thats-not-what-my-will-said/chapter-64": {
+      "name": "64"
+    },
+    "https://azorafly.com/series/thats-not-what-my-will-said/chapter-63": {
+      "name": "63"
+    },
+    "https://azorafly.com/series/thats-not-what-my-will-said/chapter-62": {
+      "name": "62"
+    },
+    "https://azorafly.com/series/thats-not-what-my-will-said/chapter-61": {
+      "name": "61"
+    },
     "https://azorafly.com/series/thats-not-what-my-will-said/chapter-60": {
       "name": "60"
     },

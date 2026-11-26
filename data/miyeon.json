@@ -9,11 +9,14 @@
   "rating": "10.0",
   "genres": [
     "جوسي",
-    "رومانسي",
-    "دراما"
+    "دراما",
+    "رومانسي"
   ],
   "is_novel": false,
   "chapters": {
+    "https://azorafly.com/series/miyeon/chapter-60": {
+      "name": "60"
+    },
     "https://azorafly.com/series/miyeon/chapter-59": {
       "name": "59"
     },

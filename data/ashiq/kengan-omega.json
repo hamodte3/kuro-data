@@ -6,7 +6,7 @@
   "type": "مانغا",
   "status": "مستمر",
   "rating": "4.3",
-  "favorites": "30",
+  "favorites": "33",
   "genres": [
     "أكشن",
     "دراما",
@@ -16,6 +16,18 @@
   ],
   "is_novel": false,
   "chapters": {
+    "https://3asq.online/manga/kengan-omega/378": {
+      "name": "378"
+    },
+    "https://3asq.online/manga/kengan-omega/377": {
+      "name": "377"
+    },
+    "https://3asq.online/manga/kengan-omega/376": {
+      "name": "376"
+    },
+    "https://3asq.online/manga/kengan-omega/375": {
+      "name": "375"
+    },
     "https://3asq.online/manga/kengan-omega/374": {
       "name": "374"
     },
@@ -153,18 +165,6 @@
     },
     "https://3asq.online/manga/kengan-omega/329": {
       "name": "329"
-    },
-    "https://3asq.online/manga/kengan-omega/328": {
-      "name": "328"
-    },
-    "https://3asq.online/manga/kengan-omega/327": {
-      "name": "327"
-    },
-    "https://3asq.online/manga/kengan-omega/326": {
-      "name": "326"
-    },
-    "https://3asq.online/manga/kengan-omega/325": {
-      "name": "325"
     }
   }
 }

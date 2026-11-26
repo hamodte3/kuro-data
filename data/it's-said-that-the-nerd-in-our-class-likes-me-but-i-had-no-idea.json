@@ -8,15 +8,18 @@
   "last_update": "2026-07-11",
   "rating": "10.0",
   "genres": [
-    "تجسيد",
     "دراما",
     "رومانسي",
+    "تجسيد",
     "تاريخي",
     "أكاديمية",
     "كوميدي"
   ],
   "is_novel": false,
   "chapters": {
+    "https://azorafly.com/series/it's-said-that-the-nerd-in-our-class-likes-me-but-i-had-no-idea/chapter-7": {
+      "name": "7"
+    },
     "https://azorafly.com/series/it's-said-that-the-nerd-in-our-class-likes-me-but-i-had-no-idea/chapter-6": {
       "name": "6"
     },

@@ -6,7 +6,7 @@
   "type": "مانغا",
   "status": "مستمر",
   "rating": "4.5",
-  "favorites": "25",
+  "favorites": "26",
   "genres": [
     "أكشن",
     "إيسيكاي",
@@ -19,6 +19,15 @@
   ],
   "is_novel": false,
   "chapters": {
+    "https://3asq.online/manga/shangri-la-frontier/288": {
+      "name": "288"
+    },
+    "https://3asq.online/manga/shangri-la-frontier/287": {
+      "name": "287"
+    },
+    "https://3asq.online/manga/shangri-la-frontier/286": {
+      "name": "286"
+    },
     "https://3asq.online/manga/shangri-la-frontier/285": {
       "name": "285"
     },
@@ -159,15 +168,6 @@
     },
     "https://3asq.online/manga/shangri-la-frontier/239": {
       "name": "239"
-    },
-    "https://3asq.online/manga/shangri-la-frontier/238": {
-      "name": "238"
-    },
-    "https://3asq.online/manga/shangri-la-frontier/237": {
-      "name": "237"
-    },
-    "https://3asq.online/manga/shangri-la-frontier/236": {
-      "name": "236"
     }
   }
 }

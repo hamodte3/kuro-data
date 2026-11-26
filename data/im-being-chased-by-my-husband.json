@@ -6,15 +6,27 @@
   "type": "مانهوا",
   "status": "مستمر",
   "last_update": "2026-08-30",
-  "rating": "9.6",
+  "rating": "9.7",
   "genres": [
-    "كوميدي",
-    "رومانسي",
     "فانتازيا",
-    "شوجو"
+    "كوميدي",
+    "شوجو",
+    "رومانسي"
   ],
   "is_novel": false,
   "chapters": {
+    "https://azorafly.com/series/im-being-chased-by-my-husband/chapter-68": {
+      "name": "68"
+    },
+    "https://azorafly.com/series/im-being-chased-by-my-husband/chapter-67": {
+      "name": "67"
+    },
+    "https://azorafly.com/series/im-being-chased-by-my-husband/chapter-66": {
+      "name": "66"
+    },
+    "https://azorafly.com/series/im-being-chased-by-my-husband/chapter-65": {
+      "name": "65"
+    },
     "https://azorafly.com/series/im-being-chased-by-my-husband/chapter-64": {
       "name": "64"
     },
