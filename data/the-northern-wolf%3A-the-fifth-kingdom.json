@@ -6,20 +6,23 @@
   "type": "رواية",
   "status": "مستمر",
   "last_update": "2026-10-30",
-  "rating": "9.8",
+  "rating": "9.9",
   "genres": [
     "حروب",
     "سياسة",
-    "أكشن",
     "رواية مؤلفة",
-    "كوميدي",
     "سحر",
+    "كوميدي",
     "فانتازيا",
     "دراما",
-    "خيال"
+    "خيال",
+    "أكشن"
   ],
   "is_novel": false,
   "chapters": {
+    "https://azorafly.com/series/the-northern-wolf%3A-the-fifth-kingdom/chapter-135": {
+      "name": "135"
+    },
     "https://azorafly.com/series/the-northern-wolf%3A-the-fifth-kingdom/chapter-134": {
       "name": "134"
     },

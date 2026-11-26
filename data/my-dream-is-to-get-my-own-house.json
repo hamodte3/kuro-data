@@ -9,11 +9,14 @@
   "rating": "8.6",
   "genres": [
     "خيالي",
-    "رومانسي",
-    "دراما"
+    "دراما",
+    "رومانسي"
   ],
   "is_novel": false,
   "chapters": {
+    "https://azorafly.com/series/my-dream-is-to-get-my-own-house/chapter-76": {
+      "name": "76"
+    },
     "https://azorafly.com/series/my-dream-is-to-get-my-own-house/chapter-75": {
       "name": "75"
     },

@@ -8,15 +8,18 @@
   "last_update": "2026-11-03",
   "rating": "10.0",
   "genres": [
-    "موريم",
-    "جنون",
     "اكشن",
-    "فنون قتالية",
+    "جنون",
+    "موريم",
+    "انتقام",
     "مغامرة",
-    "انتقام"
+    "فنون قتالية"
   ],
   "is_novel": false,
   "chapters": {
+    "https://azorafly.com/series/the-ruler-of-darkness/chapter-41": {
+      "name": "41"
+    },
     "https://azorafly.com/series/the-ruler-of-darkness/chapter-40": {
       "name": "40"
     },

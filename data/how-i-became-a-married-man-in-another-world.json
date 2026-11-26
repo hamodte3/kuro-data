@@ -9,12 +9,15 @@
   "rating": "9.8",
   "genres": [
     "سينين",
-    "رومانسي",
     "شوجو",
+    "رومانسي",
     "فنتازيا"
   ],
   "is_novel": false,
   "chapters": {
+    "https://azorafly.com/series/how-i-became-a-married-man-in-another-world/chapter-36": {
+      "name": "36"
+    },
     "https://azorafly.com/series/how-i-became-a-married-man-in-another-world/chapter-35": {
       "name": "35"
     },

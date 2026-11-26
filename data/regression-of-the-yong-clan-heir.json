@@ -6,15 +6,18 @@
   "type": "مانهوا",
   "status": "مستمر",
   "last_update": "2026-11-13",
-  "rating": "7.0",
+  "rating": "7.6",
   "genres": [
     "زمكاني",
-    "فنون قتالية",
     "خيال",
+    "فنون قتالية",
     "أكشن"
   ],
   "is_novel": false,
   "chapters": {
+    "https://azorafly.com/series/regression-of-the-yong-clan-heir/chapter-71": {
+      "name": "71"
+    },
     "https://azorafly.com/series/regression-of-the-yong-clan-heir/chapter-70": {
       "name": "70"
     },

@@ -10,11 +10,14 @@
   "genres": [
     "اطفال",
     "رومانسى",
-    "خيال",
-    "دراما"
+    "دراما",
+    "خيال"
   ],
   "is_novel": false,
   "chapters": {
+    "https://azorafly.com/series/when-i-married-the-impotent-duke-i-wanted-to-protect-the-child/chapter-31": {
+      "name": "31"
+    },
     "https://azorafly.com/series/when-i-married-the-impotent-duke-i-wanted-to-protect-the-child/chapter-30": {
       "name": "30"
     },
