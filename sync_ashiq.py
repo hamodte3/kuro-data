@@ -11,8 +11,8 @@ DATA_DIR = os.path.join("data", "ashiq")
 CATALOG_FILE = os.path.join(DATA_DIR, "catalog.json")
 GLOBAL_NEW_FILE = os.path.join("data", "new.json")
 
-DETAILS_SYNC_LIMIT = 1000    # فحص تفاصيل وفصول أحدث 20 عملاً تم تحديثها
-MAX_DELTA_PAGES = 1000 # فحص أول 5 صفحات فقط كل ساعة لمراقبة الجديد
+DETAILS_SYNC_LIMIT = 20    # فحص تفاصيل وفصول أحدث 20 عملاً تم تحديثها
+MAX_DELTA_PAGES = 5 # فحص أول 5 صفحات فقط كل ساعة لمراقبة الجديد
 
 os.makedirs(DATA_DIR, exist_ok=True)
 os.makedirs("data", exist_ok=True)
@@ -40,17 +40,15 @@ def extract_cover_image(container) -> str:
     if not container:
         return ""
 
-    # 1. فحص وسوم <picture> أولاً لجلب صورة WebP بأعلى دقة
-    source = container.select_one("picture source[srcset]")
-    if source:
-        srcset = source.get("srcset", "").strip()
-        if srcset:
-            # اختيار الرابط الأخير في srcset لأنه يمثل الدقة الأعلى
-            best_link = srcset.split(",")[-1].strip().split(" ")[0]
+    # 1. فحص وسوم <picture> أولاً (data-srcset ثم srcset)
+    for source in container.select("picture source"):
+        raw_srcset = (source.get("data-srcset") or source.get("srcset") or "").strip()
+        if raw_srcset:
+            best_link = raw_srcset.split(",")[-1].strip().split()[0]
             if best_link and "dflazy" not in best_link and not best_link.startswith("data:"):
                 return normalize_url(best_link)
 
-    # 2. فحص وسم <img> وتفضيل data-src على src
+    # 2. فحص وسم <img> وتفضيل data-src / data-lazy-src على src
     img = container.select_one("img")
     if not img:
         return ""
@@ -59,6 +57,7 @@ def extract_cover_image(container) -> str:
         img.get("data-src"),
         img.get("data-lazy-src"),
         img.get("data-srcset"),
+        img.get("srcset"),
         img.get("src")
     ]
 
@@ -66,12 +65,12 @@ def extract_cover_image(container) -> str:
         if not candidate:
             continue
         clean = candidate.strip()
-        if "dflazy" in clean or clean.startswith("data:") or not clean:
+        if not clean or "dflazy" in clean or clean.startswith("data:"):
             continue
-        # لو كانت مصفوفة أحجام، نأخذ الرابط فقط
-        if " " in clean:
-            clean = clean.split(",")[-1].strip().split(" ")[0]
-        return normalize_url(clean)
+        if "," in clean or " " in clean:
+            clean = clean.split(",")[-1].strip().split()[0]
+        if clean:
+            return normalize_url(clean)
 
     return ""
 
