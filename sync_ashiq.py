@@ -217,7 +217,7 @@ def scrape_manga_details_ashiq(session, manga_url: str):
     ]
     description = "\n\n".join(desc_paragraphs) if desc_paragraphs else "لا يوجد وصف"
 
-    rate_el = soup.select_one("#averagerate, span.total_votes, div.post-total-rating span.score")
+    rate_el = soup.select_one("div.post-total-rating span.score, #averagerate")
     rating = format_rating(rate_el.text if rate_el else "")
 
     fav_el = soup.select_one("div.add-bookmark .action_detail span")
