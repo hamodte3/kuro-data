@@ -6,7 +6,7 @@
   "type": "مانغا",
   "status": "مستمر",
   "rating": "5.0",
-  "favorites": "4",
+  "favorites": "5",
   "genres": [
     "أكشن",
     "جريمة",
@@ -42,6 +42,9 @@
     },
     "https://3asq.online/manga/noisering/1": {
       "name": "1"
+    },
+    "https://3asq.online/manga/noisering/8": {
+      "name": "8"
     }
   }
 }

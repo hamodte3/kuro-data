@@ -6,19 +6,49 @@
   "type": "رواية",
   "status": "مستمر",
   "last_update": "2026-10-16",
-  "rating": "9.0",
+  "rating": "9.2",
   "genres": [
     "عائلي",
+    "رعاية أطفال",
     "سحر",
+    "كوميدي",
+    "عودة بالزمن",
     "غموض",
     "رومانسي",
-    "رعاية أطفال",
-    "عودة بالزمن",
-    "كوميدي",
     "بدون تجسيد"
   ],
   "is_novel": false,
   "chapters": {
+    "https://azorafly.com/series/i-became-the-daughter-of-a-worthless-duke/chapter-40": {
+      "name": "40"
+    },
+    "https://azorafly.com/series/i-became-the-daughter-of-a-worthless-duke/chapter-39": {
+      "name": "39"
+    },
+    "https://azorafly.com/series/i-became-the-daughter-of-a-worthless-duke/chapter-38": {
+      "name": "38"
+    },
+    "https://azorafly.com/series/i-became-the-daughter-of-a-worthless-duke/chapter-37": {
+      "name": "37"
+    },
+    "https://azorafly.com/series/i-became-the-daughter-of-a-worthless-duke/chapter-36": {
+      "name": "36"
+    },
+    "https://azorafly.com/series/i-became-the-daughter-of-a-worthless-duke/chapter-35": {
+      "name": "35"
+    },
+    "https://azorafly.com/series/i-became-the-daughter-of-a-worthless-duke/chapter-34": {
+      "name": "34"
+    },
+    "https://azorafly.com/series/i-became-the-daughter-of-a-worthless-duke/chapter-33": {
+      "name": "33"
+    },
+    "https://azorafly.com/series/i-became-the-daughter-of-a-worthless-duke/chapter-32": {
+      "name": "32"
+    },
+    "https://azorafly.com/series/i-became-the-daughter-of-a-worthless-duke/chapter-31": {
+      "name": "31"
+    },
     "https://azorafly.com/series/i-became-the-daughter-of-a-worthless-duke/chapter-30": {
       "name": "30"
     },

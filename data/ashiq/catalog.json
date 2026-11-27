@@ -1,22 +1,5 @@
 [
   {
-    "id": "baki-dou",
-    "title": "Baki-Dou",
-    "url": "https://3asq.online/manga/baki-dou",
-    "cover_url": "https://3asq.online/wp-content/uploads/2025/09/Baki-Dou-175x238.jpg",
-    "type": "مانغا",
-    "rating": "4.0",
-    "total_chapters": 3,
-    "genres": [
-      "أكشن",
-      "دراما",
-      "رياضة",
-      "شونين",
-      "فنون قتالية"
-    ],
-    "status": "مكتمل"
-  },
-  {
     "id": "the-marshal-king",
     "title": "The Marshal King",
     "url": "https://3asq.online/manga/the-marshal-king",
@@ -1072,30 +1055,6 @@
     "status": "مكتمل"
   },
   {
-    "id": "tenkaichi-nihon-saikyou-bugeisha-ketteisen",
-    "title": "Tenkaichi: Nihon Saikyou Bugeisha Ketteisen",
-    "url": "https://3asq.online/manga/tenkaichi-nihon-saikyou-bugeisha-ketteisen",
-    "cover_url": "https://3asq.online/wp-content/uploads/2026/02/Picsart_26-08-15_16-14-08-619-175x238.jpg",
-    "type": "مانغا",
-    "rating": "4.5",
-    "total_chapters": 50,
-    "genres": [
-      "أكشن",
-      "تاريخ",
-      "حرب",
-      "دراما",
-      "رعب",
-      "ساموراي",
-      "سينين",
-      "شونين",
-      "عنف",
-      "غموض",
-      "فنون قتالية",
-      "نينجا"
-    ],
-    "status": "مستمر"
-  },
-  {
     "id": "dark-gathering",
     "title": "Dark gathering",
     "url": "https://3asq.online/manga/dark-gathering",
@@ -1515,7 +1474,7 @@
     "id": "naruto-digital-colored",
     "title": "Naruto – Digital Colored",
     "url": "https://3asq.online/manga/naruto-digital-colored",
-    "cover_url": "https://3asq.online/wp-content/uploads/2022/01/IMG_3100.jpeg",
+    "cover_url": "https://3asq.online/wp-content/uploads/2022/01/IMG_3100-175x238.jpeg",
     "type": "مانغا",
     "rating": "4.4",
     "total_chapters": 700,
@@ -1794,7 +1753,7 @@
     "cover_url": "https://3asq.online/wp-content/uploads/2026/09/noisering-scaled.jpg",
     "type": "مانغا",
     "rating": "5.0",
-    "total_chapters": 7,
+    "total_chapters": 8,
     "genres": [
       "أكشن",
       "جريمة",
@@ -1889,6 +1848,47 @@
       "غموض",
       "فلسفة",
       "مأساة"
+    ],
+    "status": "مكتمل"
+  },
+  {
+    "id": "tenkaichi-nihon-saikyou-bugeisha-ketteisen",
+    "title": "Tenkaichi: Nihon Saikyou Bugeisha Ketteisen",
+    "url": "https://3asq.online/manga/tenkaichi-nihon-saikyou-bugeisha-ketteisen",
+    "cover_url": "https://3asq.online/wp-content/uploads/2026/02/Picsart_26-08-15_16-14-08-619-scaled.jpg",
+    "type": "مانغا",
+    "rating": "4.5",
+    "total_chapters": 69,
+    "genres": [
+      "أكشن",
+      "تاريخ",
+      "حرب",
+      "دراما",
+      "رعب",
+      "ساموراي",
+      "سينين",
+      "شونين",
+      "عنف",
+      "غموض",
+      "فنون قتالية",
+      "نينجا"
+    ],
+    "status": "مستمر"
+  },
+  {
+    "id": "baki-dou",
+    "title": "Baki-Dou",
+    "url": "https://3asq.online/manga/baki-dou",
+    "cover_url": "https://3asq.online/wp-content/uploads/2025/09/Baki-Dou-175x238.jpg",
+    "type": "مانغا",
+    "rating": "4.0",
+    "total_chapters": 3,
+    "genres": [
+      "أكشن",
+      "دراما",
+      "رياضة",
+      "شونين",
+      "فنون قتالية"
     ],
     "status": "مكتمل"
   },

@@ -8,15 +8,21 @@
   "last_update": "2026-10-26",
   "rating": "9.8",
   "genres": [
-    "اسبوعي",
     "ويبتون",
-    "مغامرات",
-    "كوميدي",
+    "اسبوعي",
+    "مميز",
     "أكشن",
-    "مميز"
+    "مغامرات",
+    "كوميدي"
   ],
   "is_novel": false,
   "chapters": {
+    "https://azorafly.com/series/overgeared-12/chapter-350": {
+      "name": "350"
+    },
+    "https://azorafly.com/series/overgeared-12/chapter-349": {
+      "name": "349"
+    },
     "https://azorafly.com/series/overgeared-12/chapter-348": {
       "name": "348"
     },

@@ -8,18 +8,21 @@
   "last_update": "2026-05-07",
   "rating": "9.3",
   "genres": [
-    "اسبوعي",
     "زمكاني",
-    "إعادة إحياء",
-    "فنون قتالية",
-    "شونين",
-    "خيال",
-    "دراما",
+    "اسبوعي",
     "إثارة",
-    "أكشن"
+    "إعادة إحياء",
+    "شونين",
+    "دراما",
+    "فنون قتالية",
+    "أكشن",
+    "خيال"
   ],
   "is_novel": false,
   "chapters": {
+    "https://azorafly.com/series/doctor-reborn/chapter-253": {
+      "name": "253"
+    },
     "https://azorafly.com/series/doctor-reborn/chapter-252": {
       "name": "252"
     },
