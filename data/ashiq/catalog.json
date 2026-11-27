@@ -1603,32 +1603,6 @@
     "status": "مستمر"
   },
   {
-    "id": "orb-on-the-movements-of-the-earth",
-    "title": "Orb: On the Movements of the Earth",
-    "url": "https://3asq.online/manga/orb-on-the-movements-of-the-earth",
-    "cover_url": "https://3asq.online/wp-content/uploads/2025/02/orb-cover-arabic-scaled.jpg",
-    "type": "مانغا",
-    "rating": "4.5",
-    "total_chapters": 12,
-    "genres": [
-      "100%",
-      "أكشن",
-      "اضطهاد",
-      "تاريخ",
-      "خيال",
-      "دراما",
-      "رعب",
-      "سينين",
-      "عسكرية",
-      "علم نفس",
-      "عنف",
-      "غموض",
-      "فلسفة",
-      "مأساة"
-    ],
-    "status": "مكتمل"
-  },
-  {
     "id": "pokemon-adventures",
     "title": "Pokémon Adventures",
     "url": "https://3asq.online/manga/pokemon-adventures",
@@ -1891,6 +1865,32 @@
       "مدرسة"
     ],
     "status": "مستمر"
+  },
+  {
+    "id": "orb-on-the-movements-of-the-earth",
+    "title": "Orb: On the Movements of the Earth",
+    "url": "https://3asq.online/manga/orb-on-the-movements-of-the-earth",
+    "cover_url": "https://3asq.online/wp-content/uploads/2025/02/orb-cover-arabic-scaled.jpg",
+    "type": "مانغا",
+    "rating": "4.5",
+    "total_chapters": 13,
+    "genres": [
+      "100%",
+      "أكشن",
+      "اضطهاد",
+      "تاريخ",
+      "خيال",
+      "دراما",
+      "رعب",
+      "سينين",
+      "عسكرية",
+      "علم نفس",
+      "عنف",
+      "غموض",
+      "فلسفة",
+      "مأساة"
+    ],
+    "status": "مكتمل"
   },
   {
     "id": "area-d-inou-ryouiki",

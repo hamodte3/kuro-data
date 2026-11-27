@@ -6,13 +6,19 @@
   "type": "مانهوا",
   "status": "مستمر",
   "last_update": "2026-05-07",
-  "rating": "10.0",
+  "rating": "9.3",
   "genres": [
     "فنون قتالية",
     "أكشن"
   ],
   "is_novel": false,
   "chapters": {
+    "https://azorafly.com/series/how-a-terminally-ill-genius-survives/chapter-100": {
+      "name": "100"
+    },
+    "https://azorafly.com/series/how-a-terminally-ill-genius-survives/chapter-99": {
+      "name": "99"
+    },
     "https://azorafly.com/series/how-a-terminally-ill-genius-survives/chapter-98": {
       "name": "98"
     },

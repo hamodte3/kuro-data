@@ -1,21 +1,5 @@
 [
   {
-    "id": "the-regressed-son-of-a-duke-is-an-assassin",
-    "title": "The Regressed Son of a Duke Is an Assassin",
-    "url": "https://azorafly.com/series/the-regressed-son-of-a-duke-is-an-assassin",
-    "cover_url": "https://storage.azorafly.com/2024/02/New.webp",
-    "type": "مانهوا",
-    "status": "مستمر",
-    "rating": "9.7",
-    "total_chapters": 154,
-    "genres": [
-      "أكشن",
-      "شونين",
-      "دراما",
-      "فنتازيا"
-    ]
-  },
-  {
     "id": "unexpected-romance",
     "title": "Unexpected romance",
     "url": "https://azorafly.com/series/unexpected-romance",
@@ -286,23 +270,6 @@
     ]
   },
   {
-    "id": "raising-villains-the-right-way",
-    "title": "Raising Villains the Right Way",
-    "url": "https://azorafly.com/series/raising-villains-the-right-way",
-    "cover_url": "https://storage.azorafly.com/upload/series/featured/02408b52-85d5-445d-9e5c-f7dbcd583bf8/5d267f31-fb9f-477b-a899-1f4b3333fbcf.png",
-    "type": "مانهوا",
-    "status": "مستمر",
-    "rating": "9.4",
-    "total_chapters": 62,
-    "genres": [
-      "تشويق",
-      "مغامرة",
-      "خيال",
-      "كوميدي",
-      "أكشن"
-    ]
-  },
-  {
     "id": "while-others-became-female-leads-in-romantic-fantasy-novels-i-became-a-closet-monster",
     "title": "While Others Became Female Leads In Romantic Fantasy Novels, I Became A Closet Monster",
     "url": "https://azorafly.com/series/while-others-became-female-leads-in-romantic-fantasy-novels-i-became-a-closet-monster",
@@ -424,24 +391,6 @@
       "كوميدي",
       "رومانسي"
     ]
-  },
-  {
-    "id": "villain-familys-strongest-butler",
-    "title": "Villain Family’s Strongest Butler",
-    "url": "https://azorafly.com/series/villain-familys-strongest-butler",
-    "cover_url": "https://storage.azorafly.com/upload/series/featured/oGmL0DQZ16QInTPaeDKwFEK9ryegoy88/05fa2ba3-9951-4514-931f-e596fb71adb5.webp",
-    "type": "مانهوا",
-    "total_chapters": 27,
-    "genres": [
-      "خيالي",
-      "تبادل أرواح",
-      "سحر",
-      "رومانسى",
-      "كوميدى",
-      "دراما"
-    ],
-    "status": "مستمر",
-    "rating": "9.6"
   },
   {
     "id": "i-will-divorce-the-heroines-siscom-brother",
@@ -2475,15 +2424,6 @@
     ]
   },
   {
-    "id": "i-was-reincarnated-as-the-villainesss-sister",
-    "title": "I Was Reincarnated as the Villainess's Sister",
-    "url": "https://azorafly.com/series/i-was-reincarnated-as-the-villainesss-sister",
-    "cover_url": "https://storage.azorafly.com/upload/series/featured/02408b52-85d5-445d-9e5c-f7dbcd583bf8/d8cf5112-a0b2-4e06-843d-a38e5bd5e03c.jpg",
-    "type": "مانهوا",
-    "total_chapters": 0,
-    "genres": []
-  },
-  {
     "id": "trash-of-the-counts-family",
     "title": "Trash of the Count's Family",
     "url": "https://azorafly.com/series/trash-of-the-counts-family",
@@ -2605,6 +2545,69 @@
     "rating": "9.8"
   },
   {
+    "id": "embarrassing-game",
+    "title": "Embarrassing game",
+    "url": "https://azorafly.com/series/embarrassing-game",
+    "cover_url": "https://storage.azorafly.com/upload/series/featured/02408b52-85d5-445d-9e5c-f7dbcd583bf8/fb3c9afe-6674-4259-bd2d-970d402fd27e.jpg",
+    "type": "مانهوا",
+    "status": "مستمر",
+    "rating": "9.8",
+    "total_chapters": 46,
+    "genres": [
+      "حياة مدرسية",
+      "اثارة",
+      "غموض"
+    ]
+  },
+  {
+    "id": "face-genius-0-year-old-top-star",
+    "title": "Face Genius, 0-Year-Old Top Star",
+    "url": "https://azorafly.com/series/face-genius-0-year-old-top-star",
+    "cover_url": "https://storage.azorafly.com/upload/series/featured/02408b52-85d5-445d-9e5c-f7dbcd583bf8/f9ba9b4c-7b86-4ed5-abf3-5b86ab33ce62.jpg",
+    "type": "مانهوا",
+    "status": "مستمر",
+    "rating": "9.9",
+    "total_chapters": 79,
+    "genres": [
+      "دراما",
+      "خيال"
+    ]
+  },
+  {
+    "id": "villain-familys-strongest-butler",
+    "title": "Villain Family’s Strongest Butler",
+    "url": "https://azorafly.com/series/villain-familys-strongest-butler",
+    "cover_url": "https://storage.azorafly.com/upload/series/featured/oGmL0DQZ16QInTPaeDKwFEK9ryegoy88/05fa2ba3-9951-4514-931f-e596fb71adb5.webp",
+    "type": "مانهوا",
+    "total_chapters": 27,
+    "genres": [
+      "خيالي",
+      "تبادل أرواح",
+      "سحر",
+      "رومانسى",
+      "كوميدى",
+      "دراما"
+    ],
+    "status": "مستمر",
+    "rating": "9.6"
+  },
+  {
+    "id": "world-destruction-war",
+    "title": "World Destruction War",
+    "url": "https://azorafly.com/series/world-destruction-war",
+    "cover_url": "https://storage.azorafly.com/upload/series/featured/6cac1de1-87ae-4a81-9cd1-2abe99fd84d7/5b6fbb47-34bb-4e19-bcea-1b0e860edf21.png",
+    "type": "مانهوا",
+    "status": "مستمر",
+    "rating": "8.4",
+    "total_chapters": 14,
+    "genres": [
+      "اكشن",
+      "خيالي",
+      "فنتازيا",
+      "دراما"
+    ]
+  },
+  {
     "id": "my-husband-and-i-cannot-live-in-the-same-world",
     "title": "My Husband and I Cannot Live in the Same World",
     "url": "https://azorafly.com/series/my-husband-and-i-cannot-live-in-the-same-world",
@@ -2703,35 +2706,6 @@
     ]
   },
   {
-    "id": "embarrassing-game",
-    "title": "Embarrassing game",
-    "url": "https://azorafly.com/series/embarrassing-game",
-    "cover_url": "https://storage.azorafly.com/upload/series/featured/02408b52-85d5-445d-9e5c-f7dbcd583bf8/fb3c9afe-6674-4259-bd2d-970d402fd27e.jpg",
-    "type": "مانهوا",
-    "status": "مستمر",
-    "rating": "9.8",
-    "total_chapters": 46,
-    "genres": [
-      "حياة مدرسية",
-      "اثارة",
-      "غموض"
-    ]
-  },
-  {
-    "id": "face-genius-0-year-old-top-star",
-    "title": "Face Genius, 0-Year-Old Top Star",
-    "url": "https://azorafly.com/series/face-genius-0-year-old-top-star",
-    "cover_url": "https://storage.azorafly.com/upload/series/featured/02408b52-85d5-445d-9e5c-f7dbcd583bf8/f9ba9b4c-7b86-4ed5-abf3-5b86ab33ce62.jpg",
-    "type": "مانهوا",
-    "status": "مستمر",
-    "rating": "9.9",
-    "total_chapters": 79,
-    "genres": [
-      "دراما",
-      "خيال"
-    ]
-  },
-  {
     "id": "ceres-the-time-healer1",
     "title": "Ceres, the Time Healer",
     "url": "https://azorafly.com/series/ceres-the-time-healer1",
@@ -2764,22 +2738,6 @@
       "اكشن",
       "العاب",
       "مغامرات"
-    ]
-  },
-  {
-    "id": "world-destruction-war",
-    "title": "World Destruction War",
-    "url": "https://azorafly.com/series/world-destruction-war",
-    "cover_url": "https://storage.azorafly.com/upload/series/featured/6cac1de1-87ae-4a81-9cd1-2abe99fd84d7/5b6fbb47-34bb-4e19-bcea-1b0e860edf21.png",
-    "type": "مانهوا",
-    "status": "مستمر",
-    "rating": "8.4",
-    "total_chapters": 14,
-    "genres": [
-      "اكشن",
-      "خيالي",
-      "فنتازيا",
-      "دراما"
     ]
   },
   {
@@ -2937,22 +2895,6 @@
     ]
   },
   {
-    "id": "honey-why-cant-we-get-a-divorce",
-    "title": "Honey, Why Can’t We Get a Divorce?",
-    "url": "https://azorafly.com/series/honey-why-cant-we-get-a-divorce",
-    "cover_url": "https://storage.azorafly.com/upload/series/featured/a5vVlSc5huft2AzUyK1VxgKh1ckCWLbZ/e801a89e-1a88-40e0-8b4a-9fdba29fd1f8.jpg",
-    "type": "مانهوا",
-    "status": "مستمر",
-    "rating": "9.5",
-    "total_chapters": 112,
-    "genres": [
-      "خيالي",
-      "شوجو",
-      "رومانسي",
-      "كوميدي"
-    ]
-  },
-  {
     "id": "the-northern-wolf%3A-the-fifth-kingdom",
     "title": "The Northern Wolf: The Fifth Kingdom",
     "url": "https://azorafly.com/series/the-northern-wolf%3A-the-fifth-kingdom",
@@ -3086,22 +3028,6 @@
     ]
   },
   {
-    "id": "how-i-became-a-married-man-in-another-world",
-    "title": "How I Became a Married Man in Another World",
-    "url": "https://azorafly.com/series/how-i-became-a-married-man-in-another-world",
-    "cover_url": "https://storage.azorafly.com/upload/series/featured/6cac1de1-87ae-4a81-9cd1-2abe99fd84d7/63515a2c-9822-4b80-bc61-048d1b2e9df7.webp",
-    "type": "مانهوا",
-    "status": "مستمر",
-    "rating": "9.8",
-    "total_chapters": 36,
-    "genres": [
-      "سينين",
-      "شوجو",
-      "رومانسي",
-      "فنتازيا"
-    ]
-  },
-  {
     "id": "only-i-have-an-ex-grade-summon",
     "title": "Only I Have an EX-Grade Summon",
     "url": "https://azorafly.com/series/only-i-have-an-ex-grade-summon",
@@ -3138,7 +3064,7 @@
     "cover_url": "https://storage.azorafly.com/upload/series/featured/6cac1de1-87ae-4a81-9cd1-2abe99fd84d7/5c403432-75b2-443e-99ca-1c382246b1bb.jpg",
     "type": "مانهوا",
     "status": "مستمر",
-    "rating": "6.4",
+    "rating": "6.6",
     "total_chapters": 55,
     "genres": [
       "سحر",
@@ -3182,6 +3108,100 @@
     ],
     "status": "مستمر",
     "rating": "9.8"
+  },
+  {
+    "id": "i-was-reincarnated-as-the-villainesss-sister",
+    "title": "I Was Reincarnated as the Villainess's Sister",
+    "url": "https://azorafly.com/series/i-was-reincarnated-as-the-villainesss-sister",
+    "cover_url": "https://storage.azorafly.com/upload/series/featured/02408b52-85d5-445d-9e5c-f7dbcd583bf8/d8cf5112-a0b2-4e06-843d-a38e5bd5e03c.jpg",
+    "type": "مانهوا",
+    "total_chapters": 6,
+    "genres": [
+      "فانتازيا",
+      "رومانسى",
+      "دراما"
+    ],
+    "status": "مستمر",
+    "rating": "10.0"
+  },
+  {
+    "id": "raising-villains-the-right-way",
+    "title": "Raising Villains the Right Way",
+    "url": "https://azorafly.com/series/raising-villains-the-right-way",
+    "cover_url": "https://storage.azorafly.com/upload/series/featured/02408b52-85d5-445d-9e5c-f7dbcd583bf8/5d267f31-fb9f-477b-a899-1f4b3333fbcf.png",
+    "type": "مانهوا",
+    "status": "مستمر",
+    "rating": "9.4",
+    "total_chapters": 63,
+    "genres": [
+      "تشويق",
+      "مغامرة",
+      "خيال",
+      "كوميدي",
+      "أكشن"
+    ]
+  },
+  {
+    "id": "honey-why-cant-we-get-a-divorce",
+    "title": "Honey, Why Can’t We Get a Divorce?",
+    "url": "https://azorafly.com/series/honey-why-cant-we-get-a-divorce",
+    "cover_url": "https://storage.azorafly.com/upload/series/featured/a5vVlSc5huft2AzUyK1VxgKh1ckCWLbZ/e801a89e-1a88-40e0-8b4a-9fdba29fd1f8.jpg",
+    "type": "مانهوا",
+    "status": "مستمر",
+    "rating": "9.5",
+    "total_chapters": 112,
+    "genres": [
+      "خيالي",
+      "شوجو",
+      "رومانسي",
+      "كوميدي"
+    ]
+  },
+  {
+    "id": "how-i-became-a-married-man-in-another-world",
+    "title": "How I Became a Married Man in Another World",
+    "url": "https://azorafly.com/series/how-i-became-a-married-man-in-another-world",
+    "cover_url": "https://storage.azorafly.com/upload/series/featured/6cac1de1-87ae-4a81-9cd1-2abe99fd84d7/63515a2c-9822-4b80-bc61-048d1b2e9df7.webp",
+    "type": "مانهوا",
+    "status": "مستمر",
+    "rating": "9.8",
+    "total_chapters": 36,
+    "genres": [
+      "سينين",
+      "شوجو",
+      "رومانسي",
+      "فنتازيا"
+    ]
+  },
+  {
+    "id": "how-a-terminally-ill-genius-survives",
+    "title": "How a terminally ill genius survives",
+    "url": "https://azorafly.com/series/how-a-terminally-ill-genius-survives",
+    "cover_url": "https://storage.azorafly.com/2024/09/91FDBB3C-A151-42FB-A2B1-9953EE970422.webp",
+    "type": "مانهوا",
+    "status": "مستمر",
+    "rating": "9.3",
+    "total_chapters": 100,
+    "genres": [
+      "فنون قتالية",
+      "أكشن"
+    ]
+  },
+  {
+    "id": "the-regressed-son-of-a-duke-is-an-assassin",
+    "title": "The Regressed Son of a Duke Is an Assassin",
+    "url": "https://azorafly.com/series/the-regressed-son-of-a-duke-is-an-assassin",
+    "cover_url": "https://storage.azorafly.com/2024/02/New.webp",
+    "type": "مانهوا",
+    "status": "مستمر",
+    "rating": "9.7",
+    "total_chapters": 154,
+    "genres": [
+      "أكشن",
+      "شونين",
+      "دراما",
+      "فنتازيا"
+    ]
   },
   {
     "id": "the-regressor-and-the-blind-saintess",
@@ -6446,20 +6466,6 @@
       "عودة بالزمن",
       "كوميدي",
       "خيال"
-    ]
-  },
-  {
-    "id": "how-a-terminally-ill-genius-survives",
-    "title": "How a terminally ill genius survives",
-    "url": "https://azorafly.com/series/how-a-terminally-ill-genius-survives",
-    "cover_url": "https://storage.azorafly.com/2024/09/91FDBB3C-A151-42FB-A2B1-9953EE970422.webp",
-    "type": "مانهوا",
-    "status": "مستمر",
-    "rating": "10.0",
-    "total_chapters": 98,
-    "genres": [
-      "فنون قتالية",
-      "أكشن"
     ]
   },
   {
