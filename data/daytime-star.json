@@ -8,13 +8,22 @@
   "last_update": "2026-11-23",
   "rating": "9.9",
   "genres": [
-    "ايسيكاي",
     "دراما",
+    "شوجو",
     "رومانسي",
-    "شوجو"
+    "ايسيكاي"
   ],
   "is_novel": false,
   "chapters": {
+    "https://azorafly.com/series/daytime-star/chapter-7": {
+      "name": "7"
+    },
+    "https://azorafly.com/series/daytime-star/chapter-6": {
+      "name": "6"
+    },
+    "https://azorafly.com/series/daytime-star/chapter-5": {
+      "name": "5"
+    },
     "https://azorafly.com/series/daytime-star/chapter-4": {
       "name": "4"
     },

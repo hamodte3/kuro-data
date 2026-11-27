@@ -9,11 +9,20 @@
   "rating": "9.9",
   "genres": [
     "رعاية اطفال",
-    "رومانسي",
-    "كوميدي"
+    "كوميدي",
+    "رومانسي"
   ],
   "is_novel": false,
   "chapters": {
+    "https://azorafly.com/series/love-begins-with-parentin/chapter-43": {
+      "name": "43"
+    },
+    "https://azorafly.com/series/love-begins-with-parentin/chapter-42": {
+      "name": "42"
+    },
+    "https://azorafly.com/series/love-begins-with-parentin/chapter-41": {
+      "name": "41"
+    },
     "https://azorafly.com/series/love-begins-with-parentin/chapter-40": {
       "name": "40"
     },

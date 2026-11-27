@@ -10,15 +10,24 @@
   "genres": [
     "قصة قصيرة",
     "أصدقاء طفولة",
-    "سوء فهم",
+    "إثارة",
+    "دراما",
     "الحب الأول",
     "مأساة",
     "رومانسي",
-    "إثارة",
-    "دراما"
+    "سوء فهم"
   ],
   "is_novel": false,
   "chapters": {
+    "https://azorafly.com/series/my-husband-and-i-cannot-live-in-the-same-world/chapter-52": {
+      "name": "52"
+    },
+    "https://azorafly.com/series/my-husband-and-i-cannot-live-in-the-same-world/chapter-51": {
+      "name": "51"
+    },
+    "https://azorafly.com/series/my-husband-and-i-cannot-live-in-the-same-world/chapter-50": {
+      "name": "50"
+    },
     "https://azorafly.com/series/my-husband-and-i-cannot-live-in-the-same-world/chapter-49": {
       "name": "49"
     },

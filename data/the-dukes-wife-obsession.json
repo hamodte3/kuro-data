@@ -10,22 +10,25 @@
   "genres": [
     "مانهوا",
     "تناسخ",
+    "ويبتون",
+    "هوس",
     "زواج مدبر",
     "فيكتوري",
-    "ويبتون",
     "عصور وسطى",
-    "هوس",
     "فانتازيا",
     "عودة بالزمن",
-    "كوميدي",
-    "رومانسي",
+    "دراما",
     "شوجو",
+    "رومانسي",
+    "كوميدي",
     "عالم اخر",
-    "فنتازيا",
-    "دراما"
+    "فنتازيا"
   ],
   "is_novel": false,
   "chapters": {
+    "https://azorafly.com/series/the-dukes-wife-obsession/chapter-55": {
+      "name": "55"
+    },
     "https://azorafly.com/series/the-dukes-wife-obsession/chapter-54": {
       "name": "54"
     },

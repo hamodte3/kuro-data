@@ -9,11 +9,14 @@
   "rating": "8.8",
   "genres": [
     "زواج مدبر",
-    "غموض",
-    "فانتازيا"
+    "فانتازيا",
+    "غموض"
   ],
   "is_novel": false,
   "chapters": {
+    "https://azorafly.com/series/the-grand-dukes-bride-is-a-hellborn-warrior/chapter-51": {
+      "name": "51"
+    },
     "https://azorafly.com/series/the-grand-dukes-bride-is-a-hellborn-warrior/chapter-50": {
       "name": "50"
     },
