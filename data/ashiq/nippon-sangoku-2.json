@@ -1,0 +1,24 @@
+{
+  "id": "nippon-sangoku-2",
+  "title": "Nippon Sangoku",
+  "cover_url": "https://3asq.online/wp-content/uploads/2026/11/1-480x691.jpg.webp",
+  "description": "في المستقبل القريب، وبعد انهيار الحضارة، ينهض شابٌّ ليعيد توحيد اليابان، التي دخلت مجدداً في عصر الدول المتحاربة. اسمه ميسومي أوتيرو. وُصِفَ لاحقاً بالعبقري العسكري، وتبدأ أسطورته الآن!",
+  "type": "مانغا",
+  "status": "مستمر",
+  "rating": "5.0",
+  "favorites": "1",
+  "genres": [
+    "استراتيجي",
+    "حرب",
+    "عسكرية"
+  ],
+  "is_novel": false,
+  "chapters": {
+    "https://3asq.online/manga/nippon-sangoku-2/5": {
+      "name": "5"
+    },
+    "https://3asq.online/manga/nippon-sangoku-2/2": {
+      "name": "2"
+    }
+  }
+}

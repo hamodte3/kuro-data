@@ -1,5 +1,96 @@
 [
   {
+    "id": "nippon-sangoku-2",
+    "title": "Nippon Sangoku",
+    "chapter": "الفصل 2",
+    "type": "مانغا",
+    "cover_url": "https://3asq.online/wp-content/uploads/2026/11/1-480x691.jpg.webp"
+  },
+  {
+    "id": "noisering",
+    "title": "Noisering",
+    "chapter": "الفصل 9",
+    "type": "مانغا",
+    "cover_url": "https://3asq.online/wp-content/uploads/2026/09/noisering-scaled.jpg"
+  },
+  {
+    "id": "my-daddy-hides-his-power",
+    "title": "My Daddy Hides His Power",
+    "chapter": "الفصل 96",
+    "type": "مانهوا",
+    "cover_url": "https://storage.azorafly.com/upload/series/featured/oGmL0DQZ16QInTPaeDKwFEK9ryegoy88/6586080f-9f0d-466e-8615-3008f24f478b.jpg"
+  },
+  {
+    "id": "the-immortal-genius-spearman",
+    "title": "The Immortal Genius Spearman",
+    "chapter": "الفصل 38",
+    "type": "مانهوا",
+    "cover_url": "https://storage.azorafly.com/upload/series/featured/6cac1de1-87ae-4a81-9cd1-2abe99fd84d7/776a6697-f6a3-473a-9bed-1326bd738b70.png"
+  },
+  {
+    "id": "starting-the-villainess-life-with-0-gold",
+    "title": "Starting The Villainess Life With 0 Gold",
+    "chapter": "الفصل 24",
+    "type": "مانهوا",
+    "cover_url": "https://storage.azorafly.com/upload/series/featured/6cac1de1-87ae-4a81-9cd1-2abe99fd84d7/a0212fe9-d359-4ebe-82c1-1f60baf50230.jpg"
+  },
+  {
+    "id": "golden-chevalier",
+    "title": "Golden Chevalier",
+    "chapter": "الفصل 59",
+    "type": "مانهوا",
+    "cover_url": "https://storage.azorafly.com/2025/11/resource-3.webp"
+  },
+  {
+    "id": "my-husband-possessed-the-protagonist",
+    "title": "My Husband Possessed the Protagonist",
+    "chapter": "الفصل 60",
+    "type": "مانهوا",
+    "cover_url": "https://storage.azorafly.com/upload/series/featured/f1fef4cc-ebcb-4b26-90b6-b65fe212f932/e8fbfa2d-f0a3-4bf1-abdf-905b68551ee4.jpg"
+  },
+  {
+    "id": "sister-im-the-queen-in-this-life",
+    "title": "Sister, I'm the Queen in this Life",
+    "chapter": "الفصل 220",
+    "type": "مانهوا",
+    "cover_url": "https://storage.azorafly.com/upload/series/featured/55ecc86a-e082-44c7-bea8-675703397a95/89aa0d9a-9a6f-4c37-b75f-3f1e9f6ead25.jpg"
+  },
+  {
+    "id": "surviving-as-a-pd-idol",
+    "title": "Surviving as a PD Idol",
+    "chapter": "الفصل 51",
+    "type": "مانهوا",
+    "cover_url": "https://storage.azorafly.com/upload/series/featured/36b5afed-dad7-4e85-86ee-7629e1388021/9f6506a5-4615-436c-b12c-89d3dcb34156.jpeg"
+  },
+  {
+    "id": "the-baby-dragon-wants-to-live-alone-with-the-princess",
+    "title": "The Baby Dragon Wants to Live Alone with the Princess",
+    "chapter": "الفصل 22",
+    "type": "مانهوا",
+    "cover_url": "https://storage.azorafly.com/upload/series/featured/a5vVlSc5huft2AzUyK1VxgKh1ckCWLbZ/9f45ce94-9fc7-4fc0-b3a5-e26f68f64d3e.webp"
+  },
+  {
+    "id": "a-maid-was-more-of-a-calling-than-a-princess1",
+    "title": "A Maid Was More of a Calling Than a Princess",
+    "chapter": "الفصل 4",
+    "type": "رواية",
+    "cover_url": "https://storage.azorafly.com/upload/series/featured/a5vVlSc5huft2AzUyK1VxgKh1ckCWLbZ/d0be6301-02ac-4c8a-8970-a01a4f81ce79.jpg"
+  },
+  {
+    "id": "became-the-owner-of-a-poor-estate",
+    "title": "Became the Owner of a Poor Estate",
+    "chapter": "الفصل 22",
+    "type": "مانهوا",
+    "cover_url": "https://storage.azorafly.com/upload/series/featured/6cac1de1-87ae-4a81-9cd1-2abe99fd84d7/0f56f524-10ee-4333-a287-108c8fa880c3.png"
+  },
+  {
+    "id": "pretty-trash",
+    "title": "Pretty Trash",
+    "chapter": "الفصل 33",
+    "type": "مانهوا",
+    "cover_url": "https://storage.azorafly.com/upload/series/featured/02408b52-85d5-445d-9e5c-f7dbcd583bf8/9df99e31-d362-4a7d-bcab-6ebc53d62013.jpg"
+  },
+  {
     "id": "sword-gods-life-is-not-that-boring",
     "title": "Sword God’s Life Is Not That Boring",
     "chapter": "الفصل 2",
@@ -12,96 +103,5 @@
     "chapter": "الفصل 47",
     "type": "مانهوا",
     "cover_url": "https://storage.azorafly.com/upload/series/featured/02408b52-85d5-445d-9e5c-f7dbcd583bf8/d4d39619-dc49-495d-96f3-59f453e82602.jpg"
-  },
-  {
-    "id": "vampire-meets-huntress",
-    "title": "Vampire meets huntress",
-    "chapter": "الفصل 16",
-    "type": "مانهوا",
-    "cover_url": "https://storage.azorafly.com/2025/07/1000040001.webp"
-  },
-  {
-    "id": "the-white-tiger-princess-is-not-in-danger",
-    "title": "The White Tiger Princess is Not in Danger",
-    "chapter": "الفصل 57",
-    "type": "مانهوا",
-    "cover_url": "https://storage.azorafly.com/upload/series/featured/02408b52-85d5-445d-9e5c-f7dbcd583bf8/fa070318-f9b0-4b95-a54c-9090e44e6ae7.png"
-  },
-  {
-    "id": "please-give-me-the-pacifier",
-    "title": "Please Give Me The Pacifier",
-    "chapter": "الفصل 148",
-    "type": "مانهوا",
-    "cover_url": "https://storage.azorafly.com/public/upload/series/featured/02408b52-85d5-445d-9e5c-f7dbcd583bf8/633fd5b1-cf03-401c-ae75-db63778a4b02.jpg"
-  },
-  {
-    "id": "this-wasn't-in-my-adoption-plan!",
-    "title": "This Wasn’t in My Adoption Plan!",
-    "chapter": "الفصل 35",
-    "type": "مانهوا",
-    "cover_url": "https://storage.azorafly.com/upload/series/featured/02408b52-85d5-445d-9e5c-f7dbcd583bf8/44d3b16c-725a-43ed-9ffe-322dbc0c1319.jpg"
-  },
-  {
-    "id": "tenkaichi-nihon-saikyou-bugeisha-ketteisen",
-    "title": "Tenkaichi: Nihon Saikyou Bugeisha Ketteisen",
-    "chapter": "الفصل 69",
-    "type": "مانغا",
-    "cover_url": "https://3asq.online/wp-content/uploads/2026/02/Picsart_26-08-15_16-14-08-619-scaled.jpg"
-  },
-  {
-    "id": "noisering",
-    "title": "Noisering",
-    "chapter": "الفصل 8",
-    "type": "مانغا",
-    "cover_url": "https://3asq.online/wp-content/uploads/2026/09/noisering-scaled.jpg"
-  },
-  {
-    "id": "this-wasn't-in-my-adoption-plan!",
-    "title": "This Wasn’t in My Adoption Plan!",
-    "chapter": "الفصل 34",
-    "type": "مانهوا",
-    "cover_url": "https://storage.azorafly.com/upload/series/featured/02408b52-85d5-445d-9e5c-f7dbcd583bf8/44d3b16c-725a-43ed-9ffe-322dbc0c1319.jpg"
-  },
-  {
-    "id": "the-dukes-wife-obsession",
-    "title": "The Duke’s Wife Obsession",
-    "chapter": "الفصل 56",
-    "type": "مانهوا",
-    "cover_url": "https://storage.azorafly.com/public/upload/2026/03/17/79fa42f5-66b9-4d5f-b351-f54f134a18de.webp"
-  },
-  {
-    "id": "the-oracle-of-the-villainous-baby",
-    "title": "The Oracle of the Villainous Baby",
-    "chapter": "الفصل 40",
-    "type": "مانهوا",
-    "cover_url": "https://storage.azorafly.com/upload/series/featured/02408b52-85d5-445d-9e5c-f7dbcd583bf8/0ad7a8f2-02db-4673-b32c-f70f0dad2f98.jpg"
-  },
-  {
-    "id": "overgeared-12",
-    "title": "Overgeared",
-    "chapter": "الفصل 354",
-    "type": "مانهوا",
-    "cover_url": "https://storage.azorafly.com/2020/04/resource-2.jpg"
-  },
-  {
-    "id": "the-return-of-the-crazy-demon-s",
-    "title": "The Return of the Crazy Demon",
-    "chapter": "الفصل 224",
-    "type": "مانهوا",
-    "cover_url": "https://storage.azorafly.com/2021/07/resim_2021-07-22_171921.png"
-  },
-  {
-    "id": "the-goddess-of-fortune",
-    "title": "The Goddess of Fortune",
-    "chapter": "الفصل 36",
-    "type": "مانهوا",
-    "cover_url": "https://storage.azorafly.com/upload/series/featured/a5vVlSc5huft2AzUyK1VxgKh1ckCWLbZ/b530bbaf-68b8-48fa-9ad9-cec58aaedc21.jpg"
-  },
-  {
-    "id": "chronicles-of-the-demon-faction",
-    "title": "Chronicles of the Demon Faction",
-    "chapter": "الفصل 199",
-    "type": "مانهوا",
-    "cover_url": "https://storage.azorafly.com/2023/03/unnamed-file.jpg"
   }
 ]

@@ -1,19 +1,5 @@
 [
   {
-    "id": "umineko-no-naku-koro-ni-chiru-episode-8-twilight-of-the-golden-witch",
-    "title": "Umineko No Naku Koro ni Chiru Episode 8: Twilight of the Golden Witch",
-    "url": "https://3asq.online/manga/umineko-no-naku-koro-ni-chiru-episode-8-twilight-of-the-golden-witch",
-    "cover_url": "https://3asq.online/wp-content/uploads/2024/07/episode-8-copy-asq-grid-525-v2.webp",
-    "type": "مانغا",
-    "rating": "4.7",
-    "total_chapters": 25,
-    "genres": [
-      "100%",
-      "3asq"
-    ],
-    "status": "مكتمل"
-  },
-  {
     "id": "gintama",
     "title": "Gintama",
     "url": "https://3asq.online/manga/gintama",
@@ -245,7 +231,7 @@
     "url": "https://3asq.online/manga/record-of-ragnarok",
     "cover_url": "https://3asq.online/wp-content/uploads/2025/12/1000078981-175x238.jpg",
     "type": "مانغا",
-    "rating": "3.2",
+    "rating": "3.3",
     "total_chapters": 10,
     "genres": [
       "أكشن",
@@ -1494,7 +1480,7 @@
     "id": "witchriv",
     "title": "WITCHRIV",
     "url": "https://3asq.online/manga/witchriv",
-    "cover_url": "https://3asq.online/wp-content/uploads/2026/01/p-0000-480x691.jpg.webp",
+    "cover_url": "https://3asq.online/wp-content/uploads/2026/01/p-0000-525x714.jpg.webp",
     "type": "مانغا",
     "rating": "4.3",
     "total_chapters": 30,
@@ -1736,7 +1722,7 @@
     "cover_url": "https://3asq.online/wp-content/uploads/2026/09/noisering-scaled.jpg",
     "type": "مانغا",
     "rating": "5.0",
-    "total_chapters": 8,
+    "total_chapters": 9,
     "genres": [
       "أكشن",
       "جريمة",
@@ -1868,6 +1854,35 @@
     "total_chapters": 0,
     "genres": [],
     "status": "مستمر"
+  },
+  {
+    "id": "nippon-sangoku-2",
+    "title": "Nippon Sangoku",
+    "url": "https://3asq.online/manga/nippon-sangoku-2",
+    "cover_url": "https://3asq.online/wp-content/uploads/2026/11/1-480x691.jpg.webp",
+    "type": "مانغا",
+    "rating": "5.0",
+    "total_chapters": 2,
+    "genres": [
+      "استراتيجي",
+      "حرب",
+      "عسكرية"
+    ],
+    "status": "مستمر"
+  },
+  {
+    "id": "umineko-no-naku-koro-ni-chiru-episode-8-twilight-of-the-golden-witch",
+    "title": "Umineko No Naku Koro ni Chiru Episode 8: Twilight of the Golden Witch",
+    "url": "https://3asq.online/manga/umineko-no-naku-koro-ni-chiru-episode-8-twilight-of-the-golden-witch",
+    "cover_url": "https://3asq.online/wp-content/uploads/2024/07/episode-8-copy-asq-grid-525-v2.webp",
+    "type": "مانغا",
+    "rating": "4.7",
+    "total_chapters": 25,
+    "genres": [
+      "100%",
+      "3asq"
+    ],
+    "status": "مكتمل"
   },
   {
     "id": "the-marshal-king",

@@ -8,13 +8,19 @@
   "last_update": "2026-10-30",
   "rating": "9.3",
   "genres": [
-    "دراما",
     "كوميدي",
     "فنتازيا",
-    "رومانسى"
+    "رومانسى",
+    "دراما"
   ],
   "is_novel": false,
   "chapters": {
+    "https://azorafly.com/series/starting-the-villainess-life-with-0-gold/chapter-24": {
+      "name": "24"
+    },
+    "https://azorafly.com/series/starting-the-villainess-life-with-0-gold/chapter-23": {
+      "name": "23"
+    },
     "https://azorafly.com/series/starting-the-villainess-life-with-0-gold/chapter-22": {
       "name": "22"
     },

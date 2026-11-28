@@ -6,14 +6,27 @@
   "type": "رواية",
   "status": "مستمر",
   "last_update": "2026-11-22",
-  "rating": "10.0",
+  "rating": "9.8",
   "genres": [
+    "تاريخي",
     "كوميدي",
     "بدون تجسيد",
     "رومانسي",
-    "دراما",
-    "تاريخي"
+    "دراما"
   ],
   "is_novel": false,
-  "chapters": {}
+  "chapters": {
+    "https://azorafly.com/series/a-maid-was-more-of-a-calling-than-a-princess1/chapter-4": {
+      "name": "4"
+    },
+    "https://azorafly.com/series/a-maid-was-more-of-a-calling-than-a-princess1/chapter-3": {
+      "name": "3"
+    },
+    "https://azorafly.com/series/a-maid-was-more-of-a-calling-than-a-princess1/chapter-2": {
+      "name": "2"
+    },
+    "https://azorafly.com/series/a-maid-was-more-of-a-calling-than-a-princess1/chapter-1": {
+      "name": "1"
+    }
+  }
 }

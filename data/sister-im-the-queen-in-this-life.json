@@ -6,15 +6,21 @@
   "type": "مانهوا",
   "status": "مستمر",
   "last_update": "2026-08-18",
-  "rating": "9.1",
+  "rating": "8.9",
   "genres": [
     "جوسي",
+    "خيال",
     "رومانسي",
-    "دراما",
-    "خيال"
+    "دراما"
   ],
   "is_novel": false,
   "chapters": {
+    "https://azorafly.com/series/sister-im-the-queen-in-this-life/chapter-220": {
+      "name": "220"
+    },
+    "https://azorafly.com/series/sister-im-the-queen-in-this-life/chapter-219": {
+      "name": "219"
+    },
     "https://azorafly.com/series/sister-im-the-queen-in-this-life/chapter-218": {
       "name": "218"
     },

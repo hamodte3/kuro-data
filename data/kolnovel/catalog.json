@@ -1269,23 +1269,6 @@
     ]
   },
   {
-    "id": "انتفاضة الحُمر",
-    "title": "انتفاضة الحُمر",
-    "url": "https://kolnovel.com/series/%d8%a7%d9%86%d8%aa%d9%81%d8%a7%d8%b6%d8%a9-%d8%a7%d9%84%d8%ad%d9%8f%d9%85%d8%b1",
-    "cover_url": "https://kolnovel.com/wp-content/uploads/2025/12/unnamed.jpg",
-    "type": "رواية",
-    "is_novel": true,
-    "rating": "",
-    "total_chapters": 24,
-    "genres": [
-      "أكشن",
-      "خيال",
-      "خيال علمي",
-      "مأساوي"
-    ],
-    "status": "مستمر"
-  },
-  {
     "id": "حياتي كمرشد روحي في القصص المصورة الأمريكية",
     "title": "حياتي كمرشد روحي في القصص المصورة الأمريكية",
     "url": "https://kolnovel.com/series/%d8%ad%d9%8a%d8%a7%d8%aa%d9%8a-%d9%83%d9%85%d8%b1%d8%b4%d8%af-%d8%b1%d9%88%d8%ad%d9%8a-%d9%81%d9%8a-%d8%a7%d9%84%d9%82%d8%b5%d8%b5-%d8%a7%d9%84%d9%85%d8%b5%d9%88%d8%b1%d8%a9-%d8%a7%d9%84%d8%a3%d9%85",
@@ -1343,20 +1326,13 @@
     "cover_url": "https://kolnovel.com/wp-content/uploads/2026/10/Crimson_World_Tree_Showdown.png",
     "type": "رواية",
     "is_novel": true,
-    "rating": "",
+    "rating": "7.6",
     "total_chapters": 24,
     "genres": [
       "أعراق",
       "بطل مضاد",
       "بناء مملكة",
-      "حرب",
-      "حرب بين النجوم",
-      "زراعة",
-      "سلالة نادرة",
-      "غير بشري",
-      "فضاء",
-      "مأساة",
-      "نظام"
+      "حرب"
     ],
     "status": "مستمر"
   },
@@ -1453,23 +1429,6 @@
       "مغامرة",
       "نظام"
     ]
-  },
-  {
-    "id": "غوامض النبلاء",
-    "title": "غوامض النبلاء",
-    "url": "https://kolnovel.com/series/%d8%ba%d9%88%d8%a7%d9%85%d8%b6-%d8%a7%d9%84%d9%86%d8%a8%d9%84%d8%a7%d8%a1",
-    "cover_url": "https://kolnovel.com/wp-content/uploads/2026/09/بدون-اسم151_20260929090619.png",
-    "type": "رواية",
-    "is_novel": true,
-    "rating": "",
-    "total_chapters": 24,
-    "genres": [
-      "أكشن",
-      "خيال",
-      "دراما",
-      "غموض"
-    ],
-    "status": "مستمر"
   },
   {
     "id": "ملحمة سليل الخوف",
@@ -1578,25 +1537,6 @@
       "شوانهوان",
       "شيانشيا",
       "فنون قتال"
-    ],
-    "status": "مستمر"
-  },
-  {
-    "id": "كتاب المئة حياة",
-    "title": "كتاب المئة حياة",
-    "url": "https://kolnovel.com/series/%d9%83%d8%aa%d8%a7%d8%a8-%d8%a7%d9%84%d9%85%d8%a6%d8%a9-%d8%ad%d9%8a%d8%a7%d8%a9",
-    "cover_url": "https://kolnovel.com/wp-content/uploads/2026/08/بدون-اسم124_20260822084136.png",
-    "type": "رواية",
-    "is_novel": true,
-    "rating": "",
-    "total_chapters": 24,
-    "genres": [
-      "أكشن",
-      "تناسخ",
-      "خيال",
-      "زراعة",
-      "فنون قتال",
-      "نظام"
     ],
     "status": "مستمر"
   },
@@ -1712,6 +1652,60 @@
       "عسكرية",
       "كوميديا",
       "مغامرة"
+    ],
+    "status": "مستمر"
+  },
+  {
+    "id": "غوامض النبلاء",
+    "title": "غوامض النبلاء",
+    "url": "https://kolnovel.com/series/%d8%ba%d9%88%d8%a7%d9%85%d8%b6-%d8%a7%d9%84%d9%86%d8%a8%d9%84%d8%a7%d8%a1",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2026/09/بدون-اسم151_20260929090619.png",
+    "type": "رواية",
+    "is_novel": true,
+    "rating": "",
+    "total_chapters": 24,
+    "genres": [
+      "أكشن",
+      "خيال",
+      "دراما",
+      "غموض"
+    ],
+    "status": "مستمر"
+  },
+  {
+    "id": "كتاب المئة حياة",
+    "title": "كتاب المئة حياة",
+    "url": "https://kolnovel.com/series/%d9%83%d8%aa%d8%a7%d8%a8-%d8%a7%d9%84%d9%85%d8%a6%d8%a9-%d8%ad%d9%8a%d8%a7%d8%a9",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2026/08/بدون-اسم124_20260822084136.png",
+    "type": "رواية",
+    "is_novel": true,
+    "rating": "",
+    "total_chapters": 24,
+    "genres": [
+      "أكشن",
+      "تناسخ",
+      "خيال",
+      "زراعة",
+      "فنون قتال",
+      "نظام"
+    ],
+    "status": "مستمر"
+  },
+  {
+    "id": "انتفاضة الحُمر",
+    "title": "انتفاضة الحُمر",
+    "url": "https://kolnovel.com/series/%d8%a7%d9%86%d8%aa%d9%81%d8%a7%d8%b6%d8%a9-%d8%a7%d9%84%d8%ad%d9%8f%d9%85%d8%b1",
+    "cover_url": "https://kolnovel.com/wp-content/uploads/2025/12/unnamed-768x983.jpg",
+    "type": "رواية",
+    "is_novel": true,
+    "rating": "",
+    "total_chapters": 24,
+    "genres": [
+      "أكشن",
+      "خيال",
+      "خيال علمي",
+      "مأساوي",
+      "ناضج"
     ],
     "status": "مستمر"
   },

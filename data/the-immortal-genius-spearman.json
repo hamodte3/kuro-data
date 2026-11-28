@@ -8,14 +8,17 @@
   "last_update": "2026-08-01",
   "rating": "8.2",
   "genres": [
-    "تراجع",
     "اكشن",
+    "تراجع",
     "نمو",
     "مغامرات",
     "فنتازيا"
   ],
   "is_novel": false,
   "chapters": {
+    "https://azorafly.com/series/the-immortal-genius-spearman/chapter-38": {
+      "name": "38"
+    },
     "https://azorafly.com/series/the-immortal-genius-spearman/chapter-37": {
       "name": "37"
     },
