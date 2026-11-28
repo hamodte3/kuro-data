@@ -1,22 +1,5 @@
 [
   {
-    "id": "the-marshal-king",
-    "title": "The Marshal King",
-    "url": "https://3asq.online/manga/the-marshal-king",
-    "cover_url": "https://3asq.online/wp-content/uploads/2025/02/Untitled213_20251106171019-175x238.jpg",
-    "type": "مانغا",
-    "rating": "4.3",
-    "total_chapters": 27,
-    "genres": [
-      "100%",
-      "أكشن",
-      "جريمة",
-      "خيال",
-      "شونين"
-    ],
-    "status": "مستمر"
-  },
-  {
     "id": "umineko-no-naku-koro-ni-chiru-episode-8-twilight-of-the-golden-witch",
     "title": "Umineko No Naku Koro ni Chiru Episode 8: Twilight of the Golden Witch",
     "url": "https://3asq.online/manga/umineko-no-naku-koro-ni-chiru-episode-8-twilight-of-the-golden-witch",
@@ -1493,7 +1476,7 @@
     "id": "100-ghost-stories-that-will-lead-to-my-own-death",
     "title": "100 Ghost Stories That Will Lead to My Own Death",
     "url": "https://3asq.online/manga/100-ghost-stories-that-will-lead-to-my-own-death",
-    "cover_url": "https://3asq.online/wp-content/uploads/2026/09/fcc9deaf-e68a-4986-99ea-53ea25ea2ce6.jpg.512.jpg",
+    "cover_url": "https://3asq.online/wp-content/uploads/2026/09/fcc9deaf-e68a-4986-99ea-53ea25ea2ce6.jpg.512-175x238.jpg",
     "type": "مانغا",
     "rating": "",
     "total_chapters": 1,
@@ -1614,7 +1597,7 @@
     "url": "https://3asq.online/manga/baki-rahen",
     "cover_url": "https://3asq.online/wp-content/uploads/2025/07/Baki-Rahen-1-480x691.jpg.webp",
     "type": "مانغا",
-    "rating": "4.4",
+    "rating": "4.5",
     "total_chapters": 73,
     "genres": [
       "أكشن",
@@ -1872,6 +1855,34 @@
       "غموض",
       "فنون قتالية",
       "نينجا"
+    ],
+    "status": "مستمر"
+  },
+  {
+    "id": "nippon-sangoku",
+    "title": "Nippon Sangoku",
+    "url": "https://3asq.online/manga/nippon-sangoku",
+    "cover_url": "https://3asq.online/wp-content/uploads/2026/11/1.jpg",
+    "type": "-",
+    "rating": "",
+    "total_chapters": 0,
+    "genres": [],
+    "status": "مستمر"
+  },
+  {
+    "id": "the-marshal-king",
+    "title": "The Marshal King",
+    "url": "https://3asq.online/manga/the-marshal-king",
+    "cover_url": "https://3asq.online/wp-content/uploads/2025/02/Untitled213_20251106171019-175x238.jpg",
+    "type": "مانغا",
+    "rating": "4.3",
+    "total_chapters": 27,
+    "genres": [
+      "100%",
+      "أكشن",
+      "جريمة",
+      "خيال",
+      "شونين"
     ],
     "status": "مستمر"
   },

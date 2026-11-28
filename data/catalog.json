@@ -1,64 +1,5 @@
 [
   {
-    "id": "in-this-life-i-will-be-the-lord",
-    "title": "In This Life, I Will Be The Lord",
-    "url": "https://azorafly.com/series/in-this-life-i-will-be-the-lord",
-    "cover_url": "https://storage.azorafly.com/public/upload/2026/03/02/95664fc5-40fb-42ea-9e06-43c8539bb26a.webp",
-    "type": "مانهوا",
-    "status": "مستمر",
-    "rating": "9.7",
-    "total_chapters": 243,
-    "genres": [
-      "اسبوعي",
-      "شوجو",
-      "خيال",
-      "رومانسي",
-      "دراما"
-    ]
-  },
-  {
-    "id": "a-bad-example-of-a-perfect-curse",
-    "title": "A Bad Example of a Perfect Curse",
-    "url": "https://azorafly.com/series/a-bad-example-of-a-perfect-curse",
-    "cover_url": "https://storage.azorafly.com/upload/series/featured/oGmL0DQZ16QInTPaeDKwFEK9ryegoy88/2e3a7772-2afc-4b38-81bc-6447c6cc3c89.jpg",
-    "type": "مانهوا",
-    "status": "مستمر",
-    "rating": "5.8",
-    "total_chapters": 49,
-    "genres": [
-      "فانتازيا",
-      "رومانسي",
-      "دراما"
-    ]
-  },
-  {
-    "id": "raised-by-villains",
-    "title": "Raised by Villains",
-    "url": "https://azorafly.com/series/raised-by-villains",
-    "cover_url": "https://storage.azorafly.com/upload/series/featured/oGmL0DQZ16QInTPaeDKwFEK9ryegoy88/efaf9265-a3f8-4858-b28d-04bff8b12080.jpg",
-    "type": "مانهوا",
-    "status": "مستمر",
-    "rating": "7.2",
-    "total_chapters": 166,
-    "genres": [
-      "عائلي",
-      "كوميدي",
-      "شوجو",
-      "رومانسي"
-    ]
-  },
-  {
-    "id": "baby-squirrel-is-good-at-everything",
-    "title": "Baby Squirrel Is Good at Everything",
-    "url": "https://azorafly.com/series/baby-squirrel-is-good-at-everything",
-    "cover_url": "https://storage.azorafly.com/upload/series/featured/oGmL0DQZ16QInTPaeDKwFEK9ryegoy88/08ff07dd-adb0-4d23-83ae-b39406bb2e8b.jpg",
-    "type": "مانهوا",
-    "status": "مستمر",
-    "rating": "9.6",
-    "total_chapters": 155,
-    "genres": []
-  },
-  {
     "id": "the-great-mage-returns-after-4000-year-s",
     "title": "The Great Mage Returns After 4000 Years",
     "url": "https://azorafly.com/series/the-great-mage-returns-after-4000-year-s",
@@ -443,23 +384,6 @@
     "genres": [
       "غموض",
       "رومانسي"
-    ]
-  },
-  {
-    "id": "my-fiance-is-a-former-assassin-prince",
-    "title": "My Fiance Is a Former Assassin Prince",
-    "url": "https://azorafly.com/series/my-fiance-is-a-former-assassin-prince",
-    "cover_url": "https://storage.azorafly.com/upload/series/featured/02408b52-85d5-445d-9e5c-f7dbcd583bf8/d4d39619-dc49-495d-96f3-59f453e82602.jpg",
-    "type": "مانهوا",
-    "status": "مستمر",
-    "rating": "9.7",
-    "total_chapters": 46,
-    "genres": [
-      "تشويق",
-      "رومانسي",
-      "انتقام",
-      "دراما",
-      "فانتازيا"
     ]
   },
   {
@@ -3185,7 +3109,7 @@
     "cover_url": "https://storage.azorafly.com/public/upload/2026/03/17/79fa42f5-66b9-4d5f-b351-f54f134a18de.webp",
     "type": "مانهوا",
     "status": "مستمر",
-    "rating": "10.0",
+    "rating": "9.9",
     "total_chapters": 56,
     "genres": [
       "مانهوا",
@@ -3213,11 +3137,149 @@
     "type": "مانهوا",
     "status": "مستمر",
     "rating": "9.9",
-    "total_chapters": 34,
+    "total_chapters": 35,
     "genres": [
       "رومانسى",
       "دراما"
     ]
+  },
+  {
+    "id": "please-give-me-the-pacifier",
+    "title": "Please Give Me The Pacifier",
+    "url": "https://azorafly.com/series/please-give-me-the-pacifier",
+    "cover_url": "https://storage.azorafly.com/public/upload/series/featured/02408b52-85d5-445d-9e5c-f7dbcd583bf8/633fd5b1-cf03-401c-ae75-db63778a4b02.jpg",
+    "type": "مانهوا",
+    "status": "مستمر",
+    "rating": "10.0",
+    "total_chapters": 148,
+    "genres": [
+      "مانهوا",
+      "إثارة",
+      "سحر",
+      "دراما",
+      "شوجو",
+      "خيال",
+      "رومانسي"
+    ]
+  },
+  {
+    "id": "the-white-tiger-princess-is-not-in-danger",
+    "title": "The White Tiger Princess is Not in Danger",
+    "url": "https://azorafly.com/series/the-white-tiger-princess-is-not-in-danger",
+    "cover_url": "https://storage.azorafly.com/upload/series/featured/02408b52-85d5-445d-9e5c-f7dbcd583bf8/fa070318-f9b0-4b95-a54c-9090e44e6ae7.png",
+    "type": "مانهوا",
+    "status": "مستمر",
+    "rating": "10.0",
+    "total_chapters": 57,
+    "genres": [
+      "فانتازيا",
+      "خيال",
+      "رومانسي"
+    ]
+  },
+  {
+    "id": "vampire-meets-huntress",
+    "title": "Vampire meets huntress",
+    "url": "https://azorafly.com/series/vampire-meets-huntress",
+    "cover_url": "https://storage.azorafly.com/2025/07/1000040001.webp",
+    "type": "مانهوا",
+    "status": "مستمر",
+    "rating": "10.0",
+    "total_chapters": 16,
+    "genres": [
+      "رومانسي"
+    ]
+  },
+  {
+    "id": "my-fiance-is-a-former-assassin-prince",
+    "title": "My Fiance Is a Former Assassin Prince",
+    "url": "https://azorafly.com/series/my-fiance-is-a-former-assassin-prince",
+    "cover_url": "https://storage.azorafly.com/upload/series/featured/02408b52-85d5-445d-9e5c-f7dbcd583bf8/d4d39619-dc49-495d-96f3-59f453e82602.jpg",
+    "type": "مانهوا",
+    "status": "مستمر",
+    "rating": "9.7",
+    "total_chapters": 47,
+    "genres": [
+      "تشويق",
+      "فانتازيا",
+      "دراما",
+      "رومانسي",
+      "انتقام"
+    ]
+  },
+  {
+    "id": "sword-gods-life-is-not-that-boring",
+    "title": "Sword God’s Life Is Not That Boring",
+    "url": "https://azorafly.com/series/sword-gods-life-is-not-that-boring",
+    "cover_url": "https://storage.azorafly.com/upload/series/featured/02408b52-85d5-445d-9e5c-f7dbcd583bf8/7c02a7a5-ad7a-40bf-866e-59d8f5b52584.png",
+    "type": "مانهوا",
+    "status": "مستمر",
+    "rating": "9.2",
+    "total_chapters": 2,
+    "genres": [
+      "حريم",
+      "أكشن",
+      "كوميدي"
+    ]
+  },
+  {
+    "id": "in-this-life-i-will-be-the-lord",
+    "title": "In This Life, I Will Be The Lord",
+    "url": "https://azorafly.com/series/in-this-life-i-will-be-the-lord",
+    "cover_url": "https://storage.azorafly.com/public/upload/2026/03/02/95664fc5-40fb-42ea-9e06-43c8539bb26a.webp",
+    "type": "مانهوا",
+    "status": "مستمر",
+    "rating": "9.7",
+    "total_chapters": 243,
+    "genres": [
+      "اسبوعي",
+      "شوجو",
+      "خيال",
+      "رومانسي",
+      "دراما"
+    ]
+  },
+  {
+    "id": "a-bad-example-of-a-perfect-curse",
+    "title": "A Bad Example of a Perfect Curse",
+    "url": "https://azorafly.com/series/a-bad-example-of-a-perfect-curse",
+    "cover_url": "https://storage.azorafly.com/upload/series/featured/oGmL0DQZ16QInTPaeDKwFEK9ryegoy88/2e3a7772-2afc-4b38-81bc-6447c6cc3c89.jpg",
+    "type": "مانهوا",
+    "status": "مستمر",
+    "rating": "5.8",
+    "total_chapters": 49,
+    "genres": [
+      "فانتازيا",
+      "رومانسي",
+      "دراما"
+    ]
+  },
+  {
+    "id": "raised-by-villains",
+    "title": "Raised by Villains",
+    "url": "https://azorafly.com/series/raised-by-villains",
+    "cover_url": "https://storage.azorafly.com/upload/series/featured/oGmL0DQZ16QInTPaeDKwFEK9ryegoy88/efaf9265-a3f8-4858-b28d-04bff8b12080.jpg",
+    "type": "مانهوا",
+    "status": "مستمر",
+    "rating": "7.2",
+    "total_chapters": 166,
+    "genres": [
+      "عائلي",
+      "كوميدي",
+      "شوجو",
+      "رومانسي"
+    ]
+  },
+  {
+    "id": "baby-squirrel-is-good-at-everything",
+    "title": "Baby Squirrel Is Good at Everything",
+    "url": "https://azorafly.com/series/baby-squirrel-is-good-at-everything",
+    "cover_url": "https://storage.azorafly.com/upload/series/featured/oGmL0DQZ16QInTPaeDKwFEK9ryegoy88/08ff07dd-adb0-4d23-83ae-b39406bb2e8b.jpg",
+    "type": "مانهوا",
+    "status": "مستمر",
+    "rating": "9.6",
+    "total_chapters": 155,
+    "genres": []
   },
   {
     "id": "en-travesti-i-became-a-fake-prince1",
@@ -3234,25 +3296,6 @@
       "شوجو",
       "رومانسي",
       "فانتازيا"
-    ]
-  },
-  {
-    "id": "please-give-me-the-pacifier",
-    "title": "Please Give Me The Pacifier",
-    "url": "https://azorafly.com/series/please-give-me-the-pacifier",
-    "cover_url": "https://storage.azorafly.com/public/upload/series/featured/02408b52-85d5-445d-9e5c-f7dbcd583bf8/633fd5b1-cf03-401c-ae75-db63778a4b02.jpg",
-    "type": "مانهوا",
-    "status": "مستمر",
-    "rating": "10.0",
-    "total_chapters": 147,
-    "genres": [
-      "مانهوا",
-      "سحر",
-      "خيال",
-      "إثارة",
-      "دراما",
-      "شوجو",
-      "رومانسي"
     ]
   },
   {
@@ -7278,21 +7321,6 @@
     "rating": "9.6"
   },
   {
-    "id": "the-white-tiger-princess-is-not-in-danger",
-    "title": "The White Tiger Princess is Not in Danger",
-    "url": "https://azorafly.com/series/the-white-tiger-princess-is-not-in-danger",
-    "cover_url": "https://storage.azorafly.com/upload/series/featured/02408b52-85d5-445d-9e5c-f7dbcd583bf8/fa070318-f9b0-4b95-a54c-9090e44e6ae7.png",
-    "type": "مانهوا",
-    "status": "مستمر",
-    "rating": "10.0",
-    "total_chapters": 56,
-    "genres": [
-      "خيال",
-      "رومانسي",
-      "فانتازيا"
-    ]
-  },
-  {
     "id": "the-villain-of-the-horror-game-dreams-of-the-heroine-every-night1",
     "title": "The Villain Of The Horror Game Dreams Of The Heroine Every Night",
     "url": "https://azorafly.com/series/the-villain-of-the-horror-game-dreams-of-the-heroine-every-night1",
@@ -9077,21 +9105,6 @@
       "الأرواح",
       "خيال",
       "رومانسي"
-    ]
-  },
-  {
-    "id": "sword-gods-life-is-not-that-boring",
-    "title": "Sword God’s Life Is Not That Boring",
-    "url": "https://azorafly.com/series/sword-gods-life-is-not-that-boring",
-    "cover_url": "https://storage.azorafly.com/2021/12/Sword-Gods-Life-Is-Not-That-Boring.jpg",
-    "type": "مانهوا",
-    "status": "مستمر",
-    "rating": "9.0",
-    "total_chapters": 1,
-    "genres": [
-      "حريم",
-      "كوميدي",
-      "أكشن"
     ]
   },
   {
@@ -24328,20 +24341,6 @@
       "أكشن",
       "موسيقي",
       "دراما",
-      "رومانسي"
-    ]
-  },
-  {
-    "id": "vampire-meets-huntress",
-    "title": "Vampire meets huntress",
-    "url": "https://azorafly.com/series/vampire-meets-huntress",
-    "cover_url": "https://storage.azorafly.com/2025/07/1000040001.webp",
-    "type": "مانهوا",
-    "status": "مستمر",
-    "rating": "9.5",
-    "total_chapters": 12,
-    "genres": [
-      "أكشن",
       "رومانسي"
     ]
   },
